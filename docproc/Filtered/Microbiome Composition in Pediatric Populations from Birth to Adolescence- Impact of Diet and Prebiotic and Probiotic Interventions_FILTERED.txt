@@ -1,0 +1,642 @@
+Over the past decade, the essential role that the gut micro-
+biota plays in the developmental programming of the neo-
+nate, including growth trajectories, metabolism, and immune 
+and cognitive development, has been demonstrated [1–3]. 
+Thus, fostering the development of the microbiome in the 
+first 1000 days of life is critical to supporting lifelong health. 
+Due to the rapid changes in the gut microbiome in the early 
+postnatal period, most pediatric microbiome research has 
+focused  on  differences  between  breast-  and  formula-fed 
+infants in the first year of life [4]. Few studies have evaluated 
+the microbiota of toddlers and children, and the prevailing 
+thought is that children attain an adult-like microbiota by 
+3 years of age [5, 6]. However, recent studies suggest that 
+maturation of the gut microbiota is influenced by diet, and 
+differences from an adult-type microbiota persist into later 
+childhood [6, 7]. Therefore, the goal herein was to review 
+the current evidence for the role of dietary intake and pre- 
+and probiotic interventions on the gut microbiota from birth 
+through adolescence.
+Among pediatric populations, gut microbiota composi-
+tion of breastfed (BF) and formula-fed (FF) infants is most 
+extensively studied and has been reviewed elsewhere [3, 
+4]. While heterogeneity exists among demographics, infant 
+age, formula type, and sampling and analytical techniques 
+applied in the published literature, most studies show that 
+both diversity and richness of the microbiome are lower in 
+BF than FF infants [4, 7–10]. Breastfeeding, particularly 
+of longer duration, is associated with a more stable bacte-
+rial composition [4, 8] as well as a lower microbiota age 
+[8, 11]. BF infants tend to have higher Actinobacteria [4] 
+and lower Bacteroidetes and Firmicutes than FF infants [2, 
+6]. Breastfeeding is strongly associated with Bifidobacte-
+rium [4, 7–9, 11] and Bifidobacteriaceae abundance [10]. 
+For example, in the TEDDY (The Environmental Deter-
+minants of Diabetes in the Young) cohort, BF infants had 
+higher relative abundance of B. breve, B. bifidum, and B. 
+dentium than FF; while B. longum was the most dominant 
+species in this study, it did not differ by feeding group [7]. 
+Lactobacillus abundance has also been associated with 
+breastfeeding [9, 11]; however, results vary considerably 
+among published studies [4]. In a recent meta-analysis of 
+seven studies, infants who were not exclusively BF har-
+bored higher relative abundances of Bacteroides, Eubac-
+terium, and Veillonella [8].
+Feeding mode interacts with other perinatal factors to 
+influence the infant gut microbiota. Ho and colleagues 
+reported  that  non-exclusively  BF  infants  have  a  lower 
+abundance of Proteobacteria, but only among those deliv-
+ered via cesarean section (C-section) [8]. However, breast-
+feeding  appears  to  moderate  the  detrimental  effects  of 
+C-section delivery and intrapartum antibiotics on the early 
+microbiota, producing a microbiota profile more similar to 
+that of vaginally delivered infants or those not receiving 
+antibiotics [4]. Geography and ethnicity are also important 
+to take into account. Across five European countries, the 
+effect of country was more pronounced than delivery or 
+feeding method, with dominant bifidobacteria in north-
+ern countries and greater early diversification in southern 
+European countries [12]. Within the USA, Bifidobacterium 
+abundance differed between white and Hispanic BF and FF 
+infants, but not black infants [9].
+Compared to BF infants, the functional capacity of the 
+microbiome of FF infants is more similar to that of adults, 
+consisting  of  genes  related  to  bile  acid  synthesis  and 
+methanogenesis, but considerable variation exists among 
+recent studies [4]. For example, the BF infant microbi-
+ome has an increased abundance of genes associated with 
+Microbiota composition increases in both diversity and rich-
+ness during the transition from a milk-based to an adult-
+like  diet  [4,  9].  Introduction  to  complementary  foods  is 
+accompanied  by  marked  increases  in  Lachnospiraceae, 
+Although studies on gut microbiota composition in children 
+after 2 years of age are more limited, available evidence sug-
+gest that the microbiota of young children differs from that 
+Faso children
+was ~ sixfold higher in Italian than Burkina 
+Firmicutes-to-Bacteroidetes ratio (F/B ratio) 
+in children than adults
+Bacteroidetes were higher 
+(Ruminococcaceae), and 
+Clostridium cluster IV 
+Actinobacteria, Bacilli, 
+microbiota than adults
+Children had less diverse 
+spp., and Bacteroides spp.
+teriaceae, Clostridium 
+and increased Enterobac-
+bacterium, Lactobacillus, 
+Weaning decreased Bifido-
+lifestyle survey
+detailed medical, diet, and 
+Italian parents completed a 
+rules and regulations
+local state and federal 
+requirements defined by 
+adhering to nutritional 
+Children attended daycares 
+taiotaomicron
+increased B. the-
+degradation; 
+sugar and starch 
+for complex 
+enriched in genes 
+12-mo microbiota 
+and Veillonella
+Megasphaera, 
+Collinsella, 
+Lactobacillus, 
+Bifidobacterium, 
+predominate in 
+and number of participants
+Country of study, age range, 
+Table 1  Characteristics of studies investigating dietary effects on microbiome composition in infants and children
+1 3enterotype
+enterotypes, but not Bifidobacterium 
+with Bacteroides and Prevotella 
+plasma insulin levels in children 
+dietary fiber consumption and low 
+sequencing
+by Illumina 
+sequencing 
+shotgun 
+Metagenomic 
+Lachnospiraceae)
+Bifidobacteriaceae, Ruminococcaceae, and 
+BB-type cluster (defined by Bacteroidaceae, 
+Ormoc samples were included in the termed 
+(defined by Prevotellaceae) and 78.9% of the 
+87.5% of Baybay children fell into P-type cluster 
+rium and lower Dorea and Eubacterium
+higher Cyanobacteria and Phascolarctobacte-
+legumes, nuts and seeds) was associated with 
+Roseburia
+lower Bifidobacterium, Prevotella, Blautia, and 
+roidetes, Bacteroides, and Ruminococcus and 
+snacks and sweets) was linked to higher Bacte-
+and sweetened beverages, kid’s meals and 
+refined carbohydrates, vegetables, fruit, juice 
+Dietary Pattern 1 (intake of fish, protein foods, 
+Fruit intake negatively associated with Ruminococcus 
+Soy, pulse, and nut positively associated with Bacteroides 
+and number of participants
+Country of study, age range, 
+Butyrivibrio, and Oscillospira
+Bacteroides and higher Prevotella, 
+changes
+is a major delineator of microbiome 
+Southern Chinese or Malay children) 
+diet), rather than ethnicity (i.e., 
+Geographical-related factors (i.e., 
+with fish and beef
+bacterium spp. negatively associated 
+Lactobacillus and Prevotella; Bifido-
+Vegetables positively correlated with 
+and number of participants
+Country of study, age range, 
+N = 14
+10.1–15.7 y
+USA (Ohio)
+N = 28
+13.3–14.5 y
+(Giza)
+In Australian 2- to 3-year-olds, both habitual diet, as meas-
+ured by a Food Frequency Questionnaire (FFQ), and recent 
+dietary intake, as measured by a 24-h recall 3 days prior to 
+fecal sample collection, influenced fecal microbiota com-
+position [30]. Dairy intake was negatively associated with 
+species richness and diversity and Bacteroidetes abundance, 
+but was positively associated with Erysipelatoclostridium 
+spp. and the Firmicutes-to-Bacteroidetes ratio [F/B ratio]. 
+Vegetable  protein  intake  was  positively  associated  with 
+abundances of the Lachnospira; soy, pulse, and nut intake 
+were positively associated with Bacteroides xylanisolvens, 
+and fruit intake was negatively associated with the relative 
+abundance of microbes related to Ruminococcus gnavus 
+[30]. Dairy and vegetable-source proteins explained 7–10% 
+of the variation in microbiota composition and fruit intake 
+explained 8%. Among the dairy group, yogurt explained 9% 
+of the variance in microbiota [30].
+Moving beyond the first 1000 days of life, Berding and cow-
+orkers [31] investigated the temporal stability of the fecal 
+microbiota and whether dietary patterns were associated 
+with microbial taxa and composition in American 4–8-year-
+olds at 3 time points over a 6-month period. Dietary intakes 
+were assessed over the previous year using the Young Ado-
+lescent Questionnaire, and two dietary patterns were identi-
+fied by principal components analysis (PCA) and factor anal-
+ysis [31]. Temporal stability of microbiota over the 6-month 
+period was associated with baseline dietary patterns. Dietary 
+pattern 1, defined by intake of fish, protein foods, refined 
+carbohydrates, vegetables, fruit, juice and sweetened bev-
+erages, kid’s meals and snacks and sweets, was linked to 
+higher relative abundance of Bacteroidetes,  Bacteroides, 
+and Ruminococcus and lower Bifidobacterium, Prevotella, 
+Blautia, and Roseburia relative abundance. Dietary pat-
+tern 2, defined by intake of grains, dairy and legumes, nuts 
+and seeds, was associated with higher Cyanobacteria and 
+Phascolarctobacterium abundance and lower Dorea and 
+Eubacterium abundance [31]. Additionally, the intake of 
+Residing in rural vs. urban environments can also affect 
+food availability and choices, which has been investigated 
+in a series of studies. A study of Filipino children (7 to 
+9 years) living in rural (Baybay) and urban (Ormoc) com-
+munities showed distinct differences in dietary habits and 
+fecal microbiota composition [32]. Nearly all (94%) of urban 
+children consumed fast food four times per week on average 
+compared to 42% of rural children who consumed fast food 
+less than once per week. Urban-dwelling children also con-
+sumed a diet higher in meat, fat, and confectionaries, such 
+as sweetened pastries and biscuits, and lower in complex 
+carbohydrates compared to rural children. Using family-level 
+bacterial composition to execute PCA and clustering analy-
+sis in conjunction with a dataset from five other Asian coun-
+tries, it was observed that 87.5% of rural children fell into 
+the termed P-type cluster [defined by Prevotellaceae] and 
+78.9% of the urban samples were included in the termed BB-
+type cluster (defined by Bacteroidaceae, Bifidobacteriaceae, 
+Ruminococcaceae,  and Lachnospiraceae).  Additionally, 
+Prevotellaceae, including only the genus Prevotella and 
+consisting of mostly Prevotella copri, were more abundant 
+in the feces of rural children, making up 10% of the total 
+community, whereas it represented < 1% of the fecal micro-
+bial sequences in most urban children. These findings may 
+reflect the higher consumption of complex carbohydrates in 
+rural children. [32].
+Greater Bifidobacterium abundance in 1- to 4-year-olds 
+compared to adults has been reported [28], and recent stud-
+ies have shown that the relative abundance of Bifidobac-
+terium in older children is related to dietary intake and is 
+associated  with  metabolic  phenotypes.  Studying  Dutch 
+children in the KOALA Birth Cohort Study, Zhong and col-
+leagues documented higher levels of Bifidobacterium at 6 
+to 9 years of age compared to adults [34]. They also classi-
+fied children into three enterotypes and observed that cor-
+relations between dietary and metabolic phenotypes were 
+dependent on fecal microbial enterotype. For example, a 
+negative correlation between dietary fiber intake and plasma 
+insulin was only reported in children with Bacteroides and 
+Prevotella enterotypes, but not the Bifidobacterium entero-
+type [34]. This latter microbiome possesses lower microbial 
+gene richness, alpha diversity, and functional potential for 
+butyrate and succinate production, suggesting that children 
+exhibiting a Bifidobacterium enterotype have a less mature 
+gut microbiome [34]. Additionally, a study of 8- to 11-year-
+olds in Thailand living in two different geographical regions 
+observed that frequency of vegetable intake was positively 
+correlated with Lactobacillus and Prevotella, while Bifido-
+bacterium spp. was negatively correlated with fish and beef 
+intake [35].
+Parallel to these findings, comparing Bangladeshi and 
+American  children  (9–14  years),  Bangladeshi  children 
+exhibited lower levels of Bacteroides and higher levels of 
+Prevotella,  Butyrivibrio,  and Oscillospira,  indicative  of 
+their consumption of a non-Western diet low in refined-
+sugar enriched foods and meat and rich in rice, bread, and 
+lentils [37]. Furthermore, the American children consuming 
+Western diets had higher Bacteroides abundance than chil-
+dren in Bangladesh [37]. A Bacteroides enterotype is more 
+common in adults consuming a Western diet, whereas the 
+Prevotella enterotype is more common in those consuming 
+high amounts of fiber [39].
+Lastly,  a  study  comparing  Egyptian  teenagers  (mean 
+13.9 years) consuming a Mediterranean-style diet to Ameri-
+can teenagers (mean 12.9 years) consuming a Western diet, 
+found that Egyptian children clustered to the Prevotella ente-
+rotype and American children clustered to the Bacteroides 
+enterotype [38]. Furthermore, the gastrointestinal environ-
+ment of Egyptian children contained higher levels of SCFAs, 
+microbial polysaccharide degradation-encoding genes, and 
+polysaccharide-degrading genera [38].
+Taken  together,  these  findings  provide  evidence  that 
+the microbiome in children and adolescents is shaped to a 
+greater degree by dietary intake [32–38] than by ethnicity 
+[36]. While it is has been postulated that the microbiota after 
+age 3 resembles that of adults [5], emerging evidence sug-
+gest that, while the microbiota of children can be assembled 
+into enterotypes [34, 37, 38], differences persist between 
+children  and  adults.  Additionally,  children  may  also  be 
+more similar to each other than adults are. For example, 
+in  pre-adolescent  children  (ages  7–12)  intragroup  simi-
+larity in the fecal microbiota was greater in children than 
+adults [40]. Adults also displayed greater abundances of 
+Bacteroides spp., while children displayed enhanced Bifi-
+dobacterium spp., Faecalibacterium spp., and members of 
+Lachnospiraceae [40]. However, the current literature on 
+the impact of diet in this age group has some noted limita-
+tions. Nearly all studies are cross-sectional, they use differ-
+ent types of questionnaires to collect dietary intake data, and 
+many of the studies have compared children living in rural 
+vs. urban settings. While dietary intake differs between rural 
+and urban communities, many other environmental factors 
+are also likely contributing, including socioeconomic status, 
+exposure to agricultural species and routine medical care, 
+which could also be influencing the gut microbiota.
+A consistent finding of the observational studies summa-
+rized above is that consumption of a Western-style diet, 
+characterized by low ratio of whole grains-to-refined carbo-
+hydrates, detrimentally influences microbiome composition 
+and fecal SCFA concentrations in children [30–37]. Dietary 
+fiber (DF) has documented health benefits for adults, includ-
+ing reducing intestinal transit time, plasma cholesterol and 
+postprandial glycemic response and improving resistance 
+to pathogens and epithelial barrier function [41–43]. The 
+underlying mechanisms of these beneficial effects are not 
+fully known; however, gut microbiome modulation and for-
+mation of SCFAs by bacterial fermentation are proposed 
+[43]. DF is also thought to be beneficial for gut health of 
+children [44], although more studies are needed. In the USA, 
+the recommended dietary fiber intake is 14 g/1000 kcal or 
+25 g for females and 38 g for males. Most Americans only 
+consume about half of the recommended intake (13.5 and 
+18 g, respectively) [41]. The fiber intake recommendations 
+for children between the ages of 1 and 13 years, range from 
+5 to 31 g/day, depending on the organization, however, in 
+most cases children are not meeting the recommended fiber 
+intakes [44]. Thus, various strategies have been developed 
+for modulation of gut microbiota, including administration 
+of DFs, pre- or/and probiotics.
+Two HMOs, 2′-fucosyllactose (2′-FL) and lacto-N-ne-
+oteraose (LNnT), are added to infant formula. Both are well 
+tolerated  and  support  age-appropriate  growth  of  infants 
+[49–51]. A multicenter, randomized, double-blind trial com-
+pared the fecal microbiota of healthy infants fed formula 
+with 2′-FL and LNnT from < 14 days to 6 months of age 
+to infants consuming with control formula. Findings dem-
+onstrated a fecal microbiota closer to that of BF infants in 
+the infants fed formula with HMO, with higher numbers of 
+Bifidobacterium and lower potential pathogens than placebo 
+at 3 months of age [51].
+Only a few studies have studied DFs and prebiotics on the 
+gut microbiota in healthy 3–6-year-old children [52] and 
+adolescents (8–15 years) [53–56] (Table 2). As prebiotic 
+fibers, both GOS and inulin-type fructans have been shown 
+to increase abundance of Bifidobacterium [52–54]. Several 
+studies have demonstrated that the intake of DFs shape the 
+gut microbes of children; however, their effects on micro-
+biota  composition  depend  on  the  type  of  fiber  studied. 
+For example, administration of wheat bran extract (5 g/d 
+for 3 weeks) increased fecal Bifidobacterium [53], while 
+consumption of soluble corn fiber (SCF; 10 or 20 g/d for 
+4 weeks) modulated the overall microbiota, increased the 
+alpha diversity and altered the relative abundances of some 
+bacterial genera, including Parabacteroides and unclassi-
+fied Lachnospiraceae [54]. This same group also showed 
+that GOS [55] and SCF [56] increased calcium absorption 
+in adolescent girls and boys, demonstrating a health benefit 
+for this age population. The authors proposed that bacte-
+rial fermentation of SCF to SCFAs reduced the luminal pH, 
+which increased calcium solubility and transcellular absorp-
+tion [54]. Calcium absorption was negatively correlated with 
+Parabacteroides relative abundance, but positively corre-
+lated with Clostridium and unclassified Clostridiaceae abun-
+dance [54]. The authors speculated that the two groups of 
+bacteria were cross-feeding, with the Bacteroidetes (Para-
+bacteroides) fermenting SCF to acetate or lactate, and the 
+Firmicutes (Clostridium) further fermenting these substrates 
+to butyrate [54]. The limited studies suggest that prebiotic 
+and DF doses of 5–20 g are well tolerated in children, pro-
+mote the expansion of bifidobacterial populations, and may 
+exert other health benefits. Further large-scale studies are 
+needed with different fiber sources.
+Probiotics are “live microorganisms that, when administered 
+in adequate amounts, confer a health benefit on the host” 
+[57]. The most commonly administered probiotic bacteria 
+belong to the genera Bifidobacterium and Lactobacillus, 
+but can be provided either as single or mixtures of strains. 
+The beneficial effects of probiotics in pediatric populations 
+have  been  previously  reviewed  [58–61],  although  most 
+studies have not been conducted in healthy children. Pro-
+biotics shorten the duration of acute gastroenteritis, prevent 
+antibiotic-associated diarrhea, reduce the risk of necrotiz-
+ing enterocolitis in preterm infants and lower the incidence 
+of eczema in high-risk children [58–61]. The mechanisms 
+of action of probiotics are not fully understood; however, 
+modulation of gut microbiota has been postulated as one of 
+the mechanisms [62].
+Two general probiotic approaches have been taken to 
+influence the infant or child microbiota. The first approach 
+is to administer the probiotic to the mother during pregnancy 
+↑indicates significantly increased, ↓ indicates significantly decreased, ↔ indicates no effect
+DGGE denaturing gradient gel electrophoresis, GOS galactooligosaccharides, OTU operational taxonomic unit, qPCR quantitative PCR, SCF soluble corn fiber, SCFA short-chain fatty acids, 
+Fecal pH: SCF 20 g < control, SCF 
+Bacteroides and Lachnospira
+unclassified Lachnospiraceae, ↓ 
+SCF 20 g ↑Parabacteroides and 
+reclassified Ruminococcus
+unclassified Lachnospiraceae, ↓ 
+SCF 10 g ↑Parabacteroides and 
+samples with and without SCF
+Overall microbiota differed between 
+V3–V5 16S 
+treatment
+end of each 
+Baseline and the 
+DGGE, qPCR
+treatment
+end of each 
+Baseline and the 
+↓ Enterococcus, Anaerofustis, Coprococcus, and other 
+↔ fecal pH, each SCFA levels, percentage of moisture 
+groups, and F. prausnitzii
+histolyticum/C. liteseburense, R. rectale/E. rectela 
+↔ numbers of total bacteria, relative abundances of C. 
+Placebo (n = 109)
+Prebiotic (n = 110)
+controlled trial
+vention
+duration of inter-
+age range, and 
+Country of study, 
+Study design and participants/groupNutrition base and fiber type and 
+Table 2  Characteristics of studies investigating effects of dietary fibers and prebiotics on the fecal microbiota of healthy children and adolescents
+and  then  to  either  the  mother  and/or  infant  postpartum 
+[63–70] (Table 3), and the second is to administer the pro-
+biotic directly to the infant or child [71–84] (Table 4). For 
+the first approach, most studies gave probiotics to the moth-
+ers of infants with high-risk of allergy, with the goal of 
+prevention of allergic disease, such as eczema, asthma and 
+allergic rhinitis [63–65, 69, 70]. The impact of maternal pro-
+biotic supplementation on the abundances of bacterial taxa 
+were studied [63–70]; however, the results are inconsistent, 
+even when the same probiotic strain was used [63, 64, 69] 
+(Table 3). For example, supplementation of pregnant and 
+lactating women with L. rhamnosus GG (LGG), L. acidophi-
+lus La-5 and B. animalis subsp. lactis BB-12 from 36-week 
+gestation until 3 months postnatal during breastfeeding did 
+not affect the proportions of bacteria classes and genera of 
+the infants at 3 months and 2 years [67]. In contrast, a Finish 
+study evaluated the effect of administration of L. rhamnosus 
+LPR and B. longum BL999 to mothers 2 months before and 
+2 months after delivery. They observed that infants whose 
+mother received probiotics had lower counts of Bifidobacte-
+rium and a higher percentage of Lactobacillus/Enterococcus 
+than placebo at 6 months of age [68]. In addition, several 
+groups investigated the diversity of infant microbiota, report-
+ing that administration of probiotics during pregnancy and 
+lactation, or directly to infants after delivery have no or lim-
+ited effects on alpha and beta diversity of infant microbiota 
+[65, 67, 70] (Table 3).
+Probiotics have been administrated directly to infants and 
+children [71–84] (Table 4). These studies varied in terms of 
+age of the children (newborns to age 18), type of probiotic, 
+dose administered, and duration of the intervention. Despite 
+these differences in study design, no effects of probiotic 
+administration were observed on microbiome alpha or beta 
+diversity between children in probiotic and control groups, 
+with the exception of one study [73]. In that study, formula 
+or L. reuteri DSM 17938-supplemented formula was fed for 
+6 months to newborns born by either vaginal or C-section 
+delivery [73]. The L. reuteri-supplemented formula had a 
+limited effect on the microbiota of vaginally born infants; 
+however, the overall microbiota composition of C-section-
+delivered infants consuming the probiotic-supplemented 
+formula differed from that of placebo and was similar to 
+vaginally delivered infants at 2 weeks of age [73].
+Similar to the findings when probiotics were adminis-
+tered  to  the  mother,  inconsistent  results  were  observed 
+on the abundances of bacterial taxa when probiotics were 
+supplemented  directly  to  the  children;  some  probiotics 
+affected the proportions of individual bacterial taxa, while 
+others did not (Table 4). These conflicting results may be 
+related to differences in probiotic strain/strains used, the 
+dose use, duration of administration, and the methods used 
+for microbiota analysis. Furthermore, factors that influence 
+the development of gut microbiota, such as delivery mode, 
+children’s age, and diet, likely confound the effects of pro-
+biotic supplementation in this population [73].
+year, ↑indicates significantly increased, ↓ indicates significantly decreased, ↔ indicates no effect
+interspace profiling, mo month, qPCR quantitative PCR, T-RFLP terminal restriction fragment length polymorphism, RT-qPCR reverse transcription quantitative PCR, VD vaginally delivered, y 
+BB-12 Bifidobacterium animalis subsp. lactis BB-12, CFU colony-forming unit, CS cesarean section, d day, FISH fluorescent in situ hybridization, LGG Lactobacillus rhamnosus GG, IS-pro 
+9 × 109 CFU/strain/d
+B. animalis subsp. lactis HN019
+L. rhamnosus HN001
+Powder in capsules
+ing); infants 5 d–2 y
+6 mo postpartum if breastfeed-
+Mothers at 35-wk gestation until 
+↑ count of C. perfringens/histolyticum subgroup at 
+↑ counts of Lactobacillus and C. perfringens/histolyticum 
+↓ Colonization rate of B. longum in ST11 + BL999
+↓ Colonization rate of B. infantis in LPR + BL999
+Bifidobacterium in LPR + BL999 at 6 mo of age
+↑ Percentage of Lactobacillus/Enterococcus and ↓count of 
+L. paracasei ST11 + B. longum BL999 
+L. rhamnosus LPR + B. longum BL999 or
+Powder in water
+(5 × 109 CFU/d)
+lus La-5 (5 × 1010 CFU/d) + BB-12 
+LGG (5 × 1010 CFU/d) + L. acidophi-
+Fermented milk
+1 × 109 CFU/strain/d
+B. breve M16V + B. longum BB536
+Powder in water, milk or formula
+1 × 109 CFU/strain/d
+B. bifidum W23 + B. lactis W52 + L. 
+Powder in water, milk or formula
+placebo-controlled trial
+Randomized, double-blind 
+Placebo (n = 22)
+ST11 + BL999 (n = 28)
+LPR + BL999 (n = 28)
+placebo-controlled trial
+Randomized, double-blind 
+Control (n = 26)
+Probiotic (n = 122)
+Open trial
+Placebo (n = 17–45)
+Probiotic (n = 20–37)
+placebo-controlled trial
+Randomized, double-blind 
+Placebo (n = 82)
+Probiotic (n = 77)
+placebo-controlled trial
+Randomized, double-blind 
+Placebo (n = 57)
+Probiotic (n = 59)
+↔ alpha and beta diversity and proportions of bacterial 
+lower at 2 wk
+diversity for Bacteroidetes and Proteobacteria were 
+↔ bacterial abundances and diversity, except Shannon 
+↑ prevalence of species belonging to B. longum group at 
+Table 3  Characteristics of studies investigating probiotic administration during pregnancy and after delivery on infant fecal microbiota
+1 3Ion OneTouch and Ion PGM
+V3 region of 16S rRNA gene by 
+Before and postintervention
+1 × 107 CFU/g
+L. fermentum CECT5716
+Formula + 0.3 g/100 ml GOS
+placebo-controlled trial
+Randomized, double-blind 
+BF (n = 46)
+Control (n = 61)
+FOS (n = 44)
+Probiotic (n = 48)
+placebo-controlled trial
+Randomized, double-blind 
+Control (n = 46)
+Probiotic (n = 46)
+placebo-controlled trial
+Randomized, double-blind 
+Control (n = 129)
+Probiotic (n = 135)
+CLr (n = 11)
+VLr (n = 9)
+CCt) (n = 10)
+V-Control (VCt) (n = 10)
+and C. histolyticum
+Enterococcus, C. perfringens, 
+Enterobacteria, Bacteroides, 
+↔ counts of Bifidobacterium, 
+3 y of age
+group and B. fragilis group at 
+Bifidobacterium, C. coccoides 
+↔ fecal counts of Lactobacillus, 
+VLr at 2 wk
+abundance: CCt < CLr, VCt, 
+Bifidobacterium occurrence and 
+C. butyricum
+coccoides, C. lituseburense and 
+Bifidobacterium, groups of C. 
+Lactobacillus/Enterococcus, 
+quency and counts of 
+Vaginal (V) or C-section (C) 
+placebo-controlled trial
+Randomized, double-blind 
+over the first y
+related to B. fragilis and Blautia 
+1.0 × 107 CFU/d
+LGG
+Formula
+(2.5 × 106 CFU/strain/g)
+BT1 + B. longum BGT
+BR3 + B. longum subsp. infantis 
+placebo-controlled trial
+Randomized, double-blind 
+EBF (n = 9)
+Control (n = 11)
+Probiotic (n = 11)
+Table 4  Characteristics of studies investigating probiotic administration on the fecal microbiota of healthy children under 18 years of age
+qPCR reverse transcription quantitative PCR, V vaginal delivery, wk week, ↑indicates significantly increased, ↓ indicates significantly decreased, ↔ indicates no effect
+in situ hybridization, FOS fructooligosaccharides, LGG Lactobacillus rhamnosus GG, IS-Pro interspace profiling, mo month, OTU operational taxonomic unit, qPCR quantitative PCR, RT-
+BB-12 Bifidobacterium animalis subsp. lactis BB-12, BF breastfed, CFU colony-forming unit, C cesarean section, Ct control, d day, EBF exclusive breastfed, FF formula-fed, FISH fluorescent 
+Control (n = 12)
+Probiotic (n = 6)
+Observational trial
+6 mo of intervention
+and Staphylococcus after 3 and 
+of intervention
+Lactobacillus after 3 and 6 mo 
+↑counts of Bifidobacterium and 
+↓ E. cylindroides, C. ramosum, 
+aninogenica, and P. oralis
+uncultured Mollicutes, P. mel-
+coccus, L. gasseri, R. lactaris, 
+group, but not in placebo
+between 0 and 10 mo in BB536 
+10 d
+coccus and Garnulicatella after 
+linsella, Turicibacter, Entero-
+Sutterella, ↓ Allobaculum, Col-
+↑ proportions of Prevotella and 
+4 × 1010 CFU/d
+L. casei Shirota
+4 × 108 CFU/d
+LGG
+Oily suspension
+placebo-controlled trial
+Randomized, double-blind 
+Control (n = 61)
+Probiotic (n = 55)
+5 × 109 CFU/d, 5 d/wk
+B. longum BB536
+Freeze-dried powder
+Illumina Genome Analyzer II
+V4 region of 16S rRNA gene by 
+1 wk after the intervention
+Before, during (1, 3, 4 wk) and 
+•  The gut microbiota in infancy and childhood is more 
+•  The microbiome of BF infants is nurtured by human milk 
+components, including HMO, and differs from that of FF 
+infants.
+•  The addition of HMO and prebiotics to infant formula at 
+concentrations found in human milk promotes the growth 
+of bifidobacteria and narrows the differences between BF 
+and FF infants.
+•  Prebiotics  and  dietary  fiber  at  doses  of  5–20  g/day 
+modify the gut microbiome of children, increase SCFA 
+production, and may exert other health benefits, includ-
+ing increasing calcium absorption.
+•  Findings on probiotic administration to pregnant or 
+lactating women or directly to the infant or child are 
+inconsistent, likely due to the variation in the bacterial 
+strains, doses, duration and methods of microbiome 
+analysis.
+•  Better understanding of diet–microbiome–host interac-
+tions is needed, but represents an enormous opportunity 
+to refine dietary interventions with the goal of supporting 
+a healthy microbiome and human well-being.
+Funding  This work was supported in part by NIH R01 DK107561 
+[SMD].
+Conflict of interest  The authors declare that they have no conflict of 
+interest.

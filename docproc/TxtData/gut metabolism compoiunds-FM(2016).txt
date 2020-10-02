@@ -1,0 +1,3120 @@
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+diseases may develop (Putignani et al., 2015), such as allergy,
+inﬂammatory bowel disease
+and
+diabetes, metabolic disorders, cardiovascular dyslipidemia,
+and neuropathology (Holmes et al., 2011).
+
+(IBD), obesity,
+
+cancer
+
+The advent of the omics-based systems biology era has opened
+a new scenario in the comprehension of the gut ecosystem
+by shedding light on its shape, modulation and interplay with
+microorganisms, food functionality, and the role of nutrients in
+health (Moco et al., 2013; Putignani et al., 2015).
+
+(i)
+The “omics” technologies are presently applied to:
+determine speciﬁc disease markers and novel diagnostic targets;
+(ii) discover functional alterations in the physiopathology of
+several diseases; (iii) discover the relationship between the gut
+microbiota and the host metabolisms (De Preter and Verbeke,
+2013). In particular, the use of metabolomics, being a well-
+established and powerful top–down systems biology approach,
+is crucial to unravel the genetics–environment–health relation,
+as well as the typical clinical biomarkers of the diﬀerent diseases
+(Moco et al., 2013). In fact, metabolomics changed the concept
+that the cellular metabolism proﬁle is complete (Dettmer et al.,
+2007). Therefore, metabolomics is useful to elucidate the complex
+interactions of components, to understand the whole system, and
+to discover new metabolites in order to provide both a diﬀerent
+perspective on cellular homeostasis (Liu et al., 2010), and new,
+unexpected pathways which may have a key physiological role
+(Zamboni et al., 2015). The metabolomics experiment (sampling,
+sample preparation, instrumental analysis, data processing, and
+data interpretation) fulﬁll the goal of improving the current
+status of biological information associated to the metabolome
+and, more generally, to functional genomics (Harrigan and
+Goodacre, 2003). Nowadays, metabolomics is used to: (i) identify
+biomarkers that could indicate the presence of a diseases, or
+a response to drug intervention (Dunn and Ellis, 2005); (ii)
+determine biochemical or environmental stresses (Le Gall et al.,
+2003); (iii) characterize microbial metabolism (Vaidyanathan
+et al., 2002); and (iv) characterize human health or disease
+(Holmes et al., 2011).
+
+Indeed, the metabolomics approach has been applied to
+several studies on the gut microbiota, mostly focused on the
+exploration of disease-related metabolites in order to obtain
+detailed information on the gut metabolic pathways. In fact,
+the gut microbiota is involved in several biochemical functions
+directly associated to the perturbation of speciﬁc gut microbial
+populations, which may lead to the development of diseases
+(De Preter, 2015; De Preter et al., 2015). In other words, as the
+gut microbiota interacts with the host metabolism and aﬀects
+physiological or pathological conditions, (Figure 1; Table 1;
+Del Chierico et al., 2012) the study of its composition helps
+discriminate between unhealthy and healthy subjects.
+
+Moreover, the identiﬁcation of metabolites may highlight
+how lifestyle and dietary habits aﬀect speciﬁc disease conditions
+(Vernocchi et al., 2012).
+
+Finally, metabolomics represents an unprecedented approach
+to collect the complex metabolic interactions between the host
+and its commensal microbial partners, oﬀering the opportunity
+to deﬁne individual and population phenotypes (Moco et al.,
+2013). In fact, several cellular metabolites are associated with
+
+the phenotypes of living organisms (i.e., human, mice, bacteria),
+and they represent the substrates and products of diﬀerent
+biochemical pathways reﬂecting genetic and environmental
+factors (Kim et al., 2016).
+
+Furthermore, these data will serve as a basis to comprehend,
+at the cellular and molecular levels, the relationships between
+nutritional status and disease risk predisposition, thus allowing
+to formulate nutritional recommendations.
+
+This review is focused on the application of MS- and NMR-
+based metabolomic techniques to describe the gut microbiota
+metabolome and human physiology in relation to nutritional
+programs and therapies.
+
+VOLATILE AND NON-VOLATILE
+COMPOUNDS: DETECTION METHODS
+AND DATA ANALYSIS
+
+Metabolomics uses high throughput techniques to characterize
+and quantify small molecules in several bioﬂuids (urine, serum,
+plasma, feces, saliva), revealing a unique metabolic signature
+(Nicholson and Lindon, 2008).
+
+However, due to the chemical diversity,
+
+the diﬀerent
+properties of metabolites, and the large dynamic range of
+metabolite concentrations in samples, it is almost impossible to
+measure the complete metabolome with only one technique (De
+Preter and Verbeke, 2013; Smirnov et al., 2016). Considering
+that the amount of predictable metabolites and derivatives in
+mammals, plants and bacteria is unknown (Weckwerth and
+Morgenthal, 2005), there is the need of diﬀerent analytical
+platforms and complex integrated computational pipelines,
+to cover
+adjusted by analytical and chemical parameters,
+complete metabolome pathways
+in the diﬀerent bioﬂuids
+(Savorani et al., 2013). Moreover, the collection and preparation
+of samples, and the selection of the appropriate analytical
+platforms are fundamental requisites for reproducibility of
+sample manipulation (Dunn and Ellis, 2005). Besides,
+the
+storage and the continuous sample freeze/thawing may alter the
+composition and stability of the samples and consequently the
+precision and accuracy of results (Roessner et al., 2000).
+
+Finally,
+
+the fundamental requirements of metabolomics
+studies are: accurate study design; sample treatment and platform
+set up, corroborated by data analysis; integration of results; and
+biological interpretation (Smirnov et al., 2016).
+
+Metabolomics can be divided into two diﬀerent groups:
+targeted analysis and non-targeted discovery analysis (Dettmer
+et al., 2007). In particular, the targeted approach is related
+to the analysis of
+the diﬀerent classes of molecules (i.e.,
+carbohydrates, lipids, aminoacids), while non-targeted analysis
+gives a rapid snapshot of the metabolic proﬁle of samples by
+using technologies able to detect a wide number of metabolites
+(Smirnov et al., 2016).
+
+Detection Methods
+At present, we are able to separate, detect, characterize,
+and quantify metabolites
+relevant metabolic
+pathways thanks to the rapid development of a range of
+
+and their
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+FIGURE 1 | Effect of gut microbiota metabolome on organs and tissues.
+
+TABLE 1 | Role of gut microbiota metabolites on health and disease.
+
+Beneﬁcial microbial activities
+
+Beneﬁts
+
+References
+
+Drawbacks
+
+References
+
+SCFAs and vitamin production,
+recovery of energy
+
+Nutrients and energy
+providing
+
+Putignani et al.,
+2015
+
+Lipopolysaccharide
+supply, inﬂammation
+
+Obesity and metabolic
+syndrome
+
+Krajmalnik-Brown
+et al., 2012
+
+Cancer prevention
+
+Louis et al., 2014
+
+Cancer promotion
+
+Louis et al., 2014
+
+Butyrate production, fermentation
+of non-digestible ﬁbers
+
+Antimicrobials production(e.g.,
+bacteriocins, H2O2, acids etc.),
+intestinal pH regulation,
+competition for ecological niche
+
+Inhibition of pathogens
+
+Kamada et al.,
+2013
+
+Anti-inﬂammatory vs.
+pro-inﬂammatory signals
+development
+
+Normal
+gastrointestinal
+immune function
+
+Belkaid and Hand,
+2014
+
+Harmful microbial
+activities
+
+Toxins production,
+inﬂammation
+
+Tissue invasion,
+inﬂammation,
+disruption of the gut
+barrier/homeostasis
+
+Pro-inﬂammatory vs.
+anti-inﬂammatory
+signals development
+
+Infectious diseases, leaky
+gut
+
+Kamada et al., 2013;
+Michielan and D’Incà,
+2015
+
+IBD, immune disorders
+
+Putignani et al., 2015
+
+Non-digestible carbohydrates
+metabolism
+
+Propionate production
+
+Normal gut motility
+
+Flint et al., 2012
+
+Metabolism imbalance
+
+Putignani et al., 2015
+
+IBS, metabolic disease
+aggravation
+
+Gluconeogenesis,
+cholesterol synthesis
+inhibition
+
+De Vadder et al.,
+2014
+
+Acetate production
+
+Cholesterol synthesis,
+cardiovascular diseases
+
+Krajmalnik-Brown
+et al., 2012
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+including gas chromatography (GC),
+analytical platforms,
+liquid chromatography (LC), high pressure LC (HPLC), ultra
+pressure LC (UPLC), Fourier transform infrared spectroscopy
+(FTIR),
+capillary
+electrophoresis (CE) coupled to mass spectrometry (MS), and
+nuclear and proton nuclear magnetic resonance spectroscopy
+(NMR-1H-NMR) (Zheng et al., 2011; Vernocchi et al., 2012).
+
+resonance-FT (ICR-FT),
+
+ion cyclotrone
+
+MS-based metabolomics allows targeted and untargeted
+metabolome analysis and it has become an indispensable tool
+in metabolome analysis (Milne et al., 2013); moreover, MS
+has a broader dynamic range, exhibits a high sensitivity and
+selectivity (Zhao and Hartung, 2015), and allows determining
+metabolite ﬁngerprints for establishing metabolome libraries,
+which facilitate the identiﬁcation of metabolites (Martins-de-
+Souza, 2014).
+
+Gas Chromatography Mass Spectrometry
+GC-MS is a combined system, with which thermally stable
+and volatile compounds are separated by GC and then
+eluting metabolites are detected by electron-impact (EI) mass
+spectrometers. GC-MS is considered as the gold standard in
+metabolomics (Harrigan and Goodacre, 2003). Even if GC has
+several advantages, such as high eﬃciency, reproducibility and
+sensitivity, it shows also some drawbacks. In fact, it can only be
+performed for volatile compounds, or those that can be made
+volatile, or made stable by derivatization (Roessner et al., 2000;
+Vernocchi et al., 2012).
+
+are
+
+organic
+
+Volatile
+
+(VOCs)
+
+compounds
+
+important
+components of the metabolome (i.e., alcohols, esters, aldehydes,
+ketones, SCFAs) and are found in biological samples (Mills
+and Walker, 2001). The sample preparation methods consist
+of liquid or solid phase extraction (SPE) (Dettmer et al., 2007).
+Another rapid and solvent-free sample preparation technique is
+headspace-solid phase microextraction (HS-SPME) (Pawliszyn,
+1997), for which the diﬀerent types of stationary phases (polar
+and non-polar) used as ﬁber coatings are commercially available.
+On the other side, to stabilize the metabolites, two stages
+of derivatization with diﬀerent kinds of reagents need to be
+performed (Roessner et al., 2000). During these processes,
+small aliquots of samples are analyzed by split or splitless
+mode on GC columns of various polarities, thus obtaining
+high chromatographic compound resolution and sensitivity,
+even if the resulted chromatograms are complex (i.e., multiple
+derivatization products), contain many metabolite peaks, and
+need a long run time (longer than 60 min) (Roessner et al., 2000).
+Therefore, coupling GC with time-of-ﬂight (TOF)-MS, which
+has high scan rates and produces accurate peak deconvolution of
+complex samples in faster times, allows improving conventional
+GC–MS techniques in the analysis of ultra-complex samples
+(Dunn and Ellis, 2005; Dettmer et al., 2007).
+
+Finally, metabolite quantiﬁcation is obtained by external
+calibration or response ratio (peak area of metabolite/peak area
+of internal standard), while metabolite identiﬁcation is obtained
+by matching retention time and mass spectrum of the sample
+peak with a pure compound previously analyzed, under identical
+instrumental conditions, with the same or diﬀerent instruments
+
+(Fiehn et al., 2000), or by matching the metabolite against
+commercial databases (i.e., NIST, WILEY, EPA, NIH).
+
+GC-MS can be used in several ﬁelds,
+
+such as plant
+metabolomics, as reported by Stashenko et al. (2004), who used
+SPME-GC-MS for sampling the volatile plant metabolites, or
+for example, by Akhatou et al. (2016), who combined GC-
+MS with multivariate statistical techniques to characterize the
+primary metabolome of diﬀerent strawberry cultivars, and to
+study the inﬂuence of multiple agronomic conditions. Moreover,
+as reported by Currie et al. (2016), GC-MS has proved useful
+in microbial metabolomics related to pharmaceutical studies
+to analyze the endogenous metabolite levels produced by
+Pseudomonas putida in response to six pharmaceuticals; or in
+food studies, when used to characterize the microbial metabolite
+production in: cheese (Vannini et al., 2008; Pisano et al., 2016),
+probiotic food (Patrignani et al., 2009; Tabanelli et al., 2015b),
+sourdough (Guerzoni et al., 2007), wine (Vernocchi et al., 2011;
+Patrignani et al., 2016), sausages (Tabanelli et al., 2015a), and
+ready to eat products (Siroli et al., 2015). Moreover, GC-MS
+is used in clinical applications, for example to analyze volatile
+compounds (SPME-GC-MS) in urine, blood, feces, hair, breath
+and saliva (Mills and Walker, 2001), or to evaluate biomarkers
+in several diseases, such as asthma (Gahleitner et al., 2013;
+Chang et al., 2015), schizophrenia (Liu et al., 2010), depressive
+disorders (Ding et al., 2014), ulcerative colitis (Kohashi et al.,
+2014), and neonatal sepsis (Fanos et al., 2014). In the last
+years, GC-MS has become one of the most used techniques to
+study the modulation of gut microbiota as a result of nutrition
+(i.e., diet, nutraceutical food consumption), diseases, drug, and
+probiotic administration. Garner et al. (2007) qualitatively and
+quantitatively analyzed the fecal metabolome to identify potential
+biomarkers in GI diseases; Di Cagno et al. (2011) characterized
+the fecal metabolome of celiac children subjected to gluten-
+free diet, compared to healthy children; Francavilla et al. (2012)
+evaluated the gut metabolome of allergic children; Vitali et al.
+analyzed the eﬀects of symbiotic or prebiotic foods and probiotic
+foods on the human gut metabolome proﬁle (Vitali et al., 2010,
+2012); De Filippis et al. evaluated the eﬀects of the Mediterranean
+diet on the gut microbiota metabolome (De Filippis et al., 2015).
+Moreover, De Preter (2015) and De Preter et al. (2015)
+applied this technique to make a clinical diagnosis of IBD, and
+to determine the impact of prebiotics on Chron’s disease. Del
+Chierico et al. characterized the gut microbiota of non-alcoholic
+fatty liver disease (NAFLD), and obese pediatric patients to
+unravel disease signatures (Del Chierico et al., 2016). Finally, De
+Angelis et al. analyzed the fecal metabolome of children with
+autism and pervasive developmental disorders (De Angelis et al.,
+2013).
+
+Liquid Chromatography Mass
+Spectrometry
+HPLC separation may cover a wide range of compounds’
+low. LC is
+determination, even though its
+probably the most ﬂexible separation method, as it allows
+to separate compounds with little eﬀort in few pre-analytical
+steps (compared to GC-MS) (Moco et al., 2007). Usually,
+
+resolution is
+
+Frontiers in Microbiology | www.frontiersin.org
+
+4
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+the metabolite separation obtained with LC is followed by
+electrospray ionization (ESI) or, to a lesser extent, by atmospheric
+pressure chemical ionization (APCI) (Bakhtiar et al., 2004). The
+combination of LC with MS allows to analyze polar, non-polar
+and neutral compounds separately in a complex matrix (Smirnov
+et al., 2016). This technique diverges from GC-MS for the lower
+temperatures of analysis, and it does not require sample volatility,
+thus entailing an easier sample preparation (Dunn and Ellis,
+2005).
+
+LC/MS is an excellent
+
+technique showing sensitivity,
+speciﬁcity, resolving power, and capability to extract additional
+information about metabolites from their retention time (RT)
+domain (Forcisi et al., 2015).
+
+Sample derivatization is commonly not necessary, although it
+can be helpful to improve the chromatographic sensitivity and
+resolution (Leavens et al., 2002), or to produce ionisable groups
+of metabolites otherwise not detectable by electrospray ionization
+(ESI) MS. Metabolite quantiﬁcation is obtained by external
+calibration or response ratio, and metabolite identiﬁcation is
+more time intensive. Moreover, ESI does not produce molecular
+ion fragmentation as it occurs by electron impact MS, so it does
+not provide direct metabolite identiﬁcation by ESI mass spectra
+libraries are not generally
+comparison, as ESI mass spectral
+available. Nevertheless, accurate mass measurements can be
+obtained by coupling MS/MS using metabolite identiﬁcation
+(Lenz et al., 2004). The advent of HPLC and UPLC allowed
+to shorten the analyzing time, provided higher resolution,
+sensitivity and eﬃciency, and permitted to reduce the quantity
+of samples and solvent necessary for the analysis (Smirnov et al.,
+2016).
+
+The application of LC/MS allows the identiﬁcation of target
+metabolites within a complex sample, not only with the
+information about monoisotopic mass, but also providing advice
+on the metabolite structure (Villas-Bôas et al., 2005).
+LC-MS applications mainly concern the
+
+clinical and
+pharmaceutical ﬁelds (Bakhtiar et al., 2004). Nardotto et al.
+(2016) used LC/MS/MS systems to investigate patients with
+type 2 diabetes mellitus treated with an oral dose of racemic
+carvedilol, who showed accumulation in plasma. Mueller et al.
+applied this technique to measure plasma concentrations of
+trimethylamine-N-oxide, betaine and choline in the evaluation
+of patients with suspected coronary artery disease (Mueller et al.,
+2015).
+
+An example of LC and GC technologies’ combination, is also
+given by Chow et al. who studied the fecal metabolome, including
+the application of non-targeted metabolomics to separate breast-
+fed from formula-fed infants by using GC/MS and LC/MS/MS
+analysis to identify the various metabolites undergoing change
+(Chow et al., 2014).
+
+Capillary Electrophoresis Mass
+Spectrometry
+CE may oﬀer high-analyte resolution and detect a wider spectrum
+of (polar) compounds compared to HPLC, but it is properly
+applicable only to charged analytes (Ramautar et al., 2013).
+However, only a few studies on this subject have been published
+to date, such as Soga et al. (2003), who separated cationic, anionic
+nucleotidis, and CoA metabolites to describe the coverage of
+
+the metabolome. These authors analyzed 1692 metabolites in
+bacterial extract (Chow et al., 2014).
+
+types.
+
+sample
+
+Fourier Transform Infrared Spectroscopy
+FT-IR spectroscopy allows rapid, non-destructive and high-
+throughput determination of diﬀerent
+In
+particular, it can simultaneously detect diﬀerent molecules, such
+as lipids and fatty acids (FAs), proteins, peptides, carbohydrates,
+polysaccharides, nucleic acids, (Harrigan and Goodacre, 2003;
+Dole et al., 2011), but sensitivity and selectivity of this technique
+are not high. On the contrary, ICR-FT/MS oﬀers an ultrahigh
+mass resolution able to distinguish slight variations in a wide
+number of mass signals (Rosselló-Mora et al., 2008), and allowing
+to obtain the structural identiﬁcation of new biomarkers (Jansson
+et al., 2009). In fact, Jansson et al. (2009) used ICR-FT/MS to
+distinguish between the masses of fecal metabolites in Chron’s
+disease patients and healthy subjects.
+
+Furthermore, FT-IR is principally useful for the identiﬁcation
+of functional groups (Vernocchi et al., 2012). In fact, FT-IR has
+been used to assist infrared imaging in the diagnosis of many
+diseases, such as Parkinson, cancer, Alzheimer, kidney stone,
+arthritis (Dole et al., 2011), diabetes, and early stage insulin
+resistance (Chen et al., 2008).
+
+In fact,
+
+Moreover,
+
+they are considered as
+
+it is possible to combine the LC and FT-IR
+techniques, as performed by Walker et al. (2014), who identiﬁed
+taurine and sulfate conjugated fatty acids in feces of diabetic mice
+by coupling ICR-FT/MS and UPLC-MS.
+Finally, MS-based metabolomic
+
+techniques oﬀer high
+identiﬁcation and
+selectivity and sensitivity for metabolites’
+quantiﬁcation.
+the most
+appropriate techniques for the detection of large numbers of
+metabolites, and,
+in combination with advanced and high-
+throughput platforms, they may help decrease the complexity
+of metabolite separation (Zheng et al., 2011; Zhao and Hartung,
+2015). In particular, for the total screening of the small molecules
+in a biological system, MS non-targeted metabolomics is
+a powerful tool for the identiﬁcation of metabolite signals
+present in spectra (Naz et al., 2014). The identiﬁcation can be
+partly completed by matching against metabolite and spectral
+databases, such as METLIN (Smith et al., 2005), HMDB (Wishart
+et al., 2013), or ChemSpider (Pence and Williams, 2010). To
+describe the metabolic pathway of biological systems, it is also
+possible to refer to databases such as KEGG (Kanehisa et al.,
+2007), or Meta-Cyc (Caspi et al., 2007).
+
+Nuclear Magnetic Resonance
+Spectroscopy
+NMR spectroscopy, instead, uses the intramolecular magnetic
+ﬁeld around atoms in molecules to change the resonance
+frequency, thus allowing access to details of molecules’ electronic
+structure and obtaining information about
+their dynamics,
+reaction state, and chemical environment. Moreover, a minimal
+sample preparation is necessary for bioﬂuids, except for feces or
+gut luminal content, which require the removal of undigested
+material, dead microbes and other particles (Smirnov et al.,
+2016). For feces in particular, samples are prepared using
+methanol (for lipophilic compounds as lipids, cholate, small
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+phenolic acids) or water (for aminoacids, glucose, glycerol)
+(Jacobs et al., 2008; Lamichhane et al., 2015).
+
+the end-points of metabolic processes
+(Nicholson et al., 2005).
+
+in living systems
+
+NMR spectroscopy is mainly useful to determine metabolic
+ﬁngerprints leading to the identiﬁcation and quantiﬁcation of
+compounds in a non-targeted large-scale, in a non-destructive
+way, and with a high reproducibility (Lenz et al., 2004; Smolinska
+et al., 2012).
+
+However, it is a relatively insensitive technique, and can only
+detect metabolites in high concentrations. The annotation is
+restricted to a limited number of low molecular weight molecules,
+and this is the major pitfall of this application (Jansson et al.,
+2009; Zhao and Hartung, 2015). Indeed, sensitivity depends on
+the natural concentration of the atoms in the matrix and, to
+improve sensitivity, long times of analysis, higher magnetic ﬁelds,
+and cryogenic probes are needed (Keun et al., 2002).
+
+Another type of NMR spectroscopy is 1H (proton) NMR,
+which is unbiased to particular metabolites (Dunn and Ellis,
+2005), unlike the other techniques discussed above. The NMR
+spectrum (chemical shift) depends on the shielding from
+electrons orbiting the nucleus, whereas for 1H-NMR the chemical
+shift
+is arranged as the diﬀerence between the resonance
+frequency of the observed proton and that of a reference proton
+in a reference metabolite (tetramethylsilane in solution, set at 0
+ppm) (Dunn and Ellis, 2005).
+
+The obtained spectra are complex and contain a wide
+number of signals, and frequently pure metabolites can be
+added to give a more in-depth clariﬁcation. This technique is
+frequently employed in clinical and pharmaceutical research and
+applications, in particular in the analysis of bioﬂuids and tissues,
+where 1H-NMR is used to detect the modulation of metabolites
+in response to cellular stresses (Lindon et al., 2003). This has also
+been reported by Bro et al. (2015), who used plasma to determine
+breast cancer biomarkers, or by Villaseñor et al. (2014), who
+described the global metabolic phenotyping of acute pancreatitis,
+and by Dumas et al. (2016), who used this technique to study
+metabolic syndrome and fatty liver disease.
+
+Moreover, when there is the need to understand how the
+diet or other external stimuli or diseases aﬀect the microbiome
+composition (i.e., gut, urine, salive), metabolite detection is
+technique. In fact, several
+performed using this functional
+research studies have been conducted using NMR and 1H-NMR,
+for instance: Ndagijimana et al. (2009) described the eﬀects of
+symbiotic food on human gut metabolic proﬁle; Martin et al.
+(2012) studied the inﬂuence of gut metabolome on health and
+diseases; Bjerrum et al. (2015) investigated the gut metabolic
+biomarkers characterizing Chron’s disease, ulcerative colitis and
+healthy subjects; Zhang et al. (2015) studied how the gut
+microbiota metabolome could alleviate obesity in children; Laghi
+et al. (2014) studied the antibiotic eﬀect on vaginal microbiome;
+and Holmes et al. (2008) analyzed urine samples to discriminate
+metabolites across populations in order to identify major risk
+factors for coronary heart disease and stroke.
+
+Hence, MS and 1H-NMR are by far the most frequently
+applied and the most powerful techniques in metabolomics
+(Collino et al., 2012). Recent advances in NMR and MS
+have allowed to evaluate at
+the same time thousands of
+related to the “metabolome,” and to deﬁne
+metabolites
+
+In particular, 1H-NMR is currently the most used analytical
+technique for metabolite proﬁling compared to MS, while the
+combination of 1H-NMR and MS technologies would result in a
+better coverage of the complete metabolome (Bjerrum et al., 2015;
+De Preter, 2015; Wissenbach et al., 2016). In fact, by coupling
+metabolite separation technologies with spectrometry and
+spectroscopy, it is possible to reach a multidimensional approach
+leading to the structural identiﬁcation of new metabolites (Chen
+et al., 2008).
+
+the structural
+
+However, the challenge for metabolomics is not only to
+discover unknown chemical structures, but also to generate
+tissue, experimental
+(i.e., sample origin,
+meta-information,
+conditions) in an accessible format (Weckwerth and Morgenthal,
+2005). Thus,
+identiﬁcation of metabolites as
+potential biomarkers associated with diseases will be a major
+task of biological
+interpretation (Nassar and Talaat, 2004).
+In fact, small molecule metabolites are able to provide new
+mechanistic information on novel disease biomarkers, which
+is extremely important, given the paucity of existing markers.
+Moreover, metabolomics can induce signiﬁcant progress in
+the identiﬁcation of metabolomic ﬁngerprints (which could
+be used as crucial diagnostic biomarkers) by producing a
+comprehensive map of metabolic pathway regulations, which
+represent the downstream expression of genome, transcriptome,
+and proteome. This comprehensive map may help deﬁne the
+phenotype of an organism at a speciﬁc time (Zhang et al.,
+2012). Therefore, the analysis of metabolic diﬀerences between
+unperturbed and perturbed pathways could provide insights on
+the underlying disease prognosis and diagnosis (Zhang et al.,
+2012; Figure 2).
+
+Data Analysis
+Hence, statistic and bioinformatic techniques are used for
+data mining complex metabolic proﬁles containing information
+related to genetics, environmental
+factors, gut microbiota
+activity,
+lifestyle, and eating habits. These strategies support
+the complicated process of identifying new biomarkers, which
+could indicate the individual response to speciﬁc physiological
+factors and/or nutritional interventions, and manage the relevant
+biological outcomes (Moco et al., 2013).
+
+The application of biostatistics and mathematical approach
+has a key role in the extraction of biologically meaningful
+information from wide datasets. In computational analysis, the
+problems derive from a small batch of samples in contrast
+with the high number of detected metabolites, and in the
+consequent high dimensionality of the data matrix (Weckwerth
+and Morgenthal, 2005). Therefore, diﬀerent statistical tools can
+be employed to discriminate among the samples and within the
+sample set (Worley and Powers, 2012).
+
+In particular, diverse univariate and multivariate methods can
+be used as parametric (i.e., Student t-test, multivariate linear
+regression) or non-parametric (i.e., Mann-Whitney, Kruskal-
+Wallis) tests. Moreover, these methods can be divided into
+unsupervised techniques (i.e., principal component analysis
+(PCA), hierarchical cluster analysis), and supervised techniques
+
+Frontiers in Microbiology | www.frontiersin.org
+
+6
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+FIGURE 2 | Metabolomic application in human health to improve clinical and nutritional settings.
+
+(i.e., linear discriminant analysis, k-nearest neighbor). Among
+the supervised multivariate techniques, the partial least squares
+discriminant analysis (PLS-DA) has proved to be a particularly
+useful tool, in the presence of an irresolute sample separation
+obtained from PCA as it oﬀers the possibility to use a priori
+information based on replicates (Raamsdonk et al., 2001;
+Gromski et al., 2015). PLS-DA is also used for its ability to identify
+potential biomarkers.
+
+Moreover, statistical analyses of multivariate datasets allow
+to visualize the biological and molecular consistency. This
+consistency is based on the correlated functioning of metabolites
+in response to external conditions. Finally, correlation networks
+represent ﬁngerprints of biochemical
+like the
+regulation of enzyme activity, and the interplay of anabolism and
+catabolism between the host and gut microbes (Weckwerth and
+Morgenthal, 2005).
+
+interactions,
+
+METABOLITES ASSOCIATED WITH
+MICROBIAL METABOLISM OR
+MICROBIAL–HOST COMETABOLISM
+
+The gut microbiota operates in a combined way with the
+host through the metabolic communication enacted by the
+
+diﬀerent bacterial genera and species responsible for metabolite
+production (Table 2).
+
+in the large intestine,
+
+Bacterial Metabolism
+SCFAs
+Several substances present
+including
+indigestible oligosaccharides, dietary plant polysaccharides or
+ﬁbers, non-digested proteins and intestinal mucin are fermented
+by the microbiota populations to produce SCFAs (Arora and
+Sharma, 2011). In particular, clostridial clusters IV, XIVa (e.g.,
+Eubacterium, Roseburia, Faecalibacterium, and Coprococcus spp.)
+and Lactobacillus belonging to the phylum Firmicutes and the
+groups of Actinobacteria (Biﬁdobacterium spp.) are the main
+bacteria playing a central role in SCFAs metabolism (Nicholson
+et al., 2012; van Zanten et al., 2014).
+
+Acetate is an important SCFA present in the colon, which
+could have a trophic eﬀect on the colonic epithelium not only
+by local action, but also by raising the mucosal blood ﬂux.
+Moreover, after transport to the portal circulation across the
+colonic mucosa, acetate passes through the liver and is regained
+in peripheral blood. Acetate’s eﬀect at the ileal level exceeds that
+of mixed SCFA (Scheppach, 1994). However, acetate is adsorbed
+by tissues involved in the rise of cholesterol synthesis (Scheppach
+et al., 1991). On the other side, propionate inhibits cholesterol
+
+Frontiers in Microbiology | www.frontiersin.org
+
+7
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+TABLE 2 | Metabolites associated with microbial metabolism or microbial–host cometabolism.
+
+Metabolites
+
+Bacteria
+
+Biological functions
+
+References
+
+BACTERIAL METABOLISM
+
+SCFAs: acetate, propionate, butyrate;
+branched CFAs: iso-butyrate, valerate
+and iso-valerate
+
+Clostridial clusters IV and XIVa
+Lactobacillus, Eubacterium,
+Roseburia, Faecalibacterium,
+Coprococcus
+
+Increasing cholesterol synthesis
+(acetate); gluconeogenesis
+(propionate); energy source for
+colonocytes (butyrate); cholesterol
+synthesis inhibition; linked to:
+cardiovascular disease, ulcerative
+colitis, Crohn’s disease,
+antibiotic-associated diarrhea,
+obesity, metabolic syndrome, bowel
+disorders and cancer
+
+Harig et al., 1989; Scheppach et al.,
+1991; Scheppach, 1994; Sabatino
+et al., 2005; Binder, 2010; Donohoe
+et al., 2011; Fukuda et al., 2011;
+Nicholson et al., 2012; Chambers
+et al., 2015
+
+Clostridium difﬁcile, Faecalibacterium
+prausnitzii, Biﬁdobacterium,
+Subdoligranulum, Lactobacillus
+
+Related to hypertension and obesity,
+colorectal cancer, autism in children in
+humans and diabetes in a rat model
+
+Lord and Bralley, 2008; Calvani et al.,
+2010; Qiu et al., 2010; Zhao et al.,
+2010; Zheng et al., 2011; Nicholson
+et al., 2012
+
+Organic acids: benzoate, hippurate,
+phenylacetate, phenylpropionate,
+hydroxybenzoate,
+hydroxyphenylacetate,
+hydroxyphenylpropionate
+3,4-dihydroxyphenylpropionat and
+D-lactate
+
+Vitamins: vitamin B9, vitamin B2,
+vitamin B12, niacin, pyridoxine,
+vitamin K, vitamin B1, vitamin B5,
+vitamin B8
+
+BACTERIAL TRANSFORMED COMPOUNDS
+
+Bile salts: cholate, hyocholate,
+deoxycholate, chenodeoxycholate,
+α-muricholate, β-muricholate,
+ω-muricholate, taurocholate,
+glycocholate, taurochenoxycholate,
+glycochenodeoxycholate,
+taurocholate, tauro–α–muricholate,
+tauro–β–muricholate, lithocholate,
+ursodeoxycholate, hyodeoxycholate,
+glycodeoxylcholate, taurohyocholate,
+taurodeoxylcholate
+
+Polyphenol: Hydroxycinnamic acids
+and ﬂavonoids
+
+Biﬁdobacterium biﬁdum,
+Biﬁdobacterium longum subsp.
+infantis, Biﬁdobacterium breve, B.
+longum subsp. longum
+Biﬁdobacterium adolescentis,
+commensal Lactobacilli, Bacillus
+subtilis Escherichia coli and
+anaerobes, Bacteroidetes,
+Fusobacteria, Proteobacteria,
+Actinobacteria
+
+Bacteroides, Clostridium,
+Lactobacillus, Biﬁdobacterium,
+Enterobacter, Eubacterium,
+Escherichia
+
+Lipids: glycerol
+
+Biﬁdobacterium, Roseburia,
+Lactobacillus, Klebsiella,
+Enterobacter, Citrobacter, Clostridium
+
+Lactobacillus, Biﬁdobacterium
+
+Secondary metabolites production
+
+Deguchi et al., 1985; Noda et al.,
+1994; Roth et al., 1996; Bacher et al.,
+2000; Perkins and Pero, 2002;
+Stanton et al., 2005; Pompei et al.,
+2007; Smith et al., 2007; Rossi and
+Amaretti, 2010; Magnúúsdóóttir,
+et al., 2015
+
+Lis et al., 1976; Russell and Setchell,
+1992; Groh et al., 1993; Ridlon et al.,
+2006; Dawson et al., 2009; Suhre
+et al., 2010; Nicholson et al., 2012
+
+Couteau et al., 2001; Clifford, 2004;
+Manach et al., 2004; Taverniti and
+Guglielmetti, 2012; Amaretti et al.,
+2015; Marín et al., 2015; Raimondi
+et al., 2015
+
+Holmes et al., 2011; Nicholson et al.,
+2012
+
+Cellular metabolism
+
+Absorption of dietary fats and
+lipid-soluble vitamins, facilitate lipid
+assimilation, maintain gut barrier
+function, regulate triglycerides,
+cholesterol and glucose by endocrine
+functions and energy homeostasis.
+Secondary bile salts linked to colon
+cancer.
+
+Intestinal permeability, glucose
+homeostasis, promotion of chronic
+systemic inﬂammation by LPS;
+hyperinsulinemia improvement by
+conjugated FAs, immune system
+enhancement and lipoprotein proﬁles
+alteration.
+
+ammonia production by deamination,
+amines production by
+decarboxylation
+
+Amino Acids
+
+Colonic bacteria, Clostridium,
+Peptostreptococcus anaerobius
+
+Moss et al., 1970; Clinton et al., 1988;
+Macfarlane and Macfarlane, 1995
+
+Frontiers in Microbiology | www.frontiersin.org
+
+8
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+synthesis (Scheppach, 1994; Wong et al., 2006). In fact, substrates
+that can decrease the acetate/propionate ratio may diminish
+serum lipids and consequently decrease the risk of cardiovascular
+disease (Wong et al., 2006). Butyrate represents the major energy
+source for colonocytes and has been studied for its role in
+nourishing the colonic mucosa and preventing colon cancer by
+promoting cell diﬀerentiation, cell-cycle arrest and apoptosis
+of transformed colonocytes (Scheppach, 1994; Velázquez et al.,
+1997; Walton et al., 2013).
+
+Furthermore, butyrate improves insulin sensitivity and raises
+energy consumption in obese mice submitted to dietary regimen
+(Gao et al., 2009), and butyrate irrigation (enema) improves
+inﬂammation in diversion colitis (Scheppach et al., 1992; Wong
+et al., 2006). Butyrate and propionate, but not acetate, induce
+the production of gut hormones and reduce food intake (Lin
+et al., 2012). The treatment with acetate induces a marked
+reduction in lipid accumulation in the adipose tissue, protects
+against accumulation of fat in the liver, and improves glucose
+tolerance (Yamashita et al., 2007). In obese subjects, propionate
+signiﬁcantly increases the release of post-prandial plasma peptide
+YY and glucagon-like peptide-1 from colonic cells, and reduces
+energy intake (Chambers et al., 2015). Chambers et al. (2015)
+found that inulin-propionate ester administrated to overweight
+adults signiﬁcantly reduced weight gain, intra-abdominal adipose
+tissue distribution, and intrahepatocellular lipid content, and
+improved insulin resistance in the inulin control group.
+
+Furthermore, other clinical studies demonstrated that the
+administration of SCFAs has a positive eﬀect on the treatment
+of ulcerative colitis, Crohn’s disease, and antibiotic-associated
+diarrhea and obesity, metabolic syndrome, bowel disorders, and
+cancer (Harig et al., 1989; Sabatino et al., 2005; Binder, 2010;
+Donohoe et al., 2011; Fukuda et al., 2011; Chambers et al.,
+2015). The degradation of proteins and amino acids by gut
+microbes also forms small amounts of branched chain FAs (iso-
+butyrate, valerate and iso-valerate) (Macfarlane and Gibson,
+2004). SCFAs can be detected by using both the GC-MS and
+1H-NMR spectroscopy techniques.
+
+Organic Acids
+Several organic acids result from bacterial metabolism of dietary
+polyphenols or unassimilated AAs or carbohydrates (Lord
+and Bralley, 2008). High levels of organic acids in urines are
+associated with microbial overgrowth (Lord and Bralley, 2008).
+In particular, the hyperproduction of organic acids is associated
+with the overgrowth of Clostridium diﬃcile, Faecalibacterium
+prausnitzii, Biﬁdobacterium spp.,
+Subdoligranulum spp.,
+Lactobacillus (Lord and Bralley, 2008; Nicholson et al., 2012).
+
+Amongst organic acids, urinary hippuric acid may be a
+biomarker of hypertension and obesity in humans, while
+urinary 4-hydroxyphenylacetate and phenylacetate are potential
+biomarkers of colorectal cancer (Nicholson et al., 2012).
+
+Lactic acid is the main product in the lactic acid bacteria
+(LAB) fermentation process. LAB are Gram+ and constitute a
+heterogeneous group of microorganisms that can also produce
+proteinaceous antimicrobial molecules, known as bacteriocins,
+that can help the producer microorganism to outcompete other
+bacterial species (Alvarez-Sieiro et al., 2016). Moreover, lactic
+
+acid represents a secondary metabolite that can be converted by
+clostridial cluster XIVa species into butyrate, or by clostridial
+cluster IX into propionate (Louis et al., 2007), thus inducing
+beneﬁts by inhibiting both the propagation of harmful bacteria,
+and the production of putrefactive intestinal products. Lactic acid
+also participates in the intestinal peristalsis regulation (Sugawara
+et al., 2016). Furthermore, lactic acid is correlated to healthy
+vaginal microbiota, in fact it decreases in bacterial vaginosis, and
+it’s produced by microbial species such as Lactobacillus crispatus
+and Lactobacillus jensenii (Vitali et al., 2007, 2015; Cruciani
+et al., 2015; Srinivasan et al., 2015). The detection of organic
+acids is most commonly obtained using LC-MS and 1H-NMR
+spectroscopy platforms.
+
+are
+
+Vitamins
+Vitamins
+for
+indispensable micronutrients,
+biochemical reactions in all organisms. Humans are unable
+to synthesize most vitamins, hence, most of them need to
+be obtained exogenously, and some are produced by the gut
+microbiota (Stanton et al., 2005; Rossi and Amaretti, 2010).
+
+essential
+
+Recently, Magnúsdóttir et al. (2015), using the PubSEED
+platform, assessed the genomes of 256 human gut bacteria
+involved in the biosynthesis of eight B-vitamins: biotin, folate,
+cobalamin, niacin, pantothenate, riboﬂavin, pyridoxine and
+thiamin. In particular, the authors demonstrated that each of the
+reported vitamins was produced by 40–65% of the 256 human gut
+microbes (Magnúsdóttir et al., 2015). Moreover, the absorption of
+some vitamins occurs in the small intestine after conjugation of
+vitamins with molecules (intrinsic factors) which are produced in
+the stomach. Since some vitamins are synthetized by the colonic
+microbiota, they are not adsorbed by the colon but are excreted
+in feces (Wilson, 2005).
+
+Biﬁdobacteria strains have been recognized to be the strongest
+vitamin producers (Deguchi et al., 1985; Noda et al., 1994;
+Pompei et al., 2007), and in particular Biﬁdobacteria and
+Lactobacilli have been proposed as possible folate producers
+(Pompei et al., 2007; Kleerebezem and Vaughan, 2009). Folate
+(vitamin B9) is involved in various essential metabolic functions,
+such as DNA replication, repair and methylation, and synthesis
+of nucleotides, vitamins and certain AAs (LeBlanc et al., 2013).
+Folate is contained in leaf vegetables, cereals and liver.
+
+The biosynthesis of thiamin (vitamin B1) consists of two
+pathways that unite in the ﬁnal step of thiamin monophosphate
+production. Although thiamin diphosphate is the functional
+version of thiamin, all phyla (in particular Bacteroidetes and
+Fusobacteria), except Firmicutes are producers of
+thiamin
+monophosphate (Magnúsdóttir et al., 2015). Vitamin B1 is
+contained in pork meat, oatmeal, brown rice, vegetables,
+potatoes, liver, and eggs.
+
+Biotin (vitamin B8) can be synthesized de novo from
+two pimeloyl precursors, namely malonyl-ACP and pimelate.
+Fusobacteria, Bacteroidetes and Proteobacteria synthetize biotin
+by diﬀerent biochemical pathways, while Actinobacteria genomes
+lack the essential role of biotin biosynthesis (Magnúsdóttir et al.,
+2015). Vitamin B8 is contained in raw egg yolk, liver, peanuts and
+green leafy vegetables.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+9
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+Riboﬂavin (vitamin B2) plays an essential role in cellular
+metabolism, being the precursor of
+the coenzymes ﬂavin
+mononucleotide (FMN) and ﬂavin adenine dinucleotide (FAD)
+(Li et al., 2014). Microbial riboﬂavin biosynthesis has been
+extensively described in Bacillus subtilis (Perkins and Pero, 2002)
+and Escherichia coli (Bacher et al., 1996, 2000). Vitamin B2 is
+contained in dairy products, bananas, popcorn, green beans and
+asparagus.
+
+Cobalamin (vitamin B12) is the only vitamin that is exclusively
+produced by microorganisms, particularly by anaerobes (Roth
+et al., 1996; Martens et al., 2002; Smith et al., 2007).
+
+Besides, the production of niacin and pyridoxine appears to be
+generated by Lactobacilli used in yogurt, cheese, and fermented
+foods (Shahani and Chandan, 1979; Alm, 1982).
+
+Pantothenate (vitamin B5) is a coenzyme A (CoA) precursor
+and it can be synthesized de novo from 2-dihydropantoate and b-
+alanine. Bacteroidetes and several species of Proteobacteria and
+Actinobacteria have been demonstrated to be CoA producers
+(Magnúsdóttir et al., 2015). This vitamin is also contained in
+meat, broccoli, avocado. Detection of this vitamin is mostly
+obtained using LC-MS and 1H-NMR spectroscopy platforms.
+
+speciﬁc protein glutamyl
+
+Furthermore, Vitamin K operates as a co-factor for the
+to γ-
+enzymatic conversion of
+carboxyglutamyl residues. The daily requirement of vitamin
+K is satisﬁed by dietary intake of phylloquinone and by the
+production of polyisoprenyl-containing compounds synthesized
+by the human gut microbiota (Suttie, 1995; Davidson et al., 1998;
+Martens et al., 2002). Green leafy vegetables such as spinach, egg
+yolks, and liver contain vitamin K.
+
+Bacterial-Transformed Compounds
+Bile Salts
+The metabolism of bile salts is a well-known and basic skill of the
+gut microbiota metabolism, particularly associated to the genera
+of Bacteroides, Clostridium, Lactobacillus, Biﬁdobacterium,
+Enterobacter, Eubacterium, and Escherichia (Ridlon et al., 2006;
+Nicholson et al., 2012). Bacteria also contribute to the recovery
+of bile salts escaping from active transport in the distal ileum
+(Begley et al., 2006). The gut microbiota chemically modiﬁes
+bile acids through a wide range of reactions, resulting in the
+formation of secondary and tertiary bile acids (Bortolini et al.,
+1997). Bile salts contribute to the absorption of dietary fats and
+lipid-soluble vitamins,
+facilitate lipid assimilation, maintain
+gut barrier function and regulate triglycerides, cholesterol and
+glucose by endocrine functions and energy homeostasis (Groh
+et al., 1993; Ridlon et al., 2006; Dawson et al., 2009).
+
+However, bacterial bile salt hydrolysis has recently been
+considered as a risk factor for the development of colon cancer
+because it causes the formation of harmful secondary bile salts
+after an initial deconjugation step (De Boever et al., 2000). The
+secondary free bile acids can diﬀuse through the lipid bilayer
+of the membrane, thus being much more inhibitory for the
+cells than the conjugated forms (Mayo and van Sinderen, 2010).
+De Boever et al. (2000) have speculated a plausible mechanism
+for the protective properties of probiotic Lactobacillus reuteri,
+which could precipitate the deconjugated bile salts by a physical
+binding, making the harmful bile salts less bioavailable. Bile
+
+salts have antimicrobial activity on gut microbes with inhibitory
+eﬀects on Bacteroidetes and Actinobacteria microbial population
+(Islam et al., 2011), but high levels of these biomarkers in serum
+and urine are correlated with liver diseases (Bathena et al., 2015).
+The LC-MS and 1H-NMR spectroscopy platforms are the main
+techniques used to detect bile acids.
+
+Polyphenols
+Polyphenols are considerably bioactive components in the diet
+(Manach et al., 2004). Hydroxycinnamic acids and ﬂavonoids are
+the two major classes of polyphenols. Fruits commonly contain
+caﬀeic acid, representing the most abundant hydroxycinnamic
+acid (Cliﬀord, 2004). In particular,
+the chemically derived
+chlorogenic acid is commonly present in apples, berries and
+kiwifruit, in vegetables such as potatoes (Manach et al., 2004) and,
+in high concentrations, in coﬀee (Cliﬀord, 2004).
+
+Recent studies have demonstrated that gut bacteria, including
+strains of Lactobacillus and Biﬁdobacterium, can metabolize
+chlorogenic acid to form caﬀeic acid and quinic acid (Couteau
+et al., 2001; Taverniti and Guglielmetti, 2012; Amaretti et al.,
+2015; Marín et al., 2015; Raimondi et al., 2015), while caﬀeic
+acid is further metabolized to form the µ-coumaric acid
+(3-hydroxycinnamic acid), 3-hydroxylphenylacetic acid and
+dihydroxyphenylpropionic acid (Konishi and Kobayashi, 2004).
+The 3,4- dihydroxyphenylacetic acid also derives from the
+colonic catabolism of rutin (Jaganath et al., 2009). Conversely,
+phenolic acid metabolites of rutin are not produced in germ-free
+mice, implying that ring-ﬁssion products are generated only by
+intestinal bacteria (Selma et al., 2009; Parkar et al., 2013). The
+polyphenol detection is performed using LC-MS, GC-MS, and
+1H-NMR spectroscopy platforms.
+
+Lipids
+Signiﬁcant amounts of glycerol derive from daily dietary
+intake and/or from in situ microbial production, or from
+enterocyte desquamation. Some gut bacteria may anaerobically
+reduce glycerol to 1,3-propanediol, with the production of
+the intermediate 3-hydroxypropanal. The accumulation of this
+metabolite leads to the formation of reuterin, which is known
+for its antimicrobial properties (De Weirdt et al., 2010). Lipids
+are also involved in intestinal permeability, in the regulation
+of glucose homeostasis via intestine-brain-liver-neural axis, in
+the promotion of chronic systemic inﬂammation by LPS, in
+the improvement of hyperinsulinemia by conjugated fatty acids
+(FAs), in the enhancement of the immune system, and in the
+alteration of lipoprotein proﬁles. Biﬁdobacterium, Roseburia,
+Lactobacillus, Klebsiella, Enterobacter, Citrobacter, Clostridium
+genera have been recognized as the main actors in lipid
+metabolism (Nicholson et al., 2012). The platform constituted of
+LC-MS, GC-MS, and 1H-NMR spectroscopy is mainly used to
+perform lipid detection.
+
+Amino Acids
+The bacterial fermentation of proteins, occurring in the distal
+colon, leads to AAs fermentation products having some relevance
+for health (Macfarlane and Macfarlane, 1995). For instance,
+AAs deamination produces ammonia, whereas decarboxylation
+
+Frontiers in Microbiology | www.frontiersin.org
+
+10
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+produces amines, which may have toxicological eﬀects (Silla
+Santos, 1996). High ammonia concentrations have been found
+to act as tumor promoters (Clinton et al., 1988). Bacterial
+degradation of AAs cysteine and methionine leads to the
+formation of H2S, which is toxic and has also been reported to
+be responsible for inhibition of butyrate oxidation in colonocytes
+(Roediger et al., 1993). Furthermore, the anaerobic fermentation
+of
+the aromatic AAs tyrosine and tryptophan by colonic
+bacteria produces phenols and indoles respectively, which are
+eventually excreted in the urine (Macfarlane and Macfarlane,
+1997). Phenols, such as p-cresol, have been proposed to act as
+procarcinogens in colon cancer (Bone et al., 1976). Interestingly,
+gut bacterial production of p-cresol is signiﬁcantly related to
+autism (Clayton, 2012; De Angelis et al., 2013), and C. diﬃcile
+appears to be a signiﬁcant p-cresol producer (Sivsammye and
+Sims, 1990).
+
+Finally, certain species of Clostridium (Moss et al., 1970) and
+Peptostreptococcus anaerobius (Lambert and Moss, 1980) can
+convert phenylalanine to benzoic acid in a multistep process
+with phenylpropionic acid (toxic metabolic product) acting
+as intermediate (Macfarlane and Macfarlane, 1997; Smith and
+Macfarlane, 1997). The AAs are mainly detected using LC-
+MS and 1H-NMR spectroscopy techniques, and also using
+FT-ICR-MS.
+
+BIOLOGICAL ACTION OF THE GUT
+MICROBIOTA IN HEALTHY AND DISEASED
+SUBJECTS
+
+In recent years, growing attention has been targeted to the role
+of the gut microbiota in the pathogenesis of gastrointestinal
+(GI) diseases (Lozupone et al., 2012). The alteration of the
+interplay between host and microbes at the gut level stimulates
+perturbation of the homeostasis and leads to the development of
+disorders.
+
+The microbial ecosystem undergoes changes when the
+equilibrium is broken, which leads to the modiﬁcation of the
+bacterial metabolic activity, and/or to transfers in the distribution
+of local bacterial communities. In fact, the phylotype complexity
+regulates the equilibrium between pathogenic and commensal
+taxa at the GI interface (Prakash et al., 2011).
+
+(i.e.,
+
+[CF]),
+
+inﬂammatory
+
+The intestinal gut dysbiosis is associated with a plethora
+of children and adult diseases, including genetic (i.e., cystic
+bowel
+ﬁbrosis
+diseases and syndrome [IBDs, IBS], Chron’s [CD], ulcerative
+colitis [UC], and celiac disease), metabolic (i.e., diabetes,
+obesity and non-alcoholic fatty liver disease [NAFLD]), and
+allergic (i.e., atopic dermatitis, food allergies) disorders (Del
+Chierico et al., 2012), and neuropathologies (i.e., autism)
+(Figure 2).
+
+inﬂammatory
+
+Indeed, metabolomics is an approach allowing to perform a
+careful diagnosis of diseases, since metabolite proﬁles have a high
+resolution power, which enable to separate the groups based on
+microbial community proﬁles (Dicksved et al., 2008). Moreover,
+metabolites represent the terminal enzymatic process signature
+occurring in the gut, and the molecules within the pathways
+
+range allow to distinguish healthy from diseased subjects, as well
+as among disease phenotypes (Jansson et al., 2009; Table 3).
+
+Inﬂammatory Bowel Disease/Inﬂammatory
+Bowel Syndrome (IBD/IBS)
+As concerns inﬂammatory diseases at GI tract, it is well known
+that the microbiota results to be abnormal both in IBD and
+IBS, showing decreased levels of Actinobacteria and Firmicutes,
+and high levels of Proteobacteria compared to healthy subjects
+(Kinross et al., 2011; Carroll et al., 2012; Mukhopadhya et al.,
+2012; De Preter et al., 2013).
+
+Irregular microbial fermentation leads to a high production
+of hydrogen (in IBS), indole, phenols and others (Kumar et al.,
+2010). In fact, bacteria release volatile organic compounds
+(VOCs), determined by SPME-GC-MS, as by-products of
+metabolism. Hence, the rising acceptance of the gut microbiota
+involvement in the pathogenesis of IBD has led to the use of fecal
+matrix as a sample to determine metabolite proﬁling (Walton
+et al., 2013). Indeed, speciﬁc microbial VOCs proﬁles can provide
+speciﬁc biomarker candidates for diagnostic purposes (Schöller
+et al., 1997; Lechner and Rieder, 2007; Bunge et al., 2008).
+
+Walton et al. (2013) observed diﬀerences among patient
+categories (IBD, UC, and CD) based on compounds detected in
+fecal samples, such as SCFAs and their corresponding alcohols,
+esters, and molecules, such as indoles and phenols, acetone and
+sulfur compounds.
+
+The concentrations of propanoic and butanoic acids, revealed
+by using GC-MS, represent a source of energy aﬀecting colonic
+mucosal growth, and these concentrations were found to be
+higher in CD subjects, compared to healthy controls (Best and
+Laposata, 2003), while acids such as oleic, stearic, palmitic,
+linoleic and arachidonic were higher in the ileum of CD patients
+(Jansson et al., 2009). Ahmed et al. observed an increase of
+esters in diarrhea predominant IBS patients using the SPME-GC-
+MS technique (Ahmed et al., 2013). On the other side, Walton
+et al. (2013) detected high levels of indole, phenol and p-cresol,
+generally considered to be toxic for the gut, in CD and UC groups
+compared to controls.
+
+Moreover, Jansson et al. (2009), using FT-ICR-MS, detected
+several masses related to metabolites within the tyrosine
+metabolic pathway, which diﬀerentiated CD from healthy
+controls. In particular, dopaquinone (a dopa oxidation product
+and intermediate in the melanin formation from tyrosine)
+was signiﬁcantly elevated in CD patients compared to healthy
+subjects. The authors also indicated that
+tryptophan and
+phenyalanine were related to the ileum CD phenotype. It was
+also observed, using 1H-NMR spectroscopy, that AAs in CD
+patients with active disease showed a diﬀerent proﬁle (i.e.,
+alanine, isoleucine, leucine, and lysine) compared to CD patients
+in remission (Marchesi et al., 2007). Furthermore, metabolites
+related to bile acids pathways (i.e., glycocholate) were found in
+CD patients in remission (Jansson et al., 2009).
+
+Other studies (Marchesi et al., 2007; Bjerrum et al., 2015;
+De Preter, 2015; De Preter et al., 2015) using 1H-NMR and
+GC-MS showed a depletion of bacterial products, such as
+SCFAs, branched chain FAs, dimethylamine and trimethylamine,
+
+Frontiers in Microbiology | www.frontiersin.org
+
+11
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+Angelisetal.,2013;Hsiaoetal.,2013
+Kidd,2002;Oresicetal.,2008;De
+
+SPME-GC-MS
+LC-MS;GC-MS;
+
+ethylsulfate
+pathways,indolepyruvate,p-cresoland
+tryptophan–nicotinicacid,sulfurmetabolic
+
+Biﬁdobacterium
+Sutterellaceae,Enterobacteriaceae,
+Bacteroidetes,Alistipes,Akkermansia,
+Lachnospiraceae,Eubacteriaceae,
+Faecalibacterium,Ruminococcus,Clostridium,
+
+FecesSerum
+
+Neuropathology
+
+Francavillaetal.,2012
+
+GC-MS;NMR
+
+acidandthreonine
+SCFAs(i.e.,butyricandaceticacid),lactic
+
+Bacteroides,Clostridia
+Biﬁdobacteria,LacticAcidBacteria(LAB),
+
+Feces
+
+Foodallergies
+
+pyruvate
+4-Methyl-2-hexanone,ethylacetateand
+choline,lactate,methylamine,non-anal,
+isoleucine,asparagine,valine,creatinine),
+methionine,histidine,andtryptophan,
+and1-propanol,AAs(i.e.,proline,
+phenylacetylglycine,1-octen-3-ol,ethanol
+meta-[hydroxyphenyl]propionicacid,and
+3-hydroxybutyricacid,indoxylsulfate,
+acetoacetate,glucoseand
+
+2-butanoate
+4-Methyl-2-pentanone,1-butanoland
+methylpentanoate,methylacetate),
+ethanol,esters(i.e.,ethylpropionate,
+
+2014
+Calabròetal.,2014;Francavillaetal.,
+Canietal.,2008;DiCagnoetal.,2011;
+
+GC-TOF-MS;NMR
+Breathgasanalyzer;
+
+Shighella,Klebsiella
+Bacteroides,Staphylococcus,Salmonella,
+Lactobacillus,Enterococcus,Biﬁdobacteria,
+
+Urine
+FecesSerum
+
+CeliacDisease
+
+2016
+Ramanetal.,2013;DelChiericoetal.,
+
+SPME-GC-MS
+
+Lachanospiraceae
+Bacteroidesfragilis,Sutterella,
+Oscillospira,Rickenellaceae,Parabacteroides,
+
+(NAFLD)
+FattyLiverDisease
+Non-alcoholic
+
+Feces
+
+etal.,2012;Schippaetal.,2013
+2010;Montuschietal.,2012;Scalan
+Wangetal.,2006;Robroeksetal.,
+
+1H-NMR;GC-TOF-MS
+
+dimethylsulﬁdeandacetone
+methanol,acetate,2-propanol,lactate,
+N-methyl-2-methylpropylamineethanol,
+C5–C16hydrocarbonsand
+
+spp.
+Eubacteriumbiforme,Ecoli,Bifodobacterium
+prausnitzii,Eubacteriumlimnosum,
+XIVaandIV,Clostridiumacetobutylicum,F.
+Pseudomonasaeruginosa,Clostridiumclusters
+
+condensate
+Breath
+
+Cysticﬁbrosis(CF)
+
+2016
+2013;Zhangetal.,2015;Pauletal.,
+Veselkovetal.,2009;Respondeketal.,
+
+1H-NMR;LC-ESI-Q-TOF
+
+2015;DePreteretal.,2015
+2013;Bjerrumetal.,2015;DePreter,
+Stephensetal.,2013;Waltonetal.,
+Kumaretal.,2010;Ahmedetal.,2013;
+etal.,2007;Janssonetal.,2009;
+BestandLaposata,2003;Marchesi
+
+FT-ICR-MS
+analyzer;1H-NMR;
+SPME-GC-MS;Breathgas
+
+acid)
+acid),secondarybileacids(i.e.,lithocholic
+bileacids(i.e.,cholic,chenodeoxycholic
+phenylacetylglycine,FFA,BCAA,primary
+hippurate,4-hydroxylphenylaceticacid,
+
+cadaverineandtaurine
+bileacid(i.e.,glycocholate);UC:
+phenylalanine,isoleucine,leucine,lysisne,
+tyrosine,dopamine,tryptophan,
+acids,phenolandp-cresol,hippurate;CD:
+compounds,propanoicandbutanoic
+esters,indoles,phenols,acetone,sulfur
+IBS:hydrogenandesters;IBD:alcohols,
+
+References
+
+Platforms
+
+Correlatedmetabolites
+
+Correlatedmicrobes
+
+Bioﬂuids
+
+Disease
+
+TABLE3|Correlatedmicrobesandmetabolitestodiseasesandtherelativemetabolomicplatforms.
+
+Proteobacteria(Escherichiacoli)
+prausnitzii,ClostridiumclustersXIVaandIV),
+Actinobacteria,Firmicutes(Faecalibacterium
+
+FecesUrine
+
+IBD/IBS
+
+Bacteroidetes,Biﬁdobacteriumspp.
+Firmicutes(Clostridiumspp),Proteobacteria,
+
+UrineSerum
+
+Obesity
+
+Frontiers in Microbiology | www.frontiersin.org
+
+12
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+the
+and high levels of AAs, suggesting a breakdown of
+normal bacterial ecology that induces dysbiosis, as a cause
+or a consequence of
+the disease in IBD. Le Gall et al.
+(2011), using Denaturing Gradient Gel Electrophoresis (DGGE),
+discriminated UC patients from controls, and also found a
+correlation between the gut microbiota composition and the
+metabolite composition (high levels of cadaverine and taurine).
+Besides, UC patients with high levels of AAs showed low fecal
+concentrations of Faecalibacterium prausnitzii and therefore a
+small amount of butyric acid, since this bacteria is an SCFA
+producer (De Preter et al., 2015).
+
+The correction of some microbial fermentations by antibiotics
+or diet could improve symptoms and abnormal fermentation,
+which, in some IBS cases, is believed to underlie food intolerances
+(Nanda et al., 1989). Furthermore, using NMR spectroscopy
+analysis of urine, it is possible to discriminate IBD patients from
+controls based on metabolite content of hippurate (Stephens
+et al., 2013). The levels of hippurate were found to be
+lower in IBD patients compared to controls, suggesting that
+hippurate is a biomarker of IBD. In particular, hippurate or N-
+benzoylglycine is a mammalian-microbial co-metabolite deriving
+from the microbial fermentation of dietary aromatic compounds
+(polyphenols, purines, or aromatic AAs) to benzoic acid, further
+conjugated to glycine in the liver (Williams et al., 2010).
+
+Obesity
+There is evidence that obese and healthy children (HC) show
+a diﬀerent gut microbiota proﬁle. Several mechanisms are
+involved in the energy metabolism regulation and represent
+the link between the gut microbiota and the metabolic disease
+pathophysiology, such as energy harvesting from the diet, fat
+storage regulation, and energy homeostasis of peptide synthesis
+(Cani and Delzenne, 2009; Krajmalnik-Brown et al., 2012).
+
+In a study on mouse models, Zhang et al. (2011), using
+LC-ESI-Q-TOF/NMR, found in urine increased excretion of
+hippurate, 4-hydroxylphenylacetic acid and phenylacetylglycine,
+and decreased excretion of acetate and lactate, related to body
+weight gain and to an alteration of gut microbial changes
+(Veselkov et al., 2009). Moreover, Paul et al. (2016) identiﬁed,
+1H-NMR metabolomics, a maternal
+with the support of
+metabolic signature that may be related to programming
+oﬀspring obesity risk in rats. In particular, pregnant rats showed
+high levels of circulating ketone bodies and free FA (FFA),
+especially associated with gestational diabetes (Catalano, 2010).
+The branched chains AA (BCAA) have also found to be related to
+increased insulin resistance (Scholtens et al., 2014). In humans,
+FFA are transferred through the placenta from mother to child
+and are used for lipogenesis. FFA, together with the circulating
+ketons, may play an important role in the early deposition
+of excess of body fats in oﬀspring. The production of these
+molecules in serum metabolome is normalized when it
+is
+associated to diet enriched with oligrofructosaccharides (FOS)
+and to gut microbiota modulation (Paul et al., 2016). Respondek
+et al. (2013) studied the eﬀects of FOS on the composition of
+the fecal microbiota and the metabolic parameters in animal
+models of diet-induced obesity (Respondek et al., 2013). The
+authors ﬁrstly found that the strains particularly stimulated
+
+by FOS were Clostridium coccoides, Ruminococcus torques, and
+Dorea longicatena, and the fecal metabolites modulated by
+the supplementation, analyzed by using LC-ESI-TOF-MS, were
+primary bile acids (i.e., cholic and chenodeoxycholic acid) and
+secondary bile acids (i.e., lithocholic acid).
+
+Cystic Fibrosis (CF)
+Regarding CF disease, the majority of studies on the microbiota
+metabolome concern lung and the upper airways. It was observed
+that in CF the production of isoprene is associated to either
+Gram+ and Gram- species (Kuzma et al., 1995), while the
+production of hydrogen cyanide is prevalently associated to
+Pseudomonas aeruginosa, (Carterson et al., 2004; Cody et al.,
+2009). Robroeks et al. (2010) analyzed exhaled breath samples
+by GC-TOF-MS, and they managed to discriminate between
+CF and healthy controls, mainly based on the presence of C5–
+C16 hydrocarbons and N-methyl-2-methylpropylamine. Barker
+et al. (2006) reported a signiﬁcantly lower level of dimethyl
+sulﬁde (probably associated to microbial metabolism), detected
+by GC-MS in CF patients compared to controls. On the other
+side, Montuschi et al. (2012), using 1H-NMR forexhaled breath
+condensate (EBC) analysis, detected signiﬁcantly higher values
+of ethanol, acetate, 2-propanol and acetone in CF patients, which
+diﬀerentiated them from controls, whereas acetate, ethanol, 2-
+propanol and methanol were found to be relevant metabolites
+for distinguishing between patients with stable CF and patients
+with unstable CF. Moreover, 2-Propanol, which represents an
+enzyme-mediated product of acetone reduction, was detected in
+a breath sample of CF colonized by P. aeruginosa (Wang et al.,
+2006). The high level of ethanol in EBC samples of CF, detected
+by MS based metabolomics, could also be related to the decreased
+capacity of P. aeruginosa to oxidize ethanol to acetate (Wang
+et al., 2006). On the contrary, elevated acetate concentrations in
+healthy subjects may reﬂect resident bacteria in the oral cavity,
+such as Streptococcus mutans, debasing pyruvate into metabolic
+end products, such as acetate and lactate (Korithoski et al., 2008).
+
+Non-alcoholic Fatty Liver Disease (NAFLD)
+Several VOCs, including ethanol, seem to be produced by colonic
+bacteria and may have toxic eﬀects on the host after intestinal
+absorption and delivery to the liver via the portal vein (Raman
+et al., 2013). Moreover, Raman et al. (2013), using SPME-GC-MS,
+identiﬁed esters (i.e., ethyl propanoate, butyl butanoate, methyl
+pentanoate, methyl acetate) in fecal samples of obese NAFLD
+patients more frequently than in healthy controls.
+
+The bacterial production of SCFAs and ethanol by several
+gut microbes is well known, but very little is known about
+bacteria and biochemical pathways that may be involved in
+ester production in the intestinal microbiota, even though most
+of the esters linked to NAFLD are derivatives of short chain
+aliphatic alcohols and carboxylic acids (Raman et al., 2013).
+Also Del Chierico et al. (2016) evaluated the gut microbiota
+proﬁling of NAFLD and obese patients. The authors evidenced,
+with the support of multivariate analysis, that OTUs such as
+Oscillospira, Ricknellaceae, Parabacteroides, Bacteroides fragilis,
+Sutterella, and Lachnospiraceae, and metabolites such as 4-
+Methyl-2-pentanone, 1-butanol and 2-butanone (detected with
+
+Frontiers in Microbiology | www.frontiersin.org
+
+13
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+SPME-GC-MS), discriminated NAFLD from healthy subjects
+(Del Chierico et al., 2016).
+
+Celiac Disease
+As regards studies on celiac disease, it was clearly shown that
+metabolic diﬀerences between controls and celiac patients exist
+(Calabrò et al., 2014).
+
+lactate,
+
+choline, methyl glutarate,
+
+The main diﬀerences detected coupling MS-and NMR- based
+metabolomics approaches in celiac patients compared to controls
+isoleucine,
+were lower levels of several AAs, as asparagine,
+methionine, proline, and valine, and also methylamine, pyruvate,
+creatinine,
+lipids, and
+glycoproteins, and higher levels of glucose and 3-hydroxybutyric
+acid in serum and acetoacetate in the urine of celiac patients
+(Calabrò et al., 2014). The same authors also found higher levels
+of some metabolites related to the gut microbiota in the urine,
+such as: indoxyl sulfate, meta-[hydroxyphenyl] propionic acid
+(m-HPPA), and phenylacetylglycine. In fact, M-HPPA in urine
+mostly originates from the gut microbiota, being one of the
+many products of the microbial mediated breakdown of plant
+phenolic compounds, such as caﬀeic acid and its conjugate
+chlorogenic acids (Phipps et al., 1998). Besides, Di Cagno et al.
+(2011) analyzed, using SPME-GC-MS and 1H-NMR, VOCs,
+and AAs of fecal and urine samples of treated (gluten free diet)
+celiac children. The samples showed higher levels of free AAs
+(proline, methionine, histidine, and tryptophan) and lower levels
+of SCFAs, as butyric, isocaproic, and propanoic acids compared
+to controls. In this study, it was also found that the levels of some
+alcohols, such as 1-octen-3-ol, ethanol and 1-propanol were
+higher in treated celiac children compared to controls and it was
+hypothesized that when alcohol production is correlated with
+intestinal bacteria synthesis this may also induce endotoxemia
+(Cani et al., 2008).
+
+In another study, saliva samples have been analyzed, using
+SPME-GC-MS, revealing high levels of non-anal, 4-methyl-2-
+hexanone, and ethyl-acetate in treated celiac children (Francavilla
+et al., 2014). These ﬁndings suggest the presence of microbial
+metabolic activities at the oral cavity level (by Firmicutes,
+Actinobacteria and Bacteroidetes) that may also aﬀect
+the
+synthesis of VOCs (Kusano et al., 2013).
+
+Food Allergies
+Finally, the gut microbiota is believed to be associated with
+food allergies. In particular, the prevalence of atopic diseases,
+including eczema and asthma, suggests that the modulation of
+the immune response mechanisms in the gut can directly aﬀect
+the development of allergic diseases and the development of
+tolerance (Watanabe et al., 2003; Penders et al., 2007). Moreover,
+the advent of dysbiosis during the early post-natal period may
+further pre-dispose individuals to later inﬂammatory, immune,
+and allergic disorders (Francavilla et al., 2012).
+
+However, there is still little scientiﬁc evidence on the relation
+between the gut microbiota metabolome and food allergy. A
+study by Francavilla et al. (2012) describing the metabolome
+of infants with cow’s milk allergy, was conducted using the
+combinate of SPME-GC-MS and 1H-NMR techniques on a
+group of children fed with hydrolyzed formula with no lactose
+
+(CMA-NL), and a group of children fed with lactose-containing
+(CMA-L) formula compared with controls. The authors found
+that the addition of lactose to the formula resulted in a signiﬁcant
+increase of Biﬁdobacteria and LAB counts, and a decrease
+of Bacteroides/Clostridia. Consequently, the levels of SCFAs
+increased, especially for acetic and butyric acids, in controls and
+CMA-L compared to CMA-NL infants. The same trend was
+found for lactic acid and threonine.
+
+Neuropathology
+The composition of the intestinal microbiota plays a key role
+in neuro-gastroenterology, which deals with the interactions
+between the central nervous system and the gut (gut–brain axis).
+Numerous neuropathological diseases, such as autism spectrum
+disorder (ASD), are probably associated with the gut microbiota
+and thus the possibility to inﬂuence this connection is alluring
+(Holmes et al., 2011), even if to date there are still few studies
+investigating this ﬁeld. De Angelis et al. (2013) used SPME-
+GC-MS and 1H-NMR to study the fecal microbiota and the
+metabolome of children with Pervasive Developmental Disorder
+Not Otherwise Speciﬁed (PDD-NOS), and children with ASD
+compared to healthy controls. The authors found an altered
+composition of the microbiota and VOCs, which were partially
+diﬀerent between children with PDD-NOS and ASD. The main
+biological signiﬁcance of this work was related to the increased
+levels of Clostridum in PDD-NOS and ASD and the decreased
+levels of some health promoting bacteria (i.e., Biﬁdobacterium)
+and metabolites, such as free AA and SCFAs in PDD-NOS,
+in ASD children compared to controls (De Angelis et al.,
+2013). Furthermore, Kidd (2002) found that subjects with ASD
+together with their non-ASD siblings, presented with a deep
+alteration in the tryptophan–nicotinic acid and sulfur metabolic
+pathways (Kidd, 2002; Oresic et al., 2008). Important metabolic
+phenotype diﬀerences were observed between ASD and controls
+with perturbations in the relative patterns of urinary metabolites
+related to the gut microbiota (Kidd, 2002).
+
+Hsiao et al. (2013) used GC- and LC-MS platforms to
+study the oral treatment with human commensal Bacteroides
+fragilis (that corrects gut permeability) to modulate the microbial
+composition and the related defects in communicative behaviors
+immune activation (MIA),
+in mouse models with maternal
+showing GI barrier defects and microbiota alterations in
+displaying features of ASD. The authors detected the presence of
+indolepyruvate 4-ethylphenylsulfate and p-cresol in mice serum
+metabolome, presumably deriving from microbial metabolism.
+Furthermore, since B.
+it
+could also have a role in regulating intestinal permeability and
+metabolic homeostasis (Nicholson et al., 2012).
+
+fragilis improves intestinal health,
+
+CONCLUSIONS AND PERSPECTIVE
+
+The challenge of systems medicine is to interpret the body
+structure as a whole system and not as a sum of single
+the wide
+parts (Moco et al., 2013). To pursue this aim,
+range of top-down systems biology analyses should be used to
+interpret the metabolic interactions between the host and its gut
+microbiota, and to comprehend how these interactions aﬀect
+
+Frontiers in Microbiology | www.frontiersin.org
+
+14
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+the physiological and pathological conditions. Furthermore, the
+combination of these techniques with genome analysis may lead
+to a holistic view of the metabolic pathways, which can also be
+backed up using mathematical models and statistical assessment
+of data. In fact, by managing data it is possible to achieve a higher
+level of biological understanding. Therefore, novel algorithms
+and statistical analysis need to be improved to integrate the
+“omics” data, and a stochastic model of metabolic networks needs
+to be introduced to lead to a novel knowledge of co-regulation in
+biochemical networks.
+
+The metabolomics approach may identify physiological and
+clinical biomarkers that are not obtainable using targeted
+methods (Weckwerth and Morgenthal, 2005).
+
+In conclusion,
+
+the generation of new gut microbiota
+biomarkers will oﬀer the chance to associate complex metabolic
+pathways with the etiology of diﬀerent diseases,
+in order
+to evaluate the causal relationship between metabolites and
+pathogenesis. Moreover, these novel biomarkers could lead to the
+
+development of mechanistic hypotheses that could be targeted to
+the development of nutritional and personalized therapy tools in
+early disease prediction in asymptomatic conditions, and enable
+a more accurate prognosis of the disease progress.
+
+AUTHOR CONTRIBUTIONS
+
+PV, conceived and wrote the manuscript. FD, participated in
+the writing and produced tables and ﬁgures. LP, supervised and
+reviewed the manuscript.
+
+ACKNOWLEDGMENTS
+
+This work was supported by the Ministry of Health, Ricerca
+Corrente RC201402G003251 and 201502P003534 assigned to LP,
+Children’s Hospital Bambino Gesù, IRCCS. The authors thank
+Paola Giovanna Volpi for her careful English revision of the
+manuscript.
+
+REFERENCES
+
+Ahmed, I., Greenwood, R., Costello Bde, L., Ratcliﬀe, N. M., and Probert,
+C. S. (2013). An investigation of
+fecal volatile organic metabolites in
+irritable bowel syndrome. PLoS ONE 8:e58204. doi: 10.1371/journal.pone.00
+58204
+
+Akhatou, I., González-Domínguez, R., and Fernández-Recamales, Á. (2016).
+the eﬀect of genotype and agronomic conditions on
+Investigation of
+metabolomic proﬁles of
+selected strawberry cultivars with diﬀerent
+sensitivity to environmental stress. Plant Physiol. Biochem. 101, 14–22.
+doi: 10.1016/j.plaphy.2016.01.016
+
+Alm, L. (1982). Eﬀect of fermentation on B-vitamin content of milk in Sweden. J.
+
+Dairy Sci. 65, 353–359. doi: 10.3168/jds.S0022-0302(82)82199-1
+
+Alvarez-Sieiro, P., Montalbán-López, M., Mu, D., and Kuipers, O. P. (2016).
+Bacteriocins of lactic acid bacteria: extending the family. Appl. Microbiol.
+Biotechnol. 100, 2939–2951. doi: 10.1007/s00253-016-7343-9
+
+Amaretti, A., Raimondi, S., Leonardi, A., Quartieri, A., and Rossi, M. (2015).
+rutin and hesperidin
+Hydrolysis of
+by the gut microbiota and biﬁdobacteria. Nutrients 7, 2788–2800. doi:
+10.3390/nu7042788
+
+the rutinose-conjugates ﬂavonoids
+
+Arora, T., and Sharma, R. (2011). Fermentation potential of the gut microbiome:
+implications for energy homeostasis and weight management. Nutr. Rev. 69,
+99–106. doi: 10.1111/j.1753-4887.2010.00365.x
+
+Bacher, A., Eberhardt, S., Fischer, M., Kis, K., and Richter, G.
+
+(2000).
+Biosynthesis of vitamin b2 (riboﬂavin). Annu. Rev. Nutr. 20, 153–167. doi:
+10.1146/annurev.nutr.20.1.153
+
+Bacher, A., Eberhardt, S., and Richter, G. (1996). “Biosynthesis of riboﬂavin,” in
+Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology,
+ed F. C. Neidhardt (Washington, DC: ASM Press), 657–664.
+
+Bakhtiar, R., Ramos, L., and Tse, F. L. S. (2004). Toxicokinetic assessment of
+methylphenidate (Ritalin) in a 13-week oral toxicity study in dogs. Biomed.
+Chromatogr. 18, 45–50. doi: 10.1002/bmc.290
+
+Barker, M., Hengst, M., Schmid, J., Buers, H.-J., Mittermaier, B., Klemp,
+(2006). Volatile organic compounds in the exhaled breath
+D., et al.
+of young patients with cystic ﬁbrosis. Eur. Respir. J. 27, 929–936. doi:
+10.1183/09031936.06.00085105
+
+Bathena, S. P., Thakare, R., Gautam, N., Mukherjee, S., Olivera, M., Meza, J.,
+et al. (2015). Urinary bile acids as biomarkers for liver diseases I. Stability
+of the baseline proﬁle in healthy subjects. Toxicol. Sci. 143, 296–307. doi:
+10.1093/toxsci/kfu227
+
+Begley, M., Hill, C., and Gahan, C. G. M.
+
+(2006). Bile salt hydrolase
+activity in probiotics. Appl. Environ. Microbiol. 72, 1729–1738. doi:
+10.1128/AEM.72.3.1729-1738.2006
+
+Belkaid, Y., and Hand, T. W. (2014). Role of the microbiota in immunity and
+
+inﬂammation. Cell 157, 121–141. doi: 10.1016/j.cell.2014.03.011
+
+Best, C. A., and Laposata, M. (2003). Fatty acid ethyl esters: toxic non-oxidative
+intake. Front. Biosci. 8,
+
+metabolites of ethanol and markers of ethanol
+e202–e217. doi: 10.2741/931
+
+Binder, H. J. (2010). Role of colonic short-chain fatty acid transport in diarrhea.
+Annu. Rev. Physiol. 72, 297–313. doi: 10.1146/annurev-physiol-021909-135817
+Bjerrum, J. T., Wang, Y., Hao, F., Coskun, M., Ludwig, C., Günther, U., et al.
+(2015). Metabonomics of human fecal extracts characterize ulcerative colitis,
+Crohn’s disease and healthy individuals. Metabolomics 11, 122–133. doi:
+10.1007/s11306-014-0677-3
+
+Bone, E., Tamm, A., and Hill, M. (1976). The production of urinary phenols by gut
+bacteria and their possible role in the causation of large bowel cancer. Am. J.
+Clin. Nutr. 29, 1448–1454.
+
+Bortolini, O., Medici, A., and Poli, S. (1997). Biotransformations on steroid nucleus
+
+of bile acids. Steroids 62, 564–577. doi: 10.1016/S0039-128X(97)00043-3
+
+Bro, R., Kamstrup-Nielsen, M. H., Engelsen, S. B., Savorani, F., Rasmussen, M. A.,
+Hansen, L., et al. (2015). Forecasting individual breast cancer risk using plasma
+metabolomics and biocontours. Metabolomics 11, 1376–1380. doi: 10.1007/
+s11306-015-0793-8
+
+Bunge, M., Araghipour, N., Mikoviny, T., Dunkl, J., Schnitzhofer, R., Hansel, A.,
+et al. (2008). On-line monitoring of microbial volatile metabolites by proton
+transfer reaction-mass spectrometry. Appl. Environ. Microbiol. 74, 2179–2186.
+doi: 10.1128/AEM.02069-07
+
+Calabrò, A., Gralka, E., Luchinat, C., Saccenti, E., and Tenori, L. (2014). A
+metabolomic perspective on coeliac disease. Autoimmune Dis. 2014:756138.
+doi: 10.1155/2014/756138
+
+Calvani, R., Miccheli, A., Capuani, G., Tomassini Miccheli, A., Puccetti, C., Delﬁni,
+M., et al. (2010). Gut microbiome-derived metabolites characterize a peculiar
+obese urinary metabotype. Int. J. Obes. 34, 1095–1098. doi: 10.1038/ijo.2010.44
+Cani, P. D., Bibiloni, R., Knauf, C., Waget, A., Neyrinck, A. M., Delzenne, N.
+M., et al. (2008). Changes in gut microbiota control metabolic endotoxemia-
+induced inﬂammation in high-fat diet-induced obesity and diabetes in mice.
+Diabetes 57, 1470–1481. doi: 10.2337/db07-1403
+
+Cani, P. D., and Delzenne, N. M. (2009). The role of the gut microbiota in
+energy metabolism and metabolic disease. Curr. Pharm. Des. 15, 1546–1558.
+doi: 10.2174/138161209788168164
+
+Carroll, I. M., Ringel-Kulka, T., Siddle, J. P., and Ringel, Y. (2012). Alterations
+in composition and diversity of the intestinal microbiota in patients with
+diarrhea-predominant irritable bowel syndrome. Neurogastroenterol. Motil. 24,
+521–530, e248. doi: 10.1111/j.1365-2982.2012.01891.x
+
+Carterson, A. J., Morici, L. A., Jackson, D. W., Frisk, A., Lizewski, S. E.,
+Jupiter, R., et al. (2004). The transcriptional regulator AlgR controls cyanide
+
+Frontiers in Microbiology | www.frontiersin.org
+
+15
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+production in Pseudomonas aeruginosa. J. Bacteriol. 186, 6837–6844. doi:
+10.1128/JB.186.20.6837-6844.2004
+
+Caspi, R., Foerster, H., Fulcher, C. A., Kaipa, P., Krummenacker, M., Latendresse,
+M., et al. (2007). The MetaCyc database of metabolic pathways and enzymes
+and the BioCyc collection of pathway/genome databases. Nucleic Acids Res. 36,
+D623–D631. doi: 10.1093/nar/gkm900
+
+Catalano, P. M. (2010). Obesity, insulin resistance, and pregnancy outcome.
+
+Reproduction 140, 365–371. doi: 10.1530/REP-10-0088
+
+Chambers, E. S., Viardot, A., Psichas, A., Morrison, D. J., Murphy, K. G., Zac-
+Varghese, S. E., et al. (2015). Eﬀects of targeted delivery of propionate to the
+human colon on appetite regulation, body weight maintenance and adiposity
+in overweight adults. Gut 64, 1744–1754. doi: 10.1136/gutjnl-2014-307913
+Chang, C., Guo, Z., He, B., and Yao, W. (2015). Metabolic alterations in the sera of
+Chinese patients with mild persistent asthma: a GC-MS-based metabolomics
+analysis. Acta Pharmacol. Sin. 36, 1356–1366. doi: 10.1038/aps.2015.102
+
+Chen, J., Zhao, X., Fritsche, J., Yin, P., Schmitt-Kopplin, P., Wang, W., et al.
+(2008). Practical approach for the identiﬁcation and isomer elucidation of
+biomarkers detected in a metabonomic study for the discovery of individuals
+at risk for diabetes by integrating the chromatographic and mass spectrometric
+information. Anal. Chem. 80, 1280–1289. doi: 10.1021/ac702089h
+
+Chow, J., Panasevich, M. R., Alexander, D., Vester Boler, B. M., Rossoni Serao, M.
+C., Faber, T. A., et al. (2014). Fecal metabolomics of healthy breast-fed versus
+formula-fed infants before and during in vitro batch culture fermentation. J.
+Proteome Res. 13, 2534–2542. doi: 10.1021/pr500011w
+
+Clayton, T. A. (2012). Metabolic diﬀerences underlying two distinct rat urinary
+phenotypes, a suggested role for gut microbial metabolism of phenylalanine
+and a possible connection to autism. FEBS Lett. 586, 956–961. doi:
+10.1016/j.febslet.2012.01.049
+
+Cliﬀord, M. N. (2004). Diet-derived phenols in plasma and tissues and their
+implications for health. Planta Med. 70, 1103–1114. doi: 10.1055/s-2004-
+835835
+
+Clinton, S. K., Bostwick, D. G., Olson, L. M., Mangian, H. J., and Visek, W. J.
+(1988). Eﬀects of ammonium acetate and sodium cholate on N-methyl-N’-
+nitro-N-nitrosoguanidine-induced colon carcinogenesis of rats. Cancer Res. 48,
+3035–3039.
+
+Cody, W. L., Pritchett, C. L., Jones, A. K., Carterson, A. J., Jackson, D., Frisk,
+A., et al. (2009). Pseudomonas aeruginosa AlgR controls cyanide production
+in an AlgZ-dependent manner. J. Bacteriol. 191, 2993–3002. doi: 10.1128/
+JB.01156-08
+
+Collino, S., Martin, F. P. J., and Rezzi, S. (2012). Clinical Metabolomics paves the
+way towards future healthcare strategies. Br. J. Clin. Pharmacol. 75, 619–629.
+doi: 10.1111/j.1365-2125.2012.04216.x
+
+Couteau, D., McCartney, A. L., Gibson, G. R., Williamson, G., and Faulds, C.
+B. (2001). Isolation and characterization of human colonic bacteria able to
+hydrolyse chlorogenic acid. J. Appl. Microbiol. 90, 873–881. doi: 10.1046/j.1365-
+2672.2001.01316.x
+
+Cruciani, F., Biagi, E., Severgnini, M., Consolandi, C., Calanni, F., Donders,
+G., et al. (2015). Development of a microarray-based tool to characterize
+vaginal bacterial ﬂuctuations and application to a novel antibiotic treatment
+for bacterial vaginosis. Antimicrob. Agents Chemother. 59, 2825–2834. doi:
+10.1128/AAC.00225-15
+
+Currie, F., Broadhurst, D. I., Dunn, W. B., Sellick, C. A., and Goodacre, R.
+(2016). Metabolomics reveals the physiological response of Pseudomonas
+putida KT2440 (UWC1) after pharmaceutical exposure. Mol. BioSyst. 12,
+1367–1377. doi: 10.1039/C5MB00889A
+
+Davidson, R. T., Foley, A. L., Engelke, J. A., and Suttie, J. W. (1998). Conversion of
+dietary phylloquinone to tissue menaquinone-4 in rats is not dependent on gut
+bacteria. J. Nutr. 128, 220–223.
+
+Dawson, P. A., Lan, T., and Rao, A. (2009). Bile acid transporters. J. Lipid Res. 50,
+
+2340–2357. doi: 10.1194/jlr.R900012-JLR200
+
+De Angelis, M., Piccolo, M., Vannini, L., Siragusa, S., De Giacomo, A.,
+Serrazzanetti, D. I., et al. (2013). Fecal microbiota and metabolome of children
+with autism and pervasive developmental disorder not otherwise speciﬁed.
+PLoS ONE 8:e76993. doi: 10.1371/journal.pone.0076993
+
+De Boever, P., Wouters, R., Verschaeve, L., Berckmans, P., Schoeters, G., and
+Verstraete, W. (2000). Protective eﬀect of the bile salt hydrolase-active
+Lactobacillus reuteri against bile salt cytotoxicity. Appl. Microbiol. Biotechnol.
+53, 709–714. doi: 10.1007/s002530000330
+
+De Filippis, F., Pellegrini, N., Vannini, L., Jeﬀery, I. B., La Storia, A., Laghi, L.,
+et al. (2015). High-level adherence to a Mediterranean diet beneﬁcially impacts
+the gut microbiota and associated metabolome. Gut. doi: 10.1136/gutjnl-2015-
+309957. [Epub ahead of print].
+
+Deguchi, Y., Morishita, T., and Mutai, M. (1985). comparative studies on synthesis
+of water-soluble vitamins among human species of biﬁdobacteria. Agric. Biol.
+Chem. 49, 13–19.
+
+Del Chierico, F., Nobili, V., Vernocchi, P., Russo, A., De Stefanis, C., Gnani,
+D., et al. (2016). Gut microbiota proﬁling of pediatric NAFLD and obese
+patients unveiled by an integrated meta-omics based approach. Hepatology. doi:
+10.1002/hep.28572. [Epub ahead of print].
+
+Del Chierico, F., Vernocchi, P., Bonizzi, L., Carsetti, R., Castellazzi, A. M.,
+Dallapiccola, B., et al. (2012). Early-life gut microbiota under physiological
+and pathological conditions:
+the central role of combined meta-omics-
+based approaches. J. Proteomics 75, 4580–4587. doi: 10.1016/j.jprot.2012.
+02.018
+
+De Preter, V. (2015). Metabolomics in the clinical diagnosis of inﬂammatory bowel
+
+disease. Dig. Dis. Basel Switz. 33(Suppl. 1), 2–10. doi: 10.1159/000437033
+
+De Preter, V., Joossens, M., Ballet, V., Shkedy, Z., Rutgeerts, P., Vermeire, S., et al.
+(2013). Metabolic proﬁling of the impact of oligofructose-enriched inulin in
+Crohn’s disease patients: a double-blinded randomized controlled trial. Clin.
+Transl. Gastroenterol. 4, e30. doi: 10.1038/ctg.2012.24
+
+De Preter, V., Machiels, K., Joossens, M., Arijs, I., Matthys, C., Vermeire, S.,
+et al. (2015). Faecal metabolite proﬁling identiﬁes medium-chain fatty acids as
+discriminating compounds in IBD. Gut 64, 447–458. doi: 10.1136/gutjnl-2013-
+306423
+
+De Preter, V., and Verbeke, K. (2013). Metabolomics as a diagnostic tool in
+gastroenterology. World J. Gastrointest. Pharmacol. Ther. 4, 97–107. doi:
+10.4292/wjgpt.v4.i4.97
+
+Dettmer, K., Aronov, P. A., and Hammock, B. D. (2007). Mass spectrometry-based
+
+metabolomics. Mass Spectrom. Rev. 26, 51–78. doi: 10.1002/mas.20108
+
+De Vadder, F., Kovatcheva-Datchary, P., Goncalves, D., Vinera, J., Zitoun,
+C., Duchampt, A., et al. (2014). Microbiota-generated metabolites promote
+metabolic beneﬁts via gut-brain neural circuits. Cell 156, 84–96. doi:
+10.1016/j.cell.2013.12.016
+
+De Weirdt, R., Possemiers, S., Vermeulen, G., Moerdijk-Poortvliet, T. C. W.,
+Boschker, H. T. S., Verstraete, W., et al. (2010). Human faecal microbiota
+display variable patterns of glycerol metabolism. FEMS Microbiol. Ecol. 74,
+601–611. doi: 10.1111/j.1574-6941.2010.00974.x
+
+Di Cagno, R., De Angelis, M., De Pasquale, I., Ndagijimana, M., Vernocchi, P.,
+Ricciuti, P., et al. (2011). Duodenal and faecal microbiota of celiac children:
+molecular, phenotype and metabolome characterization. BMC Microbiol.
+11:219. doi: 10.1186/1471-2180-11-219
+
+Dicksved, J., Halfvarson, J., Rosenquist, M., Järnerot, G., Tysk, C., Apajalahti, J.,
+et al. (2008). Molecular analysis of the gut microbiota of identical twins with
+Crohn’s disease. ISME J. 2, 716–727. doi: 10.1038/ismej.2008.37
+
+Ding, X., Yang, S., Li, W., Liu, Y., Li, Z., Zhang, Y., et al. (2014). The potential
+biomarker panels for identiﬁcation of major depressive disorder (MDD)
+patients with and without early life stress (ELS) by metabonomic analysis. PLoS
+ONE 9:e97479. doi: 10.1371/journal.pone.0097479
+
+Dole, M. N., Patel, P. A., Sawant, S. D., and Shedpure, P. S. (2011). Advance
+applications of fourier transform infrared spectroscopy. Int. J. Pharm. Sci. Rev.
+Res. 7, 159–166.
+
+Donohoe, D. R., Garge, N., Zhang, X., Sun, W., O’Connell, T. M., Bunger, M.
+K., et al. (2011). The Microbiome and Butyrate Regulate Energy Metabolism
+and Autophagy in the Mammalian Colon. Cell Metab. 13, 517–526. doi:
+10.1016/j.cmet.2011.02.018
+
+Dumas, M. E., Kinross, J., and Nicholson, J. K. (2016). Metabolic phenotyping
+and systems biology approaches to understanding metabolic syndrome and
+fatty liver disease. Gastroenterology 146, 46–62. doi: 10.1053/j.gastro.2013.
+11.001
+
+Dunn, W. B., and Ellis, D.
+
+(2005). Metabolomics: current analytical
+platforms and methodologies. TrAC Trends Anal. Chem. 24, 285–294. doi:
+10.1016/j.trac.2004.11.021
+
+I.
+
+Fanos, V., Caboni, P., Corsello, G., Stronati, M., Gazzolo, D., Noto, A., et al.
+(2014). Urinary 1H-NMR and GC-MS metabolomics predicts early and late
+onset neonatal sepsis. Early Hum. Dev. 90, S78–S83. doi: 10.1016/S0378-
+3782(14)70024-6
+
+Frontiers in Microbiology | www.frontiersin.org
+
+16
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+Fiehn, O., Kopka, J., Dörmann, P., Altmann, T., Trethewey, R. N., and Willmitzer,
+L. (2000). Metabolite proﬁling for plant functional genomics. Nat. Biotechnol.
+18, 1157–1161. doi: 10.1038/81137
+
+Flint, H. J., Scott, K. P., Duncan, S. H., Louis, P., and Forano, E. (2012). Microbial
+degradation of complex carbohydrates in the gut. Gut Microbes 3, 289–306. doi:
+10.4161/gmic.19897
+
+Forcisi, S., Moritz, F., Lucio, M., Lehmann, R., Stefan, N., and Schmitt-Kopplin, P.
+(2015). Solutions for low and high accuracy mass spectrometric data matching:
+a data-driven annotation strategy in nontargeted metabolomics. Anal. Chem.
+87, 8917–8924. doi: 10.1021/acs.analchem.5b02049
+
+Francavilla, R., Calasso, M., Calace, L., Siragusa, S., Ndagijimana, M., Vernocchi,
+P., et al. (2012). Eﬀect of lactose on gut microbiota and metabolome of
+infants with cow’s milk allergy. Pediatr. Allergy Immunol. 23, 420–427. doi:
+10.1111/j.1399-3038.2012.01286.x
+
+Francavilla, R., Ercolini, D., Piccolo, M., Vannini, L., Siragusa, S., De Filippis, F.,
+et al. (2014). Salivary microbiota and metabolome associated with celiac disease.
+Appl. Environ. Microbiol. 80, 3416–3425. doi: 10.1128/AEM.00362-14
+
+Fukuda, S., Toh, H., Hase, K., Oshima, K., Nakanishi, Y., Yoshimura, K., et al.
+(2011). Biﬁdobacteria can protect from enteropathogenic infection through
+production of acetate. Nature 469, 543–547. doi: 10.1038/nature09646
+
+Gahleitner, F., Guallar-Hoyas, C., Beardsmore, C. S., Pandya, H. C., and Thomas,
+C. P. (2013). Metabolomics pilot study to identify volatile organic compound
+markers of childhood asthma in exhaled breath. Bioanalysis 5, 2239–2247. doi:
+10.4155/bio.13.184
+
+Gao, Z., Yin, J., Zhang, J., Ward, R. E., Martin, R. J., Lefevre, M., et al. (2009).
+Butyrate improves insulin sensitivity and increases energy expenditure in mice.
+Diabetes 58, 1509–1517. doi: 10.2337/db08-1637
+
+Garner, C. E., Smith, S., de Lacy Costello, B., White, P., Spencer, R., Probert, C. S.
+J., et al. (2007). Volatile organic compounds from feces and their potential for
+diagnosis of gastrointestinal disease. FASEB J. 21, 1675–1688. doi: 10.1096/fj.06-
+6927com
+
+Groh, H., Schade, K., and Hörhold-Schubert, C. (1993). Steroid metabolism
+J. Basic Microbiol. 33, 59–72. doi:
+
+with intestinal microorganisms.
+10.1002/jobm.3620330115
+
+Gromski, P. S., Muhamadali, H., Ellis, D. I., Xu, Y., Correa, E., Turner, M. L., et al.
+(2015). A tutorial review: metabolomics and partial least squares-discriminant
+analysis – a marriage of convenience or a shotgun wedding. Anal. Chim. Acta
+879, 10–23. doi: 10.1016/j.aca.2015.02.012
+
+Guerzoni, M. E., Vernocchi, P., Ndagijimana, M., Gianotti, A., and Lanciotti,
+R. (2007). Generation of aroma compounds in sourdough: eﬀects of stress
+exposure and lactobacilli–yeasts interactions. Food Microbiol. 24, 139–148. doi:
+10.1016/j.fm.2006.07.007
+
+antioxidant capacity of its catabolites. Free Radic. Biol. Med. 47, 1180–1189.
+doi: 10.1016/j.freeradbiomed.2009.07.031
+
+Jansson, J., Willing, B., Lucio, M., Fekete, A., Dicksved, J., Halfvarson, J., et al.
+(2009). Metabolomics reveals metabolic biomarkers of Crohn’s disease. PLoS
+ONE 4:e6386. doi: 10.1371/journal.pone.0006386
+
+Kamada, N., Chen, G. Y., Inohara, N., and Núñez, G. (2013). Control of pathogens
+and pathobionts by the gut microbiota. Nat. Immunol. 14, 685–690. doi:
+10.1038/ni.2608
+
+Kanehisa, M., Araki, M., Goto, S., Hattori, M., Hirakawa, M., Itoh, M., et al. (2007).
+KEGG for linking genomes to life and the environment. Nucleic Acids Res. 36,
+D480–D484. doi: 10.1093/nar/gkm882
+
+Keun, H. C., Beckonert, O., Griﬃn, J. L., Richter, C., Moskau, D., Lindon, J. C., et al.
+(2002). Cryogenic probe 13C NMR spectroscopy of urine for metabonomic
+studies. Anal. Chem. 74, 4588–4593. doi: 10.1021/ac025691r
+
+Kidd, P. (2002). Autism, an extreme challenge to integrative medicine. Part: 1: The
+
+knowledge base. Altern. Med. Rev. 7, 292–316.
+
+Kim, S. J., Kim, S. H., Kim, J. H., Hwang, S., and Yoo, H. J. (2016). Understanding
+metabolomics in biomedical research. Endocrinol. Metab. Seoul Korea 31, 7–16.
+doi: 10.3803/EnM.2016.31.1.7
+
+Kinross, J. M., Darzi, A. W., and Nicholson, J. K. (2011). Gut microbiome-host
+interactions in health and disease. Genome Med. 3, 14. doi: 10.1186/gm228
+Kleerebezem, M., and Vaughan, E. E. (2009). Probiotic and gut lactobacilli
+and biﬁdobacteria: molecular approaches to study diversity and activity.
+Annu. Rev. Microbiol. 63, 269–290. doi: 10.1146/annurev.micro.091208.
+073341
+
+Kohashi, M., Nishiumi, S., Ooi, M., Yoshie, T., Matsubara, A., Suzuki, M.,
+et al. (2014). A novel gas chromatography mass spectrometry-based serum
+diagnostic and assessment approach to ulcerative colitis. J. Crohns Colitis 8,
+1010–1021. doi: 10.1016/j.crohns.2014.01.024
+
+Konishi, Y., and Kobayashi, S. (2004). Transepithelial transport of chlorogenic
+acid, caﬀeic acid, and their colonic metabolites in intestinal caco-2 cell
+monolayers. J. Agric. Food Chem. 52, 2518–2526. doi: 10.1021/jf035407c
+
+Korithoski, B., Lévesque, C. M., and Cvitkovitch, D. G. (2008). The involvement
+of the pyruvate dehydrogenase E1alpha subunit, in Streptococcus mutans
+acid tolerance. FEMS Microbiol. Lett. 289, 13–19. doi: 10.1111/j.1574-
+6968.2008.01351.x
+
+Krajmalnik-Brown, R., Ilhan, Z.-E., Kang, D.-W., and DiBaise, J. K. (2012). Eﬀects
+of gut microbes on nutrient absorption and energy regulation. Nutr. Clin. Pract.
+27, 201–214. doi: 10.1177/0884533611436116
+
+Kumar, S., Misra, A., and Ghoshal, U. C. (2010). Patients with irritable bowel
+syndrome exhale more hydrogen than healthy subjects in fasting state. J.
+Neurogastroenterol. Motil. 16, 299–305. doi: 10.5056/jnm.2010.16.3.299
+
+Harig, J. M., Soergel, K. H., Komorowski, R. A., and Wood, C. M. (1989).
+Treatment of diversion colitis with short-chain-fatty acid irrigation. N. Engl.
+J. Med. 320, 23–28. doi: 10.1056/NEJM198901053200105
+
+Kusano, M., Mendez, E., and Furton, K. G. (2013). Comparison of the volatile
+organic compounds from diﬀerent biological specimens for proﬁling potential.
+J. Forensic Sci. 58, 29–39. doi: 10.1111/j.1556-4029.2012.02215.x
+
+Harrigan, G. G., and Goodacre, R. (2003). Metabolic Proﬁling: Its Role in Biomarker
+Discovery and Gene Function Analysis. Boston, MA: Springer US; Imprint;
+Springer.
+
+Kuzma, J., Nemecek-Marshall, M., Pollock, W. H., and Fall, R. (1995). Bacteria
+produce the volatile hydrocarbon isoprene. Curr. Microbiol. 30, 97–103. doi:
+10.1007/BF00294190
+
+Holmes, E., Li, J. V., Athanasiou, T., Ashraﬁan, H., and Nicholson, J. K.
+(2011). Understanding the role of gut microbiome-host metabolic signal
+disruption in health and disease. Trends Microbiol. 19, 349–359. doi:
+10.1016/j.tim.2011.05.006
+
+Laghi, L., Picone, G., Cruciani, F., Brigidi, P., Calanni, F., Donders, G., et al. (2014).
+Rifaximin modulates the vaginal microbiome and metabolome in women
+aﬀected by bacterial vaginosis. Antimicrob. Agents Chemother. 58, 3411–3420.
+doi: 10.1128/AAC.02469-14
+
+Holmes, E., Loo, R. L., Stamler, J., Bictash, M., Yap, I. K. S., Chan, Q., et al. (2008).
+Human metabolic phenotype diversity and its association with diet and blood
+pressure. Nature 453, 396–400. doi: 10.1038/nature06882
+
+Lambert, M. A., and Moss, C. W. (1980). Production of p-hydroxyhydrocinnamic
+acid from tyrosine by Peptostreptococcus anaerobius. J. Clin. Microbiol. 12,
+291–293.
+
+Hsiao, E. Y., McBride, S. W., Hsien, S., Sharon, G., Hyde, E. R., McCue, T.,
+et al. (2013). Microbiota modulate behavioral and physiological abnormalities
+associated with neurodevelopmental disorders. Cell 155, 1451–1463. doi:
+10.1016/j.cell.2013.11.024
+
+Islam, K. B., Fukiya, S., Hagio, M., Fujii, N., Ishizuka, S., Ooka, T., et al. (2011). Bile
+acid is a host factor that regulates the composition of the cecal microbiota in
+rats. Gastroenterology 141, 1773–1781. doi: 10.1053/j.gastro.2011.07.046
+
+Jacobs, D. M., Deltimple, N., van Velzen, E., van Dorsten, F. A., Bingham, M.,
+Vaughan, E. E., et al. (2008). (1)H NMR metabolite proﬁling of feces as a tool
+to assess the impact of nutrition on the human microbiome. NMR Biomed. 21,
+615–626. doi: 10.1002/nbm.1233
+
+Jaganath, I. B., Mullen, W., Lean, M. E. J., Edwards, C. A., and Crozier,
+A. (2009). In vitro catabolism of rutin by human fecal bacteria and the
+
+Lamichhane, S., Yde, C. C., Schmedes, M. S., Jensen, H. M., Meier, S., and Bertram,
+H. C. (2015). Strategy for nuclear-magnetic-resonance-based metabolomics
+of human feces. Anal. Chem. 87, 5930–5937. doi: 10.1021/acs.analchem.
+5b00977
+
+Leavens, W. J., Lane, S. J., Carr, R. M., Lockie, A. M., and Waterhouse, I. (2002).
+Derivatization for liquid chromatography/electrospray mass spectrometry:
+synthesis of
+tris(trimethoxyphenyl)phosphonium compounds and their
+derivatives of amine and carboxylic acids. Rapid Commun. Mass Spectrom. 16,
+433–441. doi: 10.1002/rcm.559
+
+LeBlanc, J. G., Milani, C., de Giori, G. S., Sesma, F., van Sinderen, D.,
+and Ventura, M.
+(2013). Bacteria as vitamin suppliers to their host:
+a gut microbiota perspective. Curr. Opin. Biotechnol. 24, 160–168. doi:
+10.1016/j.copbio.2012.08.005
+
+Frontiers in Microbiology | www.frontiersin.org
+
+17
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+Lechner, M., and Rieder, J. (2007). Mass spectrometric proﬁling of low-molecular-
+weight volatile compounds–diagnostic potential and latest applications. Curr.
+Med. Chem. 14, 987–995. doi: 10.2174/092986707780362916
+
+Martens, J. H., Barg, H., Warren, M. J., and Jahn, D. (2002). Microbial production
+of vitamin B12. Appl. Microbiol. Biotechnol. 58, 275–285. doi: 10.1007/s00253-
+001-0902-7
+
+Le Gall, G., Colquhoun, I. J., Davis, A. L., Collins, G. J., and Verhoeyen, M.
+E. (2003). Metabolite proﬁling of tomato (Lycopersicon esculentum) using
+1H NMR spectroscopy as a tool to detect potential unintended eﬀects
+following a genetic modiﬁcation. J. Agric. Food Chem. 51, 2447–2456. doi:
+10.1021/jf0259967
+
+Le Gall, G., Noor, S. O., Ridgway, K., Scovell, L., Jamieson, C., Johnson, I. T., et al.
+(2011). Metabolomics of fecal extracts detects altered metabolic activity of gut
+microbiota in ulcerative colitis and irritable bowel syndrome. J. Proteome Res.
+10, 4208–4218. doi: 10.1021/pr2003598
+
+Lenz, E. M., Bright, J., Knight, R., Wilson, I. D., and Major, H. (2004).
+Cyclosporin A-induced changes in endogenous metabolites in rat urine: a
+metabonomic investigation using high ﬁeld 1H NMR spectroscopy, HPLC-
+TOF/MS and chemometrics. J. Pharm. Biomed. Anal. 35, 599–608. doi:
+10.1016/j.jpba.2004.02.013
+
+Li, L., Hu, L., Han, L.-P., Ji, H., Zhu, Y., Wang, X., et al. (2014). Expression of turtle
+riboﬂavin-binding protein represses mitochondrial electron transport gene
+expression and promotes ﬂowering in Arabidopsis. BMC Plant Biol. 14:381. doi:
+10.1186/s12870-014-0381-5
+
+Lin, H. V., Frassetto, A., Kowalik, E. J. Jr., Nawrocki, A. R., Lu, M. M., Kosinski,
+J. R., et al. (2012). Butyrate and propionate protect against diet-induced
+obesity and regulate gut hormones via free fatty acid receptor 3-independent
+mechanisms. PLoS ONE 7:e35240. doi: 10.1371/journal.pone.0035240
+
+Lindon, J. C., Holmes, E., and Nicholson, J. K. (2003). So what’s the deal with
+
+metabonomics? Anal. Chem. 75, 384A–391A. doi: 10.1021/ac031386+
+
+Lis, A. W., McLaughlin, I., Mpclaughlin, R. K., Lis, E. W., and Stubbs, E. G. (1976).
+Proﬁles of ultraviolet-absorbing components of urine from autistic children,
+as obtained by high-resolution ion-exchange chromatography. Clin. Chem. 22,
+1528–1532.
+
+Liu, J.-Y., Li, N., Yang, J., Li, N., Qiu, H., Ai, D., et al. (2010). Metabolic proﬁling
+of murine plasma reveals an unexpected biomarker in rofecoxib-mediated
+cardiovascular events. Proc. Natl. Acad. Sci. U.S.A. 107, 17017–17022. doi:
+10.1073/pnas.1011278107
+
+Lord, R. S., and Bralley, J. A. (2008). Clinical applications of urinary organic acids.
+
+Part 2. Dysbiosis markers. Altern. Med. Rev. J. Clin. Ther. 13, 292–306.
+
+Martin, F.-P. J., Collino, S., Rezzi, S., and Kochhar, S. (2012). Metabolomic
+applications to decipher gut microbial metabolic inﬂuence in health and
+disease. Front. Physiol. 3:113. doi: 10.3389/fphys.2012.00113
+
+Martins-de-Souza, D.
+
+protein
+interactomics in the characterization of the molecular features of major
+depressive disorder. Dialogues Clin. Neurosci. 16, 63–73.
+
+(2014). Proteomics, metabolomics,
+
+and
+
+Mayo, B., and van Sinderen, D. (eds.). (2010). Biﬁdobacteria: Genomics and
+
+Molecular Aspects. Norfolk: Caister Academic.
+
+Michielan, A., and D’Incà, R. (2015). Intestinal permeability in inﬂammatory
+bowel disease: pathogenesis, clinical evaluation, and therapy of leaky gut. Med.
+Inﬂamm. 2015:628157. doi: 10.1155/2015/628157
+
+Mills, G. A., and Walker, V. (2001). Headspace solid-phase microextraction
+application to metabolic
+J. Chromatogr. B. Biomed. Sci. App. 753, 259–268. doi:
+
+compounds
+
+proﬁling of volatile
+investigations.
+10.1016/S0378-4347(00)00554-5
+
+in urine:
+
+Milne, S. B., Mathews, T. P., Myers, D. S., Ivanova, P. T., and Brown, H. A. (2013).
+Sum of the parts: mass spectrometry-based metabolomics. Biochemistry (Mosc.)
+52, 3829–3840. doi: 10.1021/bi400060e
+
+Moco, S., Collino, S., Rezzi, S., and Martin, F.-P. J. (2013). Metabolomics
+research. Pediatr. Res. 73, 570–576. doi:
+
+in pediatric
+
+perspectives
+10.1038/pr.2013.1
+
+Moco, S., Vervoort, J., Moco, S., Bino, R. J., De Vos, R. C. H., and Bino, R. (2007).
+Metabolomics technologies and metabolite identiﬁcation. TrAC Trends Anal.
+Chem. 26, 855–866. doi: 10.1016/j.trac.2007.08.003
+
+Montuschi, P., Paris, D., Melck, D., Lucidi, V., Ciabattoni, G., Raia, V., et al.
+(2012). NMR spectroscopy metabolomic proﬁling of exhaled breath condensate
+in patients with stable and unstable cystic ﬁbrosis. Thorax 67, 222–228. doi:
+10.1136/thoraxjnl-2011-200072
+
+Moss, C. W., Lambert, M. A., and Goldsmith, D. J. (1970). Production of
+
+hydrocinnamic acid by clostridia. Appl. Microbiol. 19, 375–378.
+
+Mueller, D. M., Allenspach, M., Othman, A., Saely, C. H., Muendlein, A., Vonbank,
+A., et al. (2015). Plasma levels of trimethylamine-N-oxide are confounded
+by impaired kidney function and poor metabolic control. Atherosclerosis 243,
+638–644. doi: 10.1016/j.atherosclerosis.2015.10.091
+
+Louis, P., Hold, G. L., and Flint, H. J. (2014). The gut microbiota, bacterial
+metabolites and colorectal cancer. Nat. Rev. Microbiol. 12, 661–672. doi:
+10.1038/nrmicro3344
+
+Mukhopadhya, I., Hansen, R., El-Omar, E. M., and Hold, G. L. (2012). IBD-what
+role do Proteobacteria play? Nat. Rev. Gastroenterol. Hepatol. 9, 219–230. doi:
+10.1038/nrgastro.2012.14
+
+Louis, P., Scott, K. P., Duncan, S. H., and Flint, H. J. (2007). Understanding the
+eﬀects of diet on bacterial metabolism in the large intestine. J. Appl. Microbiol.
+102, 1197–1208. doi: 10.1111/j.1365-2672.2007.03322.x
+
+Nanda, R., James, R., Smith, H., Dudley, C. R., and Jewell, D. P. (1989).
+Food intolerance and the irritable bowel syndrome. Gut 30, 1099–1104. doi:
+10.1136/gut.30.8.1099
+
+Lozupone, C. A., Stombaugh, J. I., Gordon, J. I., Jansson, J. K., and Knight, R.
+(2012). Diversity, stability and resilience of the human gut microbiota. Nature
+489, 220–230. doi: 10.1038/nature11550
+
+Macfarlane, G. T., and Gibson, G. R. (2004). “Microbiological aspects of SCFA
+production in the large bowel,” in Physiological and Clinical Aspects of Short-
+Chain Fatty Acids, eds J. H. Cummings, J. L. Rombeau, and T. Sakata
+(Cambridge; New York, NY: Cambridge University Press), 87–105.
+
+Macfarlane, G. T., and Macfarlane, S. (1997). Human colonic microbiota:
+ecology, physiology and metabolic potential of intestinal bacteria. Scand. J.
+Gastroenterol. Suppl. 222, 3–9. doi: 10.1080/00365521.1997.11720708
+
+Macfarlane, S., and Macfarlane, G. T. (1995). “Proteolysis and amino acid
+fermentation.,” in Human Colonic Bacteria: Role in Nutrition, Physiology, and
+Pathology, eds G. R. Gibson and G. T. Macfarlane (Boca Raton, FL: CRC press),
+75–100.
+
+Magnúsdóttir, S., Ravcheev, D., de Crécy-Lagard, V., and Thiele, I. (2015).
+Systematic genome assessment of B vitamin biosynthesis suggests co-operation
+among gut microbes. Front Genet. 20:148. doi: 10.3389/fgene.2015.00148
+
+Manach, C., Scalbert, A., Morand, C., Rémésy, C., and Jiménez, L. (2004).
+Polyphenols: food sources and bioavailability. Am. J. Clin. Nutr. 79, 727–747.
+Marchesi, J. R., Holmes, E., Khan, F., Kochhar, S., Scanlan, P., Shanahan, F., et al.
+(2007). Rapid and noninvasive metabonomic characterization of inﬂammatory
+bowel disease. J. Proteome Res. 6, 546–551. doi: 10.1021/pr060470d
+
+Marín, L., Miguélez, E. M., Villar, C. J., and Lombó, F. (2015). Bioavailability of
+dietary polyphenols and gut microbiota metabolism: antimicrobial properties.
+Biomed Res. Int. 2015:905215. doi: 10.1155/2015/905215
+
+Nardotto, G. H. B., Coelho, E. B., Marques, M. P., and Lanchote, V. L. (2016).
+Chiral analysis of carvedilol and its metabolites hydroxyphenyl carvedilol
+and O-desmethyl carvedilol in human plasma by liquid chromatography-
+tandem mass spectrometry: application to a clinical pharmacokinetic study. J.
+Chromatogr. B 1015–1016, 173–180. doi: 10.1016/j.jchromb.2016.02.028
+
+Nassar, A.-E. F., and Talaat, R. E. (2004). Strategies for dealing with metabolite
+elucidation in drug discovery and development. Drug Discov. Today 9, 317–327.
+doi: 10.1016/S1359-6446(03)03018-6
+
+Naz, S., Vallejo, M., García, A., and Barbas, C. (2014). Method validation strategies
+involved in non-targeted metabolomics. J. Chromatogr. A 1353, 99–105. doi:
+10.1016/j.chroma.2014.04.071
+
+Ndagijimana, M., Laghi, L., Vitali, B., Placucci, G., Brigidi, P., and Guerzoni, M.
+E. (2009). Eﬀect of a synbiotic food consumption on human gut metabolic
+proﬁles evaluated by (1)H Nuclear Magnetic Resonance spectroscopy. Int. J.
+Food Microbiol. 134, 147–153. doi: 10.1016/j.ijfoodmicro.2009.04.016
+
+Nicholson, J. K., Holmes, E., Kinross, J., Burcelin, R., Gibson, G., Jia, W., et al.
+(2012). Host-gut microbiota metabolic interactions. Science 336, 1262–1267.
+doi: 10.1126/science.1223813
+
+Nicholson,
+
+J. K., Holmes, E., and Wilson,
+
+(2005). Opinion: gut
+microorganisms, mammalian metabolism and personalized health care. Nat.
+Rev. Microbiol. 3, 431–438. doi: 10.1038/nrmicro1152
+
+I. D.
+
+Nicholson, J. K., and Lindon, J. C. (2008). Systems biology: metabonomics. Nature
+
+455, 1054–1056. doi: 10.1038/4551054a
+
+Noda, H., Akasaka, N., and Ohsugi, M. (1994). Biotin production by biﬁdobacteria.
+
+J. Nutr. Sci. Vitaminol. (Tokyo) 40, 181–188. doi: 10.3177/jnsv.40.181
+
+Frontiers in Microbiology | www.frontiersin.org
+
+18
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+Oresic, M., Simell, S., Sysi-Aho, M., Näntö-Salonen, K., Seppänen-Laakso, T.,
+Parikka, V., et al. (2008). Dysregulation of lipid and amino acid metabolism
+precedes islet autoimmunity in children who later progress to type 1 diabetes.
+J. Exp. Med. 205, 2975–2984. doi: 10.1084/jem.20081800
+
+Parkar, S. G., Trower, T. M., and Stevenson, D. E. (2013). Fecal microbial
+metabolism of polyphenols and its eﬀects on human gut microbiota. Anaerobe
+23, 12–19. doi: 10.1016/j.anaerobe.2013.07.009
+
+Patrignani, F., Burns, P., Serrazanetti, D., Vinderola, G., Reinheimer, J., Lanciotti,
+R., et al. (2009). Suitability of high pressure-homogenized milk for the
+production of probiotic fermented milk containing Lactobacillus paracasei and
+Lactobacillus acidophilus. J. Dairy Res. 76, 74. doi: 10.1017/S0022029908003828
+Patrignani, F., Chinnici, F., Serrazanetti, D. I., Vernocchi, P., Ndagijimana, M.,
+Riponi, C., et al. (2016). Production of volatile and sulfur compounds by
+10 saccharomyces cerevisiae strains inoculated in trebbiano must. Front.
+Microbiol. 7:243. doi: 10.3389/fmicb.2016.00243
+
+Paul, H. A., Bomhof, M. R., Vogel, H. J., and Reimer, R. A. (2016). Diet-
+induced changes in maternal gut microbiota and metabolomic proﬁles
+inﬂuence programming of oﬀspring obesity risk in rats. Sci. Rep. 6:20683. doi:
+10.1038/srep20683
+
+Pawliszyn, J. (1997). Solid Phase Microextraction: Theory and Practice. New York,
+
+NY: Wiley-VCH.
+
+Pence, H. E., and Williams, A. (2010). ChemSpider: an online chemical
+information resource. J. Chem. Educ. 87, 1123–1124. doi: 10.1021/ed100697w
+Penders, J., Thijs, C., van den Brandt, P. A., Kummeling, I., Snijders, B., Stelma,
+F., et al. (2007). Gut microbiota composition and development of atopic
+manifestations in infancy: the KOALA Birth Cohort Study. Gut 56, 661–667.
+doi: 10.1136/gut.2006.100164
+
+Perkins, N. J., and Pero, J. (2002). “Vitamin biosynthesis,” in Bacillus subtilis and
+Its Closest Relatives from Genes to Cells, eds A. L. Sonenshein, R. Losick, and J.
+A. Hoch (Washington, DC: ASM Press), 271–286.
+
+Phipps, A. N., Stewart, J., Wright, B., and Wilson, I. D. (1998). Eﬀect of diet on
+the urinary excretion of hippuric acid and other dietary-derived aromatics
+in rat. A complex interaction between diet, gut microﬂora and substrate
+speciﬁcity. Xenobiotica Fate Foreign Compd. Biol. Syst. 28, 527–537. doi:
+10.1080/004982598239443
+
+Pisano, M. B., Scano, P., Murgia, A., Cosentino, S., and Caboni, P. (2016).
+Metabolomics and microbiological proﬁle of
+Italian mozzarella cheese
+produced with buﬀalo and cow milk. Food Chem. 192, 618–624. doi:
+10.1016/j.foodchem.2015.07.061
+
+Pompei, A., Cordisco, L., Amaretti, A., Zanoni, S., Matteuzzi, D., and Rossi, M.
+(2007). Folate production by biﬁdobacteria as a potential probiotic property.
+Appl. Environ. Microbiol. 73, 179–185. doi: 10.1128/AEM.01763-06
+
+Prakash, S., Rodes, L., Coussa-Charley, M., and Tomaro-Duchesneau, C. (2011).
+Gut microbiota: next frontier in understanding human health and development
+of biotherapeutics. Biol. Targets Ther. 5, 71–86. doi: 10.2147/BTT.S19099
+
+Putignani, L., Del Chierico, F., Vernocchi, P., Cicala, M., Cucchiara, S.,
+Dallapiccola, B., et al. (2015). Gut microbiota dysbiosis as risk and premorbid
+factors of IBD and IBS along the childhood-adulthood transition. Inﬂamm.
+Bowel Dis. 22, 487–504. doi: 10.1097/MIB.0000000000000602
+
+Qiu, Y., Cai, G., Su, M., Chen, T., Liu, Y., Xu, Y., et al. (2010). Urinary
+metabonomic study on colorectal cancer. J. Proteome Res. 9, 1627–1634. doi:
+10.1021/pr901081y
+
+Raamsdonk, L. M., Teusink, B., Broadhurst, D., Zhang, N., Hayes, A., Walsh, M.
+C., et al. (2001). A functional genomics strategy that uses metabolome data
+to reveal the phenotype of silent mutations. Nat. Biotechnol. 19, 45–50. doi:
+10.1038/83496
+
+Raimondi, S., Anighoro, A., Quartieri, A., Amaretti, A., Tomás-Barberán, F. A.,
+Rastelli, G., et al. (2015). Role of biﬁdobacteria in the hydrolysis of chlorogenic
+acid. Microbiologyopen 4, 41–52. doi: 10.1002/mbo3.219
+
+Raman, M., Ahmed, I., Gillevet, P. M., Probert, C. S., Ratcliﬀe, N. M., Smith, S.,
+et al. (2013). Fecal microbiome and volatile organic compound metabolome
+in obese humans with nonalcoholic fatty liver disease. Clin. Gastroenterol.
+Hepatol. 11, 868–875.e1–3. doi: 10.1016/j.cgh.2013.02.015
+
+Ramautar, R., Somsen, G. W., and de Jong, G. J. (2013). CE-MS for metabolomics:
+developments and applications in the period 2010-2012. Electrophoresis 34,
+86–98. doi: 10.1002/elps.201200390
+
+Ridlon,
+
+metabolic parameters of humanized gnotobiotic diet induced obesity mice.
+PLoS ONE 8:e71026. doi: 10.1371/journal.pone.0071026
+and Hylemon, P. B.
+
+salt
+biotransformations by human intestinal bacteria. J. Lipid Res. 47, 241–259. doi:
+10.1194/jlr.R500013-JLR200
+
+J. M., Kang, D.-J.,
+
+(2006). Bile
+
+Robroeks, C. M. H. H. T., van Berkel, J. J. B. N., Dallinga, J. W., Jöbsis, Q.,
+Zimmermann, L. J. I., Hendriks, H. J. E., et al. (2010). Metabolomics of volatile
+organic compounds in cystic ﬁbrosis patients and controls. Pediatr. Res. 68,
+75–80. doi: 10.1203/PDR.0b013e3181df4ea0
+
+Roediger, W. E., Duncan, A., Kapaniris, O., and Millard, S. (1993). Reducing
+sulfur compounds of the colon impair colonocyte nutrition: implications
+for ulcerative colitis. Gastroenterology 104, 802–809. doi: 10.1016/0016-
+5085(93)91016-B
+
+Roessner, U., Wagner, C., Kopka, J., Trethewey, R. N., and Willmitzer, L. (2000).
+Technical advance: simultaneous analysis of metabolites in potato tuber by gas
+chromatography-mass spectrometry. Plant J. Cell Mol. Biol. 23, 131–142. doi:
+10.1046/j.1365-313x.2000.00774.x
+
+Rosselló-Mora, R., Lucio, M., Peña, A., Brito-Echeverría, J., López-López, A.,
+Valens-Vadell, M., et al. (2008). Metabolic evidence for biogeographic isolation
+of the extremophilic bacterium Salinibacter ruber. ISME J. 2, 242–253. doi:
+10.1038/ismej.2007.93
+
+Rossi, M., and Amaretti, A. (2010). “Probiotic properties of Biﬁdobacteria,” in
+Biﬁdobacteria: Genomics and Molecular Aspects, eds M. Baltasar and D. van
+Sinderen (Norfolk: Caister Academic), 97–123.
+
+Roth, J. R., Lawrence, J. G., and Bobik, T. A. (1996). Cobalamin (coenzyme B12):
+synthesis and biological signiﬁcance. Annu. Rev. Microbiol. 50, 137–181. doi:
+10.1146/annurev.micro.50.1.137
+
+Russell, D. W., and Setchell, K. D. (1992). Bile acid biosynthesis. Biochemistry
+
+(Mosc.) 31, 4737–4749. doi: 10.1021/bi00135a001
+
+Sabatino, A. D., Morera, R., Ciccocioppo, R., Cazzola, P., Gotti, S., Tinozzi,
+F. P., et al. (2005). Oral butyrate for mildly to moderately active Crohn’s
+disease. Aliment. Pharmacol. Ther. 22, 789–794. doi: 10.1111/j.1365-2036.2005.
+02639.x
+
+Savorani, F., Rasmussen, M. A., Mikkelsen, M. S., and Engelsen, S. B. (2013). A
+primer to nutritional metabolomics by NMR spectroscopy and chemometrics.
+Food Res. Int. 54, 1131–1145. doi: 10.1016/j.foodres.2012.12.025
+
+Scalan, P. D., Buckling, A., Kong, W., Wild, Y., Lynch, S. W., and Harrison,
+F. (2012). Gut dysbiosis in cystic ﬁbrosis. J. Cyst. Fibros. 11, 454–455. doi:
+10.1016/j.jcf.2012.03.007
+
+Scheppach, W. (1994). Eﬀects of short chain fatty acids on gut morphology and
+
+function. Gut 35, S35–S38. doi: 10.1136/gut.35.1_suppl.s35
+
+Scheppach, W., Pomare, E. W., Elia, M., and Cummings, J. H. (1991). The
+contribution of the large intestine to blood acetate in man. Clin. Sci. 80,
+177–182. doi: 10.1042/cs0800177
+
+Scheppach, W., Sommer, H., Kirchner, T., Paganelli, G. M., Bartram, P., Christl, S.,
+et al. (1992). Eﬀect of butyrate enemas on the colonic mucosa in distal ulcerative
+colitis. Gastroenterology 103, 51–56. doi: 10.1016/0016-5085(92)91094-K
+
+Schippa, S., Iebba, V., Santangelo, F., Gagliardi, A., De Biase, R. V., Stamato, A.,
+et al. (2013). Cystic ﬁbrosis transmembrane conductance regulator (CFTR)
+allelic variants relate to shifts in faecal microbiota of cystic ﬁbrosis patients.
+PLoS ONE 8:e61176. doi: 10.1371/journal.pone.0061176
+
+Schöller, C., Molin, S., and Wilkins, K. (1997). Volatile metabolites from some
+gram-negative bacteria. Chemosphere 35, 1487–1495. doi: 10.1016/S0045-
+6535(97)00209-9
+
+Scholtens, D. M., Muehlbauer, M. J., Daya, N. R., Stevens, R. D., Dyer, A. R., Lowe,
+L. P., et al. (2014). Metabolomics reveals broad-scale metabolic perturbations
+in hyperglycemic mothers during pregnancy. Diabetes Care 37, 158–166. doi:
+10.2337/dc13-0989
+
+Selma, M. V., Espín, J. C., and Tomás-Barberán, F. A. (2009). Interaction between
+phenolics and gut microbiota: role in human health. J. Agric. Food Chem. 57,
+6485–6501. doi: 10.1021/jf902107d
+
+Shahani, K. M., and Chandan, R. C. (1979). Nutritional and healthful aspects of
+cultured and culture-containing dairy foods. J. Dairy Sci. 62, 1685–1694. doi:
+10.3168/jds.S0022-0302(79)83481-5
+
+Silla Santos, M. H. (1996). Biogenic amines: their importance in foods. Int. J. Food
+
+Microbiol. 29, 213–231. doi: 10.1016/0168-1605(95)00032-1
+
+Respondek, F., Gerard, P., Bossis, M., Boschat, L., Bruneau, A., Rabot, S., et al.
+(2013). Short-chain fructo-oligosaccharides modulate intestinal microbiota and
+
+Siroli, L., Patrignani, F., Serrazanetti, D. I., Tabanelli, G., Montanari, C., Gardini,
+F., et al. (2015). Lactic acid bacteria and natural antimicrobials to improve the
+
+Frontiers in Microbiology | www.frontiersin.org
+
+19
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+safety and shelf-life of minimally processed sliced apples and lamb’s lettuce.
+Food Microbiol. 47, 74–84. doi: 10.1016/j.fm.2014.11.008
+
+Sivsammye, G., and Sims, H. V. (1990). Presumptive identiﬁcation of Clostridium
+diﬃcile by detection of p-cresol in prepared peptone yeast glucose broth
+supplemented with p-hydroxyphenylacetic acid.
+J. Clin. Microbiol. 28,
+1851–1853.
+
+Smirnov, K. S., Maier, T. V., Walker, A., Heinzmann, S. S., Forcisi, S., Martinez, I.,
+et al. (2016). Challenges of metabolomics in human gut microbiota research.
+Int. J. Med. Microbiol. doi: 10.1016/j.ijmm.2016.03.006. [Epub ahead of print].
+Smith, A. G., Croft, M. T., Moulin, M., and Webb, M. E. (2007). Plants need their
+vitamins too. Curr. Opin. Plant Biol. 10, 266–275. doi: 10.1016/j.pbi.2007.04.009
+Smith, C. A., O’Maille, G., Want, E. J., Qin, C., Trauger, S. A., Brandon, T. R.,
+et al. (2005). METLIN: a metabolite mass spectral database. Ther. Drug Monit.
+27,747–751. doi: 10.1097/01.ftd.0000179845.53213.39
+
+Smith, E. A., and Macfarlane, G. T. (1997). Dissimilatory amino Acid metabolism
+in human colonic bacteria. Anaerobe 3, 327–337. doi: 10.1006/anae.1997.0121
+Smolinska, A., Blanchet, L., Buydens, L. M. C., and Wijmenga, S. S. (2012).
+NMR and pattern recognition methods in metabolomics: from data acquisition
+to biomarker discovery: a review. Anal. Chim. Acta 750, 82–97. doi:
+10.1016/j.aca.2012.05.049
+
+Soga, T., Ohashi, Y., Ueno, Y., Naraoka, H., Tomita, M., and Nishioka, T.
+(2003). Quantitative metabolome analysis using capillary electrophoresis mass
+spectrometry. J. Proteome Res. 2, 488–494. doi: 10.1021/pr034020m
+
+Srinivasan, S., Morgan, M. T., Fiedler, T. L., Djukovic, D., Hoﬀman, N. G.,
+Raftery, D., et al. (2015). Metabolic signatures of bacterial vaginosis. MBio 6,
+e00204–e00215. doi: 10.1128/mBio.00204-15
+
+Stanton, C., Ross, R. P., Fitzgerald, G. F., and Van Sinderen, D. (2005). Fermented
+functional foods based on probiotics and their biogenic metabolites. Curr. Opin.
+Biotechnol. 16, 198–203. doi: 10.1016/j.copbio.2005.02.008
+
+Stashenko, E. E.,
+
+Jaramillo, B. E., and Martínez,
+
+(2004). Analysis
+from Colombian Xylopia aromatica
+of volatile secondary metabolites
+(Lamarck) by diﬀerent
+extraction and headspace methods and gas
+chromatography. J. Chromatogr. A 1025, 105–113. doi: 10.1016/j.chroma.2003.
+10.059
+
+J. R.
+
+Stephens, N. S., Siﬄedeen, J., Su, X., Murdoch, T. B., Fedorak, R. N., and
+Slupsky, C. M. (2013). Urinary NMR metabolomic proﬁles discriminate
+inﬂammatory bowel disease from healthy. J. Crohns Colitis 7, e42–e48. doi:
+10.1016/j.crohns.2012.04.019
+
+Sugawara, T., Sawada, D., Ishida, Y., Aihara, K., Aoki, Y., Takehara, I., et al.
+(2016). Regulatory eﬀect of paraprobiotic Lactobacillus gasseri CP2305 on gut
+environment and function. Microb. Ecol. Health Dis. 27:30259. doi: 10.3402/
+mehd.v27.30259
+
+et al.
+
+Suhre, K., Meisinger, C., Döring, A., Altmaier, E., Belcredi, P., Gieger,
+footprint of diabetes: a multiplatform
+C.,
+metabolomics study in an epidemiological setting. PLoS ONE 5:e13953.
+doi: 10.1371/journal.pone.0013953
+
+(2010). Metabolic
+
+Suttie, J. W. (1995). The importance of menaquinones in human nutrition. Annu.
+
+Rev. Nutr. 15, 399–417. doi: 10.1146/annurev.nu.15.070195.002151
+
+Tabanelli, G., Bargossi, E., Gardini, A., Lanciotti, R., Magnani, R., Gardini,
+F., et al. (2015a). Physico-chemical and microbiological characterisation of
+Italian fermented sausages in relation to their size: Italian fermented sausages
+characterisation. J. Sci. Food Agric. 96, 2773–2781. doi: 10.1002/jsfa.7442
+
+Tabanelli, G., Vernocchi, P., Patrignani, F., Del Chierico, F., Putignani, L.,
+Vinderola, G., et al. (2015b). Eﬀects of sub-lethal high-pressure homogenization
+treatment on the outermost cellular structures and the volatile-molecule
+proﬁles of two strains of probiotic lactobacilli. Front. Microbiol. 6:1006. doi:
+10.3389/fmicb.2015.01006
+
+Taverniti, V., and Guglielmetti, S. (2012). Health-promoting properties of
+Lactobacillus helveticus. Front. Microbiol. 3:392. doi: 10.3389/fmicb.2012.00392
+Vaidyanathan, S., Kell, D. B., and Goodacre, R. (2002). Flow-injection electrospray
+ionization mass spectrometry of crude cell extracts for high-throughput
+bacterial
+J. Am. Soc. Mass Spectrom. 13, 118–128. doi:
+identiﬁcation.
+10.1016/S1044-0305(01)00339-7
+
+Vannini, L., Patrignani, F., Iucci, L., Ndagijimana, M., Vallicelli, M., Lanciotti,
+R., et al. (2008). Eﬀect of a pre-treatment of milk with high pressure
+homogenization on yield as well as on microbiological, lipolytic and proteolytic
+patterns of “Pecorino” cheese. Int. J. Food Microbiol. 128, 329–335. doi:
+10.1016/j.ijfoodmicro.2008.09.018
+
+van Zanten, G. C., Krych, L., Röytiö, H., Forssten, S., Lahtinen, S. J., Al-
+Soud, W. A., et al. (2014). Synbiotic Lactobacillus acidophilus NCFM and
+cellobiose does not aﬀect human gut bacterial diversity but increases abundance
+of lactobacilli, biﬁdobacteria and branched-chain fatty acids: a randomized,
+double-blinded cross-over trial. FEMS Microbiol. Ecol. 90, 225–236. doi:
+10.1111/1574-6941.12397
+
+Velázquez, O. C., Lederer, H. M., and Rombeau, J. L. (1997). Butyrate and the
+colonocyte. Production, absorption, metabolism, and therapeutic implications.
+Adv. Exp. Med. Biol. 427, 123–134. doi: 10.1007/978-1-4615-5967-2_14
+
+Vernocchi, P., Ndagijimana, M., Serrazanetti, D. I., López, C. C., Fabiani, A.,
+Gardini, F., et al. (2011). Use of Saccharomyces cerevisiae strains endowed
+with β-glucosidase activity for the production of Sangiovese wine. World J.
+Microbiol. Biotechnol. 27, 1423–1433. doi: 10.1007/s11274-010-0594-1
+
+Vernocchi, P., Vannini, L., Gottardi, D., Del Chierico, F., Serrazanetti, D. I.,
+Ndagijimana, M., et al. (2012). Integration of datasets from diﬀerent analytical
+techniques to assess the impact of nutrition on human metabolome. Front. Cell.
+Infect. Microbiol. 2:156. doi: 10.3389/fcimb.2012.00156
+
+Veselkov, K. A., Lindon, J. C., Ebbels, T. M. D., Crockford, D., Volynkin, V. V.,
+Holmes, E., et al. (2009). Recursive segment-wise peak alignment of biological
+(1)h NMR spectra for improved metabolic biomarker recovery. Anal. Chem.
+81, 56–66. doi: 10.1021/ac8011544
+
+Villas-Bôas, S. G., Mas, S., Akesson, M., Smedsgaard, J., and Nielsen, J. (2005). Mass
+spectrometry in metabolome analysis. Mass Spectrom. Rev. 24, 613–646. doi:
+10.1002/mas.20032
+
+Villaseñor, A., Kinross, J. M., Li, J. V., Penney, N., Barton, R. H., Nicholson, J.
+K., et al. (2014). 1H NMR global metabolic phenotyping of acute pancreatitis
+in the emergency unit.
+J. Proteome Res. 5, 362–375. doi: 10.1021/pr5
+00161w
+
+Vitali, B., Cruciani, F., Picone, G., Parolin, C., Donders, G., and Laghi, L.
+(2015). Vaginal microbiome and metabolome highlight speciﬁc signatures of
+bacterial vaginosis. Eur. J. Clin. Microbiol. Infect. Dis. 34, 2367–2376. doi:
+10.1007/s10096-015-2490-y
+
+Vitali, B., Ndagijimana, M., Cruciani, F., Carnevali, P., Candela, M., Guerzoni,
+M. E., et al. (2010). Impact of a synbiotic food on the gut microbial
+ecology and metabolic proﬁles. BMC Microbiol. 10:4. doi: 10.1186/1471-
+2180-10-4
+
+Vitali, B., Ndagijimana, M., Maccaferri, S., Biagi, E., Guerzoni, M. E., and Brigidi,
+P. (2012). An in vitro evaluation of the eﬀect of probiotics and prebiotics
+on the metabolic proﬁle of human microbiota. Anaerobe 18, 386–391. doi:
+10.1016/j.anaerobe.2012.04.014
+
+Vitali, B., Pugliese, C., Biagi, E., Candela, M., Turroni, S., Bellen, G., et al.
+(2007).Dynamics of vaginal bacterial communities in women developing
+bacterial vaginosis, candidiasis, or no infection, analyzed by PCR-denaturing
+gradient gel electrophoresis and real-time PCR. Appl. Environ. Microbiol. 73,
+5731–5741. doi: 10.1128/AEM.01251-07
+
+Walker, A., Lucio, M., Pﬁtzner, B., Scheerer, M. F., Neschen, S., de Angelis, M.
+H., et al. (2014). Importance of sulfur-containing metabolites in discriminating
+fecal extracts between normal and type-2 diabetic mice. J. Proteome Res. 13,
+4220–4231. doi: 10.1021/pr500046b
+
+Walton, C., Fowler, D. P., Turner, C., Jia, W., Whitehead, R. N., Griﬃths, L.,
+et al. (2013). Analysis of volatile organic compounds of bacterial origin in
+chronic gastrointestinal diseases. Inﬂamm. Bowel Dis. 19, 2069–2078. doi:
+10.1097/MIB.0b013e31829a91f6
+
+Wang, T., Carroll, W., Lenny, W., Boit, P., and Smith, D. (2006). The analysis
+of 1-propanol and 2-propanol in humid air samples using selected ion ﬂow
+tube mass spectrometry. Rapid Commun. Mass Spectrom. 20, 125–130. doi:
+10.1002/rcm.2285
+
+Watanabe, S., Narisawa, Y., Arase, S., Okamatsu, H., Ikenaga, T., Tajiri, Y., et al.
+(2003). Diﬀerences in fecal microﬂora between patients with atopic dermatitis
+and healthy control subjects. J. Allergy Clin. Immunol. 111, 587–591. doi:
+10.1067/mai.2003.105
+
+Weckwerth, W., and Morgenthal, K. (2005). Metabolomics:
+
+from pattern
+recognition to biological interpretation. Drug Discov. Today 10, 1551–1558. doi:
+10.1016/S1359-6446(05)03609-3
+
+Williams, H. R. T., Cox, I. J., Walker, D. G., Cobbold, J. F. L., Taylor-Robinson,
+S. D., Marshall, S. E., et al. (2010). Diﬀerences in gut microbial metabolism
+are responsible for reduced hippurate synthesis in Crohn’s disease. BMC
+Gastroenterol. 10:108. doi: 10.1186/1471-230X-10-108
+
+Frontiers in Microbiology | www.frontiersin.org
+
+20
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+Wilson, M. (2005). Microbial Inhabitants of Human. Cambridge; New York, NY:
+
+Cambridge University Press.
+
+Wishart, D. S., Jewison, T., Guo, A. C., Wilson, M., Knox, C., Liu, Y., et al. (2013).
+HMDB 3.0–the human metabolome database in 2013. Nucleic Acids Res. 41,
+D801–D807. doi: 10.1093/nar/gks1065
+
+Wissenbach, D. K., Oliphant, K., Rolle-Kampczyk, U., Yen, S., Höke, H., Baumann,
+S., et al. (2016). Optimization of metabolomics of deﬁned in vitro gut microbial
+ecosystems. Int. J. Med. Microbiol. doi: 10.1016/j.ijmm.2016.03.007. [Epub
+ahead of print].
+
+J. A.
+
+Wong, J. M. W., de Souza, R., Kendall, C. W. C., Emam, A., and Jenkins,
+D.
+fermentation and short chain fatty
+acids. J. Clin. Gastroenterol. 40, 235–243. doi: 10.1097/00004836-200603000-
+00015
+
+(2006). Colonic health:
+
+Worley, B., and Powers, R. (2012). Multivariate analysis in metabolomics. Curr.
+
+Metabolomics 1, 92–107. doi: 10.2174/2213235x11301010092
+
+Yamashita, H., Fujisawa, K., Ito, E., Idei, S., Kawaguchi, N., Kimoto, M., et al.
+(2007). Improvement of obesity and glucose tolerance by acetate in type 2
+diabetic otsuka long-evans tokushima fatty (OLETF) rats. Biosci. Biotechnol.
+Biochem. 71, 1236–1243. doi: 10.1271/bbb.60668
+and Patti, G.
+
+(2015). Deﬁning the
+size, ﬂux, and regulation. Mol. Cell 58, 699–706. doi:
+
+Zamboni, N., Saghatelian, A.,
+
+J.
+
+metabolome:
+10.1016/j.molcel.2015.04.021
+
+Zhang, G., Bai, H., Zhang, H., Dean, C., Wu, Q., Li, J., et al. (2011). Neuropeptide
+exocytosis
+involving synaptotagmin-4 and oxytocin in hypothalamic
+programming of body weight and energy balance. Neuron 69, 523–535.
+doi: 10.1016/j.neuron.2010.12.036
+
+Zhang, A., Sun, H., and Wang, X. (2012). Saliva metabolomics opens door
+to biomarker discovery, disease diagnosis, and treatment. Appl. Biochem.
+Biotechnol. 168, 1718–1727. doi: 10.1007/s12010-012-9891-5
+
+Zhang, C., Yin, A., Li, H., Wang, R., Wu, G., Shen,
+
+(2015).
+Dietary modulation of gut microbiota contributes to alleviation of both
+genetic and simple obesity in children. EBioMedicine 2, 966–982. doi:
+10.1016/j.ebiom.2015.07.007
+
+J., et al.
+
+Zhao, L., and Hartung, T. (2015). Metabonomics and toxicology. Methods Mol.
+
+Biol. Clifton NJ 1277, 209–231. doi: 10.1007/978-1-4939-2377-9_15
+
+Zhao, L., Liu, X., Xie, L., Gao, H., and Lin, D. (2010). 1H NMR-based metabonomic
+analysis of metabolic changes in streptozotocin-induced diabetic rats. Anal. Sci.
+Int. J. Jpn. Soc. Anal. Chem. 26, 1277–1282. doi: 10.2116/analsci.26.1277
+
+Zheng, X., Xie, G., Zhao, A., Zhao, L., Yao, C., Chiu, N. H. L., et al. (2011). The
+footprints of gut microbial-mammalian co-metabolism. J. Proteome Res. 10,
+5512–5522. doi: 10.1021/pr2007945
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2016 Vernocchi, Del Chierico and Putignani. This is an open-access
+article distributed under the terms of the Creative Commons Attribution License (CC
+BY). The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) or licensor are credited and that the original publication in this
+journal is cited, in accordance with accepted academic practice. No use, distribution
+or reproduction is permitted which does not comply with these terms.
+
+Frontiers in Microbiology | www.frontiersin.org
+
+21
+
+July 2016 | Volume 7 | Article 1144
+
+

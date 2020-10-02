@@ -1,0 +1,58 @@
+Diet helps shape the composition of the intestinal microbiota. Differences in the distribution 
+of bacteria are associated with dietary patterns and this influences host exposure to microbial 
+metabolites. De Filippo et al. showed that the gut microbiome of children living in Burkina 
+Faso was significantly different than European children of the same age.5 The microbiome 
+of the children from Burkina Faso was more varied, produced more butyrate, and had more 
+Prevotella than Bacteroides. The children in Burkina Faso consumed a diet high in fiber and 
+non-animal protein whereas the European children consumed a diet higher in refined 
+carbohydrates and animal protein. Similar trends were seen in other studies that compared 
+residents in non-industrialized and industrialized societies.6, 7 Although these observational 
+studies lay the ground work for the connection between diet and the microbiome in human 
+populations, factors other than diet may influence the composition and function of the 
+microbiome in these different habitats.8
+Histone proteins are involved in tightly packing chromosomes into chromatin in the nucleus. 
+Modification of histone proteins loosens the chromatin, making it more available for 
+transcription. Post-translational modifications of the N-termini of histone 3 or histone 4, 
+occur by acetylation, methylation, ubiquitination, phosphorylation, or sumoylation. The 
+enzymes involved in these reactions include: histone acetyltransferases (HATs) which adds 
+acetyl groups; histone deacetylases (HDAC), which removes them; histone 
+methyltransferases (MHTs), which add methyl groups to lysine and/or arginine groups; and 
+histone demethyltransferases (DMHTs), which removes them. HATs catalyze the addition 
+Glucosinolates are converted into isothiocyanates (ITC) by either the plant myrosinases, or 
+bacterially produced thioglucosidases. Cooking cruciferous vegetables deactivates the plant 
+myrosinases, and given that most cruciferous vegetables consumed by humans are cooked, 
+gut bacteria play a critical role in converting glucosinolates to ITC. Previous studies have 
+shown that certain species of bacteria, such as Escherichia coli, Bacteroides 
+thetaiotaomicron, Enterococcus faecalis, Enterococcus faecium, Peptostreptococcus sp. and 
+Epigallocatechin-3-gallate (EGCG) is a polyphenol found in green tea that has been reported 
+to impact human health including anti-oxidative, blood cholesterol and sugar level lowering, 
+and cancer preventive activities. However, epidemiologic studies show inconsistent results 
+when evaluating green tea consumption in relation to colon cancer risk.66-70 This is in part 
+due to differences in tea consumption habits and failure to account for other factors, such as 
+alcohol consumption or tobacco smoke, which may modify the effect of green tea 
+consumption on health.71, 72 A recent study found that green tea consumed at least three 
+times per week for more than 6 months was associated with reduced risk of colorectal cancer 
+by 23% in non-smokers.67
+Ellagitannins are polyphenols that are found in fruits, such as pomegranate, raspberries, 
+strawberries, blackberries, and nuts, such as walnuts and almonds. Ingested ellagitannins are 
+hydrolyzed in the stomach and small intestine to ellagic acid. The gut microbiome 
+metabolizes ellagitannins to urolithins by removal of one of the lactone rings and subsequent 
+dehydroxylation in the colon. Enterohepatic circulation of urolithins and ellagic acids alters 
+host exposure to these compounds, and there is large between person variation in urolithin 
+production.83 Recent studies suggest that bacteria from the C. coccoides group and 
+Colon cancer is associated with a high-fat diet in western populations and rates in non-
+western populations are increasing as a more western, non-traditional diet is adopted.98, 99 
+Recent studies in mice suggest that the gut microbiome influences the size and composition 
+of the bile acid pool throughout the enterohepatic system and exposure may influence cancer 
+risk.100 For example, R. gnavus can convert 7-oxo-lithocholic acid to UDCA.101 A study of 
+the microbiome in colorectal and healthy subjects found a 63% increase in the amount of 
+UDCA in stools of healthy individuals correlated with Ruminococcus sp.102 Secondary bile 
+acids, deoxychloate (DCA), lithodeoxycholate (LDA), and ursodeoxycholate (UDCA) 
+increase in response to high fat diets and are increased in populations with higher incidence 
+of colorectal cancers. In particular, there was a positive association with DCA and colorectal 
+adenomas, a precursor to colorectal cancer.103-109 In contrast, UDCA has been shown in 
+animal and in vitro studies to reduce the risk of cancer dysplasia and cancer 
+development110, 111 and, in a phase III clinical trial, UDCAs reduced the degree of dysplasia 
+in colonic polyps.,112 Recent mechanistic studies suggest that, in contrast to butyrate, 
+UDCA induced cell differentiation and senescence in colon cancer cells via histone 
+hypoacetylation.113

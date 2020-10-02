@@ -1,0 +1,2520 @@
+Fecal test parasites and occult blood
+
+Admission
+
+DXA
+
+OGTT
+
+OF or UF
+Duplicate meals
+
+OF or UF
+Duplicate meals
+
+OGTT
+
+CH
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+WMD
+
+WMD
+
+WMD
+
+Stool and urine
+for calorie loss
+
+Dye
+marker
+
+Dye
+marker
+
+Stool and urine
+for calorie loss
+
+Dye
+marker
+
+Dye
+marker
+
+Inpatient admission before randomization
+
+HPN,
+LPL
+
+CBC,
+blood
+
+WMSD
+Duplicate meals
+
+OGTT
+
+CH
+
+HPN,
+LPL
+
+CBC,
+blood
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+Discharge
+
+WMD
+
+Stool and urine
+for calorie loss
+
+Dye
+marker
+
+Dye
+marker
+
+WMD
+
+Inpatient admission after randomization to oral vancomycin (125 mg or placebo four times a day)
+
+Fig. 1 | Study outline. Following screening, participants were admitted and placed on a WMD. Dual-energy X-ray absorptiometry (DXA) scan was 
+performed on day 2 and OGTT on day 4 of admission. Participants were then fed (in random order) 50% of WMD (UF) and 150% of WMD (OF) on days 
+5–7 and 11–13, with a 3-d washout period in between. Dye marker for stool collection was given on the mornings of days 5, 8, 11 and 14. Collection of food 
+(duplicate meals to perform bomb calorimetry) was done on days 5–7 and 11–13. Following the UF/OF phase, participants were on WMD for 2 d then on 
+consecutive days underwent OGTT (day 16) measurement of 24-h energy expenditure in a whole-room indirect calorimeter (day 17) and measurement of 
+fasting ANGPLT4 and heparin-induced measurement of LPL (day 18). Following this last test, participants were then randomized to oral vancomycin versus 
+placebo. On days 23–25 while on WMD, meals were again made in duplicate for bomb calorimetry. Participants again ingested dye marker to mark stool 
+on the morning of day 23 before breakfast and again on the morning of day 26. Stool and urine were collected between dye markers for measurement of 
+calorie excretion. Whole-room indirect calorimetry for the assessment of the 24-h energy expenditure and substrate oxidation was repeated on day 29; 
+heparin-induced measurement of LPL and ANGPTL4 was repeated on day 30. CBC, complete blood count; CH, respiratory chamber ; HPN, heparin bolus; 
+WMSD, weight-maintaining special diet.
+
+children15,16. In adults, a 7-d course of oral antibiotics failed to elicit 
+any significant differences in stool calorie loss despite widespread 
+changes  in  gut  microbial  community  structure  and  function17. 
+These  negative  results  are  surprising  given  the  extensive  data  in 
+animal  models,  wherein  microbiota  depletion  with  antibiotics  or 
+housing under sterile (germ-free) conditions results in marked dif-
+ferences in metabolic phenotypes of adult animals6–8.
+
+Taken together, the causal evidence from multiple animal model 
+studies  and  largely  correlative  or  retrospective  data  from  human 
+cohorts  led  us  to  further  investigate  the  role  of  the  human  gut 
+microbiome  in  nutrient  absorption.  We  designed  a  clinical  study 
+(ClinicalTrials.gov identifier: NCT02037295) to test whether inter-
+ventions  designed  to  alter  the  gut  microbiota  cause  significant 
+differences  in  stool  calorie  loss,  which  serve  as  an  experimentally 
+quantifiable proxy for nutrient absorption. In this two-phase study, 
+we directly measured stool and ingested calories along with plasma 
+biomarkers  of  host  and  microbial  metabolism  during  overfeeding 
+(OF) and UF (phase I) and then in a randomized, double-blind, pla-
+cebo-controlled trial with oral vancomycin versus placebo (phase II). 
+Previous studies have indicated that oral vancomycin can decrease 
+the relative abundance of the Firmicutes phylum while preserving 
+Lactobacillaceae18 which has been associated with beneficial meta-
+bolic  effects19.  Oral  vancomycin  also  has  minimal  absorption  and 
+thus nearly no local or systemic side effects in healthy individuals20.
+
+Results
+UF  and  antibiotics  both  impair  nutrient  absorption.  We  con-
+ducted a controlled dietary study in two contiguous phases (Fig. 1). 
+Individuals were admitted to the Clinical Research Unit (CRU) for 
+approximately 31 d (Fig. 1), during which they were fed a weight-
+maintaining diet (WMD) (20% kcal protein; 30% kcal fat; 50% kcal 
+carbohydrate) adjusted to maintain a stable weight (±1%). In total, 
+we screened 51 potential participants, of which 27 initiated and 25 
+completed the study (Extended Data Fig. 1). In phase I, participants 
+
+were fed 3 d each of 150% of WMD (OF diet) and 50% of WMD 
+(UF diet) with a 3-d washout period in between in random order in 
+a cross-over design. In phase II, the same subjects were randomized 
+to placebo or oral vancomycin. There were no significant differences 
+in the vancomycin versus placebo groups in sex, age, body weight, 
+body mass index (BMI), percentage body fat or glucose homeostasis 
+(Supplementary Table 1). Participants were inpatients for the entire 
+study  and  were  monitored  daily,  and  there  were  no  reported  side 
+effects, in particular diarrhea or abdominal symptoms.
+
+Our  results  from  phase  I  demonstrated  that  caloric  intake 
+led  to  significant  differences  in  nutrient  absorption.  As  speci-
+fied  by  our  study  design,  daily  ingested  calories  were  signifi-
+cantly  higher  during  OF  (4,446.5 ± 547.8 kcal d−1)  relative  to  UF 
+(1,494.2 ± 211.0 kcal d−1;  Fig.  2a).  On  average,  this  corresponds  to 
+a difference of 2,952.3 kcal d−1. Food and stool calories were mea-
+sured  by  bomb  calorimetry,  allowing  us  to  calculate  percentage 
+calorie  loss  for  each  individual  (100 × (stool  calories/ingested  cal-
+ories)).  As  expected,  the  absolute  number  of  calories  lost  per  day 
+was significantly higher in overfed relative to underfed individuals 
+(257.4 ± 91.2 kcal d−1 versus 123.5 ± 32.4 kcal d−1, Δ = 139.4 kcal d−1, 
+P < 0.0001, paired Student’s t-test; Fig. 2b and Supplementary Table 
+2).  However,  when  expressed  as  percentage  of  ingested  calories 
+per  day,  there  was  significantly  greater  stool  calorie  loss  during 
+UF relative to OF (8.9 ± 3.7% versus 5.8 ± 1.9%, Δ = 2.3% per day, 
+P < 0.0001, paired Student’s t-test; Fig. 2c and Supplementary Table 
+2), with a strong and significant intrasubject correlation (Pearson’s 
+r = 0.70,  P = 0.004).  Transit  time  was  faster  during  UF  compared 
+with  OF  (Δ = −10.6 h,  P = 0.0035,  paired  Student’s  t-test;  Fig.  2d). 
+Daily  calorie  loss  from  urine  was  lower  during  UF  versus  OF  in 
+absolute  values  (Supplementary  Table  2)  but  was  higher  during 
+UF  versus  OF  when  expressed  as  percentage  of  ingested  calories 
+(Extended Data Fig. 2a and Supplementary Table 2). There was no 
+detectable  effect  of  diet  order  or  sex  (all  P > 0.07;  Supplementary 
+Table 3).
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNe∆ = 2,952.3 kcal d–1
+P < 0.0001
+
+∆ = 139.4 kcal d–1
+P < 0.0001
+
+OF diet
+
+UF diet
+
+OF diet
+
+UF diet
+
+∆ = 2.3% per day
+P < 0.0001
+
+∆ = –10.6 h 
+P = 0.0035
+
+600
+
+400
+
+200
+
+0
+
+b
+
+Absolute stool calories (kcal d–1)
+
+d
+
+100
+
+80
+
+60
+
+40
+
+Transit time (h)
+
+Diet order
+
+OF → UF
+UF → OF
+
+6,000
+
+4,500
+
+3,000
+
+1,500
+
+a
+
+Daily food intake (kcal d–1)
+
+c
+
+(percentage per day)
+Calories excreted in stool
+
+0
+
+16
+
+14
+
+12
+
+10
+
+02468
+
+OF diet
+
+UF diet
+
+OF diet
+
+UF diet
+
+Fig. 2 | Dietary interventions impact nutrient absorption. Graphs show results from 23 participants who completed the UF and OF phase of the study. 
+Two participants did not have available stool measurements during UF. a, Mean of 3-d food intake during OF (n = 25) and UF (n = 25) diets, expressed 
+in kilocalories per day. b, Mean stool calories expressed as absolute calorie loss (kcal d−1) during OF (n = 25) and UF (n = 23). c, Mean stool calories 
+expressed as percentage excretion, calculated as (stool calories (kcal d−1)/ingested calories (kcal d−1)) × 100 during OF (n = 25) and UF (n = 23) diets. 
+d, Mean transit time, expressed in hours, during OF (n = 25) and UF (n = 23). Δ indicates the mean difference between groups (UF versus OF). P values 
+determined by two-sided paired Student’s t-test. Participants who started the dietary phase with OF are represented by red dots, while those who started 
+with UF are represented by white dots. The transit time was defined as the time between the first and the last appearance of the dye marker during each 
+intervention, in hours.
+
+Next,  we  sought  to  compare  these  results  in  a  parallel  study 
+design aimed at directly targeting the gut microbiota. As specified by 
+our study design, daily ingested calories were comparable between 
+the  placebo  and  vancomycin  groups  (Fig.  3a  and  Supplementary 
+Table  2). Vancomycin  led to a significant  increase in  stool calorie 
+loss expressed in absolute kilocalories per day (260.1 ± 66.5 kcal d−1 
+versus  176.8 ± 79.5 kcal d−1,  Δ = 83.2 kcal d−1,  P = 0.012,  unpaired 
+Student’s  t-test;  Fig.  3b)  or  the  percentage  of  ingested  calories 
+(8.4 ± 1.9% versus 5.8 ± 2.2%, Δ = 2.6, P = 0.0069, unpaired Student’s 
+t-test; Fig. 3c). Importantly, transit time did not differ between van-
+comycin and placebo groups (P = 0.2, unpaired Student’s t-test; Fig. 
+3d).  In  contrast  to  the  dietary  intervention,  there  was  no  differ-
+ence  in  urine  caloric  excretion  between  the  vancomycin  and  pla-
+cebo groups (Extended Data Fig. 2b and Supplementary Table 2). 
+No  differences  were  observed  when  the  analysis  was  stratified  by 
+sex (Supplementary Table 4). There was also no absolute change in 
+trajectory for body weight in individuals treated with vancomycin 
+(Δ = 0.2 kg, P = 0.5, unpaired Student’s t-test). Taken together, these 
+results support our hypothesis that both UF and vancomycin result 
+in greater stool calorie loss relative to ingested calories (greater per-
+centage  of  calories  measured  in  stool),  indicating  a  reduction  in 
+nutrient absorption in both states.
+
+Shifts  in  the  gut  microbiome  in  response  to  UF  and  oral  anti-
+biotics.  To  identify  candidate  effector  microorganisms  that  could 
+contribute  to  the  observed  differences  in  nutrient  absorption,  we 
+evaluated  the  impacts  of  dietary  and  pharmacological  perturba-
+tions  on  gut  microbial  community  structure  using  a  combination 
+of amplicon and metagenomic sequencing. We sequenced samples 
+
+from all 25 participants at key time points during phase I, includ-
+ing a baseline sample collected at the beginning of the trial, mid-
+point samples collected during each 3-d UF and OF period, samples 
+collected pre and post each dietary intervention and three samples 
+collected  during  the  vancomycin  or  placebo  arm  (Supplementary 
+Table 5). To examine longitudinal changes in gut microbial struc-
+ture throughout the study, we also sequenced daily samples during 
+phase I (16 d) for ten subjects, including five subjects who showed 
+the highest difference in percentage stool calories loss and another 
+five subjects who showed the lowest difference in percentage stool 
+calories loss between the dietary arms (Supplementary Table 5).
+
+Our nutritional results from phase I (Fig. 2) led us to speculate 
+that the gut microbiota may be relatively ‘starved’ of nutrients dur-
+ing the UF phase, which would be expected to lead to a decrease in 
+bacterial colonization. Surprisingly, we found a significant increase 
+in total colonization levels (Fig. 4a) during UF versus OF. These dif-
+ferences were still significant after normalizing for stool production 
+(P = 0.005,  paired  Wilcoxon  test).  Overall  microbial  community 
+structure  was  maintained  throughout  the  3-d  UF  and  OF  inter-
+ventions, maintaining the significant interindividual differences at 
+baseline (Fig. 4b–d). When analyzed within each subject, we were 
+able to identify two individuals (of ten evaluated) that had signifi-
+cant differences in overall microbial community structure between 
+diet arms (Fig. 4e), which may suggest that the baseline gut micro-
+biota matters for its sensitivity to the dietary interventions. Overall 
+microbial diversity was also relatively stable throughout the 16 d of 
+phase I (Fig. 4f); however, there was significant increase in diver-
+sity on the final day of UF relative to the final day of OF (P = 0.04, 
+paired  Wilcoxon  test).  There  were  no  significant  differences  
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeP = 0.5
+
+∆ = 83.2 kcal d–1
+P = 0.012
+
+Placebo
+
+Vancomycin
+
+Placebo
+
+Vancomycin
+
+400
+
+300
+
+200
+
+100
+
+0
+
+b
+
+Absolute stool calories (kcal d–1)
+
+d
+
+100
+
+80
+
+60
+
+40
+
+Transit time (hours)
+
+4,000
+
+3,500
+
+3,000
+
+2,500
+
+2,000
+
+a
+
+Daily food intake (kcal d–1)
+
+c
+
+12
+
+10
+
+02468
+
+(percentage per day)
+Calories excreted in stool
+
+∆ = 2.6% per day
+P = 0.0069
+
+P = 0.2
+
+Placebo
+
+Vancomycin
+
+Placebo
+
+Vancomycin
+
+Fig. 3 | Pharmacologic interventions impact nutrient absorption. Results from 24 participants who completed the randomized phase of the study. One 
+volunteer in the vancomycin group did not have available stool measurements. a, Mean of 3-d food intake (kcal d−1) in the vancomycin (n = 11) and placebo 
+(n = 13) groups. b, Mean absolute calorie loss in stool (kcal d−1) in the vancomycin (n = 11) versus placebo (n = 13) groups. c, Mean percentage calorie loss 
+in stool (kcal d−1) in the vancomycin (n = 11) versus placebo (n = 13) groups. d, Mean transit time, expressed in hours, in vancomycin (n = 11) and placebo 
+(n = 13) groups. Δ indicates the mean difference between groups (vancomycin and placebo). P values determined by two-sided unpaired Student’s t-test. 
+Transit time was defined as the time between the first and the last appearance of the dye marker during each intervention, in hours. Error bars represent 
+the mean with 95% confidence interval.
+
+in  phylum-  or  genus-level  relative  abundance  between  diet  arms, 
+with the exception of the Verrucomicrobia phylum which was sig-
+nificantly  increased  during  UF  (Extended  Data  Fig.  3).  At  a  finer 
+taxonomic level, we were able to identify four 16S ribosomal RNA 
+sequence  variants  that  were  significantly  associated  with  the  diet 
+arm (independent of order): A. muciniphila, Bacteroides coprocola, 
+a  Lachnospiraceae  sp.  and  a  Ruminoccoccus  sp.  (Fig.  4g).  Taken 
+together,  these  results  indicate  the  overall  resiliency  of  the  gut 
+microbiota faced with differences in caloric intake while also high-
+lighting  a  small  number  of  diet-responsive  bacterial  species  that 
+could contribute to the observed differences in nutrient absorption.
+Next, we used metagenomic sequencing to confirm and extend 
+the  observed  shifts  in  gut  bacterial  relative  abundance.  Samples 
+were  selected  from  18  individuals  at  four  key  time  points  includ-
+ing a baseline  sample,  midpoint samples  during  each 3-d UF and 
+OF period, a sample during the washout period in between and a 
+sample during the vancomycin or placebo arm. In total, we gener-
+ated 381.7 giga base pairs of sequencing data from the 95 samples 
+during  phase  I  (Supplementary  Table  6).  Differentially  abundant 
+bacteria  on  each  diet  arm  (independent  of  order)  were  identified 
+using  a  paired  Wilcoxon  test.  This  analysis  revealed  nine  bacte-
+rial  species  that  were  significantly  different  between  the  two  diet 
+arms (Fig. 4h and Supplementary Table 7), including an enrichment 
+for A. muciniphila during UF, consistent with our 16S rRNA gene 
+sequencing-based  analysis  (Fig.  4g).  We  also  detected  an  enrich-
+ment for multiple Alistipes species during UF.
+
+In contrast to caloric intake, the oral antibiotic vancomycin had 
+dramatic and reproducible impacts on the gut microbiota relative to 
+placebo controls. While colonization level was not different by treat-
+ment group (P = 0.26, unpaired Wilcoxon test; Fig. 5a), there was a 
+significant decrease in microbial diversity, as assessed by 16S rRNA 
+gene  sequencing  (P < 0.0001,  unpaired  Wilcoxon  test;  Fig.  5b). 
+
+Vancomycin  also  had  a  significant  impact  on  gut  microbial  com-
+munity structure, outweighing the pre-existing interindividual dif-
+ferences (Fig. 5c). Compared with placebo, the vancomycin-treated 
+subjects  had  marked  changes  in  phylum-level  relative  abundance 
+(Extended  Data  Fig.  4a).  Finer-level  analysis  of  sequence  variants 
+demonstrated  several  discrete  clusters  of  bacteria  across  different 
+phyla that were altered in the vancomycin-treated group (Extended 
+Data Fig. 4b and Supplementary Table 8).
+
+Metagenomic sequencing confirmed the broad and reproducible 
+differences between the vancomycin and placebo groups. Analysis 
+using unpaired Wilcoxon tests revealed 41 bacterial species with a 
+significant difference (false discovery rate (FDR) < 0.05) in relative 
+abundance  (Fig.  5d),  with  a  skew  towards  decreased  abundance 
+in the vancomycin group (31 decreased, 10 increased). Consistent 
+with  our  16S  rRNA  gene  sequencing  data,  these  vancomycin-
+depleted  bacteria  spanned  multiple  gram-positive  (Actinobacteria 
+and  Firmicutes)  and  gram-negative  (Bacteroidetes)  phyla.  Three 
+Veillonella  species21  were  significantly  enriched  in  vancomycin-
+treated  individuals.  We  also  detected  an  enrichment  for  multiple 
+Lactobacillus  and  Klebsiella  species  in  the  vancomycin  group,  in 
+addition  to  a  virulent  bacteriophage  that  infects  lactobacilli  (Lc-
+Nu)22,  consistent  with  evidence  in  mouse  models  that  antibiotics 
+induce phage production23.
+
+Despite increased stool calorie loss with both UF versus OF and 
+vancomycin  versus  placebo,  we  found  markedly  different  effects  of 
+these interventions on the gut microbiota. UF and OF produced little 
+perturbation at the phylum or finer levels, while vancomycin resulted 
+in widespread changes in gut microbial community structure. Despite 
+these differences, we were able to identify two bacterial species that 
+consistently changed in response to both perturbations (Fig. 5e) based 
+on  16S  rRNA  sequence  variants  analysis:  A.  muciniphila,  a  mucin-
+degrading  bacterium  with  a  putative  role  in  preserving  gut  barrier 
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNefunction24–26,  which  was  enriched  during  UF  and  in  the  vancomy-
+cin group, and an unidentified species belonging to Lachnospiraceae 
+NK4A136 group, which decreased during UF and vancomycin inter-
+ventions. Metagenomic sequencing confirmed the enrichment for A. 
+muciniphila  during  UF  (Fig.  4h),  and  a  trend  towards  increased  A. 
+muciniphila abundance in the vancomycin group (P = 0.25).
+
+Mechanistic insights into host–microbiome interactions relevant 
+to  metabolic  disease  in  UF  versus  OF  and  vancomycin  versus 
+placebo  interventions.  To  gain  further  insight  into  the  specific 
+bacterial  genes,  enzymes  and  metabolic  pathways  associated  with 
+nutrient absorption, we annotated our metagenomic datasets using 
+HUMAnN2 (ref.  27). Consistent with our taxonomic analyses (Fig. 
+4), which revealed modest perturbation of gut microbial commu-
+nity structure with UF versus OF, functional profiling of the micro-
+biome  datasets  did  not  reveal  any  significant  differences  in  gene 
+family  or  metabolic  pathway  abundance  between  the  diet  arms. 
+In  contrast,  we  found  significant  differences  in  the  abundance  of 
+760 of a total of 3,553 Kyoto Encyclopedia of Genes and Genomes 
+(KEGG)  functional  orthologs  (KEGG  Orthology)  (FDR < 0.1, 
+Supplementary  Table  9)  between  vancomycin  and  placebo,  con-
+sistent  with  the  widespread  changes  in  gut  microbial  community 
+structure (Fig. 5a–d). At the pathway level there was a more modest 
+difference between groups; only 3 of 290 metabolic pathways were 
+differentially abundant (all decreased) with vancomycin compared 
+with placebo (Extended Data Fig. 5). Interestingly, two of the three 
+significant  pathways  (pyruvate  fermentation  to  butanoate  and  the 
+superpathway of Clostridium acetobutylicum acidogenic fermenta-
+tion) were related to the fermentation of sugars to the major short-
+chain  fatty  acid  butyrate  (aka  butanoate),  suggesting  that  there 
+could  be  reduced  butyrate  production  or  bacterial  metabolism  by 
+the gut microbiota during vancomycin treatment.
+
+To  provide  more  direct  support  for  the  inferred  differences  in 
+gut  microbial  metabolism,  we  evaluated  plasma  short-chain  fatty 
+acids as markers of the ability of the gut microbiome to process and 
+metabolize nutrients, together with hormones and bile acids impli-
+cated in nutrient absorption and gut barrier function. These mea-
+surements were performed before and following each intervention. 
+Consistent  with  earlier  studies28–33,  GLP-1  and  leptin  significantly 
+increased during OF and leptin and GLP-2 significantly decreased 
+during UF (Supplementary Table 10). Butyrate, a major end-prod-
+uct of gut bacterial metabolism, was significantly decreased follow-
+ing  both  UF  (Fig.  6a)  and  vancomycin  (Fig.  6b),  supporting  our 
+metagenomic analyses and consistent with a decrease in the capac-
+ity of the gut microbiome to harvest nutrients during these inter-
+ventions. Deoxycholic acid, a secondary bile acid, also significantly 
+decreased following both interventions (Fig. 6c,d). Elevated deoxy-
+cholic  acid  has  been  implicated  in  increased  gut  permeability34. 
+Lower concentrations may imply preservation of the gut barrier and 
+lower nutrient absorption. Vancomycin also decreased acetate, pro-
+pionate and the secondary bile acid lithocholic acid (Extended Data 
+
+Fig. 6), consistent with the broad impact of this oral antibiotic on 
+the gut microbiome.
+
+Increased stool calorie loss might be due to improved gut bar-
+rier  function,  thereby  decreasing  gut  permeability.  We  measured 
+two  circulating  plasma  markers  that  when  increased  may  signify 
+increased  gut  permeability:  zonulin,  a  modulator  of  intercellular 
+tight junctions35; and lipopolysaccharide (LPS), a product of gram-
+negative  bacteria36.  There  were  no  changes  in  plasma  zonulin  or 
+LPS concentrations with UF (Supplementary Table 10). During OF, 
+plasma  zonulin  concentration  increased  (Δ = 0.4,  P = 0.04,  paired 
+Student’s  t-test)  but  there  was  no  change  in  plasma  LPS  concen-
+trations.  Plasma  LPS  and  zonulin  concentrations  did  not  change 
+during  vancomycin  or  placebo  administration.  Except  for  a  slight 
+increase in zonulin with OF, we did not find evidence of altered gut 
+permeability. Lastly, we evaluated whether vancomycin administra-
+tion affected energy or substrate oxidation rates or metabolites that 
+regulate fat storage and glucose metabolism. There were no signifi-
+cant differences in (1) angiopoietin-like 4 (ANGPTL4) or lipopro-
+tein lipase activity (LPL) (Supplementary Table 11); (2) 24-h energy 
+expenditure  or  substrate  oxidation  (Extended  Data  Fig.  7);  or  (3) 
+glucose tolerance or insulin concentrations (Extended Data Fig. 8).
+
+Discussion
+In  this  two-phase  study  we  directly  measured  ingested  and  stool 
+calories, demonstrating an increased and comparable stool calorie 
+loss relative to ingested calories during two states: UF versus OF and 
+oral vancomycin versus placebo. This increase in stool calorie loss 
+during UF and vancomycin administration occurred despite differ-
+ent effects on the gut microbiota. We saw a modest perturbation of 
+gut microbial community structure with UF versus OF, while oral 
+vancomycin  induced  widespread  changes  with  reduced  diversity 
+and marked shifts in gut bacterial relative abundances. Decreased 
+plasma butyrate and deoxycholic acid concentrations were common 
+to  both  interventions  that  induced  greater  stool  calorie  loss.  Our 
+study  employs  direct  measurements  of  ingested,  stool  and  urine 
+calories and close monitoring of and consistency of dietary intake, 
+through the critical periods of stool collection. As participants were 
+inpatients, provided stool samples were timed so that we were able 
+to analyze gut bacterial abundance concurrent with interventions.
+
+As a major end-product of bacterial metabolism, plasma butyr-
+ate  is  a  marker  of  the  availability  or  ability  of  the  gut  microbiota 
+to  process  nutrients37.  Given  this,  our  results  indicate  that  either 
+decreased calorie delivery to the microbiome, as in the case of UF, 
+or widespread changes in its structure, due to oral vancomycin, limit 
+microbiome nutrient harvesting capacity, resulting in increased stool 
+calorie loss. This offers evidence based on directly measured calories, 
+in  the  form  of  stool  calorie  measurement  accounting  for  ingested 
+calories, that in humans the gut microbiome has a measurable role 
+in metabolizing nutrients. Based on our results, we would estimate 
+that the gut microbiome harvested an additional ~2.5% of absolute 
+ingested calories under the conditions used for our study cohort.
+
+Fig. 4 | changes in gut microbiome in response to dietary interventions. a, Overall gut microbial colonization during OF and UF as demonstrated by 
+qPCR-based quantification of 16S rRNA gene copies per gram wet weight (n = 30 samples from 15 individuals; two-sided paired Wilcoxon test). b, First 
+principal coordinate of Bray–Curtis dissimilarity between the two diet arms. Subjects are split by diet order (n = 11 OF → UF and n = 9 UF → OF). c, First 
+two principal coordinates of Bray–Curtis dissimilarity for daily samples from ten subjects during the dietary phase. Each point represents a single sample 
+(n = 156 samples), where color denotes subject identity and shape denotes diet (weight maintaining, WM). d, Distance of microbial communities to 
+baseline sample (day 1) over time. Colors indicate diet; each point represents a single sample (n = 156 samples). Subjects are split by diet order with  
+OF (purple) and UF (yellow) periods shaded. Lines represent mean ± s.e.m. P value, two-sided paired Wilcoxon test of 3-d averaged values between  
+the two diet arms. e, Variance explained by diet (n = 156 samples across 10 subjects) as quantified by R2 values using Adonis tests for each subject 
+(*P < 0.05). f, Shannon diversity over time, labeled and analyzed as in panel d (n = 156 samples). g, Relative abundance of sequence variants that were 
+significantly different between diet arms (FDR-adjusted P value, Q < 0.1, DESeq2 with two-sided Wald test) over time. Lines represent mean ± s.e.m.  
+h, Relative abundances of bacterial species based on metagenomics that were significantly different between diet arms (n = 34 samples from 17 
+individuals; FDR < 0.05, paired Wilcoxon test). Each point represents a single sample. Letters in panels b, c and e indicate subject identity. Diet order  
+in panels a, g and h is indicated by color: red, OF first; gray, UF first. P values in panels b and c from Adonis tests. PCo1, principal coordinate 1.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeDiet
+OF
+UF
+
+Pdiet = 0.63
+Psubject = 0.002
+
+Diet
+OF
+UF
+WM
+
+Pdiet = 0.19
+
+Diet
+OF
+UF
+WM
+
+Pdiet = 0.16
+
+LTRHNCBVZ
+
+OF → UF
+
+UF → OF
+
+Day
+
+OF → UF
+
+UF → OF
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13 14 15 16
+
+Diet order
+
+OF → UF
+UF → OF
+
+*
+*
+P = 0.06
+
+0.2
+
+N
+
+Q
+
+E
+
+0
+
+J
+
+Y
+
+I
+
+V
+
+U
+
+Diet
+OF
+UF
+WM
+
+–0.2
+
+–0.4
+
+Pdiet = 0.52
+Psubject = 0.001
+
+M
+
+Z
+
+–0.4
+
+–0.2
+
+0
+
+0.2
+
+PCo1: 12.2% variation explained
+
+OF
+
+UF
+
+–0.4
+
+–0.2
+
+0
+
+–0.2 –0.1 0
+PCo1: 12.2% variation explained
+
+0.2
+
+0.1
+
+0.2
+
+1.5
+
+1.0
+
+0.5
+
+0
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0
+
+012
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+15
+
+10
+
+05
+
+01234
+
+OF
+
+UF
+
+OF
+
+UF
+
+OF
+
+UF
+
+Alistipes onderdonkii
+
+Alistipes putredinis
+
+Alistipes senegalensis
+
+Q = 0.037
+
+OF
+
+UF
+
+OF
+
+UF
+
+OF
+
+UF
+
+Bacteroides caccae
+
+Barnesiella intestinihominis
+
+Lactobacillus ruminis
+
+Bacteroides coprocola
+
+Lachnospiraceae sp.
+
+Ruminococcus sp.
+
+Q = 0.075 
+
+Q = 0.054
+
+Q = 0.096
+
+0
+
+0.1
+
+0.2
+
+R 2 value
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Day
+
+A. muciniphila 
+
+Akkermansia muciniphila
+
+Alistipes finegoldii
+
+Alistipes indistinctus
+
+1 2 3 4 5 6 7 89 1 0 11 12 13 14 15 16
+Day
+
+OF → UF
+
+UF → OF
+
+OF
+
+UF
+
+OF
+
+UF
+
+OF
+
+UF
+
+Diet order: OF → UF
+
+UF → OF
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+SOUEIQDKPM
+
+A
+
+b
+
+Subject identity
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+02468
+
+0369
+
+0123
+
+d
+
+Distance to baseline
+
+f
+
+Shannon diversity
+
+h
+
+Abundance (%)
+
+11
+
+10
+
+09
+
+08
+
+16S rRNA copies per gram (log10)
+
+a
+
+c
+
+PCo2: 8.7% variation explained 
+
+e
+
+Subject identity
+
+g
+
+Abundance (%)
+
+NJEZQYIVUM
+
+2.0
+1.5
+1.0
+0.5
+0
+
+0123
+
+1.0
+
+0.5
+
+0
+
+1.5
+1.0
+0.5
+0
+
+Our  previous  study5,  designed  to  compare  stool  calorie  loss 
+in  lean  versus  obese  participants  given  diets  of  identical  calo-
+rie  content,  found  that  UF  decreased  the  ratio  of  Firmicutes  to 
+
+Bacteroidetes and increased relative stool calorie loss. In lean indi-
+viduals,  the  decreased  Firmicutes  to  Bacteroidetes  ratio  was  asso-
+ciated  with  greater  relative  stool  calorie  loss,  indicating  decreased 
+
+P = 0.01
+
+OF → UF
+
+UF → OF
+
+ArticlesNature MediciNePlacebo
+
+Vancomycin
+
+–0.6
+
+–0.4
+
+–0.2
+
+0
+
+0.2
+
+0.4
+
+PCo1: 29.5% Variation explained 
+
+e
+
+Vancomycin versus
+placebo
+
+UF versus OF
+
+253
+
+2
+
+2
+
+0.50
+
+0.25
+
+0
+
+–0.25
+
+c
+
+PCo2: 12.0% Variation explained 
+
+012
+
+–1
+
+–2
+
+–3
+
+Z score
+
+Placebo
+
+Vancomycin
+
+Placebo
+
+Vancomycin
+
+Placebo
+
+Vancomycin
+
+4
+
+3
+
+2
+
+1
+
+b
+
+Shannon diversity
+
+Veillonella dispar
+Veillonella parvula
+Veillonella sp.
+Lactobacillus rhamnosus
+Klebsiella sp.
+Lactobacillus phage Lc_Nu
+Lactobacillus salivarius
+Klebsiella oxytoca
+Megasphaera micronuciformis
+Odoribacter splanchnicus
+Parabacteroides merdae
+Alistipes putredinis
+Erysipelotrichaceae bacterium 21_3
+Lachnospiraceae bacterium 7_1_58FAA
+Ruminococcus sp 5_1_39BFAA
+Clostridium leptum
+Oscillibacter sp.
+Subdoligranulum sp.
+Collinsella aerofaciens
+Eubacterium rectale
+Lachnospiraceae bacterium 3_1_46FAA
+Ruminococcus obeum
+Ruminococcus torques
+Clostridium symbiosum
+Gordonibacter pamelaeae
+Flavonifractor plautii
+Clostridium bolteae
+Clostridium hathewayi
+Lachnospiraceae bacterium 1_4_56FAA
+Ruminococcaceae bacterium D16
+Alistipes onderdonkii
+Alistipes senegalensis
+Eubacterium eligens
+Roseburia hominis
+Ruminococcus lactaris
+Eubacterium ramulus
+Holdemania filiformis
+Dorea formicigenerans
+Coprococcus comes
+Anaerostipes hadrus
+Lachnospiraceae bacterium 5_1_63FAA
+
+3 × 1010
+
+1 × 1010
+
+3 × 109
+
+1 × 109
+
+a
+
+16S rRNA (copies per gram)
+
+d
+
+Species
+
+Firmicutes
+Bacteroidetes
+
+Proteobacteria
+Actinobacteria
+Others
+
+D H I P Q R T J K Y
+
+A
+
+C
+
+E N
+
+O U V Z
+
+Subject identity
+
+Fig. 5 | changes in the gut microbiome in response to oral vancomycin. a, Overall gut microbial colonization, represented as 16S rRNA gene copies per 
+gram wet weight, between vancomycin and placebo groups (P = 0.26, two-sided unpaired Wilcoxon test). Each data point represents the mean value 
+of samples from each subject (n = 63 samples from 23 subjects). b, Shannon diversity in microbial communities of vancomycin and placebo groups 
+(P < 0.0001, two-sided unpaired Wilcoxon test). Each data point represents the mean value of samples from each subject (n = 70 samples from 24 
+subjects). Boxplots in a and b indicate the interquartile range (IQR, 25th to 75th percentiles), with a center line indicating the median and whiskers 
+showing the value ranges up to 1.5 × IQR above the 75th or below the 25th percentiles. c, Principal coordinate analysis of Bray–Curtis dissimilarity for 
+ordination of microbial communities of subjects on vancomycin or placebo. Each data point shows the mean and standard deviation of samples from each 
+subject (n = 70 samples from 24 subjects; P < 0.0001, determined using Adonis comparing effect of treatment and accounting for repeated measures 
+per subject). d, Heatmap of differentially abundant species, determined by shotgun metagenomic sequencing, between vancomycin (n = 8) and placebo 
+(n = 10) groups (FDR < 0.05, two-sided unpaired Wilcoxon test). Letters represent subject identity. e, Venn diagram of 16S rRNA sequence variants 
+significantly different between vancomycin and placebo, or UF and OF, respectively (FDR < 0.1, two-sided unpaired or paired Wilcoxon test). Two bacterial 
+species consistently changed in response to both perturbations: A. muciniphila and an unidentified species belonging to Lachnospiraceae NK4A136 group.
+
+nutrient  absorption.  Our  current  study  differs  by  more  carefully 
+controlling OF and UF by systematically providing diets that were 
+50%  or  150%  of  participants’  weight-maintaining  needs.  We  con-
+firmed and quantified the effect of UF on increasing relative stool 
+calorie loss. However, in contrast to our previous results, we did not 
+observe significant changes at the phylum level. The difference in 
+
+our  current  study  may  have  been  due  to  the  more  carefully  con-
+trolled dietary conditions, with each participant receiving the exact 
+same foods for each 3-d OF and UF period, indicating that factors 
+other than calorie load (for example, differing meal content) may 
+have led to our previously observed changes in phylum-level bacte-
+rial relative abundance.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNe8
+
+6
+
+4
+
+2
+
+0
+
+Butyrate (µM)
+
+1,000
+
+100
+
+10
+
+1
+
+d
+
+Deoxycholic acid (ng ml–1)
+
+a
+
+∆ = 0.16
+P = 0.0007
+
+∆ = –0.13
+P = 0.0071
+
+b
+
+∆ = – 0.46
+P = 0.0004
+
+Pre
+
+Post
+
+Pre
+
+Post
+
+Pre
+
+Post
+
+Pre
+
+Post
+
+OF
+
+UF
+
+Placebo
+
+Vancomycin
+
+1,000
+
+P = 0.8
+
+∆ = –0.18
+P = 0.012
+
+∆ = –1.28
+P < 0.0001
+
+8
+
+6
+
+4
+
+2
+
+0
+
+Butyrate (µM)
+
+100
+
+10
+
+1
+
+c
+
+Deoxycholic acid (ng ml–1)
+
+Diet order
+
+OF → UF
+
+UF → OF
+
+Pre
+
+Post
+
+Pre
+
+Post
+
+Pre
+
+Post
+
+Pre
+
+Post
+
+OF
+
+UF
+
+Placebo
+
+Vancomycin
+
+Fig. 6 | common changes in plasma butyrate and deoxycholic acid following dietary and pharmacologic interventions. a,b, Mean butyrate concentrations 
+during OF (n = 24) and UF (n = 23) (a) and during vancomycin (n = 11) versus placebo (n = 13) groups (b). Δ indicates the difference (log expressed) 
+between pre- and postdietary intervention measurements (a) and the difference (log expressed) between pre- and postrandomization measurements in 
+vancomycin and placebo groups (b). c,d, Mean deoxycholic acid concentrations (ng ml−1) during OF (n = 21) and UF (n = 21) (c) and during vancomycin 
+(n = 10) versus placebo (n = 11) groups (d). Δ indicates the difference (log expressed) between pre- and postdietary intervention measurements (c) and 
+the difference (log expressed) between pre- and postrandomization measurements in vancomycin and placebo groups (d). P values determined by two-
+sided paired Student’s t-test (a, c) or two-sided Student’s unpaired t-test (b, d). Participants who started the dietary phase with OF are represented by 
+red dots, while those who started with UF are represented by white dots. The sample size for each intervention refers to the volunteers who had available 
+measurements of butyrate and/or deoxycholic acid concentrations.
+
+Our results also differ from another carefully conducted study17 
+that  did  not  find  an  effect  of  oral  vancomycin  on  stool  calories 
+despite widespread changes in gut microbial community structure 
+and  metabolite  concentrations.  We  carefully  controlled  ingested 
+calories,  with  both  placebo  and  vancomycin  groups  receiving  the 
+exact same meals. By measuring ingested calories, we were able to 
+calculate percentage of stool calories absorbed. This is important, 
+as  labeled  calories  reflect  ‘metabolizable’  calories  whose  accuracy 
+is problematic for careful energy balance studies such as these38–41. 
+Nevertheless,  we  found  differences  in  both  absolute  and  percent-
+age  stool  calories.  The  difference  in  actual  calories  of  ~80 kcal d−1 
+appears to be comparable to the difference in stool calories between 
+placebo and vancomycin groups in the study by Reijnders et al.17.
+
+Our  results  provide  insights  into  potential  mechanisms  that 
+could explain the increased stool calories loss. Both perturbations 
+(UF and vancomycin) resulted in a significant increase in the rela-
+tive abundance of A. muciniphila, which is recognized for its ability 
+to forage on host mucins42. In mice, A. muciniphila counteracts the 
+effect of the decrease in mucous layer thickness produced by a high-
+fat diet26, producing weight loss without changes in food intake. A. 
+muciniphila increases turnover of the mucous layer preventing dis-
+ruption of tight junctions, which may reduce gut permeability43,44. 
+In  humans,  a  randomized,  double-blind,  placebo-controlled  pilot 
+study revealed a trend towards decreased body weight and fat mass 
+
+in  response  to  A.  muciniphila  supplementation45.  Administration 
+of  pasteurized  A.  muciniphila  cells45  in  this  study  increased  stool 
+energy content, consistent with our results. Additional studies are 
+warranted to elucidate the role and mechanisms of A. muciniphila 
+in nutrient absorption.
+
+Both perturbations led to a significant decrease in plasma butyrate 
+and deoxycholic acid concentrations, consistent with earlier studies17. 
+These  two  compounds  play  opposing  roles  in  the  gastrointestinal 
+tract,  affecting  gut  barrier  function  and  modifying  epithelial  layer 
+nutrient  permeability.  In  vitro,  deoxycholic  acid  reduces  both  the 
+tight junction protein zonula occludens-1 and mucin-producing gob-
+let cells and increases intestinal macrophage polarization, suggesting 
+that deoxycholic acid interferes with intestinal barrier function and 
+induces  intestinal  inflammation34.  Butyrate,  on  the  other  hand,  has 
+a salutary effect on gut barrier function46. In vitro studies show that 
+butyrate and other short-chain fatty acids stimulate intestinal barrier 
+formation, inducing protection against disruption from LPSs47. Our 
+observations suggest that caloric intake and antibiotics may disrupt 
+the balance between these, and likely other, microbial metabolites that 
+regulate barrier function, resulting in altered nutrient absorption.
+
+We  evaluated  alternative  mechanisms  that  could  explain  the 
+observed  differences  in  nutrient  absorption.  We  did  not  find  evi-
+dence  that  circulating  markers  of  gut  permeability  (plasma  LPS36 
+and zonulin35,48,49) decreased with interventions that led to reduced 
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNenutrient  absorption.  Energy  content  in  stool  may  also  be  affected 
+by  colonic  transit  time,  which  was  more  rapid  with  UF.  In  rats,  a 
+reduced  transit  time  increases  fecal  volume  and  suppresses  fat 
+absorption50.  During  isocaloric  diets  of  similar  macronutrient  but 
+differing fiber content, high-fiber (expected to increase stool calorie 
+loss) decreases transit time compared with low-fiber diets51. For UF, 
+more rapid transit could have decreased contact time with gut epi-
+thelium, decreasing absorption.
+
+We  do  acknowledge  several  limitations.  Our  sample  size  was 
+small, yet in this carefully controlled inpatient study we had a diverse 
+participant population. The study was powered to detect differences 
+in stool calorie excretion between UF and OF and vancomycin ver-
+sus placebo. Thus, we lacked power to detect associations between 
+the gut microbiota and stool calorie loss. Also, we acknowledge that 
+a direct causal role for the bacterial species, genes and metabolites 
+associated with energy harvest needs to be tested in animal models 
+and controlled human intervention studies.
+
+The UF and OF periods were only 3 d, and it is possible that more 
+dramatic shifts in the gut microbiota might occur with more pro-
+longed dietary interventions. Oral vancomycin was the only antibi-
+otic tested, so we do not know whether other antibiotics might have 
+an effect on stool calories using our study design. We also did not 
+have stool samples or dietary records before admission to determine 
+how different our study diets were to free-living diets. Any proposed 
+mechanisms regarding nutrient absorption were inferred as we are 
+not able to directly assess nutrient transit across the intestine.
+
+The  functional  role  of  the  human  gut  microbiome  in  nutrient 
+absorption remains a topic of intense interest in the field of energy 
+balance. In our study, both calorie restriction and oral vancomycin 
+led to increased stool calorie loss and lower levels of plasma butyr-
+ate. The magnitude of this effect is ~2.5% of ingested calories, which 
+would translate to a ~1.2-kg weight loss in a 100-kg subject over 1 yr 
+(ref. 52). By limiting nutrient availability to the microbiome by calo-
+rie restriction or altering the ability of the microbiome to metabo-
+lize calories by widespread change in community structure, our data 
+provide evidence for a causal role for the human gut microbiome in 
+nutrient metabolism.
+
+Online content
+Any  methods,  additional  references,  Nature  Research  reporting 
+summaries,  source  data,  extended  data,  supplementary  informa-
+tion, acknowledgements, peer review information; details of author 
+contributions and competing interests; and statements of data and 
+code  availability  are  available  at  https://doi.org/10.1038/s41591-
+020-0801-z.
+
+Received: 15 February 2019; Accepted: 13 February 2020;  
+Published: xx xx xxxx
+
+References
+1.  Huang, K. C., Kormas, N., Steinbeck, K., Loughnan, G. & Caterson, I. D. 
+ 
+
+Resting metabolic rate in severely obese diabetic and nondiabetic subjects. 
+Obesity 12, 840–845 (2004).
+
+2.  Ravussin, E. Energy metabolism in obesity: studies in the Pima Indians. 
+ 
+
+Diabetes Care 16, 232–238 (1993).
+
+3.  Tataranni, P. et al. Body weight gain in free-living Pima Indians: effect of 
+ 
+
+energy intake vs expenditure. Int. J. Obes. 27, 1578 (2003).
+
+4.  Heymsfield, S. et al. Energy malabsorption: measurement and nutritional 
+ 
+
+consequences. Am. J. Clin. Nutr. 34, 1954–1960 (1981).
+
+5.  Jumpertz, R. et al. Energy-balance studies reveal associations between gut 
+ 
+
+microbes, caloric load, and nutrient absorption in humans. Am. J. Clin. Nutr. 
+94, 58–65 (2011).
+
+6.  Sommer, F. & Backhed, F. The gut microbiota—masters of host development 
+ 
+
+and physiology. Nat. Rev. Microbiol. 11, 227–238 (2013).
+
+7.  Zmora, N., Suez, J. & Elinav, E. You are what you eat: diet, health and the gut 
+ 
+
+microbiota. Nat. Rev. Gastroenterol. Hepatol. 16, 35–56 (2019).
+
+8.  Blanton, L. V., Barratt, M. J., Charbonneau, M. R., Ahmed, T. & Gordon, J. I. 
+ 
+Childhood undernutrition, the gut microbiota, and microbiota-directed 
+therapeutics. Science 352, 1533 (2016).
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+9.  Chagwedera, D. N. et al. Nutrient sensing in CD11c cells alters the gut 
+ 
+
+microbiota to regulate food intake and body mass. Cell Metab. 30, 364–373.e7 
+(2019).
+
+10. Petersen, C. et al. T cell-mediated regulation of the microbiota protects 
+ 
+
+against obesity. Science 365, eaat9351 (2019).
+
+11. Turnbaugh, P. J. et al. A core gut microbiome in obese and lean twins. Nature 
+ 
+
+457, 480–484 (2009).
+
+12. Allegretti, J. R. et al. Effects of fecal microbiota transplantation with oral 
+ 
+
+capsules in obese patients. Clin. Gastroenterol. Hepatol. https://doi.
+org/10.1016/j.cgh.2019.07.006 (2019).
+
+13. Vrieze, A. et al. Transfer of intestinal microbiota from lean donors increases 
+ 
+insulin sensitivity in individuals with metabolic syndrome. Gastroenterology 
+143, 913–916.e7 (2012).
+
+14. Block, J. P. et al. Early antibiotic exposure and weight outcomes in young 
+ 
+
+children. Pediatrics 142, e20180290 (2018).
+
+15. Isanaka, S. et al. Routine amoxicillin for uncomplicated severe acute 
+ 
+malnutrition in children. N. Engl. J. Med. 374, 444–453 (2016).
+
+16. Trehan, I. et al. Antibiotics as part of the management of severe acute 
+ 
+
+malnutrition. N. Engl. J. Med. 368, 425–435 (2013).
+
+17. Reijnders, D. et al. Effects of gut microbiota manipulation by antibiotics on 
+ 
+host metabolism in obese humans: a randomized double-blind placebo-
+controlled trial. Cell Metab. 24, 63–74 (2016).
+
+18. Murphy, E. F. et al. Divergent metabolic outcomes arising from targeted 
+ 
+
+manipulation of the gut microbiota in diet-induced obesity. Gut 62, 220–226 
+(2013).
+
+19. Yadav, H., Lee, J.-H., Lloyd, J., Walter, P. & Rane, S. G. Beneficial metabolic 
+ 
+effects of a probiotic via butyrate-induced GLP-1 hormone secretion. J. Biol. 
+Chem. 288, 25088–25097 (2013).
+
+20. Matzke, G., Zhanel, G. & Guay, D. Clinical pharmacokinetics of vancomycin. 
+ 
+
+Clin Parmacokinet. 11, 257–282 (1986).
+
+21. Scheiman, J. et al. Meta-omics analysis of elite athletes identifies a 
+ 
+
+performance-enhancing microbe that functions via lactate metabolism. Nat. 
+Med. 25, 1104–1109 (2019).
+
+22. Tuohimaa, A., Riipinen, K. A., Brandt, K. & Alatossava, T. The genome  
+ 
+of the virulent phage Lc-Nu of probiotic Lactobacillus rhamnosus, and 
+comparative genomics with Lactobacillus casei phages. Arch. Virol. 151, 
+947–965 (2006).
+
+23. Modi, S. R., Lee, H. H., Spina, C. S. & Collins, J. J. Antibiotic treatment 
+ 
+expands the resistance reservoir and ecological network of the phage 
+metagenome. Nature 499, 219–222 (2013).
+
+24. Depommier, C. et al. Supplementation with Akkermansia muciniphila in 
+ 
+overweight and obese human volunteers: a proof-of-concept exploratory 
+study. Nat. Med. 25, 1096–1103 (2019).
+
+25. Reunanen, J. et al. Akkermansia muciniphila adheres to enterocytes and 
+ 
+
+strengthens the integrity of the epithelial cell layer. Appl. Environ. Microbiol. 
+81, 3655–3662 (2015).
+
+26. Everard, A. et al. Cross-talk between Akkermansia muciniphila and intestinal 
+ 
+epithelium controls diet-induced obesity. Proc. Natl Acad. Sci. USA 110, 
+9066–9071 (2013).
+
+27. Franzosa, E. A. et al. Species-level functional profiling of metagenomes and 
+ 
+
+metatranscriptomes. Nat. Methods 15, 962–968 (2018).
+
+28. Wadden, D. et al. Circulating glucagon-like peptide-1 increases in response to 
+ 
+
+short-term overfeeding in men. Nutr. Metab. 10, 33 (2013).
+
+29. Basolo, A. et al. Fasting glucagon-like peptide 1 concentration is associated 
+ 
+with lower carbohydrate intake and increases with overeating. J. Endocrinol. 
+Invest. 42, 557–566 (2019).
+
+30. Kolaczynski, J. W., Ohannesian, J. P., Considine, R. V., Marco, C. C. & Caro, J. 
+ 
+F. Response of leptin to short-term and prolonged overfeeding in humans. J. 
+Clin. Endocrinol. Metab. 81, 4162–4165 (1996).
+
+31. Drucker, D. J. Glucagon-like peptide 2. J. Clin. Endocrinol. Metab. 86, 
+ 
+
+1759–1764 (2001).
+
+32. Guilmeau, S., Buyse, M. & Bado, A. Gastric leptin: a new manager of 
+ 
+gastrointestinal function. Curr. Opin. Pharmacol. 4, 561–566 (2004).
+
+33. Qin, X. et al. GLP-1 reduces intestinal lymph flow, triglyceride absorption, 
+ 
+and apolipoprotein production in rats. Am. J. Physiol. Gastrointest. Liver 
+Physiol. 288, G943–G949 (2005).
+
+34. Liu, L. et al. Deoxycholic acid disrupts the intestinal mucosal barrier  
+ 
+
+and promotes intestinal tumorigenesis. Food Funct. 9,  
+5588–5597 (2018).
+
+35. Fasano, A. Intestinal permeability and its regulation by zonulin: diagnostic 
+ 
+and therapeutic implications. Clin. Gastroenterol. Hepatol. 10, 1096–1100 
+(2012).
+
+36. Guo, S., Al-Sadi, R., Said, H. M. & Ma, T. Y. Lipopolysaccharide causes an 
+ 
+increase in intestinal tight junction permeability in vitro and in vivo by 
+inducing enterocyte membrane expression and localization of TLR-4 and 
+CD14. Am. J. Pathol. 182, 375–387 (2013).
+
+37. Jones, M. L., Martoni, C. J., Ganopolsky, J. G., Labbé, A. & Prakash, S. The 
+ 
+human microbiome and bile acid metabolism: dysbiosis, dysmetabolism, 
+disease and intervention. Expert Opin. Biol. Ther. 14, 467–482 (2014).
+
+ArticlesNature MediciNe38. Jumpertz, R. et al. Food label accuracy of common snack foods. Obesity 21, 
+ 
+
+164–169 (2013).
+
+through the inhibition of NLRP3 inflammasome and autophagy. Cell. Physiol. 
+Biochem. 49, 190–205 (2018).
+
+39. Allison, D. B., Heshka, S., Sepulveda, D. & Heymsfield, S. B. Counting 
+ 
+
+48. Sapone, A. et al. Zonulin upregulation is associated with increased gut 
+ 
+
+calories—caveat emptor. JAMA 270, 1454–1456 (1993).
+
+40. Urban, L. E. et al. The accuracy of stated energy contents of reduced-energy, 
+ 
+
+commercially prepared foods. J. Am. Diet. Assoc. 110, 116–123 (2010).
+41. Ross, S. Functional foods: the Food and Drug Administration perspective. 
+ 
+
+Am. J. Clin. Nutr. 71, 1735S–1738S (2000).
+
+42. Derrien, M., Vaughan, E. E., Plugge, C. M. & de Vos, W. M. Akkermansia 
+ 
+muciniphila gen. nov., sp. nov., a human intestinal mucin-degrading 
+bacterium. Int. J. Syst. Evol. Microbiol. 54, 1469–1476 (2004).
+
+43. König, J. et al. Human intestinal barrier function in health and disease. Clin. 
+ 
+
+Transl. Gastroenterol. 7, e196 (2016).
+
+permeability in subjects with type 1 diabetes and their relatives. Diabetes 55, 
+1443–1449 (2006).
+
+49. Ohlsson, B., Orho-Melander, M. & Nilsson, P. M. Higher levels of serum 
+ 
+zonulin may rather be associated with increased risk of obesity and 
+hyperlipidemia, than with gastrointestinal symptoms or disease 
+manifestations. Int. J. Mol. Sci. 18, 582 (2017).
+
+50. Munakata, A., Iwane, S., Todate, M., Nakaji, S. & Sugawara, K. Effects of 
+ 
+dietary fiber on gastrointestinal transit time, fecal properties and fat 
+absorption in rats. Tohoku J. Exp. Med. 176, 227–238 (1995).
+
+51. Beyer, P. L. & Flynn, M. A. Effects of high-and low-fiber diets on human 
+ 
+
+44. Cani, P. D. et al. Metabolic endotoxemia initiates obesity and insulin 
+ 
+
+feces. J. Am. Diet. Assoc. 72, 271–277 (1978).
+
+resistance. Diabetes 56, 1761–1772 (2007).
+
+52. Hall, K. D. et al. Quantification of the effect of energy imbalance on 
+ 
+
+bodyweight. Lancet 378, 826–837 (2011).
+
+45. Depommier, C. et al. Supplementation with Akkermansia muciniphila in 
+ 
+overweight and obese human volunteers: a proof-of-concept exploratory 
+study. Nat. Med. 25, 1096–1103 (2019).
+
+46. Canani, R. B. et al. Potential beneficial effects of butyrate in intestinal and 
+ 
+
+extraintestinal diseases. World J. Gastroenterol. 17, 1519 (2011).
+
+47. Feng, Y., Wang, Y., Wang, P., Huang, Y. & Wang, F. Short-chain fatty acids 
+ 
+manifest stimulative and protective effects on intestinal barrier function 
+
+This is a U.S. government work and not under copyright protection in the U.S.; foreign 
+copyright protection may apply 2020
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeMethods
+Study volunteers. From March of 2014 to May of 2017, 51 individuals aged 
+18–45 yr were recruited from the greater Phoenix area. Of these, 27 met initial 
+inclusion criteria and were admitted to our CRU. Participants were fully informed 
+of the study and signed consent forms before any study procedures. Except for 
+impaired glucose tolerance and obesity, all participants were deemed healthy 
+by medical history, physical exam and laboratory testing (see inclusion criteria 
+and exclusion criteria below). The experimental protocol was approved by the 
+Institutional Review Board of the National Institute of Diabetes and Digestive and 
+Kidney Diseases.
+
+Inclusion criteria. Inclusion criteria were as follows: free of acute and chronic 
+diseases (especially gastrointestinal disorders) as determined by medical history, 
+physical examination and laboratory tests; no laxative drugs within 3 weeks 
+of admission; and age 18–45 yr (to minimize the effect of aging on nutrient 
+absorption).
+
+Exclusion criteria. Specific exclusion criteria included use of antibiotics or 
+probiotics within 3 months and history of lactose intolerance. During the 
+initial part of the inpatient admission, participants were tested for stool occult 
+blood, stool ova and parasites, and celiac disease (total immunoglobulin A 
+and anti-tissue transglutaminase antibodies). We excluded volunteers with 
+chronic diseases or current substance abuse and subjects with a history or 
+clinical manifestation of: current smoking; type 2 diabetes (according to the 
+World Health Organization diagnostic criteria); endocrine disorders, such as 
+Cushing’s disease, pituitary disorders, and hypo- and hyperthyroidism; HIV 
+infection (self-report), due to effects on weight and body composition of HIV 
+and medications used to treat HIV; active tuberculosis (self-report); asthma 
+on active daily treatment with medications; pulmonary disorders, including 
+physician-diagnosed chronic obstructive pulmonary diseases and obstructive 
+sleep apnea syndrome; cardiovascular diseases, including coronary heart disease, 
+heart failure, arrhythmias and peripheral artery disease; hypertension (according 
+to the World Health Organization diagnostic criteria), treated or uncontrolled; 
+and gastrointestinal diseases, including inflammatory bowel diseases (for 
+example, Crohn’s disease and ulcerative colitis), malabsorption syndromes (for 
+example, celiac disease), gastric ulcer (active) and irritable bowel syndrome. All 
+participants had negative testing during admission for anti-tissue transglutaminase 
+antibodies and stool blood. Additional exclusions included: lactose intolerance 
+by medical history; anemia (defined as hemoglobin < 11 mg dl−1), leucopenia 
+(defined as white blood cell count < 4,000 µl−1) or thrombocytopenia (defined 
+as platelet count < 150,000 µl−1); liver disease, including nonalcoholic fatty liver 
+disease or current elevated liver enzymes over 1.5× the normal range for aspartate 
+aminotransferase (AST), alanine aminotransferase (ALT) or gamma-glutamyl 
+transferase (GGT); evidence of chronic renal disease as defined by estimated 
+glomerular filtration rate of <60 ml min−1 or evidence of overt proteinuria on 
+urine dipstick; central nervous system disease, including previous history of 
+cerebrovascular accidents, dementia and neurodegenerative disorders; cancer 
+requiring treatment in the past 5 yr, except for nonmelanoma skin cancers or 
+cancers that have clearly been cured or in the opinion of the investigator carry 
+an excellent prognosis; behavioral or psychiatric conditions that would be 
+incompatible with a safe and successful participation in the study (such as major 
+depression, schizophrenia and presence of psychotic symptoms); eating disorders 
+such as anorexia nervosa, bulimia or binge eating syndrome; taking weight-loss 
+drugs; weight change of more than 5% of total body weight in the 3 months before 
+admission; use of any antibiotic or probiotic agents within 6 months before the 
+study, to minimize the potential effects of these substances on the gut microbiota; 
+use of antacids (proton pump inhibitors, H2 antagonists or aluminum/magnesium 
+hydroxide) 3 months before the study assessed by self-report; and evidence of 
+alcohol and/or drug abuse (more than three drinks per day and use of drugs, such 
+as amphetamines, cocaine, heroin or marijuana). Finally, we excluded subjects with 
+known allergies to vancomycin, known allergies to heparin or a history of heparin-
+induced thrombocytopenia, or a personal history or evidence of a bleeding 
+disorder.
+
+Study design and randomization. This was a controlled dietary study 
+conducted in two contiguous phases. Numbered randomization lists for diet 
+and pharmacologic interventions by sex were generated before start of study by 
+statistician and participants were assigned by enrollment (for example, Male no. 
+1, Male no. 2, Female no. 1, Female no. 2 and so on). The first phase was a cross-
+over design in which all participants underwent in random order 3 d of OF and 
+UF, followed by a second phase involving double-blind, randomized, placebo-
+controlled assignment to administration of oral vancomycin or matching placebo. 
+Individuals were admitted to the CRU for approximately 31 d (Fig. 1). Throughout 
+the study, subjects were fed a WMD (20%, 30% and 50% of daily calories were 
+provided as protein, fat and carbohydrate, respectively). This was based on unit-
+specific equations specific to our CRU that include weight, BMI and sex53. Morning 
+weight was checked daily, and the calories were adjusted as necessary throughout 
+the stay to maintain a stable weight (±1%). Participants were required to consume 
+all provided food during the study. Total-body dual-energy X-ray absorptiometry 
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+(Lunar Prodigy, enCORE 2003 software version 7.53.002, GE Lunar) to assess body 
+composition was performed on day 2. A 75-g oral glucose tolerance test (OGTT) 
+was done on day 4 to identify individuals with diabetes54. Starting on day 5, 
+participants were fed in random order (permuted block randomization by sex with 
+a block size ranging from 1 to 5) 50% (UF) and 150% (OF) of their WMD each 
+separated by 3 d of WMD. For the UF and OF diets, the same exact menus (same 
+foods) were given in the same order over the 3-d period, only varying in calorie 
+content (Supplementary Table 12). Fasting blood samples were collected before 
+and following the UF and OF diets. Urine was collected during each 3-d period. 
+To mark stool related to each diet, a tasteless, nonabsorbable, blue dye (FD&C 
+250 mg) was given to the participant just before breakfast on day 1 of each UF and 
+OF diet and just before breakfast on the day following each OF and UF diet. Stool 
+for calorie measurement was collected from appearance of the first dye marker 
+(dyed stool included) until appearance of the second one (dyed stool excluded). 
+Following the UF and OF phase, participants were placed back on WMD. After 3 d 
+back on WMD, they underwent an OGTT, followed the next day by measurement 
+of 24 h energy expenditure and substrate use in a whole-room indirect calorimeter.
+
+After exiting the calorimeter and while fasting, an intravenous bolus of 
+75 IU kg–1 heparin was administered and, 15 min after the bolus, blood was 
+collected for measurement of LPL and ANGPTL4. Volunteers were then 
+randomly assigned to receive either vancomycin 125 mg orally four times a day or 
+identical placebo pills for 14 d. The randomization and release of the medication 
+were managed by the pharmacy at the Phoenix Indian Medical Center using a 
+permuted block randomization by sex, with a block size ranging from 1 to 5. The 
+experimental design is shown in Fig. 1. Fasting blood samples were obtained on 
+randomization day (day 18) and following the treatment period (day 31). After 
+5 d on vancomycin or placebo, stool calorie measurements were again collected 
+over 3 d while patients continued WMD. Following this, the OGTT, 24-h energy 
+expenditure, LPL and ANGPTL4 measures were repeated.
+
+Calorie measurement of food, urine and stool by bomb calorimetry. Volunteers 
+ate under supervision and consumed at least 95% of the provided food. During 
+each 3-d period of determination of stool, urine and food calories, meals were 
+prepared in duplicate and one given at random to the participant. The duplicate 
+meal was then used for direct determination of calories. Calories in food, urine 
+and stool were measured as previously described5. Briefly, stool samples were 
+collected from appearance of the first marker to appearance of the second marker 
+and weighed. An aliquot of stool was then mixed with distilled water equal 
+to weight of the fecal aliquot. This was then homogenized and lyophilized55. 
+Similarly, food samples were made into a slurry and were lyophilized. Urine 
+samples were directly lyophilized. Lyophilization was performed at −77 °C using 
+a Freezemobile12XL instrument (VirTis). Following this, ~1-g pellets were made 
+from (PARR Instrument Co) dried stool, food and urine. Energy content of pellets 
+was measured using bomb calorimetry using the Isoperibol Calorimeter 6200 
+instrument with a 1108 Oxygen Bomb model (PARR Instrument Co). Samples 
+were run in duplicate and results averaged. If duplicate samples were >40 cal apart, 
+calorimetry was repeated until duplicate samples were <40 cal apart or the mean of 
+four consecutive readings was used. Benzoic acid standards were measured every 
+20 burns for standardization. The calorie loss from stool or urine was calculated 
+as kilocalories per day and as percentage calories of ingested food ((stool calories/
+ingested calories) × 100)). Transit time was calculated as the difference between the 
+appearance of the first dye marker and the appearance of the second dye marker 
+during each period of stool collection.
+
+Energy expenditure and macronutrient oxidation. Twenty-four-hour 
+energy expenditure was measured by whole-room indirect calorimetry as 
+previously described56. Briefly, participants entered the chamber after breakfast 
+then stayed inside for ~23.5 h. The air temperature was maintained at 23 °C. 
+Meals were provided through an airtight interlock at 11:00, 16:00 and 19:00. 
+Spontaneous physical activity was continuously monitored by a radar system 
+based on the Doppler effect. The flow rate through the chamber and the CO2 
+and O2 concentrations of the out-flowing air were continuously monitored and 
+calculations of oxygen consumption, carbon dioxide production and respiratory 
+quotient were made every minute. Calculation of energy expenditure and 
+substrate oxidation was performed using the equations of Lusk57. Sleeping energy 
+expenditure was determined between 23:30 and 5:00 when spontaneous physical 
+activity (SPA) was <1.5%. All measures were extrapolated to 24 h.
+
+Biochemical analyses for plasma variables. Leptin was measured using the 
+human leptin Quantikine ELISA kit from R&D Systems. The inter- and intra-
+assay coefficient of variation (%CV) values were 1.58 and 1.34, respectively. 
+Active GLP-1 was measured using the Version2 Multi Array Assay kit from 
+Mesoscale Discovery. The inter-assay and intra-assay %CV values were 3.99 and 
+2.89, respectively. GLP-2 was measured using the GLP-2 ELISA kit from EMD 
+Millipore. The inter- and intra-assay %CV values were 3.33 and 2.80, respectively. 
+Plasma ANGPLT4 was measured using the sandwich ELISA from BioVendor. The 
+intra-assay %CV was 1.58 and the inter-assay %CV was 4.46. The LPL activity 
+was measured using the assay kit from ROAR Biomedical. The intra-assay %CV 
+was 1.83. Plasma short-chain fatty acids (SCFAs) were performed in duplicate 
+
+ArticlesNature MediciNeon a Waters Acquity UPLC-Thermo QExactive high-resolution/accurate mass 
+spectrometer. Plasma primary and secondary bile acid concentrations were 
+measured using liquid chromatography–mass spectrometry (LC-MS) analysis 
+performed in duplicate on a Thermo Vanquish UPLC-Thermo Altis triple-
+quadrupole mass spectrometer. Plasma glucose was measured by the glucose 
+oxidase method (Beckman Instruments or GM9 Glucose Analyzer, Analox 
+Instruments). Fasting insulin concentrations were assessed using an automated 
+immunoenzymometric assay (Tosoh Bioscience). LPS and zonulin were measured 
+using an assay from CusaBio Technologies. The LPS intra-assay %CV was 6.77 and 
+the inter-assay %CV was 9.9. The zonulin intra-assay %CV was 5.46 and the inter-
+assay %CV was 5.87.
+
+Power calculation. Power was based on two primary outcomes, the difference 
+in stool calories between UF and OF and the difference in stool calories between 
+vancomycin and placebo. Based on our previous studies5, 24 individuals gave us a 
+power of 0.86 at an alpha of 0.05 to detect at least a 1.3 ± 1.9% per day (mean ± s.d.) 
+difference in stool calories between UF and OF. For the vancomycin versus 
+placebo, 12 subjects per group gave us a power of 0.95 at an alpha of 0.05 to detect 
+a 75 ± 49 kcal d−1 (mean ± s.d.) difference in stool calories.
+
+Quantification of bacterial load. DNA templates were diluted 100-fold before 
+quantitative PCR (qPCR) of 16S rRNA gene copies was performed. qPCR was 
+carried out in triplicate 10-μl reactions with 200 nM 340 F (forward)/514 R 
+(reverse) primers using a BioRad CFX384 thermocycler with SYBRSelect for CFX 
+Master Mix (Life Technologies) according to the manufacturer’s instructions and 
+an annealing temperature of 60 °C. Absolute quantifications were determined 
+against a standard curve of purified bacterial DNA. Mean values of triplicate 
+reactions were taken for further downstream analyses. Absolute bacterial 
+abundance was derived by adjustments for dilutions during DNA extraction, 
+normalization and PCR reaction preparation, dividing by the total fecal mass used 
+for DNA extraction in grams.
+
+16S rRNA gene sequencing and analysis. Stool samples were collected daily and 
+immediately frozen at −70 °C until processing. Stool samples were homogenized 
+with bead beating for 5 min (Mini-Beadbeater-96, BioSpec) using the ZR 
+BashingBead lysis matrix containing 0.1- and 0.5-mm beads (ZR-96 BashingBead 
+Lysis Rack, Zymo Research) and the lysis solution provided in the ZymoBIOMICS 
+96 MagBead DNA Kit (Zymo Research). The samples were then centrifuged for 
+5 min at 3,000g and the supernatant was transferred to 1-ml deep-well plates. 
+The DNA was then purified using the ZymoBIOMICS 96 MagBead DNA Kit 
+(Zymo Research) according to the manufacturer’s instructions. Using a previously 
+published protocol and primers, 16S rRNA gene PCR was carried out 58. Amplicons 
+were pooled and normalized using the SequalPrep Normalization Plate Kit 
+(Invitrogen). The normalized amplicon pool was concentrated down to ~100 μl 
+in a SpeedVac and then purified using 1× AMPure XP beads (Beckman Coulter). 
+Libraries were quantified using the KAPA Library Quantification Kit (Illumina) 
+and sequenced using 2 × 250-base pair paired-end sequencing (Illumina MiSeq) 
+with 15% PhiX spike-in. Demultiplexed reads were processed using QIIME2 (ref. 59)  
+with denoising by DADA2 (ref. 60). Taxonomy was assigned using the DADA2 
+implementation of the RDP classifier61 using the DADA2-formatted training sets 
+for SILVA128 (benjjneb.github.io/dada2/assign.html). A phylogenetic tree was 
+constructed via fragment insertion in QIIME2 (qiime fragment-insertion sepp). 
+Sequence variants were filtered such that they were present in more than one 
+sample with a total of at least 10 reads and a relative abundance of at least 0.0001 
+(0.01%) across the dataset. Samples with lower total read count than template 
+control were discarded. Diversity metrics were generated using Vegan62 with 
+principal coordinate analysis carried out with APE63. Differential abundance 
+analysis of sequence variants was carried out using DESeq2 (ref. 64). Significant 
+sequence variants (FDR < 0.05) were visualized on a phylogenetic tree using 
+ggtree65.
+
+Metagenomic sequencing and analysis. For a subset of samples that were 
+subjected to 16S rRNA amplicon sequencing, the same DNA extracts were 
+subjected to shotgun metagenomic sequencing. Whole-genome shotgun libraries 
+were prepared using the Nextera DNA Flex Library Preparation Kit (Illumina) 
+with the Nextera DNA Unique Dual Indexes and sequenced on the NovaSeq S2 
+platform as 2 × 100-base pair paired-end reads. Raw Illumina reads underwent 
+quality trimming and adaptor removal using Fastp66 and host read removal by 
+mapping to the human genome (GRCh38) with Bowtie2 (ref. 67). Metagenomic 
+samples were taxonomically profiled using MetaPhlan2 (ref. 68) and functionally 
+profiled using HUMAnN2 v0.11.1 (ref. 69), both with default parameters. Species 
+from taxonomic profiles were retained for further analysis if their mean relative 
+abundance exceeded 0.0001 (0.01%) across the dataset with nonzero abundances in 
+at least two samples. Tables of pathway and gene family abundance obtained using 
+HUMAnN2 were normalized to copies per million using ‘humann2_renorm_table 
+-units cpm’, including unmapped and unintegrated read mass. Pathway abundance 
+files were joined into one abundance table and filtered to contain the pathways 
+with top 75% mean abundance (final n = 290 pathways). Gene family files were 
+regrouped using the humann2_regroup_table command with the ‘uniref90_ko’ 
+
+term to KEGG Orthology groups of functional orthologs70, thereby reducing 
+the number of low-abundance variables and number of tests to be performed 
+downstream. Regrouped, per-sample KEGG Orthology abundance profiles were 
+joined into one abundance table and filtered to contain features with top 75% mean 
+abundance (final n = 3,553 KEGG Orthology groups). Differential abundance 
+analyses of pathways and KEGG Orthology groups were carried out using 
+Wilcoxon test with multiple testing correction via FDR estimation across features 
+tested.
+
+Statistical analysis. Statistical analyses were performed using the procedures of 
+SAS, v.9.2 (SAS Institute). Normally distributed data are presented as mean ± s.d.; 
+data that deviated from normality are presented as median and 95% confidence 
+interval. To fit linear regression models, skewed variables were log10 transformed 
+to approach a normal distribution assessed by tests for normality. Pearson or 
+Spearman (for non-normally distributed variables) correlation was used to test 
+associations between variables. In OF versus UF, changes in stool and urine calories 
+expressed as total and percentage of ingested calories, hormones and short-chain 
+fatty acids were compared by paired Student’s t-test. In the vancomycin versus 
+placebo phase, the same variables were compared using an unpaired Student’s 
+t-test. Changes in energy expenditure and substrate oxidation before and after 
+vancomycin and placebo were evaluated by analysis of covariance accounting for 
+baseline values. For energy expenditure and substrate oxidation measures, models 
+included adjustment for baseline fat-free mass (FFM), fat mass (FM), age, race and 
+sex. Mixed models using a first-order autoregressive covariance structure were 
+used to analyze weight trajectory during the inpatient stay. Glucose area under 
+the curve and insulin area under the curve were calculated using the trapezoidal 
+method. Paired and unpaired Wilcoxon tests were used to compare changes in the 
+relative abundance of taxonomic (phyla, species) and functional (pathways, KEGG 
+Orthology groups) features for UF versus OF and vancomycin versus placebo, 
+respectively. Bacterial load was calculated as number of 16S rRNA gene copies 
+per gram of feces. Shannon diversity index was used to determine the microbial 
+diversity between interventions. Bray–Curtis dissimilarity was used to quantify 
+compositional dissimilarity between microbial communities and the distance 
+matrix was analyzed using Adonis PERMANOVA (R Vegan package) with 10,000 
+replications.
+
+Reporting Summary. Further information on research design is available in the 
+Nature Research Reporting Summary linked to this article.
+
+Data availability
+Data in the published article and its Supplementary Information have been 
+presented where possible in aggregated form. The individual datasets generated 
+during and/or analyzed during the current study are available from the 
+corresponding author (A.B.) upon request, although restrictions may apply due to 
+patient privacy and the General Data Protection Regulation. All sequencing data 
+generated in the preparation of this manuscript have been deposited in NCBI’s 
+Sequence Read Archive, with accession number PRJNA589622. Source data for 
+Figs. 2–6 and Extended Data Figs. 2–8 are presented with the paper.
+
+References
+53. Ferraro, R., Boyce, V. L., Swinburn, B., De Gregorio, M. & Ravussin, E. 
+ 
+Energy cost of physical activity on a metabolic ward in relationship to 
+obesity. Am. J. Clin. Nutr. 53, 1368–1371 (1991).
+
+54. Idiopathic, B. & Endocrinopathies, D. Report of the expert committee on the 
+ 
+diagnosis and classification of diabetes mellitus. Diabetes Care 26, S5–S20 
+(2003).
+
+55. Zarling, E. J., Ruchim, M. A. & Makino, D. Improved technique for 
+ 
+
+measuring fecal energy loss in normal and malabsorbing humans. J. Lab. 
+Clin. Med. 107, 5–9 (1986).
+
+56. Thearle, M. S., Pannacciulli, N., Bonfiglio, S., Pacak, K. & Krakoff, J. Extent 
+ 
+and determinants of thermogenic responses to 24 hours of fasting, energy 
+balance, and five different overfeeding diets in humans. J. Clin. Endocrinol. 
+Metab. 98, 2791–2799 (2013).
+
+57. Ravussin, E., Lillioja, S., Anderson, T. E., Christin, L. & Bogardus, C. 
+ 
+
+Determinants of 24-hour energy expenditure in man. Methods and results 
+using a respiratory chamber. J. Clin. Invest. 78, 1568–1578 (1986).
+
+58. Gohl, D. M. et al. Systematic improvement of amplicon marker gene methods 
+ 
+for increased accuracy in microbiome studies. Nat. Biotechnol. 34, 942 (2016).
+59. Bolyen, E. et al. Reproducible, interactive, scalable and extensible microbiome 
+ 
+
+data science using QIIME 2. Nat. Biotechnol. 37, 852–857 (2019).
+
+60. Callahan, B. J. et al. DADA2: high-resolution sample inference from Illumina 
+ 
+
+amplicon data. Nat. Methods 13, 581 (2016).
+
+61. Wang, Q., Garrity, G. M., Tiedje, J. M. & Cole, J. R. Naive Bayesian classifier 
+ 
+for rapid assignment of rRNA sequences into the new bacterial taxonomy. 
+Appl. Environ. Microbiol. 73, 5261–5267 (2007).
+
+62. Dixon, P. VEGAN, a package of R functions for community ecology. J. Veg. 
+ 
+
+Sci. 14, 927–930 (2003).
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNe63. Paradis, E., Claude, J. & Strimmer, K. APE: Analyses of Phylogenetics and 
+ 
+
+Evolution in R language. Bioinformatics 20, 289–290 (2004).
+
+64. Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and 
+ 
+dispersion for RNA-seq data with DESeq2. Genome Biol. 15, 550 (2014).
+65. Yu, G., Smith, D. K., Zhu, H., Guan, Y. & Lam, T. T. Y. ggtree: an R package 
+ 
+for visualization and annotation of phylogenetic trees with their covariates 
+and other associated data. Methods Ecol. Evol. 8, 28–36 (2017).
+
+66. Chen, S., Zhou, Y., Chen, Y. & Gu, J. fastp: an ultra-fast all-in-one FASTQ 
+ 
+
+preprocessor. Bioinformatics 34, i884–i890 (2018).
+
+67. Langmead, B. & Salzberg, S. L. Fast gapped-read alignment with Bowtie 2. 
+ 
+
+Nat. Methods 9, 357 (2012).
+
+68. Segata, N. et al. Metagenomic microbial community profiling using unique 
+ 
+
+clade-specific marker genes. Nat. Methods 9, 811 (2012).
+
+69. Franzosa, E. A. et al. Species-level functional profiling of metagenomes and 
+ 
+
+metatranscriptomes. Nat. Methods 15, 962 (2018).
+
+70. Kanehisa, M., Sato, Y., Furumichi, M., Morishima, K. & Tanabe, M. New 
+ 
+
+approach for understanding genome variations in KEGG. Nucleic Acids Res. 
+47, D590–D595 (2018).
+
+supported, in part, by the Damon Runyon Cancer Research Foundation (grant no. 
+DRR-42-16) and the Searle Scholars Program (grant no. SSP-2016-1352). Q.Y.A. was the 
+recipient of a graduate fellowship from A*STAR.
+
+Author contributions
+J.K. and R.J.v.S. designed the study. A.B., M.H., S.H., P.P. and J.K. analyzed and interpreted 
+the clinical data. M.W. and P.W. analyzed blood samples. S.P. assisted with laboratory 
+procedures. Q.Y.A. and D.D.T. generated the microbiome data. Q.Y.A. led the data 
+analysis. A.B. wrote the initial draft of the manuscript. J.K. and P.J.T. edited the submitted 
+version. A.B., J.K. and P.J.T. are the guarantors of this work and have full access to all of the 
+data in the study and take responsibility for the integrity of the data and the accuracy of 
+the data analysis. All authors critically revised the draft and approved the final manuscript.
+
+competing interests
+P
+.J.T. is on the scientific advisory board for Kaleido, Pendulum, Seres and SNIPRbiome; 
+there is no direct overlap between the current study and these consulting duties.
+
+Acknowledgements
+We thank the volunteers who participated in the studies and the clinical staff of the 
+Phoenix Epidemiology and Clinical Research Branch for conducting the examinations. 
+This work was supported by the Intramural Research Program of the National Institutes 
+of Health, National Institute of Diabetes and Digestive and Kidney Diseases. Additional 
+support for the research in the Turnbaugh laboratory was provided by the National 
+Institutes of Health (grant nos. R01HL122593, R21CA227232 and P30DK098722). The 
+sponsors did not have any role in study design or analysis. P.J.T. holds an Investigators 
+in the Pathogenesis of Infectious Disease Award from the Burroughs Wellcome Fund, 
+is a Chan Zuckerberg Biohub investigator and is a Nadia’s Gift Foundation Innovator 
+
+Additional information
+Extended data is available for this paper at https://doi.org/10.1038/s41591-020-0801-z.
+
+Supplementary information is available for this paper at https://doi.org/10.1038/
+s41591-020-0801-z.
+
+Correspondence and requests for materials should be addressed to A.B., P.J.T. or J.K.
+
+Peer review information Joao Monteiro was the primary editor on this article and 
+managed its editorial process and peer review in collaboration with the rest of the 
+editorial team.
+
+Reprints and permissions information is available at www.nature.com/reprints.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. 1 | consort diagram for study protocol. Two individuals left the study due to personal reasons after completing the over and 
+underfeeding portion of the study and after randomization to vancomycin (125 mg QID, 4 times per day) or placebo.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. 2 | Urine calorie content in response to dietary and pharmaceutical interventions. a, mean percent calorie loss in urine during 
+overfeeding (n=25) and underfeeding (n=25). The Δ indicate the difference between underfeeding and overfeeding. Participants who started the dietary 
+phase with overfeeding are represented by red dots, while those who started with underfeeding are represented by white dots. b, mean percent calorie 
+loss in urine between vancomycin (n=11) and placebo (n=13) group. The sample size refers to the volunteers who had completed data of calorie loss from 
+urine. p-values determined by two-sided paired (a) or two-sided unpaired Student’s t test (b).
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. 3 | Phylum-level relative abundances between overfeeding (OF) and underfeeding (UF). Data points represent single samples (n=40 
+samples) and are colored by randomization group for the dietary phase where participants who started the dietary phase with overfeeding are represented 
+by red dots (n=11), while those who started with underfeeding are represented by grey dots (n=9). Samples from the same individual are connected by a 
+line. p-values were determined by two-sided paired Wilcoxon tests.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. 4 | Effect of vancomycin treatment on gut microbiota composition. Relative abundances of phyla significantly different between 
+vancomycin and placebo groups (p<0.05, two-sided unpaired Wilcoxon test). Points indicate the mean value of samples from each subject (n=70 
+samples from 24 subjects). Boxplots indicate the inter-quartile range (IQR, 25th to 75th percentiles), with a center line indicating the median and whiskers 
+showing the value ranges up to 1.5 x IQR above the 75th or below the 25th percentiles. b, Phylogenetic tree of 16S rRNA sequence variants (SVs) where 
+colored tips denote significantly different SVs between vancomycin (n=11) and placebo (n=13) groups (FDR<0.1, DESeq2 with two-sided Wald test) with 
+color representing fold change comparing vancomycin to placebo. Phylum distribution of the SVs are indicated around the tree.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. 5 | Differentially abundant metabolic pathways between vancomycin and placebo. Three metabolic pathways are differentially 
+abundant between vancomycin (n=9) and placebo (n=10) groups (FDR-adjusted p-value, q<0.1, two-sided unpaired Wilcoxon test). Each point represents 
+a single sample. Boxplots indicate the inter-quartile range (IQR, 25th to 75th percentiles), with a center line indicating the median and whiskers showing 
+the value ranges up to 1.5 x IQR above the 75th or below the 25th percentiles.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. 6 | Plasma acetate, propionate and lithocholic acid concentrations prior to and following treatment with oral vancomycin or 
+placebo. a, mean acetate concentrations (μM) during vancomycin (n=11) versus placebo (n=13) group. b, mean propionate concentrations (μM) during 
+vancomycin (n=11) versus placebo (n=13) group. c, mean lithocholic acid concentrations (ng/ml) during vancomycin (n=4) versus placebo (n=11) 
+group. The values are expressed as absolute values. The Δ indicate the difference (log expressed) between pre and post randomization measurements in 
+vancomycin and placebo groups. p-values for the difference in acetate, propionate and lithocholic acid concentrations before and after randomization by 
+vancomycin vs. placebo group as determined by two-sided unpaired Student’s t test. The sample size for each intervention refers to the volunteers who 
+had available measurements of acetate, propionate and lithocholic acid concentrations.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. 7 | Twenty-four-hour energy expenditure (24h-EE) and respiratory quotient (RQ) pre and post-randomization in vancomycin and 
+placebo groups. a, 24h-EE expressed as kcal/d; b, RQ, expressed as ratio; c, SMR expressed as kcal/d. d, SPA expressed as % of time spent moving over  
+24 hours. p-values indicate the change in 24h EE and its components (before and after randomization) between vancomycin (n=11) vs. placebo 
+(n=11) groups as determined by two-sided Student’s unpaired t-test. The sample size for each intervention refers to the volunteers who had available 
+measurements of 24h EE and its components. 24h EE: 24 hours energy expenditure; RQ: respiratory quotient; SMR: sleeping metabolic rate;  
+SPA: spontaneous physical activity.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. 8 | Glucose and insulin concentrations pre and post-randomization in vancomycin and placebo groups. a, mean fasting glucose 
+(mg/dL); b, mean 2-h glucose concentration (mg/dL). c, mean fasting insulin concentration (mU/L). d, mean 2-h insulin concentration (mU/L). p values 
+indicate the change in glucose and insulin concentration (fasting and at 120’ during the OGTT) before and after randomization between vancomycin 
+(n=12) vs. placebo (n=12) groups as determined by two-sided Student’s unpaired t-test. The sample size for each intervention refers to the volunteers 
+who had available measurements of glucose and insulin during OGTT (oral glucose tolerance test). One volunteer in the vancomycin group did not have 
+available measurement of fasting and 2-h insulin during OGTT.
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNenature research  |  reporting summary
+
+October 2018
+
+1
+
+Corresponding author(s): Alessio Basolo
+
+Last updated by author(s): Nov 15, 2019
+
+Reporting Summary
+
+Nature Research wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency 
+in reporting. For further information on Nature Research policies, see Authors & Referees and the Editorial Policy Checklist.
+
+Statistics
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+
+n/a Confirmed
+
+The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement
+
+A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+
+The statistical test(s) used AND whether they are one- or two-sided 
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+
+A description of all covariates tested
+
+A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons
+
+A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) 
+AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)
+
+For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted 
+Give P values as exact values whenever suitable.
+
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings
+
+For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes
+
+Estimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated
+
+Our web collection on statistics for biologists contains articles on many of the points above.
+
+Software and code
+
+Policy information about availability of computer code
+
+Data collection
+
+The first phase was a cross-over design in which all participants underwent in random order 3 days of over and underfeeding, followed by 
+a second phase involving double blind randomized placebo-controlled assignment to administration of oral vancomycin or matching 
+placebo. Participants were fed in random order 50% (UF) and 150% (OF) of their weight maintaining diet each separated by 3 days of 
+WMD and volunteers were then randomly assigned to either receive vancomycin 125 mg orally four times a day or identical placebo pills 
+for 14 days. 
+
+uring each 3-day period of determination of stool. Stool samples were collected from appearance of first marker to appearance of the 
+
+second marker and weighed during under- or overfeeding and after randomization to vancomycin.
+
+Data analysis
+
+Statistical analyses were performed using the procedures of SAS, version 9.2 (SAS Institute, Cary, NC).   
+
+tool samples were collected from appearance of first marker to appearance of the second marker and weighed.  An aliquot of stool was 
+then mixed with distilled water equal to weight of the fecal aliquot. This was then homogenized and lyophilized 22. Similarly, food 
+samples were made into a slurry and were lyophilized. Urine samples were directly lyophilized. Lyophilization was performed at −77°C 
+using a Freezemobile12XL instrument (Virtis, Gardiner, NY). Following this, ~1 gram pellets were made from (PARR Instrument Co, 
+Moline, IL) dried stool, food and urine.   
+Energy content of pellets was measured using bomb calorimetry using the Isoperibol Calorimeter 6200 instrument with a 1108 oxygen 
+bomb model (PARR Instrument Co, Moline, IL). Samples were run in duplicate and results averaged. If duplicate samples were >40 
+calories apart, calorimetry was repeated until duplicate samples were <40 calories or the mean of 4 consecutive readings was used. 
+Benzoic acid standards were measured every 20 burns for standardization.   
+
+unar Prodigy, enCORE 2003 software version 7.53.002, GE Lunar, Madison, WI, USA was used to assess total-body dual-energy X-ray 
+absorptiometry (DXA) on day 2 of the study 
+
+  D
+
+  S
+
+  L
+
+   
+
+nature research  |  reporting summary
+
+October 2018
+
+2
+
+Analysis of gut microbiota 
+16S rRNA Gene Sequencing and Analysis 
+Stool samples were collected daily and immediately frozen at -70°C until processed. Stool samples were homogenized with bead beating 
+for 5 min (Mini-Beadbeater-96, BioSpec) using the ZR BashingBead lysis matrix containing 0.1 and 0.5 mm beads (ZR-96 BashingBead 
+Lysis Rack, Zymo Research) and the lysis solution provided in the ZymoBIOMICS 96 MagBead DNA Kit (Zymo Research). The samples were 
+then centrifuged for 5 min at 3,000 g and the supernatant was transferred to 1mL deep-well plates. The DNA was then purified using the 
+ZymoBIOMICS 96 MagBead DNA Kit (Zymo Research) according to manufacturer’s instructions. 16S rRNA gene PCR was carried out as per 
+reference protocol and primers. Amplicons were pooled and normalized using the SequalPrep Normalization Plate Kit (Invitrogen). The 
+normalized amplicon pool was concentrated down to ~100ul in a SpeedVac and then purified using 1x AmPure XP beads (Beckman 
+Coulter). Libraries were quantified using the KAPA Library Quantification Kit (Illumina) and sequenced using 2x250 bp paired-end 
+sequencing (Illumina MiSeq) with 15% PhiX spike-in. Demultiplexed reads were processed using QIIME2 with denoising by DADA2. 
+Taxonomy was assigned using the DADA2 implementation of the RDP classifier using the DADA2 formatted training sets for SILVA128 
+(benjjneb.github.io/dada2/assign.html). A phylogenetic tree was constructed via fragment insertion in QIIME2 (qiime fragment-insertion 
+sepp). Sequence variants were filtered such that they were present in more than one sample with at least a total of 10 reads and a 
+relative abundance of at least 0.0001 (0.01%) across the dataset. Samples with lower total read count than template control were 
+discarded. Diversity metrics were generated using Vegan with principal coordinate analysis (PCoA) carried out with Ape. Differential 
+abundance analysis of sequence variants was carried out using DESeq2 . Significant sequence variants (FDR<0.05) were visualized on a 
+phylogenetic tree using ggtree. 
+
+uantification of Bacterial Load 
+
+DNA templates were diluted 100-fold before quantitative PCR (qPCR) of 16S rRNA gene copies was performed. qPCR was carried out in 
+triplicate 10uL reactions with 200nM 340F/514R primers using a BioRad CFX384 thermocycler with SYBRSelect for CFX Master Mix (Life 
+Technologies) according to the manufacturer’s instructions and an annealing temperature of 60˚C. Absolute quantifications were 
+determined based against a standard curve of purified bacterial DNA. Mean values of triplicate reactions were taken for further 
+downstream analyses. Absolute bacterial abundance was derived by adjustments for dilutions during DNA extraction, normalization, and 
+PCR reaction preparation dividing by the total fecal mass used for DNA extraction in grams. 
+
+etagenomic Sequencing and Analysis 
+
+For a subset of samples that were subjected to 16S rRNA amplicon sequencing, the same DNA extracts were subjected to shotgun 
+metagenomic sequencing. Whole-genome shotgun libraries were prepared using the Nextera DNA Flex Library Preparation Kit (Illumina) 
+with the Nextera DNA Unique Dual Indexes and sequenced on the NovaSeq S2 platform as 2 x 100 bp paired-end reads. Raw Illumina 
+reads underwent quality trimming and adaptor removal using Fastp and host read removal by mapping to the human genome (GRCh38) 
+with Bowtie2. Metagenomic samples were taxonomically profiled using MetaPhlan266 and functionally profiled using HUMAnN2 v0.11.1 
+both with default parameters. Species from taxonomic profiles were retained for further analysis if their mean relative abundance 
+exceeded 0.0001 (0.01%) across the dataset with non-zero abundances in at least 2 samples. Tables of pathway and gene family 
+abundance obtained using HUMAnN2 were normalized to relative abundance using ‘humann2_renorm_table -units cpm’ including 
+unmapped and unintegrated read mass. Pathway abundance files were joined into one abundance table and filtered to contain the 
+pathways with top 75% mean abundance (final n = 290 pathways). Gene family files were regrouped using the humann2_regroup_table 
+command with the ‘uniref90_ko’ term to KEGG Orthology (KO) groups of functional orthologs, thereby reducing the number of low-
+abundance variables and numbers of tests to be performed downstream. Regrouped, per-sample KO abundance profiles were joined into 
+one abundance table and filtered to contain features with top 75% mean abundance (final n = 3553 KOs). Differential abundance analysis 
+of pathways and KO groups were carried out on normalized relative abundances and analyzed using Wilcoxon test with multiple testing 
+correction via false discovery rate (FDR) estimation across features tested.
+
+  Q
+
+  M
+
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors/reviewers. 
+We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Research guidelines for submitting code & software for further information.
+
+Data
+
+Policy information about availability of data
+All manuscripts must include a data availability statement. This statement should provide the following information, where applicable: 
+
+- Accession codes, unique identifiers, or web links for publicly available datasets 
+- A list of figures that have associated raw data 
+- A description of any restrictions on data availability
+
+All sequencing data generated in this study were deposited on the NCBI, under BioProject PRJNA589622. Other data supporting the findings of this study are 
+available within the paper or available from the authors upon reasonable request.
+
+Field-specific reporting
+
+Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.
+
+Life sciences
+
+Behavioural & social sciences
+
+ Ecological, evolutionary & environmental sciences
+
+For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf
+
+Life sciences study design
+
+All studies must disclose on these points even when the disclosure is negative.
+
+Sample size
+
+Power was based on two primary outcomes, the difference in stool calories between underfeeding and overfeeding and the difference in 
+stool calories between vancomycin and placebo. Based on our previous studies, 24 individuals gave us a power of 0.86 at an alpha of 0.05 to 
+
+nature research  |  reporting summary
+
+October 2018
+
+3
+
+detect a least a 1.3 ± 1.9 %/day (mean±SD) difference in stool calories between underfeeding and overfeeding. For the vancomycin versus 
+placebo 12 subjects per group gave us a power of 0.95 at an alpha of 0.05 to detect a 75 ± 49 kcal/day (mean±SD) difference in stool calories. 
+
+Data exclusions
+
+Except for impaired glucose tolerance and obesity, all participants were deemed healthy by medical history, physical exam and laboratory 
+testing. Two individuals left the study due to personal reasons after completing the over and underfeeding portion of the study and after 
+randomization to vancomycin or placebo. All the exclusion criteria were pre-established.
+
+Replication
+
+An experimental replication was not attempted for this study 
+
+Randomization
+
+The randomization and release of the medication was managed by the pharmacy at the Phoenix Indian Medical Center using a permuted 
+block randomization by sex with a block sizes ranging from 1 to 5
+
+Blinding
+
+This study was randomized double-blind placebo-controlled trial 
+
+Reporting for specific materials, systems and methods
+
+We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material, 
+system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response. 
+
+Materials & experimental systems
+n/a Involved in the study
+
+Methods
+n/a Involved in the study
+
+ChIP-seq
+
+Flow cytometry
+
+MRI-based neuroimaging
+
+Antibodies
+
+Eukaryotic cell lines
+
+Palaeontology
+
+Animals and other organisms
+
+Human research participants
+
+Clinical data
+
+Human research participants
+
+Policy information about studies involving human research participants
+
+Population characteristics
+
+51 individuals aged 18-45 years old (10 females) with BMI (Kg/m²) range 32.3 ± 8.0
+
+Subjects were recruited from the greater Phoenix area. The volunteers were reimbursed for the inpatient stay. No evidence of 
+self-selection bias.
+
+The experimental protocol was approved by the Institutional Review Board of the National Institute of Diabetes and Digestive 
+and Kidney Diseases (NIDDK). 
+
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+Recruitment
+
+Ethics oversight
+
+Clinical data
+
+Policy information about clinical studies
+All manuscripts should comply with the ICMJE guidelines for publication of clinical research and a completed CONSORT checklist must be included with all submissions.
+
+Clinical trial registration
+
+ClinicalTrials.gov identifier: NCT02037295
+
+Study protocol
+
+Available as Supplement Material
+
+Data collection
+
+Subjects were recruited from the greater Phoenix area from March 2014 to May 2017
+
+Outcomes
+
+We designed a clinical study to test whether interventions designed to alter the gut microbiota cause significant differences in 
+stool calorie loss, which serve as an experimentally quantifiable proxy for nutrient absorption.  
+In this two-phase study, we directly measured stool and ingested calories along with plasma biomarkers of host and microbial 
+metabolism during over- and under-feeding (Phase I) and then in a randomized double-blind placebo-controlled trial with oral 
+vancomycin versus placebo (Phase II).  
+ 
+
+

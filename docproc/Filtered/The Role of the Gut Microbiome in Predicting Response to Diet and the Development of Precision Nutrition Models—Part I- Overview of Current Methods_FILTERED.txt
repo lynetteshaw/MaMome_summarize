@@ -1,0 +1,109 @@
+Downloaded from   by LIU Libraries user on 21 October 2019
+Figure 1 Numerous research ﬁelds are integrated and contribute
+to our overall understanding and study of personalized health and
+nutrition.
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+1AdaBoost, adaptive boosting; ADD, average Danish diet; AIC, Akaike information criterion; ANOSIM, analysis of similarities; BIC, Bayesian information criterion; Bif, Bifidobacteria;
+BN, Bayesian network; CAP, canonical analysis of principal coordinates; CASINO, community and systems-level interactive optimization; DBA, decisive bacterial abundance; DGGE,
+denaturing gradient gel electrophoresis; FISH, ﬂuorescence in situ hybridization; HCA, hierarchical clustering analysis; HITChip, human intestinal tract chip; iAUC, incremental AUC;
+JSD, Jensen-Shannon divergence; LASSO, least absolute shrinkage and selection operator; LDA, linear discriminant analysis; LEfSe, linear discriminant analysis eﬀect size; LMM,
+linear mixed models; MG-RAST, metagenomic rapid annotations using subsystems technology; MRBP, blocked multi-response permutation procedure; MRPP, multi-response
+permutation procedure; NMS, nonmetric multidimensional scaling ordination; NND, new Nordic diet; OPLS-DA, orthogonal projections to latent structures discriminant analysis;
+P/B ratio, Prevotella to Bacteroides ratio; PAM, partitioning around medoids; PCA, principal components analysis; PCoA, principal coordinates analysis; PDP, partial dependence plot;
+PERMANOVA, permutational analysis of variance; PICRUSt, phylogenetic investigation of communities by reconstruction of unobserved states; PLSDA, partial least squares
+discriminant analysis; RDA, redundancy analysis; ROC, receiver operating characteristic; T-RFLP, terminal restriction fragment length polymorphism.
+Microbiota composition and function (16S, qPCR,
+metagenomics, RNA-Seq) of stool as well as
+lumen and mucosa samples
+Downloaded from   by LIU Libraries user on 21 October 2019
+Comparing 2 groups in association studies.
+The t-test compares the mean responses of 2 groups to
+determine whether they are significantly different. This
+would be appropriate when comparing the abundance of
+a single taxa between 2 groups at 1 time point. The t-test
+may be conducted on paired data (e.g. comparing means
+within the same individuals at different time points as in a
+cross-over design) or unpaired data (e.g. comparing means
+between unrelated individuals as in a parallel design). This
+approach assumes that the data are normally distributed
+(parametric) or the sample size is “large.” The t-test does
+not account for potential confounding factors. The Mann–
+Whitney U (also called the Wilcoxon rank-sum) test is
+a nonparametric (does not assume the data are normally
+distributed) alternative to the t-test. When the spread
+and shape of the 2 distributions are the same, the Mann–
+Whitney U test compares the median of 2 unpaired samples
+(e.g. between groups). The Wilcoxon signed-rank test is used
+to determine if the median of the differences between paired
+responses is different from zero (e.g. within individuals). For
+example, comparing the abundance of a single taxa within
+1 individual before and after a dietary intervention. When
+the dependent variable is categorical (e.g. abundance above
+or below the median), a G-test or chi-square (or Fisher’s
+exact test) test may be used when the data are unpaired or
+a McNemar’s test may be used if the data are paired. Both
+Arumugam et al. (95) first introduced the concept of
+“enterotypes”, clustering individuals into 3 groups according
+to their dominant genera: Bacteroides, Prevotella, and Ru-
+minococcus. Although enterotypes have since been shown
+to exist more on a continuous scale (96), the Bacteroides
+and Prevotella enterotypes have been consistently replicated
+across cohorts (97). The identification of the Ruminococcus
+enterotype is more dependent on clustering and modeling
+approaches (97). Studies, such as Hjorth et al. (18, 45), Roager
+et al. (19), Kovatcheva-Datchary et al. (21), Gu et al. (72),
+and Chen et al. (9), highlight measures such as enterotype or
+the Prevotella to Bacteroides ratio. Diversity and richness are
+also common measures used to highlight differences between
+groups (12, 13, 21–24, 39, 40, 42, 44, 48, 62, 64, 65).
+Downloaded from   by LIU Libraries user on 21 October 2019
+time points or when the number of groups exceeds 2, as
+in Bouhnik et al. (28), which tested 7 different types of
+nondigestible carbohydrates to determine their effect on
+the gut microbiota. Kruskal–Wallis is the nonparametric
+equivalent of the 1-way ANOVA and has been used to
+develop tools such as linear discriminant analysis effect size
+(LEfSe) (99). PERMANOVA is a nonparametric alternative
+to multivariate ANOVA (MANOVA) (100, 101). ANOSIM is
+also used to compare multiple independent variables with a
+multivariate dependent variable (101). It differs from PER-
+MANOVA in that, instead of using the raw data, ANOSIM
+ranks values based on their similarity/dissimilarity. This
+minimizes the effects of outliers in the data, making it useful
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Downloaded from   by LIU Libraries user on 21 October 2019
+Both animal and in vitro models have limitations when
+it comes to drawing conclusions about human health and
+nutrition as they lack the specific interactions present in
+the human supraorganism. For further information, readers
+are directed to additional reviews of animal (136, 137) and
+in vitro (138–140) models for human nutrition research.
+However, these techniques used in combination with human
+clinical trials will be crucial in the development of precision
+nutrition research and our understanding of the interaction
+between the host and the gut microbiota.
+Downloaded from   by LIU Libraries user on 21 October 2019
+10. Sonnenburg ED, Zheng H, Joglekar P, Higginbottom SK, Firbank
+SJ, Bolam DN, Sonnenburg JL. Specificity of polysaccharide use
+in intestinal Bacteroides species determines diet-induced microbiota
+alterations. Cell 2010;141(7):1241–52.
+11. Possemiers S, Rabot S, Espín JC, Bruneau A, Philippe C,
+González-Sarrías A, Heyerick A, Tomás-Barberán FA, De
+Keukeleire D, Verstraete W. Eubacterium limosum activates
+isoxanthohumol from hops (Humulus lupulus L.) into the potent
+phytoestrogen 8-prenylnaringenin in vitro and in rat intestine. J Nutr
+2008;138(7):1310–6.
