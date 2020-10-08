@@ -1,0 +1,79 @@
+were  housed  individually  in  plastic  cages 
+equipped with a running wheel (Coulbourn 
+Instruments,  Whitehall,  PA);  however, 
+wheels  were  locked  in  cages  of  seden­
+tary mice. A diagram of the study design is shown 
+in Figure 1. For each sample, 
+amplified products were concentrated using 
+a centrifuge filtration method and quanti­
+fied by electro phoresis using an Agilent 2100 
+Bioanalyzer  (Agilent  Technologies,  Santa 
+Clara, CA). Each scan 
+was captured using the GeneChip Microarray 
+Analysis Suite (Affymetrix). Taxa­sample intersections were 
+
+Vehicle
+treatment
+
+PCB
+treatment
+
+End of
+experiment
+
+Feces
+collection
+(2 days)
+
+Feces
+collection
+(2 days)
+
+Control data
+
+PCB data
+
+then calculated using abundance (AT) and 
+binary matrices (BT). We  used 
+hierarchical clustering via average­neighbor 
+(HC­AN) and principal coordinate analysis 
+(PCoA) to graphically summarize inter sample 
+relationships according to AT and BT dis­
+similarity scores. 726 
+
+volume 121 | number 6 | June 2013  •  Environmental Health Perspectives
+
+Choi et al. These taxa were then analyzed by 
+
+PCoA with weighted Unifrac distance, which 
+indicated significant differences in the compo­
+sition of the microbial communities between 
+the exercised and sedentary mice (Figure 2B). The taxa that were more abundant in 
+the exercised group were in phylum Firmicutes, 
+class Bacilli, and most of these were in order 
+Lactobacillales. The 10 bacterial taxa with the greatest decrease in abundance following exposure of sedentary mice to the PCB mixture. Prediction analysis for microarrays (PAM)-selected distinctive bacterial taxa presenting differentially in the mouse gut microbiome of excercised versus 
+sedentary mice. other aspects of gut physiology (e.g., peri­ 
+stalsis; Song et al. Finally, exercise may influence the com­ 
+position of the gut microbiome by altering the 
+intestinal immune system. Thus, our data are consistent 
+because we observed a decrease in the num­ 
+ber of Erysipelotrichaceae in exercised mice 
+that had lost a substantial amount of body 
+weight;  this  is  associated  with  the  role  of 
+Erysipelotrichaceae in energy production and 
+adiposity (Claus et al. Chen W, Liu F, Ling Z, Tong X, Xiang C. 2012. Franz CM, Huch M, Abriouel H, Holzapfel W, Galvez A. 2011. Cancer Epidemiol 
+Biomarkers Prev 15:2398–2407. Understanding the role of gut microbiome-host metabolic 
+signal disruption in health and disease. In: Halogenated 
+Biphenyls, Terphenyls, Naphthalenes, Dibenzo dioxins and 
+Related Products (Kimbrough RD, Jensen AA, eds). New 
+York:Elsevier Science Publishers, 345–364. Ley RE, Backhed F, Turnbaugh P, Lozupone CA, Knight RD, 
+Gordon JI. BMC  Bioinformatics  7:371; 
+doi:10.1186/1471-2105-7-371 [Online 7 August 2006]. 
+
+Lustyk MK, Jarrett ME, Bennett JC, Heitkemper MM. Matsumoto  M,  Inoue  R,  Tsukahara  T,  Ushida  K,  Chiji  H, 
+Matsubara N, et al. Meissner  M,  Lombardo  E,  Havinga  R,  Tietge  UJ,  Kuipers  F, 
+Groen AK. Guide for the Care and Use 
+of Laboratory Animals. pdf [accessed 2 May 2013]. 
+
+Nelson TA, Holmes S, Alekseyenko AV, Shenoy M, Desantis T, 
+Wu CH, et al.

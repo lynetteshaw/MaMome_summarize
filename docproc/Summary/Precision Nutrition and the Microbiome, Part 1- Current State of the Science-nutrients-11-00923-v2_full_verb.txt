@@ -1,0 +1,53 @@
+This vast array of data has contributed
+to a deeper understanding of the role of the gut microbiome in health and disease, the factors which
+shape it, and the potential to harness its therapeutic potential for optimal health. A 15 kDa protein
+produced by F. prausnitzii, a commensal microbe deﬁcient in Crohn’s disease patients, was shown to
+have anti-inﬂammatory properties, decreasing activation of the NF-κB pathway and also prevented
+colitis in an animal model [150]. M-cells are speciﬁc phagocytic epithelial cells which sample particulate
+antigens [151]. Rios et al. [ Furthermore, faecal SCFA concentrations tend to be higher in obese
+individuals [230–233]. The obese gut microbiota has also been characterised by reduced diversity and
+altered representation of bacterial genes and metabolic pathways [229]. More recently, a systematic
+review investigated the link between the gut microbiota and low-grade inﬂammation, a hallmark of
+obesity which plays a major role in atherosclerotic cardiovascular disease in humans [234]. Fourteen,
+mostly observational studies were included with n = 10 to 471 participants. There was also an increase in spermine
+which has been shown to be extremely toxic in rats [340]. The following bacteria, which are generally
+regarded as being beneﬁcial, decreased in abundance on the high protein diet, including the butyrate
+producer F. prausnitzii (by 3.5 fold), Ruminococcus (by 8.04 fold) which contains butyrate producers,
+and the mucin degrader Akkermansia (not detected in high protein diet group). Principal component
+analysis revealed distinct microbiota on days 7 and 14, whereby the soy protein group was separate
+from the meat and casein groups [347]. In another similar study, soy protein was associated with
+increased faecal SCFAs in rats compared to rats fed white meat, red meat or casein [348]. The soy group
+also had a higher relative abundance of Bacteroides and Prevotella which are the major propionate and
+other SCFA producers [349]. Lactobacillus, a genus known for its beneﬁcial eﬀects was increased in the
+gut microbiota by ingestion of meat proteins. Interestingly in humans, a three-week isocaloric supplementation with casein, soy protein or
+maltodextrin, which served as control, had no impact on the gut microbiota but altered bacterial
+metabolite production [361]. Compared to maltodextrin, both soy protein and casein caused a decrease
+in faecal butyrate which the authors suggest may be due to the combination of an increase in protein
+intake and a decrease in indigestible carbohydrate intake. This interindividual variation was also reported by Venkataraman et al. [ In Part II of this review, we
+also look at speciﬁc examples of how the microbiota is already being used as a biomarker to predict
+responsiveness to speciﬁc dietary constituents and highlight further research which is necessary to
+make precision nutrition through the microbiome a reality. Yatsunenko, T.; Rey, F.E.; Manary, M.J.; Trehan, I.; Dominguez-Bello, M.G.; Conteras, M.; Magris, M.;
+Hidalgo, G.; Baldassano, R.N.; Anokhin, A.P.; et al. Nishijima, S.; Suda, W.; Oshima, K.; Kim, S.-W.; Hirose, Y.; Morita, H.; Hattori, M. The gut microbiome of
+healthy Japanese and its microbial and functional uniqueness. Heiman, M.L.; Greenway, F.L. A healthy gastrointestinal microbiome is dependent on dietary diversity. Wikoﬀ, W.R.; Anfora, A.T.; Liu, J.; Schultz, P.G.; Lesley, S.A.; Peters, E.C.; Siuzdak, G. Metabolomics analysis
+reveals large eﬀects of gut microﬂora on mammalian blood metabolites. CARD9 impacts colitis by altering gut microbiota metabolism of
+tryptophan into aryl hydrocarbon receptor ligands. Gao, J.; Xu, K.; Liu, H.; Liu, G.; Bai, M.; Peng, C.; Li, T.; Yin, Y. Impact of the gut microbiota on intestinal
+
+immunity mediated by tryptophan metabolism. Dominant and diet-responsive groups of bacteria within the human colonic microbiota. CrossRef]
+
+Nutrients 2019, 11, 923
+
+39 of 45
+
+248. Newgard, C.B.; An, J.; Bain, J.R.; Muehlbauer, M.J.; Stevens, R.D.; Lien, L.F.; Haqq, A.M.; Shah, S.H.;
+Arlotto, M.; Slentz, C.A.; et al. Bonder, M.J.; Tigchelaar, E.F.; Cai, X.; Trynka, G.; Cenit, M.C.; Hrdlickova, B.; Zhong, H.; Vatanen, T.;
+Gevers, D.; Wijmenga, C.; et al. Composition and energy harvesting capacity of the gut microbiota:
+Relationship to diet, obesity and time in mouse models. Huang, E.Y.; Leone, V.A.; Devkota, S.; Wang, Y.; Brady, M.J.; Chang, E.B. Composition of dietary fat source
+shapes gut microbiota architecture and alters host inﬂammatory mediators in mouse adipose tissue. Kovatcheva-Datchary, P.; Nilsson, A.; Akrami, R.; Lee, Y.S.; De Vadder, F.; Arora, T.; Hallen, A.; Martens, E.;
+Björck, I.; Bäckhed, F. Dietary ﬁbre-induced improvement in glucose metabolism is associated with increased
+abundance of Prevotella. Shen, W.; Wolf, P.G.; Carbonero, D.F.; Zhong, W.; Reid, T.; Gaskins, H.R.; McIntosh, M.K. Intestinal
+and systemic inﬂammatory responses are positively associated with sulﬁdogenic bacteria abundance in
+high-fat-fed male C57BL/6J mice. Carvalho, G.C.B.C.; Moura, C.S.; Roquetto, A.R.; Barrera-Arellano, D.; Yamada, Á.T.; Dos Santos, A.;
+Saad, M.J.A.; Amaya-Farfán, J. Impact of trans-fats on heat-shock protein expression and the gut microbiota
+proﬁle of mice. Ketogenic diet enhances neurovascular function with altered gut microbiome in young
+healthy mice. Academic Press: New York, NY, USA, 1988; pp. Spencer, M.D.; Hamp, T.J.; Reid, R.W.; Fischer, L.M.; Zeisel, S.H.; Fodor, A.A. Association between
+composition of the human gastrointestinal microbiome and development of fatty liver with choline deﬁciency.

@@ -1,0 +1,104 @@
+Number of taxa at different ranks
+
+Taxonomy
+
+No. Tree Builder incorporates branch-order conﬁdence estimation using 100 boot-
+strap samples. The resultant tree was downloaded in PostScript format and
+embellished with Adobe Illustrator. An online version of the Classiﬁer is available at http://rdp.cme.msu.edu
+/classiﬁer. Complete rRNA database sequences with NCBI’s taxonomy. All available
+(23,095) near-full-length ((cid:1)1,200 bases) 16S rRNA sequences were obtained
+from the January 2004 release of the RDP. From the corpus consisting of N se-
+quences, let n(wi) be the number of sequences containing subsequence wi. By Bayes’ theorem, the probability that an un-
+known query sequence, S, is a member of genus G is P(G¦S) (cid:2) P(S¦G) (cid:5)
+P(G)/P(S), where P(G) is the prior probability of a sequence being a member of
+G and P(S) the overall probability of observing sequence S (from any genus). Percentage of matching bootstrap assignments for
+various query lengths for the Bergey corpus
+
+Length of
+segment
+(bases)
+
+Full
+400
+200
+100
+50
+
+% of classiﬁcation tests within a bootstrap conﬁdence range ofa:
+
+100–95% 94–90% 89–80% 79–70% 69–60% 59–50%
+
+97.5
+93.4
+86.3
+70.5
+46.2
+
+0.5
+1.5
+3.2
+6.5
+10.1
+
+0.5
+1.4
+2.8
+6.6
+10.6
+
+0.4
+1.0
+2.0
+4.2
+7.4
+
+0.4
+0.9
+1.9
+3.7
+6.8
+
+0.4
+0.9
+1.6
+3.1
+6.2
+
+a Frequency of most common assignments out of 100 bootstrap samplings. Both comparison results and classiﬁcation
+assignments can be downloaded in text format and imported into a spreadsheet
+program for further analysis. The process was
+repeated for all sequences in the corpus. For these high-throughput experiments,
+the RDP Classiﬁer can provide rapid taxonomic placement and
+summary data, including the number of input sequences be-
+longing to each taxon. 73, 2007
+
+THE RDP CLASSIFIER
+
+5265
+
+crepancies between the underlying (16S rRNA) phylogeny and
+Bergey’s taxonomy. To identify an example of the sources of errors in the tax-
+onomy, we conducted a phylogenetic analysis of classiﬁcation
+errors in the family Alicyclobacillaceae (Fig. Unlike the Seq-
+Match nearest-neighbor classiﬁer, the RDP naı¨ve Bayesian
+Classiﬁer uses information averaged over the entire genus and
+hence is less inﬂuenced by individual misplaced training se-
+quences. In 2005, S.
+thermosulﬁdooxidans strain K1 was reclassiﬁed as the type strain of a
+new species, A. tolerans (14). There is signiﬁcant congruence between the two tax-
+onomies, and both are based, at least in part, on phylogenetic
+principals. For exam-
+ple, in one library of Acidobacteria environmental clone se-
+quences, 72 of 77 sequences were classiﬁed with less than 80%
+conﬁdence even at the phylum level (not shown). This
+tool leverages the Classiﬁer to provide rapid comparison of
+two samples, each containing up to 5,000 sequences. ACKNOWLEDGMENTS
+
+This research was supported by the Ofﬁce of Science (BER), U.S.
+Department of Energy, grant DE-FG02-99ER62848, and the National
+Science Foundation, grant DBI-0328255. Benson, D. A., I. Karsch-Mizrachi, D. J. Lipman, J. Ostell, B. A. Rapp, and
+
+D. L. Wheeler. Harcourt Brace Jovanovich, Inc., Orlando, FL. Bergey’s manual of systematic bacteriology, 2nd ed., 1996 as Alicyclobacillus disulﬁdooxidans comb. Wheeler, D. L., C. Chappey, A. E. Lash, D. D. Leipe, T. L. Madden, G. D.
+
+Schuler, T. A. Tatusova, and B. A. Rapp. Database resources of the
+National Center for Biotechnology Information.

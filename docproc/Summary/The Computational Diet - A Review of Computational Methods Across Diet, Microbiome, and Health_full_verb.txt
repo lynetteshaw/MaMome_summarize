@@ -1,0 +1,142 @@
+fmicb-11-00393
+
+April 2, 2020
+
+Time: 17:57
+
+# 2
+
+Eetemadi et al. Steps
+
+Sub-step
+descriptions
+
+(1) Quality
+control
+
+Chimera removal
+and noise
+mitigation
+
+Remove host DNA
+contaminant reads
+
+(2) Sequence
+assembly
+
+De novo read
+assembly
+
+Read alignment to
+annotated
+database
+
+(3) OTU
+analysis
+
+Assignment of
+reads to OTUs
+
+(4) Functional
+proﬁling
+
+Functional proﬁling
+and prediction
+
+(5) Diversity
+analysis
+
+Diversity, evenness,
+and richness
+metrics
+
+Highlighted methods and their
+availability in popular pipelines
+(QIIME, MOTHUR, and UPARSE)
+
+Trimmomatic(Q) (Bolger et al., Data Analytics and Machine Learning
+Data processing is considered to be the step necessary for
+converting the raw data, such as metagenomics sequence reads,
+into biologically meaningful representations, such as OTU counts
+using bioinformatics tools, some of which are done in the
+sequencing device itself. Conclusions should
+not be made based on the number of reads assigned to individual
+sample features (e.g., OTUs, genes, and functional groups) since
+they do not represent absolute abundances due to instrumental
+limitations (Gloor et al., Although several pipelines provide this functionality,
+it has been found inadmissible for metagenomics microbiome
+studies as it discards many reads leading to decreased sensitivity
+in diﬀerential abundance testing (McMurdie and Holmes, 2014)
+and biased estimates for alpha diversity (Willis, 2019). In a diﬀerent
+study, the classiﬁcation task was to identify healthy vs. unhealthy
+donors given relative OTU abundance data (including species
+level) coming from shotgun metagenomics sequencing of the gut
+(as well as other body sites) (Pasolli et al., Conﬁrmatory factor analysis (CFA) and structural
+equation modeling (SEM) can be used to examine the extent
+to which a hypothesized model of latent features and their
+relationships with observed variables are supported by the
+data (Schreiber et al., 2012; Relman, 2012), unlike the human genome,
+it
+has considerable plasticity hence providing ample opportunities
+in the design of new types of food, medical
+interventions,
+and dietary recommendations
+(Gentile and Weir, 2018). Frontiers in Microbiology | www.frontiersin.org
+
+11
+
+April 2020 | Volume 11 | Article 393
+
+fmicb-11-00393
+
+April 2, 2020
+
+Time: 17:57
+
+# 12
+
+Eetemadi et al. 2018), 75%
+of the GENREs required updates [from previously constructed
+GENREs (Magnúsdóttir et al., In scenario B, the goal is to provide
+recommended probiotic intake for supporting a healthy gut
+
+TABLE 4 | Highlighted microbiome-aware diet recommendation studies. A problem that arises in machine learning where parameter values
+of a model are too closely ﬁt for training data and therefore not useful in practice. Multiple applications for probiotics
+focused on weight loss were deposited by Nestec SA, which oﬀers
+research and consulting services to the food company Nestlé S.A.
+techniques to
+analyze larger datasets, and more research on the relationship
+
+With the development of computational
+
+of
+the microbiome and the host homeostasis and disease,
+patent applications related to gut microbiome and diet have
+subsequently extended to other health conditions beyond
+control. We further believe that
+progress in simulation-based studies can give rise to new data
+processing and analytics pipelines customized for each project
+based on factors such as sequencing technology, data availability,
+dimensionality, and variability. Amir, A., McDonald, D., Navas-Molina, J. A., Kopylova, E., Morton, J. T., Xu, Z. Z.,
+et al. ( doi: 10.1038/nrendo.2014.210
+
+Coyte, K. Z., Schluter, J., and Foster, K. R. (2015). doi: 10.1086/284325
+
+Davenport, E. R., Mizrahi-Man, O., Michelini, K., Barreiro, L. B., Ober,
+C., and Gilad, Y. (2014). Greenhalgh, K., Ramiro-Garcia, J., Heinken, A., Ullmann, P., Bintener, T., Pacheco,
+M. P., et al. ( A guide to enterotypes across the human body: meta-analysis of
+microbial community structures in human microbiome datasets. The dynamics of the human infant gut microbiome in
+development and in progression toward type 1 diabetes. doi: 10.1016/j.copbio.2017.12.005
+Magnúsdóttir, S., Heinken, A., Kutt, L., Ravcheev, D. A., Bauer, E., Noronha, A.,
+et al. ( Machine
+learning meta-analysis of large metagenomic datasets: tools and biological
+insights. Zero-inﬂated beta regression for diﬀerential
+abundance analysis with metagenomics data. org/content/10.1101/363200v1
+
+NIH Human Microbiome Project - Home, (2019). doi: 10.1101/
+gr.213959.116
+
+Ospina, R., and Ferrari, S. L. A. (2012). doi: 10.1038/
+s41575-018-0061-2
+
+Zou, Y., Xue, W., Luo, G., Deng, Z., Qin, P., Guo, R., et al. (

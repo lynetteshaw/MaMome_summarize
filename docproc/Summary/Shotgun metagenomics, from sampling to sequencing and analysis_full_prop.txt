@@ -1,0 +1,99 @@
+Step 1: Study design and experimental protocol, the importance of this step is 
+often  underestimated  in  metagenomics. The steps involved in the design of hypothesis-based studies are outlined in Supplementary Figure 1 with 
+specific  recommendations  summarized  in  Supplementary  Box  1. Controls are also important but it can be difficult to obtain representative samples from a suitable control 
+group,  particularly  when  studying  environments  such  as  humans,  in  which  the  resident  microbial 
+communities  are  influenced,  to  a  different  extent,  by  factors  such  as  host  genotype  19,  age,  diet  and 
+environmental  surroundings  20. Exclusion of  samples that may be  confounded by an 
+unwanted  variable  is  also  prudent. Indeed variations in sample processing protocols can also be important 
+confounders in meta-analyses  of  datasets from different studies  (Supplementary  Box  1).  Places genomic data within its correct phylogenetic context.  Expensive equipment, requiring specialist operators. the reference sequences used to design the probes 
+
+ Genome  coverage  of  targeted  organisms  can  be  uneven, 
+
+affecting assemblies 
+
+ Requires intact cells.  Functional data can improve metagenomics annotations. Immunomagnetic 
+separation  127 
+
+as 
+diagnostics 
+
+ By  focusing  only  on  species  of  interest,  higher sensitivity  can  be 
+achieved particularly when large amounts of host contamination 
+are present 
+
+ Targeted approach - can enrich specific taxa, including those that 
+might be comparatively rare members of the microbial community 
+less  expensive  than  many  other  targeted  enrichment 
+
+ Far 
+
+techniques such as single cell genomics or flow sorting. The raw data is available at http://metagexample.s3.climb.ac.uk/Reads.tar.gz. The diversity of reference genomes available for some sample types, such as 
+from the human gut 73, is now extensive enough to make assembly-free taxonomic profiling efficient and 
+successful, including for comparatively low abundance microbes that lack sufficient sequence coverage and 
+depth to enable the assembly of their genome. Profiling of the functional classes present in a metagenome is hindered by the lack of validated annotations for most genes, an issue 
+that  can  be  mitigated  only  by  expensive  and  low-throughput  gene-specific  functional  studies. The simple brute force mapping of reads to genomes 
+can  result  in  profiles  with  many  false  positives  but,  nonetheless,  this  approach  has  been  proven  to  be 
+effective  when  the  output  is  post-processed  based  on  lowest  common  ancestor  (LCA)  strategies  81  or 
+coupled with compositional interpolated Markov models  82. Taxonomic profiling by selecting representative or discriminative genes (markers) from available reference 
+sequences is another fast and accurate assembly-free approach that has been implemented with several 
+variations. By looking at co-abundant markers from pre-assembled environment specific gene catalogs 84,85, 
+for example, the MetaHIT consortium was able to characterize known and novel organisms in the human 
+gut 5,75. Metagenomic  assembly  is  the  preferred  theoretical 
+solution if there is sufficient genome coverage (i.e. >20x), but this level of coverage is difficult to obtain for 
+most  of  the  members  of  the  microbiome  (Table  4)  and  assembly-free  methods  have  other  advantages 
+
+including the possibility to perform large-scale strain-level analyses. Mixtures of strains from the same species in a single 
+sample cannot be resolved by consensus approaches, but if the same strains are present in multiple samples 
+there will  be characteristic signatures in single nucleotide variations. NS  is  supported  by  the 
+European  Research  Council  (ERC-STG  project  MetaPG),  European  Union  FP7  Marie-Curie  grant  (PCIG13-
+618833), MIUR grant FIR RBFR13EWWI, Fondazione Caritro grant Rif. Solution: 
+Current best practice is to collect as much metadata about each of the study groups as possible and factor these into the subsequent analyses 
+when comparing groups. Structure  and  function  of  the  global  ocean 
+microbiome. Complete  nitrification  by  a  single  microorganism. Unlocking the potential of metagenomics through replicated experimental 
+design. Probst, A. J., Weinmaier, T., DeSantis, T. Z., Santo Domingo, J. W. & Ashbolt, N. New 
+perspectives on microbial community distortion after whole-genome amplification. 33 
+
+34 
+
+35 
+
+36 
+
+37 
+
+38 
+
+39 
+
+40 
+
+41 
+
+42 
+
+43 
+
+44 
+
+45 
+
+46 
+
+47 
+
+Tanner,  M.  A.,  Goebel,  B.  M.,  Dojka,  M.  A.  &  Pace,  N.  R.  Specific  ribosomal  DNA 
+sequences from diverse environmental settings correlate with experimental contaminants. Proceedings of the National Academy of Sciences of the United States of America 109, 
+13272-13277 (2012). Li, D., Liu, C. M., Luo, R., Sadakane, K. & Lam, T. W. MEGAHIT: an ultra-fast single-node 
+solution  for  large  and  complex  metagenomics  assembly  via  succinct  de  Bruijn  graph. Kelley,  D.  R.  &  Salzberg,  S.  L.  Clustering  metagenomic  sequences  with  interpolated 
+Markov models. Growth dynamics of gut microbiota in health and disease inferred from 
+single  metagenomic  samples. Computational meta'omics for microbial community studies. Identification  and  assembly  of  genomes  and  genetic  elements  in 
+complex  metagenomic  samples  without  using  reference  genomes. Nat Biotechnol 33, 1103-1108, 
+doi:10.1038/nbt.3353 (2015). Metagenomic species profiling using universal phylogenetic marker 
+genes. An integrated catalog of reference genes in the human gut microbiome. Data,  information,  knowledge  and  principle:  back  to  metabolism  in 
+KEGG. PLoS 
+computational biology 8, e1002606 (2012). 107  White,  J.  R.,  Nagarajan,  N.  &  Pop,  M.  Statistical  methods  for  detecting  differentially 
+abundant  features  in  clinical  metagenomic  samples. Nat Methods, doi:10.1038/nmeth.3802 (2016). Generating whole bacterial genome sequences of low-abundance 
+
+species from complex samples with IMS-MDA. Journal  of  visualized  experiments:  JoVE 
+(2014). The  effect  of  DNA  extraction  methodology  on  gut  microbiota 
+research  applications.

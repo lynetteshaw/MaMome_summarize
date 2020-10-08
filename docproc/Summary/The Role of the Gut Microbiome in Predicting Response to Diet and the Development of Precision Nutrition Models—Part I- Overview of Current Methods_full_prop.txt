@@ -1,0 +1,153 @@
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+and react to form a response, and understanding how these
+responses combine to affect human health. The USDA is an equal opportunity provider and employer. Randomized, controlled clinical trials with a standardized
+diet are generally considered the “gold standard” (14) in
+dietary intervention trials because the potential for con-
+founding is minimized and the estimated intervention effect
+can be interpreted causally. Identifying the appropriate con-
+trol is challenging with diet interventions that are designed
+with whole foods, as a true placebo diet is not possible. Choetal.(2017)
+
+ornormalization)andNR(nochange)
+Changeincalprotectin:R(decrease∼10-fold
+
+Calprotectin
+
+Intervention
+
+controls;32receivedmedication)
+Humans(68childrenwithIBDand26
+
+anti-TNF-αmedication
+
+Kolhoetal.(2015)
+
+meaningfulimprovement)andNR<50. However, although
+these methods can be useful for checking the stability of
+dominant members and clustering communities according
+to these dominant members, they do not provide direct
+phylogenetic identification and it is difficult to relate banding
+patterns to changes in particular species (83, 84). 2010)
+
+Microbiome composition (16S, DGGE, Bif.-speciﬁc
+
+Association
+
+1-way ANOVA
+
+Martinez et al. ( 2017) (62)
+
+Microbiota composition (16S)
+
+Association
+
+ANOVA
+
+Suez et al. ( 2015) (65) Microbiota composition (16S, metagenomics) and
+
+Association
+
+Paired t-tests
+
+Veiga et al. ( For a more comprehensive
+
+review of such tools, please refer to Mallick et al. ( Log transformation is another commonly used method,
+but as it cannot be applied to zeros, this method also
+requires that zeros be replaced with small values (i.e. pseu-
+docounts). 2016) (64) Microbiota composition (qRT-PCR, 16S)
+
+Association
+
+TABLE 3 (Continued)
+
+Citation
+
+Microbiome measures
+
+Association or
+prediction
+
+Statistical methods
+
+Li et al. ( The Wilcoxon signed-rank test is used
+to determine if the median of the differences between paired
+responses is different from zero (e.g. within individuals). The identification of the Ruminococcus
+enterotype is more dependent on clustering and modeling
+approaches (97). When a study moves towards the analysis phase of bringing
+together microbiome, diet, and metabolic response, there
+are 2 steps in the process towards development of preci-
+sion nutrition recommendations: 1) identifying associations
+between microbiome features and dietary responsiveness
+and 2) predicting and validating individuals’ response to
+dietary interventions and/or advice (Figure 4). ANOVA analyzes the
+differences between group means and can examine the effects
+of multiple (categorical) independent variables on a single
+(univariate) or multiple (multivariate) dependent variables
+(i.e. 2-way, 3-way). Dimension reduction and clustering methods in associa-
+tion studies. An important point to remember is that correlation, as
+opposed to regression, makes no distinction between the
+2 variables being used, meaning that it does not identify one
+as the independent/predictor variable and the other as the
+dependent/outcome variable. Procrustes analysis, originally developed for
+comparing shapes, computes the distances between pairs of
+high-dimensional samples after centering and scaling. Generalized linear
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+models extend this idea to other types of dependent variables
+such as binary (logistic regression) or count (log regression)
+variables. Correction for multiple hypothesis testing. Stochastic gradient boosting regression (122) uses deci-
+sion trees on random samples of the data, similar to random
+forests. Linear discriminant analysis (LDA) (125, 126) is similar
+to PCA/PCoA. However, in LDA, the groups of interest
+are known a priori and the axes represent
+the linear
+combinations of the measurements that best describe the
+separation between the groups. The use of these methods, as with the methods used in the
+association phase, depends on the nature and complexity of
+the data as well as the desired format of prediction (i.e. group,
+continuous value, etc.). This study also investigated the effect of monocolonization
+by taxa, overrepresented in responders (Prevotella copri) and
+nonresponders (Bacteroides thetaiotaomicron), and found
+differential gene expression in the colonized mice that
+altered hepatic glycogen storage, allowing for a mechanistic
+understanding of observed differences in glucose metabolism
+phenotypes. This
+strategy has been utilized to investigate gut microbiome
+communities from humans (9, 59) and isolated strains (10)
+to determine the effect that differences in these taxa or
+communities have on the production of metabolites and
+fermentation of compounds. As discussed above, studies investigating the contribution of
+the gut microbiota to personalized health and metabolism
+differ in what features of the microbiome are highlighted. Cotillard A, Kennedy SP, Kong LC, Prifti E, Pons N, Le Chatelier
+E, Almeida M, Quinquis B, Levenez F, Galleron N, et al. Obesity (Silver Spring) 2009;17(10):
+1906–15. Akkermansia muciniphila and improved metabolic health during a
+dietary intervention in obesity: relationship with gut microbiome
+richness and ecology. de Preter V, Vanhoutte T, Huys G, Swings J, Rutgeerts P, Verbeke K.
+Baseline microbiota activity and initial bifidobacteria counts influence
+responses to prebiotic dosing in healthy subjects. Aliment Pharmacol
+Ther 2008;27(6):504–13. Larsen MV, Cosentino S, Rasmussen S, Friis C, Hasman H, Marvig
+RL, Jelsbak L, Pontén TS, Ussery DW, Aarestrup FM. Chumpitazi BP, Cope JL, Hollister EB, Tsai CM, McMeans AR,
+Luna RA, Versalovic J, Shulman RJ. Kang C, Zhang Y, Zhu X, Liu K, Wang X, Chen M, Wang J, Chen H,
+Hui S, Huang L, et al. Trimethylamine-N-oxide (TMAO)
+response to animal source foods varies among healthy young men
+and is influenced by their gut microbiota composition: a randomized
+controlled trial. Geriatric respondents and
+non-respondents to probiotic intervention can be differentiated by
+inherent gut microbiome composition. Liu Z, Hsiao W, Cantarel BL, Drábek EF, Fraser-Liggett C. Sparse
+distance-based learning for simultaneous multiclass classification
+and feature
+selection of metagenomic data. Finding groups in data: an introduction to cluster analysis, New
+York: John Wiley; 1990. Radiology
+characteristic
+
+receiver operating
+
+(ROC)
+
+1978;6(2):461–4. Gut microbiome and precision nutrition: Part I 25
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+138.

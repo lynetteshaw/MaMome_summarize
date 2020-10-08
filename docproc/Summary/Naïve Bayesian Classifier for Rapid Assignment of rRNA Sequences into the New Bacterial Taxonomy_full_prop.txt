@@ -1,0 +1,130 @@
+Number of taxa at different ranks
+
+Taxonomy
+
+No. Aligned 16S rRNA sequences were selected at the RDP
+website and analyzed using the RDP Tree Builder tool. This tool utilizes Weigh-
+bor (5), which uses the weighted neighbor-joining algorithm of phylogenetic
+reconstruction. Tree Builder incorporates branch-order conﬁdence estimation using 100 boot-
+strap samples. The resultant tree was downloaded in PostScript format and
+embellished with Adobe Illustrator. Each line in the hierarchy
+contains summary information, including the taxon rank and name and the
+number of query sequences assigned to that taxon. Clicking on the “show assignment
+detail” link will display the detailed classiﬁcation results for all or a speciﬁed
+subset of the user’s queries. The online version of Library Compare is available at http://rdp.cme.msu.edu
+/comparison. A user can upload two ﬁles containing sequences from two librar-
+ies. These sequences formed the Bergey corpus. All available
+(23,095) near-full-length ((cid:1)1,200 bases) 16S rRNA sequences were obtained
+from the January 2004 release of the RDP. A similar word-based clas-
+siﬁcation scheme has been used to search for horizontal gene transfer events in
+whole-genome sequences (21). By Bayes’ theorem, the probability that an un-
+known query sequence, S, is a member of genus G is P(G¦S) (cid:2) P(S¦G) (cid:5)
+P(G)/P(S), where P(G) is the prior probability of a sequence being a member of
+G and P(S) the overall probability of observing sequence S (from any genus). For each query sequence, the collection of
+all eight-character subsequences (words) in the query was ﬁrst calculated. So for each bootstrap trial, a subset of one-eighth of the words was
+randomly chosen (with replacement) and the words in this subset were then used
+to calculate the joint probability. 73, 2007
+
+THE RDP CLASSIFIER
+
+5263
+
+TABLE 2. Percentage of matching bootstrap assignments for
+various query lengths for the Bergey corpus
+
+Length of
+segment
+(bases)
+
+Full
+400
+200
+100
+50
+
+% of classiﬁcation tests within a bootstrap conﬁdence range ofa:
+
+100–95% 94–90% 89–80% 79–70% 69–60% 59–50%
+
+97.5
+93.4
+86.3
+70.5
+46.2
+
+0.5
+1.5
+3.2
+6.5
+10.1
+
+0.5
+1.4
+2.8
+6.6
+10.6
+
+0.4
+1.0
+2.0
+4.2
+7.4
+
+0.4
+0.9
+1.9
+3.7
+6.8
+
+0.4
+0.9
+1.6
+3.1
+6.2
+
+a Frequency of most common assignments out of 100 bootstrap samplings. For these se-
+quences, the (obviously) incorrect genus assignment was not
+considered in the summary statistics, but the results were in-
+cluded for higher ranks containing other genera with valid
+training sets (Fig. Bergey’s taxonomic placement of
+these three sequences appeared not to be congruent with the
+derived phylogeny (Fig. For these high-throughput experiments,
+the RDP Classiﬁer can provide rapid taxonomic placement and
+summary data, including the number of input sequences be-
+longing to each taxon. The majority of available rRNA
+sequences are short (under 1,200 bases in length), and short
+partial sequences are commonly used for environmental survey
+sequencing. The RDP Clas-
+siﬁer misclassiﬁed three sequences from the Alicyclobacil-
+laceae: Sulfobacillus disulﬁdooxidans and Sulfobacillus thermo-
+sulﬁdooxidans, which were both misclassiﬁed in the genus
+Alicyclobacillus, and Alicyclobacillus acidoterrestris, which was
+misclassiﬁed in the genus Bacillus. Unlike the Seq-
+Match nearest-neighbor classiﬁer, the RDP naı¨ve Bayesian
+Classiﬁer uses information averaged over the entire genus and
+hence is less inﬂuenced by individual misplaced training se-
+quences. In release 5, sequence Z21979 was
+listed as coming from the type strain (VKM 1269) of S. thermosulﬁ-
+dooxidans. In our analysis, however, the sequence for
+K1 given in the naming paper (accession number AF137502) is 8%
+different from that for Z21979. Sequence X60602 was published
+in 1991 as from the type strain (DSM 3922) for A. acidoterrestris (1). We chose to use SeqMatch for the comparison, because it, like
+the RDP Classiﬁer, is offered through the RDP. For exam-
+ple, in one library of Acidobacteria environmental clone se-
+quences, 72 of 77 sequences were classiﬁed with less than 80%
+conﬁdence even at the phylum level (not shown). During that
+time, the RDP has updated the Classiﬁer to use data from
+three successive versions of Bergey’s taxonomic outline. ACKNOWLEDGMENTS
+
+This research was supported by the Ofﬁce of Science (BER), U.S.
+Department of Energy, grant DE-FG02-99ER62848, and the National
+Science Foundation, grant DBI-0328255. Phylogenetic
+heterogeneity of the genus bacillus revealed by comparative analysis of small
+subunit ribosomal RNA sequences. Harcourt Brace Jovanovich, Inc., Orlando, FL. Bergey’s manual of systematic bacteriology, 2nd ed., thermotolerans’
+strain K1 as Alicyclobacillus tolerans sp. The
+phylogenetic position of aerobic, moderately thermophilic bacteria of the
+Sulfobacillus species, oxidizing Fe2(cid:1), S0 and sulﬁde minerals. Phylogenetic approaches for describing and comparing the
+diversity of microbial communities. Singleton, D. R., M. A. Furlong, S. L. Rathbun, and W. B. Whitman. Microbial diversity in the deep
+sea and the underexplored “rare biosphere.” Turova, T. P., A. B. Poltoraus, I. A. Lebedeva, E. S. Bulygina, I. A. Tsaplina,
+T. I. Bogdanova, and G. I. Karavaiko. Database resources of the
+National Center for Biotechnology Information. Wisotzkey, J. D., P. Jurtshuk, G. E. Fox, G. Deinhard, and K. Poralla.

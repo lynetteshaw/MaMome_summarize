@@ -1,0 +1,118 @@
+Median relative abundance of bacterial taxa at the phylum level in infant gut microbiota at 3-4 months, by infant sex. 2 
+
+All infants (N=1021)61822186212218ActinobacteriaBacteroidetesFirmicutesProteobacteriaVerrucomicrobia692419Female infants (N=476)Male infants (N=545)Table S1. Median relative abundance of bacterial phyla, and microbial richness and diversity in infant gut microbiota at 3-4 months, according to 
+
+maternal prenatal asthma and infant sex. Comparisons were performed by Wilcoxon rank sum test. FDR was used to adjust p values for 
+
+multiple testing, and p values <FDR p are indicated with ‘*’. P values <0.05 are indicated in boldface type. Median relative abundance of bacterial taxa in infant gut microbiota at 3-4 months, according to maternal prenatal asthma 
+
+and infant sex. Comparisons were restricted to vaginally-delivered, breastfed infants not exposed to maternal antibiotics during birth. Dialister 
+Megasphaera 
+Veillonella 
+Proteobacteria 
+
+0.0007 (0.0-0.006) 
+0.001 (0.0-0.006) 
+1.9 (0.2-11.1) 
+19.4 (10.0-35.7) 
+17.8 (7.0-34.2) 
+0.001 (0.0004-0.005)  0.002 (0.0-0.006) 
+Verrucomicrobiaceae  0.001 (0.0004-0.005)  0.002 (0.0-0.006) 
+0.001 (0.0004-0.005)  0.002 (0.0-0.006) 
+Akkermansia 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Results are presented as median and inter quartile range in brackets. Comparisons were performed by Wilcoxon rank sum test. FDR was used to adjust p values 
+
+0.0004 (0.0-0.003) 
+0.0009 (0.0-0.005) 
+1.5 (0.2-7.4) 
+16.2 (7.4-41.2) 
+15.1 (5.9-39.6) 
+0.002 (0.0002-0.006)  0.0007 (0.0-0.003) 
+0.002 (0.0002-0.006)  0.0007 (0.0-0.003) 
+0.002 (0.0002-0.006)  0.0007 (0.0-0.003) 
+
+0.0003 (0.0-0.02) 
+0.0005 (0.0003-0.006) 
+0.5 (0.1-2.6) 
+13.8 (10.8-28.2) 
+13.8 (6.8-27.9) 
+
+0.001 (0.0-0.005) 
+0.0006 (0.0-0.001) 
+1.3 (0.1-4.2) 
+9.8 (8.2-22.6) 
+9.7 (5.5-16.5) 
+
+- 
+0.11 
+- 
+0.04 
+0.03* 
+- 
+- 
+- 
+
+Enterobacteriaceae 
+
+Verrucomicrobia 
+
+for multiple testing, and p values <FDR p are indicated with ‘*’. P values <0.05 are indicated in boldface type. ‡Comparison of Lactobacillaceae family was the primary hypothesis. Median relative abundance of bacterial taxa at phylum, family and genus level in fecal microbiota at 3-4 months according 
+
+to maternal asthma during pregnancy, restricted to Caucasian mothers and stratified by prenatal maternal allergy status. Comparisons were performed by Wilcoxon rank sum test. FDR was used to adjust p values 
+
+2.8 (0.4-14.6) 
+16.0 (6.5-34.0) 
+15.0 (4.5-32.0) 
+0.002 (0.0004-0.007) 
+0.002 (0.0004-0.007) 
+0.002 (0.0004-0.007) 
+
+3.0 (0.3-12.4) 
+14.5 (8.0-32.0) 
+10.4 (4.6-21.4) 
+0.001 (0.0-0.004) 
+0.001 (0.0-0.004) 
+0.001 (0.0-0.004) 
+
+0.7 (0.1-4.3) 
+19.6 (10.1-32.6) 
+19.6 (8.7-32.6) 
+0.01 (0.005-0.01) 
+0.01 (0.005-0.01) 
+0.01 (0.005-0.01) 
+
+- 
+0.09 
+0.01* 
+0.11 
+0.11 
+0.11 
+
+Verrucomicrobia 
+
+for multiple testing, and p values <FDR p are indicated with ‘*’. P values <0.05 are indicated in boldface type. ‡Comparison of Lactobacillaceae family was the primary hypothesis. Median relative abundance of bacterial taxa at phylum, family and genus level in fecal microbiota at 3-4 months according 
+
+to maternal asthma during pregnancy, restricted to Caucasian mothers and stratified by maternal pre-pregnancy weight. Comparisons were performed by Wilcoxon rank sum test. FDR was used to adjust p values 
+
+0.002 (0.0004-0.006)  0.002 (0.0-0.004) 
+0.002 (0.0004-0.006)  0.002 (0.0-0.004) 
+
+0.002 (0.0006-0.007) 
+0.002 (0.0006-0.007) 
+
+0.003 (0.0009-0.01) 
+0.003 (0.0009-0.01) 
+
+- 
+- 
+
+for multiple testing, and p values <FDR p are indicated with ‘*’. P values <0.05 are indicated in boldface type. ‡Comparison of Lactobacillaceae family was the primary hypothesis.

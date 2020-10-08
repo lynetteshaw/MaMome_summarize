@@ -1,0 +1,140 @@
+Cho and Blaser
+
+Page 2
+
+Characterizing the microbiome
+
+Tools for studying the metagenome
+
+individuals, and possibly, their disease risks. Although a focus on bacteria
+is important, inquiries aimed at archaea, viruses, and retroviruses, is also needed. By categorizing metagenomic sequences based on
+
+Nat Rev Genet. Author manuscript; available in PMC 2012 October 01. Indicator organisms such as Helicobacter pylori32 and
+reptococcus mutans33 highlight some differences across the microbiota34 and
+S
+t
+metagenome35 among human ethnic groups; however, the extent of ethnic variation in
+overall metagenomic composition is unknown. The human microbiome represents one or more complete ecosystems. As has occurred in the human stomach with the loss of a dominant species51,52,
+body sites then can harbor alternative stable states. All are subject to perturbation in the course of
+normal development and aging, and especially with disease. Important questions in this field involve determining if such temporal changes are
+life-stage specific, and whether they are predetermined by host genetic characteristics, or by
+environmental factor. In many host species, paternal contributions to offspring traits have been well
+documented57,58; these observations have been extended to the microbiome, where paternal
+contributions to offspring H. pylori allele composition have been shown59, In any event,
+there is evidence for extensive horizontal gene transfer (HGT) within human populations,
+functional classes, and ecological niches60, indicating the site-specificity and dynamism of
+selection on the human microbiome. The diseases listed below review some current recent
+investigations (Table 1). In H. pylori-negative individuals, gastric
+microbiota diversity is high; most of the prominent gastric phylotypes (Streptococcus,
+Actinomyces, Prevotella, Gemella) also are abundant in the oropharynx of these
+individuals93; indicating that either many constituents are swallowed from more proximal
+sites, or that close relatives of the oral microbiota colonize more distally. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Cho and Blaser
+
+Page 10
+
+Perspectives
+
+For understanding causation and pathogenesis, model organisms provide an important
+approach. To better understand the implications of microbiota and metagenome variation in human
+health and disease, the field needs improved informatics tools, including new approaches for
+understanding the complexity of the metadata132. He is a Professor of Medicine and Microbiology at the
+NYU Langone Medical Center, USA. Genetic differences between selected and
+non-selected hosts are a source of selectable variation
+
+The anatomic structure around each hair shaft that consists of the
+hair shaft and follicle, the sebaceous gland, and the erector pili
+muscle
+
+An organism (e.g. microbe) that may have a pathogenic or symbiotic
+relationship with another organism (e.g. its host), depending on
+context. A type of gastric bypass surgery primarily used for the treatment of
+morbid obesity. Proceedings of the National
+
+Academy of Sciences of the United States of America. PubMed:
+20534435] Describes vaginal microbiome differences and similarities in women of reproductive age
+who vary by ethnicity, and explores factors related to bacterial vaginosis
+
+5. Proceedings of the Royal Society of London Series B-Biological
+Sciences. PubMed: 19234110] A comparison of germ-free and
+conventional animals to show that the microbiome has substantial effects on host blood
+metabolites, including the metabolism of amino acids and organic acids
+
+12. Greenblum S, Turnbaugh PJ, Borenstein E. Metagenomic systems biology of the human gut
+
+microbiome reveals topological shifts associated with obesity and inflammatory bowel disease. An African origin for the intimate association between humans and Helicobacter
+
+pylori. A core gut microbiome in obese and lean twins. Palmer C, Bik EM, DiGiulio DB, Relman DA, Brown PO. Sjolund M, Wreiber K, Andersson DI, Blaser MJ, Engstrand L. Long-term persistence of resistant
+
+Enterococcus species after antibiotics to eradicate Helicobacter pylori. Borrvall C, Ebenman B. Early onset of secondary extinctions in ecological communities following
+
+the loss of top predators. Molecular analysis of the bacterial microbiota in the human stomach. Ecology drives a global network of gene exchange connecting the human
+
+microbiome. The Journal of investigative dermatology. A new theory on cancer-inducing mechanism. Community analysis of chronic wound bacteria using 16S rRNA gene-based
+
+pyrosequencing: impact of diabetes and antibiotics on chronic wound microbiota. Fusobacterium nucleatum infection is prevalent in human colorectal
+
+carcinoma. Specific microbiota direct the differentiation of IL-17-producing T-helper cells in
+the mucosa of the small intestine. Association of NOD2 leucine-rich repeat variants with susceptibility to Crohn's
+
+disease. Enteric dysbiosis associated with a mouse model of alcoholic liver disease. Analysis of gut microbial regulation of host gene expression along the length of
+
+the gut and regulation of gut microbial ecology through MyD88. Can we harness knowledge of the microbiome to improve diagnostics for
+
+disease status and susceptibility? * NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Cho and Blaser
+
+Page 22
+
+Figure 1. Such site-specific
+differences as well as observed conservation between human hosts provide an important
+framework to determine the biological and pathological significance of a particular
+microbiome composition. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Cho and Blaser
+
+Page 27
+
+Examples of association of human conditions with particular microbiota characteristics
+
+Table 1
+
+Disease
+
+Psoriasis
+
+Reflux esophagitis
+
+Relevant finding
+
+Reference
+
+Increased ratio of Firmicutes to Actinobacteria
+
+88
+
+Esophageal microbiota dominated by
+gram-negative anaerobes
+Gastric microbiota with low or absent H. pylori
+
+Obesity
+
+Reduced ratio of Bacteroidetes to Firmicutes
+
+Childhood-onset asthma
+
+Absent gastric Helicobacter.

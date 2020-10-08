@@ -1,0 +1,94 @@
+Following screening, participants were admitted and placed on a WMD. Following the UF/OF phase, participants were on WMD for 2 d then on 
+consecutive days underwent OGTT (day 16) measurement of 24-h energy expenditure in a whole-room indirect calorimeter (day 17) and measurement of 
+fasting ANGPLT4 and heparin-induced measurement of LPL (day 18). As  expected,  the  absolute  number  of  calories  lost  per  day 
+was significantly higher in overfed relative to underfed individuals 
+(257.4 ± 91.2 kcal d−1 versus 123.5 ± 32.4 kcal d−1, Δ = 139.4 kcal d−1, 
+P < 0.0001, paired Student’s t-test; Fig. c, Mean percentage calorie loss 
+in stool (kcal d−1) in the vancomycin (n = 11) versus placebo (n = 13) groups. At  a  finer 
+taxonomic level, we were able to identify four 16S ribosomal RNA 
+sequence  variants  that  were  significantly  associated  with  the  diet 
+arm (independent of order): A. muciniphila, Bacteroides coprocola, 
+a  Lachnospiraceae  sp. Taken 
+together,  these  results  indicate  the  overall  resiliency  of  the  gut 
+microbiota faced with differences in caloric intake while also high-
+lighting  a  small  number  of  diet-responsive  bacterial  species  that 
+could contribute to the observed differences in nutrient absorption. 5e) based 
+on  16S  rRNA  sequence  variants  analysis:  A.  muciniphila,  a  mucin-
+degrading  bacterium  with  a  putative  role  in  preserving  gut  barrier 
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNefunction24–26,  which  was  enriched  during  UF  and  in  the  vancomy-
+cin group, and an unidentified species belonging to Lachnospiraceae 
+NK4A136 group, which decreased during UF and vancomycin inter-
+ventions. At the pathway level there was a more modest 
+difference between groups; only 3 of 290 metabolic pathways were 
+differentially abundant (all decreased) with vancomycin compared 
+with placebo (Extended Data Fig. Discussion
+In  this  two-phase  study  we  directly  measured  ingested  and  stool 
+calories, demonstrating an increased and comparable stool calorie 
+loss relative to ingested calories during two states: UF versus OF and 
+oral vancomycin versus placebo. Each point represents a single sample 
+(n = 156 samples), where color denotes subject identity and shape denotes diet (weight maintaining, WM). e, Venn diagram of 16S rRNA sequence variants 
+significantly different between vancomycin and placebo, or UF and OF, respectively (FDR < 0.1, two-sided unpaired or paired Wilcoxon test). Δ indicates the difference (log expressed) between pre- and postdietary intervention measurements (c) and 
+the difference (log expressed) between pre- and postrandomization measurements in vancomycin and placebo groups (d). Divergent metabolic outcomes arising from targeted 
+ 
+
+manipulation of the gut microbiota in diet-induced obesity. Species-level functional profiling of metagenomes and 
+ 
+
+metatranscriptomes. Total-body dual-energy X-ray absorptiometry 
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+(Lunar Prodigy, enCORE 2003 software version 7.53.002, GE Lunar) to assess body 
+composition was performed on day 2. Volunteers 
+ate under supervision and consumed at least 95% of the provided food. Similarly, food samples were made into a slurry and were lyophilized. Samples 
+were run in duplicate and results averaged. If duplicate samples were >40 cal apart, 
+calorimetry was repeated until duplicate samples were <40 cal apart or the mean of 
+four consecutive readings was used. The 
+intra-assay %CV was 1.58 and the inter-assay %CV was 4.46. LPS and zonulin were measured 
+using an assay from CusaBio Technologies. DNA templates were diluted 100-fold before 
+quantitative PCR (qPCR) of 16S rRNA gene copies was performed. The normalized amplicon pool was concentrated down to ~100 μl 
+in a SpeedVac and then purified using 1× AMPure XP beads (Beckman Coulter). Raw Illumina reads underwent 
+quality trimming and adaptor removal using Fastp66 and host read removal by 
+mapping to the human genome (GRCh38) with Bowtie2 (ref. Ferraro, R., Boyce, V. L., Swinburn, B., De Gregorio, M. & Ravussin, E. 
+ 
+Energy cost of physical activity on a metabolic ward in relationship to 
+obesity. Wang, Q., Garrity, G. M., Tiedje, J. M. & Cole, J. R. Naive Bayesian classifier 
+ 
+for rapid assignment of rRNA sequences into the new bacterial taxonomy. Q.Y.A. and D.D.T. generated the microbiome data. Additional 
+support for the research in the Turnbaugh laboratory was provided by the National 
+Institutes of Health (grant nos. P.J.T. holds an Investigators 
+in the Pathogenesis of Infectious Disease Award from the Burroughs Wellcome Fund, 
+is a Chan Zuckerberg Biohub investigator and is a Nadia’s Gift Foundation Innovator 
+
+Additional information
+Extended data is available for this paper at https://doi.org/10.1038/s41591-020-0801-z. Correspondence and requests for materials should be addressed to A.B., P.J.T. or J.K.
+
+Peer review information Joao Monteiro was the primary editor on this article and 
+managed its editorial process and peer review in collaboration with the rest of the 
+editorial team. NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. b, Phylogenetic tree of 16S rRNA sequence variants (SVs) where 
+colored tips denote significantly different SVs between vancomycin (n=11) and placebo (n=13) groups (FDR<0.1, DESeq2 with two-sided Wald test) with 
+color representing fold change comparing vancomycin to placebo. Phylum distribution of the SVs are indicated around the tree. The values are expressed as absolute values. c, mean fasting insulin concentration (mU/L). The sample size for each intervention refers to the volunteers 
+who had available measurements of glucose and insulin during OGTT (oral glucose tolerance test). Software and code
+
+Policy information about availability of computer code
+
+Data collection
+
+The first phase was a cross-over design in which all participants underwent in random order 3 days of over and underfeeding, followed by 
+a second phase involving double blind randomized placebo-controlled assignment to administration of oral vancomycin or matching 
+placebo. Stool samples were collected from appearance of first marker to appearance of the 
+
+second marker and weighed during under- or overfeeding and after randomization to vancomycin. Stool samples were homogenized with bead beating 
+for 5 min (Mini-Beadbeater-96, BioSpec) using the ZR BashingBead lysis matrix containing 0.1 and 0.5 mm beads (ZR-96 BashingBead 
+Lysis Rack, Zymo Research) and the lysis solution provided in the ZymoBIOMICS 96 MagBead DNA Kit (Zymo Research). This statement should provide the following information, where applicable: 
+
+- Accession codes, unique identifiers, or web links for publicly available datasets 
+- A list of figures that have associated raw data 
+- A description of any restrictions on data availability
+
+All sequencing data generated in this study were deposited on the NCBI, under BioProject PRJNA589622. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.

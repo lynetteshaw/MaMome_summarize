@@ -1,0 +1,155 @@
+The majority of these techniques are based on the extraction of DNA and the ampliﬁcation of the 16S
+ribosomal RNA gene (rRNA) [5,6]. 16S rRNA sequencing has become the most useful technique to
+highlight diversity and abundance of the microbiome. After deﬁning microbiota
+variations within and between individuals, we highlight the involvement of gut microbiota dysbiosis
+in various intestinal and extra-intestinal disorder development and we describe the strong relationship
+between gut microbiota diversity and health. Clostridium genera represent
+95% of the Firmicutes phyla. Microorganisms 2019, 7, 14
+
+3 of 22
+
+Figure 1. Examples of taxonomic gut microbiota composition. Variations in the Same Individual
+
+Human gut microbiota vary taxonomically and functionally in each part of the GI tract and
+undergo variations in the same individual due to infant transitions, age, and environmental factors
+such as antibiotic use. Microbiota variations within individuals are summarized in Table 1. Speciﬁc properties of antibiotics such as
+antimicrobial effects or mode of action are powerful forces for the selection of intestinal microbiota
+and are partially responsible for the shifts in bacterial composition during antibiotic therapy [46].
+
+Each class of antibiotics has different properties and excretion systems, resulting in different
+
+patterns of alteration in the microbiome composition [47].
+
+A cultivation-independent survey of gut microbiota composition of three persons before, during,
+and after two exposures to the same antibiotic (ciproﬂoxacin) [48] has been conducted. Microbiota variations within individuals. Lachnospiraceae *
+Peptostreptococcaceae *
+Clostridiaceae *
+
+Ruminococcus spp. [14]
+
+↓
+
+↑
+
+↑
+
+↓
+
+↑
+
+↓
+
+↑
+
+[15,16,19]
+
+[16,20]
+
+[22–26]
+
+[21–23,27]
+
+[27,30–32,38]
+
+[27,30–32]
+
+[36,37]
+
+Microorganisms 2019, 7, 14
+
+8 of 22
+
+Actinobacteria
+
+Bacteroidetes
+
+Firmicutes
+
+Proteobacteria
+
+Fusobacteria
+
+Verrucomicrobia
+
+Euryarchaeota
+
+Bacteria
+Diversity
+
+Ref. Indeed, an enterotype is a functional
+harmonious association of several bacteria species rather than a systematic addition of bacteria species. 53] demonstrated that the microbiota of obese children are provided with
+an elevated Firmicutes-to-Bacteroidetes ratio compared to the microbiota of lean children [53].
+low relative proportions of Biﬁdobacterium vulgatus and high concentrations of
+Furthermore,
+Lactobacillus spp. SCFAs are higher in obese children suggesting
+elevated substrate utilization. Results showed that AN intestinal microbiota
+showed a signiﬁcant increase in Enterobacteriaceae and Methanobrevibacter smithii compared with healthy
+controls [55]. On the contrary, the genera Roseburia, Ruminococcus, and Clostridium were depleted in
+line with the observed reduction in AN of the total SCFAs [55].
+
+BMI levels represent a valid predictive value for gut microbiota dysbiosis. Studies have
+demonstrated that gut microbiota variations are correlated with increased or depleted production
+of SCFAs that may respectively contribute to the pathophysiology of obesity or AN. European gut microbiota (Western diet) have principally an enterotype Bacteroides
+(enterotype I): the European diet rich in lipids and animal proteins allows energy production from
+carbohydrates and proteins through fermentation [13]. David et al. [ Gut Microbiota Abundance
+
+Actinobacteria
+
+Bacteroidetes
+
+Firmicutes
+
+Proteobacteria
+
+Verrucomicrobia
+
+Euryarchaeota
+
+Spirochaetes
+
+Bacteria
+Diversity
+
+Ref. Recent advances in research have demonstrated that this mutualistic gut
+microbiota–host relationship appears to play a critical role for many extra-intestinal diseases such
+as metabolic diseases and neurological disorders with “gut–brain axis” interactions [81], but also
+for complex multifactorial diseases such as age-related macular degeneration with “gut–retina axis”
+interactions [82].
+
+Microorganisms 2019, 7, 14
+
+14 of 22
+
+3.2.1. A metagenome-wide association study of gut microbiota of T2D Chinese sufferers [94]
+demonstrated that patients with type 2 diabetes were characterized by a decrease in butyrate-producing
+bacteria such as Roseburia spp. and an increase in various opportunistic pathogens (Clostridium spp., Alzheimer’s disease (AD) is a chronic, rapidly progressive neurodegenerative disorder associated
+with impaired cognition and cerebral accumulation of amyloid-beta peptides. 103] linked
+the gut microbiota composition with cognition and inﬂammation in HE. A catalog of reference
+genomes from the human microbiome. Underwood, M.A.; Gaerlan, S.; De Leoz, M.L.; Dimapasoc, L.; Kalanetra, K.M.; Lemay, D.G.; German, J.B.;
+Mills, D.A.; Lebrilla, C.B. Human milk oligosaccharides in premature infants: Absorption, excretion, and
+inﬂuence on the intestinal microbiota. Bezirtzoglou, E.; Tsiotsias, A.; Welling, G.W. Microbiota proﬁle in feces of breast- and formula-fed newborns
+by using ﬂuorescence in situ hybridization (FISH). CrossRef]
+[PubMed]
+Sakurama, H.; Kiyohara, M.; Wada, J.; Honda, Y.; Yamaguchi, M.; Fukiya, S.; Yokota, A.; Ashida, H.;
+Kumagai, H.; Kitaoka, M.; et al. Borgo, F.; Riva, A.; Benetti, A.; Casiraghi, M.C.; Bertelli, S.; Garbossa, S.; Anselmetti, S.; Scarone, S.;
+Pontiroli, A.E.; Morace, G.; et al. David, L.A.; Maurice, C.F.; Carmody, R.N.; Gootenberg, D.B.; Button, J.E.; Wolfe, B.E.; Ling, A.V.; Devlin, A.S.;
+Varma, Y.; Fischbach, M.A.; et al. [CrossRef]
+Joossens, M.; Huys, G.; Cnockaert, M.; De Preter, V.; Verbeke, K.; Rutgeerts, P.; Vandamme, P.; Vermeire, S.
+Dysbiosis of the faecal microbiota in patients with Crohn’s disease and their unaffected relatives. De Palma, G.; Nadal, I.; Medina, M.; Donat, E.; Ribes-Koninckx, C.; Calabuig, M.; Sanz, Y. Intestinal dysbiosis
+and reduced immunoglobulin-coated bacteria associated with coeliac disease in children. groups associated with paediatric coeliac disease. Genomic analysis identiﬁes association of Fusobacterium with colorectal carcinoma. CrossRef] [PubMed]
+
+Microorganisms 2019, 7, 14
+
+21 of 22
+
+83. Kim, K.A.; Gu, W.; Lee, I.A.; Joh, E.H.; Kim, D.H. High fat diet-induced gut microbiota exacerbates
+inﬂammation and obesity in mice via the TLR4 signaling pathway. Zhang, C.; Zhang, M.; Wang, S.; Han, R.; Cao, Y.; Hua, W.; Mao, Y.; Zhang, X.; Pang, X.; Wei, C.; et al. Gut microbiome alterations in Alzheimer’s disease. CrossRef] [PubMed]
+
+[CrossRef] [PubMed]
+
+Neurosci. Bailey, M.T.; Dowd, S.E.; Galley, J.D.; Hufnagle, A.R.; Allen, R.G.; Lyte, M. Exposure to a social stressor alters the
+structure of the intestinal microbiota: Implications for stressor-induced immunomodulation. CrossRef] [PubMed]
+
+© 2019 by the authors. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

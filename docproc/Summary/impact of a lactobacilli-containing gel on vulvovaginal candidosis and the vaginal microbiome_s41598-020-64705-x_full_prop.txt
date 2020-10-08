@@ -1,0 +1,64 @@
+First we explored in detail the in vitro inhibitory effects of a selection of LGC strains against growth and 
+pathogenic properties (adhesion to vaginal cells and hyphae formation) of Candida albicans. We examined the vaginal microbiome over four weeks: before, during, and after the 
+use of the probiotic gel and compared the group requiring rescue medication (RM; 3 × 200 mg fluconazole) with 
+the group not requesting this antifungal treatment. Results
+In vitro selection of LGc strains for anti-Candida effects. When applying the strains simultaneously with C. albi-
+cans, the strains were able to reduce adhesion of C. albicans, e.g. L. pentosus KCA1 by 78.0% (Fig. c) Adhesion percentage of 
+LGC strains to VK2/E6E7 cells, a cell line of vaginal keratinocytes. ( The regular growth medium without 
+any added microorganisms was used as a negative control. ( Significant 
+differences were tested with pairwise Wilcoxon tests and significance levels are indicated when p < 0.05. Scientific RepoRtS  |         (2020) 10:7976  | https://doi.org/10.1038/s41598-020-64705-x
+
+4
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/visit 2 = 6.1.108 CFU/ml). Of note, when we stratified 
+the samples in women who did or did not use RM, the following trend was observed: the women who used RM 
+started off with a higher load of fungi and lactobacilli and ended with on average with similar fungal concen-
+trations and lower concentrations of lactobacilli as compared to the women who did not use RM (Fig. We also investigated the bacterial community present in the samples. This ASV showed a lower relative 
+abundance than L. plantarum/pentosus (mean relative abundance at visit 2: 11.0% versus 37.9% of LGC 5). Previous studies have reported successes in using probiotics for VVC treatment (in combination with azole 
+treatment), but these were mostly aimed at reducing the rate of recurrence and did not test the lactobacilli as 
+stand-alone treatments for acute pathology10–13,31. To evaluate the potency of the LGC strains to inhibit the growth of Candida albicans (inoculated at 2.103 
+CFU/ml), a spot assay was performed as described previously32. L. pentosus KCA1, L. plantarum WCFS1 and L. 
+rhamnosus GG, were selected for a proof-of-concept trial in patients. The lactobacilli-containing gel was devel-
+oped in collaboration with the Belgian biotech company YUN nv (see ‘Competing interest’ statement). proof of concept study for evaluation of LGc-containing gel, ethical approval and informed 
+consent. After signing informed consent forms, patients were asked to administer 2.5 ml of the gel daily for 10 con-
+secutive days. Patients were 
+monitored over four weeks and asked to return three times after the intake visit (day 0): at day 7 (visit 2, during 
+treatment with gel), day 14 (visit 3) and day 28 (visit 4). At all visits, a gynaecological examination was performed, 
+which included the scoring of symptoms, collection of a vaginal smear for pH, two vaginal swabs (for microscopy 
+and culture) and collection of vaginal lavage samples. The vaginal lavage fluids obtained were stored fro-
+zen at −80 °C until microbiome analysis, performed as described in De Boeck et al.37, with minor modifications. PCR products were 
+purified (AMPure XP PCR purification, Beckmann Coulter) and pooled equimolarly. estimation of LGc and fungal concentrations using qpcR.  To supplement the microbiome data with 
+estimations of absolute abundances of lactobacilli and yeast, the DNA samples obtained before were subjected to 
+qPCR analysis, as described previously43. Data availability
+The obtained sequencing data and metadata is available under ENA accession number PRJEB33108. Received: 13 September 2019; Accepted: 15 April 2020;
+Published: xx xx xxxx
+
+References
+  1. Rev. 72, 728–64, Table of Contents (2008). Diverse vaginal microbiomes in reproductive-age women with vulvovaginal candidiasis. Lactic acid bacteria colonization and clinical outcome after probiotic supplementation in conventionally treated 
+
+bacterial vaginosis and vulvovaginal candidiasis. Differential NF-kB pathways induction by Lactobacillus plantarum in the duodenum of healthy humans 
+ 
+
+correlating with immune tolerance. Introducing EzBioCloud: A taxonomically united database of 16S rRNA gene sequences and whole-genome 
+ 
+
+nonspecific vaginitis. van den Broek, M. F. L., De Boeck, I., Claes, I. J. J., Nizet, V. & Lebeer, S. Multifactorial inhibition of lactobacilli against the respiratory 
+ 
+
+tract pathogen Moraxella catarrhalis. Interplay between Lactobacillus rhamnosus GG and Candida and the involvement of exopolysaccharides. Deriving accurate microbiota profiles from human samples with low bacterial content through post-sequencing 
+ 
+
+processing of Illumina MiSeq data. bioRxiv 463307, 
+ 
+
+https://doi.org/10.1101/463307 (2018). Draft genome sequence of Lactobacillus plantarum CMPG5300, a human vaginal isolate. Chan, R. C. Y., Reid, G., Irvin, R. T., Bruce, A. W. & Costerton, J. W. Competitive exclusion of uropathogens from human 
+ 
+
+uroepithelial cells by Lactobacillus whole cells and cell wall fragments. We acknowledge Servier 
+Medical Art for the images used in Fig. E.O. prepared 
+the graphs and performed statistical analysis (with help of S. Wittouck). competing interests
+The authors declare the following competing interests. Additional information
+Supplementary information is available for this paper at https://doi.org/10.1038/s41598-020-64705-x. Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations. The images or other third party material in this 
+article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the 
+material.

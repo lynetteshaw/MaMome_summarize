@@ -1,0 +1,135 @@
+The causative role of the gut microbiota in the context
+of MS is well characterized [14, 20, 21], but the role of
+sexual
+gut
+microbiota in the context of MS, and the associated
+mechanisms underlying such differences, are still un-
+clear. Moreover, 17β-E
+treatment reduced the occurrence of ME and LGCI in the
+M+E2 and OVX+E2 groups to levels equal to those female
+mice (Fig. Microbiome           (2018) 6:205 
+
+Page 3 of 22
+
+Fig. Serum levels of cytokines such as TNF-α (u), IL-1β (v), MCP-1 (w), IL-6 (x), and IL-10 (y). Data with different superscript letters are significantly different (P < 0.05). In order to
+further identify microbial taxa that serve as biomarkers for
+different groups, we performed liner discriminate analysis
+(LDA) coupled with effect size measurements (LEfSe). Next, we employed PICRUSt to predict the
+metagenomes and determine the changes in microbial
+metabolic pathways (KEGG) across different groups [29].
+Male/OVX groups were segregated from the other three
+groups using PCoA applied on predicted functional path-
+ways (Additional file 1: Figure S2c). a–e Markers of obesity (baseline (BL) and after FMT body weight and body weight gain in
+the end (a), fat and lean body mass (% body weight) (b), gross appearance (dorsal and ventral aspects have been shown to differentiate the
+female from male sex) of male, female, and F → M mice (c), glucose tolerance test results (d), and serum triglyceride levels ®. p Analysis at the
+phylum level using RA (%). 6a, b and
+Additional file 1: Figure S5i-j), we found significant dif-
+ferences only in IAP between groups based on sex and
+estrogen treatment (Fig. 6g, with no detection of
+expression of Akp6), higher immunochemical staining of
+IAP (Fig. Box plots (box showing the median, and the 25th and 75th percentiles, and the whiskers of the
+graph show the largest and smallest values) were also used. After 8 weeks of WD and L-phe
+(10 mM) treatment, we found that the L-phe-treated female
+mice exhibited a significant increase in LPS-producing Pro-
+teobacteria, decrease of B/E ratio, increase of the relative
+abundance (RA) of Akkermansia muciniphila and no
+differences in FIR/BAC ratio (Fig. 6v
+with no differences in body weight gain (Fig. Edges (lines) represent sta-
+tistically significant correlations, and are colored light
+black for positive and blue for negative correlations. Leave one-out cross-validation (LOO-CV)
+was applied. Our findings indicate that IAP may be a primary factor
+partially mediating the effects of estrogen on gut micro-
+biota because IAP inhibition in the female mice led to the
+development of ME, LGCI, and MS, associated with dra-
+matic increase of Proteobacteria and reduction of the B/E
+ratio and A. mucinophila abundance (Fig. Microbiome           (2018) 6:205 
+
+Page 15 of 22
+
+respectively [80–82]. Estrogen inhibited the overgrowth of
+Proteobacteria and E. coli and decreased the levels of LBS
+and LBP under simulated microgravity [83]. In addition,
+E2 supplementation in male [84] or OVX mice [61] pre-
+vented obesity and MS, and genistein prevented obesity
+and metabolic dysfunction in the mice, which was similar
+to E2 supplementation in the same study [60, 61].
+
+Conclusions
+Our novel data demonstrate that the gut microbiome
+mediates sexual dimorphism in MS. A portion of the liver was stored in 10%
+formalin for histological analysis. Tissues were snap
+frozen in liquid nitrogen and then stored at − 80 °C
+for future analyses. 2) Determination of 17β-estradiol effects on gut micro-
+biome, metabolic endotoxemia, low-grade chronic
+inflammation, and metabolic syndrome: Ten-week-
+old male (M), female (F), and ovariectomized
+(OVX) mice maintained on control diet were pur-
+chased from Charles River Laboratories and divided
+in to five groups (n = 5/group), and were fed WD
+and 17β-estradiol (E2) from week 11 to week 17. The water bottles were changed every week
+for all the groups. 6) Analysis of the effects of intestinal alkaline
+
+phosphatase (IAP) inhibition on gut microbiome,
+ME, LGCI, and metabolic abnormalities: To
+determine the effects of inhibiting endogenous IAP
+activity, 12-week-old WT mice on a WD were di-
+vided into three groups ((male (M), female (F), and
+F+L-phe)) (n = 5 per group) and allowed to drink
+autoclaved water alone or water containing 10 mM
+L-phenylalanine (L-phe) (Sigma, USA). Di-
+mensional reduction of the Bray-Curtis distance between
+microbiome samples using PCoA ordination method
+(PAST software) was done and significant differences
+among groups were tested with permutational multivari-
+ate analysis of variance (PERMANOVA), a multivariate
+non-parametric one-way ANOVA, which utilizes the
+sample-to-sample Bray-Curtis distance matrix directly. Differential abundance analysis
+(non-parametric ANOVA with Benjamini-Hochberg FDR-
+corrected P values < 0.05) was performed on the RA of
+microbiota data at different levels of taxonomy to identify
+taxa with FDR-corrected P values < 0.05 (XLSTAT soft-
+ware; Addinsoft, USA) [94] and then their RA (normalized
+to percentage) were shown by a heat map with hierarchal
+clustering (HCN) analysis [95] using GraphPad Prism ver-
+sion 7.01 (La Jolla, CA). LEfSe
+analysis [96] was utilized to determine significant puta-
+tive KEGG orthologs and pathway analyses [96].
+
+Lipopolysaccharide (LPS) concentration
+Serum LPS concentrations were measured with a Toxin
+Sensor Chromogenic Limulus Amebocyte Lysate (LAL)
+Endotoxin Assay Kit (GenScript, Piscataway, NJ), follow-
+ing the manufacturer’s instructions [15]. Briefly, serum
+samples were diluted 10- to 50-fold with endotoxin-free
+water, adjusted to the recommended pH, and heated for
+10 min at 70 °C to minimize inhibition or enhancement
+by contaminating proteins. The culture
+medium was changed every other day. subset of
+
+Western blotting analysis of IAP
+Western blotting on tissues and Caco-2 cell lysates was
+performed as previously described [14]. After thawed,
+the protein samples derived from Caco-2 cells, the ho-
+mogenates were centrifuged at 15,000g at 4 °C for
+15 min, and the supernatants were collected. Differential expression
+analysis on 16S sequencing data was conducted using
+XLSTAT software program [94]. Multivariate statistical
+analyses and power analyses (alpha = 0.05; effect size =
+0.8) were conducted using PAST (version 2.17) [93] and
+XLSTAT (version 2017.6) software products. The authors declare no competing financial interests. 2School of Microbiology, University College
+Cork, Cork, Ireland. Kaliannan K, Wang B, Li XY, Kim KJ, Kang JX. Proc Natl Acad Sci U S A. 2013;110(22):9066–71. Zhang C, Zhang M, Wang S, Han R, Cao Y, Hua W, Mao Y, Zhang X, Pang X, Wei
+C, et al. Moussa L, Bezirard V, Salvador-Cartier C, Bacquie V, Lencina C, Leveque M,
+
+Braniste V, Menard S, Theodorou V, Houdeau E. A low dose of fermented soy
+germ alleviates gut barrier injury, hyperalgesia and faecal protease activity in a
+rat model of inflammatory bowel disease. Chambliss KL, Barrera J, Umetani M, Umetani J, Kim SH, Madak-Erdogan Z,
+Huang L, Katzenellenbogen BS, Katzenellenbogen JA, Mineo C, et al. Hormone
+therapy dose, formulation, route of delivery, and risk of cardiovascular
+events in women: findings from the Women’s Health Initiative observational
+study. Manson JE, Chlebowski RT, Stefanick ML, Aragaki AK, Rossouw JE, Prentice
+
+RL, Anderson G, Howard BV, Thomson CA, LaCroix AZ, et al. Reikvam DH, Erofeev A, Sandvik A, Grcic V, Jahnsen FL, Gaustad P, McCoy
+KD, Macpherson AJ, Meza-Zepeda LA, Johansen FE. Gut microbiota mediates the protective effects of
+dietary capsaicin against chronic low-grade inflammation and associated
+obesity induced by high-fat diet. Yu K, Mu C, Yang Y, Su Y, Zhu W. Segment-specific responses of intestinal
+epithelium transcriptome to in-feed antibiotics in pigs.

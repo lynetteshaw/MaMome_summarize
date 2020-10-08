@@ -1,0 +1,40 @@
+of intravaginal nonoxyl-9 (an ingredient in spermicide and a commonly used cytotoxic control) and univer-
+sal placebo gel (isotonic) found that both have inflammatory effects on cells of the cervix and endometrium12. We evaluated the in vitro effect of lubricants, moisturizers and a pH balancing gel on the 
+growth of clinical and lab strains of E. coli and a common vaginal Lactobacillus spp. When exposed to a 
+1:100 dilution of KY Jelly, Replens Long-Lasting moisturizer, or Trimo-San in KSF, the laboratory strain of E. coli 
+was inhibited compared to a KSF media control (p = 0.01, Fig. L. crispatus growth was stimulated by Replens Silky Smooth (p < 0.01). b) Final change in growth of 
+L. crispatus, as measured in CFU (in 1:100 diluted product and MRS/KSF cell culture media as control), 
+demonstrating a lack of inhibition by KY Jelly, Replens Long-Lasting moisturizer and Trimo-San, regardless of 
+the presence of human vaginal epithelial cells (p > 0.05). One possible explanation for the difference in E. coli inhibition 
+in the presence of cells involves the ability of bacteria to adhere to and proliferate on epithelial cell surfaces17. At the 1:100 dilution no products 
+inhibited the growth of Lactobacillus spp., The bacterial species used in these experiments include a laboratory strain 
+of E. coli (ATCC 8739) and 6 clinical strains of E. coli provided by the Massachusetts General Hospital microbi-
+ology lab, which had been isolated from women with cystitis. Scientific RepoRtS  |         (2020) 10:7625  | https://doi.org/10.1038/s41598-020-63652-x
+
+4
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/E. coli co-culture. Plates were incubated at 37 °C 
+with agitation for 6 hours. OD600 measurements were taken at every 2 hours with a Biotek Gen5 plate reader 
+(Burlington, VT). To test the observed interac-
+tions in a more high-fidelity model, the vaginal products with the most significant inhibitory effects in simple 
+co-culture were then co-cultured with bacteria in the presence of human vaginal epithelial cells. Vaginal epithelial cells were incubated overnight to achieve >90% 
+confluence. After a 24-hour equilibration to allow vaginal cells to adhere to the plate and become confluent, 25 µL of the 
+laboratory strain E. coli suspended in KSF were added to the vaginal epithelial cells with 75 µL of fresh KSF media 
+and incubated for 1 hour. The experiment was simultaneously performed without vaginal cells, using 1:100 diluted prod-
+ucts, KSF medium and bacterial suspension. Statistical significance was set at p < 0.05. Received: 13 December 2019; Accepted: 21 March 2020;
+Published: xx xx xxxx
+
+References
+  1. Prospective cohort study of microbial and inflammatory events immediately preceding Escherichia coli recurrent 
+
+urinary tract infection in women. Stapleton, A. E. The Vaginal Microbiota and Urinary Tract Infection. Microbiol Spectr 4, https://doi.org/10.1128/microbiolspec. AIDS Res Hum Retroviruses 32, 992–1004, https://doi.org/10.1089/AID.2016.0014 (2016). Schreiber, C. A., Meyn, L. A., Creinin, M. D., Barnhart, K. T. & Hillier, S. L. Effects of long-term use of nonoxynol-9 on vaginal flora. This work 
+was supported in part by the Vincent Memorial Research Funds. P
+
+Competing interests
+Dr. Mitchell has served as a consultant for Lupin Pharmaceuticals and Scynexis, Inc. Dr. Mitchell receives 
+research funding from Merck. Open Access This article is licensed under a Creative Commons Attribution 4.0 International 
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or 
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre-
+ative Commons license, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the 
+material.

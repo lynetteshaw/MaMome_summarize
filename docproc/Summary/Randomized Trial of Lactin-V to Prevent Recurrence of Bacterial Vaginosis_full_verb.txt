@@ -1,0 +1,97 @@
+Lactobacillus crispatus  CTV-05  (Lactin-V,  Osel) 
+is  a  live  biotherapeutic  product  that  contains  a 
+naturally occurring vaginal strain of L. crispatus. Premenopausal women 18 to 45 years of age 
+were screened for eligibility after providing writ-
+ten  informed  consent  to  be  screened. Potentially eligible wom-
+en completed a standard 5-day course of vaginal 
+0.75% metronidazole within 30 days before the 
+screening visit. Copyright © 2020 Massachusetts Medical Society. The  ran-
+domization sequence was prepared by statisti-
+cians at Emmes. The primary safety outcome was the percent-
+age of participants who had at least one adverse 
+event by week 24 that was considered to be re-
+lated to Lactin-V or placebo. Pearson’s  chi-
+square test was used to test the null hypothesis 
+that the cumulative percentages of participants 
+who  had  recurrence  of  bacterial  vaginosis  by 
+weeks 12 and 24 in the Lactin-V group would be 
+equal to those in the placebo group, with a two-
+sided  alternative  hypothesis. Post 
+hoc  sensitivity  analyses  for  missing  data  were 
+performed  to  calculate  risk  ratios  and  corre-
+sponding  confidence  intervals;  the  hypothesis 
+tests  were  performed  with  the  use  of  logistic-
+
+regression  multiple  imputation,  under  the  as-
+sumption  of  a  monotone  pattern  of  missing 
+data.23,24 The results of the prespecified inten-
+tion-to-treat  analyses  in  which  missing  data 
+were  imputed  with  the  use  of  the  last-observa-
+tion-carried-forward  method  were  included  in 
+the final clinical trial report and were reported 
+to ClinicalTrials.gov. More than half the participants reported a his-
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+1909
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. Enrollment, Randomization, and Follow-up. Percentages may not total 100 because of rounding. †  Race and ethnic group were reported by the participant. In the Lactin-V group, L. crispatus CTV-05 was 
+detected in 79% (at week 12) to 84% of partici-
+pants during weeks 4, 8, and 12 and in 48% of 
+participants at week 24 (Fig. 46 (30)
+
+87 (57)
+
+19 (12)
+
+59 (39)
+
+63 (41)
+
+30 (20)
+
+34 (45)
+
+30 (39)
+
+12 (16)
+
+41 (54)
+
+21 (28)
+
+14 (18)
+
+0.66 (0.44–0.87)
+
+0.01
+
+0.73 (0.54–0.92)
+
+*  Risk ratios were calculated with the use of logistic-regression multiple imputation, under the assumption of a mono-
+
+tone pattern of missing data. (The circles below the blue bar at week 4 represent outliers.) Overall,  adherence  to  the  assigned 
+treatment  was  high. T h e  n e w   e ng l a n d   j o u r na l   o f  m e dic i n e
+
+24  weeks  of  follow-up. Among  women  with  a  history  of  bacterial 
+vaginosis,  the  use  of  Lactin-V  after  treatment 
+with vaginal metronidazole resulted in a lower 
+incidence of recurrence of bacterial vaginosis at 
+12 weeks than placebo. A data sharing statement provided by the authors is available 
+
+with the full text of this article at NEJM.org. Disclosure forms provided by the authors are available with 
+
+the full text of this article at NEJM.org. Cohen  CR,  Lingappa  JR,  Baeten  JM,  
+et al. Hillier SL, Martius J, Krohn M, Kiviat 
+N, Holmes KK, Eschenbach DA. A case–
+control study of chorioamnionic infection 
+and  histologic  chorioamnionitis  in  pre-
+maturity. Phase 2a study assessing coloni-
+zation efficiency, safety, and acceptabil-
+ity of Lactobacillus crispatus CTV-05 in 
+women  with  bacterial  vaginosis. National  Institute  of  Allergy  and  In-
+fectious Diseases. Division of AIDS table 
+for grading the severity of adult and pedi-
+atric  adverse  events,  December  2004  — 
+Addendum 1:  female genital grading table 
+for use in microbicide studies.

@@ -1,0 +1,91 @@
+Human 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+SPECIAL ARTICLE
+
+Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+
+Table 1. The morphology of mouse and human colons also
+differs: the human colon is divided into haustra, whereas the mouse
+colon is rather smooth. On the other hand, a study by the MetaHIT consortium
+investigating metagenomes from 124 European individuals discovered
+that 90% of the individuals of the cohort share a common core of nine
+genera, at a 10% sequence coverage threshold (i.e. species being only
+considered  present  if  a  minimum  of  10%  of  their  genome  was
+recovered in the sequenced metagenome) (Qin et al., low 
+
+the 
+
+Overall,  these  observations  show  that  clear  differences  can  be
+observed at the level of specific genus/species abundances between
+
+5
+
+Disease Models & MechanismsSPECIAL ARTICLE
+
+Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+
+the murine and human gut microbiota. C, intestinal crypts; G, goblet cells; L, lamina
+propria; ME, muscularis externa; MM, muscularis mucosae; MT: muscularis tunics; SM: submucosa; V: villi. content in diets of both humans and mice (Akaza, 2012; Menon et
+al., Despite  the  numerous
+mouse  models  developed  for  IBD  and  their  contributions  to  our
+knowledge of the underlying mechanisms of the disease, none of them
+fully  mimic  the  pathophysiology  of  human  IBD  (Peloquin  and
+Nguyen, 2013; Wirtz and Neurath, 2007) (Table 2). This study shows that the gut
+microbiota  composition  of  humanized  mice  in  general  does  not
+differ significantly from that of the initial human donors, except for
+the absence of many low-abundance Firmicutes, but these mice fail
+to recapitulate a comprehensive response to infections. Similarly,  although  the  gap  between  humanized
+mouse models and the human gut microbiota within its original host
+needs to be acknowledged, these models provide unique possibilities
+to manipulate the human microbiota and potentially assess causality
+in the role of the gut microbiota in health and disease. Furthermore,  it  was  hypothesized  that  the
+differences  between  mice  and  rats  in  recapitulating  the  human
+donors’  microbiota  is  due  to  the  intrinsic  differences  in  genetic
+backgrounds of the recipient models, which might control for the
+establishment of the transferred microbiota (Wos-Oxley et al., More  recently,  another  study  employed  metagenomic
+approaches to compare the gut microbiota composition of humans
+and guinea pigs (Hildebrand et al., At the
+genus level, the swine gut microbiota harbors more Spirochaetes and
+Prevotella than 
+Interestingly,
+Anaerovibrio and  Treptonema are  genera  exclusive  to  pig  fecal
+metagenomes  (Lamendella  et  al., By contrast, studies investigating the gut microbiota
+composition  of  macaques  showed  that  the  community  of  gut
+bacteria in these primates is quite different to that of humans or mice
+(McKenna et al., In  addition,  even  well-controlled  gut  microbiota
+experiments  using  mouse  models  show  important  inter-study
+variations due to confounding factors in the experimental setup, such
+as mouse house origin, maternal effects, environmental conditions
+(food composition, light, stress factors, pathogen infection), genetic
+backgrounds  and  in  the  downstream  analysis  methods  applied. S.V.-S. is funded by Marie
+Curie Actions FP7 People COFUND – Proposal 267139 (acronym OMICS@VIB). Andoh, A., Kuzuoka, H., Tsujikawa, T., Nakamura, S., Hirai, F., Suzuki, Y., Matsui,
+T., Fujiyama, Y. and Matsumoto, T. (2012). Antibiotics in early life alter the murine colonic
+microbiome and adiposity. Elinav, E., Strowig, T., Kau, A.  L., Henao-Mejia, J., Thaiss, C.  A., Booth, C.  J.,
+Peaper, D.  R., Bertin, J., Eisenbarth, S.  C., Gordon, J.  I. et  al. ( Structure, function and diversity of
+
+induced  by  dextran  sulfate 
+
+the healthy human microbiome. Kim, H. B., Borewicz, K., White, B. A., Singer, R. S., Sreevatsan, S., Tu, Z. J. and
+Isaacson, R.  E. (2012). Ley, R. E., Bäckhed, F., Turnbaugh, P., Lozupone, C. A., Knight, R. D. and Gordon,
+J.  I. (2005). Linnenbrink, M., Wang, J., Hardouin, E. A., Künzel, S., Metzler, D. and Baines, J.
+F. (2013). Composition
+and energy harvesting capacity of the gut microbiota: relationship to diet, obesity and
+time in mouse models. Microbial  ecology  of  the
+murine  gut  associated  with  the  development  of  dextran  sodium  sulfate-induced
+colitis. Qin, J., Li, Y., Cai, Z., Li, S., Zhu, J., Zhang, F., Liang, S., Zhang, W., Guan, Y.,
+Shen, D. et  al. ( Faecalibacterium  prausnitzii  is  an  anti-inflammatory  commensal  bacterium
+identified by gut microbiota analysis of Crohn disease patients.

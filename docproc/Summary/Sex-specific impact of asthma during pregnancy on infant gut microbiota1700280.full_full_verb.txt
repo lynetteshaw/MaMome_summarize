@@ -1,0 +1,45 @@
+it
+
+Introduction
+Asthma is a common chronic disorder during pregnancy, affecting between 8% and 13% of pregnant
+women [1];
+is often a comorbid condition with food and environmental allergies [2]. Asthma
+exacerbation rates during pregnancy are high [3], and more severe asthma or poor symptom control have
+been associated with low birthweight [4–7]. A greater risk for childhood asthma following uncontrolled
+versus controlled maternal asthma during pregnancy has been reported [8]. These variations in risk to the
+offspring point to a potential in utero influence of maternal asthma. Written informed
+consent was obtained from all mothers. Parents were instructed to refrigerate
+soiled diapers prior to retrieval by a CHILD research assistant during a home visit. Although the hypothesis regarding lactobacilli was a priori, the
+Benjamini–Hochberg method to adjust p-values for the false discovery rate (FDR, where p<FDR p) was
+applied to analyses for all bacterial taxa with the SAS multi-test procedure [25]. As gut microbiome
+differences have been reported between European/North American and Asian populations [26], analyses
+were restricted to mothers of Caucasian ethnicity. Prenatal
+maternal asthma was not differentially distributed by infant sex or ethnicity, birth mode, early term birth,
+birthweight, breastfeeding status, maternal pre-pregnancy weight and maternal
+intrapartum antibiotic
+treatment (table 1); it tended to be higher in both the lowest and highest infant weight gain tertiles. No differences in gut
+
+https://doi.org/10.1183/13993003.00280-2017
+
+3
+
+ASTHMA | P.T. KOLEVA ET AL. Comparisons were performed
+using the Wilcoxon rank sum test. The p-values <0.1 are reported and
+p-values <0.05 are indicated in bold. ¶: The p-value for the sex interaction term for differences in Megasphera
+abundance related to maternal atopic asthma was 0.14 (ART test). Unclassified Megasphera species (LDA score 3.34, p=0.003) were
+comparatively less abundant and Bacteroides fragilis (LDA 3.29, p=0.02) were more abundant in female
+Caucasian infants born to mothers with atopic asthma. OR: odds ratio; aOR: adjusted odds ratio; CI: confidence interval. While no prior evidence exists for maternal prenatal asthma,
+these findings are compatible with the reduced Lactobacillales abundance observed in the meconium of
+newborns of mothers with eczema, and lower faecal colonisation with Lactobacillus species in infants of
+atopic parents [14, 28]. In our study, male infants born to mothers with prenatal asthma were one-third
+(aOR 0.26, 95% CI: 0.07–0.89) as likely to be colonised with high levels of lactobacilli, independent of
+maternal overweight or atopy status, birth mode or infant diet. We thank Sarah Bridgman for her assistance in formatting the final version of the manuscript and Konstantin
+Shestopaloff for completing the ART tests. Maternal and neonatal outcomes of pregnancies complicated by asthma in an
+Australian population. Stensballe LG, Simonsen J, Jensen SM, et al. Koren O, Goodrich JK, Cullender TC, et al. Host remodeling of the gut microbiome and metabolic changes
+during pregnancy. Meconium microbiota types dominated by lactic acid or enteric bacteria are
+differentially associated with maternal eczema and respiratory problems in infants. The Canadian Healthy Infant Longitudinal Development (CHILD) birth
+cohort study: assessment of environmental exposures. Bokulich NA, Subramanian S, Faith JJ, et al. Role of Lactobacillus species in the intermediate vaginal flora in early
+pregnancy: a retrospective cohort study. Rautava S, Collado MC, Salminen S, et al. Ann Allergy Asthma
+Immunol 2016; 116: 99–105. Maternal obesity in pregnancy, gestational weight gain, and risk of
+childhood asthma. Regulation of short-chain fatty acid production. Appl Environ
+Microbiol 2005; 71: 3692–3700.

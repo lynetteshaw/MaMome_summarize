@@ -1,0 +1,147 @@
+2014) and mammalian carni-
+vores (Menke et al. Studies utilizing PCR ampliﬁcation of clones, coupled
+with Sanger sequencing or denaturing gradient gel elec-
+trophoresis, have attempted to explore internal micro-
+bial communities or identify endosymbionts in tick
+species (Noda et al. technologies
+
+sequencing
+
+(HTS)
+
+A preliminary report by the Institute of Medicine
+Committee on Lyme Disease and Other Tick-Borne Dis-
+eases examined the diversity of prokaryotes in three
+tick species (Amblyomma americanum, Dermacentor vari-
+abilis and Ixodes scapularis) using 454 pyrosequencing
+technology (Clay & Fuqua 2010). For
+example, infection of blacklegged ticks by A. phagocy-
+tophilum (the causative agent of granulocytic anaplas-
+mosis in humans) has been shown to induce protein
+expression that increases cold tolerance and, depend-
+ing on weather patterns, may aid in tick survival
+(Neelakanta et al. In addition to investigating the internal
+microbial communities found within whole ticks, we
+focused on the microbiomes within two speciﬁc tissues
+in adult female ticks, salivary glands and the midgut,
+as these are important for maintenance and transmis-
+sion of many tick-borne pathogens associated with
+I. scapularis (Spielman et al. This primer set, resulting in a 450- to 550-bp PCR pro-
+duct, was determined to be the best candidate among
+512 sets tested in terms of domain and phylum cover-
+age for use in 16S rRNA bacterial sequencing (Klind-
+worth et al. A subset of
+the PCR products for all
+sample pools and the one negative were indexed
+using 25 lL KAPA SYBR FAST qPCR Master Mix
+(Kapa Biosystems), 10 lL sdH2O, 5 lL Nextera XT
+Index 1 Primer, 5 lL Nextera XT Index 2 Primer and
+5 lL puriﬁed PCR product. The UPARSE pipeline includes de novo chi-
+mera removal, followed by referenced-based chimera
+removal using the UCHIME algorithm and the GOLD
+16S rRNA gene database (Reddy et al. First, we
+isolated 4 315 478 sequences matching the genus Rick-
+ettsia using the ‘ﬁlter_fasta.py’ script in QIIME and col-
+lapsed them into 91 519 unique sequences using FASTX-
+(Gordon 2011). The remaining OTUs were
+
+Larvae  
+(Lab) 
+
+Larvae  
+(Field) 
+
+Nymphs
+
+Males
+
+Females
+
+Larvae  
+(Lab) 
+
+Larvae  
+(Field) 
+
+Nymphs
+
+Males
+
+Females
+
+(B)
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Phylogenetic diversity
+
+(D)
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+Simpson's index
+
+4968 C . At a rar-
+efaction depth of 200 000 sequences, whole females
+exhibited the highest a-diversity for observed number
+of OTUs and phylogenetic diversity, with female mid-
+guts exhibiting the lowest measures (Fig. © 2016 John Wiley & Sons Ltd
+
+(A)
+
+(B)
+
+M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4971
+
+Whole females 
+
+Female salivary glands 
+
+Female midguts
+
+Fig. B) Weighted Unifrac distances, abundance is considered. 5B), the midguts and
+whole female ticks tended to cluster together, away
+from the more divergent salivary gland samples, pre-
+sumably due to the >98% relative abundance of Rick-
+ettsia species in these two sample types. This manu-
+script represents contribution #261 of the Louis Calder Center
+– Biological Field Station, Fordham University. Berger SA, Stamatakis A (2011) Aligning short reads to refer-
+
+ence alignments and trees. Budachetri K, Browning RE, Adamson SW et al. ( 1998) Acquisition and
+transmission of the agent of human granulocytic ehrlichiosis
+by Ixodes scapularis ticks. Applied and
+Environmental Microbiology, 72, 1719–1728. Lefcort H, Durden L (1996) The effect of infection with Lyme
+disease spirochetes (Borrelia burgdorferi) on the phototaxis,
+activity, and questing height of the tick vector Ixodes scapu-
+laris. Vector
+Borne and Zoonotic Diseases, 1, 45–53. Neelakanta G, Sultana H, Fish D, Anderson JF, Fikrig E (2010)
+Anaplasma phagocytophilum induces Ixodes scapularis ticks to
+express an antifreeze glycoprotein gene that enhances their
+survival in the cold. Proceedings
+of the National Academy of Sciences of the United States of Amer-
+ica, 111, 10257–10262. Rees H (2004) Hormonal control of
+
+tick development and
+
+reproduction. Sanchez LM, Wong WR, Riener RM, Schulze CJ, Linington RG
+(2012) Examining the ﬁsh microbiome: vertebrate-derived
+bacteria as an environmental niche for the discovery of
+unique marine natural products. Van Treuren W, Ponnusamy L, Brinkerhoff RJ et al. (

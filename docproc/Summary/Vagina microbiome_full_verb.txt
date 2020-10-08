@@ -1,0 +1,112 @@
+riage patterns far exceeded what was initially
+suspected (Aagaard et al. 2014b Colon, anus,
+
+Next-Gen
+
+V3V5
+
+stool
+
+sequencing
+
+Nonhuman
+primate
+
+necrotizing colitis had
+predominantly one
+bacteria dominating
+
+microbiome in VLBW
+infants
+
+neonatal microbiome
+from birth to 4 mo
+while examining mode
+of delivery and feeding
+
+Examined the role of
+maternal IgA on
+intestinal microbiome
+
+Examined the role of
+maternal diet on
+juvenile microbiome
+
+16S-Based Metagenomics
+
+Sequencing of the 16S rRNA gene using Next-
+Gen technology has recently been widely ex-
+ploited to characterize the human microbiome
+(Jonasson et al. Comparison of the vaginal microbiome
+data from the HMP reveals that V1V3 will
+distinguish communities primarily by the rela-
+tive predominant Lactobacillus species present
+whereas, V3V5 amplicons will reveal either lac-
+tobacilli-dominant or lactobacilli-diminished
+groups. Given the complexity of assembly and
+low efﬁciency, taxonomy classiﬁcation can also
+be achieved by alignment of sequence reads
+to clade-speciﬁc markers identiﬁed from inte-
+grated microbial genomes (IMG) without prior
+assembly (Segata et al. Multi’omics Data Integration
+
+To truly understand how the microbiome im-
+pacts human health, metabolomic and meta-
+transcriptomic approaches will be required to
+characterize their precise roles as symbionts
+(reviewed in Morgan and Huttenhower 2014). An additional method that may be use-
+ful to examine microbiome communities across
+ethnicities is to use single nucleotide poly-
+morphisms (SNPs) in mitochondrial DNA
+(mtDNA), which provides more precision in
+analysis (Ruiz-Pesini et al. When the
+stability of the vaginal microbiome was exam-
+ined during pregnancy, the authors noted that
+the vaginal microbiome of gravid subjects shift-
+ed between CSTs dominated by lactobacilli but
+rarely shifted to CST IV, which is marked by a
+diminished abundance of Lactobacillus species
+(Romero et al. Even more concerning are the ﬁndings of two
+studies that found an increase in preterm de-
+livery (,34 wk) among women who tested
+negative for BV but were treated (Hauth et al. Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
+
+11
+
+www.perspectivesinmedicine.org
+
+A.L. Prince et al. VARIANCE OF THE HUMAN MICROBIOME
+IN PREGNANCY: BEYOND THE VAGINAL
+COMMUNITY
+
+In addition to changes described in the vaginal
+microbiome during pregnancy, Koren et al. (2012) investigated the intestinal microbiome
+during pregnancy using a prospective cohort
+study and found that as pregnancy progressed,
+the intestinal microbiome was altered. This study
+shows that the maternal microbiome at birth
+and postpartum may be critical in the establish-
+ment and development of the neonatal micro-
+biome via horizontal transmission. This study also found that infants with
+the highest species richness and diversity of
+their intestinal microbiome were born by emer-
+gency cesarean section rather than by an elective
+cesarean section or vaginally (Azad et al. Acid production by vaginal ﬂora in vitro is consis-
+tent with the rate, extent of vaginal acidiﬁcation. Amniotic ﬂuid infection, inﬂammation, and colo-
+nization in preterm labor with intact membranes. Gevers D, Knight R, Petrosino JF, Huang K, McGuire AL,
+Birren BW, Nelson KE, White O, Methe´ BA, Huttenhower
+C. 2012. Metatranscriptomic approach to analyze the functional
+human gut microbiota. Eur J Clin Microbiol Infect Dis 23: 463–470. Hillier SL, Krohn MA, Cassen E, Easterling TR, Rabe LK,
+Eschenbach DA. Hillier SL, Nugent RP, Eschenbach DA, Krohn MA, Gibbs
+RS, Martin DH, Cotch MF, Edelman R, Pastorek JG, Rao
+AV. Localiza-
+tion of P. gingivalis in preterm delivery placenta. Martin HL, Richardson BA, Nyange PM, Lavreys L, Hillier
+SL, Chohan B, Mandaliya K, Ndinya-Achola JO, Bwayo
+J, Kreiss J. 1999. Relationships of vaginal Lactoba-
+cillus species, cervical Chlamydia trachomatis, and bacte-
+rial vaginosis to preterm birth. Qin J, Li Y, Cai Z, Li S, Zhu J, Zhang F, Liang S, Zhang W,
+Guan Y, Shen D, et al. Segata N, Waldron L, Ballarini A, Narasimhan V, Jousson O,
+Huttenhower C. 2012. The
+association of occult amniotic ﬂuid infection with gesta-
+tional age and neonatal outcome among women in pre-
+term labor.

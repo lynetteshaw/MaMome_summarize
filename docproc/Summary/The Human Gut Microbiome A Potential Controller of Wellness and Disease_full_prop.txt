@@ -1,0 +1,220 @@
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 2
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+INTRODUCTION
+
+The human microbiome comprises of collective genomes of
+microbiota inhabiting us, namely protozoa, archaea, eukaryotes,
+viruses and predominantly bacteria that live symbiotically on and
+within various sites of the human body. Such antimicrobial
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+August 2018 | Volume 9 | Article 1835
+
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 4
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+properties may contribute in shaping the composition of the gut
+microbiota and protecting the host from an array of infectious
+pathogens. 2014
+
+Functions
+(cid:114)
+
+Regulate host metabolic pathways via
+G-protein-coupled receptor GPR41 or
+GPR43 -mediated signaling:
+
+(cid:114)
+
+energy homeostasis; synthesis of
+glucagon-like peptide 1 (GLP-1);
+increase leptin production. (cid:114)
+
+(cid:114)
+
+Production of nucleotides, vitamins and
+amino acids. Several commensal microbes such as Bacteroides
+fragilis, Biﬁdobacterium infantis, and Firmicutes are capable in
+inducing expansion of Treg cells such as FOXP3 expressing
+Treg and anti-inﬂammatory IL-10-producing Treg lymphocytes,
+which are crucial
+inﬂammation
+induced by aberrant eﬀector T cells, hence fortifying gut barrier
+function (Paust et al., The observation of
+decreased gut motility and lesser nNOS (neuronal NO synthase)
+neurons had been demonstrated in GF and antibiotic-treated
+mice, whereby such deﬁcits are reproduced in TLR4-knockout
+mice as well as TLR signal transducer MyD88-knockout mice
+(Anitha et al., GUT MICROBIOME AND DISEASES
+
+factors
+
+External
+(such as antibiotic consumption, dietary
+component, psychological and physical stress) and host factors
+can induce dysbiosis in gut microbiome. (cid:114)
+
+Induce activation of T helper type 17
+(TH17) cells without intestinal pathology,
+enhancing resistance toward intestinal
+pathogen. Although
+our understanding on the mechanism of pathogenesis for this
+disease is still lacking, crosstalk between gut microbiota and
+host factors show great potential in contributing to the disease
+development, as demonstrated in Figure 2. Gastrointestinal mucus
+antimicrobial peptides (such as human defensins) secreted
+from epithelium work together as a barrier in preventing direct
+contact of luminal gut microbiota with gastrointestinal epithelial
+cells and inhibit aberrant inﬂammation (Johansson et al., Besides, administration
+of prebiotics (fermentable polysaccharides) to stimulate growth
+and metabolic activity of beneﬁcial protective gut microbes
+such as butyrate-synthesizing bacteria might be an attractive
+concept to treat gastrointestinal inﬂammation in IBD (Joossens
+et al., OF-IN intake induced a signiﬁcant
+reduction in mucolytic Ruminococcus gnavus and a marked
+
+elevation of beneﬁcial Biﬁdobacterium longum, which the latter
+was strongly correlated with the clinical improvement in CD
+disease activity (Joossens et al., tight
+
+Gut dysbiosis has been largely reported in celiac disease
+patients,
+in which the active phase of celiac disease is
+characterized by a remarkable decrease in Gram-positive
+bacteria, whereby this bacterial population is partly restored
+in patients that receive gluten-free diet, suggesting the initial
+reduction of the recovered species might be the secondary
+consequences of the disease. (cid:114)
+
+in
+
+Decrease
+butyrate-producing
+Firmicutes (such as Faecalibacterium
+prausnitzii, Roseburia hominis)
+(cid:114)
+(cid:114)
+
+Increase in Escherichia coli
+
+Decrease in Clostridium leptum group of
+bacteria and Biﬁdobacterium. 2001
+
+Metabolic
+disorders/cardiovascular
+disorders
+
+Obesity
+
+Turnbaugh et al., Linking
+the dysbiotic features, microbial-mediated PTMP activities
+with the aberrant
+immune-inﬂammatory response in celiac
+disease, it is hypothesized that dysbiosis-mediated dysregulated
+PTMP activities causing both functional and conformational
+transformations of dietary and host proteins, generating novel
+aberrant epitopes which are potentially immunogenic and
+capable to interfere critical host cellular signaling, hence,
+triggering manifestation of autoimmune disease such as celiac
+disease (Lerner et al., For example, Biﬁdobacterium lactis exerts inhibitory eﬀect on
+the increased gut permeability induced by gliadin, and it
+protects the healthy curvy appearance of epithelial tight junctions
+from the unfavorable gliadin-induced “straightening” eﬀect on
+tight junction in human colon Caco-2 cells (Lindfors et al., These obesity-associated
+dysbiosis features were also accompanied by elevation in
+starch-degrading glycoside hydrolase and SCFAs (butyrate and
+acetate), and increased energy harvest capability as evidenced
+by markedly decreased fecal energy in obese mice (Ley
+et al., Administration of bacterial-synthesized CLA or
+CLA-producing bacteria such as Lactobacillus rhamnosus has
+shown a signiﬁcant decrease in plasma cholesterol,
+triacyl
+glycerides and white adipose tissue in animal models (Koba
+et al., This subsequently
+leads to withdrawal or non-compliance by patients during
+
+the probiotics are generally regarded as
+
+safe but
+
+Frontiers in Microbiology | www.frontiersin.org
+
+17
+
+August 2018 | Volume 9 | Article 1835
+
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 18
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+improvement on treatment regime,
+ﬁeld trials. Future applications of microbiome-based disease
+diagnosis, prognosis monitoring, prophylaxis and treatments
+which exhibit great potential
+in revolutionizing the current
+measures in disease management and treatment, are deﬁnitely
+worth anticipating. doi: 10.1186/1471-230x-11-22
+
+Braat, H., Rottiers, P., Hommes, D. W., Huyghebaert, N., Remaut, E., Remon, J. P.,
+et al. ( doi: 10.1542/peds.2008-0819
+
+Cani, P. D., Amar, J., Iglesias, M. A., Poggi, M., Knauf, C., Bastelica, D., et al. ( Increase in fecal primary bile acids and dysbiosis in patients with
+diarrhea-predominant irritable bowel syndrome. Vedolizumab as induction and maintenance therapy for
+ulcerative colitis. Dietary intake of menaquinone is associated with
+a reduced risk of coronary heart disease: the rotterdam study. In vivo eﬀects of Biﬁdobacteria and lactoferrin on gut endotoxin
+concentration and mucosal immunity in balb/c mice. Viable hypomorphic signaling
+mutant of the met receptor reveals a role for hepatocyte growth factor in
+postnatal cerebellar development. Induction of intestinal Th17 cells by segmented ﬁlamentous bacteria. Clinical epidemiology of inﬂammatory bowel disease:
+incidence, prevalence, and environmental inﬂuences. doi: 10.1128/AEM.02288-17
+Machiels, K., Joossens, M., Sabino, J., De Preter, V., Arijs, I., Eeckhaut, V., et al. doi: 10.1136/gutjnl-2013-304833
+
+Mahe, S., Corthier, G., and Dubos, F. (1987). doi: 10.1111/j.1574-6941.2012.01330.x
+
+Pear, S. M., Williamson, T. H., Bettin, K. M., Gerding, D. N., and Galgiani, J. N.
+(1994). Emergence of ﬂuoroquinolones as the predominant risk factor for
+Clostridium diﬃcile-associated diarrhea: a cohort study during an epidemic in
+Quebec. doi: 10.1086/496986
+
+Shi, L., Zhang, Z., Angela, M. Y., Wang, W., Wei, Z., Akhter, E., et al. ( doi: 10.1111/j.1572-0241.2006.00741.x
+
+Sato, J., Kanazawa, A., Ikeda, F., Yoshihara, T., Goto, H., Abe, H., et al. ( Interaction between
+phenolics and gut microbiota: role in human health. doi: 10.1111/j.1462-2920.2009.01982.x
+
+Thangaraju, M., Cresci, G. A., Liu, K., Ananth, S., Gnanaprakasam, J. P., Browning,
+D. D., et al. ( doi: 10.2337/db11-1019
+
+Turnbaugh, P. J., Hamady, M., Yatsunenko, T., Cantarel, B. L., Duncan, A., Ley,
+R. E., et al. ( The prevalence of
+gastrointestinal problems in children across the United States with autism
+spectrum disorders from families with multiple aﬀected members. This is an open-access article distributed under the
+terms of the Creative Commons Attribution License (CC BY).

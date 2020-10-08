@@ -1,0 +1,119 @@
+H.E.  Blum  /  Advances  in  Medical  Sciences  62  (2017)  414–420 
+
+415
+
+thousands  or  ten  thousands  of  single-stranded  DNA  species,
+reverse  transcribed  RNA  (cDNA)  or  oligonucleotides  of  known
+sequence  can  provide  a  global  gene  (genomics),  gene  expression
+(transcriptomics,  proteomics)  or  metabolite 
+(metabolomics)
+proﬁle  (‘signature’)  that 
+for  the  disease  of
+individual  patients,  including  its  natural  course/prognosis  and
+response  to  therapy. Clinically,  this  may
+eventually  translate  into  clinical  advances  in  disease  prevention,
+early  diagnosis  and  therapy. (A)  Different  microbiomes  in  humans;  (B)  The  intestinal  microbiome  in  healthy  individuals  and  patients  [7].
+
+416 
+
+H.E.  Blum  /  Advances  in  Medical  Sciences  62  (2017)  414–420
+
+identiﬁed  bacterial  species 
+
+consisting  of  trillion  microbial  cells  with  an  aggregate  9.9  million
+microbial  genes  across  the  fecal  microbiome  [14].  While  until
+recently,  the  environment  in  utero  has  been  considered  sterile,
+DNA-based  analyses 
+in  maternal
+ﬂuid  and  meconium. In  the  following,  a  few  examples  will
+be  discussed  in  more  detail. Inﬂammatory  bowel  diseases  and  colon  cancer
+
+The  inﬂammatory  bowel  diseases  (IBD)  in  humans  include
+ulcerative  colitis 
+(CD). While
+the  pathogenesis  of  IBD  is  not  fully  understood  [25],  it  is  clear  that
+its  pathology  depends  among  others  on  the  intestinal  microbial
+‘IBD-
+community  [26,27].  Further,  a  case-control  study  identiﬁed 
+
+involvement  of 
+
+in  UC  and 
+
+transmural 
+
+the 
+
+Table  1
+Functions  of  the  intestinal  microbial  community  in  human  health  (examples). The  three
+components 
+  environment,  host  genetics  and  the  microbial
+community 
+  interact  to  maintain  homeostasis  in  the  intestine  [7].
+The  disruption  of  the  stability  of  this  interaction  may  be  a  trigger
+for  disease  development  (Fig. (cid:1)
+
+the 
+to 
+
+Helminth 
+
+community 
+
+2.2.1.1. It  is  produced  by  various  cell
+types,  including  epithelial  cells,  and  acts  as  an  antimicrobial
+defense  mediator  by  binding  to  a  subset  of  bacterial  siderophores,
+thereby  preventing  bacterial 
+iron  acquisition  and  growth  of
+
+H.E.  Blum  /  Advances  in  Medical  Sciences  62  (2017)  414–420 
+
+417
+
+siderophore-dependent  strains. in  choline,
+this  context, 
+phosphatidylcholine  and  carnitine  such  as  meat,  egg  yolk  and
+high-fat  dairy  products,  serve  as  precursors  of  trimethylamine
+(TMA)  and  TMA  N-oxide  (TMAO)  that  accelerates  atherosclero-
+sis  [46]  and  elevated  TMAO  blood  levels  are  associated  with  an
+increased  risk  for  atherosclerotic  heart  disease  and 
+incident
+major  adverse  cardiac  events. An  impressive  example  for  a  pathogenic  role  of  the  intestinal
+microbial  community  is  Parkinson’s  disease  (PD). Financial  disclosure
+
+The  author  has  no 
+
+ﬁnancing  to  disclose. Achnowledgement
+
+The  excellent  secretarial  assistance  of  Mrs.  K.  Bigot  and  Mrs.  M.
+
+Gutgsell  is  gratefully  acknowledged. References
+
+[1]  Lander  ES,  Linton  LM,  Birren  B,  Nusbaum  C,  Zody  MC,  Baldwin  J,  et  al. Initial
+sequencing  and  analysis  of  the  human  genome. A  HapMap  harvest  of  insights  into  the
+
+genetics  of  common  disease. The  human  microbiome  project  in  2011  and  beyond. [8]  Human  Microbiome  Project  C.  Structure,  function  and  diversity  of  the  healthy
+
+human  microbiome. [11]  Morgan  XC,  Segata  N,  Huttenhower  C.  Biodiversity  and  functional  genomics  in
+
+the  human  microbiome. [12]  Rossen  NG,  Fuentes  S,  van  der  Spek  MJ,  Tijssen  JG,  Hartman  JH,  et  al. Findings
+from  a  randomized  controlled  trial  of  fecal  transplantation  for  patients  with
+ulcerative  colitis. Population-based  metagenomics  analysis  reveals  markers  for  gut
+microbiome  composition  and  diversity. Proc  Natl  Acad  Sci  U  S  A
+2010;107:14691–6. Gut  microbiota  metabolism  of  dietary 
+disease  and  hematopoiesis. Diagn  Microbiol  Infect  Dis  2013;75:245–51. Molecular-phylogenetic  characterization  of  microbial  community  imbalances
+in  human  inﬂammatory  bowel  diseases. Lipocalin
+2  protects  from  inﬂammation  and  tumorigenesis  associated  with  gut
+microbiota  alterations. Inherited
+determinants  of  Crohn's  disease  and  ulcerative  colitis  phenotypes:  a  genetic
+association  study. Duodenal
+infusion  of  donor  feces  for  recurrent  Clostridium  difﬁcile. [40]  Konishi  H,  Fujiya  M,  Tanaka  H,  Ueno  N,  Moriichi  K,  Sasajima  J,  et  al. [41]  Ridaura  VK,  Faith  JJ,  Rey  FE,  Cheng  J,  Duncan  AE,  Kau  AL,  et  al. Gut  microbiota
+from  twins  discordant  for  obesity  modulate  metabolism  in  mice. Alpha-synuclein  in  colonic  submucosa  in  early  untreated  Parkinson’s  disease. Gut
+microbiota  regulate  motor  deﬁcits  and  neuroinﬂammation  in  a  model  of
+Parkinson’s  disease. [56]  Edmonds-Wilson  SL,  Nurinova  NI,  Zapka  CA,  Fierer  N,  Wilson  M.  Review  of
+
+human  hand  microbiome  research. [61]  Ijssennagger  N,  Belzer  C,  Hooiveld  GJ,  Dekker  J,  van  Mil  SW,  Muller  M,  et  al. Tissue  factor  and  PAR1  promote  microbiota-induced
+intestinal  vascular  remodelling. Effects  of  early-life  exposure  to  allergens  and  bacteria  on  recurrent  wheeze
+and  atopy  in  urban  children. [73]  Qin  J,  Li  Y,  Cai  Z,  Li  S,  Zhu  J,  Zhang  F,  et  al. Best  Pract  Res  Clin
+
+Gastroenterol  2016;30:133–42. [82]  Turnbaugh  PJ,  Hamady  M,  Yatsunenko  T,  Cantarel  BL,  Duncan  A,  Ley  RE,  et  al.

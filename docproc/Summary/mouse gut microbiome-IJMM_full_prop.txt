@@ -1,0 +1,118 @@
+/  International  Journal  of  Medical  Microbiology  306  (2016)  316–327 
+
+317
+
+given  ecosystem. Speciﬁcally,  B.  theta  can  modify  host  epithelial  differen-
+tiation  in  a  way  that  supports  its  own   growth:  it  promotes  the
+production  of  fucosylated  glycans  by  the  host  and  in  turn  uses
+them  as  nutrient  sources  (Bry  et  al., B.  theta  was   shown  to  adapt  to  the  presence  of  Eubac-
+terium  rectale  or  the  probiotic  strains  Biﬁdobacterium  longum  and
+Lactobacillus  casei  by  expanding  the  breadth  of  its  carbohydrate
+utilization  (Mahowald  et  al., Clostridium
+perfringens,  Clostridium  histolyticum,  Coprobacillus  sp., (2015)
+Balish  and  Warner  (2002),  Ocvirk  et  al. /  International  Journal  of  Medical  Microbiology  306  (2016)  316–327 
+
+319
+
+Table   1  (Continued)
+
+Communities 
+
+15-Member
+
+community
+
+17-Member
+
+community
+
+33-Member
+
+community
+
+Unknown
+
+Members 
+
+B.  caccae,  B.  ovatus,  B.  thetaiotaomicron,  B.  uniformis,  B.  vulgatus,
+B.   cellulosilyticus,  C.  aerofaciens,  C.  scindens,  C.  spiroforme,  D.
+longicatena,  E.  rectale,  F.  prausnitzii,  P.  distasonis,  R.  obeum,
+Ruminococcus  torques
+Strains  belonging  to  Clostridium  clusters  IV,  XIVa  and  XVIII 
+
+References
+
+McNulty  et  al. Nonetheless,
+the  composite  “xenomicrobiota”  established  in  recipient  hosts
+were  eventually  out-competed  by  an  autochthonous  murine  gut
+microbiota,  indicating  that  the  murine  gut  is  a  highly  selective
+environment  for  bacterial  colonization. Also,  the  host  immune  system  can  shape  the
+microbiota  and  speciﬁc  bacteria  can  shape  the  immune  system,
+resulting  in  a  complex  cross-talk  equilibrium  (Atarashi  et  al., /  International  Journal  of  Medical  Microbiology  306  (2016)  316–327 
+
+321
+
+Fig. The  violin  plots  show  the  distribution  of  common  phyla  based  on  16S  rRNA  gene  studies  across
+4797   mouse  gut  samples. 250  nucleotides)  classiﬁed  by  the  Ribosomal  Database  Project  from  a  total  of
+6034   mouse  gut  samples  available  in  the  Sequence  Read  Archive. The  term  common
+phyla   refers  to  those  found  in  >10%  of  all  samples. For  the  establishment  of  another  model  community,  the  simpli-
+ﬁed  human  intestinal  microbiota  (SIHUMI),  bacterial  strains  were
+selected  based  on  their  reported  presence  in  the  human  intestine
+and  their  in  vitro  fermentation  capabilities  (Becker  et  al., As  discussed  above,  gnotobiotic  models  col-
+onized  by  human  gut  bacteria  are  suitable  for  testing  clinical
+relevance,  but  they  may   be  problematic  for  establishment  of  mouse
+models  with  deﬁned  microbiota  in  terms  of  colonization  efﬁcacy
+and  regulation  of  host  physiology  (Chung  et  al., In  order  to  provide  an  overview  of  the  diversity  of  common
+and  dominant  bacterial  taxa  in  the  mouse  intestine  from  cur-
+rently  available  datasets,  we  followed  the  same  universal  16S  rRNA
+amplicon  approach  as  described  in  Fig. More  cultivation-based  projects  are  urgently  needed  to  isolate
+novel  bacteria  from  the  mouse  gut,  as  done  for  other  ecosystems
+(Bai  et  al., Dominant  bacteria  in
+the  gut,  including  important  families  such  as  the  Lachnospiraceae
+and  Ruminococcaceae,   must  rapidly  be  re-classiﬁed  to  avoid  mis-
+interpretations  of  data  (Lawson  and  Rainey,  2015). Taxonomic  tree  of  common  bacterial  families  in  the  mouse  gut. A  high  resolution  view  of
+the  mouse  gut  microbiome  combined  with  well-curated  strains
+and  genomes  collections  will  offer  unprecedented  opportunities
+towards  the  establishment  of  standardized  mouse  models  and
+towards  the  study  of  speciﬁc  bacterial  functions  based  on  the  asso-
+ciation  of  mice  colonized  by  a  model  microbiota  with  one  strain
+carrying  the  given  function,  which  is  less  artiﬁcial  than  mono-
+colonization  of  germ-free  mice. How  should  a  deﬁned  microbial  community  in  gnotobiotic
+mice  be  composed  to  serve  as  a  useful  model  for  investigat-
+ing  the  principles  underlying  host–microbiota  interactions? This
+certainly  depends  on  the  question  to  be  investigated. Atarashi,  K.,  Tanoue,  T.,  Oshima,  K.,  Suda,  W.,   Nagano,  Y.,  Nishikawa,  H.,  Fukuda,  S.,
+
+Saito,  T.,  Narushima,  S.,  Hase,  K.,  Kim,  S.,  Fritz,  J.V.,  Wilmes,  P.,  Ueha,  S.,
+Matsushima,  K.,  Ohno,  H.,  Olle,  B.,  Sakaguchi,  S.,  Taniguchi,  T.,  Morita,  H.,
+Hattori,  M.,   Honda,  K.,  2013. Bai,  Y.,  Muller,  D.B.,  Srinivas,  G.,  Garrido-Oter,  R.,  Potthoff,  E.,  Rott,  M.,   Dombrowski,
+
+N.,   Munch,  P.C.,  Spaepen,  S.,  Remus-Emsermann,  M.,   Huttel,  B.,  McHardy,  A.C.,
+Vorholt,  J.A.,  Schulze-Lefert,  P.,  2015. Host  gene  expression  in  the  colon  of  gnotobiotic  interleukin-2-deﬁcient
+mice  colonized  with  commensal  colitogenic  or  noncolitogenic  bacterial
+strains:  common  patterns  and  bacteria  strain  speciﬁc  signatures. Importance  of  glycans  to  the  host-bacteroides  mutualism  in
+
+the  mammalian  intestine. Modulation  of  mucosal  immune  response,  tolerance,  and  proliferation  in  mice
+colonized  by  the  mucin-degrader  Akkermansia  muciniphila. Huang,  J.Y.,  Lee,  S.M.,  Mazmanian,  S.K.,  2011. Kim,  O.S.,  Cho,  Y.J.,  Lee,  K.,  Yoon,  S.H.,  Kim,  M.,   Na,  H.,  Park,  S.C.,  Jeon,  Y.S.,  Lee,  J.H.,
+Yi,  H.,  Won,  S.,  Chun,  J.,  2012. Characterization  of  the  ecological  role  of  genes
+mediating  acid  resistance  in  Lactobacillus  reuteri  during  colonization  of  the
+gastrointestinal  tract. http://dx.doi.org/10.1099/ijsem.0.000824. A  metabolomic  view  of  how  the  human
+gut  microbiota  impacts  the  host  metabolome  using  humanized  and
+gnotobiotic  mice. Rey,  F.E.,  Faith,  J.J.,  Bain,  J.,  Muehlbauer,  M.J.,  Stevens,  R.D.,  Newgard,  C.B.,  Gordon,
+
+J.I.,  2010. McNulty,  N.P.,  Wu,   M.,   Erickson,  A.R.,  Pan,  C.,  Erickson,  B.K.,  Martens,  E.C.,  Pudlo,
+
+N.A.,  Muegge,  B.D.,  Henrissat,  B.,  Hettich,  R.L.,  Gordon,  J.I.,  2013. Gut  microbiota  regulates  bile
+acid  metabolism  by  reducing  the  levels  of  tauro-beta-muricholic  acid,  a
+naturally  occurring  FXR  antagonist. Schnupf,  P.,  Gaboriau-Routhiau,  V.,  Gros,  M.,   Friedman,  R.,  Moya-Nilges,  M.,   Nigro,
+G.,  Cerf-Bensussan,  N.,  Sansonetti,  P.J.,  2015. Growth  and  host  interaction  of
+mouse  segmented  ﬁlamentous  bacteria  in  vitro. Ocvirk,  S.,  Sava,  I.G.,  Lengfelder,  I.,  Lagkouvardos,  I.,  Steck,  N.,  Roh,  J.H.,  Tchaptchet,
+S.,   Bao,  Y.,  Hansen,  J.J.,  Huebner,  J.,  Carroll,  I.M.,  Murray,  B.E.,  Sartor,  R.B.,  Haller,
+D.,  2015. The
+effect  of  diet  on  the  human  gut  microbiome:  a  metagenomic  analysis  in
+humanized  gnotobiotic  mice. microbiome-host  interactions  in  inﬂammatory  bowel  diseases. Genetic  determinants  of  in  vivo  ﬁtness  and  diet  responsiveness  in
+multiple  human  gut  Bacteroides. Xiao,  L.,  Feng,  Q.,  Liang,  S.,  Sonne,  S.B.,  Xia,  Z.,  Qiu,  X.,  Li,  X.,  Long,  H.,  Zhang,  J.,
+
+Zhang,  D.,  Liu,  C.,  Fang,  Z.,  Chou,  J.,  Glanville,  J.,  Hao,  Q.,  Kotowska,  D.,  Colding,
+C.,  Licht,  T.R.,  Wu,   D.,  Yu,  J.,  Sung,  J.J.,  Liang,  Q.,  Li,  J.,  Jia,  H.,  Lan,  Z.,  Tremaroli,  V.,
+Dworzynski,  P.,  Nielsen,  H.B.,  Backhed,  F.,  Dore,  J.,  Le  Chatelier,  E.,  Ehrlich,  S.D.,
+Lin,  J.C.,  Arumugam,  M.,   Wang,  J.,  Madsen,  L.,  Kristiansen,  K.,  2015.

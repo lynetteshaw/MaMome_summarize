@@ -1,0 +1,42 @@
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+and react to form a response, and understanding how these
+responses combine to affect human health. However, although
+these methods can be useful for checking the stability of
+dominant members and clustering communities according
+to these dominant members, they do not provide direct
+phylogenetic identification and it is difficult to relate banding
+patterns to changes in particular species (83, 84). Data can be transformed
+
+Gut microbiome and precision nutrition: Part I 11
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+TABLE 3 Review of methods used to analyze precision nutrition studies1
+
+Microbiome measures
+
+Association or
+prediction
+
+Statistical methods
+
+Korpela et al. ( 2007) (35)
+
+Microbiota composition (Bifidobacteria
+
+Association
+
+ANOVA, ANCOVA
+
+Energy restriction and excess
+
+abundance by qPCR)
+
+Cotillard et al. ( In contrast, area under the receiver operating charac-
+teristic (ROC) (132, 133) curve (for models that predict
+binary outcomes) and proportion of variance explained by
+the model (R2) (for models predicting continuous outcomes)
+both assess the absolute accuracy of the model but do not
+have any penalty for increased complexity of the model. Zaheer R, Noyes N, Polo RO, Cook SR, Marinier E, Van Domselaar
+G, Belk KE, Morley PS, McAllister TA.

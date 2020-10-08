@@ -1,0 +1,62 @@
+THE JOURNAL OF PEDIATRICS (cid:129) www.jpeds.com
+
+Volume ■■ • ■■ 2018
+
+Trial enrolled 881 pregnant women at 3 clinical sites in the US
+(Boston, Massachusetts; St. Louis, Missouri; and San Diego,
+California). The top principal component was used
+in regression models. Cut-off P values for statistical signiﬁcance
+were selected a priori. We analyzed maternal diet as the ﬁrst principal compo-
+nent of the maternal food frequency questionnaire responses,
+which represented high intake of vegetables and low intake of
+processed meats and deep fried foods (Tables II and III; avail-
+able at www.jpeds.com). However, after adjusting
+for demographic variables (mode of delivery, age, treatment,
+maternal education, and race/ethnicity), breastfeeding vs
+formula feeding and solid food introduction, the only asso-
+ciation between the maternal diet and taxa selected a priori
+for analysis was a positive association with Lactobacillus spp
+(mean difference = 0.48; P = .02). After adjusting for de-
+mographic variables, solid food introduction was positively as-
+sociated with Clostridium spp (mean difference = 0.80 log
+counts; P = .03) and this association remained signiﬁcant after
+addition of infant breastfeeding vs formula feeding status and
+maternal diet to the adjusted model (mean difference = 0.75
+log counts, P = .05). §Dietary variables: infant breastfeeding vs formula feeding and first principal component of maternal diet (high in vegetables and low in processed meats and deep fried foods). In an ethnically homogeneous population using targeted
+quantitative polymerase chain reaction on stool samples col-
+lected at age 1 month, Penders et al showed breastfed infants
+had less Clostridia difﬁcile compared with formula-fed infants.7,30
+This contrasts with our ﬁnding of a positive association between
+breastfeeding and overall Clostridia spp, though we expect that
+the inﬂuence of breastfeeding differs among individual species
+within this genus. De Silva D, Geromi M, Halken S, Host A, Panesar SS, Muraro A, et al. Peanut allergy prevalence among school-age children
+in a US cohort not selected for any disease. Factors inﬂuencing the infant gut microbiome at age 3-6 months:
+ﬁndings from the ethnically diverse Vitamin D Antenatal Asthma
+Reduction Trial (VDAART). Ann Allergy Asthma Immunol 2014;112:222-
+9. Litonjua AA, Lange NE, Carey VJ, Brown S, Laranjo N, Harshﬁeld BJ, et al. Shida K, Takahashi R, Iwadate E, Takamizawa K, Yasui H, Sato T, et al. Ling Z, Li Z, Liu X, Cheng Y, Luo Y, Tong X, et al. Diet during Pregnancy and Infancy and the Infant Intestinal Microbiome
+
+7
+
+FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
+
+THE JOURNAL OF PEDIATRICS (cid:129) www.jpeds.com
+
+Volume ■■
+
+26. Consumption of human milk oligosaccharides by gut-related
+microbes. Quantiﬁcation of Biﬁdobacterium spp, Escherichia coli and
+Clostridium difﬁcile in faecal samples of breast-fed and formula-
+fed infants by real-time PCR. The average
+value for the two questionnaires was taken for further analy-
+sis. Similar to the above, we used question-
+naire responses obtained at 6 months to determine whether
+a child was ingesting formula at the time of stool collection. At the 6 month visit, providers were asked, since we last
+spoke with you, have you fed your baby any infant formula. In those cases where the
+stool sample was collected before the questionnaire and the
+child was not reported to have introduced solid foods (n = 39)
+or the stool sample was collected after the questionnaire and
+the child was reported to have introduced solids (n = 77), the
+6-month questionnaire responses were used to determine child
+diet. Flow diagram of subjects included in study. The eigenvalue gives a measure of how much variance in the
+data is reflected by each principal component. Results are from ad-
+justed Multivariate Association with Linear Models analyses. b-coefficient is reflects the average difference in relative abundance between the breastfed and formula-fed groups after covariate adjustment.

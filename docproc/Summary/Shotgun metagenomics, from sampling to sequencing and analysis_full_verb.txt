@@ -1,0 +1,84 @@
+Step 1: Study design and experimental protocol, the importance of this step is 
+often  underestimated  in  metagenomics. We recommend associating as 
+much descriptive and detailed  metadata as possible with each sample, in order to make it more likely that 
+comparisons  between study  cohorts  or  sample  types  can  be  correlated with  a  particular  environmental 
+variable 21.  Places genomic data within its correct phylogenetic context. Immunomagnetic 
+separation  127 
+
+as 
+diagnostics 
+
+ By  focusing  only  on  species  of  interest,  higher sensitivity  can  be 
+achieved particularly when large amounts of host contamination 
+are present 
+
+ Targeted approach - can enrich specific taxa, including those that 
+might be comparatively rare members of the microbial community 
+less  expensive  than  many  other  targeted  enrichment 
+
+ Far 
+
+techniques such as single cell genomics or flow sorting. Library preparation and sequencing 
+
+Choosing a library preparation and sequencing method hinges on availability of materials and services, cost, 
+ease  of  automation,  and  DNA  sample  quantification. Transposase-based “tagmentation”, for example in the 
+Illumina Nextera and Nextera XT products, are popular owing to their low cost (list prices of $25-40 per 
+sample,  with  dilution  methods  potentially  able  to  reduce  these  costs  even  further  38). The principle is that contigs from the same genome will have similar 
+coverage values within each metagenome, although intra genome GC content variation, and increased read 
+depth  around  bacterial  origins  of  replication,  can  challenge  this  assumption  66. Left panel: An assembly-based pipeline, which can be fully reproduced following the commands and the code 
+provided as a GitHub repository at https://github.com/chrisquince/metag-rev-sup is shown on the left. Profiling of the functional classes present in a metagenome is hindered by the lack of validated annotations for most genes, an issue 
+that  can  be  mitigated  only  by  expensive  and  low-throughput  gene-specific  functional  studies. The simple brute force mapping of reads to genomes 
+can  result  in  profiles  with  many  false  positives  but,  nonetheless,  this  approach  has  been  proven  to  be 
+effective  when  the  output  is  post-processed  based  on  lowest  common  ancestor  (LCA)  strategies  81  or 
+coupled with compositional interpolated Markov models  82. By looking at co-abundant markers from pre-assembled environment specific gene catalogs 84,85, 
+for example, the MetaHIT consortium was able to characterize known and novel organisms in the human 
+gut 5,75. Metagenomic  assembly  is  the  preferred  theoretical 
+solution if there is sufficient genome coverage (i.e. >20x), but this level of coverage is difficult to obtain for 
+most  of  the  members  of  the  microbiome  (Table  4)  and  assembly-free  methods  have  other  advantages 
+
+including the possibility to perform large-scale strain-level analyses. NS  is  supported  by  the 
+European  Research  Council  (ERC-STG  project  MetaPG),  European  Union  FP7  Marie-Curie  grant  (PCIG13-
+618833), MIUR grant FIR RBFR13EWWI, Fondazione Caritro grant Rif. Probst, A. J., Weinmaier, T., DeSantis, T. Z., Santo Domingo, J. W. & Ashbolt, N. New 
+perspectives on microbial community distortion after whole-genome amplification. SPAdes: a new genome assembly algorithm and its applications to 
+single-cell  sequencing. 48 
+
+49 
+
+50 
+
+51 
+
+52 
+
+53 
+
+54 
+
+55 
+
+56 
+
+57 
+
+58 
+
+59 
+
+60 
+
+61 
+
+62 
+
+63 
+
+Simpson, J. T. et al. Nature Biotechnology 33, 1053-1060 (2015). BMC Genomics 17, 55, doi:10.1186/s12864-
+015-2194-9 (2016). Critical  Assessment  of  Metagenome  Interpretation  −  a benchmark  of 
+computational metagenomics software. Growth dynamics of gut microbiota in health and disease inferred from 
+single  metagenomic  samples. Kang,  D.  D.,  Froula,  J.,  Egan,  R.  & Wang,  Z.  MetaBAT,  an  efficient  tool  for  accurately 
+reconstructing  single  genomes  from  complex  microbial  communities. Nat Biotechnol 33, 1103-1108, 
+doi:10.1038/nbt.3353 (2015). Friedman, J. & Alm, E. J. Inferring correlation networks from genomic survey data. PLoS 
+computational biology 8, e1002606 (2012). PLoS  computational  biology  5, 
+e1000352, doi:10.1371/journal.pcbi.1000352 (2009). Generating whole bacterial genome sequences of low-abundance 
+
+species from complex samples with IMS-MDA.

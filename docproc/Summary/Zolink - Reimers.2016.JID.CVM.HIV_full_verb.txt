@@ -1,0 +1,74 @@
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+the commonality that relates both BV and vaginal pH to HPV
+infection (independent of HIV) is the RA of certain Lactobacil-
+lus species, most notably L. crispatus. Therefore, in the current investigation, we combined data
+from 2 independently conducted ancillary studies in the Wom-
+en’s Interagency HIV Study (WIHS) cohort: a study involving
+serial microbiota and vaginal pH testing and a longitudinal
+study of cervicovaginal HPV detection. Matching was con-
+ducted using MatchIt, based in the R programming language
+and statistical software [17, 18]. The matching criteria included
+age (<40 years, 40–49, and >50 years), cigarette smoking, sexual
+activity (frequency and number of partners), and male condom
+use. Microbial DNA was isolated using the FastDNA Spin Kit for
+Soil (MP Biomedicals, Solon, OH). Pyrosequencing of barcoded
+16S ribosomal RNA (rRNA) gene V1-V2 region amplicons was
+
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+Figure 1. Distribution of relative abundance (RA) of Lactobacillus species. concurrent multitype infection by HPV, while accounting for
+the intraindividual correlation of the repeated observations. Taxonomic
+assignments were performed using the Ribosomal Database
+Project (RDP) Classiﬁer trained on version 10 of the RDP da-
+tabase [24, 25]. The presence of ampliﬁcation in subject samples
+was conﬁrmed by gel electrophoresis, while negative controls
+(no template) were also subjected to PCR and showed no am-
+pliﬁcation. of participants or median value (interquartile range). See “Methods” section for details (substudy population). L. crispatus dominated CST I, CST II was dominated by
+Lactobacillus gasseri, both CST III and IV-A were dominated
+by Lactobacillus iners, and CST V was dominated by Lactobacil-
+lus jensenii. Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 (1 November) (cid:129) 1365
+
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+Figure 2. A, Heat map of the relative percent abundance of bacterial taxa, by community state
+type (CST) and the presence of oncogenic human papillomavirus (oncHPV). Reference
+0.29 (.08–1.05)
+0.55 (.06–5.13)
+1.19 (.69–2.04)
+1.65 (.72–3.78)
+0.84 (.33–2.17)
+
+. . . Those with an STI on the day of the index visit were
+excluded from this substudy. Abbreviations: BV, bacterial vaginosis; CI, confidence interval; OR, odds ratio. b A pH of ≤ 4.5 (the cut point used in the Amsel criteria for the diagnosis of BV) was considered low, a pH of 4.5–5.8 was considered medium, and a pH of >5.8 (where a pH of 5.8 was the
+median of all pH values >4.5) was considered high. While production of H2O2 has been observed in the major-
+ity of L. crispatus isolates, prior data from our group suggest
+that the levels of H2O2 produced are likely too limited to great-
+ly affect the risk of STIs [7], especially HPV infection, since
+HPV is a nonenveloped virus and, therefore, likely to be resis-
+tant to H2O2. In summary, our results suggest a beneﬁcial effect of L. crisp-
+atus on the burden of HPV in HIV-infected and HIV-uninfected
+women that is unrelated to pH. Further research to better un-
+derstand these relationships is strongly warranted, including
+large prospective cohort studies and laboratory research to un-
+derstand the mechanisms that underlie the relation of the cer-
+vicovaginal microbiota with HPV infection. H. D. S. reports leading a study involving
+free blinded testing using HPV E6/E7 protein assays by Arbor Vita, p16/
+Ki67 cytology by MTM Laboratories/Ventura–Roche, and MCM-2/
+TOP2A cytology by BD Diagnostics; no ﬁnancial payments to H. D. S. or
+his home institution were received. Cervicovaginal human papillomavirus
+infection in human immunodeﬁciency virus-1 (HIV)-positive and high-risk
+HIV-negative women. Mirmonsef P, Hotton AL, Gilbert D, et al. Lyon, France: World Health Organization, 2007. Diversity and evenness: a unifying notation and its consequences. Mooij SH, Boot HJ, Speksnijder AG, et al. Petrova MI, van den Broek M, Balzarini J, Vanderleyden J, Lebeer S. Vaginal mi-
+crobiota and its role in HIV transmission and infection.

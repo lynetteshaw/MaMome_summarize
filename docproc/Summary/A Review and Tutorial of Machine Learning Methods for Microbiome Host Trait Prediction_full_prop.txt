@@ -1,0 +1,118 @@
+Zhou and Gallins
+
+Host Trait Prediction
+
+levels of taxonomy, with intriguing thoughts about the
+of
+interplay and use of molecular function descriptors vs. taxonomic
+descriptors, the reader is referred to Knights et al. ( Third, as with
+many omics technologies, library sizes (essentially column sums
+of the OTU table) vary considerably, and normalization methods
+must be used to account for this variation (Weiss et al., However, the content-knowledge required
+to implement these methods is high, presenting a barrier to
+data scientists looking to get started in microbiome analysis and
+prediction. The remainder of this paper is written in several sections. Section 5 provides
+results, and the underlying code forms a tutorial of machine
+learning methods applied in this context. Frontiers in Genetics | www.frontiersin.org
+
+2
+
+June 2019 | Volume 10 | Article 579
+
+Zhou and Gallins
+
+Host Trait Prediction
+
+2.2. 2018) pointed out that standard cumulative
+sum scaling places the normalized data vectors in a simplex,
+with potential consequences for kernel-based discovery methods
+(Randolph et al., Unsupervised methods identify patterns
+apparent
+the use of pre-deﬁned
+in our context). The python code for implementation is on our site
+(https://sites.google.com/ncsu.edu/zhouslab/home/software?). Standard feature selection
+algorithms, Fizzy and MetAML, which do not capitalize on the
+hierarchical structure of features, were also tested by Oudah
+and Henschel (2018) using several machine learning methods
+on real datasets. Supervised Learning Methods
+Commonly Used in Trait Prediction
+Here we list the learning methods most commonly used in
+microbiome host trait prediction. For the model
+y = Xβ + ǫ, the training loss is Pi(yi − ˆyi)2 the most commonly-
+used regularization methods are ridge regression (Hoerl and
+Kennard, 1970) and Lasso (Tibshirani, 1996) regression, which
+respectively use penalties λ Pi β2
+i and λ Pi |βi| (not including
+the intercept) to the training loss. They
+applied a signiﬁcance test for their graph-constrained estimation
+method, called Grace (Zhao and Shojaie, 2016), to test for
+association between microbiome species and their trait. Euclidean
+distance or correlation coeﬃcients are the most commonly used
+distance metrics. An ensemble of decision trees (or regression trees
+for continuous y) is built by performing bootstrapping on the
+dataset and averaging or taking the modal prediction from trees
+(a process known as “bagging”)(Figure 1C), with subsampling
+of features used to reduce generalization error (Ho, 1995). 2018 HMP
+
+Five body sites
+
+1,192
+
+NA
+
+NA
+
+20,589 Various
+
+Random forest
+
+Gevers et al., The size of each dataset (#
+cases/controls ×# OTUs) is shown in the title. ( The true-positive rate is also known as sensitivity, or a probability
+of detection. As diﬀerent studies used vastly diﬀerent protocols
+for OTU generation and preprocessing, for this main paper
+we focused on the 17 reported datasets that compared at least
+two competing measures of prediction accuracy. 2010) (where pH in soil samples was
+the “trait”) and Moitinho-Silva et al. ( evaluated
+
+supervised
+
+addition, we
+
+4.2. We also removed OTUs
+which were present in <1% of samples from the Vincent et al. and here we list
+the packages and settings used. In the datasets
+analyzed by Ditzler et al. ( The one prediction
+method that was not improved demonstrably by HFE was k-
+NN (with k = 5). We hope that the tutorial,
+review, and available code are useful to practitioners for host
+trait prediction. SUPPLEMENTARY MATERIAL
+
+for this article can be found
+at: https://www.frontiersin.org/articles/10.3389/fgene. Systematic
+evaluation of supervised classiﬁers for fecal microbiota-based prediction of
+colorectal cancer. from 16S
+MicroPheno: predicting environments and host phenotypes
+rRNA gene sequencing using a k-mer based representation of shallow
+sub-samples. Gut microbiome function predicts response to anti-
+integrin biologic therapy in inﬂammatory bowel diseases. Crookston, N. L. and Finley, A. O. (2008). Fizzy:
+feature subset selection for metagenomics. doi: 10.1186/s12859-015-0793-8
+
+J. C., Lan, Y., and Rosen, G. L.
+
+Ditzler, G., Polikar, R., and Rosen, G. (2015b). doi: 10.1016/j.chom.2014.02.005
+
+Gilbert, J. A., Blaser, M. J., Caporaso, J. G., Jansson, J. K., Lynch, S. V., and Knight,
+R. (2018). doi: 10.1111/j.1574-6976.2010.00251.x
+
+and Knight, R.
+
+(2011a). Predicting oral malodour based
+on the microbiota in saliva samples using a deep learning approach. Alterations
+the human gut microbiome in liver cirrhosis. doi: 10.1155/2018/
+2936257
+
+Xiao, J., Chen, L., Yu, Y., Zhang, X., and Chen, J. (2018). doi: 10.1186/s40168-015-0109-2
+
+Zeller, G., Tap, J., Voigt, A. Y., Sunagawa, S., Kultima, J. R., Costea, P. I., et al. A comprehensive evaluation of multicategory classiﬁcation methods for
+microbiomic data. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License (CC BY).

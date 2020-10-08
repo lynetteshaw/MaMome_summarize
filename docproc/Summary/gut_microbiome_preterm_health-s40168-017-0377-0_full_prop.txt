@@ -1,0 +1,150 @@
+Microbiome  (2017) 5:158 
+
+Page 2 of 19
+
+infant nutrition, and common clinical practices in neonatal
+care [14–20]. We hypothesize that assembly and function
+of the preterm infants’ gut microbiota is associated with
+postnatal growth patterns and represents a yet unexplored
+personalized therapeutic potential for optimizing infant
+development. A total of 2 rectal swabs were collected from
+the 2 PROP full-term infants, and 46 rectal swabs from the
+23 RPRC full-term infants: one near birth (≤ 20 day of life
+[DOL]) and—for the RPRC subjects only—a second at
+1 month of age (20 < DOL ≤ 50) (Table 1). Microbiome  (2017) 5:158 
+
+Page 3 of 19
+
+Consequently, we used gestational age at birth and PMA
+for our analyses. Three phases of the preterm infant gut microbiota
+Characterization of microbiota from all subjects and
+time points spanning PMA from 24 to 46 weeks identi-
+fied Bacilli, Gammaproteobacteria, and Clostridia as by
+
+far the most abundant taxa, with relative abundances of
+41.75, 23.0, and 22.5% respectively, accounting for 87.0%
+of the total observed abundance (Fig. The groupings
+and bars within each group indicate the phases of the first and second sample of a pair of consecutive samples, respectively, and are ordered as
+described in c. Transition probabilities are included in the table below the graph. P values indicate the significance of each association while
+beta values indicate the direction and magnitude of the relationship between
+weight Z-score and the covariates
+
+subjects at their first sample (61.8 vs 32.0%, p = 0.025). Specifically, all preterm longi-
+tudinal samples (n = 705) were divided into two groups or
+periods of equal functional variance based on fitted micro-
+biota taxa abundance, an early period (< 34 weeks PMA;
+n = 362) and a late period (≥ 34 weeks PMA; n = 343)
+(Fig. Using linear mixed-effects re-
+gression models as described for the phase-based nutrition
+analysis (Methods-Model A) with the weight Z-score as
+
+Grier et al. 0
+
+10
+
+20
+
+30
+
+50
+
+60
+
+70
+
+80
+
+40
+Day Of Life
+
+Grier et al. Potential associations of nutrition and medications with
+phase
+After identifying the microbiota phase as a significant
+factor in infant growth, we sought to identify potential
+associations of nutrition and medications with phase by
+including them as explanatory variables and microbiota
+phases P1 and P2 as the outcome (with P3 as the baseline
+phase) in a multivariate mixed-effects logistic regression
+model. Beta values are the estimated regression coefficients and p values are
+computed from the likelihood ratio tests. For clarity, only significant associations are reported in this table. It has
+in preterm infants, passage of
+been established that
+meconium as stool is both delayed and prolonged and is
+observed well beyond the first stool, with final clearance
+occurring up to several weeks after birth [34].
+
+To identify potential associations between the presence
+of meconium and P1 of the microbiota, we examined the
+relationship between clearance of the meconium from the
+stool and the initial transition of the microbiota out of P1
+(Fig. Consistent with other studies, we determined that this
+programmed, non-random developmental succession of
+microbiota is largely determined by PMA [5, 6]. What
+drives this patterned succession toward a homeostatic
+relationship between the infant and colonizing microbiota
+is not known, but likely involves complex interactions be-
+tween the mucosal immune system as well as metabolic
+interactions within the gut microbial community and the
+surrounding tissue and microenvironment, which remain
+dynamic during periods of gastrointestinal development in
+early life. We determined that transi-
+tion from meconium to normal infant stool is associated
+with transition of the microbiota out of P1. Third, in both the phase- and period-based
+models, the abundance of several dominant infant gut
+microbiota taxa (e.g., Bifidobacterium) [37, 53] were signifi-
+cantly affected by gestational age at birth, PMA at sam-
+pling, total calories and proportions of macronutrients
+consumed at the week of sampling, and multiple clinical
+variables. Reads
+containing more than four mismatches to the known
+primer sequences or more than three mismatches to all
+barcode sequences were excluded from subsequent pro-
+cessing and analysis. Comparing taxonomic composition, functional capacity,
+and week-to-week dissimilarity between phases
+Analysis of variance of taxa abundance at all taxonomic
+levels across the three phases of the microbiota was con-
+ducted using a Kruskal-Wallis test, and the results are
+summarized in Additional file 4: Table S3. Microbiome  (2017) 5:158 
+
+Page 15 of 19
+
+assessed at each taxonomic level using the metagen-
+omicsSeq zero-inflated Gaussian test [64], and the re-
+sults are summarized in Additional file 5: Tables S4A–C.
+Testing for differential functional capacity between the
+phases was performed using LEfSe [67] with per-sample
+normalization to 1 M total counts, minimum effect size
+of 2.0, alpha of 0.1, an all-against-all strategy, and other-
+wise default parameters. The results are summarized in
+Additional file 7: Table S6. The interactions
+included in both models are defined as the products of
+the nutrition/medication variables and period/phase-re-
+lated covariates. Weighted UniFrac Principal Coordinate Analyses of
+phase and Dirichlet component. ( DOCX 18 kb)
+
+Additional file 4: Table S3. nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs00001297.v1.p1 and
+url http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=
+phs00001347.v2.p1. Authors’ contributions
+SRG, GSP, RMR, and Y-HL designed the study. ALG, HAK, BH, HH, and SM
+collected and processed the specimens. All authors reviewed the
+final manuscript. All authors read and approved the final manuscript. Competing interests
+The authors declare that they have no competing interests. 5Division of Infectious Disease, Department of
+Pediatrics, University of Rochester School of Medicine and Dentistry,
+Rochester, NY, USA. Proc Natl
+Acad Sci U S A. 2014;111(34):12522–7. Yatsunenko T, Rey FE, Manary MJ, Trehan I, Dominguez-Bello MG, Contreras M,
+Magris M, Hidalgo G, Baldassano RN, Anokhin AP, et al. Collado MC, Rautava S, Aakko J, Isolauri E, Salminen S. Human gut
+
+colonisation may be initiated in utero by distinct microbial communities in
+the placenta and amniotic fluid. Abdulkadir B, Nelson A, Skeath T, Marrs EC, Perry JD, Cummings SP,
+Embleton ND, Berrington JE, Stewart CJ. Routine use of probiotics in
+preterm infants: longitudinal impact on the microbiome and metabolome. Intestinal microbiota composition after antibiotic treatment in
+early life: the INCA study. Duty SM, Mendonca K, Hauser R, Calafat AM, Ye X, Meeker JD, Ackerman R,
+Cullinane J, Faller J, Ringer S. Potential sources of bisphenol A in the
+neonatal intensive care unit. Heida FH, Beyduz G, Bulthuis ML, Kooi EM, Bos AF, Timmer A, Hulscher JB. Neu J, Pammi M. Pathogenesis of NEC: impact of an altered intestinal
+
+microbiome. Using the LMS method to calculate z-scores for the
+Fenton preterm infant growth chart. Microbiome  (2017) 5:158 
+
+Page 19 of 19
+
+67.

@@ -1,0 +1,185 @@
+riage patterns far exceeded what was initially
+suspected (Aagaard et al. Our laboratory and others have shown that
+the vaginal microbiota vary in association with
+normal pregnancy, thus providing a unique
+“signature” in pregnancy with relative alter-
+ed abundance of multiple taxa (Aagaard et al. 2012b
+
+posterior
+fornix, and
+mid-vagina
+
+Romero et al. 2014
+
+cervix
+
+sequencing
+
+Beyond the Vagina: Intestinal Microbiome
+Koren et al. Stool
+
+Sequencing,
+
+Longitudinal Characterized healthy
+
+Microarray, PCR
+
+neonatal microbiome
+
+Strain-
+
+Longitudinal Vertical transmission
+
+from mother to infant
+
+speciﬁc
+Universal
+16S
+rRNA
+
+Oral, vagina,
+skin, rectal
+
+Next-Gen
+
+sequencing
+
+V2
+
+Cross-
+
+sectional
+
+2004
+
+2007
+
+Dominguez-
+Bello et al. 2014b Colon, anus,
+
+Next-Gen
+
+V3V5
+
+stool
+
+sequencing
+
+Nonhuman
+primate
+
+necrotizing colitis had
+predominantly one
+bacteria dominating
+
+microbiome in VLBW
+infants
+
+neonatal microbiome
+from birth to 4 mo
+while examining mode
+of delivery and feeding
+
+Examined the role of
+maternal IgA on
+intestinal microbiome
+
+Examined the role of
+maternal diet on
+juvenile microbiome
+
+16S-Based Metagenomics
+
+Sequencing of the 16S rRNA gene using Next-
+Gen technology has recently been widely ex-
+ploited to characterize the human microbiome
+(Jonasson et al. Furthermore, the number of Lactobacil-
+lus species detected (and thus relative abun-
+dance) will vary depending on the 16S region
+sequenced, with V1V3 revealing more unique
+Lactobacillus operational
+taxonomic units
+(OTUs) as compared with V3V5 (Huse et al. Given the complexity of assembly and
+low efﬁciency, taxonomy classiﬁcation can also
+be achieved by alignment of sequence reads
+to clade-speciﬁc markers identiﬁed from inte-
+grated microbial genomes (IMG) without prior
+assembly (Segata et al. Despite the multiplicity of
+causative agents, one common ﬁnding is that
+women experiencing clinically symptomatic
+BV tend to be deﬁcient in lactic acid producing
+species of bacteria that also convert oxygen to
+H2O2 (Eschenbach et al. An additional method that may be use-
+ful to examine microbiome communities across
+ethnicities is to use single nucleotide poly-
+morphisms (SNPs) in mitochondrial DNA
+(mtDNA), which provides more precision in
+analysis (Ruiz-Pesini et al. THE VAGINAL MICROBIOME IN
+PREGNANCY
+
+With the demonstration that the vaginal micro-
+biome ﬂuctuates based on the menstrual cycle,
+with intercourse, and (to a much more limited
+degree) with clinical symptoms of BV, we and
+others sought to characterize the vaginal micro-
+biome during pregnancy. The utilization of Next-Gen sequencing tech-
+niques to study the vaginal microbiome further
+showed the presence of Lactobacillus species in
+the vagina during pregnancy. However, direct asso-
+ciations between speciﬁc species of Lactobacillus
+and estrogen levels are lacking and warrant fur-
+ther investigation. On the other hand, 56.5% of gravi-
+dae with a lactobacilli-diminished vaginal
+microbiome during the ﬁrst trimester gained
+prevalence of this genus. Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
+
+11
+
+www.perspectivesinmedicine.org
+
+A.L. Prince et al. Moreover,
+although two subjects in the Hyman et al. Also, Bacteroides spe-
+cies were found to increase on the introduction
+of vegetables (Koenig et al. Although the vag-
+inal microbiome may be implicated in these
+neonatal diseases, signiﬁcant differences in
+the abundance of placental bacteria have been
+found when comparing preterm and term pla-
+centas (Jones et al. Bacterial vaginosis
+assessed by gram stain and diminished colonization re-
+sistance to incident gonococcal, chlamydial, and tricho-
+monal genital infection. Buhimschi CS, Dulay AT, Abdel-Razeq S, Zhao G, Lee S,
+Hodgson EJ, Bhandari V, Buhimschi IA. Prevalence of hydrogen peroxide-producing Lactobacillus
+species in normal women and women with bacterial vag-
+inosis. Fortner KB, Grotegut CA, Ransom CE, Bentley RC, Feng L,
+Lan L, Heine RP, Seed PC, Murtha AP. Gevers D, Knight R, Petrosino JF, Huang K, McGuire AL,
+Birren BW, Nelson KE, White O, Methe´ BA, Huttenhower
+C. 2012. Uncultivated bacteria as etiologic agents of intra-
+amniotic inﬂammation leading to preterm birth. Hillier SL, Krohn MA, Rabe LK, Klebanoff SJ, Eschenbach
+DA. Structure, function and
+diversity of the healthy human microbiome. Dysbiosis of
+the faecal microbiota in patients with Crohn’s disease and
+their unaffected relatives. New in-
+sights in gut microbiota establishment in healthy breast
+fed neonates. A guide to
+enterotypes across the human body: Meta-analysis of mi-
+crobial community structures in human microbiome da-
+tasets. Target-
+ing and crossing of the human maternofetal barrier by
+Listeria monocytogenes: Role of internalin interaction
+with trophoblast E-cadherin. Dysfunction of the intestinal microbiome in
+inﬂammatory bowel disease and treatment. Penders J, Thijs C, Vink C, Stelma FF, Snijders B, Kummel-
+ing I, van den Brandt PA, Stobberingh EE. SILVA: A comprehensive online
+resource for quality checked and aligned ribosomal
+RNA sequence data compatible with ARB. Qin J, Li Y, Cai Z, Li S, Zhu J, Zhang F, Liang S, Zhang W,
+Guan Y, Shen D, et al. Ridaura VK, Faith JJ, Rey FE, Cheng J, Duncan AE, Kau AL,
+Grifﬁn NW, Lombard V, Henrissat B, Bain JR, et al. The Genboree Microbiome Toolset and the analysis
+of 16S rRNA microbial sequences. Romero R, Sirtori M, Oyarzun E, Avila C, Mazor M, Call-
+ahan R, Sabo V, Athanassiadis AP, Hobbins JC. The vaginal microbiota of pregnant women who
+subsequently have spontaneous preterm labor and deliv-
+ery and those with a normal delivery at term. Segata N, Waldron L, Ballarini A, Narasimhan V, Jousson O,
+Huttenhower C. 2012. Sobhani I, Tap J, Roudot-Thoraval F, Roperch JP, Letulle S,
+Langella P, Corthier G, Van Nhieu JT, Furet JP. The
+association of occult amniotic ﬂuid infection with gesta-
+tional age and neonatal outcome among women in pre-
+term labor.

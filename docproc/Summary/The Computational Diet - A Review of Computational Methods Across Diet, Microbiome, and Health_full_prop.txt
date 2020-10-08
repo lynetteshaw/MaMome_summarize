@@ -1,0 +1,142 @@
+fmicb-11-00393
+
+April 2, 2020
+
+Time: 17:57
+
+# 2
+
+Eetemadi et al. Computational Diet, Microbiome and Health
+
+FIGURE 1 | The vision for the next nutrition revolution involves microbiome-aware dietary planning and manufacturing. Jackkniﬁng and bootstrapping are
+used to estimate the bias in diversity estimates, particularly
+when estimating the number of species (i.e., species richness)
+in samples (Smith and van Belle, 1984). govClinicalTrials.gov, 2019
+
+BioLINCC, 2019
+
+NASA, 2019
+
+The Michigan Microbiome
+Project, 2019
+
+HOMD : Human Oral
+Microbiome Database, 2019
+
+HPMCD: Human Pan
+Microbial Communities
+Database, 2019
+
+curatedMetagenomicData,
+2019
+
+European Nucleotide Archive
+EMBL-EBI, 2019
+
+EMBL-EBI Mg, 2019
+
+MG-RAST, 2019
+
+2016; Breitwieser et al., Computational Diet, Microbiome and Health
+
+TABLE 2 | A summary of highlighted methods and pipelines for microbiome
+data processing. 2016)
+UPARSE-OTU(U) (Edgar, 2013),
+Kraken (Wood and Salzberg, 2014),
+MetaPhlAn2(Q) (Truong et al., 2015),
+and DOTUR(M) (Schloss and
+Handelsman, 2005)
+
+MEGAN (Huson et al., Data Analytics and Machine Learning
+Data processing is considered to be the step necessary for
+converting the raw data, such as metagenomics sequence reads,
+into biologically meaningful representations, such as OTU counts
+using bioinformatics tools, some of which are done in the
+sequencing device itself. Conclusions should
+not be made based on the number of reads assigned to individual
+sample features (e.g., OTUs, genes, and functional groups) since
+they do not represent absolute abundances due to instrumental
+limitations (Gloor et al., The third
+challenge is about testing multiple hypotheses in an exploratory
+analysis. (2) High dimensionality:
+Metagenomic data processing results in many entities such
+as genes and species discovered for each sample, which
+may not be shared among multiple samples. Non-parametric tests are
+good alternatives when the assumptions regarding the data
+being normally distributed do not hold. ANOVA can be
+generalized to multivariate analysis of variance (MANOVA),
+which can have multiple response variables. For
+example, SparCC is used for analyzing the TwinUK dataset to
+identify bacterial taxa whose abundances are inﬂuenced by host
+genetics (Goodrich et al., In a diﬀerent
+study, the classiﬁcation task was to identify healthy vs. unhealthy
+donors given relative OTU abundance data (including species
+level) coming from shotgun metagenomics sequencing of the gut
+(as well as other body sites) (Pasolli et al., Multiple factor analysis (MFA)
+is an extension of PCA that considers predeﬁned grouping of
+features during DR to ensure equal representation for all groups
+
+of features in derived PCs (Abdi et al., Frontiers in Microbiology | www.frontiersin.org
+
+11
+
+April 2020 | Volume 11 | Article 393
+
+fmicb-11-00393
+
+April 2, 2020
+
+Time: 17:57
+
+# 12
+
+Eetemadi et al. A problem that arises in machine learning where parameter values
+of a model are too closely ﬁt for training data and therefore not useful in practice. Computational Diet, Microbiome and Health
+
+Even though there is already a considerable number of patent
+applications for technologies aiming to manipulate the gut
+microbiome for multiple health conditions, regulatory legislation
+has not yet become speciﬁc to deal with the new scientiﬁc
+advances in the ﬁeld. Interestingly, recent
+research has shown that synthetic datasets can be used to
+assess the performance of competing tools given a project’s
+assumptions and hence provide useful benchmarks (Ounit and
+Lonardi, 2016; Hitch and Creevey, 2018). We further believe that
+progress in simulation-based studies can give rise to new data
+processing and analytics pipelines customized for each project
+based on factors such as sequencing technology, data availability,
+dimensionality, and variability. Amir, A., McDonald, D., Navas-Molina, J. A., Kopylova, E., Morton, J. T., Xu, Z. Z.,
+et al. ( doi: 10.1038/nrendo.2014.210
+
+Coyte, K. Z., Schluter, J., and Foster, K. R. (2015). doi: 10.1073/pnas.1005963107
+
+de Goﬀau, M. C., Luopajärvi, K., Knip, M., Ilonen, J., Ruohtula, T., Härkönen, T.,
+et al. ( Data integration and predictive modeling
+methods for multi-omics datasets. Available at: http:
+
+//www.hpmcd.org (accessed February 11, 2019). A guide to enterotypes across the human body: meta-analysis of
+microbial community structures in human microbiome datasets. The dynamics of the human infant gut microbiome in
+development and in progression toward type 1 diabetes. FactoMineR: an R package for multivariate
+
+analysis. Lozupone, C. A., Stombaugh, J. I., Gordon, J. I., Jansson, J. K., and Knight, R.
+(2012). doi: 10.1038/
+s41598-018-37162-w
+
+McDonald, D., Price, M. N., Goodrich, J., Nawrocki, E. P., DeSantis, T. Z., Probst,
+A., et al. ( Pasolli, E., Truong, D. T., Malik, F., Waldron, L., and Segata, N. (2016). Zero-inﬂated beta regression for diﬀerential
+abundance analysis with metagenomics data. general class of zero-or-one inﬂated beta
+regression models. doi: 10.7717/peerj.2584
+Rosseel, Y. (2012). The role of
+probiotic lactic acid bacteria and biﬁdobacteria in the prevention and treatment
+of inﬂammatory bowel disease and other related diseases: a systematic review of
+randomized human clinical trials. A metagenomic study of diet-dependent interaction between gut
+microbiota and host in infants reveals diﬀerences in immune response. Available at: https://microbe.med.umich.edu/research/
+michigan-microbiome-project (accessed February 11, 2019). doi: 10.1038/s41591-019-
+0406-6
+
+Zhang, C., Yin, A., Li, H., Wang, R., Wu, G., Shen, J., et al. ( doi: 10.1186/gb-
+2014-15-3-r46
+
+Wooley, J. C., Godzik, A., and Friedberg, I. A. (2010). This is an
+open-access article distributed under the terms of the Creative Commons Attribution
+License (CC BY).

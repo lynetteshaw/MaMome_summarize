@@ -1,0 +1,27 @@
+Zhou and Gallins
+
+Host Trait Prediction
+
+levels of taxonomy, with intriguing thoughts about the
+of
+interplay and use of molecular function descriptors vs. taxonomic
+descriptors, the reader is referred to Knights et al. ( The result is a set of informative features, perhaps including
+original OTUs along with higher-level aggregations of taxonomic
+features, that can be utilized for downstream machine learning
+(Oudah and Henschel, 2018). Standard feature selection
+algorithms, Fizzy and MetAML, which do not capitalize on the
+hierarchical structure of features, were also tested by Oudah
+and Henschel (2018) using several machine learning methods
+on real datasets. Frontiers in Genetics | www.frontiersin.org
+
+9
+
+June 2019 | Volume 10 | Article 579
+
+Zhou and Gallins
+
+Host Trait Prediction
+
+and initial numbers of OTUs: (1) The Singh et al. ( doi: 10.1128/mSystems.00123-17
+
+Randolph, T. W., Zhao, S., Copeland, W., Hullar, M., Shojaie, A. (2018).

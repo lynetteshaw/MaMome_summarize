@@ -1,0 +1,110 @@
+were  housed  individually  in  plastic  cages 
+equipped with a running wheel (Coulbourn 
+Instruments,  Whitehall,  PA);  however, 
+wheels  were  locked  in  cages  of  seden­
+tary mice. Mice were allowed to exercise for 5 weeks, 
+including 1 week to adapt to running and 
+solitary housing. All treatments were performed via oral 
+gavage using an 18­G gavage needle (3 cm 
+length, curved, 2.25 mm ball diameter; Popper 
+and Sons, New Hyde Park, NY). A diagram of the study design is shown 
+in Figure 1. PhyloChip  arrays  were  washed, 
+stained, and scanned using a GeneArray scan­
+ner (Affymetrix, Cleveland, OH). Subsequently,  hybridization 
+scores  were  calculated  as  log2(mean  probe 
+fluorescence intensity) × 1,000. Before  classification 
+analy sis,  we  performed  data  reduction  via 
+multiple filtering steps as described by Hazen 
+et al. ( Taxa­sample intersections were 
+
+Vehicle
+treatment
+
+PCB
+treatment
+
+End of
+experiment
+
+Feces
+collection
+(2 days)
+
+Feces
+collection
+(2 days)
+
+Control data
+
+PCB data
+
+then calculated using abundance (AT) and 
+binary matrices (BT). Pairwise BT and AT 
+dissimilarity  scores  were  computed  using 
+the Unifrac distance metric (Lozupone et al. 2002) as implemented in 
+Prediction  Analysis  of  Microarrays  (PAM; 
+http://www­stat.stanford.edu/~tibs/PAM/) 
+was  used  to  identify  OTUs  with  the  most 
+significant differences in abundance between 
+comparison groups. As 
+a result of these changes, the overall abun­
+dance of bacteria significantly diminished (by 
+2.2%) in PCB­exposed mice. Experimental design indicating treatment and sampling times. 726 
+
+volume 121 | number 6 | June 2013  •  Environmental Health Perspectives
+
+Choi et al. These taxa were then analyzed by 
+
+PCoA with weighted Unifrac distance, which 
+indicated significant differences in the compo­
+sition of the microbial communities between 
+the exercised and sedentary mice (Figure 2B). The taxa that were decreased 
+
+in  the  exercised  group  belonged  to  phyla 
+Tenericutes, Bacteroidetes, and Firmicutes. Exercise alters the structure and composition of the gut microbiome. ( 2012) and pathology have 
+been  reported. For example, 
+physical activity has been reported to increase 
+excretion of primary bile acids to the gastro­ 
+intestinal tract (Meissner et al. These changes 
+in the intestinal immune system may lead to 
+secondary alternations of the host–bacterial 
+interaction and induce selective pressure on 
+bacterial selection. 2012) reported that Erysipelotrichaceae 
+were enriched in obese humans and mice, as 
+well as in mice fed a high­fat diet, and noted 
+that  the  abundance  of  Erysipelotrichaceae 
+was  also  increased  in  patients  with  colo­ 
+rectal cancer. Thus, our data are consistent 
+because we observed a decrease in the num­ 
+ber of Erysipelotrichaceae in exercised mice 
+that had lost a substantial amount of body 
+weight;  this  is  associated  with  the  role  of 
+Erysipelotrichaceae in energy production and 
+adiposity (Claus et al. These results suggest that the 
+gut microbiome may be one of the primary 
+targets of PCB­induced toxicity in subjects 
+exposed orally to these environmental toxi­ 
+cants. Chen W, Liu F, Ling Z, Tong X, Xiang C. 2012. Human intestinal 
+lumen and mucosa-associated microbiota in patients with 
+colorectal cancer. MBio  2:  e00271-10;  doi:10.1128/ 
+mBio.00271-10. De  Hertogh  G,  Lemmens  B,  Verhasselt  P,  de  Hoogt  R, 
+Sagaert X, Joossens M, et al. Physical activity and risk 
+of colon and rectal cancers: the European Prospective 
+Investigation into Cancer and Nutrition. Cancer Epidemiol 
+Biomarkers Prev 15:2398–2407. Understanding the role of gut microbiome-host metabolic 
+signal disruption in health and disease. New 
+York:Elsevier Science Publishers, 345–364. Ley RE, Backhed F, Turnbaugh P, Lozupone CA, Knight RD, 
+Gordon JI. Phylogeny 
+of mercury resistance (mer) operons of gram-negative 
+bacteria isolated from the fecal flora of primates. BMC  Bioinformatics  7:371; 
+doi:10.1186/1471-2105-7-371 [Online 7 August 2006]. 
+
+Lustyk MK, Jarrett ME, Bennett JC, Heitkemper MM. Does a physically active lifestyle improve symptoms in 
+women with irritable bowel syndrome? Matsumoto  M,  Inoue  R,  Tsukahara  T,  Ushida  K,  Chiji  H, 
+Matsubara N, et al. Guide for the Care and Use 
+of Laboratory Animals. Washington, DC:National 
+Academies Press. Santacruz A, Collado MC, Garcia-Valdes L, Segura MT, Martin-
+Lagos JA, Anjos T, et al. Effect of 
+moderate exercise on IgA levels and lymphocyte count in 
+mouse intestine. Willems RJ, Hanage WP, Bessen DE, Feil EJ. Zhang H, DiBaise JK, Zuccolo A, Kudrna D, Braidotti M, Yu Y, 
+et al.

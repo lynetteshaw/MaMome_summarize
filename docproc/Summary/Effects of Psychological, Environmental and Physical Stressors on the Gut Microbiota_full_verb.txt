@@ -1,0 +1,101 @@
+Brief Reviews
+
+  e
+Th
+
+Journal of
+
+Immunology
+
+The Impact of Maternal Microbes and Microbial
+Colonization in Early Life on Hematopoiesis
+
+Downloaded from 
+
+http://www.jimmunol.org/
+
+ by guest on June 25, 2020
+
+function of the immune system at distal tissues, including
+primary lymphoid organs, such as the bone marrow (BM) and
+thymus. 2
+
+Copyright (cid:1) 2018 by The American Association of Immunologists, Inc. 0022-1767/18/$35.00
+
+Kathy D. McCoy and Carolyn A. Thomson
+
+All body surfaces are colonized by microbes, which oc-
+curs through a dynamic process over the ﬁrst few years
+of life. Initial colonizing microbes are transferred from
+the maternal microbiota to the newborn through ver-
+tical transmission. Received for publication December 22, 2017. Many factors, including
+diet, antibiotic exposure, genotype, and method of delivery
+(vaginal versus caesarean), are known to shape the developing
+microbiome (1), and it is of crucial importance that we un-
+derstand how these factors subsequently impact the develop-
+ing immune system. By day 30 after
+birth, the intestinal microbiome of infants exposed to IAP in
+utero had higher proportions of Comamonadaceae, Staph-
+ylococcaceae, Enterobacteriaceae, and an unclassiﬁed bacilli,
+along with reduced proportions of Biﬁdobacteriaceae, Strep-
+tococcaceae, an unclassiﬁed Lactobacillales, and an unclassiﬁed
+Actinobacteria (8). Dietary metabolites can be transferred from mother to child
+(12) and may have crucial roles in immune system develop-
+ment and inﬂammatory immune responses in the offspring
+(Fig. This
+model allows microbial colonization to occur only during
+pregnancy so that the dam becomes germ-free again prior to
+giving birth to her germ-free pups. This study revealed that
+maternal Ab-mediated vertical transfer of maternal microbial
+components vastly altered gene expression in the intestine of
+
+The Journal of Immunology
+
+2521
+
+Downloaded from 
+
+http://www.jimmunol.org/
+
+ by guest on June 25, 2020
+
+FIGURE 1. One intriguing possibility that may account for
+some of the changes in the neonatal immune system in re-
+sponse to maternal colonization is raised by older studies il-
+lustrating the presence of maternally derived hematopoietic
+stem cells (HSCs) and other hematopoietic progenitor cells in
+cord blood (21), from where they may seed the BM of the
+developing fetus. In that study, microbial colonization during
+neonatal life was shown to be required to limit accumulation
+of invariant NK T cells in the lung and colon, and this effect
+was mediated through microbiota-mediated epigenetic regu-
+lation of CXCL16 (24). Exposure to microbes in early life is known to have an impact
+on primary B cell development that occurs in hindgut B cell
+structures in animals like the chicken and rabbit (reviewed in
+Ref. Collectively, these factors can access distal sites, such as the BM, where they may regulate the proliferation and differ-
+entiation of LSK HSCs, LSK multipotent progenitors, and their descendants (iii), thus shaping commitment to speciﬁc immune cell lineages (iv). 2
+
+Neutrophil release from the BM is dependent on G-CSF
+produced by vascular endothelial cells in response to TLR
+ligation. 2
+
+Impact of microbial signals on HSC function and leukocyte longevity
+
+The microbial factors that regulate myeloid cell production
+and differentiation in the BM may also control their subse-
+quent expansion and longevity after their export to the pe-
+riphery. Deshmukh, H. S., Y. Liu, O. R. Menkiti, J. Mei, N. Dai, C. E. O’Leary,
+P. M. Oliver, J. K. Kolls, J. N. Weiser, and G. S. Worthen. Greenwood, C., A. L. Morrow, A. J. Lagomarcino, M. Altaye, D. H. Taft, Z. Yu,
+D. S. Newburg, D. V. Ward, and K. R. Schibler. Effects of intrapartum anti-
+microbial prophylaxis for prevention of group-B-streptococcal disease on the inci-
+dence and ecology of early-onset neonatal sepsis. Nakajima, A., N. Kaga, Y. Nakanishi, H. Ohno, J. Miyamoto, I. Kimura, S. Hori,
+T. Sasaki, K. Hiramatsu, K. Okumura, et al. The
+maternal microbiota drives early postnatal innate immune development. B cell development and proliferation of mature B cells in human
+fetal intestine. Gut microbiota metabolism of dietary ﬁber inﬂuences allergic
+airway disease and hematopoiesis. Anti-
+biotics impair murine hematopoiesis by depleting the intestinal microbiota. Higgins, D. M., J. Sanchez-Campillo, A. G. Rosas-Taraco, J. R. Higgins, E. J. Lee,
+I. M. Orme, and M. Gonzalez-Juarrero. Boettcher, S., R. C. Gerosa, R. Radpour,
+
+J. Bauer, F. Ampenberger,
+M. Heikenwalder, M. Kopf, and M. G. Manz. Vaccinia virus infection modulates the hematopoietic cell compartments in
+the bone marrow.

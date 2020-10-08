@@ -1,0 +1,230 @@
+20 Oct 2004 18:0
+
+AR
+
+AR230-GE38-16.tex AR230-GE38-16.sgm
+
+LaTeX2e(2002/01/18)
+
+P1: IKH
+
+526
+
+RIESENFELD (cid:1) SCHLOSS (cid:1) HANDELSMAN
+
+Size of Metagenomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 541
+Size of Inserts
+Identifying Sequences of Interest in Large Metagenomic Libraries . . . . . . . . . . . . . 543
+Microscopy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . As of April 1, 2004, GenBank contained 21,466 16S rRNA genes
+from cultured prokaryotes and 54,655 from uncultured prokaryotes, according to
+the search terms described by Rapp´e & Giovannoni (90), and many of those from
+uncultured organisms afﬁliate with phyla that contain no cultured members. Downloaded from www.annualreviews.orgby Georgetown University on 03/22/13. Other than 16S rRNA gene sequences,
+little is known about the bacteria within the 22 poorly cultured phyla and 26 candi-
+date phyla. In this review, we refer to them as uncultured. Soil
+
+Various
+
+450
+
+Humanmouth
+
+1.5×107
+3×320,000–580,000
+4×100,000
+2×240,000
+1×80,000
+
+3×∼300,000
+
+Soil&riversediment
+
+Soil&riversediment
+
+15,000
+
+Anaerobicdigester
+
+4×6000–35,000
+825,000
+
+Fecesandsoil
+
+Marine
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+700,000
+
+n.s. 32,000
+
+7200
+
+Marine
+
+Riverbioﬁlm
+
+Spongesymbionts
+
+Spongesymbionts
+
+Spongesymbionts
+
+Soil
+
+Soil
+
+symbionts
+Beetleandsponge
+
+Beetlesymbionts
+
+Tubewormsymbiont
+
+Marine
+
+Soil
+
+Sediment
+
+Marine
+
+Marine
+
+Marine
+
+Marine
+
+Polychaetesymbionts
+
+6240
+
+Marine
+
+Reference
+
+Genesofinterest
+
+TotalDNA(Gb)
+
+Insertsize(kb)
+
+Numberofclones
+
+Environment
+
+TABLE2Metagenomicsdiscoveryofhomologuesoftargetedgenesorgenefamilies
+
+Annu. Alternatively, sequences that
+carry conserved regions of genes associated with antibiotic biosynthesis, such as
+the polyketide synthases and peptide synthetases, may be identiﬁed by sequenced-
+based screens that do not require heterologous gene expression. Other gene sequences include those with homology
+to genes encoding cyclic β 1(cid:2)-2(cid:2) glucan synthetase, polyhydroxybutyrate depoly-
+merase, Bacteroides fragilis aerotolerance functions, and an operon distantly re-
+lated to the lincomycin biosynthesis pathway of Streptomyces lincolnensis (85),
+which provide hints about ecological roles of the Acidobacteria. The bacteriorhodopsins couple light-energy harvesting with carbon-cycling in the
+ocean through nonchlorophyll-based pathways, and the new homologue was ex-
+pressed in E. coli and shown to bind retinal and form an active, light-driven,
+proton pump. Most environments contain com-
+munities far too complex for it to be possible to sequence a complete metagenome,
+and even the simple communities contain microheterogeneity that makes most
+genome reconstructions simpliﬁed versions of reality. 16) described a metagenomic analysis of
+marine phage collected at two locations. In total, almost 2000 viral sequences
+were obtained. To sequence the genomes of the uncultured Bacteria and Archaea in
+the bioﬁlm, Tyson et al. ( They partitioned the community into populations
+and identiﬁed ﬁve sequence “bins”: high G + C scaffolds with 3x and 10x cover-
+age, low G + C scaffolds with 3x and 10x coverage, and short scaffolds with poor
+coverage. 115) conducted a massive sequencing project focused on the mi-
+crobiota of the nutrient-limited Sargasso Sea, an intensively studied marine en-
+vironment. Therefore, examining a phosphorus-limited
+
+Annu. Once genomes have been reconstructed, one rrn operon per genome
+is sufﬁcient to determine the phylogenetic afﬁliation of the source of the genes
+in the genome, but in the absence of metagenome reconstruction for an entire
+environment, phylogenetic anchors that are found at frequent intervals in genomes
+are essential. 20 Oct 2004 18:0
+
+AR
+
+AR230-GE38-16.tex AR230-GE38-16.sgm
+
+LaTeX2e(2002/01/18)
+
+P1: IKH
+
+Size of Inserts
+
+METAGENOMICS
+
+541
+
+Strategies for library construction vary depending on the intended study of the
+resulting library. Libraries containing large DNA fragments are constructed in
+lambda phage, cosmid, fosmid, and BAC vectors. Although increasing the
+library size is a worthy goal, existing libraries have provided useful insights into the
+microbial ecology of several ecosystems in the absence of complete metagenome
+coverage. Although both reconstruction studies reported
+sequences from Archaea, which are notoriously difﬁcult to lyse, the Sargasso Sea
+study did not report members of the phyla containing only uncultured organisms,
+so the effect of the DNA extraction on the diversity of DNA in the metagenomic
+libraries method remains unclear. Finally, libraries can be screened with taxon-speciﬁc oligonucleotide probes and
+
+Annu. Another
+variation on FISH is to link it with microautoradiography to identify taxons that
+utilize particular substrates in natural microbial communities (40, 62, 76). B´ej`a O, Suzuki MT, Koonin EV, Aravind
+L, Hadd A, et al. Evidence of chemolithoautotrophy in
+the bacterial community associated with
+Alvinella pompejana, a hydrothermal vent
+polychaete. Coque TM, Oliver A, Perez-Diaz JC,
+Baquero F, Canton R. 2002. Re-
+combinant environmental libraries pro-
+vide access to microbial diversity for drug
+discovery from natural products. Iso-
+lation of antibiotics turbomycin A and B
+from a metagenomic library of soil mi-
+crobial DNA. Microbial evolution, diversity, and ecol-
+ogy: a decade of ribosomal RNA analysis
+of uncultivated microorganisms. Knietsch A, Bowien S, Whited G,
+Gottschalk G, Daniel R. 2003. Kong YH, Beer M, Seviour RJ, Lindrea
+KC, Rees GN. Comparative
+analysis of a genome fragment of an un-
+cultivated mesopelagic crenarchaeote re-
+veals multiple horizontal gene transfers. Riesenfeld CS, Goodman RM, Handels-
+man J. 2004. 20 Oct 2004 18:0
+
+AR
+
+AR230-GE38-16.tex AR230-GE38-16.sgm
+
+LaTeX2e(2002/01/18)
+
+P1: IKH
+
+552
+
+RIESENFELD (cid:1) SCHLOSS (cid:1) HANDELSMAN
+
+marine bacterioplankton. Tyson GW, Chapman J, Hugenholtz P,
+Allen EE, Ram RJ, et al. Commu-
+nity structure and metabolism through re-
+construction of microbial genomes from
+the environment. Voget S, Leggewie C, Uesbeck A, Raasch
+C, Jaeger KE, et al. Zeidner G, Preston CM, Delong EF, Mas-
+sana R, Post AF, et al.

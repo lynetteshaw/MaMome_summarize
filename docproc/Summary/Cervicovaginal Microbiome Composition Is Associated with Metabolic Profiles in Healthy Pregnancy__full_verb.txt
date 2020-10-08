@@ -1,0 +1,62 @@
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al. KEYWORDS Lactobacillus, longitudinal, metabolome, microbiome, pregnancy, vagina
+
+Vaginal microbes sustain important physiologies and produce metabolites that can
+
+directly or indirectly affect maternal health and infant development during preg-
+nancy. Postpartum,
+irrespective of the mode of delivery, the vaginal
+microbiota resembled that of a gastrointestinal microbiome, likely due to microbial
+mixing during the birthing process (9), suggesting that both vaginal and gastrointes-
+tinal microbial seeding of the neonate occurs. Keystone species include Lactobacillus crispatus and Lactobacillus gasseri, which have
+been associated with maintenance of a simple vaginal microbiome by their production
+of bacteriostatic and bactericidal compounds (e.g., lactic acid and hydrogen peroxide)
+and maintenance of a low pH (14–16) numerically and functionally dominating their
+respective vaginal communities. To account for repeated measures from longitudinal samples
+from the same individual, we also performed an LME, which required dimensional
+reduction (LME; R2 (cid:2) 69%; P (cid:3) 0.0001). July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 6
+
+Microbiome Composition in Healthy Pregnancy
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+FIG 4 Relationship between vaginal microbes and metabolites. ( Indole-3-lactate (ILA) accounted for
+27% of the variation observed in the vaginal microbiota data and was found to be more
+abundant in vaginal microbiota with abundant L. crispatus (Fig. An nMDS of HUMAnN2 analysis, examining the abundance
+of pathways in each microbiome (n (cid:2) 35 samples). Mothers and infants have signiﬁcantly different saliva and urine metabolomes. A subset of 50 lipidomics
+metabolites with high mean abundance, 70% of which were unannotated, showed
+distinct proﬁles between mother and offspring salivary metabolomes (Fig. The infant metabolome for saliva and urine
+had little variance attributed to which subject donated the sample, but GC-TOF MS was
+able to detect a signiﬁcant change between the infant urine metabolome at birth
+versus 6 and 12 months of age (PERMANOVA; R2 (cid:2) 34%; P (cid:2) 0.0007; Table S2). Of note, vaginal microbiota instability throughout
+pregnancy was associated with the presence of Candida, a known opportunistic
+pathogen of the vaginal tract. We speculate that this high extracellular mannitol abundance
+phenotype may underlie the cell’s need to regenerate NAD(cid:5) for use in glycolysis. Maternal urine was collected using a sterile collection cup. All urine, saliva, and CVF were analyzed using matrix-assisted laser
+desorption ionization mass spectrometry imaging (MALDI-MSI) for high-throughput untargeted metabo-
+lomics. Aliquots of 100 to 200 (cid:2)l were added to lysing matrix
+E tubes prealiquoted with 500 of hexadecyltrimethylammonium bromide (CTAB) DNA extraction buffer
+and incubated at 65°C for 15 min. Raw sequences (mean 2,977,881 paired-end reads per sample from 35/38
+successfully sequenced samples) were ﬁltered using PRINSEQ v0.20.4 (69) to ﬁlter out sequences that had
+a mean quality score of 30 or less. SUPPLEMENTAL MATERIAL
+
+Supplemental material is available online only. Smith MI, Yatsunenko T, Manary MJ, Trehan I, Mkakosya R, Cheng J, Kau
+AL, Rich SS, Concannon P, Mychaleckyj JC, Liu J, Houpt E, Li JV, Holmes
+E, Nicholson J, Knights D, Ursell LK, Knight R, Gordon JI. https://doi.org/10.1038/
+s41467-018-03157-4. Gajer P, Brotman RM, Bai G, Sakamoto J, Schütte UME, Zhong X, Koenig
+SSK, Fu L, Ma ZS, Zhou X, Abdo Z, Forney LJ, Ravel J. 2012. https://doi.org/10.1126/scitranslmed.3003605. Verstraelen H, Verhelst R, Claeys G, De Backer E, Temmerman M,
+Vaneechoutte M. 2009. Watts DH, Krohn MA, Hillier SL, Eschenbach DA. In Méndez-Vilas A (ed), Microbial pathogens and
+strategies for combating them: science, technology and education, p
+337–346. https://doi.org/10.1021/acs.analchem.6b05004.

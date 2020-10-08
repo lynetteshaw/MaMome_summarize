@@ -1,0 +1,86 @@
+Microbiome  (2017) 5:158 
+
+Page 2 of 19
+
+infant nutrition, and common clinical practices in neonatal
+care [14–20]. We hypothesize that assembly and function
+of the preterm infants’ gut microbiota is associated with
+postnatal growth patterns and represents a yet unexplored
+personalized therapeutic potential for optimizing infant
+development. Three phases of the preterm infant gut microbiota
+Characterization of microbiota from all subjects and
+time points spanning PMA from 24 to 46 weeks identi-
+fied Bacilli, Gammaproteobacteria, and Clostridia as by
+
+far the most abundant taxa, with relative abundances of
+41.75, 23.0, and 22.5% respectively, accounting for 87.0%
+of the total observed abundance (Fig. To characterize the apparent
+developmental phases of
+the premature infant gut
+microbiome, we used threshold values for the log ratio
+the three predominant bacterial classes—Bacilli,
+of
+Gammaproteobacteria, and Clostridia—to construct a
+decision tree that permits objective assignment of indi-
+vidual microbiota samples to one of the three phases
+based on their composition (Fig. The high concord-
+ance observed between DMM components and phases
+provides statistically grounded support for our heuris-
+tic model (See Additional file 3: Table S2 for details). The relationship between day of life (DOL) for the initial transition out of P1 and from meconium to normal infant stool was
+modeled by linear regression. Potential associations of nutrition and medications with
+phase
+After identifying the microbiota phase as a significant
+factor in infant growth, we sought to identify potential
+associations of nutrition and medications with phase by
+including them as explanatory variables and microbiota
+phases P1 and P2 as the outcome (with P3 as the baseline
+phase) in a multivariate mixed-effects logistic regression
+model. Beta values are the estimated regression coefficients and p values are
+computed from the likelihood ratio tests. For clarity, only significant associations are reported in this table. The remaining 38 infants that were observed to be
+in P1 at their first rectal sample were included in a linear
+regression model using gestational age at birth and the
+DOL of their last P1 sample before their initial transition
+to another phase as explanatory variables, with the DOL
+of meconium clearance as the dependent variable. Third, in both the phase- and period-based
+models, the abundance of several dominant infant gut
+microbiota taxa (e.g., Bifidobacterium) [37, 53] were signifi-
+cantly affected by gestational age at birth, PMA at sam-
+pling, total calories and proportions of macronutrients
+consumed at the week of sampling, and multiple clinical
+variables. Microbiome  (2017) 5:158 
+
+Page 15 of 19
+
+assessed at each taxonomic level using the metagen-
+omicsSeq zero-inflated Gaussian test [64], and the re-
+sults are summarized in Additional file 5: Tables S4A–C.
+Testing for differential functional capacity between the
+phases was performed using LEfSe [67] with per-sample
+normalization to 1 M total counts, minimum effect size
+of 2.0, alpha of 0.1, an all-against-all strategy, and other-
+wise default parameters. The results are summarized in
+Additional file 7: Table S6. As an example, the linear associations of P2
+and percent lipids * P2 with the weight z-score are both
+significant (beta = − 0.7766 for P2 and 5.658 for lipids *
+P2); meaning that while P2 is correlated with a smaller
+weight z-score as compared with the baseline (P3), a
+higher percent of lipid intake for P2 subjects increases
+the weight Z-scores for subjects in P2. DOCX 18 kb)
+
+Additional file 4: Table S3. C. Results of differential abundance tests
+(metagenomeSeq zero-inflated Gaussian) of all bacterial taxa between
+microbiome phases 1 and 3. ( AG, XQ, HAK, TJM,
+LS, KMS, MTC, GSP, and SRG drafted the manuscript. All authors reviewed the
+final manuscript. 5Division of Infectious Disease, Department of
+Pediatrics, University of Rochester School of Medicine and Dentistry,
+Rochester, NY, USA. Patterned
+progression of bacterial populations in the premature infant gut. Abdulkadir B, Nelson A, Skeath T, Marrs EC, Perry JD, Cummings SP,
+Embleton ND, Berrington JE, Stewart CJ. Bekkali N, Hamers SL, Schipperus MR, Reitsma JB, Valerio PG, Van Toledo L,
+Benninga MA. Gupta RW, Tran L, Norori J, Ferris MJ, Eren AM, Taylor CM, Dowd SE, Penn D.
+Histamine-2 receptor blockers alter the fecal microbiota in premature
+infants. Heida FH, Beyduz G, Bulthuis ML, Kooi EM, Bos AF, Timmer A, Hulscher JB. Greengenes, a chimera-checked 16S rRNA
+gene database and workbench compatible with ARB. Microbiome  (2017) 5:158 
+
+Page 19 of 19
+
+67.

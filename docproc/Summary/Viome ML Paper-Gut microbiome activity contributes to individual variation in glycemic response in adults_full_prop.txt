@@ -1,0 +1,94 @@
+bioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. http://dx.doi.org/10.1101/641019
+
+The copyright holder for this preprint
+
+doi: 
+
+. We obtained a stool sample at participation enrollment, as well as 
+a comprehensive questionnaire describing their lifestyle, preferences, 
+and health history. Provided meals 
+
+accounted for 66% of all meals and free meals 34%. Both  provided  and  free  meals  were  recorded  by  all  participants 
+during  the  entire  study  period,  using  a  smartphone  app  (Bitesnap). The  distribution  of  macronutrients  (Figure  2C)  shows  the  coverage 
+of the provided meals within the space of macronutrient proportions. A total of 9 distinct meals shown in Figure 2D were repeated 
+over the course of the 14 day diet schedules (omnivore and vegetar-
+ian/gluten-free)  to  collect  information  regarding  intra-person  vari-
+ability; each repeat meal was consumed twice by study participants. In either of these cases, we dis-
+carded the respective meal data. Meal  data  was  pre-processed  as  follows. For the samples provided by the 550 
+participants in this study, 6587 unique microbial KOs were detected, a 
+mean of 2941.9 per sample (s.d. All predictors were significant by likelihood-ratio test at p<.05, except 
+for  glutamine  production  pathways  (p=.08)  and  the  interaction  be-
+tween tyrosine metabolizers and carbs (p=.06) which are kept in this 
+model as suggestive, and do not substantially affect the estimation of 
+other coefficients. The fucose metabolism pathways activity score considers expres-
+sion levels of all the genes that encode enzymes known to carry out 
+
+5
+
+biochemical reactions that result in processing and catabolic conver-
+sions of fucose – a glycan that microbes may obtain from the host’s 
+gut lining mucosal layer, or food components. Figure  4D  (right) 
+illustrates the extent of modeled individual differences in this relation-
+ship, taking into account all predictors. Two hypothetical meals A and 
+B (similar to repeat meals from Figure 2D with carbs approximately 
+25g and 50g respectively) are shown to illustrate that two users (blue 
+and red lines) have the opposite glycemic responses (iAUC of 14 & 20 
+vs iAUC of 37 & 27 respectively) due to the crossover of their iAUC 
+response  lines  between  the  two  meals  —  this  effect  was  shown  in 
+Figure 3D using the raw data. This is a 
+gradient boosting machine [Chen 2016] built on the same predictors 
+already discussed as well as a number of additional features. Following [Zeevi 
+2015] we also add two further predictors encoding prior blood glucose 
+levels: the CGM reading immediately before the meal, and the slope 
+of the linear change in CGM readings over the previous 90 minutes. Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. 3E. Relationships between anthropometric characteristics and per-participant average iAUC across all meals (provided and free). Performance on training and test 
+data is shown in Figure 5. The relationship between iAUC and BMI / waist-to-hip ratio 
+(Figure 3E second and third panels) is the opposite of that previously 
+reported  in  studies  such  as  [Zeevi  2015].  We  hypothesize  that  this 
+may  reflect  the  self-reported  good  health  and  high  exercise  rate 
+within this study population. This process is often carried out by microbes known as mucin 
+degraders,  such  as  certain  species  of  genus  Ruminococcus  [Crost 
+2016].  We  therefore  hypothesize  that  higher  fucose  consumption 
+activity,  as  reflected  by  the  microbiome  pathway  score,  may  be  as-
+sociated with microbiomes of those individuals who are either more 
+likely  to  fast  or  whose  internal  ecosystem  and  overall  body  state 
+resembles the conditions of fasting or calorie deprivation. Error bars show standard error of 
+the estimate. Glutamine  production  pathways  score,  when  “Low,”  showed  a 
+direct relationship with higher PPGR. Inflammation  and  stress  response  may 
+be  implicated  in  elevation  of  blood  glucose  (either  due  to  cortisol 
+pathway  or  other  mechanisms). We seek to confirm and validate these mechanisms. •  Demonstrates  the  statistical  significance  of  all  features  using  a 
+multilevel  mixed-effects  regression  model  where  fixed  effects 
+represent  measured  properties  and  random  effects  account  for 
+further variation. Use  of 
+Metatranscriptomics  in  Microbiome  Research. Data analysis using regression and 
+hierarchical/multilevel models." Jiménez-
+Hernández  N.,  Pérez-Cobas  AE., Journal of the American College of Nutrition 17.6 (1998): 
+595-600. Proceedings  of  the  Society  for  Experimental  Biology  and 
+Medicine 180, no. [Krishnan 2018] Krishnan S, Ding Y, Saedi N, Choi M, Sridharan GV, Sherr DH, Yarmush 
+ML,  Alaniz  RC,  Jayaraman  A,  Lee  K.”  Derived  Tryptophan  Metabolites  Modulate 
+Inflammatory  Response  in  Hepatocytes  and  Macrophages”  Cell  Rep.  2018  Apr 
+24;23(4):1099-1111
+
+[Larsen  2010]  Larsen,  N.,  Vogensen,  F.  K.,  van  den  Berg,  F.  W.,  Nielsen,  D.  S., 
+Andreasen,A. S., Pedersen, B.K., Al-Soud, W. A., Sørensen, S.J., Hansen, L.H., Jakobsen, 
+M.  “Gut  microbiota  in  human  adults  with  type  2  diabetes  differs  from  non-diabetic 
+adults.” "Dietary  carbohydrates:  Role  of  quality  and  quantity  in  chronic  disease." DOI: 10.1136/bmj.k2340 
+
+[Mendes-Soares 2019] Mendes-Soares H, Raveh-Sadka T, Azulay S, et al. doi:10.1001/jamanetworkopen.2018.8102
+
+[Mirsky 1956] Mirsky, I. Arthur, and Daniel Diengott. " [Silverstein  1966]  Silverstein,  Murray  N.,  Khalil  G.  Wakim,  Robert  C.  Bahn,  and 
+Richard H. Decker. " yclnex.2016.01.001
+
+[Tuomainen 2018] Tuomainen M, Lindström J, Lehtonen M, Auriola S, Pihlajamäki J, 
+Peltonen M, Tuomilehto J, Uusitupa M, Mello V and Hanhineva K. “ Associations of 
+serum  indolepropionic  acid,  a  gut  microbiota  metabolite,  with  type  2  diabetes  and 
+low-grade inflammation in high-risk individuals” Nutrition & Diabetes 35 (2018)
+
+ [Van Cauter 1997] Van Cauter, Eve, Kenneth S. Polonsky, and André J. Scheen. " Deutsche  medizinische 
+Wochenschrift (1946) 109, no. [Whitfield-Cargile  2016]  Whitfield-Cargile,  Canaan  M.,  Noah  D.  Cohen,  Robert  S. 
+Chapkin, Brad R. Weeks, Laurie A. Davidson, Jennifer S. Goldsby, Carrie L. Hunt et 
+al. [KEGG]  KEGG:  Kyoto  Encyclopedia  of  Genes  and  Genomes. http://www.kegg.jp/  or 
+http://www.genome.jp/kegg/
+
+[Wolever 1986] Wolever, T.M., and Jenkins, D.J. (1986).

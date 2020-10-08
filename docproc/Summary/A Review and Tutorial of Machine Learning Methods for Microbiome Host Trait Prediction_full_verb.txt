@@ -1,0 +1,95 @@
+Zhou and Gallins
+
+Host Trait Prediction
+
+levels of taxonomy, with intriguing thoughts about the
+of
+interplay and use of molecular function descriptors vs. taxonomic
+descriptors, the reader is referred to Knights et al. ( REVIEW OF MACHINE LEARNING
+METHODS FOR PREDICTION
+
+in the data, but without
+
+Machine learning deals with the creation and evaluation of
+algorithms to recognize, classify, and predict patterns from data
+(Tarca et al., The python code for implementation is on our site
+(https://sites.google.com/ncsu.edu/zhouslab/home/software?). The result is a set of informative features, perhaps including
+original OTUs along with higher-level aggregations of taxonomic
+features, that can be utilized for downstream machine learning
+(Oudah and Henschel, 2018). An ensemble of decision trees (or regression trees
+for continuous y) is built by performing bootstrapping on the
+dataset and averaging or taking the modal prediction from trees
+(a process known as “bagging”)(Figure 1C), with subsampling
+of features used to reduce generalization error (Ho, 1995). Neural Networks
+Neural networks
+to an interconnected feed-forward
+network of nodes (“neurons”) with weights attached to each
+edge in the network, which allows the network to form a
+mapping between the inputs X and the outcomes y (Ditzler
+et al., This process continues until the last hidden layer is connected
+
+Frontiers in Genetics | www.frontiersin.org
+
+5
+
+June 2019 | Volume 10 | Article 579
+
+Zhou and Gallins
+
+Host Trait Prediction
+
+TABLE 1 | Review of published prediction accuracy comparisons. 2018 HMP
+
+Five body sites
+
+1,192
+
+NA
+
+NA
+
+20,589 Various
+
+Random forest
+
+Gevers et al., The size of each dataset (#
+cases/controls ×# OTUs) is shown in the title. ( As diﬀerent studies used vastly diﬀerent protocols
+for OTU generation and preprocessing, for this main paper
+we focused on the 17 reported datasets that compared at least
+two competing measures of prediction accuracy. and here we list
+the packages and settings used. In the datasets
+analyzed by Ditzler et al. ( The results for discrete traits
+
+Summarizing the results after using BMI as a continuous trait
+in the Goodrich dataset, the bar graph (Figure 2D) shows the
+
+FIGURE 5 | Scatterplot comparing the average AUCs between the full dataset and the HFE subset. ( FUNDING
+
+This work gets support from the NC State Game-changing
+Research Initiative Program and CFF KNOWLE18XX0. SUPPLEMENTARY MATERIAL
+
+for this article can be found
+at: https://www.frontiersin.org/articles/10.3389/fgene. Systematic
+evaluation of supervised classiﬁers for fecal microbiota-based prediction of
+colorectal cancer. from 16S
+MicroPheno: predicting environments and host phenotypes
+rRNA gene sequencing using a k-mer based representation of shallow
+sub-samples. doi: 10.1186/s12859-015-0793-8
+
+J. C., Lan, Y., and Rosen, G. L.
+
+Ditzler, G., Polikar, R., and Rosen, G. (2015b). The treatment-naive microbiome in new-onset Crohn’s
+disease. doi: 10.1016/j.chom.2014.02.005
+
+Gilbert, J. A., Blaser, M. J., Caporaso, J. G., Jansson, J. K., Lynch, S. V., and Knight,
+R. (2018). Alterations
+the human gut microbiome in liver cirrhosis. doi: 10.1155/2018/
+2936257
+
+Xiao, J., Chen, L., Yu, Y., Zhang, X., and Chen, J. (2018). doi: 10.1186/s40168-015-0109-2
+
+Zeller, G., Tap, J., Voigt, A. Y., Sunagawa, S., Kultima, J. R., Costea, P. I., et al. doi: 10.1371/journal.pcbi.0030116
+
+Zhao, S. and Shojaie, A. (2016). doi: 10.1111/j.1467-9868.2005.00503.x
+
+Soc.

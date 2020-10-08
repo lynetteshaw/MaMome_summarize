@@ -1,0 +1,27 @@
+fmicb-11-00393
+
+April 2, 2020
+
+Time: 17:57
+
+# 2
+
+Eetemadi et al. Data Analytics and Machine Learning
+Data processing is considered to be the step necessary for
+converting the raw data, such as metagenomics sequence reads,
+into biologically meaningful representations, such as OTU counts
+using bioinformatics tools, some of which are done in the
+sequencing device itself. For
+example, SparCC is used for analyzing the TwinUK dataset to
+identify bacterial taxa whose abundances are inﬂuenced by host
+genetics (Goodrich et al., In a diﬀerent
+study, the classiﬁcation task was to identify healthy vs. unhealthy
+donors given relative OTU abundance data (including species
+level) coming from shotgun metagenomics sequencing of the gut
+(as well as other body sites) (Pasolli et al., doi: 10.3390/nu7010017
+
+Costea, P. I., Hildebrand, F., Manimozhiyan, A., Bäckhed, F., Blaser, M. J.,
+Bushman, F. D., et al. ( doi: 10.1101/
+gr.213959.116
+
+Ospina, R., and Ferrari, S. L. A. (2012).

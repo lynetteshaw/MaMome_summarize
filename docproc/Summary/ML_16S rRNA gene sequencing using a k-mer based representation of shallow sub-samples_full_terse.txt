@@ -1,0 +1,13 @@
+1 Comparison between 16S rRNA gene sequencing and shotgun metagenomic sequencing
+
+Two primary methods for taxonomic proﬁling of microbial communities exist: 16S gene sequencing and whole genome shotgun sequencing (WGS). Finally, PCA is a linear transformation with
+several constraints, and thus cannot address the non-linearity in the data [18, 1].
+
+t-Distributed Stochastic Neighbor Embedding (t-SNE): is a dimensionality reduction technique which has been successfully applied to
+visualization problems, since it attempts to preserve pairwise distance distribution of points in lower dimensions [19]. Since projection to lower
+dimensions involves the distribution of relative distances, it requires large amounts of data points in order to ﬁnd a meaningful representation. 4 Body-site classiﬁcation results
+
+4.1 Confusion matrix for body-site classiﬁcation using diﬀerent sampling sizes
+
+As shown in the Figure 1, increase in the sampling size from 100 reads per sample helps in discrimination between similar body-sites (mid-vagina and
+urogenital). Nature Biotechnology, 31(6):545–552, 2013. URL http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3564958&tool=pmcentrez&rendertype=abstract. [12] Vanessa M. Peterson, Kelvin Xi Zhang, Namit Kumar, Jerelyn Wong, Lixia Li, Douglas C. Wilson, Renee Moore, Terrill K. Mcclanahan, Svetlana Sadekova, and Joel A. Klappenbach.

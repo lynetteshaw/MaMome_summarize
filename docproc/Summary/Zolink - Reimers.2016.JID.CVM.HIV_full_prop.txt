@@ -1,0 +1,147 @@
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+the commonality that relates both BV and vaginal pH to HPV
+infection (independent of HIV) is the RA of certain Lactobacil-
+lus species, most notably L. crispatus. Last, despite considerable spec-
+ulation that cervicovaginal pH may mediate the effects of the
+microbiota on HPV infection, no studies have, to our knowl-
+edge, assessed whether statistical control for pH weakens the
+HPV-microbiota association, which would be expected if pH
+was part of the causal pathway. WIHS Substudy Population
+As described previously [10], women included in the micro-
+biome substudy were selected from among premenopausal
+African American participants at the Chicago WIHS site,
+with at least 8 years of observation and a minimum of 6 annual
+CVL specimens, with further selection based on their HIV sta-
+tus and CD4+ T-cell count over time. Microbial DNA was isolated using the FastDNA Spin Kit for
+Soil (MP Biomedicals, Solon, OH). Distribution of relative abundance (RA) of Lactobacillus species. It is a highly efﬁcient analytic method, widely
+used in HPV research [30, 31]. In addition to CSTs, we conduct-
+ed a priori–planned analyses of the RA of lactobacilli (at the
+genus and species level), modeled as both continuous and ordi-
+nal data. All covariates except study group were time
+dependent. RESULTS
+
+Select characteristics of the cohort at the index visit are shown in
+Table 1. Self-report of Trichomo-
+nas vaginalis infection, BV, candidiasis, or STIs within the past
+
+Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 (1 November) (cid:129) 1363
+
+performed as described previously [8, 10]. Brieﬂy, universal
+primers 27F and 338R were used for PCR ampliﬁcation of the
+V1-V2 hypervariable regions of 16S rRNA genes from genomic
+DNA extracts. Detection of chimeric se-
+quences was performed using the UCHIME component of
+UCLUST, and chimeric sequences were removed. Statistical Methods
+We characterized demographic and risk factor data at the index
+visit for each of the 3 study groups, with statistical differences
+between groups assessed using analysis of variance (ANOVA;
+for continuous variables), the Kruskal–Wallis test (for continu-
+ous variables with nonnormal distributions), or the χ2 test (for
+categorical data). of male sex
+
+.28
+
+.34
+
+Vaginal pH, median (IQR)
+
+5.0 (4.7–5.5)
+
+5.0 (4.4–5.5)
+
+5.0 (4.0–6.0)
+
+Data are no. (%) Hierarchical clustering found 6 CSTs, with 5 dominated by
+an individual Lactobacillus species, whereas CST IV-B com-
+prised a variety of genera (eg, Prevotella, Atopobium, Mega-
+sphaera, and Sneathia) with a low RA of Lactobacillus species. Figure 2 displays a heat map of the RA data for the 25 most
+abundant genera or species and how they cluster within each
+CST. A, Heat map of the relative percent abundance of bacterial taxa, by community state
+type (CST) and the presence of oncogenic human papillomavirus (oncHPV). Reference
+0.29 (.08–1.05)
+0.55 (.06–5.13)
+1.19 (.69–2.04)
+1.65 (.72–3.78)
+0.84 (.33–2.17)
+
+. . . Those with an STI on the day of the index visit were
+excluded from this substudy. Abbreviations: BV, bacterial vaginosis; CI, confidence interval; OR, odds ratio. b A pH of ≤ 4.5 (the cut point used in the Amsel criteria for the diagnosis of BV) was considered low, a pH of 4.5–5.8 was considered medium, and a pH of >5.8 (where a pH of 5.8 was the
+median of all pH values >4.5) was considered high. On the other hand, bacteriocins produced by
+L. crispatus may have antiviral effects. For
+
+Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 (1 November) (cid:129) 1367
+
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+Table 4. .02a
+.09
+
+.02
+
+.32
+
+.04a
+.02
+
+.12
+
+.63
+
+Reference
+0.54 (.26–1.14)
+0.49 (.25–.96)
+
+. . . 1.11 (.54–2.29)
+1.10 (.51–2.41)
+
+.03a
+.10
+
+.04
+
+.09
+
+.58
+
+.03a
+.01
+
+.11
+
+.77
+
+.81
+
+All models were adjusted for age, study group, highly active antiretroviral therapy use, number of recent sex partners, smoking status, condom use, lifetime sex partners, Trichomonas vaginalis
+infection in the past 6 months, Candida infection in the past 6 months, or other sexually transmitted infections (STIs) in the past 6 months. In summary, our results suggest a beneﬁcial effect of L. crisp-
+atus on the burden of HPV in HIV-infected and HIV-uninfected
+women that is unrelated to pH. Further research to better un-
+derstand these relationships is strongly warranted, including
+large prospective cohort studies and laboratory research to un-
+derstand the mechanisms that underlie the relation of the cer-
+vicovaginal microbiota with HPV infection. The WIHS is funded primarily by the NIAID, with additional
+co-funding from the Eunice Kennedy Shriver National Institute of Child
+Health and Human Development, the NCI, the National Institute on
+Drug Abuse, and the National Institute of Mental Health. K. A. has received honoraria from Bris-
+tol-Myers Squibb. All other au-
+thors report no potential conﬂicts. All authors have submitted the ICMJE
+Form for Disclosure of Potential Conﬂicts of Interest. Type-speciﬁc persistence of human pap-
+illomavirus DNA before the development of invasive cervical cancer. Effects of bacterial vaginosis and other
+genital infections on the natural history of human papillomavirus infection in
+HIV-1-infected and high-risk HIV-1-uninfected women. Mirmonsef P, Hotton AL, Gilbert D, et al. Vaginal microbiome of reproductive-age women. Proc Natl Acad Sci U S A 2011; 108(suppl 1):4680–7. Matching as Nonparametric Preprocessing for
+Reducing Model Dependence in Parametric Causal Inference. Lyon, France: World Health Organization, 2007. QIIME allows analysis of high-
+
+throughput community sequencing data. Appl Environ Mi-
+crobiol 2007; 73:5261–7. A Monte Carlo study of thirty internal criterion measures for cluster
+
+analysis. Diversity and evenness: a unifying notation and its consequences. Mooij SH, Boot HJ, Speksnijder AG, et al. Petrova MI, Lievens E, Malik S, Imholz N, Lebeer S. Lactobacillus species as bio-
+markers and agents that can promote various aspects of vaginal health.

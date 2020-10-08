@@ -1,0 +1,182 @@
+2014) and mammalian carni-
+vores (Menke et al. Studies utilizing PCR ampliﬁcation of clones, coupled
+with Sanger sequencing or denaturing gradient gel elec-
+trophoresis, have attempted to explore internal micro-
+bial communities or identify endosymbionts in tick
+species (Noda et al. Although the report
+provided useful insight into the microbiomes of adults
+of these three species, it primarily emphasized the over-
+all gap in knowledge regarding the identity of microor-
+ganisms and the roles that microbial communities play
+in pathogen transmission, infectivity and pathogenicity
+within tick vectors (Clay & Fuqua 2010). 2015); I. ovatus,
+I. persulcatus and Haemaphysalis ﬂava in Japan (Qiu et al. 2013), underscores
+how little is currently known about
+the variety of
+microbial species occurring in this vector and the
+potential for more of these species ultimately to be
+identiﬁed as pathogens. For
+example, infection of blacklegged ticks by A. phagocy-
+tophilum (the causative agent of granulocytic anaplas-
+mosis in humans) has been shown to induce protein
+expression that increases cold tolerance and, depend-
+ing on weather patterns, may aid in tick survival
+(Neelakanta et al. In addition to investigating the internal
+microbial communities found within whole ticks, we
+focused on the microbiomes within two speciﬁc tissues
+in adult female ticks, salivary glands and the midgut,
+as these are important for maintenance and transmis-
+sion of many tick-borne pathogens associated with
+I. scapularis (Spielman et al. A subset of
+the PCR products for all
+sample pools and the one negative were indexed
+using 25 lL KAPA SYBR FAST qPCR Master Mix
+(Kapa Biosystems), 10 lL sdH2O, 5 lL Nextera XT
+Index 1 Primer, 5 lL Nextera XT Index 2 Primer and
+5 lL puriﬁed PCR product. Equimolar
+2100 Bioanalyzer
+amplicon quantities were pooled, denatured and com-
+loading
+bined with denatured 20% PhiX at
+
+a
+
+concentration of 5.5 pM. High-throughput amplicon
+sequencing was conducted on a MiSeq instrument (Illu-
+mina) using the v3 Reagent Kit 600-cycle format and
+2 9 300 bp paired-end (300PE) reads at
+the Epige-
+nomics Core Facility of Weill Cornell Medicine (New
+York, NY, USA). The OTU table was processed in QIIME (MACQIIME
+V1.9.0) (Caporaso et al. the signiﬁcance and effect
+
+After analysing the taxonomic summaries for all sam-
+ple pools, the genus Rickettsia was found to be the most
+abundant. The PAPARA alignment and the JPLACE tree
+10.5061/
+accessioned to Dryad (doi:
+ﬁle were
+dryad.mt6m0). Field-collected larvae, nymphs and males exhibited sim-
+ilar levels of a-diversity, but males contained the richest
+bacterial communities when abundance was taken into
+consideration (Table S2, Supporting information, Fig. The remaining OTUs were
+
+Larvae  
+(Lab) 
+
+Larvae  
+(Field) 
+
+Nymphs
+
+Males
+
+Females
+
+Larvae  
+(Lab) 
+
+Larvae  
+(Field) 
+
+Nymphs
+
+Males
+
+Females
+
+(B)
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Phylogenetic diversity
+
+(D)
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+Simpson's index
+
+4968 C . Each a-diversity measure (A), observed number of OTUs, (B) Faith’s phy-
+logenetic diversity, (C) Shannon’s index and (D) Simpson’s index were calculated at a rarefaction depth of 100 000 sequences. across
+
+Bacterial
+
+F = 9.33,
+
+R2 = 0.79,
+
+communities
+
+P = 0.001). 3 Principal coordinate analysis of b-diversity measures for all developmental stages. Conﬁdence ellipsoids
+around samples display degree of variation. Distinct
+clustering was observed for each organ and the whole
+tick when abundance data were not considered (un-
+weighted UniFrac PCoA) explaining 39.53% (Axis 1)
+and 22.35% (Axis 2) of the variation (Fig. © 2016 John Wiley & Sons Ltd
+
+(A)
+
+(B)
+
+M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4971
+
+Whole females 
+
+Female salivary glands 
+
+Female midguts
+
+Fig. Wol-
+bachia is an invertebrate-associated genus of Rickettsi-
+aceae endosymbionts that has radiated into various
+(Noda et al. 5B), the midguts and
+whole female ticks tended to cluster together, away
+from the more divergent salivary gland samples, pre-
+sumably due to the >98% relative abundance of Rick-
+ettsia species in these two sample types. The higher
+average relative abundance of Anaplasma (12.5%) and
+Borrelia (7.2%) found in the salivary glands compared
+to the midguts (<1% average relative abundance for
+both bacterial genera) may be due to differences in
+tissue tropism of known pathogens within these two
+genera. This work was partially funded by
+
+4974 C . Barbour AG, Bunikis J, Travinsky B et al. ( Applied and Environmental Microbi-
+ology, 70, 616–620. Edgar RC (2013) UPARSE: highly accurate OTU sequences
+from microbial amplicon reads. Rutgers University Press, New Brunswick, NJ. 1998) Acquisition and
+transmission of the agent of human granulocytic ehrlichiosis
+by Ixodes scapularis ticks. Annals of the New York Academy of
+Sciences, 1078, 285–290. Proceedings of the National Academy of Sciences of the United
+States of America, 107, 769–774. Applied and
+Environmental Microbiology, 78, 4110–4116. Vector
+Borne and Zoonotic Diseases, 1, 45–53. Kluwer Academic Publishers, Dordrecht, The Netherlands. R Core Team (2014) R: A Language and Environment for Statisti-
+cal Computing. Rollend L, Fish D, Childs JE (2013) Transovarial transmission
+of Borrelia spirochetes by Ixodes scapularis: a summary of the
+literature and recent observations. Sanchez LM, Wong WR, Riener RM, Schulze CJ, Linington RG
+(2012) Examining the ﬁsh microbiome: vertebrate-derived
+bacteria as an environmental niche for the discovery of
+unique marine natural products. American Journal of
+Tropical Medicine and Hygiene, 25, 784–787. Spielman A, Clifford CM, Piesman J, Corwin MD (1979)
+Human babesiosis on Nantucket Island, USA: description of
+the vector, Ixodes dammini, n. sp. ( Journal
+of Medical Entomology, 15, 218–234. Stamatakis A (2014) RAxML version 8: a tool for phylogenetic
+analysis and post-analysis of large phylogenies.

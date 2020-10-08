@@ -1,0 +1,130 @@
+20 Oct 2004 18:0
+
+AR
+
+AR230-GE38-16.tex AR230-GE38-16.sgm
+
+LaTeX2e(2002/01/18)
+
+P1: IKH
+
+526
+
+RIESENFELD (cid:1) SCHLOSS (cid:1) HANDELSMAN
+
+Size of Metagenomes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 541
+Size of Inserts
+Identifying Sequences of Interest in Large Metagenomic Libraries . . . . . . . . . . . . . 543
+Microscopy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . As of April 1, 2004, GenBank contained 21,466 16S rRNA genes
+from cultured prokaryotes and 54,655 from uncultured prokaryotes, according to
+the search terms described by Rapp´e & Giovannoni (90), and many of those from
+uncultured organisms afﬁliate with phyla that contain no cultured members. Downloaded from www.annualreviews.orgby Georgetown University on 03/22/13. Exploiting the rich micro-
+bial biodiversity for enzyme and natural product discovery is an active research
+area that has been reviewed elsewhere (39, 45, 46, 65, 66, 77, 97, 104). Soil
+
+Various
+
+450
+
+Humanmouth
+
+1.5×107
+3×320,000–580,000
+4×100,000
+2×240,000
+1×80,000
+
+3×∼300,000
+
+Soil&riversediment
+
+Soil&riversediment
+
+15,000
+
+Anaerobicdigester
+
+4×6000–35,000
+825,000
+
+Fecesandsoil
+
+Marine
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+Soil
+
+700,000
+
+n.s. However, the presence of many cloned
+genes on a clone that all show similarity to genes from related organisms can bol-
+ster phylogenetic claims. 20 Oct 2004 18:0
+
+AR
+
+AR230-GE38-16.tex AR230-GE38-16.sgm
+
+LaTeX2e(2002/01/18)
+
+P1: IKH
+
+534
+
+RIESENFELD (cid:1) SCHLOSS (cid:1) HANDELSMAN
+
+and has attracted attention because of its abundance and wide distribution on Earth
+(63, 85). Other gene sequences include those with homology
+to genes encoding cyclic β 1(cid:2)-2(cid:2) glucan synthetase, polyhydroxybutyrate depoly-
+merase, Bacteroides fragilis aerotolerance functions, and an operon distantly re-
+lated to the lincomycin biosynthesis pathway of Streptomyces lincolnensis (85),
+which provide hints about ecological roles of the Acidobacteria. To investigate the phage population in the human gut, Breit-
+bart et al. ( 16) described a metagenomic analysis of
+marine phage collected at two locations. Small-insert libraries are not useful for capturing complex
+pathways requiring many genes, but they provide an appropriate resource for dis-
+covery of new metabolic functions encoded by single genes and for reconstructing
+metagenomes (114, 115). Although both reconstruction studies reported
+sequences from Archaea, which are notoriously difﬁcult to lyse, the Sargasso Sea
+study did not report members of the phyla containing only uncultured organisms,
+so the effect of the DNA extraction on the diversity of DNA in the metagenomic
+libraries method remains unclear. If clones expressing the reporter can be
+identiﬁed rapidly by selection for antibiotic resistance or ﬂuorescence-activated
+cell sorting, then libraries of sufﬁcient size to represent the diversity of a natu-
+ral environment could be screened. Wide distribution and diversity of mem-
+bers of the bacterial kingdom Acidobac-
+terium in the environment. B´ej`a O, Suzuki MT, Koonin EV, Aravind
+L, Hadd A, et al. Eschenfeldt WH, Stols L, Rosenbaum
+H, Khambatta ZS, Quaite-Randall E,
+et al. Microbial evolution, diversity, and ecol-
+ogy: a decade of ribosomal RNA analysis
+of uncultivated microorganisms. Henne A, Schmitz RA, Bomeke M,
+Gottschalk G, Daniel R. 2000. Construction
+and screening of metagenomic libraries
+derived from enrichment cultures: gener-
+ation of a gene bank for genes confer-
+ring alcohol oxidoreductase activity on
+Escherichia coli. Kong YH, Beer M, Seviour RJ, Lindrea
+KC, Rees GN. Identiﬁcation
+of active methylotroph populations in an
+acidic forest soil by stable-isotope prob-
+ing. Analysis of hydrothermal vent-
+associated symbionts by ribosomal RNA
+sequences. Tyson GW, Chapman J, Hugenholtz P,
+Allen EE, Ram RJ, et al. Zeidner G, Preston CM, Delong EF, Mas-
+sana R, Post AF, et al.

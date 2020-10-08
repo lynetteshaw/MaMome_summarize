@@ -1,0 +1,31 @@
+1 Comparison between 16S rRNA gene sequencing and shotgun metagenomic sequencing
+
+Two primary methods for taxonomic proﬁling of microbial communities exist: 16S gene sequencing and whole genome shotgun sequencing (WGS). The advantages and disadvantages of 16S gene sequencing versus WGS methods for the purpose of taxonomic proﬁling are listed in the following. Thus, the hyper-variable regions need to be sequenced instead. • Bias: 16S rRNA sequencing suﬀers from signiﬁcant PCR ampliﬁcation biases. This is a result of diﬀerences in PCR primer binding to certain
+16S rRNA gene sequences, which may cause entire groups of bacteria to be underrepresented in the sample [5]. In addition to PCR ampliﬁcation
+biases, over estimation of α diversity and proﬁling pipeline can also introduce biases in the 16S rRNA data [14]. WGS is a comparatively
+unbiased method for taxonomic proﬁling. In this paper in order to provide detailed information on how our classiﬁers perform in both micro and macro cases, we have reported both micro-
+and macro- averaging precision and recall. In particular we optimized our classiﬁers for macro-F1 to make a trade of between precision and recall as
+well as giving equal importance to all categories. 3 Visualization Methods
+
+Principal component analysis (PCA): is one of the most widely used techniques for dimensionality reduction. Despite its widespread use in modern data analysis, PCA has some
+limitations. Finally, PCA is a linear transformation with
+several constraints, and thus cannot address the non-linearity in the data [18, 1].
+
+t-Distributed Stochastic Neighbor Embedding (t-SNE): is a dimensionality reduction technique which has been successfully applied to
+visualization problems, since it attempts to preserve pairwise distance distribution of points in lower dimensions [19]. Since projection to lower
+dimensions involves the distribution of relative distances, it requires large amounts of data points in order to ﬁnd a meaningful representation. t-SNE
+is a nonlinear transformation with a computational complexity of O(M 2). 4 Body-site classiﬁcation results
+
+4.1 Confusion matrix for body-site classiﬁcation using diﬀerent sampling sizes
+
+As shown in the Figure 1, increase in the sampling size from 100 reads per sample helps in discrimination between similar body-sites (mid-vagina and
+urogenital). Each point presents the average of
+100 resamples belonging to 10 randomly selected 16S rRNA samples. 6
+
+0200040006000800010000Resamplesize(N)0246810¯DS(N,k)(i)Self-inconsistency¯DS,withrespecttoresamplesize(N)demonstratedfordifferentkvaluesinthecrohndiseasedatasetk=3k=4k=5k=6k=7k=80200040006000800010000Resamplesize(N)0.000.020.040.060.080.10¯DR(N,k)(ii)Unrepresentativeness¯DR,withrespecttoresamplesize(N)demonstratedfordifferentkvaluesinthecrohndiseasek=3k=4k=5k=6k=7k=8Figure 3: Confusion matrix for classiﬁcation of 18 ecological environments using SVM classiﬁer. ViSNE enables visualization of high dimensional single-cell data and reveals phenotypic heterogeneity of leukemia. Nature Biotechnology, 31(6):545–552, 2013. [3] Ehsaneddin Asgari and Mohammad R.K. Mofrad. Continuous distributed representation of biological sequences for deep proteomics and genomics. Representation learning: A review and new perspectives. npj Bioﬁlms and Microbiomes, 4(1):2, 2018. The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host and Microbe, 15(3):382–392, 2014. [8] Curtis Huttenhower and Human Microbiome Project Consortium. Structure, function and diversity of the healthy human microbiome. URL http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3564958&tool=pmcentrez&rendertype=abstract. [9] Michael D. Kappelman, Sheryl L. Rifas-Shiman, Ken Kleinman, Dan Ollendorf, Athos Bousvaros, Richard J. Grand, and Jonathan A. Finkelstein. doi:
+
+graphic Distribution of Crohn’s Disease and Ulcerative Colitis in the United States. Clinical Gastroenterology and Hepatology, 5(12):1424–1429, 2007. Diagnosis and classiﬁcation of Crohn’s disease, 2014. Multiplexed quantiﬁcation of proteins and transcripts in single cells. The madness of microbiome: Attempting to ﬁnd consensus best practice for 16S microbiome studies. Applied and Environmental Microbiology, pages AEM.02627–17, 2018. URL http://aem.asm.org/lookup/doi/10.1128/AEM.02627-17. [15] Rachel Poretsky, Luis M. Rodriguez-R, Chengwei Luo, Despina Tsementzi, and Konstantinos T. Konstantinidis. Strengths and limitations of 16S rRNA gene amplicon sequencing
+
+in revealing temporal microbial community dynamics. Analysis of the microbiome: advantages of whole genome shotgun versus 16s amplicon sequencing. Biochemical and biophysical research communications, 469(4):967–977, 2016. Learning representations by back-propagating errors. A tutorial on principal component analysis. URL [PDF].
+
+[19] L J P Van Der Maaten and G E Hinton. Visualizing high-dimensional data using t-sne.

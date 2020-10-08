@@ -1,0 +1,10 @@
+Step 1: Study design and experimental protocol, the importance of this step is 
+often  underestimated  in  metagenomics. Profiling of the functional classes present in a metagenome is hindered by the lack of validated annotations for most genes, an issue 
+that  can  be  mitigated  only  by  expensive  and  low-throughput  gene-specific  functional  studies. Metagenomic  assembly  is  the  preferred  theoretical 
+solution if there is sufficient genome coverage (i.e. >20x), but this level of coverage is difficult to obtain for 
+most  of  the  members  of  the  microbiome  (Table  4)  and  assembly-free  methods  have  other  advantages 
+
+including the possibility to perform large-scale strain-level analyses. Probst, A. J., Weinmaier, T., DeSantis, T. Z., Santo Domingo, J. W. & Ashbolt, N. New 
+perspectives on microbial community distortion after whole-genome amplification. Detection of low-abundance bacterial strains in metagenomic datasets by 
+eigengenome partitioning. Nat Biotechnol 33, 1103-1108, 
+doi:10.1038/nbt.3353 (2015).

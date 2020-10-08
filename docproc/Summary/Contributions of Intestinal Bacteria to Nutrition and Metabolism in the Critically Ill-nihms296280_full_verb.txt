@@ -1,0 +1,70 @@
+Page 2
+
+MICROBES AND NUTRITION DURING CRITICAL ILLNESS
+
+It has been known for decades that intestinal bacteria make important contributions to
+human metabolism and physiology. Author manuscript; available in PMC 2012 August 1. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Morowitz et al. An equally important objective is
+to identify associations between the microbiome and human health and disease [12].
+
+SPECIFIC CONTRIBUTIONS OF THE GUT MICROBIOTA TO HUMAN
+
+METABOLISM
+
+A particularly compelling example of the importance of the gut microbiota to host
+metabolism is provided by comparing the nutritional status of germ-free (GF) and
+conventionally raised laboratory animals. Mechanistic studies in gnotobiotic animals further demonstrated that, when B.
+thetaiotaomicron senses a scarcity of fucose in the intestinal lumen, it actually induces the
+gut epithelium to upregulate expression of fucosylated glycans that can be used by the
+bacteria as an energy source without harming the host [16]. This body of work illustrates
+how the remarkable host-microbe symbiosis can be teased apart by pairing genomic
+sequencing efforts with creative in vivo laboratory studies. Intriguingly, colonization of GF mice with just a single gut microbe (B. thetaiotaocmicron,
+discussed above) also yielded a significant increase in total body fat content, although the
+increase in fat content was less than that seen with transfer of the complete mouse
+microbiota. LESSONS LEARNED FROM STUDIES OF NUTRIENT EXCESS AND
+
+DEPRIVATION
+
+Obesity
+
+Studying the relationship between the gut microbiota and energy balance in the extreme
+states of obesity and starvation may improve our ability to assess and satisfy nutritional
+needs in the ICU. Here, again, metagenomic analyses were used to prove that the gut microbiome of
+animals fed a Western diet is enriched in genes encoding proteins related to energy harvest,
+including phosphotransferase proteins that enable the transport of simple sugars such as
+glucose and fructose. Most mechanistic studies in this area have centered upon production of
+antimicrobial substances to inhibit colonization by pathogens, enhance the mucosal barrier
+function, and downregulate mucosal inflammation [69]. It is particularly interesting that,
+despite the growing awareness of how gut microbes contribute to energy balance and despite
+the administration of probiotics/prebiotics as nutritional supplements, little research on this
+topic has focused on how these agents specifically impact nutrition, metabolism, or energy
+balance. First, it is apparent that future
+evaluations of human nutritional status during critical illness should include consideration of
+the gut microbiota. Acknowledgments
+
+References
+
+This work was supported by Grant No. GM62344-11 (JCA) from the National Institutes of Health. High-throughput diversity and functionality
+analysis of the gastrointestinal tract microbiota. Proc Natl Acad Sci U S A. 1999; 96(17):9833–
+9838. [ 2000; 130(7):1857S–64S. [PubMed: 10867063]
+
+19. Utilization of essential amino acids synthesized in the intestinal microbiota
+
+of monogastric mammals. Urea nitrogen salvage mechanisms and their relevance to ruminants, non-
+
+ruminants and man. The metabolism of carbon-labeled urea in the
+
+germ free rat. Turnbaugh PJ, Backhed F, Fulton L, et al. A core gut microbiome in obese and lean twins. Regulation of myocardial ketone body
+
+metabolism by the gut microbiota during nutrient deprivation. Prolonged impact of antibiotics on intestinal microbial
+
+ecology and susceptibility to enteric salmonella infection. de Smet A, Kluytmans JA, Cooper BS, et al. The effect of selective decontamination of the
+
+digestive tract on mortality in multiple trauma patients: A multicenter randomized controlled trial. Probiotics and prebiotics in dietetics practice. Long J, Zaborina O, Holbrook C, Zaborin A, Alverdy J. Depletion of intestinal phosphate after
+
+operative injury activates the virulence of P aeruginosa causing lethal gut-derived sepsis.

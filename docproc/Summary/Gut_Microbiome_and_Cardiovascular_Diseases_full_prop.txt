@@ -1,0 +1,108 @@
+Diseases 2018, 6, 56
+
+2 of 10
+
+between the gut microbiome and CVDs to promote an understanding of the latest perspectives of the
+role of the gut microbiome in CVDs. Moreover, we have raised several issues that should be considered
+when interpreting previous evidence. Trimethylamine-N-oxide and CVDs
+
+A close relationship between the gut microbe-dependent production of trimethylamine-N-oxide
+(TMAO), derived from speciﬁc dietary nutrients such as choline and carnitine, and future
+cardiovascular events has been widely recognized [10]. Trimethylamine (TMA), which is produced by
+the gut microbial enzymes TMA lyases, is a precursor of TMAO. 2015 J. Card Fail
+
+Patients who were undergoing elective
+diagnostic cardiac catheterization
+
+Stable heart failure patients underwent
+elective coronary angiographic evaluation
+
+Chronic systolic heart failure with
+comprehensive echocardiographic evaluation
+
+112 in USA
+
+Adverse clinical events
+(death/transplantation)
+
+2016 Heart
+
+Acute heart failure
+
+972 in UK
+
+All-cause mortality (death) and a
+composite of death or re-hospitalization
+due to heart failure (death/HF)
+
+2016
+
+Am. These metabolites have
+also been reported to have a link to CVDs. The increased production of acetate by the gut microbiota of rodents leads to the activation
+of the parasympathetic nervous system, which promotes increased glucose-stimulated insulin secretion,
+hyperphagia, and obesity. High serum levels
+of phenylacetylglutamine have been observed in patients with advanced chronic kidney disease,
+and as a strong and independent risk factor for overall mortality and cardiovascular diseases [24].
+P-cresyl sulfate, a secondary metabolism of p-cresol, is also a microbial metabolite. The Firmicutes/Bacteroidetes ratio, an indicator of dysbiosis, increased in the CAD patients
+compared with the non-CAD controls. was also signiﬁcantly higher in the patients
+with CAD than in the healthy subjects. was found to decrease in
+patients with atherosclerotic ischemic stroke and transient ischemic attack [27], Bacteroides spp. Furthermore, Faecalibacterium prausnitzii,
+which exhibits anti-inﬂammatory effects [32], was also signiﬁcantly depleted in the CAD patients. Of note, the co-abundance network structure differed between the two groups. The negative
+
+Diseases 2018, 6, 56
+
+5 of 10
+
+correlations between Streptococcus spp. On the other hand, the positive correlation between Bacteroides spp. and Erysipelotrichaceae bacterium
+was seen only in the healthy subjects. Year
+
+Study Population
+
+Country
+
+Analysis
+
+Results
+
+2012 Nat. 12 patients with symptomatic atherosclerosis
+(myocardial infarction or cerebrovascular events)
+and 13 age- and sex-matched healthy individuals. Sweden
+
+Gut metagenome
+
+Collinsella ↑, Eubacterium ↓, Roseburia ↓ in patients
+with symptomatic atherosclerosis. China
+
+Gut metagenome
+
+Enterobacteriaceae (Escherichia coli, Klebsiella spp., and Enterobacter aerogenes),
+Streptococcus spp., Issues to Be Considered When Interpreting the Studies
+
+Most clinical studies compare the gut microbial composition between patients and healthy controls. While we already know that diet, prebiotics, probiotics, a speciﬁc IgA antibody, and enzymes can
+modulate the gut microbiome and its function [38,39], these interventions for patients with CVD are
+constrained by ethical considerations or funding limitations. In such cases, an in vitro fermentation
+system simulating the human intestinal tract may help to evaluate the functionality or safety of these
+interventions under highly reproducible conditions without the ethical issues [40]. Speciﬁcally, we can
+culture feces from patients with prebiotics or probiotics in an in vitro fermentation system and analyze
+how the gut microbiome, and its metabolites and functions, are changed after the intervention. With increasing awareness of the relationship between the
+gut microbiome and CVD, we have high expectations for the clinical application of gut microbiome
+modulation. Author Contributions: T.Y. conceived and wrote the manuscript and made critical revisions. Funding: This research was funded by JSPS KAKENHI Grant Number 24591114, 16K09516 (T.Y.) and 17K09497
+(K.H.), The Japanese Circulation Society Translational Research Foundation (K.H.), Uehara Memorial Foundation
+(K.H.), Takeda Scientiﬁc Foundation (T.Y.), Senshin Medical Research Foundation (T.Y.), Yakult Bioscience Research
+Foundation (T.Y.), Hyogo Science and Technology Association (T.Y. and K.H.), and Kondou Kinen Medical
+Foundation (T.Y.). Article Processing Charges was sponsored by MDPI. Conﬂicts of Interest: The authors declare no conﬂicts of interest. Hyperresponsivity to low-dose endotoxin during progression to nonalcoholic steatohepatitis
+is regulated by leptin-mediated signaling. CrossRef] [PubMed]
+Tang, W.H.W.; Kitai, T.; Hazen, S.L. Gut Microbiota in Cardiovascular Health and Disease. CrossRef] [PubMed]
+Ridker, P.M.; Danielson, E.; Fonseca, F.A.H.; Genest, J.; Gotto, A.M.J.; Kastelein, J.J.P.; Koenig, W.; Libby, P.;
+Lorenzatti, A.J.; MacFadyen, J.G.; et al. Heart Disease and Stroke Statistics—2018 Update: A Report From the
+American Heart Association. Tang, W.H.; Wang, Z.; Fan, Y.; Levison, B.; Hazen, J.E.; Donahue, L.M.; Wu, Y.; Hazen, S.L. Prognostic value
+of elevated levels of intestinal microbe-generated metabolite trimethylamine-N-oxide in patients with heart
+failure: Reﬁning the gut hypothesis. Hu´c, T.; Nowinski, A.; Drapala, A.; Konopelski, P.; Ufnal, M. Indole and indoxyl sulfate, gut bacteria
+metabolites of tryptophan, change arterial blood pressure via peripheral and central mechanisms in rats. Emoto, T.; Yamashita, T.; Kobayashi, T.; Sasaki, N.; Hirota, Y.; Hayashi, T.; So, A.; Kasahara, K.; Yodoi, K.;
+Matsumoto, T.; et al. Proton pump inhibitors alter the composition of the gut microbiota. Dysbiosis and compositional alterations with aging in the gut microbiota of patients with
+heart failure. Cui, X.; Ye, L.; Li, J.; Jin, L.; Wang, W.; Li, S.; Bao, M.; Wu, S.; Li, L.; Geng, B.; et al. Predictive functional proﬁling of microbial communities
+using 16S rRNA marker gene sequences. Kanehisa, M.; Furumichi, M.; Tanabe, M.; Sato, Y.; Morishima, K. KEGG: New perspectives on genomes,
+
+37. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

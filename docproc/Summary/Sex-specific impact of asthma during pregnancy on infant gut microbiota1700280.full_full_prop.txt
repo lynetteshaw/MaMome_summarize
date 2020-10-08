@@ -1,0 +1,85 @@
+it
+
+Introduction
+Asthma is a common chronic disorder during pregnancy, affecting between 8% and 13% of pregnant
+women [1];
+is often a comorbid condition with food and environmental allergies [2]. Asthma
+exacerbation rates during pregnancy are high [3], and more severe asthma or poor symptom control have
+been associated with low birthweight [4–7]. A greater risk for childhood asthma following uncontrolled
+versus controlled maternal asthma during pregnancy has been reported [8]. These variations in risk to the
+offspring point to a potential in utero influence of maternal asthma. Written informed
+consent was obtained from all mothers. Hospital birth records
+provided data on mode of delivery, sex and infant exposures during birth. Any
+treatment for asthma, as indicated by hospitalisation, a physician’s visit or medication use, has been
+validated as a measure for asthma morbidity during pregnancy [22]. The 12-month assessment period of
+included the time just prior to conception. Faecal samples were
+then transported to the laboratory in a cooler, where they were divided into aliquots and stored at −80°C
+prior to DNA extraction and sequencing. The sequences were then quality filtered by removing reads having more than 10 sites with
+a Phred quality score less than 20. The metrics of OTU (microbial) relative
+abundance and diversity (Shannon and Simpson diversity indices, Chao1 species richness index) were
+generated in QIIME to profile infant gut microbiota in individual faecal samples. With the
+exception of Firmicutes being less abundant in female infants born to women with asthma ( p=0.03), no
+other differences were evident in phylum abundance, microbial richness or diversity between infants born
+to women with versus those without prenatal asthma (supplementary figure S1, supplementary table S1). Comparisons were performed
+using the Wilcoxon rank sum test. The false discovery rate (FDR) was used to adjust p-values for multiple
+testing and crude p-values <FDR p-values are indicated by “#”. The p-values <0.1 are reported and
+p-values <0.05 are indicated in bold. ¶: The p-value for the sex interaction term for differences in Megasphera
+abundance related to maternal atopic asthma was 0.14 (ART test). https://doi.org/10.1183/13993003.00280-2017
+
+5
+
+ASTHMA | P.T. KOLEVA ET AL. Unclassified Megasphera species (LDA score 3.34, p=0.003) were
+comparatively less abundant and Bacteroides fragilis (LDA 3.29, p=0.02) were more abundant in female
+Caucasian infants born to mothers with atopic asthma. Infants of mothers with asthma harboured fewer lactobacilli in their gut microbiota, especially if
+
+https://doi.org/10.1183/13993003.00280-2017
+
+6
+
+ASTHMA | P.T. KOLEVA ET AL. restricted to Caucasian infants; +: comparison of Lactobacillus was the
+primary hypothesis. OR: odds ratio; aOR: adjusted odds ratio; CI: confidence interval. While no prior evidence exists for maternal prenatal asthma,
+these findings are compatible with the reduced Lactobacillales abundance observed in the meconium of
+newborns of mothers with eczema, and lower faecal colonisation with Lactobacillus species in infants of
+atopic parents [14, 28]. In our study, male infants born to mothers with prenatal asthma were one-third
+(aOR 0.26, 95% CI: 0.07–0.89) as likely to be colonised with high levels of lactobacilli, independent of
+maternal overweight or atopy status, birth mode or infant diet. These associations were not present in
+female offspring. Further,
+amniotic fluid are capable of modulating expression of toll-like receptor genes in the fetal gut [37]. In our
+study, the reduction in Lactobacillus abundance was most apparent among infants whose mothers had
+asthma and overweight or a history of allergies. Both
+Megasphaera and Bacteroidaceae microbes produce propionate, but under opposing conditions. A.L. Kozyrskyj conceived the study and obtained funding, designed the analyses and wrote the final
+version of the manuscript. Under the supervision of J.A. Scott, T. Konya
+conducted DNA extraction and sample preparation for sequencing in the laboratory of D. Guttman. Pali-Scholl I, Motala C, Jensen-Jarolim E. Asthma and allergic diseases in pregnancy: a review. Maternal and neonatal outcomes of pregnancies complicated by asthma in an
+Australian population. Stensballe LG, Simonsen J, Jensen SM, et al. Use of antibiotics during pregnancy increases the risk of asthma in
+early childhood. Koren O, Goodrich JK, Cullender TC, et al. Host remodeling of the gut microbiome and metabolic changes
+during pregnancy. Neonatal adiposity increases the risk of atopic dermatitis
+
+during the first year of life. The Canadian Healthy Infant Longitudinal Development (CHILD) birth
+cohort study: assessment of environmental exposures. J Allergy Clin Immunol 2003; 112: 283–288. Bokulich NA, Subramanian S, Faith JJ, et al. Quality-filtering vastly improves diversity estimates from Illumina
+amplicon sequencing. Banjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful approach to multiple
+testing. Novel developmental analyses identify longitudinal patterns of early gut
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+microbiota that affect infant growth. Rautava S, Collado MC, Salminen S, et al. Gut microbiota and allergic disease in children. Lactate-utilizing bacteria, isolated from human feces, that produce butyrate as a
+
+major fermentation product. J Pediatr Gastroenterol Nutr 2014; 59: 78–88. Intestinal microbiota of 6-week-old infants across Europe: geographic influence
+beyond delivery mode, breast-feeding, and antibiotics.

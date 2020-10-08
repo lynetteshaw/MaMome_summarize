@@ -1,0 +1,111 @@
+Food & Function
+
+Paper
+
+total resveratrol administered was recovered in the form of
+resveratrol, dihydroresveratrol and derived metabolites (65.1%
+along the gastrointestinal tract, and 0.5% in other tissues).17 So,
+it may be very diﬃcult to reach eﬀective concentrations in
+metabolism regulating tissues in vivo, e.g. visceral adipose
+tissues. Aer hybridization, 150 ml of hybridization solution
+4 ng ml
+was added, centrifuged at 4000 (cid:5) g for 15 min at room
+temperature and then incubated in 200 ml of washing solution
+(cid:4)1
+(65 mmol l
+EDTA, pH 8.0, 0.01% SDS) at 37 (cid:3)C for 20 min. Ornithine carbamoyl-transferase frozen liver tissue was sectioned
+at 3–5 mm thickness and stained with oil red O. Histological
+assessment of the tissue morphology was performed using an
+Olympus light microscope (Olympus, Tokyo, Japan). Downloaded by University of Tennessee at Knoxville on 22/08/2014 19:06:30. View Article OnlinePaper
+
+Food & Function
+
+Table 1 Gene-speciﬁc primers used in qRT-PCR assaysa
+
+Gene name
+
+Abbreviation
+
+Primer sequences (50–30)
+
+Amplicon size (bp)
+
+Fasting-induced adipose factor
+
+Lipoprotein lipase
+
+Cholesterol 7a-hydroxylase
+
+Stearoyl-CoA desaturase 1
+
+Peroxisome proliferator activated
+receptor g
+Acetyl-CoA carboxylase 1
+
+Fatty acid synthase
+
+a F, forward; R, reverse. Each assay was performed in
+duplicate in the same run. The data were expressed as
+means with their standard errors. Results
+Eﬀect of a high-fat diet and RES treatment on the body weight
+and adiposity weight
+
+The phenotype data indicated that the animals on the control
+liver, and abdominal fat weight. The relative
+abundance of the major bacterial groups indicated that, even
+when considering a degree of interindividual variation, the HF
+diet induced the gut microbiota dysbiosis (Fig. Moreover, the principal coordinate analysis scores plot
+in Fig. View Article OnlineFood & Function
+
+Paper
+
+Fig. Mean values were signiﬁcantly diﬀerent compared with those of the HF
+group: † P < 0.05. CT, normal chow diet-fed mice; HF, high-fat diet-fed mice; HF-RES, mice fed with HF supplemented with RES. HDL-C, high density lipoprotein
+cholesterol; LDL-C, low density lipoprotein cholesterol. In contrast, RES ingestion normalized the expression of Scd1
+(Fig. However, RES treatment signicantly suppressed the expres-
+sion of Ppar-g, Acc1 and Fas, suggesting that RES inhibits
+storage of triglycerides in the adipocytes (Fig. Gut microbes, as environmental factors, may regulate fat
+storage and aﬀect energy metabolism homeostasis, by acceler-
+ation of the processing of dietary polysaccharides and induction
+of de novo lipogenesis.6,28 In the present study, both the relative
+abundance of the major bacterial divisions and principal coor-
+dinate analysis showed that, the HF diet induced the gut
+microbiota dysbiosis. These ndings are in line with Cani et al. ,29
+who found that the high-fat diet disrupted gut microbiota by
+promoting the growth of endotoxin producers. In addition, there was a decrease in the Lactobacillus
+and Bidobacterium frequencies and an increase of Enterococcus
+faecalis in HF mice compared with CT mice, which agree with
+our previous studies that a high-fat diet signicantly decreases
+the number of Lactobacillus and increases the number of
+Enterococcus faecalis.30 Aer resveratrol intake, the numbers of
+Lactobacillus and Bidobacterium were signicantly increased. Similar results were reported by Larrosa et al. The
+mechanism of how resveratrol aﬀects the gut microbiota
+remains an important eld of future research. Bacte-
+rial quantities are expressed as a percentage of EUB338 (n ¼ 8). ( D) The
+Bacteroidetes-to-Firmicutes ratios contributed by the indicated target
+bacterial populations (n ¼ 8). This journal is © The Royal Society of Chemistry 2014
+
+Food Funct., Bacterial quantities are expressed as relative abundance (%). and Lactobacillus
+acidophilus, and Neyrinck et al.40 demonstrated that a poly-
+phenol-rich extract of pomegranate peel increased the caecal
+content weight and caecal pool of Bidobacteria spp. Each relative mRNA expression was determined by the ratio of
+intensity to b-actin production. Values are means, with their standard errors represented by vertical bars (n ¼ 6). 6 Eﬀects of high-fat diet and RES supplementation on adipocyte hypertrophy through the PPAR signaling pathway in OP mice. ( A) The
+corresponding hematoxylin- and eosin-stained epididymal fat sections are shown. ( 2014, 5, 1241–1249 | 1247
+
+Published on 01 April 2014. 31201805), the Fundamental
+Research Funds for the Central Universities (no. Resveratrol transport and metabolism by
+human intestinal Caco-2 cells, J. Pharm. Distribution of [14C]-trans-resveratrol, a
+cancer chemopreventive polyphenol, in mouse tissues aer
+oral administration, Life Sci., Quantication of cytokine mRNA expression
+by RT PCR in samples of previously frozen blood, J. Immunol. 28 C. A. Tennyson and G. Friedman, Microecology, obesity, and
+probiotics, Curr. Gut microbiota as a regulator of energy
+homeostasis and ectopic fat deposition: mechanisms and
+implications for metabolic disorders, Curr. and dietary polyphenols:
+
+35 R. A. Kemperman, et al., Novel approaches for analysing gut
+and
+
+microbes
+opportunities, Microbiology., 38 N. Fei and L. Zhao, An opportunistic pathogen isolated from
+the gut of an obese human causes obesity in germfree mice,
+ISME J., 2012, 7(4), 880–884.

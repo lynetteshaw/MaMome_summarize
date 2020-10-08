@@ -1,0 +1,123 @@
+Pregnancy and the Microbiome
+
+that we are born germ free (Tissier, 1900) and is still the belief
+of many physicians, numerous pieces of evidence now cast
+doubt on this hypothesis, and suggest that a bacterial presence
+already exists in the feto-placental unit (Hu et al., Moreover, we suggest that the
+changes in the human microbiome are deeply connected to
+the host’s physiological status, and that
+these associations
+have developed throughout co-evolution of microbiome and
+host
+to ensure improved ﬁtness. The diﬀerences
+in microbiota composition at each body site are shaped by the
+varying environmental conditions such as pH, levels of oxygen,
+availability of nutrients, humidity, and temperature, enabling
+various populations to thrive and perform diﬀerent functions
+while interacting with the human host (Ursell et al., A wide range of factors can cause shifts in the composition
+of
+the microbiota (termed dysbiosis). Pregnancy and the Microbiome
+
+FIGURE 1 | Microbiome changes during pregnancy. In an attempt to reveal the roles of the third trimester
+microbial proﬁles, fecal transplantation was used to transfer
+samples of ﬁrst- and third-trimester fecal microbiotas to germ-
+free (GF) mice, and test
+their physiological eﬀects. In a recent study in mice, Gohir et al. ( A study in which probiotics were administered to
+pregnant women 14 days before C-section revealed modulation
+of the infant microbiota, implying an early maternal eﬀect on the
+oﬀspring’s microbiota (Rautava et al., Accordingly, in a study in
+which mothers with allergic disease and atopic sensitization
+received probiotics during the last 2 months of pregnancy and
+the ﬁrst 2 months of lactation, a reduced risk for eczema in
+the oﬀspring was observed compared to placebo treatment
+(Rautava et al., As in the gut, the vaginal microbiome undergoes signiﬁcant
+changes during pregnancy, including a signiﬁcant decrease in
+overall diversity, increased stability (the community composition
+changes over time), and enrichment with Lactobacillus species
+(Aagaard et al., It was believed that cases
+
+Frontiers in Microbiology | www.frontiersin.org
+
+5
+
+July 2016 | Volume 7 | Article 1031
+
+Nuriel-Ohayon et al. With
+the emergence of microbiome research and the realization that
+changes in the maternal microbiome compositions occur during
+pregnancy, it has been suggested that there may be correlations
+between the microbial communities present, and the health of the
+pregnancy (Mysorekar and Cao, 2014). and
+and Ureaplasma,
+higher alpha diversity. Alternatively, it was suggested that
+hematogenous spread of oral microbes to the placenta might be
+a driver of preterm birth (Aagaard et al., as
+
+for
+
+Finally,
+
+evidence
+
+a placental microbiome
+
+is
+accumulating, one emerging question is whether these bacterial
+communities are diﬀerent in cases of pregnancy complications
+such as preterm births. Interestingly, the mode of delivery has an eﬀect on the infant’s
+oral microbiome, as well (Lif Holgerson et al., However,
+none of
+these studies directly tested the role of bacteria
+colonizing the newborn in the development of disease. When comparing the gut, oral, and skin bacterial
+communities of the C-section delivered babies, those exposed
+to vaginal ﬂuids revealed signiﬁcantly more vagina-associated
+bacteria, making their compositions more similar to vaginally
+born infants. The most dominant bacteria in the colostrum (the ﬁrst milk
+produced during late pregnancy, and contains antibodies)
+included Weisella, Leuconostoc, Staphylococcus, Streptococcus,
+and Lactococcus, whereas milk samples collected 1–6 months
+post-partum harbored oral cavity related bacteria such as
+Veillonella, Leptotrichia, and Prevotella, perhaps due to frequent
+interaction with the infant’s oral microbiota (Cabrera-Rubio
+et al., Text refers to changes in breast milk vs. formula feeding. For example, similar
+characteristics and changes occur in pregnancy as in metabolic
+syndrome, including dysbiosis, inﬂammation, and weight gain. HN was supported by Ministry of Science, Technology &
+Space, State of Israel. ( A metagenomic approach to characterization of the vaginal microbiome
+signature in pregnancy. Gut microbiota and
+allergy: the importance of the pregnancy period. doi: 10.1515/jpm.2010.078
+
+DiGiulio, D. B., Romero, R., Kusanovic, J. P., Gomez, R., Kim, C. J., Seok, K. S.,
+et al. ( doi: 10.1016/S0083-6729(06)77011-X
+
+Fujiwara, N., Tsuruda, K., Iwamoto, Y., Kato, F., Odaki, T., Yamane, N., et al. 10.1056/NEJM200005183422007
+
+Gomez-Arango, L. F., Barrett, H. L., McIntyre, H. D., Callaway, L. K., Morrison,
+M., Nitert, M. D., and group, S. T. (2016). Connections between the gut
+microbiome and metabolic hormones in early pregnancy in overweight and
+obese women. First-pass meconium samples from healthy term vaginally-
+delivered neonates: an analysis of the microbiota. Kelly, D., Campbell, J. I., King, T. P., Grant, G., Jansson, E. A., Coutts, A.
+G., et al. ( Commensal anaerobic gut bacteria attenuate inﬂammation
+by regulating nuclear-cytoplasmic shuttling of PPAR-gamma and RelA. Nat. Succession of microbial consortia in the developing infant gut
+microbiome. doi: 10.1016/j.jaci.2008.11.019
+
+Kujovich, J. L. (2004). doi: 10.1177/0022034511418973
+
+Lozupone, C. A., Stombaugh, J. I., Gordon, J. I., Jansson, J. K., and Knight, R.
+(2012). doi:
+10.1128/AEM.02063-08
+
+McLean, N. W., and Rosenstein, I. J. (2000). doi: 10.1055/s-0033-1361830
+
+Naik, S., Bouladoux, N., Wilhelm, C., Molloy, M. J., Salcedo, R., Kastenmuller,
+W., et al. ( Role of cytokines
+
+in preterm labor and birth. doi:
+10.1016/j.jaci.2012.03.010
+
+Valles, Y., Artacho, A., Pascual-Garcia, A., Ferrus, M. L., Gosalbes, M. J., Abellan, J.
+J., et al. ( Intrauterine growth restriction: diagnosis and
+
+management. This is an open-access article
+distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) or licensor are credited and that the original publication in this
+journal is cited, in accordance with accepted academic practice.

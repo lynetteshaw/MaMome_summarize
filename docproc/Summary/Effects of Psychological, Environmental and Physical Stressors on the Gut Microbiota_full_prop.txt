@@ -1,0 +1,124 @@
+Brief Reviews
+
+  e
+Th
+
+Journal of
+
+Immunology
+
+The Impact of Maternal Microbes and Microbial
+Colonization in Early Life on Hematopoiesis
+
+Downloaded from 
+
+http://www.jimmunol.org/
+
+ by guest on June 25, 2020
+
+function of the immune system at distal tissues, including
+primary lymphoid organs, such as the bone marrow (BM) and
+thymus. 2
+
+Copyright (cid:1) 2018 by The American Association of Immunologists, Inc. 0022-1767/18/$35.00
+
+Kathy D. McCoy and Carolyn A. Thomson
+
+All body surfaces are colonized by microbes, which oc-
+curs through a dynamic process over the ﬁrst few years
+of life. Initial colonizing microbes are transferred from
+the maternal microbiota to the newborn through ver-
+tical transmission. Received for publication December 22, 2017. Many factors, including
+diet, antibiotic exposure, genotype, and method of delivery
+(vaginal versus caesarean), are known to shape the developing
+microbiome (1), and it is of crucial importance that we un-
+derstand how these factors subsequently impact the develop-
+ing immune system. As a result,
+
+these pups rapidly succumbed to experimental infection with
+Escherichia coli or Klebsiella pneumoniae. This study revealed that
+maternal Ab-mediated vertical transfer of maternal microbial
+components vastly altered gene expression in the intestine of
+
+The Journal of Immunology
+
+2521
+
+Downloaded from 
+
+http://www.jimmunol.org/
+
+ by guest on June 25, 2020
+
+FIGURE 1. This has been shown to impact the immune cell repertoire in the intestine and may affect susceptibil-
+ity to intestinal pathogens. ( One intriguing possibility that may account for
+some of the changes in the neonatal immune system in re-
+sponse to maternal colonization is raised by older studies il-
+lustrating the presence of maternally derived hematopoietic
+stem cells (HSCs) and other hematopoietic progenitor cells in
+cord blood (21), from where they may seed the BM of the
+developing fetus. Recent work shows that the dif-
+ferentiation fate of an HSC clone down a particular lineage is
+predetermined by epigenetic modiﬁcations that are thought to
+arise early during its development (23). In that study, microbial colonization during
+neonatal life was shown to be required to limit accumulation
+of invariant NK T cells in the lung and colon, and this effect
+was mediated through microbiota-mediated epigenetic regu-
+lation of CXCL16 (24). Microbes ﬁne-tune hematopoiesis during steady-state
+
+In addition to stimulation following early life colonization,
+recent studies have shown that steady-state hematopoiesis can
+be regulated by the commensal microbiota; this is likely im-
+portant for ﬁne-tuning immunity (Fig. Although it was unclear what
+cell types mediated this response, one possibility is that it
+reﬂects regulation of secondary mediator production by in-
+testinal enterocytes stimulated by MAMPs from the com-
+mensal bacteria. These effects of
+hematopoiesis have functional consequences on host immune responses, reducing susceptibility to intestinal pathogens and modulating inﬂammatory responses, such as
+to allergic airway challenge. Importantly, the BM phenotype could be rescued by treat-
+ment with the antibiotic vancomycin, suggesting the in-
+volvement of Gram-positive organisms, and it could be
+phenocopied by transferring microbiota from mice fed the
+high-fat diet to normal mice, suggesting a causative role for
+the microbiota in mediating the hematopoietic changes. They found that exogenous administration of
+the microbial metabolite propionate led to alterations in he-
+matopoiesis, with a reduction in macrophage and dendritic
+cell (DC) precursors in the BM. Thus, deﬁned changes in the microbiota,
+resulting from antibiotic use or changes in our diet, may have
+drastic effects on how our immune system tackles challenges
+as a result of effects on hematopoiesis. In the case of
+infection with E. coli, a TLR4-
+dependent increase in circulating G-CSF leads to a massive
+release of mature neutrophils into the circulation, as well as an
+expansion of monocytes and immature neutrophils in the BM
+(50). 2
+
+Neutrophil release from the BM is dependent on G-CSF
+produced by vascular endothelial cells in response to TLR
+ligation. Development of intestinal microbiota in infants and its impact on health. Person, M. K., D. H. Esposito, R. C. Holman, J. M. Mehal, and B. J. Stoll. Risk factors for infectious disease death among infants in the United States. Early empiric antibiotic use
+in preterm infants is associated with lower bacterial diversity and higher relative
+abundance of Enterobacter. I. Reference values for neutrophilic cells. Functional
+characterization of human receptors for short chain fatty acids and their role in
+polymorphonuclear cell activation. Thorburn, A. N., C. I. McKenzie, S. Shen, D. Stanley, L. Macia, L. J. Mason,
+L. K. Roberts, C. H. Wong, R. Shim, R. Robert, et al. Nakajima, A., N. Kaga, Y. Nakanishi, H. Ohno, J. Miyamoto, I. Kimura, S. Hori,
+T. Sasaki, K. Hiramatsu, K. Okumura, et al. Broxmeyer, H. E. G., G. Hangoc, S. Cooper, R. C. Ribeiro, V. Graves, M. Yoder,
+J. Wagner, S. Vadhan-Raj, L. Benninger, P. Rubinstein, et al. The neo-
+natal window of opportunity-early priming for life. Published erratum appears
+in 2017 Cell 168: 944–945.] B cell development and proliferation of mature B cells in human
+fetal intestine. Microbial colonization inﬂuences early B-lineage development in the gut lamina
+propria. Gut microbiota metabolism of dietary ﬁber inﬂuences allergic
+airway disease and hematopoiesis. Balmer, M. L., C. M. Sch€urch, Y. Saito, M. B. Geuking, H. Li, M. Cuenca,
+L. V. Kovtonyuk, K. D. McCoy, S. Hapfelmeier, A. F. Ochsenbein, et al. Sensing of
+the microbiota by NOD1 in mesenchymal stromal cells regulates murine hemato-
+poiesis. Microbes inside–from diversity to function:
+
+the case of Akkermansia. The lineage2c-Kit+Sca-1+ cell response to Escherichia coli bacteremia in
+Balb/c mice. Pivotal role
+of granulocyte colony-stimulating factor in the development of progenitors in the
+common myeloid pathway. Boettcher, S., R. C. Gerosa, R. Radpour,
+
+J. Bauer, F. Ampenberger,
+M. Heikenwalder, M. Kopf, and M. G. Manz. Welner, R. S., R. Pelayo, Y. Nagai, K. P. Garrett, T. R. Wuest, D. J. Carr,
+L. A. Borghesi, M. A. Farrar, and P. W. Kincade. The multifaceted biology of plasmacytoid
+
+dendritic cells.

@@ -1,0 +1,80 @@
+Competing interests: The authors have declared
+that no competing interests exist. Ethical aspects
+
+The present study conforms to the principles outlined in the Declaration of Helsinki. ADONIS and ANOSIM statistical test were used
+to detect significant differences in the overall microbial community by using the unweighted
+UniFrac distance matrices or OTU table. Multiple regression analyses were performed to evaluate the associations between infant
+microbial taxa abundance (dependent variable) and maternal nutrient intakes or laboratory
+variables, after adjusting for gestational weight change, breastfeeding and Cesarean section
+(Statistica, ver. The correlation plot between
+maternal nutrient intakes and infant gut microbiota showed a higher number of significant
+associations with maternal variables at enrolment than at the study-end (Fig 3). In a multiple regres-
+sion model, after adjusting for weight change, breastfeeding and Cesarean section, associations
+between infant Ruminococcus with maternal oligosaccharide (positive association) and with
+maternal intake of SFA (inverse association) were found, even if not reaching the defined
+cutoff of p-values. Statistically significant associations between infant microbiota composition and maternal variables by Spearman’s correlations for continuous variables
+(left) and multiple regression analyses (right). Ten out of the 29 (34.5%) newborns were breastfed by their mothers, while 19 (65.5%)
+were formula-fed. Gut microbiota signature at sub-genus level
+
+In order to explore the possible mother-to-infant gut microbiota transmission at sub-OTUs
+level, we carried out oligotyping on sequences of Blautia, Bacteroides and Bifidobacterium
+since these were the only genera showing a Shannon entropy index sufficient to identify all
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019
+
+8 / 18
+
+GDM offspring gut microbiota composition
+
+Fig 5. These taxa can be considered as pro-inflammatory and have been
+found to be higher in the meconium of babies from T2DM mothers [24]. Furthermore, Para-
+bacteroides have been reported to be enriched in GDM patients when compared to healthy
+subjects [18]. In our previous study [17], we have observed an increased, though not
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019
+
+10 / 18
+
+GDM offspring gut microbiota composition
+
+statistically significant, relative abundance of Parabacteroides across pregnancy from enrol-
+ment to study end. Nutritional recommendations were given to our women between 24–28 weeks of gesta-
+tional age, at the time of the oral glucose challenge test and GDM diagnosis [17]. Only 34.1%
+of our participants resulted compliant to the nutritional advice; indeed, dietary adherence and
+nutritional habits at the end of pregnancy did not influence the offspring microbiota. This hypothesis needs
+to be confirmed by further studies. Heat-plot of the abundances of OTUs at genus level. Heatplot showing OTUs of
+GDM patients at enrolment (red bars), study end (green bars) and their offspring (blue bars). Inner bars indicate the presence of an oligotype
+in a given sample. Formal analysis: Valentina Ponzo, Ilario Ferrocino, Adriana Zarovska, Maria Bernadette
+
+Amenta, Clara Monzeglio, Roberto Gambino, Simona Bo. Microbiol Mol
+Biol Rev. 2017; 81: e00036–17. Ficara M, Pietrella E, Spada C, Della Casa Muttini E, Lucaccioni L, Iughetti L, et al. Chu DM, Ma J, Prince AL, Antony KM, Seferovic MD, Aagaard KM. https://doi.org/10.1038/nm.4272 PMID: 28112736
+
+9. https://doi.org/10.1186/s40168-018-0475-7 PMID:
+29751830
+
+11. Dabelea D. The Predisposition to Obesity and Diabetes in Offspring of Diabetic Mothers. Crusell MKW, Hansen TH, Nielsen T, Allin KH, Ru¨ hlemann MC, Damm P, et al. Wang J, Zheng J, Shi W, Du N, Xu X, Zhang Y, et al. Changes in the gut micro-
+biota composition during pregnancy in patients with gestational diabetes mellitus (GDM). Associazione Medici Diabetologi (AMD); Società Italiana di Diabetologia (SID). Evaluation of general 16S ribo-
+
+somal RNA gene PCR primers for classical and next-generation sequencing-based diversity studies. https://doi.org/10.1136/gut.2006.100164 PMID: 17047098
+
+46. Mshvildadze M, Neu J, Shuster J, Theriaque D, Li N, Mai V. Intestinal microbial ecology in premature
+infants assessed with non-culture-based techniques. https://doi.org/10.1186/s40168-016-0200-3 PMID:
+27756413
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019
+
+16 / 18
+
+GDM offspring gut microbiota composition
+
+54. The association between maternal
+
+nutrition and lifestyle during pregnancy and 2-year-old offspring adiposity: analysis from the ROLO
+study. Zeitschrift Fur Gesundheitswissenschaften. Maternal obesity is associated
+
+with alterations in the gut microbiome in toddlers. Russell SL, Gold MJ, Reynolds LA, Willing BP, Dimitriu P, Thorson L, et al. Jime´nez E, Ferna´ ndez L, Marı´n ML, Martı´n R, Odriozola JM, Nueno-Palop C, et al. Association between breast milk bacte-
+rial communities and establishment and development of the infant gut microbiome. Intestinal microbiota of 6-week-old infants
+across europe: geographic influence beyond delivery mode, breast-feeding, and antibiotics. https://doi.org/10.1371/journal.pone.0078331 PMID:
+24244304
+
+80. Human milk and related oligosaccharides as prebiotics. Asnicar F, Manara S, Zolfo M, Truong DT, Scholz M, Armanini F, et al.

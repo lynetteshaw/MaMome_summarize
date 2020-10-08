@@ -1,0 +1,149 @@
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 2
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+INTRODUCTION
+
+The human microbiome comprises of collective genomes of
+microbiota inhabiting us, namely protozoa, archaea, eukaryotes,
+viruses and predominantly bacteria that live symbiotically on and
+within various sites of the human body. (cid:114)
+(cid:114)
+
+Exhibit antimicrobial effects. Disrupted gut barrier function will increase gut
+permeability to commensal microbes, microbial derived products
+(such as metabolites, virulence factors) as well as other luminal
+components, contributing to aberrant immune-inﬂammatory
+response such as
+inﬂammation, allergy, and autoimmune
+disorder mediated by molecular mimicry and dysregulated T-cell
+response (Barnaba and Sinigaglia, 1997). IBD generally involves
+host factors combined with environmental factors (Franceschi
+et al., Also, it has
+been reported that each of these antibodies response patterns
+highly correlates with distinctive clinical characteristics, disease
+onset and severity, suggesting loss of diﬀerent microbiota species
+that would aﬀect the gut barrier function and gut immunity,
+results in diﬀerent degree of gut inﬂammation (Vasiliauskas
+et al., Another
+
+suggestion regarding the IBD-gut microbiome
+link is the initial impairment in gut mucus barrier function
+(either due to dysbiosis or other factors), resulting in elevation
+of mucus-eating (mucolytic) gut microbial species, which in
+turn aggravates the barrier function and stimulates severe
+
+Frontiers in Microbiology | www.frontiersin.org
+
+9
+
+August 2018 | Volume 9 | Article 1835
+
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 10
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+layer and
+inﬂammatory response. Besides, administration
+of prebiotics (fermentable polysaccharides) to stimulate growth
+and metabolic activity of beneﬁcial protective gut microbes
+such as butyrate-synthesizing bacteria might be an attractive
+concept to treat gastrointestinal inﬂammation in IBD (Joossens
+et al., Besides, inconsistent observation
+
+Frontiers in Microbiology | www.frontiersin.org
+
+10
+
+August 2018 | Volume 9 | Article 1835
+
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 11
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+TABLE 3 | Gut microbiome-associated human diseases and their respective dysbiotic features. 2001
+
+Metabolic
+disorders/cardiovascular
+disorders
+
+Obesity
+
+Turnbaugh et al., Linking
+the dysbiotic features, microbial-mediated PTMP activities
+with the aberrant
+immune-inﬂammatory response in celiac
+disease, it is hypothesized that dysbiosis-mediated dysregulated
+PTMP activities causing both functional and conformational
+transformations of dietary and host proteins, generating novel
+aberrant epitopes which are potentially immunogenic and
+capable to interfere critical host cellular signaling, hence,
+triggering manifestation of autoimmune disease such as celiac
+disease (Lerner et al., Prebiotics
+such as
+inulin-type fructans that selectively nourish Roseburia and
+Clostridium cluster XIVa, and arabinoxylan that increases the
+abundance of Biﬁdobacterium, Roseburia, and Bacteroides, have
+demonstrated anti-adipogenic eﬀect in high-fat-induced obese
+mice (Dewulf et al., On the other hand,
+another important component of human microbiome – the
+human virome that is dominated by bacteriophage (viruses that
+infect bacteria), is relatively less established compared to that
+of commensal bacteriome research. Application of FMT, probiotic
+and prebiotics derived from advances in gut microbiome
+studies to ‘rectify’ or ‘restore’ the altered gut microbiota in
+the dysbiosis-associated disease state back to the ‘healthy’
+equilibrium, holds great promise as the alternative therapeutic
+option in several symptomatic disease management. A phase I trial with transgenic bacteria expressing interleukin-10
+in Crohn’s disease. doi: 10.1542/peds.2008-0819
+
+Cani, P. D., Amar, J., Iglesias, M. A., Poggi, M., Knauf, C., Bastelica, D., et al. ( Biﬁdobacterium
+longum CECT 7347 modulates immune responses in a gliadin-induced
+enteropathy animal model. doi: 10.1073/pnas.0803124105
+
+Johnson, C. H., Dejea, C. M., Edler, D., Hoang, L. T., Santidrian, A. F.,
+Felding, B. H., et al. ( doi: 10.1136/gutjnl-2013-304833
+
+Mahe, S., Corthier, G., and Dubos, F. (1987). doi: 10.1631/jzus.b1400327
+
+Nishioku, T., Matsumoto, J., Dohgu, S., Sumi, N., Miyao, K., Takata, F., et al. doi: 10.1111/j.1574-6941.2012.01330.x
+
+Pear, S. M., Williamson, T. H., Bettin, K. M., Gerding, D. N., and Galgiani, J. N.
+(1994). doi: 10.1086/496986
+
+Shi, L., Zhang, Z., Angela, M. Y., Wang, W., Wei, Z., Akhter, E., et al. ( doi: 10.1128/aem.70.11.6459-6465.2004
+
+Soret, R., Chevalier, J., De Coppet, P., Poupeau, G., Derkinderen, P., Segain, J. P.,
+et al. ( Bacteriophages in gut samples from pediatric Crohn’s disease
+patients: metagenomic analysis using 454 pyrosequencing. The prevalence of
+gastrointestinal problems in children across the United States with autism
+spectrum disorders from families with multiple aﬀected members. doi: 10.1007/
+s10620-018-4999-2
+
+Xiong, Y., Miyamoto, N., Shibata, K., Valasek, M. A., Motoike, T., Kedzierski, R. M.,
+et al. ( Short-chain fatty acids stimulate leptin production in adipocytes
+through the G protein-coupled receptor GPR41.

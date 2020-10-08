@@ -1,0 +1,68 @@
+Following screening, participants were admitted and placed on a WMD. Following the UF/OF phase, participants were on WMD for 2 d then on 
+consecutive days underwent OGTT (day 16) measurement of 24-h energy expenditure in a whole-room indirect calorimeter (day 17) and measurement of 
+fasting ANGPLT4 and heparin-induced measurement of LPL (day 18). As  expected,  the  absolute  number  of  calories  lost  per  day 
+was significantly higher in overfed relative to underfed individuals 
+(257.4 ± 91.2 kcal d−1 versus 123.5 ± 32.4 kcal d−1, Δ = 139.4 kcal d−1, 
+P < 0.0001, paired Student’s t-test; Fig. Taken together, these 
+results support our hypothesis that both UF and vancomycin result 
+in greater stool calorie loss relative to ingested calories (greater per-
+centage  of  calories  measured  in  stool),  indicating  a  reduction  in 
+nutrient absorption in both states. c, Mean percentage calorie loss 
+in stool (kcal d−1) in the vancomycin (n = 11) versus placebo (n = 13) groups. 5e) based 
+on  16S  rRNA  sequence  variants  analysis:  A.  muciniphila,  a  mucin-
+degrading  bacterium  with  a  putative  role  in  preserving  gut  barrier 
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNefunction24–26,  which  was  enriched  during  UF  and  in  the  vancomy-
+cin group, and an unidentified species belonging to Lachnospiraceae 
+NK4A136 group, which decreased during UF and vancomycin inter-
+ventions. Discussion
+In  this  two-phase  study  we  directly  measured  ingested  and  stool 
+calories, demonstrating an increased and comparable stool calorie 
+loss relative to ingested calories during two states: UF versus OF and 
+oral vancomycin versus placebo. b, Shannon diversity in microbial communities of vancomycin and placebo groups 
+(P < 0.0001, two-sided unpaired Wilcoxon test). Each data point shows the mean and standard deviation of samples from each 
+subject (n = 70 samples from 24 subjects; P < 0.0001, determined using Adonis comparing effect of treatment and accounting for repeated measures 
+per subject). The 
+intra-assay %CV was 1.58 and the inter-assay %CV was 4.46. LPS and zonulin were measured 
+using an assay from CusaBio Technologies. For the vancomycin versus 
+placebo, 12 subjects per group gave us a power of 0.95 at an alpha of 0.05 to detect 
+a 75 ± 49 kcal d−1 (mean ± s.d.) Mean values of triplicate 
+reactions were taken for further downstream analyses. Raw Illumina reads underwent 
+quality trimming and adaptor removal using Fastp66 and host read removal by 
+mapping to the human genome (GRCh38) with Bowtie2 (ref. Regrouped, per-sample KEGG Orthology abundance profiles were 
+joined into one abundance table and filtered to contain features with top 75% mean 
+abundance (final n = 3,553 KEGG Orthology groups). Bray–Curtis dissimilarity was used to quantify 
+compositional dissimilarity between microbial communities and the distance 
+matrix was analyzed using Adonis PERMANOVA (R Vegan package) with 10,000 
+replications. Ferraro, R., Boyce, V. L., Swinburn, B., De Gregorio, M. & Ravussin, E. 
+ 
+Energy cost of physical activity on a metabolic ward in relationship to 
+obesity. Additional 
+support for the research in the Turnbaugh laboratory was provided by the National 
+Institutes of Health (grant nos. Correspondence and requests for materials should be addressed to A.B., P.J.T. or J.K.
+
+Peer review information Joao Monteiro was the primary editor on this article and 
+managed its editorial process and peer review in collaboration with the rest of the 
+editorial team. NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeExtended Data Fig. b, Phylogenetic tree of 16S rRNA sequence variants (SVs) where 
+colored tips denote significantly different SVs between vancomycin (n=11) and placebo (n=13) groups (FDR<0.1, DESeq2 with two-sided Wald test) with 
+color representing fold change comparing vancomycin to placebo. The sample size for each intervention refers to the volunteers 
+who had available measurements of glucose and insulin during OGTT (oral glucose tolerance test). Software and code
+
+Policy information about availability of computer code
+
+Data collection
+
+The first phase was a cross-over design in which all participants underwent in random order 3 days of over and underfeeding, followed by 
+a second phase involving double blind randomized placebo-controlled assignment to administration of oral vancomycin or matching 
+placebo. Absolute bacterial abundance was derived by adjustments for dilutions during DNA extraction, normalization, and 
+PCR reaction preparation dividing by the total fecal mass used for DNA extraction in grams. This statement should provide the following information, where applicable: 
+
+- Accession codes, unique identifiers, or web links for publicly available datasets 
+- A list of figures that have associated raw data 
+- A description of any restrictions on data availability
+
+All sequencing data generated in this study were deposited on the NCBI, under BioProject PRJNA589622. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.

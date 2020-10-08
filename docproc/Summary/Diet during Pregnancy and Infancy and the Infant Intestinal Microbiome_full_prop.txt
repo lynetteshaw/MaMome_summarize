@@ -1,0 +1,106 @@
+THE JOURNAL OF PEDIATRICS (cid:129) www.jpeds.com
+
+Volume ■■ • ■■ 2018
+
+Trial enrolled 881 pregnant women at 3 clinical sites in the US
+(Boston, Massachusetts; St. Louis, Missouri; and San Diego,
+California). Caretakers were in-
+structed to collect approximately 2.5 milliliters of child stool
+from a diaper using a tongue depressor 1-2 days prior to a study
+visit and to store the sample in a home freezer until bringing
+it to the visit in a freezer pack. The top principal component was used
+in regression models. Questions regarding the child diet were asked beginning at
+age 6 months. Operational taxonomic units identiﬁed at least
+10 times in at least 10 subjects were used in microbiome-
+wide analyses. Covariates in multivariable analysis, chosen on the
+basis of prior studies,7,11 included mode of delivery, child race/
+ethnicity (African American, Hispanic, white, other), age at stool
+collection, treatment arm, and maternal education. Missing data
+were considered missing at random and complete case analy-
+sis was employed. Analysis covariates were the same
+as for multivariable regression analyses described above, and
+results were considered signiﬁcant at a false discovery rate of
+.05 or less. T test was used for analysis of age at stool sample collection and c2 tests were used for all other comparisons. However, after adjusting
+for demographic variables (mode of delivery, age, treatment,
+maternal education, and race/ethnicity), breastfeeding vs
+formula feeding and solid food introduction, the only asso-
+ciation between the maternal diet and taxa selected a priori
+for analysis was a positive association with Lactobacillus spp
+(mean difference = 0.48; P = .02). We did not ﬁnd associations between the second principal
+component of the maternal diet (representing high pasta, rice,
+and noodle intake) and diversity or these 4 genera. We did
+not detect an association between solid foods and relative abun-
+dance of Bacteroides spp, Biﬁdobacterium spp, Lactobacillus spp,
+or Clostridia spp in unadjusted analyses. After adjusting for de-
+mographic variables, solid food introduction was positively as-
+sociated with Clostridium spp (mean difference = 0.80 log
+counts; P = .03) and this association remained signiﬁcant after
+addition of infant breastfeeding vs formula feeding status and
+maternal diet to the adjusted model (mean difference = 0.75
+log counts, P = .05). We found that
+Biﬁdobacterium spp counts were similar among breastfed and
+formula-fed African American infants, and Hispanic and white
+breastfed infants had higher levels of Biﬁdobacterium spp com-
+pared with formula-fed Hispanic and White infants (African
+
+Diet during Pregnancy and Infancy and the Infant Intestinal Microbiome
+
+3
+
+FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
+
+THE JOURNAL OF PEDIATRICS (cid:129) www.jpeds.com
+
+Volume ■■
+
+Table IV. Mean, SD for normally distributed variables (Shannon index, Richness). §Dietary variables: infant breastfeeding vs formula feeding and first principal component of maternal diet (high in vegetables and low in processed meats and deep fried foods). In an ethnically homogeneous population using targeted
+quantitative polymerase chain reaction on stool samples col-
+lected at age 1 month, Penders et al showed breastfed infants
+had less Clostridia difﬁcile compared with formula-fed infants.7,30
+This contrasts with our ﬁnding of a positive association between
+breastfeeding and overall Clostridia spp, though we expect that
+the inﬂuence of breastfeeding differs among individual species
+within this genus. ■
+
+Submitted for publication Apr 16, 2018; last revision received Jun 12, 2018;
+accepted Jul 13, 2018
+
+References
+
+1. Peanut allergy prevalence among school-age children
+in a US cohort not selected for any disease. Penders J, Thijs C, Vink C, Stelma FF, Snijders B, Kummeling I, et al. Factors
+inﬂuencing the composition of the intestinal microbiota in early infancy. Yoshioka H, Iseki K, Fujita K. Development and differences of intestinal
+ﬂora in the neonatal period in breast-fed and bottle-fed infants. Ann Allergy Asthma Immunol 2014;112:222-
+9. Litonjua AA, Lange NE, Carey VJ, Brown S, Laranjo N, Harshﬁeld BJ, et al. Chimeric 16S rRNA sequence formation and detection in
+Sanger and 454-pyrosequenced PCR amplicons. The Ribo-
+somal Database Project: improved alignments and new tools for rRNA
+analysis. A microbial symbiosis factor pre-
+
+vents intestinal inﬂammatory disease. Shida K, Takahashi R, Iwadate E, Takamizawa K, Yasui H, Sato T, et al. Ling Z, Li Z, Liu X, Cheng Y, Luo Y, Tong X, et al. Diet during Pregnancy and Infancy and the Infant Intestinal Microbiome
+
+7
+
+FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
+
+THE JOURNAL OF PEDIATRICS (cid:129) www.jpeds.com
+
+Volume ■■
+
+26. Human milk oligosaccharides promote the growth of staphylococci. Soto A, Martín V, Jiménez E, Mader I, Rodríguez JM, Fernández L.
+Lactobacilli and biﬁdobacteria in human breast milk: inﬂuence of
+antibiotherapy and other host and clinical factors. The average
+value for the two questionnaires was taken for further analy-
+sis. For cases in which information from one questionnaire was
+missing, only information from the other questionnaire was
+used. If the
+answer was no, they were asked “How old was your baby when
+
+you stopped breastfeeding.” In 21 cases, an age at cessation of
+breastfeeding was not available. In these cases, if the stool sample
+was collected within 30 days of completing the question-
+naire, we assumed the child was on the same diet at the stool
+collection as at questionnaire completion. Similar to the above, we used question-
+naire responses obtained at 6 months to determine whether
+a child was ingesting formula at the time of stool collection. At the 6 month visit, providers were asked, since we last
+spoke with you, have you fed your baby any infant formula. Flow diagram of subjects included in study. The eigenvalue gives a measure of how much variance in the
+data is reflected by each principal component.

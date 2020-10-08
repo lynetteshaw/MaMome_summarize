@@ -1,0 +1,107 @@
+Microbiome profiling was based on sequen-
+cing of the cpn60 universal target, which provides higher
+resolution than 16S rRNA variable regions [33] and al-
+lows the resolution of Gardnerella vaginalis subgroups,
+a hallmark bacteria in the disturbed microbiota [34].
+
+Methods
+Study population and sampling
+This retrospective cohort study analysed the vaginal
+microbiota of women who experienced spontaneous pre-
+term birth (sPTB) and compared the resulting microbial
+profiles to those of pregnant women who delivered at
+term. Total bacterial DNA (qPCR) and detection of Mollicutes (PCR)
+Quantitative PCR (qPCR)
+Total bacterial DNA quantity in each sample was esti-
+mated using a SYBR Green assay based on amplification
+of the V3 region of the 16S rRNA gene. PCR products from U. parvum and U. urealyticum can
+be differentiated by size [40].
+
+cpn60 universal target (UT) PCR and pyrosequencing
+Universal primer PCR targeting the 549–567 bp cpn60
+UT region was performed using a mixture of cpn60
+primers consisting of a 1:3 M ratio of primers H279/
+H280:H1612/H1613, as described previously [41–43]. To
+allow multiplexing of samples in a single sequencing
+run, primers were modified at the 5′ end with one of 24
+unique decamer multiplexing identification (MID) se-
+quences, as per the manufacturer’s recommendations
+(Roche, Brandford, CT, USA). The OTU reference set was generated originally by de
+novo assembly of cpn60 sequence reads from 546 vaginal
+microbiomes using the microbial Profiling Using Meta-
+genomic Assembly pipeline (mPUMA, http://mpuma. Hierarchical clustering of vaginal microbiota profiles
+resulted in seven community state types
+I
+(CST):
+(Lactobacillus crispatus dominated),
+(Lactobacillus
+gasseri dominated), III (Lactobacillus iners dominated),
+IVA (Gardnerella vaginalis subgroup B or mix of differ-
+ent species), IVC (G. vaginalis subgroup A dominated),
+IVD (G. vaginalis
+subgroup C dominated) and V
+(Lactobacillus jensenii dominated) (Fig. The ALDEx2 analysis
+
+assessed the relative abundance of each taxa (at the
+OTU and species level) in term and preterm groups. This
+observation is consistent with the results presented by
+others [29, 30]. CST assignments are largely driven by
+the dominance of a single species, which may mask dif-
+ferences in rare taxa that would differentiate term and
+preterm groups, and indeed, further analysis revealed
+that the vaginal microbiota of women who experienced
+preterm birth was richer and more diverse than those of
+women who delivered at
+term. Bacteroides coagulans
+
+Corynebacterium accolens
+
+Porphyromonas uenonis
+
+Peptoniphilus harei
+
+Lactobacillus fermentum
+
+Facklamia hominis
+
+Prevotella bivia
+
+Prevotella corporis
+
+Actinomyces neuii subsp. It is also important to note that the number of bacterial
+species with greater prevalence in the preterm (49/60) was
+higher than in the term (11/60) cohort (Table 3), which is
+
+consistent with our results of increased microbial richness
+and diversity in the samples from women who experi-
+enced preterm birth. Our results also confirmed previous reports of an as-
+sociation between Mycoplasma and preterm birth [68].
+Mollicutes were detected significantly more often in
+women in the preterm group compared to women in the
+term group, but no differences were observed in
+Ureaplasma prevalence between groups indicating that
+the difference in Mollicutes prevalence is primarily
+driven by the presence of Mycoplasma spp. Funding
+Financial support was provided by a joint Canadian Institutes of Health Research
+(CIHR) Emerging Team Grant and a Genome British Columbia (GBC) grant
+awarded to DMM, AB and JEH (grant reference #108030) as well as a CIHR
+grant MOP-82799 to AB. All participants provided written consent at enrolment. 2Departments of Obstetrics and
+Gynaecology and Physiology, University of Toronto, Toronto, ON M5G 1L4,
+Canada. Received: 19 October 2017 Accepted: 18 May 2018
+
+4. WHO, March of Dimes, PMNCH, Save the Children. Washington, D.C.: National
+Academies Press; 2007. Gardella C, Riley DE, Hitti J, Agnew K, Krieger JN, Eschenbach DA. The association of occult
+
+amniotic fluid infection with gestational age and neonatal outcome among
+women in preterm labor. Microbiome  (2018) 6:117 
+
+Page 14 of 15
+
+19. Romero R, Hassan SS, Gajer P, Tarca AL, Fadrosh DW, Nikita L, et al. Proc Natl Acad Sci U S A.
+2017;114:9966–71. Schellenberg JJ, Links MG, Hill JE, Dumonceaux TJ, Kimani J, Jaoko W, et al. Thinkhamrop J, Hofmeyr GJ, Adetoro O, Lumbiganon P, Ota E. Antibiotic
+prophylaxis during the second and third trimester to reduce adverse
+pregnancy outcomes and morbidity. Characterization of the vaginal microbiota of healthy Canadian women
+through the menstrual cycle. Brown RG, Marchesi JR, Lee YS, Smith A, Lehne B, Kindinger LM, Terzidou V,
+Holmes E, Nicholson JK, Bennett PR, et al. Predictive value for preterm birth of abnormal vaginal
+flora, bacterial vaginosis and aerobic vaginitis during the first trimester of
+pregnancy.

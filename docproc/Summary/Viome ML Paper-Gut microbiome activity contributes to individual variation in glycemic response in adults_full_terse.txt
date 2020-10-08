@@ -1,0 +1,25 @@
+bioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. http://dx.doi.org/10.1101/641019
+
+The copyright holder for this preprint
+
+doi: 
+
+. Importantly,  the  inclusion  of  random  effects  captures  individual 
+variation  in  PPGR  due  to  unobserved  factors  (unknown  properties 
+of the individual, meal, or measurement devices) that may affect the 
+
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. Figure 4D (left) shows the influence of age on the modelled re-
+lationship  between  carbs  and  glycemic  response. The relationship between iAUC and BMI / waist-to-hip ratio 
+(Figure 3E second and third panels) is the opposite of that previously 
+reported  in  studies  such  as  [Zeevi  2015].  We  hypothesize  that  this 
+may  reflect  the  self-reported  good  health  and  high  exercise  rate 
+within this study population. yclnex.2016.01.001
+
+[Tuomainen 2018] Tuomainen M, Lindström J, Lehtonen M, Auriola S, Pihlajamäki J, 
+Peltonen M, Tuomilehto J, Uusitupa M, Mello V and Hanhineva K. “ Associations of 
+serum  indolepropionic  acid,  a  gut  microbiota  metabolite,  with  type  2  diabetes  and 
+low-grade inflammation in high-risk individuals” Nutrition & Diabetes 35 (2018)
+
+ [Van Cauter 1997] Van Cauter, Eve, Kenneth S. Polonsky, and André J. Scheen. "

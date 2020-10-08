@@ -1,0 +1,78 @@
+Page 2
+
+MICROBES AND NUTRITION DURING CRITICAL ILLNESS
+
+It has been known for decades that intestinal bacteria make important contributions to
+human metabolism and physiology. Author manuscript; available in PMC 2012 August 1. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Morowitz et al. An equally important objective is
+to identify associations between the microbiome and human health and disease [12].
+
+SPECIFIC CONTRIBUTIONS OF THE GUT MICROBIOTA TO HUMAN
+
+METABOLISM
+
+A particularly compelling example of the importance of the gut microbiota to host
+metabolism is provided by comparing the nutritional status of germ-free (GF) and
+conventionally raised laboratory animals. published the complete genome sequence of the
+gram-negative anaerobe Bacteroides thetaiotaomicron, a prominent member of the normal
+intestinal microbiota [10]. Annotation and analysis of the genome revealed a sophisticated
+apparatus for acquiring and digesting otherwise unusable dietary polysaccharides. Microbiota and protein metabolism
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Morowitz et al. Here, again, metagenomic analyses were used to prove that the gut microbiome of
+animals fed a Western diet is enriched in genes encoding proteins related to energy harvest,
+including phosphotransferase proteins that enable the transport of simple sugars such as
+glucose and fructose. Subsequently, several studies have contrasted gut microbes in newborn animals
+
+Surg Clin North Am. receiving either enteral or parenteral nutrition. These studies suggest that TPN-fed animals
+have an increased relative abundance of potential pathogens, such as Clostridium
+perfringens, that can forage on glycans lining the gut epithelium [45, 46]. However, it is not
+known if these findings can be extended to critically ill adults that have shifted abruptly
+from the fed to the fasting state. As a result, interventions in this
+field have been introduced with a limited scientific foundation. Others with obvious relevance to nutrition are discussed. Interestingly, despite the fact that they are often used to treat patients
+with disease, probiotics and prebiotics are viewed by regulatory agencies as nutritional
+supplements rather than as pharmaceutical agents or biohazards. Most mechanistic studies in this area have centered upon production of
+antimicrobial substances to inhibit colonization by pathogens, enhance the mucosal barrier
+function, and downregulate mucosal inflammation [69]. It is particularly interesting that,
+despite the growing awareness of how gut microbes contribute to energy balance and despite
+the administration of probiotics/prebiotics as nutritional supplements, little research on this
+topic has focused on how these agents specifically impact nutrition, metabolism, or energy
+balance. First, it is apparent that future
+evaluations of human nutritional status during critical illness should include consideration of
+the gut microbiota. Acknowledgments
+
+References
+
+This work was supported by Grant No. GM62344-11 (JCA) from the National Institutes of Health. High-throughput diversity and functionality
+analysis of the gastrointestinal tract microbiota. The commensal microbiology of the gastrointestinal tract. Colonic health: Fermentation and short chain fatty
+
+acids. Regulation of short-chain fatty acid production. Contribution of microbial amino acids to amino acid homeostasis of the host. Pigs’ gastrointestinal microflora provide them with
+
+essential amino acids. Urea nitrogen salvage mechanisms and their relevance to ruminants, non-
+
+ruminants and man. The metabolism of carbon-labeled urea in the
+
+germ free rat. Turnbaugh PJ, Backhed F, Fulton L, et al. Intestinal absorption of water-soluble vitamins: An update. Tilg H, Moschen AR, Kaser A. Obesity and the microbiota. Turnbaugh PJ, Hamady M, Yatsunenko T, et al. A core gut microbiome in obese and lean twins. Shifts in clostridia, bacteroides and immunoglobulin-coating
+fecal bacteria associated with weight loss in obese adolescents. Proc Natl Acad Sci U S A. 2009; 106(7):2365–2370. [ Influences of dietary and environmental stress on microbial populations
+
+in the murine gastrointestinal tract. Regulation of myocardial ketone body
+
+metabolism by the gut microbiota during nutrient deprivation. Kerver AJ, Rommes JH, Mevissen-Verhage E, et al. Prevention of colonization and infection in
+
+critically ill patients: A prospective randomized study. Alverdy J, Zaborina O, Wu L. The impact of stress and nutrition on bacterial-host interactions at
+
+the intestinal epithelial surface. Ecological effects of selective decontamination on
+
+resistant gram-negative bacterial colonization. Probiotics and their potential health claims. Prebiotics and probiotics; modifying and mining the microbiota. Probiotic prophylaxis in predicted severe acute
+
+pancreatitis: A randomised, double-blind, placebo-controlled trial.

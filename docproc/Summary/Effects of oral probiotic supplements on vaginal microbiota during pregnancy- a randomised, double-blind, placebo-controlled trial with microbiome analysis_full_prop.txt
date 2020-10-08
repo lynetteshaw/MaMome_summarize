@@ -1,0 +1,139 @@
+in
+
+use
+
+symptomatic
+
+including preterm birth (PTB).1–4 Antibiotics are effective
+in eradicating BV during pregnancy5 and are recommended
+The
+for
+consequences of antibiotic use during pregnancy have been
+poorly studied,7 but
+there are concerns that antibiotic-
+related changes in the vaginal microbiota8 are associated
+with short- and long-term morbidity in infancy and later
+years.9
+
+pregnant women.6
+
+Probiotics might be a safe and effective alternative to
+antibiotics in restoring the imbalance of the vaginal micro-
+biota found in BV. We therefore performed a randomised trial of a com-
+available probiotic preparation in pregnant
+mercially
+women to assess its biological effects on the vaginal micro-
+biota. After conﬁrming eligibility,
+informed consent was
+obtained and baseline data recorded. These were then packaged into tamper-proof
+boxes. One swab was used to prepare a glass slide for Gram stain,
+and the other was extracted into 3 ml of Brain Heart Infu-
+sion broth (Unipath Ltd, Basingstoke, UK) containing 10%
+glycerol and 0.005% cysteine hydrochloride. Sequence reactions
+were spiked with 10% 12.5 pM PhiX DNA. Reads were ﬁl-
+tered by quality score using DADA229 to remove sequences
+with an expected error over 2 bp. The alpha diversity of the samples was estimated by calcu-
+lating the Inverse Simpson index and compared between
+groups by the Wilcoxon test. to the SOP available
+
+taxonomic units
+
+according
+
+Statistical analysis
+We used descriptive analysis to report baseline characteris-
+tics of trial participants by allocated group. BJOG: An International Journal of Obstetrics and Gynaecology published by John Wiley & Sons Ltd on behalf of
+Royal College of Obstetricians and Gynaecologists
+
+3
+
+Husain et al. Otherwise, we reported the model without adjusting for
+confounders. A
+total of 997 women were excluded from the trial either
+because they did not meet the inclusion criteria (270/1301)
+or they declined to participate. At 18–20 weeks’ gestation, the rate of BV in the probi-
+otic group was 15% (19/123) compared with 9% (10/115)
+in the placebo group. In the placebo group, the
+mean Nugent scores at the same time points were 1.17
+(95% CI 0.67–1.67), 0.86 (95% CI 0.37–1.34), and 1.33
+(95% CI 0.82–1.83), respectively (Figure 2). Previous observational studies and small-scale
+randomised controlled trials in non-pregnant populations
+have suggested that oral administration of probiotics can
+alter the vaginal microbiota in a signiﬁcant number of
+women where microbial imbalance exists.18–21 It is on this
+basis that several commercial probiotic products are mar-
+keted for the restoration and maintenance of a healthy
+vaginal microbiota in both non-pregnant and pregnant
+women.19,20 Our ﬁndings have not shown any effect on the
+vaginal microbiota with the probiotic preparation used in
+this trial. Finally, adherence to the trial intervention, although over
+90% in both groups, was reliant on self-reporting because
+participants rarely remembered to bring in unused capsules
+for a count at their scheduled antenatal visits. However, it
+has been shown that self-reported compliance is a reliable
+substitute for capsule count, particularly in trials where
+there is regular in-person follow up.25
+
+Comparison with other studies
+Results of clinical
+trials in non-pregnant women have
+reported positive effects of probiotics on BV.43 However,
+
+01234567
+
+Nugent Score
+
+Husain et al. Our ﬁndings
+those recently reported by Gille
+et al.44 In a randomised, controlled trial, 320 women at
+<12 weeks’ gestational age were allocated to once-daily oral
+capsules of L. rhamnosus GR-1 or L. reuteri RC-14 or pla-
+cebo for 8 weeks. Contribution to authorship
+The trial was conceived by MM and MW, and designed by
+SH and KK. EP and WW carried out the DNA sequencing. All participants provided
+informed consent to take part in the trial. Data sharing
+The research team will consider reasonable requests for
+sharing of patient level data. The study was sup-
+ported by the NIHR CRN portfolio with recruitment and
+follow up of participants, and was sponsored by Queen
+Mary University of London. References
+
+1 DiGiulio DB, Callahan BJ, McMurdie PJ, Costello EK, Lyell DJ,
+Robaczewska A, et al. Predictive value for preterm birth of
+abnormal vaginal ﬂora, bacterial vaginosis and aerobic vaginitis
+during the ﬁrst trimester of pregnancy. Best Pract Res
+Clin Obstet Gynaecol 2007;21:375–90. Identiﬁcation and H2O2 production of vaginal lactobacilli from
+pregnant women at high risk of preterm birth and relation with
+outcome. Cochrane Database Syst
+Rev 2013;(1):CD000262. 15 Luoto R, Laitinen K, Nermes M,
+
+Impact of maternal
+probiotic-supplemented dietary counselling on pregnancy outcome
+and prenatal and postnatal growth: a double-blind, placebo-
+controlled study. Oral use of Lactobacillus rhamnosus GR-1 and L.
+
+Probiotics and vaginal microbiota in pregnancy
+
+fermentum RC-14 signiﬁcantly alters vaginal ﬂora:
+placebo-controlled trial
+Microbiol 2003;35:131–4. 22 Gy-Na-Tren - Homeopathic Treatment for Feminine Health. [ https://
+5
+
+www.natren.com/gy-na-tren-feminine-health.html].
+December 2017. 25 Kaunitz AM, Portman D, Westhoff CL, Archer DF, Mishell DR Jr,
+Foegh M. Self-reported and veriﬁed compliance in a phase 3 clinical
+trial of a novel low-dose contraceptive patch and pill. http://clincalc.com/Stats/
+
+SampleSize.aspx]. Accessed 1 July 2017. 28 Husain SM, Wilks M, Mupita M, Reddy SP, Hennessy EM,
+Macfarlane AJ, et al. A core outcome set for evaluation of interventions to prevent
+preterm birth. Annual live births by sex, ethnicity and month, maternities
+by place of birth and with multiple births, and stillbirths by age of
+parents
+[https://www.ons.gov.uk/people
+populationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/
+birthcharacteristicsinenglandandwales/2015]. Accessed 31 January
+2019. Telehealth for patients at high risk of cardiovascular
+disease: pragmatic randomised controlled trial. Optimizing participation of
+pregnant women in clinical trials: factors inﬂuencing decisions about
+participation in medication and vaccine trials. 46 Chang HH, Larson J, Blencowe H, Spong CY, Howson CP, Cairns-
+Smith S, et al. 44 Gille C, Boer B, Marschal M, Urschitz MS, Heinecke V, Hund V, et al.

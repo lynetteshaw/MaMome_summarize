@@ -1,0 +1,107 @@
+118
+
+FEMS Microbiology Reviews, 2016, Vol. 2013), and fecal microbiota transplantation is
+highly effective for the treatment of recurrent Clostridium difficile
+infection (Van Nood et al. TOOLS TO DISSECT THE ROLE OF THE GUT
+MICROBIOME IN MICE
+
+Most studies that address the causal relationship between the
+presence of bacteria and host physiology have been based on
+rather extreme changes in microbiota, such as the use of germ-
+free (GF) mice, which are born and reared without exposure to
+any live microbes, and treatment with broad-spectrum antibi-
+otics. For example, broad-spectrum antibiotics change bacte-
+rial populations in the murine large intestine, reducing the total
+number of bacteria and diminishing local cytokine production
+(Hill and Artis 2010). 121
+
+contrast, colonization of 8-week-old GF mice could not reverse
+the elevated numbers of iNKT cells (Olszak et al. However, antibiotic treatment is
+not necessary to establish an exogenous microbiota (Manichanh
+et al. Especially in the first week after weaning, co-
+inciding with the introduction of solid food, the pups are chal-
+lenged by a rapidly changing microbiota until intestinal home-
+ostasis is established, which generally occurs 11–17 days after
+weaning (Schloss et al. By contrast, others
+showed that gender differences in microbiota composition do
+exist but that this observation is genotype dependent (Fushuku
+and Fukuda 2008a; Gomez et al. The microbiomes of
+
+Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018
+
+124
+
+FEMS Microbiology Reviews, 2016, Vol. For example, phenotypic differences between TLR-
+deficient C57BL/6J mouse colonies mainly reflected a diver-
+gence of the microbiota after extended isolated breeding of the
+colonies (Ubeda et al. the exact contribution to experimental out-
+comes is poorly understood. Viable counts
+of the total bacterial load have revealed large differences in the
+cecal microbiota among mice of the same strain from differ-
+ent vendors (Hufeldt et al. This type of variation is not
+restricted to commercially available strains but also plays a role
+when comparing studies performed in different animal labora-
+
+tory sources (Ubeda et al. Also of concern are the differences in func-
+tional biochemical activities of the microbiota of mice raised
+under SPF conditions or under conventional conditions (Norin
+and Midtvedt 2010). One might expect that the development of spontaneous dis-
+eases in transgenic or knockout mice will depend on whether
+they are housed in an SPF or in a conventional environment. 125
+
+Variable that influences
+microbiota composition
+
+Possible complication
+
+Maternal transmission
+Diet
+Environment, stress
+Stress
+Cage effect
+
+Genetic drift
+Standardization fallacy
+Logistic problems
+
+Table 1. Therefore, susceptibility to obesity requires an
+intact mucosal immunity that guides diet-induced changes to
+the microbiota. However, cohousing of mice with dif-
+ferent genotypes (e.g. wild type and knockout) has been shown
+to change the gut microbial composition, affecting their natu-
+ral immunological responses to a treatment or a disease trigger
+(Garrett et al. In case the effect is more subtle,
+it is recommended to separate littermate controls according to
+their genotype right after weaning for at least 30 days before
+the experiment so that the mice can develop their inherent mi-
+crobiota; however, they should be divided over several cages. Increasing evidence sug-
+gests that the microbial environment influences the innate
+and adaptive immune system and largely determines the out-
+come of such investigations, even in disease models where the
+microbiome is not under investigation. G.0787.13; G0C3114], a
+Methusalem grant [BOF09/01M00709]), Ghent University grants
+(MRP, GROUP-ID consortium), a grant from the ‘Foundation
+against Cancer’ [2012–188]) and grants from the Flanders Insti-
+tute for Biotechnology (VIB). Colitis induced in mice with
+dextran sulfate sodium (DSS) is mediated by the NLRP3 in-
+flammasome. Campbell JH, Foster CM, Vishnivetskaya T, et al. Carlisle EM, Poroyko V, Caplan MS, et al. Influence of stressor-induced nervous system ac-
+tivation on the intestinal microbiota and the impor-
+tance for immunomodulation. Commisson to the Council and the European Parliament. Sixth report on the statistics on the number of animals
+used for experimental and other scientific purposes in
+the Member States of the European Union. Maternal western diet causes inflam-
+matory milk and TLR2/4-dependent neonatal toxicity. Friswell MK, Gika H, Stratford IJ, et al. Site and strain-specific
+variation in gut microbiota profiles and metabolism in ex-
+perimental mice. Hufeldt MR, Nielsen DS, Vogensen FK, et al. Oral treatment with probi-
+otic Lactobacillus johnsonii NCC533 (La1) for a specific part
+of the weaning period prevents the development of atopic
+dermatitis induced after maturation in model mice, NC/Nga. Meslin JC, Fontaine N, Andrieux C. Variation of mucin distribu-
+tion in the rat intestine, caecum and colon: effect of the bac-
+terial flora. Contemporary
+prevalence of infectious agents in laboratory mice and rats. A human gut microbial gene catalogue
+established by metagenomic sequencing. Genomic vari-
+ation landscape of the human gut microbiome. Schloss PD, Schubert AM, Zackular JP, et al. SIGIRR, a negative regulator
+of TLR/IL-1R signalling promotes Microbiota dependent re-
+sistance to colonization by enteric bacterial pathogens. Rakoff-Nahoum S, Paglino J, Eslami-Varzaneh F, et al. Microbial genomics and infectious diseases. Sonnenberg GF, Artis D. Innate lymphoid cell interactions with
+microbiota: implications for intestinal health and disease.

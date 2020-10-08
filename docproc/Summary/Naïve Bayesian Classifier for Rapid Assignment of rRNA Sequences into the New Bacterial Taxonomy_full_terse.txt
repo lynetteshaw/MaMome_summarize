@@ -1,0 +1,23 @@
+Number of taxa at different ranks
+
+Taxonomy
+
+No. 73, 2007
+
+THE RDP CLASSIFIER
+
+5265
+
+crepancies between the underlying (16S rRNA) phylogeny and
+Bergey’s taxonomy. Unlike the Seq-
+Match nearest-neighbor classiﬁer, the RDP naı¨ve Bayesian
+Classiﬁer uses information averaged over the entire genus and
+hence is less inﬂuenced by individual misplaced training se-
+quences. Also, Seq-
+Match has been shown to be more accurate than BLAST in
+ﬁnding the most similar rRNA sequence as deﬁned by pairwise
+aligned distance (8). Benson, D. A., I. Karsch-Mizrachi, D. J. Lipman, J. Ostell, B. A. Rapp, and
+
+D. L. Wheeler. Comparative sequence analyses on the 16S rRNA (rDNA) of Bacillus
+acidocaldarius, Bacillus acidoterrestris, and Bacillus cycloheptanicus and pro-
+posal for creation of a new genus, Alicyclobacillus gen.

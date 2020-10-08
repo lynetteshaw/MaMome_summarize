@@ -1,0 +1,72 @@
+bioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. http://dx.doi.org/10.1101/641019
+
+The copyright holder for this preprint
+
+doi: 
+
+. We obtained a stool sample at participation enrollment, as well as 
+a comprehensive questionnaire describing their lifestyle, preferences, 
+and health history. Provided meals 
+
+accounted for 66% of all meals and free meals 34%. Both  provided  and  free  meals  were  recorded  by  all  participants 
+during  the  entire  study  period,  using  a  smartphone  app  (Bitesnap). A total of 9 distinct meals shown in Figure 2D were repeated 
+over the course of the 14 day diet schedules (omnivore and vegetar-
+ian/gluten-free)  to  collect  information  regarding  intra-person  vari-
+ability; each repeat meal was consumed twice by study participants. Metabolic  and  signaling  pathway  activities  are  scored  using  ex-
+pression levels of genes encoding specific protein functions (KEGG 
+mappings  are  used  primarily),  compared  with  a  reference  cohort  of 
+samples supplied by Viome customers. The fucose metabolism pathways activity score considers expres-
+sion levels of all the genes that encode enzymes known to carry out 
+
+5
+
+biochemical reactions that result in processing and catabolic conver-
+sions of fucose – a glycan that microbes may obtain from the host’s 
+gut lining mucosal layer, or food components. This binary score, when “High,” showed a 
+negative association with glycemic response. Figure  4D  (right) 
+illustrates the extent of modeled individual differences in this relation-
+ship, taking into account all predictors. Two hypothetical meals A and 
+B (similar to repeat meals from Figure 2D with carbs approximately 
+25g and 50g respectively) are shown to illustrate that two users (blue 
+and red lines) have the opposite glycemic responses (iAUC of 14 & 20 
+vs iAUC of 37 & 27 respectively) due to the crossover of their iAUC 
+response  lines  between  the  two  meals  —  this  effect  was  shown  in 
+Figure 3D using the raw data. Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. The two meals where intra-person 
+variability  is  close  to  inter-person  variability  are  meals  that  contain 
+little to no carbohydrates. Relationships between iAUC and phenotype and food features
+We see the expected relationship between age and iAUC in Figure 3E, 
+first panel. The relationship between iAUC and BMI / waist-to-hip ratio 
+(Figure 3E second and third panels) is the opposite of that previously 
+reported  in  studies  such  as  [Zeevi  2015].  We  hypothesize  that  this 
+may  reflect  the  self-reported  good  health  and  high  exercise  rate 
+within this study population. This process is often carried out by microbes known as mucin 
+degraders,  such  as  certain  species  of  genus  Ruminococcus  [Crost 
+2016].  We  therefore  hypothesize  that  higher  fucose  consumption 
+activity,  as  reflected  by  the  microbiome  pathway  score,  may  be  as-
+sociated with microbiomes of those individuals who are either more 
+likely  to  fast  or  whose  internal  ecosystem  and  overall  body  state 
+resembles the conditions of fasting or calorie deprivation. 4D. (left) Model predictions as a function of carbs and age, 
+holding all other predictors at the baseline. ( Although it is challenging 
+to  delineate  causal  mechanisms,  there  may  be  functional  patterns 
+
+9
+
+that connect the significant scores with gut health, intestinal barrier 
+integrity,  and  inflammation. We also present a gradient boosting machine for 
+maximizing predictive accuracy. Use  of 
+Metatranscriptomics  in  Microbiome  Research. "Dietary  carbohydrates:  Role  of  quality  and  quantity  in  chronic  disease." doi:10.1001/jamanetworkopen.2018.8102
+
+[Mirsky 1956] Mirsky, I. Arthur, and Daniel Diengott. " Proceedings of the Society 
+for Experimental Biology and Medicine 93, no. "Major 
+phenylpropanoid-derived  metabolites  in  the  human  gut  can  arise  from  microbial 
+fermentation of protein." yclnex.2016.01.001
+
+[Tuomainen 2018] Tuomainen M, Lindström J, Lehtonen M, Auriola S, Pihlajamäki J, 
+Peltonen M, Tuomilehto J, Uusitupa M, Mello V and Hanhineva K. “ Associations of 
+serum  indolepropionic  acid,  a  gut  microbiota  metabolite,  with  type  2  diabetes  and 
+low-grade inflammation in high-risk individuals” Nutrition & Diabetes 35 (2018)
+
+ [Van Cauter 1997] Van Cauter, Eve, Kenneth S. Polonsky, and André J. Scheen. " Deutsche  medizinische 
+Wochenschrift (1946) 109, no.

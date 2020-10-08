@@ -1,0 +1,101 @@
+in
+
+use
+
+symptomatic
+
+including preterm birth (PTB).1–4 Antibiotics are effective
+in eradicating BV during pregnancy5 and are recommended
+The
+for
+consequences of antibiotic use during pregnancy have been
+poorly studied,7 but
+there are concerns that antibiotic-
+related changes in the vaginal microbiota8 are associated
+with short- and long-term morbidity in infancy and later
+years.9
+
+pregnant women.6
+
+Probiotics might be a safe and effective alternative to
+antibiotics in restoring the imbalance of the vaginal micro-
+biota found in BV. The probiotic preparation selected
+has been shown to be safe when taken during preg-
+nancy.14,15
+
+Methods
+
+conducted using an analysis plan agreed in advance with
+the independent trial steering and data monitoring com-
+mittee. After conﬁrming eligibility,
+informed consent was
+obtained and baseline data recorded. The swab used
+to prepare the slide was stored at (cid:1)70 °C and later used in
+the vaginal microbiota DNA proﬁling. Sequences were clus-
+(OTUs) at a
+tered into operational
+sequence dissimilarity distance of 0.015 using an average
+neighbour algorithm and then classiﬁed using a Na€ıve
+Bayesian classiﬁer implemented in mothur with the Human
+Oral Microbiome Database release 14.51 reference dataset. to the SOP available
+
+taxonomic units
+
+according
+
+Statistical analysis
+We used descriptive analysis to report baseline characteris-
+tics of trial participants by allocated group. BJOG: An International Journal of Obstetrics and Gynaecology published by John Wiley & Sons Ltd on behalf of
+Royal College of Obstetricians and Gynaecologists
+
+3
+
+Husain et al. At 18–20 weeks’ gestation, the rate of BV in the probi-
+otic group was 15% (19/123) compared with 9% (10/115)
+in the placebo group. Previous observational studies and small-scale
+randomised controlled trials in non-pregnant populations
+have suggested that oral administration of probiotics can
+alter the vaginal microbiota in a signiﬁcant number of
+women where microbial imbalance exists.18–21 It is on this
+basis that several commercial probiotic products are mar-
+keted for the restoration and maintenance of a healthy
+vaginal microbiota in both non-pregnant and pregnant
+women.19,20 Our ﬁndings have not shown any effect on the
+vaginal microbiota with the probiotic preparation used in
+this trial. We did not take account of vaginal
+
+6
+
+ª 2019 The Authors. Our ﬁndings
+those recently reported by Gille
+et al.44 In a randomised, controlled trial, 320 women at
+<12 weeks’ gestational age were allocated to once-daily oral
+capsules of L. rhamnosus GR-1 or L. reuteri RC-14 or pla-
+cebo for 8 weeks. Contribution to authorship
+The trial was conceived by MM and MW, and designed by
+SH and KK. EP and WW carried out the DNA sequencing. The study was sup-
+ported by the NIHR CRN portfolio with recruitment and
+follow up of participants, and was sponsored by Queen
+Mary University of London. Identiﬁcation and H2O2 production of vaginal lactobacilli from
+pregnant women at high risk of preterm birth and relation with
+outcome. Cochrane Database Syst
+Rev 2013;(1):CD000262. 7 Bookstaver PB, Bland CM, Grifﬁn B, Stover KR, Eiland LS,
+in pregnancy. Health and Nutritional
+Properties of Probiotics in Food Including Powder Milk with Live
+Lactic Acid Bacteria. Pathogen elimination by probiotic Bacillus via signalling
+interference. 15 Luoto R, Laitinen K, Nermes M,
+
+Impact of maternal
+probiotic-supplemented dietary counselling on pregnancy outcome
+and prenatal and postnatal growth: a double-blind, placebo-
+controlled study. Eur J Obstet Gynecol Reprod Biol 2013;168:75–9. http://clincalc.com/Stats/
+
+SampleSize.aspx]. Accessed 1 July 2017. 28 Husain SM, Wilks M, Mupita M, Reddy SP, Hennessy EM,
+Macfarlane AJ, et al. Annual live births by sex, ethnicity and month, maternities
+by place of birth and with multiple births, and stillbirths by age of
+parents
+[https://www.ons.gov.uk/people
+populationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/
+birthcharacteristicsinenglandandwales/2015]. Accessed 31 January
+2019. 41 Salisbury C, O’Cathain A, Thomas C, Edwards L, Gaunt D, Dixon
+P, et al. 44 Gille C, Boer B, Marschal M, Urschitz MS, Heinecke V, Hund V, et al.

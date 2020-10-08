@@ -1,0 +1,129 @@
+r e s o u r c e
+
+(Online  Methods  and  Supplementary  Note  1)  to  ensure  that  the 
+reconstructions meet the quality standards set by Thiele and Palsson 
+(2010)9. 1f,g, Supplementary 
+Table 3 and Supplementary Figs. 1d), and sensitivity 
+to carbon source, fermentation product, and nutrient requirement 
+data was greatly increased in the AGORA models with an average 
+sensitivity of 1.00 ± 0.02 compared to 0.06 ± 0.09 for the draft models 
+(Fig. When comparing eight AGORA reconstructions with the published 
+genome-scale metabolic reconstructions for the same species, we found 
+that the main differences in reaction content were in lipopolysaccha-
+ride biosynthesis and transport pathways (Supplementary Tables 7  
+and  8). a) The refinement 
+pipeline starts with an automatic draft reconstruction generation from the online platforms Model SEED14 and KBase (Department of Energy Systems 
+Biology Knowledgebase (KBase), http://kbase.us), followed by the translation of reaction and metabolite identifiers to match those of the human 
+metabolic reconstruction, Recon 2.04 (ref. The number of reconstructions per phylum is shown above the phylum name. Values 
+below Q1 – 1.5 × IQR and above Q3 + 1.5 × IQR are plotted as outliers. d) Gene essentiality accuracy 
+predicted by the draft reconstructions, the AGORA reconstructions, and four published reconstructions (Supplementary Note 2) when compared 
+against in vitro data sets48. ( and methane metabolism was unique to four archaea. and flux consistent reactions
+
+Draft
+
+AGORA
+
+Actinobacteria
+Bacteroidetes
+Cyanobacteria
+Firmicutes
+Fusobacteria
+
+Proteobacteria
+Spirochaetes
+Synergistetes
+Tenericutes
+Verrucomicrobia
+
+Crenarchaeota
+Euryarchaeota
+Thaumarchaeota
+
+nature biotechnology  VOLUME 35  NUMBER 1 
+
+JANUARY 2017 
+
+8 3
+
+h
+
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+Sensitivity
+
+Mean ± s.d. Validation of AGORA model predictions
+We demonstrated the predictive capability of AGORA models using 
+two  models,  Bacteroides  caccae  ATCC  34185  (a  fiber-degrading 
+symbiont common in microbiomes of Western individuals29,30) and 
+Lactobacillus  rhamnosus  GG  (LGG),  a  common  human  probiotic 
+strain31. The reported chemically defined growth medium for 
+
+LGG contains all amino acids and most vitamins32 but our in silico 
+predictions suggested that these could be supplemented by growing 
+LCG with B. caccae (Fig. Consistent with one previ-
+ous in silico study33, the presence of oxygen resulted in a decrease in 
+commensalism and mutualism, especially for Gammaproteobacteria 
+(Supplementary  Fig. Bacteria in ecosystems engage in complex trophic webs based on 
+interspecies interactions40, which cannot be inferred from microbial 
+abundance41. 22), the human 
+metabolism  reconstruction,  highlighting  the  complementarity  of 
+host and microbial metabolisms. Amensalism: one microbe grows slower (Affected) in the 
+paired simulation while the other microbe’s growth rate is unaffected 
+(Unaffected). b) Hierarchical clustering (Euclidean distance) of the  
+ratio of pairwise interaction types per condition (i.e., diet and oxygen 
+presence) on the taxonomic family level. See a for a description  
+of the interaction types. Also 
+shown are the number of reconstructions needed to capture 75%, 90%, and 95% of the full reaction diversity. METhODS
+Methods, including statements of data availability and any associated 
+accession codes and references, are available in the online version of 
+the paper. S.M. and A.H. reconstructed the pipeline. Shafquat,  A.,  Joice,  R.,  Simmons,  S.L.  &  Huttenhower,  C.  Functional  and 
+phylogenetic assembly of microbial communities in the human microbiome. 8 8  
+
+VOLUME 35  NUMBER 1 
+
+JANUARY 2017  nature biotechnology
+
+© 2017 Nature America, Inc., part of Springer Nature. McCloskey,  D.,  Palsson,  B.O.  &  Feist,  A.M.  Basic  and  applied  uses  of  genome-scale 
+metabolic network reconstructions of Escherichia coli. Fleming,  R.M.T.,  Vlassis,  N.,  Thiele,  I.  &  Saunders,  M.A.  Conditions  for  duality 
+between  fluxes  and  concentrations  in  biochemical  networks. Any AGORA 
+reconstruction can be downloaded in SBML format from the VMH website on 
+the “Downloads” page. 2010)30 and by Rajilić-Stojanović 
+and  de  Vos  (2014)51,  we  obtained  472  additional  draft  reconstructions 
+from  Model  SEED  and  KBase  (Department  of  Energy  Systems  Biology 
+Knowledgebase,  http://kbase.us),  both  of  which  use  the  RAST  annotation 
+server52 to annotate the genomes and build the draft metabolic networks14. We identified futile cycles by con-
+straining each reaction flux to zero individually and computed the flux through 
+the ATP demand reaction using flux balance analysis (FBA)34. If a vitamin biosynthesis pathway 
+was present in a reconstruction that should not synthesize the vitamin based 
+on genomic and experimental data, we added a transport and exchange reac-
+tion for the vitamin and removed the reaction(s) that had been gap-filled by 
+the Model SEED or KBase pipelines. We say a matrix S is net flux 
+consistent if there exist matrices and such that, where each row contains at least 
+one nonzero entry. We expanded these files with the appropriate gene sequences for 
+respiration, quinone biosynthesis, B-vitamin synthesis, and central metabolic 
+pathways were retrieved from the web interface of the PubSEED platform60. Carbon source and fermentation phenotypes. The in silico 
+gene essentiality analysis was carried out under rich medium conditions for 
+the draft, AGORA, and published models, by constraining the flux through all 
+reactions associated with a deleted gene to 0 mmol/gDW/h and maximizing 
+the BOF. Using FBA, 
+growth  of  the  microbial  pair  was  maximized  under  both  diets  (Western  
+and high-fiber diet), aerobically and anaerobically (Supplementary Table 9). We monitored the number of reactions added by each new reconstruction. Extracellular polar metabolites from the 
+supernatant samples and external concentration curves for each compound of 
+interest were extracted applying a liquid–liquid extraction (Methanol/Water). The potential of B. caccae and LGG to consume 
+and produce metabolites in silico was computed using FVA25 and compared 
+with GC-MS measurements. Bauer,  E.,  Laczny,  C.C.,  Magnusdottir,  S.,  Wilmes,  P.  &  Thiele,  I.  Phenotypic 
+differentiation of gastrointestinal microbes is  reflected in their  encoded  metabolic 
+repertoires. The RAST Server: rapid annotations using subsystems technology. Magnúsdóttir, S., Ravcheev, D., de Crécy-Lagard, V. & Thiele, I. Systematic genome 
+assessment  of  B-vitamin  biosynthesis  suggests  co-operation  among  gut  microbes. Database  resources  of  the  National  Center  for 
+
+Biotechnology Information.

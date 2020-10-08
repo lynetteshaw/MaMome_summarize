@@ -1,0 +1,61 @@
+Diseases 2018, 6, 56
+
+2 of 10
+
+between the gut microbiome and CVDs to promote an understanding of the latest perspectives of the
+role of the gut microbiome in CVDs. Trimethylamine-N-oxide and CVDs
+
+A close relationship between the gut microbe-dependent production of trimethylamine-N-oxide
+(TMAO), derived from speciﬁc dietary nutrients such as choline and carnitine, and future
+cardiovascular events has been widely recognized [10]. Trimethylamine (TMA), which is produced by
+the gut microbial enzymes TMA lyases, is a precursor of TMAO. Elevated blood TMAO levels have been directly linked to poor
+outcomes in patients with CVDs, such as coronary artery disease and acute and chronic heart failure
+(Table 1) [11–16]. Tang et al., Further studies are warranted to elucidate the causal relationship between these
+metabolites and CVD. was also signiﬁcantly higher in the patients
+with CAD than in the healthy subjects. was found to decrease in
+patients with atherosclerotic ischemic stroke and transient ischemic attack [27], Bacteroides spp. The negative
+
+Diseases 2018, 6, 56
+
+5 of 10
+
+correlations between Streptococcus spp. Ruminococcus, Acinetobacter, and Veillonella increased in the HF patients,
+whereas Alistipes, Faecalibacterium, and Oscillibacter decreased. Year
+
+Study Population
+
+Country
+
+Analysis
+
+Results
+
+2012 Nat. 12 patients with symptomatic atherosclerosis
+(myocardial infarction or cerebrovascular events)
+and 13 age- and sex-matched healthy individuals. Sweden
+
+Gut metagenome
+
+Collinsella ↑, Eubacterium ↓, Roseburia ↓ in patients
+with symptomatic atherosclerosis. have reported a metagenomic shotgun sequencing study with 218 CAD patients and 187 healthy
+subjects [30]. They revealed alterations in gut microbial functional modules in CAD patients, such as
+the phosphotransferase system, amino acid transporters, vitamin metabolism, lipopolysaccharide
+biosynthesis, and the activities of SCFAs and TMA lyases. In such cases, an in vitro fermentation
+system simulating the human intestinal tract may help to evaluate the functionality or safety of these
+interventions under highly reproducible conditions without the ethical issues [40]. Speciﬁcally, we can
+culture feces from patients with prebiotics or probiotics in an in vitro fermentation system and analyze
+how the gut microbiome, and its metabolites and functions, are changed after the intervention. It is important to pay attention to the complexities of
+translating the ﬁndings from an animal model to humans. With increasing awareness of the relationship between the
+gut microbiome and CVD, we have high expectations for the clinical application of gut microbiome
+modulation. Author Contributions: T.Y. conceived and wrote the manuscript and made critical revisions. Article Processing Charges was sponsored by MDPI. CrossRef] [PubMed]
+Ridker, P.M.; Danielson, E.; Fonseca, F.A.H.; Genest, J.; Gotto, A.M.J.; Kastelein, J.J.P.; Koenig, W.; Libby, P.;
+Lorenzatti, A.J.; MacFadyen, J.G.; et al. Heart Disease and Stroke Statistics—2018 Update: A Report From the
+American Heart Association. CrossRef] [PubMed]
+Shimokawa, H.; Miura, M.; Nochioka, K.; Sakata, Y. Heart failure as a general pandemic in Asia. Tang, W.H.; Wang, Z.; Fan, Y.; Levison, B.; Hazen, J.E.; Donahue, L.M.; Wu, Y.; Hazen, S.L. Prognostic value
+of elevated levels of intestinal microbe-generated metabolite trimethylamine-N-oxide in patients with heart
+failure: Reﬁning the gut hypothesis. Cho, C.E.; Taesuwan, S.; Malysheva, O.V.; Bender, E.; Tulchinsky, N.F.; Yan, J.; Sutter, J.L.; Caudill, M.A.
+Trimethylamine-N-oxide (TMAO) response to animal source foods varies among healthy young men and is
+inﬂuenced by their gut microbiota composition: A randomized controlled trial. Analysis of Gut Microbiota in Coronary Artery Disease Patients: A Possible Link
+between Gut Microbiota and Coronary Artery Disease. Emoto, T.; Yamashita, T.; Kobayashi, T.; Sasaki, N.; Hirota, Y.; Hayashi, T.; So, A.; Kasahara, K.; Yodoi, K.;
+Matsumoto, T.; et al. Faecalibacterium prausnitzii is an anti-inﬂammatory
+commensal bacterium identiﬁed by gut microbiota analysis of Crohn disease patients. Cui, X.; Ye, L.; Li, J.; Jin, L.; Wang, W.; Li, S.; Bao, M.; Wu, S.; Li, L.; Geng, B.; et al.

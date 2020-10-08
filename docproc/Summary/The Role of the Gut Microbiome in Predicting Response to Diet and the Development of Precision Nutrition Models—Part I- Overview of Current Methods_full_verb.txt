@@ -1,0 +1,94 @@
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+and react to form a response, and understanding how these
+responses combine to affect human health. The USDA is an equal opportunity provider and employer. Identifying the appropriate con-
+trol is challenging with diet interventions that are designed
+with whole foods, as a true placebo diet is not possible. Choetal.(2017)
+
+ornormalization)andNR(nochange)
+Changeincalprotectin:R(decrease∼10-fold
+
+Calprotectin
+
+Intervention
+
+controls;32receivedmedication)
+Humans(68childrenwithIBDand26
+
+anti-TNF-αmedication
+
+Kolhoetal.(2015)
+
+meaningfulimprovement)andNR<50. 2018) (20)
+
+Microbiota composition and function
+
+Association
+
+(metagenomics)
+
+Kovatcheva-Datchary
+et al. ( 2015) (65) Microbiota composition (16S, metagenomics) and
+
+Association
+
+Paired t-tests
+
+Veiga et al. ( 2011) (61)
+
+Microbiome composition (T-RFLP 16S, qPCR)
+
+Association
+
+Student’s t-test
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+Association and prediction studies share the above
+methods of conducting the study and preparing the gut
+microbiome data. It is important
+to note that these goals (association and prediction) are
+not mutually exclusive and several methods may be utilized
+within the same study to address different scientific goals
+and analyze different parts of the data set. Additional
+references are given as needed. The Wilcoxon signed-rank test is used
+to determine if the median of the differences between paired
+responses is different from zero (e.g. within individuals). When a study moves towards the analysis phase of bringing
+together microbiome, diet, and metabolic response, there
+are 2 steps in the process towards development of preci-
+sion nutrition recommendations: 1) identifying associations
+between microbiome features and dietary responsiveness
+and 2) predicting and validating individuals’ response to
+dietary interventions and/or advice (Figure 4). Gut microbiome and precision nutrition: Part I 17
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+when data are highly skewed. Dimension reduction and clustering methods in associa-
+tion studies. RDA extends multiple linear
+regression by summarizing the linear relations between mul-
+tiple dependent variables and multiple independent variables
+in a matrix, which is then incorporated into PCA. Linear discriminant analysis (LDA) (125, 126) is similar
+to PCA/PCoA. However, in LDA, the groups of interest
+are known a priori and the axes represent
+the linear
+combinations of the measurements that best describe the
+separation between the groups. This
+strategy has been utilized to investigate gut microbiome
+communities from humans (9, 59) and isolated strains (10)
+to determine the effect that differences in these taxa or
+communities have on the production of metabolites and
+fermentation of compounds. Lancet Diabetes Endocrinol 2018;6(5):416–26. Kong LC, Wuillemin PH, Bastard JP, Sokolovska N, Gougis S, Fellahi S,
+Darakhshan F, Bonnefont-Rousselot D, Bittar R, Dore J, et al. Prior dietary practices and connections
+to a human gut microbial metacommunity alter responses to diet
+interventions. Impact of
+diet and individual variation on intestinal microbiota composition and
+fermentation products in obese men. The capacity of nondigestible carbohydrates
+to stimulate fecal bifidobacteria in healthy humans: a double-
+blind, randomized, placebo-controlled, parallel-group, dose-response
+relation study. Int J Syst Evol Microbiol 2004;54(3):919–24. Larsen MV, Cosentino S, Rasmussen S, Friis C, Hasman H, Marvig
+RL, Jelsbak L, Pontén TS, Ussery DW, Aarestrup FM. Liu Z, Hsiao W, Cantarel BL, Drábek EF, Fraser-Liggett C. Sparse
+distance-based learning for simultaneous multiclass classification
+and feature
+selection of metagenomic data. Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL, Ward DV,
+Reyes JA, Shah SA, LeLeiko N, Snapper SB. MacQueen J. Some methods for classification and analysis of
+multivariate observations.

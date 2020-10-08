@@ -1,0 +1,66 @@
+r e s o u r c e
+
+(Online  Methods  and  Supplementary  Note  1)  to  ensure  that  the 
+reconstructions meet the quality standards set by Thiele and Palsson 
+(2010)9. 1d), and sensitivity 
+to carbon source, fermentation product, and nutrient requirement 
+data was greatly increased in the AGORA models with an average 
+sensitivity of 1.00 ± 0.02 compared to 0.06 ± 0.09 for the draft models 
+(Fig. When comparing eight AGORA reconstructions with the published 
+genome-scale metabolic reconstructions for the same species, we found 
+that the main differences in reaction content were in lipopolysaccha-
+ride biosynthesis and transport pathways (Supplementary Tables 7  
+and  8). The AGORA models have been curated for carbon source utilization 
+and fermentation product secretion; they outperformed the published 
+models for those functions, as measured by a sensitivity analysis of 
+the carbon source uptake and fermentation product secretion of both 
+seven published models and AGORA models (Supplementary Fig. Values 
+below Q1 – 1.5 × IQR and above Q3 + 1.5 × IQR are plotted as outliers. The reconstructions are ordered based on phyla and 
+taxonomic classes. Validation of AGORA model predictions
+We demonstrated the predictive capability of AGORA models using 
+two  models,  Bacteroides  caccae  ATCC  34185  (a  fiber-degrading 
+symbiont common in microbiomes of Western individuals29,30) and 
+Lactobacillus  rhamnosus  GG  (LGG),  a  common  human  probiotic 
+strain31. The reported chemically defined growth medium for 
+
+LGG contains all amino acids and most vitamins32 but our in silico 
+predictions suggested that these could be supplemented by growing 
+LCG with B. caccae (Fig. Even though AGORA reconstructions do not cover 
+all of the species-specific aspects of manually curated reconstruc-
+tions (e.g., lipopolysaccharide biosynthesis), the performance of each 
+of  eight  AGORA  models  was  on  par  with  that  of  their  previously 
+published, manually curated models of the same strain (Fig. Low-fiber diets are thought to modulate the microbiota composi-
+tion  by  depleting  commensal  microbe-to-microbe  interactions35. Based on hierarchical clustering of the ratio of pairwise interaction 
+
+nature biotechnology  VOLUME 35  NUMBER 1 
+
+JANUARY 2017 
+
+8 5
+
+© 2017 Nature America, Inc., part of Springer Nature. We found that central metabolic 
+traits were predicted to define co-growth interactions as a function of 
+diet composition and oxygen availability (Fig. 22), the human 
+metabolism  reconstruction,  highlighting  the  complementarity  of 
+host and microbial metabolisms. Amensalism: one microbe grows slower (Affected) in the 
+paired simulation while the other microbe’s growth rate is unaffected 
+(Unaffected). METhODS
+Methods, including statements of data availability and any associated 
+accession codes and references, are available in the online version of 
+the paper. S.M. and A.H. reconstructed the pipeline. reprints and permissions information is available online at http://www.nature.com/
+reprints/index.html. Shafquat,  A.,  Joice,  R.,  Simmons,  S.L.  &  Huttenhower,  C.  Functional  and 
+phylogenetic assembly of microbial communities in the human microbiome. McCloskey,  D.,  Palsson,  B.O.  &  Feist,  A.M.  Basic  and  applied  uses  of  genome-scale 
+metabolic network reconstructions of Escherichia coli. A total of 
+192 draft-reconstruction-derived models could not carry flux through the 
+BOF on anaerobic rich medium (all exchange reactions open, aside from the 
+oxygen exchange reaction). We ensured that no metabolite in a model could be produced 
+from nothing, which would indicate mass or charge imbalanced reactions. We  retrieved  the  nucleotide  gene  sequence 
+of each microbe using the Perl API from the Model SEED and KBase web 
+interface. Similarly, a model 
+was considered to be able to secrete a fermentation product if the maximum 
+possible flux through the fermentation product exchange reaction was posi-
+tive (>10−6 mmol/gDW/h). The RAST Server: rapid annotations using subsystems technology. Thiele, I., Vo, T.D., Price, N.D. & Palsson, B.O. Expanded metabolic reconstruction 
+of Helicobacter pylori (iIT341 GSM/GPR): an in silico genome-scale characterization 
+of single- and double-deletion mutants. Database  resources  of  the  National  Center  for 
+
+Biotechnology Information.
