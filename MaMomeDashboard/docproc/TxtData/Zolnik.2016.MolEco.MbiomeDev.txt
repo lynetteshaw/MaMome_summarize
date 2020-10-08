@@ -1,0 +1,1360 @@
+4964 C . P . Z O L N I K E T A L .
+
+(Kueneman et al. 2014), reptiles (Keenan et al. 2013),
+birds (Roggenbuck et al. 2014) and mammalian carni-
+vores (Menke et al. 2014). Among invertebrates, studies
+of microbiome effects on insect behaviour (e.g. Weiss &
+Aksoy 2011, are especially noteworthy given their
+emphasis on aspects of the host’s biology other than
+digestive physiology. Research on the microbiome of
+ticks is of particular importance, considering the role
+that many of these species play as pathogen vectors
+and parasites of humans and other vertebrates.
+
+Studies utilizing PCR ampliﬁcation of clones, coupled
+with Sanger sequencing or denaturing gradient gel elec-
+trophoresis, have attempted to explore internal micro-
+bial communities or identify endosymbionts in tick
+species (Noda et al. 1997; Schabereiter-Gurtner et al.
+2003; Benson et al. 2004; Moreno et al. 2006; Clay et al.
+2008; Van Overbeek et al. 2008; Heise et al. 2010). These
+studies have provided valuable information as to the
+general bacterial diversity and identity of common
+internal bacteria and potential endosymbionts of some
+tick species. However, cloning is of limited throughput
+and requires a high amount of effort and cost to iden-
+tify rare bacteria and assess relative abundances. High-
+throughput
+have
+allowed for in-depth research on microbial community
+composition and diversity, and inference of microbial
+relationships (Hovatter et al. 2011; Costello et al. 2012).
+
+technologies
+
+sequencing
+
+(HTS)
+
+A preliminary report by the Institute of Medicine
+Committee on Lyme Disease and Other Tick-Borne Dis-
+eases examined the diversity of prokaryotes in three
+tick species (Amblyomma americanum, Dermacentor vari-
+abilis and Ixodes scapularis) using 454 pyrosequencing
+technology (Clay & Fuqua 2010). Although the report
+provided useful insight into the microbiomes of adults
+of these three species, it primarily emphasized the over-
+all gap in knowledge regarding the identity of microor-
+ganisms and the roles that microbial communities play
+in pathogen transmission, infectivity and pathogenicity
+within tick vectors (Clay & Fuqua 2010). Since then,
+studies using HTS technologies to classify microbiomes
+in tick species have been conducted on Ixodes ricinus in
+Italy (Carpi et al. 2011) and France (Vayssier-Taussat
+et al.
+2013); A. americanum, Amblyomma maculatum,
+Rhipicephalus microplus and D. variabilis in the United
+States (Yuan 2010; Andreotti et al. 2011; Hawlena et al.
+2013; Menchaca et al. 2013; Budachetri et al. 2014; Pon-
+nusamy et al. 2014; Rynkiewicz et al. 2015); I. ovatus,
+I. persulcatus and Haemaphysalis ﬂava in Japan (Qiu et al.
+2014); R. turanicus in Israel (Lalzar et al. 2012); and
+I. persulcatus in China (Zhang et al. 2014).
+
+Given the
+
+importance of
+
+the blacklegged tick
+(I. scapularis) as a pathogen vector
+in the United
+States, responsible for >30 000 reported cases of Lyme
+disease each year (CDC 2015), studies on its internal
+
+microbial community have also been increasing in
+recent years (Hawlena et al. 2013; Narasimhan et al.
+2014; Rynkiewicz et al. 2015; Van Treuren et al. 2015).
+Although the role of the blacklegged tick as a vector
+the Lyme disease spirochete (Borrelia burgdorferi)
+of
+and the babesiosis protozoan (Babesia microti) has been
+known since the late 1970s (Spielman 1976; Steere
+et al. 1978; Spielman et al. 1979), its ability to transmit
+Anaplasma phagocytophilum and Borrelia miyamotoi has
+been known only for the past 15–20 years (Pancholi
+et al. 1995; Scoles et al. 2001). The 2001 discovery of
+B. miyamotoi
+in blacklegged ticks (Scoles et al. 2001),
+only recently determined to be a human pathogen
+(Platonov et al. 2011; Krause et al. 2013), underscores
+how little is currently known about
+the variety of
+microbial species occurring in this vector and the
+potential for more of these species ultimately to be
+identiﬁed as pathogens.
+
+that
+
+Studies
+
+symbiotic
+
+investigate
+
+relationships
+between internal microorganisms and I. scapularis have
+focused on commonly studied human pathogens. For
+example, infection of blacklegged ticks by A. phagocy-
+tophilum (the causative agent of granulocytic anaplas-
+mosis in humans) has been shown to induce protein
+expression that increases cold tolerance and, depend-
+ing on weather patterns, may aid in tick survival
+(Neelakanta et al. 2010). Furthermore,
+infection with
+B. burgdorferi has been shown to affect questing beha-
+viour and movement of
+this tick, possibly affecting
+survival and/or pathogen transmission (Lefcort &
+Durden 1996). However, little is known regarding the
+range of microbes the tick comes in contact with or
+maintains throughout
+its entire life cycle. This tick
+experiences a 2-year life cycle, feeding once per life
+stage (larva, nymph, and adult) on vertebrate blood.
+These bloodmeals are necessary for
+the immature
+stages (larva, nymph) to moult to the next stage and
+for adult females to lay eggs (Needham & Teel 1991;
+there are numerous opportunities
+Fish 1993). Thus,
+for this tick to acquire microbes either during any of
+its three bloodmeals or possibly from the environ-
+ment, as it spends 98% of its life cycle off-host in a
+forested setting (Needham & Teel 1991; Fish 1993).
+for additional symbioses
+Consequently,
+I. scapularis may be
+involving microbes that beneﬁt
+quite high.
+
+the potential
+
+Most studies of tick microbiomes have focused on
+whole ticks (Yuan 2010; Carpi et al. 2011; Hawlena et al.
+2013; Menchaca et al. 2013; Vayssier-Taussat et al. 2013;
+Narasimhan et al. 2014; Ponnusamy et al. 2014; Zhang
+et al. 2014; Rynkiewicz et al. 2015; Van Treuren et al.
+2015), while only a few have examined speciﬁc tissues
+and organs (Andreotti et al. 2011; Budachetri et al. 2014;
+Qiu et al. 2014); all have been limited to one or two
+
+© 2016 John Wiley & Sons Ltd
+
+developmental stages. This is the ﬁrst study to assess
+the bacterial community proﬁle of blacklegged ticks
+across all developmental stages (larvae, nymphs, and
+adults). Our comparison of the microbial community in
+ﬁeld-collected larvae and freshly hatched,
+laboratory-
+reared, unfed larvae allowed us to examine the tick
+microbiome prior to exposure to the ﬁeld environment,
+thus examining the potential for transovarial transmis-
+sion of bacteria. In addition to investigating the internal
+microbial communities found within whole ticks, we
+focused on the microbiomes within two speciﬁc tissues
+in adult female ticks, salivary glands and the midgut,
+as these are important for maintenance and transmis-
+sion of many tick-borne pathogens associated with
+I. scapularis (Spielman et al. 1987; De Silva & Fikrig
+1995; Telford et al. 1996; Piesman et al. 2001; Liu et al.
+2011).
+
+A more comprehensive approach to the tick micro-
+biome, exploring all developmental stages and speciﬁc
+organs, will allow for a greater understanding of the
+bacteria that share the same internal environment with
+the heavily studied pathogenic species that have domi-
+nated previous research efforts.
+
+Materials and methods
+
+Tick collection
+
+Host-seeking blacklegged ticks were collected in the
+summer and fall of 2014 at Fordham University’s Bio-
+logical Field Station in Armonk, NY, an area where
+blacklegged ticks are highly prevalent
+(Diuk-Wasser
+et al. 2006, 2012). Nymphs were collected in June and
+July, larvae in August and adult females and males in
+October and November, corresponding to each life
+stage’s peak activity season (Fish 1993). Ticks were col-
+lected by dragging a 1-m2 cloth along the forest ﬂoor in
+randomly selected 20-m transects. After each transect,
+ticks were removed from the cloth, placed into a glass
+vial and brought back to the laboratory for taxonomic
+and life stage identiﬁcation before being stored at
+(cid:1)80 °C until further processing.
+
+To obtain freshly hatched larvae, engorged female
+blacklegged ticks were collected from hunter-killed
+white-tailed deer (Odocoileus virginianus) in November
+2013. Deer were harvested in Bedford, NY (~16 km from
+Armonk, NY), and were examined for ticks at a butcher
+shop the same day. Engorged females were placed sepa-
+rately into individual culture tubes and stored in an incu-
+bator at 20 °C and a 12:12 [L:D]-h photoperiod until they
+laid eggs. Eggs were transferred to a sterile vial and kept
+in the same incubator until they hatched, at which time
+the new larvae were sacriﬁced immediately by placing
+them in (cid:1)80 °C and stored until processed.
+
+© 2016 John Wiley & Sons Ltd
+
+M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4965
+
+DNA isolation
+
+All laboratory procedures were performed under a lam-
+inar ﬂow hood (AirClean Systems)
+to ensure that
+microorganisms from the surrounding environment did
+not contaminate the samples; negative controls were
+used throughout. Prior to DNA isolation, each tick was
+surface-sterilized in three washes of 90% ethanol fol-
+lowed by one wash of sterile, nuclease-free, deionized
+water to remove any external/surface microbes that
+might be present from plant or soil matter. Whole ticks
+were grouped into three pools of 10 individuals each,
+for the following ﬁve classiﬁcations: freshly hatched lab-
+oratory-reared larvae and ﬁeld-collected larvae (here-
+larvae, respectively, for
+after termed ‘lab’ and ‘ﬁeld’
+brevity), ﬁeld-collected nymphs, ﬁeld-collected adult
+females and ﬁeld-collected adult males. A total of 30
+ticks per life stage were tested. Pooling was carried out
+to maximize microbial yield and provide a representa-
+tive sample of microbial taxonomic diversity for each
+life stage.
+
+ticks were bisected and adult
+
+Larvae were physically disrupted using Lysing
+Matrix S (MP Biomedicals) on a Benchmark Bead Blas-
+ter 24 (Benchmark Scientiﬁc) for 3 min at 4 m/s. Nym-
+ticks were
+phal
+quadrisected using a sterile scalpel blade,
+following
+recent work by our group (Ammazzalorso et al. 2015).
+An additional 30 adult
+females were dissected to
+remove midguts and salivary glands. Organs were then
+combined into three pools of 10 per organ type. DNA
+isolation was performed using the DNeasy Blood and
+Tissue kit (Qiagen) according to the manufacturer’s pro-
+tocol, with the addition of an overnight incubation at
+56 °C in ATL buffer and proteinase K, and a ﬁnal elu-
+tion in 100 lL of ddH2O after a 5 min, room tempera-
+ture incubation step.
+
+16S rRNA PCR ampliﬁcation
+
+PCR was conducted for the hypervariable regions V3
+and V4 of the bacterial 16S rRNA gene using primers
+Bakt_341F and Bakt_805R,
+following Illumina’s 16S
+Metagenomic Sequencing Library Preparation protocol
+(Illumina) and a review by Klindworth et al. 
+This primer set, resulting in a 450- to 550-bp PCR pro-
+duct, was determined to be the best candidate among
+512 sets tested in terms of domain and phylum cover-
+age for use in 16S rRNA bacterial sequencing (Klind-
+worth et al. 2013).
+Illumina adaptor sequences were
+attached as tails to the PCR primers. The PCRs were
+performed in triplicate with 25 lL Phusion High-Fide-
+lity PCR Master Mix (Thermo Fisher Scientiﬁc), 2.5 lL
+(ﬁnal concentration of 0.5 mM) for both primers, 15 lL
+nuclease-free PCR-grade water and 5 lL of DNA
+
+4966 C . P . Z O L N I K E T A L .
+
+template. Based on Illumina’s protocol and the out-
+comes of preliminary PCR optimization procedures, the
+thermal cycling conditions consisted of an initial denat-
+uration at 98 °C for 3 min, followed by 30 cycles of
+98 °C for 30 s, 55 °C for 30 s and 72 °C for 30 s, fol-
+lowed by a ﬁnal extension for 5 min at 72 °C on a
+Techne Prime Elite Thermal Cycler (Bibby Scientiﬁc).
+The three PCR product replicates for each sample pool
+were combined before running 10 lL of each combined
+pooled product on a 1.5% w/v agarose gel at 120 V for
+40 min. The ~460-bp bands were excised from the gel
+and puriﬁed using QIAquick Gel Extraction Kit (Qia-
+gen), with elution in 40 lL of nuclease-free, PCR-grade
+ddH2O.
+
+thus
+
+samples
+
+allowing all
+
+Library preparation. Library preparation of the puriﬁed
+PCR products was performed using Illumina’s Nex-
+tera XT Index Kit, providing unique dual indices for
+each sample,
+to be
+sequenced on the same Illumina MiSeq reagent car-
+tridge and ﬂow cell. Prior to indexing, a supplemen-
+tary quantitative PCR (qPCR) was performed to
+determine the optimal number of cycles for the index-
+ing reaction. A subset of
+the PCR products for all
+sample pools and the one negative were indexed
+using 25 lL KAPA SYBR FAST qPCR Master Mix
+(Kapa Biosystems), 10 lL sdH2O, 5 lL Nextera XT
+Index 1 Primer, 5 lL Nextera XT Index 2 Primer and
+5 lL puriﬁed PCR product. This subset was run on
+an ABI 7300 Real-Time PCR System (Applied Biosys-
+tems, Inc.) with an initial denaturation of 95 °C for
+3 min followed by 40 cycles of 95 °C for 10 s and
+55 °C for 30 s, and a plate read after each cycle. The
+optimal cycle number for each sample was deter-
+mined based on the number of cycles needed for the
+qPCR ampliﬁcation curve to begin to peak.
+
+Samples were indexed using 25 lL KAPA HiFi HotS-
+tart Ready Mix (Kapa Biosystems), 10 lL sdH2O, 5 lL
+Nextera XT Index 1 Primer, 5 lL Nextera XT Index 2
+Primer and 5 lL puriﬁed PCR product as suggested by
+Illumina. The thermal cycling conditions for the index-
+ing PCR consisted of an initial denaturation at 95 °C for
+3 min, followed by the optimal number of cycles of
+98 °C for 30 s, 55 °C for 30 s and 72 °C for 30 s on a
+Techne Prime Elite Thermal Cycler. Indexed amplicons
+were puriﬁed with Agencourt AMPure XP beads (Beck-
+man Coulter Genomics) following Illumina’s protocol.
+The indexed and puriﬁed amplicons were quantiﬁed
+using a High Sensitivity dsDNA Assay on a QUBIT 2.0
+Fluorometer (Life Technologies) with 3 lL of gDNA.
+The size integrity of the amplicons was validated on a
+(Agilent Technologies). Equimolar
+2100 Bioanalyzer
+amplicon quantities were pooled, denatured and com-
+loading
+bined with denatured 20% PhiX at
+
+a
+
+concentration of 5.5 pM. High-throughput amplicon
+sequencing was conducted on a MiSeq instrument (Illu-
+mina) using the v3 Reagent Kit 600-cycle format and
+2 9 300 bp paired-end reads at
+the Epige-
+nomics Core Facility of Weill Cornell Medicine (New
+York, NY, USA).
+
+Data analysis. The sequence processing workﬂow is
+depicted in Fig. S1 (Supporting information). Sequences
+were demultiplexed and converted to fastq ﬁles in CASAVA
+V1.8.2 FASTQ Filter (Illumina) before removing reads that
+did not pass the Illumina chastity ﬁlter using ‘fastq_illu-
+mina_ﬁlter 0.1’
+(http://cancan.cshl.edu/labmembers/
+gordon/fastq_illumina_ﬁlter). The USEARCH pipeline
+was used to merge the ﬁltered fastq ﬁles with a minimum
+overlap of 10 nucleotides and length between 250 and
+500 bp (Edgar 2010). Merged fastq ﬁles were ﬁltered
+using USEARCH to remove sequences with >0.5 pre-
+= 0.5), as
+dicted estimated errors per nucleotide (Emax
+well as removing the ﬁrst 50 nucleotides to trim indices
+and primer sequences (Edgar 2010). After dereplication,
+sequences were sorted according to abundance, opera-
+tional taxonomic units (OTUs) were clustered de novo
+using UPARSE (Edgar 2013) with a minimum pairwise
+identity threshold of 97% (Stackebrandt & Goebel 1994;
+Huse et al. 2010; Kunin et al. 2010), and singletons were
+removed. The UPARSE pipeline includes de novo chi-
+mera removal, followed by referenced-based chimera
+removal using the UCHIME algorithm and the GOLD
+16S rRNA gene database (Reddy et al. 2014). The ﬁnal set
+of sequences was submitted to NCBI under SRA submis-
+sion SUB1534507.
+
+The OTU table was processed in QIIME (MACQIIME
+V1.9.0) (Caporaso et al. 2010b; Kuczynski et al. 2012).
+OTUs were assigned taxonomy using the RDP CLASSIFIER
+(Wang et al. 2007) against the Greengenes 16S rRNA
+database v13_8 (McDonald et al. 2012; Werner et al.
+2012), and relative OTU abundances were summarized
+from phylum to genus.
+across
+Representative sequences were aligned and ﬁltered
+using PYNAST (Caporaso et al. 2010a), and a phylogenetic
+tree was estimated from the alignment with FASTTREE
+(Price et al. 2009). OTU tables in BIOM format were
+accessioned to Dryad (
+
+taxonomic
+
+levels
+
+To test for sufﬁcient sequencing coverage, the condi-
+tional uncovered probability was calculated for all sam-
+ples with a conﬁdence interval of 0.95. Multiple
+rarefactions were performed in QIIME with 100 iterations
+every 1000 sequences without replacement from a depth
+of 1000 to 100 000 sequences. Sufﬁcient sequencing
+depth was determined based on rarefaction curves for
+observed number of OTUs. In this study, four measures
+of a-diversity were calculated including the observed
+number of OTUs, Shannon’s diversity index, Simpson’s
+
+© 2016 John Wiley & Sons Ltd
+
+index and Faith’s phylogenetic diversity (PD) measure.
+The observed number of OTUs is a species richness
+estimator, while PD takes into account phylogenetic
+information (Faith 1992). Both the Shannon’s index and
+Simpson’s index include abundance information, with
+Shannon’s giving more weight per individual to rare
+OTUs than common ones, while Simpson’s is more sen-
+sitive to changes in the dominant taxa (Hill et al. 2003).
+All four measures were calculated based on sequences
+rareﬁed at a depth of 100 000 among life stage cate-
+gories and a depth of 200 000 for whole adult females,
+female midguts and salivary glands based on the lowest
+minimum sequence depth for each category. Due to
+small sample size of replicates, descriptive statistics are
+presented for comparisons of a-diversity measures. Box-
+plots were created in R v3.1.2 (R Core Team 2014).
+
+phylogenetically
+
+informed weighted
+
+b-Diversity was calculated using jackkniﬁng (use of
+subsets of available data) at a rarefaction depth of
+100 000 sequences for developmental stage categories
+and a depth of 200 000 for whole adult females and
+their organs in QIIME. The rareﬁed data were used to cal-
+culate
+and
+unweighted UniFrac measures (Lozupone & Knight
+2005). The adonis function, that performs a permuta-
+tional multivariate analysis of variance (PERMANOVA),
+was used, with 999 permutations, to determine the per
+cent variation explained by developmental stages, as
+well as
+size for both
+weighted and unweighted UniFrac distance matrices.
+Principal coordinate analysis (PCoA) was used to com-
+pare differences among groups of samples based on
+both UniFrac distance matrices.
+
+the signiﬁcance and effect
+
+After analysing the taxonomic summaries for all sam-
+ple pools, the genus Rickettsia was found to be the most
+abundant. To gauge the identity and potential diversity
+of Rickettsia species and strains in blacklegged ticks, we
+carried out a phylogeny-informed assessment. First, we
+isolated 4 315 478 sequences matching the genus Rick-
+ettsia using the ‘ﬁlter_fasta.py’ script in QIIME and col-
+lapsed them into 91 519 unique sequences using FASTX-
+(Gordon 2011). We aligned those unique
+TOOLKIT
+sequences to an alignment of 241 full-length, reference
+16S rRNA Rickettsia sequences retrieved from GenBank,
+while accounting for their phylogenetic relationships.
+This was achieved by aligning the 241 reference
+sequences in MAFFT (Katoh & Standley 2013) with
+default parameters
+closely related nucleotide
+sequences. Then, a maximum-likelihood (ML) phyloge-
+netic tree was estimated in RAXML v8.2.8 (Stamatakis
+2014) using the general time-reversible nucleotide sub-
+stitution model and among-site rate heterogeneity mod-
+elled by the Γ distribution and four discrete rate
+categories (Yang 1994). The ﬁnal alignment employed
+the reference alignment and tree along with the shorter
+
+for
+
+© 2016 John Wiley & Sons Ltd
+
+M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4967
+
+sequences and was carried out in PAPARA v2.5 (Berger &
+Stamatakis 2011). The reference ML tree and the large
+alignment of 91 760 sequences were used to place the
+shorter sequences onto internal, that is internode, or
+external, that is terminal, branches on the reference ML
+tree. This was carried out using the evolutionary place-
+ment analysis (EPA) procedure in RAXML. In an effort to
+reach a good trade-off between speed and accuracy, we
+restricted the number of candidate branches for place-
+ment to 10% of the total 479 branches using a heuristic.
+The phylogenetic placements were visualized on the
+iToL webserver (Letunic & Bork 2016)
+(http://itol.
+embl.de). The PAPARA alignment and the JPLACE tree
+10.5061/
+accessioned to Dryad (doi:
+ﬁle were
+dryad.mt6m0).
+
+Results
+
+A total of 21 samples – three pools for each of the ﬁve
+life stage categories (lab-reared larvae, ﬁeld-collected
+larvae, ﬁeld-collected nymphs, ﬁeld-collected adult
+females, and ﬁeld-collected adult males), and three
+pools for female salivary glands and female midguts –
+generated 10 896 297 raw reads on one Illumina MiSeq
+ﬂow cell. A total of 6 908 532 sequences passed ﬁlter
+and were assigned taxonomy. This resulted in 116 941–
+452 654 (mean = 328 977, SD = 96 960) high-quality,
+merged sequences per sample (Table S1, Supporting
+information). The negative control resulted in <0.001%
+(n = 606) of all sequences and was excluded from fur-
+ther analysis. The conditional uncovered probability of
+the samples, on average,
+indicated a high likelihood
+that over 99.9% of the bacterial taxa in the samples was
+covered. Rarefaction curves from a depth of 1000 to
+100 000 sequences indicated sufﬁcient sequencing cov-
+erage, as demonstrated by observed OTU accumulation
+curves reaching a plateau (Fig. S2, Supporting informa-
+tion).
+
+Developmental stages
+
+In all, 1652 distinct OTUs were clustered across the ﬁve
+developmental stage classiﬁcations. Lab-reared larvae
+had the lowest a-diversity across measures, followed by
+adult females (Table S2, Supporting information, Fig. 1).
+Field-collected larvae, nymphs and males exhibited sim-
+ilar levels of a-diversity, but males contained the richest
+bacterial communities when abundance was taken into
+consideration (Table S2, Supporting information, Fig. 1).
+OTUs were assigned to 332 taxa (Table S3, Supporting
+information).
+
+Proteobacteria represented the phylum with the high-
+est relative abundances across all develop-
+mental stage sample pools. The remaining OTUs were
+
+Larvae  
+(Lab) 
+
+Larvae  
+(Field) 
+
+Nymphs
+
+Males
+
+Females
+
+Larvae  
+(Lab) 
+
+Larvae  
+(Field) 
+
+Nymphs
+
+Males
+
+Females
+
+(B)
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Phylogenetic diversity
+
+(D)
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+Simpson's index
+
+4968 C . P . Z O L N I K E T A L .
+
+(A)
+
+800
+
+600
+
+400
+
+200
+
+0
+
+Observed OTUs
+
+(C)
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Shannon’s index
+
+Larvae  
+(Lab) 
+
+Larvae  
+(Field) 
+
+Nymphs
+
+Males
+
+Females
+
+Nymphs
+
+Males
+
+Females
+
+Larvae  
+(Lab) 
+
+Larvae  
+(Field) 
+
+Fig. 1 Measures of a-diversity for each development stage. Each a-diversity measure (A), observed number of OTUs, (B) Faith’s phy-
+logenetic diversity, (C) Shannon’s index and (D) Simpson’s index were calculated at a rarefaction depth of 100 000 sequences.
+
+classiﬁed into the phyla Acidobacteria, Actinobacteria,
+Armatimonadetes, Bacteroidetes, Chlamydiae, Chlo-
+roﬂexi, Cyanobacteria, Firmicutes, Gemmatimonadetes,
+Planctomycetes, Spirochaetae, Verrucomicrobia, the can-
+didate phyla BRC1, FBP, GN02, OD1, TM6, TM7, WPS-
+2 and Thermi, or were unassigned at the phylum level.
+At the genus level, Rickettsia had the highest relative
+abundance across all developmental stage
+samples. In all, 13 genera (and one family-level taxon)
+were present with a relative abundance of 1% or greater
+in at least one sample . The relative abundance
+of non-Rickettsia taxa increased along developmental
+stages (i.e. larvae to nymphs to adults) with the excep-
+tion of adult females, which displayed the highest rela-
+tive abundance of Rickettsia of all ﬁeld-collected life
+stages . Freshly hatched larvae also had a high
+relative abundance of Rickettsia . Seven taxa were
+found in all female and all freshly hatched larvae sam-
+ples (matching to the genera Rickettsia, Phyllobacterium,
+Burkholderia, Sphingomonas, Pseudomonas and the families
+Comamonadaceae
+and Oxalobacteraceae); however,
+females harboured more observed OTUs than freshly
+hatched larvae . Adult males had the lowest pro-
+portion of Rickettsia and thus had more genera
+with a relative abundance of ≥1% of any developmental
+stage. Wolbachia was the genus with the second highest
+
+relative abundance in males (mean = 8.4%) and was
+found in all other life stages, but not in all samples,
+with a low relative abundance (<0.1%). All ﬁeld-col-
+lected developmental stages contained Sphingomonas,
+Methylobacterium, Hymenobacter, Pseudomonas, Rhizobium,
+Agrobacterium, Luteibacter, Mycobacterium and Curtobac-
+terium. Both Borrelia and Anaplasma were only found in
+nymphs and adults.
+
+across
+
+Bacterial
+
+F = 9.33,
+
+R2 = 0.79,
+
+communities
+
+P = 0.001).
+
+the developmental
+stages were signiﬁcantly different according to a PER-
+MANOVA (unweighted F = 4.16, R2 = 0.62, P = 0.001,
+weighted
+The
+unweighted UniFrac (which does not account for abun-
+dance data) PCoA explained 41.78% (Axis 1) and
+12.03% (Axis 2) of the variation among developmental
+stages and showed clustering separation for lab-raised
+larvae and females . The weighted UniFrac
+PCoA explained 82.36% (Axis 1) and 9.55% (Axis 2) of
+the variation, with two male
+clustering
+together .
+
+samples
+
+We placed 91 519 sequences on a phylogenetic tree
+composed of 241 full-length 16S rRNA reference
+sequences using the EPA ML procedure. The vast
+majority (i.e. >89 000) of our sequences were placed on
+the Ixodes tick endosymbiont clade, and its component
+endosymbionts
+subclades
+
+composed of
+
+rickettsial
+
+© 2016 John Wiley & Sons Ltd
+
+M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4969
+
+Curtobacterium 
+
+Enterobacteriaceae (family) 
+
+Mycobacterium 
+
+Luteibacter 
+
+Agrobacterium 
+
+Rhizobium 
+
+Pseudomonas 
+
+Hymenobacter 
+
+Methylobacterium 
+
+Sphingomonas 
+
+Wolbachia 
+
+Borrelia 
+
+Anaplasma 
+
+Rickettsia 
+
+Larvae (Lab) 
+
+Larvae (Field) 
+
+Nymphs 
+
+Males 
+
+Females 
+
+Fig. 2 Relative abundance of genera occurring in whole ticks pooled by developmental stage. Only taxa with a relative abundance
+≥1% in at least one sample were considered. Taxonomic classiﬁcation includes genus when possible. Rickettsia represents the most
+abundant genus for all samples, but decreased in relative abundance from larvae to nymphs to adult males. The notable exception is
+adult females with a high relative abundance of Rickettsia.
+
+[Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+(B)
+
+1.0 
+
+0.9 
+
+0.8 
+
+0.7 
+
+0.6 
+
+0.5 
+
+0.4 
+
+0.3 
+
+0.2 
+
+0.1 
+
+0.0 
+
+Relative abundance 
+
+(A)
+
+Larvae (Lab) 
+
+Larvae (Field) 
+
+Nymphs 
+
+Males 
+
+Females 
+
+Fig. 3 Principal coordinate analysis of b-diversity measures for all developmental stages. A sequence depth of 100 000 was used. (A)
+Unweighted Unifrac distances, abundance is ignored; (B) weighted Unifrac distances, abundance is considered. Conﬁdence ellipsoids
+around samples display degree of variation.
+
+isolated from Ixodes scapularis ticks, their relatives in the
+western U.S.A. I. paciﬁcus and the European tick I. rici-
+nus. Fewer sequences in the order of a few hundred
+
+were placed on other clades related to Ixodes ticks, for
+example Rickettsia monacensis (Simser et al. 2002), non-
+Ixodes ticks, that is Rickettsia sibirica found primarily in
+
+© 2016 John Wiley & Sons Ltd
+
+4970 C . P . Z O L N I K E T A L .
+
+Dermacentor and Haemaphysalis ticks (Piesman & Gage
+2004), Rickettsia amblyommii isolated from the American
+lone star tick Amblyomma americanum (Stromdahl et al.
+2008), Rickettsia conorii and Rickettsia rhipicephali isolated
+from the brown dog tick Rhipicephalus sanguineus (Hayes
+& Burgdorfer 1979; Parola et al. 2009). Overall, short
+sequences could not be unambiguously placed on single
+branches, but were rather assigned along a clade, which
+lends a certain degree of conﬁdence. Global placement
+uncertainty was elevated, as captured by the EPA’s
+entropy measure (mean = 0.7767, SD = 0.0699). The
+placement of our sequences on the reference tree can be
+explored interactively on the iToL webserver (http://
+itol.embl.de/tree/286234201192691468834200).
+
+Whole female adult ticks, salivary glands and midguts
+
+A total of 392 OTUs was found across whole females,
+female salivary glands and female midguts. At a rar-
+efaction depth of 200 000 sequences, whole females
+exhibited the highest a-diversity for observed number
+of OTUs and phylogenetic diversity, with female mid-
+guts exhibiting the lowest measures . However,
+female salivary glands exhibited the highest a-diversity
+
+out of all three categories for both Shannon’s and Simp-
+son’s indices .
+
+Rickettsia was the most abundant genus found in
+whole females and their organs. Other than that, no
+bacterial genera were found with a relative abundance
+≥3%, although 47 taxonomic classiﬁcations – genus
+being the lowest – were present. In salivary glands, the
+predominant genera after Rickettsia were Anaplasma,
+Borrelia and Wolbachia, with average relative abundances
+of 12.5%, 7.2% and 1.9%, respectively. Anaplasma and
+Borrelia were also the most prominent genera found in
+midgut tissue, after Rickettsia, but at low average rela-
+tive abundance (0.3% and 0.8%, respectively; Fig. S3,
+Supporting information).
+
+Whole females and female organs differed signiﬁ-
+cantly for both unweighted (F = 5.044, R2 = 0.63,
+P = 0.01) and weighted UniFrac measures (F = 2.04,
+R2 = 0.41, P = 0.001) according to a PERMANOVA. Distinct
+clustering was observed for each organ and the whole
+tick when abundance data were not considered (un-
+weighted UniFrac PCoA) explaining 39.53% (Axis 1)
+and 22.35% (Axis 2) of the variation . Cluster-
+ing of whole females and midguts away from salivary
+abundance
+gland
+
+observed when
+
+samples was
+
+Whole females 
+
+Female salivary glands   Female midguts
+
+Whole females 
+
+Female salivary glands   Female midguts
+
+(B)
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Phylogenetic diversity
+
+(D)
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+Simpson's index
+
+(A)
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Observed OTUs
+
+(C)
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+Shannon’s index
+
+Whole females 
+
+Female salivary glands   Female midguts
+
+Whole females 
+
+Female salivary glands   Female midguts
+
+Fig. 4 Measures of a-diversity for whole female ticks, midguts and salivary glands. Each a-diversity measure (A) observed number
+of OTUs, (B) Faith’s phylogenetic diversity, (C) Shannon’s index and (D) Simpson’s index were calculated at a rarefaction depth of
+200 000 sequences.
+
+© 2016 John Wiley & Sons Ltd
+
+(A)
+
+(B)
+
+M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4971
+
+Whole females 
+
+Female salivary glands 
+
+Female midguts
+
+Fig. 5 Principal coordinate analysis of b-diversity measures in females. Measures were rareﬁed at a depth of 200 000 sequences. (A)
+Unweighted Unifrac distances, abundance is ignored. (B) Weighted Unifrac distances, abundance is considered. Conﬁdence ellipsoids
+around samples display degree of variation. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+information was considered in a weighted UniFrac
+PCoA, which explained 93.1% (Axis 1) and 5.14% (Axis
+2) of the variation .
+
+Discussion
+
+This study is the ﬁrst to examine the bacterial micro-
+biome across all developmental stages of the black-
+legged tick, the most important disease vector in the
+United States. This is also the ﬁrst study of tick micro-
+biomes, to our knowledge, to target both V3 and V4
+hypervariable regions of
+the 16S rRNA gene with
+longer 300 9 300 bp paired-end reads, thus enhancing
+our ability to establish OTUs and their taxonomic iden-
+tity. Many of the previous studies on tick microbiome
+have used Roche’s 454 pyrosequencing technology
+(Yuan 2010; Hawlena et al. 2013; Budachetri et al. 2014;
+Narasimhan et al. 2014; Ponnusamy et al. 2014; Qiu et al.
+2014; Rynkiewicz et al. 2015) that has a lower read
+throughput yield (most studies produced 2500–8000
+sequences/sample), very likely limiting the ability to
+sequence rare bacterial taxa and reducing the rarefac-
+tion level for diversity analyses.
+
+Our results support previous ﬁndings of Proteobacte-
+ria being the most abundant phylum in tick species
+(Yuan 2010; Hawlena et al. 2013; Narasimhan et al. 2014;
+Rynkiewicz et al. 2015; Van Treuren et al. 2015), with
+Rickettsia occurring in the highest proportion in
+
+© 2016 John Wiley & Sons Ltd
+
+blacklegged ticks (Moreno et al. 2006; Yuan 2010; Haw-
+lena et al. 2013; Rynkiewicz et al. 2015; Van Treuren et al.
+2015). Rickettsia are obligate, intracellular bacteria associ-
+ated with eukaryotes,
+including arthropods (Perlman
+et al. 2006). Although many Rickettsia species are non-
+pathogenic (Ahantarig et al. 2013), a number of them are
+including Rickettsia rick-
+known tick-borne pathogens,
+ettsii, R. conorii, R. sibirica, R. japonica, R. australis and
+R. akari (Azad & Beard 1998). The Rickettsia endosym-
+biont of I. scapularis, presumed to be nonpathogenic, has
+been identiﬁed in this tick in previous studies (Noda
+et al. 1997; Benson et al. 2004; Moreno et al. 2006; Gille-
+spie et al. 2012; Kurtti et al. 2015) and is believed to be
+the only Rickettsia species found in this tick (Gillespie
+et al. 2012; Kurtti et al. 2015). Recently, the name Rick-
+ettsia buchneri has been proposed for this species (Kurtti
+et al. 2015). The vast majority of our sequences were
+assigned to the rickettsial clade isolated from Ixodes ticks
+using a phylogenetic tree-guided procedure. Although
+individual short sequences could not be assigned to sin-
+gle tree branches with full conﬁdence, they were mostly
+assigned to neighbouring branches within a clade of sis-
+ter endosymbionts isolated from the same tick species.
+We interpret this as an indication of sufﬁcient evolution-
+ary informativeness
+identiﬁcation of our
+sequences at the clade level grosso modo, combined with
+the observation of greater divergence patterns of this
+locus in Rickettsia.
+
+the
+
+for
+
+4972 C . P . Z O L N I K E T A L .
+
+bacterial
+
+community. More
+
+We found similar a-diversity for ﬁeld-collected larvae
+and nymphs, compared to freshly hatched larvae, for
+all a-diversity measures . This implies that expo-
+sure to the natural environment has a strong effect on
+the microbiome, as the lab-raised larvae with no expo-
+sure to the tick’s natural habitat contained a much less
+diverse
+interestingly,
+nymphs that have taken a single bloodmeal were found
+to harbour bacterial communities with diversities simi-
+lar to those of ﬁeld-collected larvae, a life stage that has
+not yet fed on a host. This suggests that host bloodmeal
+has limited inﬂuence on the overall diversity of the bac-
+terial community within these ticks, an interesting ﬁnd-
+ing, as host bloodmeals are the only known source of
+pathogens transmitted to ticks. A recent study by Ryn-
+kiewicz et al.
+found a signiﬁcant difference
+between the bacterial communities of I. scapularis and
+D. variabilis and their shared host bloodmeal source.
+Further investigation of the inﬂuence of host bloodmeal
+source on tick bacterial communities is warranted,
+given the role that reservoir hosts play in maintaining
+and transmitting tick-borne pathogens to feeding ticks.
+
+
+
+than males
+
+communities
+
+The increase in the observed number of OTUs from
+lab larvae to ﬁeld larvae, nymphs and adult males, as
+well as the lower number of observed OTUs in adult
+females, is concomitant with the relative abundance of
+Rickettsia species throughout the life cycle. As Rickettsia
+represented over 99% of the taxa in lab larvae and stea-
+dily decreased to an average of 66% in adult males
+throughout development, it seems likely that other bac-
+teria replace Rickettsia. However, despite similar envi-
+ronmental exposure, including the time off-host and the
+number and types of host bloodmeals, host-seeking
+adult male and female blacklegged ticks exhibited
+markedly divergent bacterial communities from one
+another. Female ticks harboured more homogeneous
+bacterial
+. A less
+diverse microbiome in females has also been recently
+documented in both the blacklegged tick (Van Treuren
+et al. 2015) and the lone star tick, Amblyomma ameri-
+canum (Ponnusamy et al. 2014). An earlier study identi-
+ﬁed Rickettsia in only half of their I. scapularis nymphs
+examined (n = 10) compared to all of the larval samples
+(n = 10) and concluded that the decrease in Rickettsia
+between the larval and nymphal stages was due to the
+possibility that male ticks lose Rickettsia species through
+each subsequent moult (Noda et al. 1997). This was sup-
+ported by the lack of Rickettsia in the testes of adult
+males and its presence in adult female ovaries (Noda
+et al. 1997). However, although we found relatively less
+Rickettsia in males compared to females, our study indi-
+cates that Rickettsia sp. are found in whole I. scapularis
+adults of both sexes, a ﬁnding also recently reported
+(Van Treuren et al. 2015). If all external abiotic and
+
+biotic interactions are the same between sexes of the
+adult stage, it is plausible that internal factors such as
+hormonal mechanisms leading to sexual maturation
+and dimorphism in the adult stage may be driving
+these sex-speciﬁc differences in bacterial community
+diversity.
+
+Although a recent study by Narasimhan et al. 
+explored the microbiome of two different cohorts of lar-
+vae hatched and reared in the lab (reared in sterile con-
+ditions or so-called ‘normal’ containers), our study is
+the ﬁrst to compare lab-hatched to ﬁeld-collected larvae.
+The decrease in bacterial a-diversity observed in adult
+females was also observed in freshly hatched, lab-raised
+larvae. These larvae, having no exposure to the ﬁeld,
+presumably contain only bacteria that were transovari-
+ally transmitted. The high relative abundance of Rick-
+ettsia observed in females (mean = 97.8%) was observed
+at an even higher relative abundance in the lab-raised
+larvae  potentially due to certain bacteria found
+in females that are not transferred to their offspring.
+Transovarial transmission of Rickettsia has been detected
+in a number of tick species (Macaluso et al. 2001, 2002;
+Horta et al. 2006; Perlman et al. 2006), including I. scapu-
+laris (Narasimhan et al. 2014), which our results sup-
+port. It is possible that environmental bacteria present
+on the tick’s cuticle persisted into the DNA isolation
+procedure, despite sterilization with ethanol. However,
+this is unlikely, due to the large differences in Rickettsia
+present in lab-raised larvae compared to ﬁeld-collected
+larvae. Furthermore, if bacteria did persist on the tick
+cuticle following ethanol washes, this would have been
+observed across all tick developmental stages, including
+adult females, which was manifestly not the case.
+
+for
+
+species,
+
+tick-borne
+
+example, were
+
+In addition to Rickettsia, 12 bacterial genera and one
+family-level taxon were found in at least 1% of ﬁeld-
+collected developmental stages . Borrelia and
+Anaplasma
+found in
+nymphs and adults. Within blacklegged ticks, known
+B. burgdorferi
+and
+pathogens
+human
+A. phagocytophilum are not
+transovarially transmitted
+(Hodzic et al. 1998; Rollend et al. 2013), nor are they
+believed to be acquired in any manner other than via
+bloodmeals. Borrelia miyomotoi can be vertically trans-
+mitted (Barbour et al. 2009; Rollend et al. 2013); how-
+ever, the prevalence of this pathogen tends to be low
+in natural populations (Barbour et al. 2009; Tokarz
+et al. 2010), which may be why Borrelia species were
+In male
+not detected in our ﬁeld-caught
+I. scapularis,
+the average relative abundance of Wol-
+bachia was 8.4%, but remained very low (<0.1%) in all
+earlier developmental stages and adult females. Wol-
+bachia is an invertebrate-associated genus of Rickettsi-
+aceae endosymbionts that has radiated into various
+(Noda et al. 1997). Many supergroup
+supergroups
+
+larvae.
+
+© 2016 John Wiley & Sons Ltd
+
+if any,
+
+members have been shown to cause reproductive
+manipulation in various arthropods (Perlman et al.
+2006), while others engage in mutualistic relationships
+with their hosts, such as wCle of supergroup F, an
+obligate nutritional mutualist
+in the hematophagous
+bed bug Cimex lectularius (Hosokawa et al. 2010; Nikoh
+et al. 2014). The inﬂuence that Wolbachia has on tick
+species,
+is poorly understood. Other bacterial
+taxa (>1% relative abundance) found in at least one
+sample were taxa that have species that are found in
+water and soil habitats (Conn 1948; Janssen 2006). It is
+likely that ﬁeld-collected ticks acquired these bacteria
+in their host-seeking environment, where they spend
+the majority of their life cycle, potentially via spiracle,
+oral or genital openings (adults only), as opposed to
+during a bloodmeal. Variations in tick microbiome
+across different ﬁeld locations or geographic regions
+may exist owing to differences in environmental bacte-
+ria. Furthermore,
+clustering of adult
+females and freshly hatched larvae in the unweighted
+UniFrac PCoA is likely due to the lower number of
+OTUs present in these life stages , while the
+more divergent cluster of males in the weighted Uni-
+Frac PCoA is most likely due to the higher relative
+abundance of non-Rickettsia genera compared to the
+other life stages .
+
+the distinct
+
+and phylogenetic diversity
+
+Both a- and b-diversity measures differed between
+whole females,
+female salivary glands and female
+midguts. Both organs displayed lower a-diversity than
+the entire female for measures of observed number of
+, while
+OTUs
+female salivary glands displayed a higher a-diversity
+than midguts or even the entire tick for Shannon’s
+and Simpson’s index . This is due to these lat-
+ter measures taking evenness into account and the
+increased relative abundance of Borrelia and Ana-
+plasma,
+in the salivary gland samples. Furthermore,
+the unique clustering displayed by all
+three sample
+the differences in taxa
+types  suggests that
+for each of these samples represent unique signatures.
+When abundance was taken into account with the
+weighted UniFrac distances , the midguts and
+whole female ticks tended to cluster together, away
+from the more divergent salivary gland samples, pre-
+sumably due to the >98% relative abundance of Rick-
+ettsia species in these two sample types. The higher
+average relative abundance of Anaplasma and
+Borrelia found in the salivary glands compared
+to the midguts (<1% average relative abundance for
+both bacterial genera) may be due to differences in
+tissue tropism of known pathogens within these two
+genera. B. burgdorferi spirochetes are localized in the
+midgut (Piesman et al. 2001) and then migrate to the
+salivary glands during tick blood feeding (Spielman
+
+© 2016 John Wiley & Sons Ltd
+
+M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4973
+
+et al. 1987; De Silva & Fikrig 1995), while A. phagocy-
+tophilum resides in the salivary glands (Telford et al.
+1996) and then replicates during tick blood feeding
+(Liu et al. 2011).
+
+Overall,
+
+this study successfully identiﬁed bacterial
+genera and assessed bacterial diversity across all devel-
+opmental stages of the blacklegged tick. We used pools
+of ticks to examine large numbers of ticks for each
+developmental stage, while maintaining a high sequenc-
+ing depth for each group. Although pooling may
+obscure variations between individual ticks, it remains
+a solid strategy against PCR biases.
+
+Our results indicate that much of the bacterial diver-
+sity observed in these ticks is not acquired via a
+bloodmeal, but transmission from female to offspring
+(Rickettsia), as well as environmental acquisition, plays
+important roles in shaping the microbial community
+within I. scapularis. Further studies exploring the bacte-
+rial composition in nymphal and adult stages are war-
+ranted to understand when the decrease in bacterial
+diversity observed in adult females occurs. Given the
+hormonal changes that accompany female maturation
+and subsequent egg production (Rees 2004), it is con-
+ceivable that such changes alter the internal environ-
+ment enough to signiﬁcantly restrict the growth and/
+or survival of a large segment of the microbial com-
+munity.
+
+Given the overwhelming abundance of Rickettsia
+across life stages and organs, we attempted to dissect
+its subgeneric diversity using phylogenetic criteria and
+found the vast majority of the sequences to cluster
+with bona ﬁde Ixodes tick rickettsial endosymbionts. It
+remains unknown whether this is indicative of a geno-
+mewide pattern of conservation due to a bottleneck or
+a massive selective sweep accompanying symbiosis, or
+a mere localized snapshot of sequence conservation at
+this locus. I. scapularis is known so far to harbour one
+endosymbiotic rickettsial species (Gillespie et al. 2012;
+Kurtti et al. 2015), but ﬁner taxonomic resolution using
+more informative genetic markers at
+the subgeneric
+and strain levels may provide additional insight into
+population-level variation and adaptation to intracellu-
+lar
+life in coexistence with pathogens. Our study
+focused on an area with one of the highest pathogen
+prevalence levels in blacklegged ticks. Future studies
+examining the functional interplay between tick micro-
+biomes and pathogens over a larger geographic region
+are warranted.
+
+Acknowledgements
+
+We would like to thank Vanessa Vinci for help collecting tick
+specimens and Christopher E. Mason (Weill Cornell Medicine)
+for assistance with HTS. This work was partially funded by
+
+4974 C . P . Z O L N I K E T A L .
+
+IBM Research-Almaden and by Fordham University’s Research
+John McCloskey Research Grant
+Support Grant and Fr.
+awarded to CPZ and intramural support by SOK. This manu-
+script represents contribution #261 of the Louis Calder Center
+– Biological Field Station, Fordham University. We thank the
+editor and three anonymous reviewers for constructive com-
+ments that improved our manuscript.

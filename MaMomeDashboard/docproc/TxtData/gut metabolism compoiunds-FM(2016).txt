@@ -1,0 +1,163 @@
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+diseases may develop (Putignani et al., 2015), such as allergy,
+inﬂammatory bowel disease
+and
+diabetes, metabolic disorders, cardiovascular dyslipidemia,
+and neuropathology (Holmes et al., 2011).
+
+(IBD), obesity,
+
+cancer
+
+The advent of the omics-based systems biology era has opened
+a new scenario in the comprehension of the gut ecosystem
+by shedding light on its shape, modulation and interplay with
+microorganisms, food functionality, and the role of nutrients in
+health (Moco et al., 2013; Putignani et al., 2015).
+
+(i)
+The “omics” technologies are presently applied to:
+determine speciﬁc disease markers and novel diagnostic targets;
+(ii) discover functional alterations in the physiopathology of
+several diseases; (iii) discover the relationship between the gut
+microbiota and the host metabolisms (De Preter and Verbeke,
+2013). In particular, the use of metabolomics, being a well-
+established and powerful top–down systems biology approach,
+is crucial to unravel the genetics–environment–health relation,
+as well as the typical clinical biomarkers of the diﬀerent diseases
+(Moco et al., 2013). In fact, metabolomics changed the concept
+that the cellular metabolism proﬁle is complete (Dettmer et al.,
+2007). Therefore, metabolomics is useful to elucidate the complex
+interactions of components, to understand the whole system, and
+to discover new metabolites in order to provide both a diﬀerent
+perspective on cellular homeostasis (Liu et al., 2010), and new,
+unexpected pathways which may have a key physiological role
+(Zamboni et al., 2015). The metabolomics experiment (sampling,
+sample preparation, instrumental analysis, data processing, and
+data interpretation) fulﬁll the goal of improving the current
+status of biological information associated to the metabolome
+and, more generally, to functional genomics (Harrigan and
+Goodacre, 2003). Nowadays, metabolomics is used to: (i) identify
+biomarkers that could indicate the presence of a diseases, or
+a response to drug intervention (Dunn and Ellis, 2005); (ii)
+determine biochemical or environmental stresses (Le Gall et al.,
+2003); (iii) characterize microbial metabolism (Vaidyanathan
+et al., 2002); and (iv) characterize human health or disease
+(Holmes et al., 2011).
+
+Indeed, the metabolomics approach has been applied to
+several studies on the gut microbiota, mostly focused on the
+exploration of disease-related metabolites in order to obtain
+detailed information on the gut metabolic pathways. In fact,
+the gut microbiota is involved in several biochemical functions
+directly associated to the perturbation of speciﬁc gut microbial
+populations, which may lead to the development of diseases
+(De Preter, 2015; De Preter et al., 2015). In other words, as the
+gut microbiota interacts with the host metabolism and aﬀects
+physiological or pathological conditions, (Figure 1; Table 1;
+Del Chierico et al., 2012) the study of its composition helps
+discriminate between unhealthy and healthy subjects.
+
+Moreover, the identiﬁcation of metabolites may highlight
+how lifestyle and dietary habits aﬀect speciﬁc disease conditions
+(Vernocchi et al., 2012).
+
+Finally, metabolomics represents an unprecedented approach
+to collect the complex metabolic interactions between the host
+and its commensal microbial partners, oﬀering the opportunity
+to deﬁne individual and population phenotypes (Moco et al.,
+2013). In fact, several cellular metabolites are associated with
+
+the phenotypes of living organisms (i.e., human, mice, bacteria),
+and they represent the substrates and products of diﬀerent
+biochemical pathways reﬂecting genetic and environmental
+factors (Kim et al., 2016).
+
+Furthermore, these data will serve as a basis to comprehend,
+at the cellular and molecular levels, the relationships between
+nutritional status and disease risk predisposition, thus allowing
+to formulate nutritional recommendations.
+
+This review is focused on the application of MS- and NMR-
+based metabolomic techniques to describe the gut microbiota
+metabolome and human physiology in relation to nutritional
+programs and therapies.
+
+VOLATILE AND NON-VOLATILE
+COMPOUNDS: DETECTION METHODS
+AND DATA ANALYSIS
+
+Metabolomics uses high throughput techniques to characterize
+and quantify small molecules in several bioﬂuids (urine, serum,
+plasma, feces, saliva), revealing a unique metabolic signature
+(Nicholson and Lindon, 2008).
+
+However, due to the chemical diversity,
+
+the diﬀerent
+properties of metabolites, and the large dynamic range of
+metabolite concentrations in samples, it is almost impossible to
+measure the complete metabolome with only one technique (De
+Preter and Verbeke, 2013; Smirnov et al., 2016). Considering
+that the amount of predictable metabolites and derivatives in
+mammals, plants and bacteria is unknown (Weckwerth and
+Morgenthal, 2005), there is the need of diﬀerent analytical
+platforms and complex integrated computational pipelines,
+to cover
+adjusted by analytical and chemical parameters,
+complete metabolome pathways
+in the diﬀerent bioﬂuids
+(Savorani et al., 2013). Moreover, the collection and preparation
+of samples, and the selection of the appropriate analytical
+platforms are fundamental requisites for reproducibility of
+sample manipulation (Dunn and Ellis, 2005). Besides,
+the
+storage and the continuous sample freeze/thawing may alter the
+composition and stability of the samples and consequently the
+precision and accuracy of results (Roessner et al., 2000).
+
+Finally,
+
+the fundamental requirements of metabolomics
+studies are: accurate study design; sample treatment and platform
+set up, corroborated by data analysis; integration of results; and
+biological interpretation (Smirnov et al., 2016).
+
+Metabolomics can be divided into two diﬀerent groups:
+targeted analysis and non-targeted discovery analysis (Dettmer
+et al., 2007). In particular, the targeted approach is related
+to the analysis of
+the diﬀerent classes of molecules (i.e.,
+carbohydrates, lipids, aminoacids), while non-targeted analysis
+gives a rapid snapshot of the metabolic proﬁle of samples by
+using technologies able to detect a wide number of metabolites
+(Smirnov et al., 2016).
+
+Detection Methods
+At present, we are able to separate, detect, characterize,
+and quantify metabolites
+relevant metabolic
+pathways thanks to the rapid development of a range of
+
+and their
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+July 2016 | Volume 7 | Article 1144
+
+Vernocchi et al.
+
+Gut Microbiota Metabolome
+
+FIGURE 1 | Effect of gut microbiota metabolome on organs and tissues.
+
+TABLE 1 | Role of gut microbiota metabolites on health and disease.
+
+Beneﬁcial microbial activities
+
+Beneﬁts

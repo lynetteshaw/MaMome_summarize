@@ -1,0 +1,128 @@
+Human 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+SPECIAL ARTICLE
+
+Disease Models & Mechanisms 
+
+Table 1. Humans also have an appendix,
+which  is  absent  in  mice. These
+
+Disease Models & MechanismsDisease Models & Mechanisms 
+
+Human
+
+A
+
+B
+
+G
+
+V
+
+V
+
+C
+
+L
+
+P
+
+M
+
+M
+
+SM
+
+L
+
+MM
+
+C
+
+Fig. Overall, the mammalian digestive tract is strongly conserved, with
+major differences between species being likely driven by diet. The morphology of mouse and human colons also
+differs: the human colon is divided into haustra, whereas the mouse
+colon is rather smooth. Although these differences do not mean
+that  the  murine  model  is  not  valuable  to  study  host-microbiota
+interactions, care must be taken in making direct parallels between
+murine  and  human  gut  with  regard  to  microbiota  composition,
+because host-microbiota co-evolution could have been influenced
+by these anatomical divergences. Composition of the gut microbiota in healthy humans and mice
+Overall, the gut microbiota of human and mice are dominated by
+two  major  phyla,  Bacteroidetes  and  Firmicutes  (Eckburg  et  al., Considering the restrictions referred to previously, the analysis is
+based on a limited number of samples: five murine fecal 16S rDNA
+studies  (Nagy-Szakal  et  al., On the other hand, a study by the MetaHIT consortium
+investigating metagenomes from 124 European individuals discovered
+that 90% of the individuals of the cohort share a common core of nine
+genera, at a 10% sequence coverage threshold (i.e. species being only
+considered  present  if  a  minimum  of  10%  of  their  genome  was
+recovered in the sequenced metagenome) (Qin et al., Enterotypes  were  also  identified  in  the  laboratory  mouse  gut
+microbiota  (Hildebrand  et  al., A reduced ratio
+of Firmicutes:Bacteroidetes was also found in a study linking gut
+microbiota composition and metabolic adaptations in mice on high-
+fat diets (Serino et al., The discrepancies in the importance
+of the Firmicutes:Bacteroidetes ratio found across studies could be
+linked to the heterogeneity in age of subjects, because the ratio of
+Firmicutes:Bacteroidetes has been found to change with age (Mariat
+et  al., Histological features of murine DSS-induced colitis. ( C, intestinal crypts; G, goblet cells; L, lamina
+propria; ME, muscularis externa; MM, muscularis mucosae; MT: muscularis tunics; SM: submucosa; V: villi. Mouse studies have also detected changes in abundance of bacterial
+phylotypes that solely happen in mice, such as of Tenericutes and
+Deferribacteriaceae (Nagalingam et al., 2010) were found only
+in human Crohn’s disease studies. content in diets of both humans and mice (Akaza, 2012; Menon et
+al., Murine  models  are  usually  inbred  in  order  to  reduce  the
+phenotypic  variation  that  arises  from  genetic  heterogeneity. A typical example is colitis, for which there are currently
+about  60  different  mouse  models  (Peloquin  and  Nguyen,  2013;
+Wirtz and Neurath, 2007). IBD research
+has  yielded  several  mouse  models  (usually  referred  to  as  colitis
+models  because  the  pathology  mostly  resembles  ulcerative  colitis
+symptoms,  as  mentioned  above),  including  genetically  modified
+models,  where  a  candidate  gene  involved  in  IBD  development  is
+altered or knocked out, and models in which chemicals or infectious
+pathogens are used to induce gut inflammation and changes in gut
+microbiota  composition,  leading  to  colitis. Furthermore,  the
+chemical  itself  might  affect  the  composition  or  function  of  the
+resident gut microbiota before the onset of colitis (Nagalingam et
+al., This study shows that the gut
+microbiota  composition  of  humanized  mice  in  general  does  not
+differ significantly from that of the initial human donors, except for
+the absence of many low-abundance Firmicutes, but these mice fail
+to recapitulate a comprehensive response to infections. Similarly,  although  the  gap  between  humanized
+mouse models and the human gut microbiota within its original host
+needs to be acknowledged, these models provide unique possibilities
+to manipulate the human microbiota and potentially assess causality
+in the role of the gut microbiota in health and disease. Furthermore,  it  was  hypothesized  that  the
+differences  between  mice  and  rats  in  recapitulating  the  human
+donors’  microbiota  is  due  to  the  intrinsic  differences  in  genetic
+backgrounds of the recipient models, which might control for the
+establishment of the transferred microbiota (Wos-Oxley et al., More  recently,  another  study  employed  metagenomic
+approaches to compare the gut microbiota composition of humans
+and guinea pigs (Hildebrand et al., The  pig  gut  microbiota  is  becoming  an
+increasingly intensive area of study owing to the scale of the pig
+husbandry  industry,  as  well  as  to  the  similarities  in  anatomy,
+physiology  and  immunology  to  the  human  gastrointestinal  tract
+(Litten-Brown  et  al., It is, however,
+important to keep in mind that models always have some degree of
+dissimilarity  with  the  system  modeled. In  addition,  even  well-controlled  gut  microbiota
+experiments  using  mouse  models  show  important  inter-study
+variations due to confounding factors in the experimental setup, such
+as mouse house origin, maternal effects, environmental conditions
+(food composition, light, stress factors, pathogen infection), genetic
+backgrounds  and  in  the  downstream  analysis  methods  applied. Competing interests
+The authors declare no competing financial interests. Funding
+T.L.A.N. is supported by VIB international PhD program. Supplementary material
+Supplementary material available online at
+http://dmm.biologists.org/lookup/suppl/

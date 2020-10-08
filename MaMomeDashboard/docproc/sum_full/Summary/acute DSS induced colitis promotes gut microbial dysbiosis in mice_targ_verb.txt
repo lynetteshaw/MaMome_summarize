@@ -1,0 +1,47 @@
+The aim of the present study was to utilize Illumina
+sequencing of the 16S rRNA gene and inferred meta-
+genomics by open source software PICRUSt (Phyloge-
+netic Investigation of Communities by Reconstruction of
+Unobserved States  to investigate differences in
+microbiome composition and function in the fecal and
+colonic mucosa of mice treated with 5% DSS for 5 days. For colonic
+samples, the tissue was cut open and approximately
+50 mg of mucosa scrapings were taken. DNA extraction
+from colonic mucosa samples was done using ZR Tissue
+and Insect DNA kit (Zymo Research Corp.). Both DNA
+extraction kits included a bead-beating step for the
+mechanical lysis of microbial cells. DNA samples were
+normalized to 20 ng/ml, and quality checked by PCR
+ampliﬁcation of the 16S rRNA gene using universal. Principle coordinate analysis (PCoA) of weighted UniFrac distances, a measure of b-diversity of bacterial community. ( The p values were determined using
+PERMANOVA. The low-abundance phyla (<1% of
+included Acidobacteria, Actinobacteria,
+community),
+Cyanobacteria, Fibrobacteres, Lentisphaerae, Planctomy-
+cetes, Spirochaetes, TM7, and Tenericutes. Results of the
+relative abundances of various phyla are summarized
+in Fig. 4b..
+
+Of the 151 taxa, 68 had abundances greater than
+or equal to 0.01% of community, whereas 83 were
+below 0.01% of community. Bacterial taxa with relative
+abundance of (cid:5)0.01% of community were analysed
+using PLS-DA to identify bacteria that were most
+characteristic of DSS or control treatments. Percentage of relative abundances of bacterial phyla for: (a) fecal samples and (b) colon mucosa samples. DSS, dextran sulphate sodium..
+
+The indigenous gut microbiota are thought to play a key
+role in the pathogenesis of IBD. Some of these taxa have been reported to increase
+as a result of DSS  and although they may have
+different roles, their association with DSS in both colonic
+mucosa and in feces may indicate that they may play
+signiﬁcant roles in the potentiation of the abnormal
+inﬂammatory response seen in DSS-treated animals, and
+could therefore be important as intervention targets
+against the disease. Lending support to these results,
+Berry et al. Given that the microbial analysis of diversity, commu-
+nity composition and also changes at phylum level for
+colonic samples did not show any signiﬁcant difference
+between the DSS and control mice, the results suggest
+that analysis at microbial functional level might reveal
+important colitis-related changes in gut microbiome
+that are otherwise not noticeable at higher phylogenetic
+or community levels.

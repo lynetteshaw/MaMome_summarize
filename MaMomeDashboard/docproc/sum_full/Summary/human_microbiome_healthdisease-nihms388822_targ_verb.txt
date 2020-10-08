@@ -1,0 +1,33 @@
+The congruent phylogenies of mammals and their microbiota8 provide strong evidence for
+the inheritance of the microbiota7 Although inheritance of the microbiota from the father is
+presently little studied, increasing evidence supports inheritance from the mother34,53. In many host species, paternal contributions to offspring traits have been well
+documented57,58; these observations have been extended to the microbiome, where paternal
+contributions to offspring H. pylori allele composition have been shown59, In any event,
+there is evidence for extensive horizontal gene transfer (HGT) within human populations,
+functional classes, and ecological niches60, indicating the site-specificity and dynamism of
+selection on the human microbiome. Analogous changes may be occurring in other body
+sites as senescence advances. Genes may have alternative effects at different life
+stages, illustrating the idea of antagonistic pleiotropy81. A related hypothesis is that co-evolved microbiota are
+adaptive for the human species both by supporting early-in-life host functions and by
+leading to later-in-life host demise 86..
+
+The cutaneous microbiome is an obvious target in specific diseases, such as psoriasis, a
+chronic, idiopathic inflammatory dermatologic condition87. Studies to
+explore these findings using HTS are currently underway89. Atopic dermatitis, another
+chronic inflammatory condition, has increased in incidence approximately three-fold over
+the last 30 years in industrialized countries, suggesting a potential role for microbiome
+alterations. Similarly,
+Propionibacterium acnes has been implicated in the common dermatologic condition, acne. Chronic skin ulcers, often secondary to venous stasis or diabetes, lead
+to substantial morbidity. In H. pylori-negative individuals, gastric
+microbiota diversity is high; most of the prominent gastric phylotypes (Streptococcus,
+Actinomyces, Prevotella, Gemella) also are abundant in the oropharynx of these
+individuals93; indicating that either many constituents are swallowed from more proximal
+sites, or that close relatives of the oral microbiota colonize more distally. control subjects, while both Bacteroidetes and Firmicutes were relatively depleted in those
+with Fusobacterium-rich malignancies102. IBD susceptibility is associated with host polymorphisms in bacterial sensor genes such as
+nucleotide-binding oligomerization domain-containing protein 2 (NOD2) also known as
+caspase recruitment domain-containing protein 15 (CARD15)107,108 and toll-like receptor 4
+(TLR4)109, and IBD patients sometimes improve following antibiotic treatment110. Patients with Crohn’s disease have
+over-representation of E. faecium and of several Proteobacteria compared to controls115. Despite substantial taxonomic variation, functional
+metagenomic differences were minor37. Antibiotic use in human
+infancy, before age 6 months, was significantly associated with obesity development123. Alterations in the gut microbiome also occur with interventions used to treat
+obesity.

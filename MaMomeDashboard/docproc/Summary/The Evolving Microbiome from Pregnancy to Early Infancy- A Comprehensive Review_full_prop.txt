@@ -1,0 +1,75 @@
++34-958-246187
+† All the authors are the members of SAMID Network. Keywords: microbiome; pregnancy; fetus; placenta; newborn; infancy; critical illness; sepsis; allergy
+
+1. Indeed, recent research complements the study of microbiome
+with metabolomics and proteomic analysis in order to complete the whole metabolic picture of the
+microbiota and its metabolic status. Therefore, further studies are needed to conﬁrm the evolution of
+microbiota during pregnancy and its inﬂuence in healthy and complicated labors and the newborn 
+The present review summarizes the actual knowledge related to changes in maternal and fetal
+microbiota occurring during pregnancy, which may inﬂuence the newborn and infant development. In addition, changes in speciﬁc pathological infancy situations have also been revised. Vaginal Microbiota
+
+The composition of the vaginal microbiota is dynamic, corresponding with hormonal ﬂuctuations
+throughout the woman’s reproductive life, and also during pregnancy. Microorganism may pass through the
+placenta and colonize the fetus ascending from the vagina, from the oral cavity, from the urinary track,
+or from the intestinal lumen of the mother. critically revised scientiﬁc evidence supporting both
+the “sterile womb” and “in utero colonization” hypotheses. These authors concluded that there
+is more evidence supporting a sterile womb environment. One well-controlled
+study compared oral, vaginal, and placenta samples with paired contamination controls. This study
+reported that when using molecular methods, placental samples were undistinguishable from their
+paired-contaminated samples. Microbiome studies on early infancy
+have demonstrated a signiﬁcant inﬂuence of the mode of delivery on the microbiome composition,
+suggesting the likely association of the infant gut bacteria with maternal vaginal or skin microbiome
+habitats. In contrast, C-section-born
+infants harbored bacterial communities similar to those found on the skin surface niche, dominated by
+Staphylococcus, Corynebacterium, and Propionibacterium spp. This could explain the higher colonization
+rates of these genera in vaginal compared to C-section-delivered infants  In fact, Sakwinska et
+al. reported that only vaginal delivered and fully breastfed infants had gut microbiota dominated by
+Biﬁdobacteria 
+
+Finally, there are several potential preventive intervention strategies to restore the gut microbiota
+after C-section  The intervention could be focused on maternal administration of probiotics and
+prebiotics during gestation. In addition, DHM favors an intestinal microbiome
+more similar to MOM despite the diﬀerences between MOM and DHM  Preterm infants are
+prone to develop free radical-associated conditions that may be inﬂuenced by the microbiota. Liu et al analyzed the gut microbiome in pregnant women aﬀected by preeclampsia. They showed an overall increase in pathogenic bacteria such as Clostridium perfringens and Bulleidia
+moorei and a reduction in probiotic bacteria Coprococcus catus. Overweight pregnant women show a reduction in the number of Biﬁdobacterium and Bacteroides,
+and an increase in the number of Staphylococcus, Enterobacteriaceae, and Escherichia coli  Additionally,
+higher levels of Staphylococcus and Akkermansia muciniphila, and lower levels of Biﬁdobacterium were
+detected in women with excessive weight gain during pregnancy as compared to normal-weight
+ones  Consequently, this altered maternal microbiome will contribute to shape an altered
+composition of the oﬀspring’s microbiome and thus inﬂuence their future health. To our best knowledge, only one study has analyzed the microbiota in children in a pediatric ICU
+(PICU)  These authors found that the skin, oral, and fecal microbiota diﬀers sharply from critically
+ill children compared with healthy children and adults. On one hand, sedation and endotracheal intubation
+decrease mucociliary clearance and cough, reducing the elimination of microorganisms. may also inﬂuence the alteration of the digestive
+functions  Freedberg et al. The presence of these bacteria is lower in Crohn’s disease patients, as well as
+anti-inﬂammatory fecal bacteria metabolites  Besides, it has been shown that infants with AD
+improved their symptomatology when the abundance of fecal Coprococcus eutactus, a butyrate-producing
+bacterium, is increased  Consequently, it has been proposed that dysbiotic gut microbiota and
+subsequent dysregulation of the gut inﬂammation may promote an aberrant Th2-type immune response
+to allergens altering the epithelial barrier in AD skin 
+
+9.2. These authors have observed a characteristic
+depletion of dihomo-γ-linoleate, a precursor of anti-inﬂammatory ω-3 polyunsaturated fatty acid and
+prostaglandins that may be related 
+
+As described previously, diﬀerent factors have been associated with infant microbiome and the
+risk of asthma, such as furry pets exposure  gestational age, the mode of delivery (vaginal vs.
+C-section), and antibiotic treatment (direct vs. indirect via mother) among others  However,
+
+Nutrients 2020, 12, 133
+
+12 of 21
+
+there is no doubt that a key issue is the type of feeding. Furthermore, a correlation between the
+presence of certain taxa in sputum and the clinical course of community acquired pneumonia has been
+described 
+
+HIV infected children present reduced gastrointestinal microbial diversity  Modulation of
+the intestinal microbiome through nutritional supplementation, with the aim of decreasing bacterial
+permeability, has been attempted in the context of HIV infection with scarce success 
+In addition, the microbiome has been suggested to impact the risk of diﬀerent infectious diseases. Author Contributions: All authors have contributed to the writing of the work. All authors have read and agreed to the published version of the manuscript. Funding: This research was funded by the PN I+D+I 2008–2011 (Spain), ISCIII- Sub-Directorate General for
+Research Assessment and Promotion and the European Regional Development Fund (ERDF), RETICS Maternal
+and Child Health and Development Network, SAMID Network, Ref. Anna Parra-Llorca
+acknowledges Rio Hortega grant CM18/00165 from the Instituto de Investigación en Salud Carlos III (Ministry of
+Science, Universities and Innovation; Kingdom of Spain); Talía Sainz is funded by The Instituto de Salud Carlos
+III- Spanish Ministry of Science and Innovation cofounded by FEDER (EU). ( Translational Research Network for Pediatric
+Infectious Diseases (RITIP), Madrid, Spain.

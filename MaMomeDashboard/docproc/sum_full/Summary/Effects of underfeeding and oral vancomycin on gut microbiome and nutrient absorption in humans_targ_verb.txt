@@ -1,0 +1,40 @@
+in  phylum-  or  genus-level  relative  abundance  between  diet  arms, 
+with the exception of the Verrucomicrobia phylum which was sig-
+nificantly  increased  during  UF  (Extended  Data  Fig. At  a  finer 
+taxonomic level, we were able to identify four 16S ribosomal RNA 
+sequence  variants  that  were  significantly  associated  with  the  diet 
+arm (independent of order): A. muciniphila, Bacteroides coprocola, 
+a  Lachnospiraceae  sp. Samples 
+were  selected  from  18  individuals  at  four  key  time  points  includ-
+ing a baseline  sample,  midpoint samples  during  each 3-d UF and 
+OF period, a sample during the washout period in between and a 
+sample during the vancomycin or placebo arm. Differentially  abundant 
+bacteria  on  each  diet  arm  (independent  of  order)  were  identified 
+using  a  paired  Wilcoxon  test. This  analysis  revealed  nine  bacte-
+rial  species  that  were  significantly  different  between  the  two  diet 
+arms , including an enrichment 
+for A. muciniphila during UF, consistent with our 16S rRNA gene 
+sequencing-based  analysis  . Veillonella dispar
+Veillonella parvula
+Veillonella sp. Lactobacillus phage Lc_Nu
+Lactobacillus salivarius
+Klebsiella oxytoca
+Megasphaera micronuciformis
+Odoribacter splanchnicus
+Parabacteroides merdae
+Alistipes putredinis
+Erysipelotrichaceae bacterium 21_3
+Lachnospiraceae bacterium 7_1_58FAA
+Ruminococcus sp 5_1_39BFAA
+Clostridium leptum
+Oscillibacter sp. 5 | changes in the gut microbiome in response to oral vancomycin. Each data point represents the mean value 
+of samples from each subject (n = 63 samples from 23 subjects). c, Principal coordinate analysis of Bray–Curtis dissimilarity for 
+ordination of microbial communities of subjects on vancomycin or placebo. Each data point shows the mean and standard deviation of samples from each 
+subject (n = 70 samples from 24 subjects; P < 0.0001, determined using Adonis comparing effect of treatment and accounting for repeated measures 
+per subject). e, Venn diagram of 16S rRNA sequence variants 
+significantly different between vancomycin and placebo, or UF and OF, respectively (FDR < 0.1, two-sided unpaired or paired Wilcoxon test). In mice, A. muciniphila counteracts the 
+effect of the decrease in mucous layer thickness produced by a high-
+fat diet26, producing weight loss without changes in food intake. In  humans,  a  randomized,  double-blind,  placebo-controlled  pilot 
+study revealed a trend towards decreased body weight and fat mass . in  response  to  A.  muciniphila  supplementation45. Additional studies are 
+warranted to elucidate the role and mechanisms of A. muciniphila 
+in nutrient absorption.

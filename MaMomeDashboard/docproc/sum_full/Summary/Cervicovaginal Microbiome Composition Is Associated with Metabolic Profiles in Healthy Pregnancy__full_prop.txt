@@ -1,0 +1,104 @@
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al. KEYWORDS Lactobacillus, longitudinal, metabolome, microbiome, pregnancy, vagina
+
+Vaginal microbes sustain important physiologies and produce metabolites that can
+
+directly or indirectly affect maternal health and infant development during preg-
+nancy. ®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+FIG 3 Ordination of vaginal microbiomes during pregnancy. ( A) Nonmetric multidimensional scaling (nMDS) of Bray-Curtis dissimilarity between vaginal
+microbiomes (n (cid:2) 42 samples) of mothers. This linear
+model identiﬁed the top 10 annotated GC-TOF MS metabolites that were associated
+with variation in the microbial community composition, which are shown in Fig. Metagenomics and functional potential of communities. LEfSe identiﬁed several pathways that differed between
+L. crispatus and G. vaginalis, in particular, an enrichment of ammonia assimilation genes
+in G. vaginalis . PERMANOVA analysis of
+lipidomics data from saliva samples showed the largest difference between mothers
+and offspring (PERMANOVA; R2 (cid:2) 69%; P (cid:2) 0.001; Fig. The infant metabolome for saliva and urine
+had little variance attributed to which subject donated the sample, but GC-TOF MS was
+able to detect a signiﬁcant change between the infant urine metabolome at birth
+versus 6 and 12 months of age (PERMANOVA; R2 (cid:2) 34%; P (cid:2) 0.0007; Table S2). In
+this study, we followed the vaginal microbiome through the trimesters of pregnancy for
+18 women, tracking changes in the bacterial communities with longitudinal samples
+and capturing their functional potential with metagenomic sequencing and multiple
+platforms to assess metabolomic proﬁles. However, a subset of women exhibited compositional shifts in their CVF
+microbiota as pregnancy progressed, as has also been seen in other larger cohorts 
+We found several strong correlations between particular vaginal communities and
+metabolites, which may help us understand the physiology underlying distinct vaginal
+microbiota structures that were evident in our study. Because indole-3-lactate can act as a ligand for AhR, we speculate that L. crispatus may
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 10
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Microbiome Composition in Healthy Pregnancy
+
+®
+
+regulate the IL-22-AhR response in the vagina, reducing the risk of vaginal candidiasis
+in the same way IAld does, and potentially activating the AhR response in newborns to
+prevent early-life candidiasis. The largest differences between functional
+capacity appeared to be between communities where L. crispatus or G. vaginalis were
+the most abundant bacterial taxon. Studies have pointed out
+Gardnerella’s preference for ammonia as a nitrogen source  moreover, this ability to
+assimilate ammonia and produce amino acids has been implicated in mutualistic
+interactions between species of Prevotella, in the context of BV  Together, these
+BV-associated organisms contribute to genital inﬂammation, which may play a role in
+the susceptibility of certain diseases, such as HIV 
+
+Increased abundance of mannitol when L. crispatus was present is an important and
+unexpected ﬁnding . To this end, reducing fructose 6-phosphate to
+mannitol-1-phosphate may be an alternative and vital way L. crispatus regenerates
+NAD(cid:5) for glycolysis  We did ﬁnd the gene mannitol-1-phosphate dehydroge-
+nase, responsible for converting fructose 6-phosphate to mannitol-1-phosphate, was
+highly correlated (R2 (cid:2) 0.9) with the relative abundance of L. crispatus. Strikingly, the ability of lipidomics to differentiate mothers from
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 11
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al. At each time point, maternal saliva, urine, and cervical vaginal ﬂuid
+were collected. Maternal urine was collected using a sterile collection cup. GC-TOF MS metabolites were extracted with a mixture of 3:3:2 acetonitrile-isopropyl
+alcohol-water according to standard operating procedures from the Fiehn Lab at the WCMC 
+LC-MS/MS samples were extracted using a variant of the Matyash method  Data were acquired for
+complex lipids in positive and negative electrospray mode on a Waters CSH column and an Agilent 6530
+QTOF mass spectrometer  Metabolites were identiﬁed by retention time MS/MS matching using
+MassBank of North America (http://massbank.us) and NIST 17 libraries. The instrument was controlled
+using the MALDI-MSI 4800 imaging tool. Aliquots of 100 to 200 (cid:2)l were added to lysing matrix
+E tubes prealiquoted with 500 of hexadecyltrimethylammonium bromide (CTAB) DNA extraction buffer
+and incubated at 65°C for 15 min. Although DNA was extracted from
+CVF, attempts to extract DNA from saliva were unsuccessful, potentially due to the storage swabs
+trapping the biomaterial. The amplicon
+library was concentrated using the Agencourt AMPure XP system (Beckman-Coulter), quantiﬁed using
+the Kapa library quantiﬁcation kit (Kapa Biosystems), and diluted to 2 nM. Equimolar PhiX was added at
+40% ﬁnal volume to the amplicon library; the 16S rRNA amplicon pool was sequenced on the Illumina
+NextSeq 500 platform on a 153-bp by153-bp sequencing run, and the ITS2 amplicon pool was sequenced
+on the Illumina MiSeq platform on a 290-bp by 290-bp run. After PCR, the libraries were cleaned of smaller DNA fragments, using
+AMPure XP magnetic beads (Beckman-Coulter), and pooled by concentration. Raw sequence data were converted from bcl to fastq format using bcl2fastq
+v2.16.0.10. Data were visualized using Tableau and Adobe Illustrator unless
+otherwise noted. Traditional R2
+values were also calculated by dividing the sum of squares by total sum of squares. Ethics approval and consent to participate. Metabolomics data for all samples can be found in Table S1. SUPPLEMENTAL MATERIAL
+
+Supplemental material is available online only. We thank Dan Cooper for enthusiasm and strategic advice.

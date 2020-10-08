@@ -1,0 +1,170 @@
+118
+
+FEMS Microbiology Reviews, 2016, Vol. 2013; Lawley and Walker 2013), protect against epithelial injury (Rakoff-Nahoum et al. They are also able to modulate bone-mass
+density (Sj ¨ogren et al. Slowly we begin to un-
+derstand the pitfalls that are associated with such experimen-
+tal design, and we acknowledge the need for standardizing. Adjacent to the
+mucosa, facultative anaerobes are able to grow because of
+
+Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018
+
+120
+
+FEMS Microbiology Reviews, 2016, Vol. For ethical and practical reasons, it may
+not always be feasible to collect tissue (biopsy) samples. It seems advisable to include
+a standard level of analysis methods, looking systematically for
+differences between a pre-defined set of taxonomic units, e.g.
+phylum, genus and species level. Mice harboring
+human microbiota had low levels of mucosal CD4+ and CD8+
+T cells, few dendritic cells and reduced antimicrobial peptide
+expression. Importantly, mice with mouse mi-
+crobiota conferred better protection against Salmonella infection
+than those with human microbiota. Antibiotic treatment
+
+Antibiotics can be used to demonstrate that the mere presence
+of bacteria contributes to a specific phenotype (Ochoa-Rep ´araz
+et al. Right after birth, pups can be fostered by an-
+other mother and when mice are older, bacteria can be trans-
+ferred by gavage, intrarectal administration or by simply cohous-
+ing the animals. Artificial colonization of GF mice with specific pathogen-free
+(SPF) flora partly reversed the response to restraint stress (de-
+fined by an increase of plasma cortisol levels) when the flora
+was introduced at 6 weeks of age but not at 14 weeks of age
+(Sudo et al. 2012), in accordance with the successful treatment
+of human relapsing C. difficile colitis. Later in life, im-
+munity is far less susceptible to change by microbial influence,
+probably due to increased stability of microbiome homeostasis. Of high importance in orchestrating
+intestinal barrier function and innate sensing are ILCs, which
+are the resident immune cell regulators at epithelial surfaces
+that share many of the CD4+ and CD8+ T-cell functions (Son-
+nenberg and Artis 2012). Still, even gene deletions that cause a remark-
+able phenotypic abnormality, such as the Ob/Ob mouse, have
+been shown to have a much weaker effect than a change in diet
+on the microbial composition (Hildebrandt et al. The presence of segmented
+filamentous bacteria in the gut of mice of Taconic caused a
+higher frequency of Th17 cells compared with mice from Jack-
+son Laboratory who lacked these bacteria (Ivanov et al. This type of variation is not
+restricted to commercially available strains but also plays a role
+when comparing studies performed in different animal labora-
+
+tory sources (Ubeda et al. One might expect that the development of spontaneous dis-
+eases in transgenic or knockout mice will depend on whether
+they are housed in an SPF or in a conventional environment. Cage effects in conventionally housed mice are dramatic. Diet
+
+Diet is one of the most important environmental factors influ-
+encing microbiome composition. 125
+
+Variable that influences
+microbiota composition
+
+Possible complication
+
+Maternal transmission
+Diet
+Environment, stress
+Stress
+Cage effect
+
+Genetic drift
+Standardization fallacy
+Logistic problems
+
+Table 1. Differences in animal feed might contribute to the lack of re-
+producibility of animal model experiments between institutes,
+and the type of feed should be mentioned upon publication. Control
+
+Littermates
+
+Strain
+
+Facility
+
+%DSS
+
+Effect
+
+Microbiota studied
+
+Reference
+
+Genetic
+modification
+
+Nlrp3 knockout
+
+Nlrp3 knockout
+
+Nlrp3 knockout
+
+Commercial
+wild type
+Commercial
+wild type
+Wild type
+
+Nlrp3 knockout
+Nlrp3 knockout
+Casp1 knockout
+
+Wild type
+Wild type
+Wild type
+
+Casp1 knockout
+Casp1 knockout
+
+Wild type
+Wild type
+
+Casp1 knockout
+Casp1 knockout
+Casp1 knockout
+
+Wild type
+Wild type
+Wild type
+
+No
+
+No
+
+NC
+
+NC
+Yes
+NC
+
+NC
+NC
+
+NC
+NC
+No
+
+NC: not communicated. Environmental conditions and routine procedures
+in the animal facility might induce unwanted stress responses. Other
+stressors include the presence of other animals and population
+density. However, cohousing of mice with dif-
+ferent genotypes (e.g. wild type and knockout) has been shown
+to change the gut microbial composition, affecting their natu-
+ral immunological responses to a treatment or a disease trigger
+(Garrett et al. In case the effect is more subtle,
+it is recommended to separate littermate controls according to
+their genotype right after weaning for at least 30 days before
+the experiment so that the mice can develop their inherent mi-
+crobiota; however, they should be divided over several cages. Collections of standardized microbiota
+
+Establishing a collection of different standardized microbiotas
+in isobiotic mice to be shared between institutions for repro-
+ducible experimentation has been proposed (Hooper, Littman
+and Macpherson 2012). Increasing evidence sug-
+gests that the microbial environment influences the innate
+and adaptive immune system and largely determines the out-
+come of such investigations, even in disease models where the
+microbiome is not under investigation. G.0787.13; G0C3114], a
+Methusalem grant [BOF09/01M00709]), Ghent University grants
+(MRP, GROUP-ID consortium), a grant from the ‘Foundation
+against Cancer’  and grants from the Flanders Insti-
+tute for Biotechnology (VIB).

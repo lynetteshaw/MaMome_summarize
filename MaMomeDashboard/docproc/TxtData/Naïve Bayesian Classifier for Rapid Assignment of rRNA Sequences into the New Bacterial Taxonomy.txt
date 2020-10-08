@@ -1,0 +1,811 @@
+5262
+
+WANG ET AL.
+
+APPL. ENVIRON. MICROBIOL.
+
+TABLE 1. Number of taxa at different ranks
+
+Taxonomy
+
+No. of
+sequences
+in corpus
+
+No. of:
+
+Domains Phyla Classes Orders Families Genera
+
+Bergey’s
+NCBI
+
+5,014
+23,095
+
+1
+1
+
+24
+24
+
+33
+31
+
+79
+82
+
+211
+209
+
+988
+1,187
+
+to that genus. For higher-rank assignments, we sum the results for all genera
+under each taxon.
+
+Library comparison. For each of the greater than 1,000 bacterial taxa, the two
+samples are compared to estimate the probability that the observed membership
+could be drawn by chance from a single underlying distribution.
+
+For taxa with greater than ﬁve sequences assigned, the standard two-popula-
+tion proportions test is used to estimate the probability of the observed differ-
+ences  The P value is estimated from the Z critical value, where
+
+y N
+
+(cid:3)
+
+x N
+
+(cid:3)
+
+2
+
+1 N
+
+(cid:4)
+
+N1
+
+1
+
+(cid:1)(cid:6)(cid:7)1 (cid:3) (cid:6)(cid:8)(cid:2) 1
+
+2
+
+Z (cid:2)
+
+and where N1 and N2 are the total number of sequences for library 1 and 2,
+respectively, x and y are the number of sequences assigned to taxon T from
+library 1 and 2, respectively, and (cid:6) equals (x (cid:1) y)/(N1
+
+(cid:1) N2).
+
+For taxa with fewer than ﬁve sequences assigned, a statistical test ﬁrst developed
+for comparing transcript levels in “digital Northern” analysis is used. The prob-
+ability of the observed difference in assignment to taxon T is estimated as follows:
+
+P(cid:7)y|x(cid:8) (cid:2)(cid:2)N2
+
+(cid:3) y
+
+N1
+
+x!y!(cid:2)1 (cid:4)
+
+(cid:7)x (cid:4) y(cid:8)!
+N2
+N1
+
+(cid:3) (cid:7)x(cid:1)y(cid:1)1(cid:8)
+
+Since each taxon is tested (multiple tests), reported signiﬁcance values must be
+interpreted with caution. The taxa (and hence the tests) are nested, and no
+attempt is made to correct for multiple tests.
+
+SeqMatch k-NN classiﬁer. The RDP SeqMatch tool is a k-nearest-neighbor
+(k-NN) classiﬁer  It uses a word-matching strategy not requiring alignment to
+determine the percentage of shared seven-character words between a query and
+members of a database of sequences. This tool assigns queries to the lowest taxon
+shared by the highest-scoring k database sequences. For the tests described here,
+the Bergey corpus was used as the database, and a query was assigned to the
+same genus as the closest-matching sequence from the Bergey corpus (effec-
+tively, k (cid:2) 1). Setting k to 1 ensured that all queries were classiﬁed at all
+taxonomic ranks for comparison with the RDP Classiﬁer.
+
+Phylogenetic analysis. Aligned 16S rRNA sequences were selected at the RDP
+website and analyzed using the RDP Tree Builder tool. This tool utilizes Weigh-
+bor  which uses the weighted neighbor-joining algorithm of phylogenetic
+reconstruction. Weighbor parameters were set to alphabet size 4 and effective
+sequence length 1,000, and the Jukes-Cantor distance correction was employed.
+Tree Builder incorporates branch-order conﬁdence estimation using 100 boot-
+strap samples. The resultant tree was downloaded in PostScript format and
+embellished with Adobe Illustrator.
+
+Implementation and availability. The Classiﬁer engine and related software
+were written in Java (API v1.4.1) and have been tested on the Solaris  Linux
+ and Microsoft Windows XP operating systems
+using Java virtual machines from Sun and Apple. The online version of Classiﬁer
+and Library Compare are built on Java technology, including Java Server Page
+and Java Servlet Technology (Sun Microsystems).
+
+An online version of the Classiﬁer is available at http://rdp.cme.msu.edu
+/classiﬁer. A user can submit one sequence or a group of sequences for classiﬁ-
+cation. The sequences can be saved in a ﬁle for ﬁle upload or inserted into the
+text area on the start page. The online Classiﬁer requires a sequence of at least
+200 bases in length. Up to 10,000 query sequences may be submitted in Fasta,
+GenBank, and EMBL formats. Single sequences may also be submitted in raw-
+text format. The Classiﬁer automatically checks both the forward and reverse
+orientations of the sequence and returns only the results for the correct orien-
+tation. Taxonomic assignments above a user-speciﬁed conﬁdence threshold are
+presented in an interactive taxonomic hierarchy. Each line in the hierarchy
+contains summary information, including the taxon rank and name and the
+number of query sequences assigned to that taxon. Users can navigate through
+the hierarchy by clicking on the various taxa. Clicking on the “show assignment
+detail” link will display the detailed classiﬁcation results for all or a speciﬁed
+subset of the user’s queries. Each result contains the name of a user’s sequence,
+a list of assigned taxa, and the corresponding conﬁdence estimates. In the detail
+view, a “(cid:9)” after the sequence name indicates that the minus strand of the
+sequence was submitted by the user. Results can be downloaded in a text format
+and imported into a spreadsheet program for further analysis.
+
+The online version of Library Compare is available at http://rdp.cme.msu.edu
+/comparison. A user can upload two ﬁles containing sequences from two librar-
+ies. After the sequences are classiﬁed, the statistical comparison analysis is
+
+MATERIALS AND METHODS
+
+Type sequences with Bergey’s taxonomy. Small-subunit rRNA sequences con-
+sisting of 5,014 bacterial species type strain sequences in 988 genera (Table 1),
+along with associated taxonomic assignment information, were obtained from
+Bergey’s Taxonomic Outline of the Prokaryotes (release 5.0   The
+sequences averaged 1,460 bases in length and had a range of 1,200 to 1,833 bases.
+These sequences formed the Bergey corpus. Each sequence was labeled with
+a set of taxa from domain to genus. From the highest rank to the lowest, the
+major formal taxonomic ranks are domain, phylum, class, order, family,
+genus, and species. There are occasional intermediate ranks such as “sub-
+class” and “suborder”.
+
+Complete rRNA database sequences with NCBI’s taxonomy. All available
+16S rRNA sequences were obtained
+from the January 2004 release of the RDP. Taxonomic information for these
+sequences was obtained from the January 2004 release of GenBank. These
+sequences are classiﬁed into 1,187 genera in the NCBI taxonomy  Initial
+placement into the NCBI taxonomy is based on information provided by the
+sequence submitter, with modiﬁcations by the NCBI staff. The sequences aver-
+aged 1,454 bases in length. These sequences formed the NCBI corpus.
+
+Algorithm. The Classiﬁer uses a feature space consisting of all possible 8-base
+subsequences (words). Word sizes between 6 and 9 bases were tested in prelim-
+inary experiments. Sizes of 8 and 9 bases gave nearly identical results, while sizes
+of 6 and 7 bases were less accurate, especially with shorter test sequences (not
+shown). As there are fewer possible words of size 8 than size 9, size 8 was chosen
+for all further work to reduce memory requirements. The position of a word in
+a sequence is ignored. As with text-based Bayesian classiﬁers, only those words
+occurring in the query contribute to the score  A similar word-based clas-
+siﬁcation scheme has been used to search for horizontal gene transfer events in
+whole-genome sequences 
+
+Word-speciﬁc priors. Let W (cid:2) {w1, w2, . . ., wd} be the set of all possible
+eight-character subsequences (words). From the corpus consisting of N se-
+quences, let n(wi) be the number of sequences containing subsequence wi. The
+expected-likelihood estimate (determined with the Jeffreys-Perks law of succes-
+(cid:2) [n(wi) (cid:1)
+sion) calculated for each word over the entire corpus with the formula Pi
+0.5]/(N (cid:1) 1) was used as a word-speciﬁc prior estimate of the likelihood of
+observing word wi in an rRNA sequence. The values 0.5 in the numerator and 1
+in the denominator keep the probabilities in the range 0 (cid:3) Pi
+
+(cid:3) 1.
+
+Genus-speciﬁc conditional probabilities. For genus G with a training set
+consisting of M sequences, let m(wi) be the number of these sequences contain-
+ing word wi. The conditional probability that a member of G contains wi was
+estimated with the equation P(wi¦G) (cid:2) [m(wi) (cid:1) Pi]/(M (cid:1) 1). Ignoring the
+dependency between words in an individual sequence, the joint probability of
+observing from genus G a (partial) sequence, S, containing a set of words, V (cid:2)
+{v1, v2, . . ., vf} (V (cid:1) W), was estimated as P(S¦G) (cid:2) (cid:4) P(vi¦G).
+
+Naı¨ve Bayesian assignment. By Bayes’ theorem, the probability that an un-
+known query sequence, S, is a member of genus G is P(G¦S) (cid:2) P(S¦G) (cid:5)
+P(G)/P(S), where P(G) is the prior probability of a sequence being a member of
+G and P(S) the overall probability of observing sequence S (from any genus).
+Assuming all genera are equally probable (equal priors), the constant terms P(G)
+and P(S) can be ignored. We classify the sequence as a member of the genus
+giving the highest probability score, but we ignore the actual numerical proba-
+bility estimate.
+
+Bootstrap conﬁdence estimation. For each query sequence, the collection of
+all eight-character subsequences (words) in the query was ﬁrst calculated. Nor-
+mally, when data consist of independent features, a bootstrap sample size equal
+to the number of features in the original sample is chosen. In this case, the
+number of completely independent features equals the number of nonoverlap-
+ping words. So for each bootstrap trial, a subset of one-eighth of the words was
+randomly chosen (with replacement) and the words in this subset were then used
+to calculate the joint probability. The number of times a genus was selected out
+of 100 bootstrap trials was used as an estimate of conﬁdence in the assignment
+
+VOL. 73, 2007
+
+THE RDP CLASSIFIER
+
+5263
+
+TABLE 2. Classiﬁer accuracy versus bootstrap conﬁdence
+for the Bergey corpus
+
+Length of
+segment
+(bases)
+
+Full
+400
+200
+100
+50
+
+% of correct classiﬁer assignments within a
+bootstrap conﬁdence range of a:
+
+100–95% 94–90% 89–80% 79–70% 69–60% 59–50%
+
+98.0
+98.3
+98.2
+97.4
+94.9
+
+66.4
+86.1
+90.1
+89.8
+83.9
+
+69.2
+75.9
+83.0
+82.5
+76.8
+
+41.8
+65.4
+75.6
+75.6
+67.9
+
+46.2
+61.1
+64.6
+64.7
+59.5
+
+34.7
+49.2
+55.7
+55.6
+49.7
+
+a Bootstrap conﬁdence reﬂects the frequency of most common assignments
+out of 100 bootstrap samplings. Percentages of correct assignments at all ranks
+and within this bootstrap conﬁdence range are shown.
+
+each assignment. Overall,
+for near-full-length sequences,
+97.5% of taxon assignments matched in 95 or more of the 100
+bootstrap trials, and these assignments were correct 98% of the
+time (Tables 2 and 3).
+
+We also conducted a similar series of exhaustive leave-one-
+out testing using the RDP SeqMatch tool. The overall accura-
+cies for near-full-length test sequences were similar to those of
+the results for the RDP Classiﬁer: 99.5%, 98.8%, 97.8%,
+95.1%, and 91.9% for the ranks phylum, class, order, family,
+and genus, respectively.
+
+Using the RDP 9 alignment  we extracted segments cor-
+responding to 100-base regions of the Escherichia coli refer-
+ence sequence J01695 at 25-base intervals and used each re-
+gion independently for exhaustive leave-one-out
+testing,
+removing the corresponding full-length sequence from training
+for each test. In general, accuracy was greater for regions
+mapping to the 16S hypervariable regions . The av-
+erage bootstrap conﬁdence estimate was similarly higher in the
+hypervariable regions .
+
+For each of the 393 near-full-length sequences misclassiﬁed
+at the genus level, we determined the distance to other mem-
+bers of the Bergey corpus by calculating the pairwise identity
+between sequences using the corresponding aligned sequences
+from the RDP website. For 250 of the misclassiﬁed sequences,
+1 or more sequences in different genera were closer than all
+other sequences in the genus to which the sequence was as-
+signed in the taxonomy (Table 4).
+
+To understand the nature of three of these misclassiﬁca-
+tions, we explored sequences from the Alicyclobacillaceae fam-
+ily. We chose this family because it contains three sequences
+misclassiﬁed by the RDP Classiﬁer, only one of which was also
+
+TABLE 3. Percentage of matching bootstrap assignments for
+various query lengths for the Bergey corpus
+
+Length of
+segment
+(bases)
+
+Full
+400
+200
+100
+50
+
+% of classiﬁcation tests within a bootstrap conﬁdence range ofa:
+
+100–95% 94–90% 89–80% 79–70% 69–60% 59–50%
+
+97.5
+93.4
+86.3
+70.5
+46.2
+
+0.5
+1.5
+3.2
+6.5
+10.1
+
+0.5
+1.4
+2.8
+6.6
+10.6
+
+0.4
+1.0
+2.0
+4.2
+7.4
+
+0.4
+0.9
+1.9
+3.7
+6.8
+
+0.4
+0.9
+1.6
+3.1
+6.2
+
+a Frequency of most common assignments out of 100 bootstrap samplings.
+Percentages of classiﬁcation tests that were within the speciﬁed range of most
+common bootstrap assignment are indicated.
+
+FIG. 1. Overall classiﬁcation accuracy by query size (exhaustive
+leave-one-out testing using the Bergey corpus). Numbers are percent-
+ages of tests correctly classiﬁed.
+
+performed based on the default conﬁdence threshold of 80%. The comparison
+results are presented in a taxonomic hierarchy for easy navigation. The hierarchy
+view shows the summary of the assignments and the signiﬁcance values from
+the comparison. Taxa with signiﬁcant differences in representation are
+marked. The comparison results can also be displayed in a table sorted by
+signiﬁcance. The user can choose to change the classiﬁcation conﬁdence thresh-
+old from these two pages. The number of sequences assigned to each taxon will
+then be recalculated based on the user-speciﬁed conﬁdence and compared to
+obtain a new set of statistical results. Both comparison results and classiﬁcation
+assignments can be downloaded in text format and imported into a spreadsheet
+program for further analysis.
+
+The Classiﬁer command line program trained on Bergey’s release 5.0 data,
+along with the source code, javadoc, example taxonomy and sequence ﬁles, and
+help ﬁles, is freely available from http://sourceforge.net/projects/rdp-classiﬁer/
+and is released under the terms of the GNU General Public License (http://www
+.gnu.org/copyleft/gpl.html).
+
+RESULTS
+
+We tested the Classiﬁer by exhaustive leave-one-out testing
+on the entire Bergey corpus. For each test, we reserved a single
+sequence from the corpus as the test sequence and retrained
+the Classiﬁer on the remaining sequences. The process was
+repeated for all sequences in the corpus. The corpus contained
+453 genera represented by single sequences. For these se-
+quences, the (obviously) incorrect genus assignment was not
+considered in the summary statistics, but the results were in-
+cluded for higher ranks containing other genera with valid
+training sets . In addition to testing the near-full-length
+sequence, we repeated the leave-one-out testing of the RDP
+Classiﬁer on small contiguous regions of 400, 200, 100, and 50
+bases chosen at random from the test sequence. The overall
+accuracy for near-full-length and 400-base segments was above
+88.7% down to the genus level. For 200-base segments, the
+accuracy was still above 92.1% down to the family level, while
+83.2% were classiﬁed accurately at the genus level. The accu-
+racy for the 50-base segments was only 94.1% at the phylum
+level and decreased dramatically to 51.5% at the genus level.
+Bootstrap analysis was used to estimate the conﬁdence of
+
+5264
+
+WANG ET AL.
+
+APPL. ENVIRON. MICROBIOL.
+
+FIG. 2. (A) Classiﬁcation accuracy rate for the Bergey corpus with sequence segments of 100 bases, moving 25 bases a time. The gray bars on
+the x axis deﬁne the hypervariable regions. The average classiﬁcation accuracy rate at the genus level was 70% over all 100-base regions.
+(B) Average bootstrap conﬁdence estimate for each segment.
+
+misclassiﬁed by SeqMatch. Bergey’s taxonomic placement of
+these three sequences appeared not to be congruent with the
+derived phylogeny .
+
+We tested the performance of the Classiﬁer on a more
+diverse corpus consisting of 23,095 16S rRNA sequences as
+classiﬁed by the NCBI in its taxonomy database. We randomly
+chose a test set of 20% of these for leave-one-out
+testing, as described above. The accuracy using the NCBI tax-
+onomy database and various query lengths was very similar to
+the previous results (Table 5).
+
+DISCUSSION
+
+The RDP Classiﬁer was developed to provide rapid taxo-
+nomic placement based on rRNA sequence data. As technical
+improvements have made it easier to obtain rRNA data, the
+use of these data has spread beyond the dedicated molecular
+
+TABLE 4. Number of genus misclassiﬁcations for near-full-length
+sequences by phylum (the Bergey corpus)
+
+Phyluma
+
+Totalb
+
+No. (%)
+misclassiﬁed
+
+No. (%) of taxonomic
+anomaliesc
+
+Firmicutes
+Proteobacteria
+Actinobacteria
+Bacteroidetes
+Cyanobacteria
+Fusobacteria
+Aquiﬁcae
+Spirochaetes
+Chlorobi
+Other phyla
+Overall
+
+1,295
+1,641
+1,220
+192
+14
+33
+12
+50
+12
+92
+4,561
+
+165 
+154 
+31 
+27 
+6 
+4 
+2 
+2 
+2 
+0 
+393 
+
+80 
+115 
+23 
+20 
+6 
+2 
+1 
+2 
+1 
+0 
+250 
+
+a Only phyla with at least one misclassiﬁcation are listed.
+b Number of test sequences excluding singletons at the genus level.
+c Numbers of misclassiﬁed sequences with their nearest neighbors in a differ-
+
+ent genus, indicating that the genus is not monophyletic.
+
+phylogenist. For many such users, a complete and thorough
+phylogenetic analysis may not be an option. Instead, these
+users may simply want a rapid method that provides a taxo-
+for their unknowns. In addition, high-
+nomic placement
+throughput environmental rRNA projects routinely produce
+hundreds to hundreds of thousands of sequences per sample. It
+is unrealistic to imagine that all of these sequences will be
+examined in detail. For these high-throughput experiments,
+the RDP Classiﬁer can provide rapid taxonomic placement and
+summary data, including the number of input sequences be-
+longing to each taxon.
+
+For the near-full-length and 400-base partial rRNA se-
+quences, the Classiﬁer was accurate down to the genus level,
+while even with 200-base partial sequences, the Classiﬁer was
+accurate down to the family level. The Classiﬁer did not per-
+form well for partial sequences with a length of 50 bases, likely
+due to insufﬁcient features provided by such short partial se-
+quences.
+
+For shorter sequences, classiﬁcation conﬁdence was greatly
+improved by using the bootstrap to estimate classiﬁcation re-
+liability (Table 2). In our tests, most classiﬁcation assignments
+were made with high conﬁdence. For near-full-length se-
+quences, most misclassiﬁcations were probably due to errors in
+the underlying taxonomy (see below), but for shorter se-
+quences, misclassiﬁcations may reﬂect the lack of data. The
+bootstrap helps determine whether available data are sufﬁcient
+for a robust classiﬁcation. The majority of available rRNA
+sequences are short (under 1,200 bases in length), and short
+partial sequences are commonly used for environmental survey
+sequencing.
+
+Naı¨ve Bayesian classiﬁers are one example of supervised
+classiﬁcation methods. The k-NN method is another super-
+vised classiﬁcation method that is arguably simpler and often
+works well in practice  We compared the RDP naı¨ve
+Bayesian Classiﬁer with the RDP SeqMatch k-NN classiﬁer.
+
+VOL. 73, 2007
+
+THE RDP CLASSIFIER
+
+5265
+
+crepancies between the underlying phylogeny and
+Bergey’s taxonomy. Over 60% of misclassiﬁed sequences were
+actually more similar to sequences in other genera than to
+sequences in their own genera, strong evidence that these
+genera may not be monophyletic. These misclassiﬁcations are
+not evenly distributed among the taxa. Of the three most rep-
+resented phyla (Firmicutes, Proteobacteria, and Actinobacteria),
+the Actinobacteria had the fewest errors (3%, or 31 in 1,220
+trials), while the misclassiﬁcation rate for the Firmicutes was
+about ﬁve times as high  Within
+the Firmicutes, more than two-thirds of the errors occurred in
+the class Clostridia  and within that class, the
+genus Eubacterium stood out, with 30 misclassiﬁcations in 41
+trials (see the supplemental material).
+
+To identify an example of the sources of errors in the tax-
+onomy, we conducted a phylogenetic analysis of classiﬁcation
+errors in the family Alicyclobacillaceae . The RDP Clas-
+siﬁer misclassiﬁed three sequences from the Alicyclobacil-
+laceae: Sulfobacillus disulﬁdooxidans and Sulfobacillus thermo-
+sulﬁdooxidans, which were both misclassiﬁed in the genus
+Alicyclobacillus, and Alicyclobacillus acidoterrestris, which was
+misclassiﬁed in the genus Bacillus. SeqMatch misclassiﬁed only
+A. acidoterrestris. Interestingly, these three “errors” made by
+the RDP Classiﬁer appear to be in agreement with phyloge-
+netic analysis. Literature searches conﬁrmed that, subsequent
+to the publication of version 5.0 of Bergey’s taxonomic outline,
+all three had been reevaluated in line with the classiﬁcation
+given by the RDP Classiﬁer. The strains originally attributed to
+Sulfobacillus were both reevaluated in 2005 and reassigned to
+the genus Alicyclobacillus, matching the classiﬁcation of the
+RDP Classiﬁer but no longer matching the classiﬁcation from
+SeqMatch. The sequence originally attributed to A. acidoter-
+restris was the result of a culture mix-up and belongs in the
+genus Bacillus, as assigned by both classiﬁers. Unlike the Seq-
+Match nearest-neighbor classiﬁer, the RDP naı¨ve Bayesian
+Classiﬁer uses information averaged over the entire genus and
+hence is less inﬂuenced by individual misplaced training se-
+quences.
+
+Pyrosequencing can now produce up to 100 Mb in less than
+8 h (Roche product literature). Sogin and colleagues recently
+used the ﬁrst version of pyrosequencing, which provided up-
+to-100-bp reads, to rapidly analyze large numbers of 16S rRNA
+V6 variable regions from environmental samples  In that
+study, taxonomic diversity was assessed through alignment to
+members of a reference database of vetted V6 sequences. The
+classiﬁcation accuracy of the RDP Classiﬁer for 100-base frag-
+ments varied greatly by region along the 16S rRNA molecule
+. Variable regions were, in general, more accurately
+
+TABLE 5. Classiﬁer accuracy at various query
+lengths (NCBI’s taxonomy)
+
+% of segments accurately identiﬁed in:
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Genus
+
+99.8
+99.7
+99.7
+99.2
+94.6
+
+99.3
+99.3
+99.2
+98.4
+90.9
+
+98.6
+98.5
+98.1
+95.7
+81.6
+
+97.1
+97.0
+95.7
+88.9
+69.2
+
+92.1
+90.4
+86.6
+74.9
+52.8
+
+Length of
+segment
+(bases)
+
+Full
+400
+200
+100
+50
+
+FIG. 3. Phylogenetic analysis of the Alicyclobacillaceae, including
+the genera Sulfobacillus and Alicyclobacillus. Sequences for each of the
+11 species type strains of Alicyclobacillaceae available in release 5.0 of
+Bergey’s taxonomic outline, along with additional sequences for four
+Alicyclobacillaceae species type strains that became available after the
+release of the outline (marked with an asterisk), and two Bacillus
+species type strains were analyzed using the weighted neighbor-joining
+method  The tree is rooted using Escherichia coli sequence J01695
+as the outgroup. Bootstrap conﬁdence estimates above 85% are
+shown. Three misclassiﬁcations made by the RDP Classiﬁer are high-
+lighted, with the original (release 5.0) description appended with a
+corrected description. S. disulﬁdooxidansT became A. disulﬁdooxi-
+dansT. In 2005, S. disulﬁdooxidans was formally reclassiﬁed as a new
+combination, A. disulﬁdooxidans  S. thermosulﬁdooxidans VKM
+1269T became “A. tolerans K1.” In release 5, sequence Z21979 was
+listed as coming from the type strain (VKM 1269) of S. thermosulﬁ-
+dooxidans. This agrees with the original publication for the sequence
+ The same group later reported that the sequence was probably
+from S. thermosulﬁdooxidans strain K1, not VKM 1269  Two
+independent sequences (X91080 and AB089844) for the type strain of
+S. thermosulﬁdooxidans are available. They are nearly identical to each
+other and 19% different from Z21979. In 2005, S.
+thermosulﬁdooxidans strain K1 was reclassiﬁed as the type strain of a
+new species, A. tolerans  In our analysis, however, the sequence for
+K1 given in the naming paper (accession number AF137502) is 8%
+different from that for Z21979. Although still listed in the GenBank
+record as from A. tolerans strain K1, Z21979 is most probably not from
+strain K1 and not even from a member of the species A. tolerans. A.
+acidoterrestrisT became Bacillus sp. Sequence X60602 was published
+in 1991 as from the type strain (DSM 3922) for A. acidoterrestris 
+The GenBank record also lists this as from strain DSM 3922, but a
+strain mix-up in the culture supplied by the DSMZ was reported in
+1992  The type strain (ATCC 49025, listed by the DSMZ as
+equivalent to DSM 3922) was resequenced in 2005 (AY573797 .
+These two sequences are 14% different, and X60602 is now de-
+scribed by GenBank as from a Bacillus sp.
+
+We chose to use SeqMatch for the comparison, because it, like
+the RDP Classiﬁer, is offered through the RDP. Also, Seq-
+Match has been shown to be more accurate than BLAST in
+ﬁnding the most similar rRNA sequence as deﬁned by pairwise
+aligned distance  The RDP Classiﬁer and RDP SeqMatch
+had nearly identical overall error rates. However, only about
+two-thirds of these errors were in common (not shown). For
+both classiﬁers, many of these misclassiﬁcations appeared to
+result from errors in the underlying taxonomy (not shown);
+however, the two classiﬁers often responded differently to spe-
+ciﬁc taxonomic anomalies.
+
+Many, if not most, of the 393 misclassiﬁcations made by the
+RDP Classiﬁer with the Bergey corpus are likely due to dis-
+
+5266
+
+WANG ET AL.
+
+APPL. ENVIRON. MICROBIOL.
+
+classiﬁed than more-conserved regions. Variable regions V2
+and V4 were classiﬁed correctly at rates as high as 82%
+and 90% at the genus and family levels, respectively (at all
+levels of conﬁdence), while accuracy for fragments containing
+the V6 region were less reliably classiﬁed (73% at the genus
+level). The V6 region is rather small and ﬂanked by
+highly conserved regions  In contrast, the V2 region is
+ﬂanked on both sides and the V4 region is ﬂanked on the 3(cid:10)
+side by semiconserved regions. These regions likely account for
+both the increased accuracy for and the broadened peaks
+around these variable regions. These regions may make good
+targets as the read length of pyrosequencing technology in-
+creases.
+
+In bacteriology, although nomenclature is governed by an
+ofﬁcial code, there is no deﬁnitive or ofﬁcial taxonomy. The
+RDP Classiﬁer is not limited to using the bacterial taxonomy
+proposed in Bergey’s Taxonomic Outline of the Prokaryotes
+ We chose Bergey’s taxonomy for use because it is readily
+available and Bergey’s Manual of Systematic Bacteriology is
+widely respected in the microbiological community. The RDP
+Classiﬁer worked equally well when trained on the NCBI tax-
+onomy. There is signiﬁcant congruence between the two tax-
+onomies, and both are based, at least in part, on phylogenetic
+principals. The RDP Classiﬁer likely can be adapted to addi-
+tional phylogenetically coherent bacterial taxonomies that may
+gain acceptance in the future.
+
+For query sequences from regions of bacterial diversity with
+less-deﬁned taxonomy, the RDP Classiﬁer tends to provide
+classiﬁcation results with low conﬁdence estimates. For exam-
+ple, in one library of Acidobacteria environmental clone se-
+quences, 72 of 77 sequences were classiﬁed with less than 80%
+conﬁdence even at the phylum level (not shown). Such low
+conﬁdence classiﬁcation results may help identify sequences
+for which a more thorough analysis is likely to give the highest
+payoff.
+
+The RDP Classiﬁer is fast enough to handle large sample
+volumes. For example, on a 2.66-GHz Apple Intel Xeon pro-
+cessor, the program classiﬁes approximately nine sequences
+per second (with 100 bootstrap samples of each). The online
+version of the Classiﬁer returns results for submissions of up to
+10,000 user sequences in a few minutes and provides both
+summary and detailed classiﬁcation assignments. The Library
+Compare tool enables the analysis of microbial community
+composition based on the taxonomic group assignments. This
+tool leverages the Classiﬁer to provide rapid comparison of
+two samples, each containing up to 5,000 sequences. The re-
+sults can be explored interactively and can also be downloaded
+in a form suitable for importing into common spreadsheet
+programs.
+
+The RDP has been using the RDP Classiﬁer with Bergey’s
+taxonomy internally for over 4 years to give order to its col-
+lection of over 300,000 bacterial rRNA sequences. During that
+time, the RDP has updated the Classiﬁer to use data from
+three successive versions of Bergey’s taxonomic outline. This
+taxonomy is still evolving as species are reevaluated and dis-
+crepancies are resolved. As these updates have been released,
+it has proved relatively simple to retrain the Classiﬁer and
+update the assignments for sequences in the RDP library. As
+bacterial taxonomy continues to evolve, we expect the Classi-
+ﬁer’s performance to continue to improve.
+
+ACKNOWLEDGMENTS
+
+This research was supported by the Ofﬁce of Science (BER), U.S.
+Department of Energy, grant DE-FG02-99ER62848, and the National
+Science Foundation, grant DBI-0328255.
+
+We thank Sue Barnes for allowing us access to her unpublished
+
+sequence data and Phillip Neal for constructive suggestions.

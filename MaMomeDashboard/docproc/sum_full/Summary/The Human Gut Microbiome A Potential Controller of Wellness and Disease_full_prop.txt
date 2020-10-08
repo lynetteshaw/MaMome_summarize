@@ -1,0 +1,87 @@
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 2
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+INTRODUCTION
+
+The human microbiome comprises of collective genomes of
+microbiota inhabiting us, namely protozoa, archaea, eukaryotes,
+viruses and predominantly bacteria that live symbiotically on and
+within various sites of the human body. Examples of occupied
+habitats include our oral cavity, genital organs, respiratory tract,
+skin and gastrointestinal system (Lloyd-Price et al., The diverse gastrointestinal microbiota is predominantly
+composed of bacteria from three major phyla, namely Firmicutes,
+Bacteroidetes, and Actinobacteria (Tap et al., Until recent decades, the
+properties of the human microbiome and the host–microbiota
+interactions have been largely unknown due to technology
+limitations especially in examining non-cultivable microbes
+of interest, and lack of population-scale data depicting the
+microbiota compositions and functions. Robust experimental modeling enables
+systematic manipulation of variables to investigate hypotheses
+deduced from “omics” studies. For this, the application of
+‘humanized’ gnotobiotic animal model that harbors deﬁned
+collection of sequenced microbial communities, has gained
+momentum in recent years in microbiome research (Faith
+et al., This allows proof-of-mechanism study to examine
+the potential
+(Turnbaugh et al., 2009b),
+antibiotic, environmental toxicants (Stedtfeld et al., 2017) and
+host genotypic variation (Ley et al., impacts of diet
+
+these eﬀorts
+
+Undoubtedly,
+
+shed light on the clinical
+signiﬁcance of the human microbiome which is pretty much a
+‘black box.’ Metabolism
+Human fecal
+sample analysis using 16S ribosomal RNA
+and metagenomic sequencing techniques reveal signiﬁcant
+enrichment in metabolism of polysaccharides, amino acids,
+xenobiotics and micronutrients conferred by gut microbiota,
+suggest that these indigenous microbes facilitate host energy
+harvesting and metabolic eﬃciency (Gill et al., SCFA (such as butyrate, propionate, acetate and pentanoate) act
+as one of the energy substrates for the host (Salminen et al., Microbial-synthesized SCFAs contribute 70% of
+ATP production in colon, with butyrate as the preferred fuel
+for colonocytes (Firmansyah et al., Butyrate-producing microbes rescued the deﬁcit mitochondrial
+respiration, ATP synthesis and autophagy in colonocytes of germ-
+free mice (Donohoe et al., Both primary and secondary bile acids
+are able to activate host nuclear FXR signaling, which in turn
+regulates the bile acids production, glucose metabolism, and
+potentially hepatic autophagy (Lee et al., Such antimicrobial
+
+Frontiers in Microbiology | www.frontiersin.org
+
+3
+
+August 2018 | Volume 9 | Article 1835
+
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 4
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+properties may contribute in shaping the composition of the gut
+microbiota and protecting the host from an array of infectious
+pathogens. Metabolites
+
+Short-chain fatty acids (SCFAs):
+
+E.g., Acetate, butyrate, propionate,
+hexanoate, valerate

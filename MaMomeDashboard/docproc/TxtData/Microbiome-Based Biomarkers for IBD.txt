@@ -1,0 +1,741 @@
+Ananthakrishnan
+ 
+ 
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+FIGURE 1.  Conceptual framework for incorporation of microbiome-based biomarkers in the management of IBD.
+
+Tools for Microbiome Sequencing
+
+There are several recent reviews on sequencing and anal-
+ysis  of  the  microbiome,  although  a  full  discussion  of  these 
+methods  is  beyond  the  scope  of  this  review.28-31  In  brief,  com-
+monly  used  methods  to  study  the  microbiome  use  either 
+amplicon sequencing methods that analyze the partial genome 
+or whole-genome shotgun metagenomic sequencing. Amplicon 
+sequencing methods profile segments of the bacterial genome, 
+typically the hypervariable regions of the highly conserved 16s 
+ribosomal RNA gene. Such profiling can reveal segments (oper-
+ational taxonomic units [OTUs]) that are common to a specific 
+taxon. A limitation of this method is that closely related bacte-
+rial families may share 99% of the hypervariable region, thereby 
+precluding  identification  of  individual  species  and  strains. 
+A  second  commonly  used  microbial  sequencing  method  relies 
+on shotgun metagenomic sequencing, which is high-throughput 
+sequencing of the entire bacterial genome. Through profiling the 
+entire genome, this method allows for resolution at the species 
+and  even  strain  level  in  addition  to  the  definition  of  bacterial 
+function through mapping the genome to reference databases.
+
+Analysis of both 16s rRNA and metagenomic sequencing 
+has traditionally relied on comparing the relative abundance of 
+various  genera,  species,  and  strains  between  different  groups. 
+A  limitation  of  this  method  is  that  a  change  in  relative  abun-
+dance  could  result  from  either  the  increased  absolute  number 
+of  a  species  of  interest  or  the  depletion  of  other  species  and 
+consequent reliance on the overall microbial load. In contrast, 
+quantitative profiling of absolute counts of absolute microbial 
+abundances may be as or more relevant to defining the role of 
+microbiome  in  human  disease.32  A  small  study  of  29  patients 
+with CD revealed microbial counts that were 3 times lower than 
+those of healthy control patients and differences in defining an 
+association between Bacteroides (noted only in relative profiling) 
+and Prevotella (only in quantitative microbial profiling) in CD.32
+
+Prediction of Relapse and Postoperative 
+Recurrence
+
+One  of  the  first  studies  to  examine  the  role  of  the 
+microbiome in relapse in IBD was by Rajca et al33 (Table 1). The 
+2
+
+investigators obtained fecal samples from 33 patients with CD 
+who  stopped  infliximab  therapy  (as  part  of  an  interventional 
+study  to  assess  the  rate  of  relapse  after  biologic  cessation). 
+Fecal  samples  were  obtained  at  therapy  cessation,  2  months, 
+6 months, and the end of follow-up. Cross-sectional compari-
+sons  were  also  made  with  29  healthy  control  patients.  Over 
+follow-up, 19 patients relapsed and 14 remained in remission. 
+Compared  with  the  healthy  control  patients,  those  with  CD 
+had reduced counts of Firmicutes such as Clostridium coccoides 
+(P  =  0.0003),  Clostridium 
+leptum,  and  Faecalibacterium 
+prauznitzii (P = 0.003). Interestingly, although all patients were 
+in clinical remission at study entry, a lower baseline abundance 
+of F. prausnitzii (P = 0.014) and Bacteroides (P = 0.030) pre-
+dicted relapse after therapy cessation in addition to biochem-
+ical markers such as an elevated serum C-reactive protein. 
+
+The  association  with  F.  prauznitzii  is  particularly  inter-
+esting as prior work has shown a significant anti-inflammatory 
+effect of this species. In experiments using in vitro and in vivo 
+models,  Sokol  et  al34  showed  in  2008  that  stimulation  of  pe-
+ripheral  blood  mononuclear  cells  by  F.  prauznitzii  resulted  in 
+lower  interleukin  (IL)-12  and  interferon-γ  levels  and  higher 
+levels  of  IL-10,  which  has  known  anti-inflammatory  effects. 
+Interestingly, the oral administration of F. prauznitzii resulted 
+in a lower severity of 2,4,6-trinitrobenzenesulfonic acid colitis. 
+Note  that  the  culture  supernatant  also  had  a  similar  effect  in 
+reducing the severity of this particular colitis, suggesting that 
+the  effect  of  F.  prauznitzii  may  be  mediated  in  part  through 
+the  production  of  anti-inflammatory  metabolites.  A  subse-
+quent study of a peptidomic analysis of F. prauznitzii culture 
+supernatants  showed  7  peptides  derived  from  a  microbial  an-
+ti-inflammatory  molecule  that  had  a  dose-dependent  effect 
+on  reducing  the  activation  of  the  NF-κB  pathway.35  Luminal 
+delivery  of  this  peptide  through  Lactococcus  lactis  alleviated 
+colitis  in  dinitrobenzene  sulfonic  acid  mice  models.35  In  other 
+experiments, F. prauznitzii or its supernatant also induced the 
+production of IL-10 and transforming growth factor-β1.36
+
+Most  studies  that  have  examined  the  ability  of  the 
+microbiome  to  predict  future  disease  activity  from  a  state  of 
+quiescence have used the postoperative model in CD. A small 
+study of 12 patients with CD examined the microbiota profile 
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+Abbreviations: GA-map, genetic analysis; qPCR, quantitative polymerase chain reaction; RT-PCR, reverse transcription polymerase chain reaction.
+
+3
+
+Abundance of Ruminococcaceae and Sutterella at baseline predicted week 52 remis-
+
+Corticosteroid- 
+
+Stool, rectal biopsy, 16s 
+
+sequencing
+
+nosed with UC
+2019400 children newly diag-
+
+Hyams et al23
+
+sion
+
+week 52
+free remission at 
+
+cations
+disease and Collinsella and Veillonella abundance predicted penetrating compli-
+Abundance of Ruminococcus and Rothia associated with development of stricturing 
+
+etrating disease
+stricturing or pen-
+
+Development of 
+
+opsy, 16s sequencing
+Stool, ileal and rectal bi-
+
+nosed with CD
+
+Kugathasan et al14 2017913 children newly diag-
+Disease progression
+
+Proteobacteria decreased in patients in whom therapeutic success was obtained but 
+
+Change in 
+
+Stool, metagenomics
+
+Ribaldone et al42
+
+not in nonresponders 
+
+clinical response 
+microbiome with 
+
+L-arginine, ammonium, ornithine, ethanol, L-glutamine, and glycine. 
+in metabolite exchange noted including less-frequent exchange of butyrate, 
+None of the taxa predicted response to anti-TNF therapy. However, differences 
+
+Clinical response at 
+
+Stool, 16s sequencing
+
+Abundance of Clostridiales, Veillonella, Bacteroides, and Anaerostipes at baseline 
+
+Clinical response at 
+
+Stool, 16s sequencing
+
+predicted response
+
+baseline in those with remission at week 6
+
+Two OTUs affiliated with Faecalibacterium and Bacteroides were more abundant at 
+
+Clinical remission at 
+
+Stool, 16s sequencing
+
+2018232 patients with CD 
+
+Doherty et al27
+
+responders; several functional differences on pathway analysis
+CD); greater abundance of R. inulinivorans and Burkholderiales at baseline in 
+Higher baseline alpha diversity (species) in responders than in nonresponders (in 
+
+Clinical response at 
+
+Stool, metagenomics
+
+201785 patients with IBD 
+
+Ananthakrishnan 
+
+initiating vedolizumab
+
+et al25
+
+Lower dysbiosis index and higher abundance of F. prausnitzii at baseline in re-
+
+Clinical response at 
+
+Stool, rtPCR, and 
+
+201656 patients with UC 
+
+Magnusson et al43
+
+sponders than in nonresponders
+
+12-14 weeks
+
+GA-map; dysbiosis test
+
+Lactococcus and Roseburia abundance increased with resolution of inflammation at 
+
+Stool, metagenomics
+
+201590 children initiating 
+
+Lewis et al10
+
+week 8 and Actinomyces abundance decreased
+
+uncultured Clostridiales, and Vibrio and lower abundance of S. mitis 
+
+Responders had higher baseline levels of Bifidobacterium, C. colinum, E. rectale, 
+
+Stool, qPCR
+
+Kolho et al41
+
+week 14
+
+week 30
+
+week 6
+
+week 14
+
+week 8
+calprotectin at 
+Reduction in fecal 
+calprotectin
+tion in fecal 
+Response: reduc-
+
+Steroid responders had higher baseline diversity than nonresponders
+
+Steroid response
+
+Stool, 15s sequencing
+
+others associated with endoscopic recurrence at 6 months
+
+Gammaproteobacteria, Corynebacterium, Ruminiclostridium, and R. gnavus group; 
+
+Postoperative recur-
+
+and Enterococcaceae), Enterobacteriaceae, and Veillonellaceae
+rence and a greater representation of Bacilli order (especially Streptococcaceae 
+Lower abundance of Clostridiales and Bacteroidales orders in those with later recur-
+
+Postoperative recur-
+
+rence
+
+rence
+
+sequencing
+Ileal biopsy, 16s 
+
+pyrosequencing
+
+Ileal biopsy, 454 
+
+Relapsers had lower abundance of F. prausnitzii (P = 0.014) and Bacteroides 
+
+Clinical relapse
+
+Stool, qPCR
+
+201433 patients with CD in 
+
+(P = 0.030) than nonrelapsers
+
+initiating adalimumab
+
+201920 patients with CD 
+hort of 23 patients 
+therapy; validation co-
+initiating anti-TNF 
+201912 patients with IBD 
+infliximab
+201816 patients initiating 
+
+initiating ustekinumab
+
+Aden et al24
+
+Zhou et al26
+
+therapy
+initiating anti-TNF 
+
+enteral nutrition
+anti-TNF therapy or 
+
+therapy
+initiating anti-TNF 
+201511 children with IBD 
+
+steroid therapy
+severe UC initiating 
+201227 children with acute 
+
+section
+undergoing ileal re-
+2020201 patients with CD 
+
+section
+undergoing ileal re-
+
+201512 patients with CD 
+remission
+
+Michail et al44
+Treatment response
+
+Sokol et al38
+
+De Cruz et al37
+
+Rajca et al33
+Disease relapse
+
+Main Findings
+
+Patient Population
+
+Year
+
+Author
+
+Interest
+Outcome of  
+
+and Profile
+Microbiome Source  
+
+TABLE 1. Summary of Studies of the Microbiome in Predicting Disease Outcomes in IBD
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020 
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020 
+
+Microbiome-Based Biomarkers
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+CD  differed  in  the  median  abundance  of  14  (out  of  45)  gen-
+eral bacteria, including reductions in Prevotella, Akkermansia, 
+Roseburia, Alistipes, Coprococcus, and Ruminococcus and an in-
+creased abundance of various members of Enterobacteriaeceae 
+including Escherichia and Klebsiella. At the end of the study, 
+responders’ microbial composition was closer to that of healthy 
+control  patients  than  nonresponders’  microbial  composi-
+tion, an effect that was also separately observed for anti-TNF 
+therapy and exclusive enteral nutrition. Among the patients on 
+anti-TNF therapy, 11 taxa differed from those of healthy con-
+trol  patients  at  baseline  and  6  of  these  remained  significantly 
+different  despite  clinical  response.  Response  to  therapy  (de-
+fined as a fecal calprotectin level < 250 mcg/g) was associated 
+with a decrease in Actinomyces and an increase in Lactococcus 
+and Roseburia. In contrast, response to therapy was not asso-
+ciated with a change in fungal composition. Ribaldone et al42 
+prospectively studied the fecal microbiome in 20 patients with 
+CD initiating adalimumab therapy. In those who responded to 
+treatment,  there  was  a  decrease  in  Proteobacteria  and  an  in-
+crease in Lachnospiraceae.
+
+Magnusson et al43 profiled antimicrobial peptide expres-
+sion from both mucosal biopsies and the fecal microbiome in 
+56  patients  with  CD  and  7  patients  with  UC  who  were  anti-
+TNF-naïve and were initiating biologic therapy with this class. 
+Greater expression of antimicrobial peptides including DEF5, 
+BPI,  ECP,  HMGB1,  and  HMGN2  was  noted  in  responders 
+but not in nonresponders. Consistent with other observations, 
+responders  had  a  less  dysbiotic  microbiome  at  baseline  than 
+nonresponders.  The  baseline  abundance  of  F.  prauznitzii  was 
+higher  in  responders  than  in  nonresponders.  The  difference 
+in  the  abundance  of  F.  prauznitzii  was  more  striking  at  later 
+time points, at week 2 and week 6, when responders showed an 
+increasing abundance from baseline and nonresponders had no 
+such  changes.43  Up  to  one-third  of  patients  with  UC  develop 
+acute severe colitis. In a study by Michail and colleagues, pa-
+tients who were steroid-responsive showed greater diversity at 
+baseline than nonresponders.44
+
+The  author  and  colleagues  previously  performed 
+metagenomic  sequencing  from  fecal  samples  of  85  patients 
+with  IBD  initiating  treatment  with  vedolizumab.25  The  study 
+cohort included 43 patients with UC and 42 patients with CD. 
+The primary outcome, remission at week 14, was attained by 31 
+patients. A total of 35% of the cohort remained in remission 
+at week 54. In the baseline stool sample, alpha diversity at the 
+species  level  was  higher  among  those  with  CD  who  achieved 
+remission at week 14 than in those who were not in remission 
+at  that  time  point.  This  difference  was  noted  primarily  at  the 
+species  level.  Compositionally,  there  was  no  separation  of  re-
+sponders and nonresponders on principal component analysis, 
+primarily because of similar baseline abundance of the top 15 
+most  abundant  species.  Two  species,  Roseburia  inulinivorans 
+and Burkholderiales, were significantly more abundant at base-
+line in CD patients who achieved remission than in those who 
+
+from  ileal  tissue  from  CD  patients  undergoing  resection.37  In 
+comparison with healthy control patients, the patients with CD 
+had a lower biodiversity at the time of the surgery that improved 
+postoperatively but was still less diverse than that of the healthy 
+control  patients.  Note  that  patients  with  CD  who  had  endo-
+scopic recurrence had a greater abundance of Enterococcus and 
+Veillonella and that those who remained in postsurgical remis-
+sion had a higher abundance of butyrate-producing Firmicutes, 
+Bacteroides,  Prevotella,  and  Parabacteroides.  A  more  robust 
+examination of this result was in the large REMIND study, a 
+French cohort of 201 patients with CD undergoing an ileocecal 
+resection.38 Here the authors examined the mucosa-associated 
+microbiota  using  16s  rRNA  sequencing.  At  month  6,  several 
+phyla were reduced in patients who had endoscopic recurrence 
+(many  belonging  to  Firmicutes,  including  Ruminococcaceae 
+and  Lachnospiraeceae),  and  there  was  an  expansion  of 
+Proteobacteria.  On  multivariable  analysis,  the  presence  of  6 
+(Gammaproteobacteria,  Corynebacterium, 
+microbial  phyla 
+Sellimonas,  Ruminiclostridium,  Hydrocarboniphaga, 
+and 
+R. gnavus) predicted endoscopic recurrence. However, the pre-
+dictive  value  was  significantly  greater  among  those  patients 
+who  did  not  receive  anti-tumor  necrosis  factor  (anti-TNF) 
+therapy postoperatively than among those who did, suggesting 
+that ongoing treatment may modify natural history and reduce 
+the predictive utility of microbial markers.
+
+Response to Biologic and Nonbiologic Therapies
+Several  studies  have  examined  the  utility  of  microbial 
+markers in predicting relapse in patients with CD or UC.39-41 An 
+initial analysis of the longitudinal changes in the microbiome 
+was conducted by Kolho et al,41 who profiled 68 children with 
+IBD  among  whom  32  received  anti-TNF  therapy.  During  in-
+duction,  patients  who  responded  (defined  by  a  reduction  in 
+fecal  calprotectin)  showed  increasing  diversity  and  similarity 
+to  healthy  control  patients,  whereas  a  similar  effect  was  not 
+observed  among  those  who  were  nonresponders.  Although 
+the  abundance  of  Bacilli,  Proteobacteria,  and  low-abundance 
+Clostridium clusters increased in nonresponders, these levels did 
+not increase in responders. The authors showed that patients re-
+sponding to anti-TNF therapy had higher baseline abundances 
+of bacteria belonging to Bifidobacterium, Clostridium colinum, 
+Vibrio,  and  Eubacterium  rectale  and  a  lower  abundance  of 
+Streptococcus  mitis.  A  multivariable  model  that  incorporated 
+an abundance of Clostridium sphenoides and Haemophilus spe-
+cies predicted a fecal calprotectin level < 200 mcg/g at 3 months 
+with an accuracy of 0.88.41
+
+Lewis et al10 performed metagenomics sequencing on stool 
+samples from 86 pediatric patients who were initiating therapy 
+with  either  exclusive  enteral  nutrition,  anti-TNF  therapy,  or 
+partial enteral nutrition therapy. Comparisons were performed 
+between stool samples obtained at baseline, 1 week, 4 weeks, and 
+8 weeks after therapy and with 26 previously profiled healthy 
+children. When compared with healthy children, patients with 
+
+4
+
+Ananthakrishnan
+ 
+ 
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+
+5
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+achieved  remission,  in  whom  this  interchange  was  similar  to 
+that  in  healthy  control  patients.  Specifically,  the  exchange  of 
+10  metabolites  was  less  frequent  at  baseline  among  patients 
+who did not achieve remission compared with healthy control 
+patients; these metabolites included butyrate, L-arginine, CO2, 
+ammonium,  ornithine,  ethanol,  L-glutamine,  and  glycine.  Of 
+these, the latter 3 were also seen in those who achieved remis-
+sion and the other exchanges were specific to patients who did 
+not  achieve  remission.  Some  of  these  metabolite  exchanges, 
+such as with butyrate, resolved posttreatment and most other 
+exchanges  persisted.  Fecal  metabolites  also  differed  between 
+responders  and  nonresponders,  with  higher  levels  of  3-indole 
+propionic  acid,  L-tyrosine,  and  3-hydroxyphenylacetic  acid  at 
+baseline among those who achieved remission and higher levels 
+of pyric acid in the no-remission group.
+
+One prior study examined the role of microbial compo-
+sition in predicting response to ustekinumab therapy. Doherty 
+et al27 performed 16s rRNA sequencing from fecal samples of 
+patients treated in a phase 2 clinical trial (CERTIFI) comparing 
+ustekinumab induction and maintenance to placebo. Stool sam-
+ples were obtained at baseline and weeks 4, 6, and 22. A com-
+bined random forest predictive model that incorporated clinical 
+and baseline microbial data performed significantly better than 
+clinical data containing models alone (AUC = 0.84 vs 0.62). In 
+fact, the addition of clinical data did not add predictive value 
+to  microbiome-only  predictive  models  (AUC  =  0.838).  Two 
+OTUs were significantly different between those in remission at 
+week 6 and those with active CD: Bacteroides (P = 0.022) and 
+Faecalibacterium  (P  =  0.003).  Patients  in  remission  at  week  6 
+also had a higher alpha diversity at baseline than did those with 
+active disease. During maintenance therapy through week 22, 
+microbiome-based  models  could  also  classify  disease  activity 
+states  based  on  an  abundance  of  Faecalibacterium,  Blautia, 
+Clostridium XIVa, Ruminococcaceae, and Roseburia.
+
+Disease Progression
+
+Two pediatric inception cohorts with serial sampling of 
+the microbiome in mucosa and stool provided insights into the 
+potential  predictive  value  of  microbial  markers  in  identifying 
+disease  progression.14,  23  A  total  of  913  children  were  enrolled 
+at  diagnosis  of  CD,  most  of  whom  had  a  nonstricturing, 
+nonpenetrating phenotype.14 At follow-up, 54 and 24 patients 
+had  stricturing  and  penetrating  complications  respectively, 
+and 21% received anti-TNF therapy. Interestingly, both CBir1 
+positivity  and  the  presence  of  anti-saccharomyces  antibodies 
+was  associated  with  a  risk  of  stricturing  or  penetrating  di-
+sease  behavior.  Expression  of  genes  regulating  acute  inflam-
+matory response to microbes was induced at baseline in those 
+who  developed  penetrating  disease.  Specifically,  fecal  abun-
+dance  of  Rothia  and  Ruminococcus  was  associated  with  the 
+development of stricturing complications and Collinsella abun-
+dance was greater at baseline in patients who developed pene-
+trating  disease.  The  PROTECT  cohort  recruited  400  children 
+
+did not (q = 0.09 and 0.06, respectively). Strikingly, more dif-
+ferences were noted on functional pathways: 13 were enriched 
+at baseline in patients who achieved remission at week 14, in-
+cluding branched chain amino acid biosynthesis, arginine, and 
+polyamine  biosynthesis.  In  patients  who  provided  stool  sam-
+ples  at  baseline  and  weeks  14,  30,  and  54,  remission  at  week 
+14  was  associated  with  greater  microbial  persistence,  defined 
+as  the  similarity  of  later  samples  to  the  week  14  microbial 
+profile, up to 1 year. Baseline clinical data alone were insuffi-
+cient in predicting remission at week 14 (area under the curve 
+[AUC] = 0.62), but a neural network model incorporating tax-
+onomic and pathway data improved predictive ability with an 
+AUC of 0.872.
+
+Zhou et al26 followed 16 Han Chinese patients with CD 
+who were treated with infliximab for 30 weeks. Treatment was 
+associated  with  an  increase  in  alpha  diversity  and  reduction 
+in  disease  activity,  which  was  more  notable  in  the  responder 
+group. They also observed that abundance of Clostridiales was 
+lower in those with IBD than in control patients. However, this 
+difference  was  no  longer  significant  in  those  who  responded, 
+suggesting that an increase in abundance of Clostridiales could 
+be  a  biomarker  of  treatment  response.  A  model  of  gut  mi-
+crobial  composition  at  baseline  predicted  infliximab  response 
+at  week  30  with  an  87%  accuracy,  which  was  superior  to  the 
+predictive  value  of  the  Crohn’s  Disease  Activity  Index  (58% 
+accuracy) and calprotectin levels  The most in-
+formative features in this model were the abundance of various 
+Clostridiales and the abundance of Veillonella, Bacteroides, and 
+Anaerostipes.
+
+Aden et al24 performed a prospective study of 12 patients 
+with  IBD,  17  patients  with  rheumatic  disease,  and  19  healthy 
+control  patients  who  provided  fecal  samples  at  baseline  and 
+2,  6,  and  30  weeks  after  treatment  with  anti-TNF  therapy. 
+Twenty-three  patients  who  were  treated  with  either  anti-TNF 
+drugs  or  vedolizumab  acted  as  control  patients.  Interestingly, 
+patients with IBD but not with rheumatic disease demonstrated 
+a shift in diversity toward that of the control patients with anti-
+TNF therapy, suggesting that this effect was likely mediated in 
+part  by  resolution  of  intestinal  inflammation  rather  than  di-
+rect effect of the biologic agent.24 When compared to healthy 
+control patients, 14 indicator phylotypes, notably Coprococcus 
+and  R.  inulinivorans,  were  differentially  distributed  between 
+patients with IBD and healthy control patients. All 14 species 
+had a similar abundance to that of control patients at week 30 
+that increased although none of these changes were specific to 
+responders. 
+
+Similar to the observations by Ananthakrishnan et al,25 
+the predictive value of taxonomic composition was less striking 
+than the bacterial metabolic effects. None of the taxa profiled 
+predicted response to anti-TNF therapy. However, the rate of 
+metabolite  exchange  between  organisms  (ie,  metabolic  inter-
+change) was lower at baseline in nonresponding patients with 
+IBD than in healthy control patients in contrast to those who 
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020 
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020 
+
+Microbiome-Based Biomarkers
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+TABLE 2.  Challenges and Opportunities in Studies of Microbiome-Based Biomarkers in IBD
+
+Challenge
+
+Proposed Solutions
+
+Heterogeneity in participants
+Variability in outcomes
+Small cohorts
+Competing external influences (diet, antibiotics)
+
+Standard definitions for inclusion criteria
+Use validated outcomes, preferably relying on objective markers
+Multicenter and international collaborations 
+Develop a minimum standard of suggested covariates that need to be ascertained and 
+
+controlled for
+
+Lack of validation of findings
+
+Harmonization of protocols to ensure comparability across cohorts and pooling data
+
+with  newly  diagnosed  ulcerative  colitis  who  were  initiated 
+on  mesalamine  (+/–  corticosteroid  therapy).23  Of  these,  38% 
+achieved corticosteroid-free remission at week 52. Abundance 
+of Ruminococcaceae and Sutterella at baseline predicted week 
+52 remission outcomes (odds ratio = 1.43, P = 0.04; and odds 
+ratio = 0.81, P = 0.05, respectively).
+
+Limitations of Existing Data and Suggestions for 
+Future Research
+
+1.  An important limitation of existing data is heterogeneity in the selec-
+ 
+tion of patients including variation in disease activity, severity, and 
+ongoing treatments (Table 2). This limitation has the potential to in-
+fluence effects beyond the biological parameter being studied, leading 
+to confounding and misinterpretation of data. Thus it is important 
+in future studies to use well-established criteria using accepted defin-
+itions to ensure comparability of data across populations.
+
+2.  A  second  important  challenge  with  existing  data  is  the  wide  vari-
+ 
+ability in the definition of outcomes. Among the studies that have 
+examined  treatment  response,  outcomes  have  been  variably  de-
+fined at 4  weeks, 8 weeks,  14 weeks, or  54 weeks.  Further, studies 
+have  varied  in  the  use  of  symptom-based  disease  activity  scores, 
+calprotectin normalization (using different thresholds), endoscopic 
+remission, or global physical impression to define the outcome. The 
+varying  accuracy  of  each  of  these  parameters  confounds  the  in-
+terpretation  of  findings  and  highlights  the  lack  of  replicability  of 
+results across cohorts. Thus, it is important to formulate accepted 
+definitions for each of the clinically relevant endpoints in the field 
+to facilitate robust validation of identified signals.
+
+3.  Studies  have  also  varied  in  the  depth  of  microbial  sequencing, 
+ 
+from polymerase chain reaction–based methods to 16s rRNA pro-
+filing to metagenomics sequencing and strain-level analysis. While 
+decreasing the cost of the more comprehensive sequencing methods 
+that also define bacterial function and the recognition of variation 
+in biologic effect even at the level of individual strains, the develop-
+ment of microbiome-based therapies requires more comprehensive 
+microbial profiling to truly identify modifiable targets. In addition, 
+most  studies  have  relied  on  the  comparison  of  relative  microbial 
+abundances,  which,  in  addition  to  the  species  of  interest,  may  be 
+influenced by total microbial counts and changes in the abundance 
+of other species. Newer methods such as quantitative microbial pro-
+filing may be important to identify additional changes pertinent to 
+the development of disease.
+
+6
+
+4.  The published studies have differed on the amount of information col-
+ 
+lected regarding relevant important confounders including antibiotic use, 
+inflammation severity, diet, and medications (to name a few). This in-
+consistency complicates an understanding of the impact of the biologic 
+parameter being studied and of such external influences. To reduce this 
+concern, there must be transparent reporting of this information in every 
+study and an establishment of minimum acceptable standards.
+
+5.  The lack of reproducibility of associations is an important limitation 
+ 
+of existing studies of the microbiome in IBD. Most prediction studies 
+have failed to include independent external validation cohorts, in part 
+limited by the costs of such cohort accrual and profiling, and by the het-
+erogeneity in study procedures between different cohorts. For example, 
+although genetic association studies in IBD could make rapid strides in 
+identifying potentially causal gene variants by the relative ease and con-
+sistency of defining a disease state (CD, UC, or control), microbiome-
+based  prediction  studies  have  required  more  nuanced,  time-varying 
+definitions of outcomes (such as treatment response) that have differed 
+between cohorts, limiting the ability to pool data.
+
+6.  Existing  tools  for  profiling  the  taxonomic  or  functional  profile  of 
+ 
+the microbiome or the metabolome are not readily translatable to 
+point-of-care tests in the clinic because of their logistical challenges 
+in profiling single samples cost-effectively and the high volume of 
+data  generated  with  each  profile.  Further  research  is  essential  to 
+move predictive associations identified in the research arena to clin-
+ical  care.  The  emergence  of  tools  such  as  paper-based  technology 
+for microbiome profiling may prove to be cost-effective and appli-
+cable to direct patient care.45
+
+CONCLUSIONS
+
+In summary, given the likely central role of the microbiome 
+in the pathogenesis of IBD, it is intuitive that microbiome-based 
+biomarkers  may be particularly  relevant in  stratifying patients 
+with these complex diseases. Indeed, intriguing preliminary data 
+have supported the role of such biomarkers in predicting many 
+important clinically relevant outcomes. However, existing studies 
+are limited by small sample sizes and significant heterogeneity 
+preventing robust validation. Similar to what has been achieved 
+and is highly critical for advancing science in other fields (such 
+as  genetics),  multicenter  collaborations  of  relatively  homoge-
+neous populations and uniform accepted definitions controlling 
+for  confounders  are  essential  to  move  such  microbiome-based 
+biomarkers from a research endeavor to clinical practice.
+
+Ananthakrishnan
+ 
+ 
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+7
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020 
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020 
+
+Microbiome-Based Biomarkers

@@ -1,0 +1,564 @@
+13_PARAGRAPHS
+
+Stool 2011 Next-Gen sequencing Jost et al. 2012 Stool Sequencing V1V2 Longitudinal Characterized the intestinal microbiome
+from birth to 2.5 yr
+Longitudinal Characterized healthy neonatal microbiome Wang et al.
+2013 Cord blood, Bacterial culture and Cross- Neonates with amniotic ﬂuid sequencing sectional Milisavljevic
+et al. 2013 esophageal Gastro- Sequencing Longitudinal Characterized the Azad et al.
+2013 Stool Next-Gen sequencing Longitudinal Characterized the Primers
+used Sanger,
+V5V6
+Universal
+16s
+rRNA Universal
+16S
+rRNA
+V5, V6,
+V7 Rogier et al.
+2014 Stool Microarray Murine Ma et al. 2014b Colon, anus, Next-Gen V3V5 stool sequencing Nonhuman
+primate necrotizing colitis had
+predominantly one
+bacteria dominating microbiome in VLBW
+infants neonatal microbiome
+from birth to 4 mo
+while examining mode
+of delivery and feeding Examined the role of
+maternal IgA on
+intestinal microbiome Examined the role of
+maternal diet on
+juvenile microbiome 16S-Based Metagenomics Sequencing of the 16S rRNA gene using Next-
+Gen technology has recently been widely ex-
+ploited to characterize the human microbiome
+(Jonasson et al. 2007; Liu et al. 2007). The 16S
+rRNA gene is an ideal target to classify bacteria
+because of the nine hypervariable regions in this
+gene that can be used to distinguish species
+based on individual nucleotide polymorphisms
+(Fig. 1A). Ergo, Next-Gen sequencing charac-
+terizes both coarse ( phylum level) as well as ﬁne
+(genus and limited species and strain) differ-
+ences using universal primers to the adjacent
+conserved regions (Klindworth et al. 2013).
+However, 16S-amplicon-based approaches are
+limited to a shorter read length as compared
+with Sanger sequencing, and as a result, only
+a few hypervariable regions can be contigu-
+ously sequenced at a time. Initial work on ap-
+proach and validation by the HMP Consortium
+showed that there is variation in the taxonomy proﬁle identiﬁed based on sequencing different
+variable regions. For example, V1V3 amplicons
+may underestimate Acinetobacter and Escheri-
+chia genera, but V3V5 provides both breadth
+and depth of communities dominated by these
+genera. Furthermore, V6V9 may underesti-
+mate Bacteroides but provides good coverage
+for Pseudomonas and Escherichia (Human Mi-
+crobiome Project 2012b).
+
+Whole Genome Shotgun (WGS)-Based
+Metagenomics Although 16S sequencing is a cost effective
+approach to perform metagenomics studies,
+whole genome shotgun (WGS) sequencing al-
+lows for deep and reﬁned taxonomic classiﬁca-
+tion to the species and strain level, as well as the Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051 5 www.perspectivesinmedicine.org A.L. Prince et al.
+
+THE VAGINAL MICROBIOME IN
+REPRODUCTIVE AGED WOMEN Before the advent of Next-Gen sequencing, the
+the vaginal microbiome
+characterization of
+through traditional microbiological techniques
+(culture-dependent) revealed a predominance
+of Lactobacillus species (Redondo-Lopez et al.
+1990; Larsen and Monif 2001). These early
+characterizations of the vaginal microbiome
+resulted in the delineation of “normal” ﬂora
+(deﬁned as Lactobacillus predominant), and
+“abnormal” or “aberrant” vaginal ﬂora (non-
+lactobacillus predominant). Early descriptions 6 Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051 www.perspectivesinmedicine.org also attempted to characterize abnormal vaginal
+ﬂora, most notably in conjunction with bacterial
+vaginosis (BV). BV is a common and complex
+alteration of vaginal ﬂora, but the description of
+the bacteria involved in the vaginal dysbiosis
+has changed over time. The association be-
+tween anerobic cocci and abnormal vaginal dis-
+charge was ﬁrst described by Curtis in 1914, and
+Gardnerella vaginalis was ﬁrst described as a
+causative agent for BV in 1955 (Eschenbach
+1993; Ledger 1993). However, by the 1990s,
+multiple other species were found in anaerobic
+cultures of vaginal discharge from subjects with
+symptoms consistent with BV (Faro et al. 1993;
+Hillier et al. 1993). Despite the multiplicity of
+causative agents, one common ﬁnding is that
+women experiencing clinically symptomatic
+BV tend to be deﬁcient in lactic acid producing
+species of bacteria that also convert oxygen to
+H2O2 (Eschenbach et al. 1989; Hillier et al. 1992,
+1993). This observation has led to several de-
+cades of data demonstrating that adverse repro-
+ductive health outcomes accompany “abnormal
+ﬂora” associated with BV (Gravett et al. 1986;
+Martius et al. 1988; Krohn et al. 1991; Hillier
+et al. 1995a; Martin et al. 1999; Wiesenfeld et al.
+2003; Ness et al. 2005; Brotman et al. 2010). For
+instance, the incidence of BV has been associat-
+ed with preterm birth and with increased risk
+for acquiring sexually transmitted diseases, such
+as Neisseria gonorrhea, Chlamydia trachomatis,
+and human immunodeﬁciency virus (HIV)
+(Gravett et al. 1986; Martius et al. 1988; Krohn
+et al. 1991; Kurki et al. 1992; Hillier et al. 1995b;
+Martin et al. 1999; Wiesenfeld et al. 2003; Ness
+et al. 2005; Brotman et al. 2010; Perla et al.
+2012). This
+infection is
+increased risk of
+thought to be because of the deﬁciency of Lac-
+tobacillus species that produce lactic acid and
+H2O2 to provide protection from pathogenic
+bacteria and viruses (Eschenbach et al. 1989).
+Along these lines, previous in vitro studies have
+shown that Lactobacillus acidophilus can protect
+from infection with G. vaginalis, Bacteroides bi-
+vius, and HIV through a peroxidase dependent
+mechanism (Klebanoff and Coombs 1991; Kle-
+banoff et al. 1991). Thus, although BV may in-
+dicate vaginal dysbiosis in a clinical setting, there
+has been historically a lack of data regarding Perinatal Microbiome and Pregnancy whether vaginal dysbiosis occurred as “normal”
+ﬂora in women asymptomatic for BV. Currently,
+Next-Gen sequencing techniques have enabled
+the vaginal microbiome to be more thoroughly
+characterized to determine the bacterial ﬂora of
+the “normal” versus “abnormal” vagina.
+
+One of the ﬁrst studies to reveal the com-
+plexity of the vaginal microbiome using Next-
+Gen techniques was performed by Ravel et
+al. This study recruited nearly 400 women of
+mixed ethnicities. Samples were prepared for
+either V1V2 16S sequencing and were scored
+for BV using Nugent criteria (Ravel et al. 2010).
+Five distinct community state types (CSTs) were
+revealed, and the majority of these CSTs were
+dominated by species of lactobacilli. The fourth
+CST included women with a vaginal micro-
+biome deﬁcient in Lactobacillus species, and in-
+terestingly, this group had increased incidence
+of BV. Also, this study showed that the vagi-
+nal microbiome could be distinguished by eth-
+nicity. Asian subjects had a higher prevalence of
+CST III (Lactobacillus
+iners), non-Hispanic
+Caucasians had a higher prevalence of CST I
+(Lactobacillus crispatus), and African-American
+and Hispanic subjects had a higher prevalence
+of CST III (L. iners) and IV (decreased Lactoba-
+cillus species) (Ravel et al. 2010). However, re-
+cent studies have shown the caution that must
+be used when performing analysis such as CSTs
+(Koren et al. 2013). In these investigations, Ko-
+ren et al. (2013) showed that these types of clus-
+ter analysis are sensitive to the distance metric
+used for analysis and that multiple distance
+metrics should be used to promote accuracy
+in data. In fact, this study used the data of Ravel
+et al. (2010) in their analysis and found varying
+support for the presence of CSTs based on the
+analysis used (Koren et al. 2013). Thus, multiple
+methods of analysis must be used to establish
+a CST. An additional method that may be use-
+ful to examine microbiome communities across
+ethnicities is to use single nucleotide poly-
+morphisms (SNPs) in mitochondrial DNA
+(mtDNA), which provides more precision in
+analysis (Ruiz-Pesini et al. 2007). We have re-
+cently used this method in conjunction with
+analysis of the microbiome through data lever-
+aged from the HMP to examine associations Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051 7 www.perspectivesinmedicine.org A.L. Prince et al.
+
+THE VAGINAL MICROBIOME IN
+PREGNANCY With the demonstration that the vaginal micro-
+biome ﬂuctuates based on the menstrual cycle,
+with intercourse, and (to a much more limited
+degree) with clinical symptoms of BV, we and
+others sought to characterize the vaginal micro-
+biome during pregnancy. Nearly every organ
+system changes during pregnancy to promote
+pregnancy maintenance or prepare for parturi-
+tion. In the vagina, increased vascularity and
+hyperemia develop in the skin of the vulva and
+the mucosa of the vagina. Additionally, the vag-
+inal mucosa increases in thickness and cervical
+secretions increase, which causes the underlying
+smooth muscle cells to hypertrophy and relax
+the connective tissue. At the epithelial surface,
+the vaginal epithelium hypertrophies and caus-
+es a crowding of the epithelial cells, which are
+rich in glycogen (Nieburgs 1947). Estrogen
+(namely estradiol) rises across gestation, and
+further leads to increases in glycogen levels; gly-
+cogen is metabolized into lactic acid resulting in
+the decrease pH (acidity) of the vagina (Gre-
+goire et al. 1971; Paavonen 1983). This metab-
+olism of glycogen into lactic acid was historical-
+ly thought to be performed by the vaginal
+epithelium, because the vaginal lumen is sufﬁ- 8 Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051 www.perspectivesinmedicine.org ciently distant from the oxygen supply to be-
+come anaerobic. However, the primary source
+of lactic acid became debated when Boskey et al.
+reported that vaginal lactobacilli were capable of
+producing lactic acid in vitro at a rate sufﬁcient
+to reacidify the vagina in vivo following a neu-
+tralizing exposure (i.e., ejaculate) (Boskey et al.
+1999; Pybus and Onderdonk 1999). Afterward,
+the speciﬁc lactate structures in the vagina were
+explored and it was discovered that the majority
+of the vaginal lactic acid was of the D-isoform,
+which cannot be produced by human metabo-
+lism (Boskey et al. 2001). Thus, vaginal bacteria,
+namely lactobacilli, appear to be the primary
+source of lactic acid in the vagina. In pregnancy,
+the preponderance of Lactobacillus
+species
+appears to be aided by the estrogen-induced
+increase in glycogen that contributes to the
+vaginal acidic environment, which is not only
+enhanced by lactobacilli but also fosters Lacto-
+bacillus growth.
+
+Before the advent of metagenomics, the
+presence of lactobacilli were noted to increase
+as gestational age advanced during pregnancy
+(Nieburgs 1947). Further, more recent studies
+showed a high prevalence of Lactobacillus spe-
+cies in the vagina during either the ﬁrst, second,
+or third trimester using PCR-denaturing gra-
+dient gel electrophoresis (DGGE) for the V3
+region of the 16S rRNA gene, and the species
+with the highest prevalence were L. acidophilus
+and L. iners (Herna´ndez-Rodrı´guez et al. 2011).
+The utilization of Next-Gen sequencing tech-
+niques to study the vaginal microbiome further
+showed the presence of Lactobacillus species in
+the vagina during pregnancy. Our group initial-
+ly published this 16S-based metagenomic char-
+acterization in a cross-sectional study (Aagaard
+et al. 2012b). We used V3V5 16S sequencing
+and examined the posterior fornix, mid-vagi-
+na, and vaginal introitus of 24 gravid and 60
+nongravid subjects. Vaginal samples collected
+from a cross-sectional survey of gravid subjects
+from 18 wk gestation to term or delivery, and
+all samples were collected by a single physician
+who also conducted the HMP sampling for
+50% of subjects. All samples were extracted in
+a manner identical to that used by the HMP, and
+sequenced on the same pipelines. When com- Perinatal Microbiome and Pregnancy pared with the HMP nonpregnant reference
+subjects, we found that pregnancy was associat-
+ed with an altered vaginal microbiome and
+marked by a decrease in alpha diversity at the
+subgenus level (Fig. 2) (Aagaard et al. 2012b).
+When we examined this phenomenon further,
+we discovered that there was an overall enrich-
+ment of the orders Lactobacillus, Clostridiales,
+Bacteriodales, and Actinomycetales. And on
+probing at the species level using supervised
+machine learning approaches, such as linear
+discriminate analysis (LDA) effect size (LEfSe)
+and Boruta feature selection, we discovered that
+the vaginal microbiome during pregnancy was
+enriched in L. iners, L. crispatus, Lactobacillus
+jensenii, and Lactobacillus johnsonii (Aagaard
+et al. 2012b). The increase in lactobacilli may
+be explained by the increase in estrogen that
+occurs during pregnancy. However, direct asso-
+ciations between speciﬁc species of Lactobacillus
+and estrogen levels are lacking and warrant fur-
+ther investigation.
+
+However, the aforementioned studies were
+cross-sectional, which allows for the character-
+ization of a pregnancy and gestational age-com-
+mon microbiome signature, but lacks capacity
+for description of the dynamic changes, which
+may occur in an individual over time. Longi-
+tudinal analysis of the vaginal microbiome in
+a small cohort of women across gestation has
+been performed using terminal restriction frag-
+ment length polymorphism (tRFLP) in 100
+gravid women (Verstraelen et al. 2009). This
+study categorized gravidae into two cohorts
+during the ﬁrst trimester: lactobacilli-dominant
+and lactobacilli-diminished. Interestingly, only
+16.9% of gravidae that had a lactobacilli-dom-
+inant vaginal microbiome in the ﬁrst trimester
+decreased the prevalence of lactobacilli during
+pregnancy. On the other hand, 56.5% of gravi-
+dae with a lactobacilli-diminished vaginal
+microbiome during the ﬁrst trimester gained
+prevalence of this genus. In contrast to the
+cross-sectional study, these longitudinal co-
+horts showed that L. crispatus dominated dur-
+ing pregnancy and that prominence of Lactoba-
+cillus gasseri and/or L. iners during the ﬁrst
+trimester may be associated with diminished
+lactobacilli as pregnancy progressed (Verstrae- Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051 9 www.perspectivesinmedicine.org Hormone levels Lactation ???
+??? Campylobacter spp.
+in juvenile gut Non-pregnant Pregnant Follicular Luteal C.L.
+
+Estradiol Progesterone Prolactin Metabolic demands Vaginal mircobiota
+Diversity/richness Gut microbiota
+Diversity/richness www.perspectivesinmedicine.org en mostly consisted of the CST I or III with odds
+ratios of 2.986 and 2.136, respectively, and that
+the vaginal microbiome of gravid women shift
+toward these two CSTs as their pregnancy
+progressed (Romero et al. 2014b). When the
+stability of the vaginal microbiome was exam-
+ined during pregnancy, the authors noted that
+the vaginal microbiome of gravid subjects shift-
+ed between CSTs dominated by lactobacilli but
+rarely shifted to CST IV, which is marked by a
+diminished abundance of Lactobacillus species
+(Romero et al. 2014b). However, with a low
+number and low ethnic diversity of subjects in
+the study, further studies are needed to conﬁrm
+these shifts of the vaginal microbiome toward
+CSTs dominated by lactobacilli as pregnancy
+progresses. Initial studies of the vaginal micro-
+biome showed that African-American women
+have a higher prevalence of vaginal CSTs con-
+sisting of Lactobacillus species (Ravel et al. 2010),
+which was further shown by this recent study
+(Romero et al. 2014b). In a separate study, the
+vaginal microbiome was examined longitudi-
+nally during gestation using the V3V5 amplicon
+of 16S rRNA in 12 subjects that were mostly
+Caucasian (Walther-Anto´ nio et al. 2014). In
+agreement with previous studies, these authors
+showed that alpha diversity decreases as preg-
+nancy progresses and that L. crispatus and
+L. iners dominate the vaginal microﬂora (Fig.
+2) (Walther-Anto´ nio et al. 2014). Intriguingly,
+these authors suggest that maternal age may be
+important for the dominance of L. crispatus or
+L. iners, with, L. iners being dominant in older
+gravidae (Walther-Anto´ nio et al. 2014). Al-
+though this insight should be kept in mind for
+future studies, this study had only two subjects
+with advanced maternal age (34 –36) (Walther-
+Anto´ nio et al. 2014). To take these studies
+further, this group attempted to analyze their
+data in conjunction with the Romero et al.
+study; however, differences in primer sets and
+sequencing platforms used in these separate
+studies prevented in depth analysis (Romero
+et al. 2014b; Walther-Anto´ nio et al. 2014).
+Despite these challenges, the authors found
+that, although alpha diversity of the vaginal
+microbiome decreased with gestational age in
+both African-American and Caucasian subjects, Perinatal Microbiome and Pregnancy African-American subjects had increased beta
+diversity between gravid subjects whereas Cau-
+casian gravidae did not (Walther-Anto´ nio et al.
+2014). Thus, these studies highlight the need for
+further longitudinal studies with large subject
+enrollment and ethnic diversity. Additionally,
+studies are needed with a high enrollment of
+BV subjects or women with a dysbiotic vaginal
+microbiome to lend further insight into vaginal
+microbiome shifts and stability that are associ-
+ated with pregnancy.
+
+Despite the need for further investigation
+into the role of the vaginal microbiome in as-
+sociation with BV and preterm birth, a recent
+study by Hyman et al. (2014) has examined
+the vaginal microbiome in preterm birth. This
+group used a prospective cohort study with 46
+high-risk ( previous unexplained PTB) and 42
+low-risk (all other gravid) subjects for PTB
+gravidae enrolled (Hyman et al. 2014); however,
+only 14 subjects were able to be sampled in each
+trimester. Intriguingly, the investigators found
+that the presence of lactobacilli did not distin-
+guish term (.37 wk) from preterm (,37 wk)
+subjects using Sanger sequencing methods.
+However, low-risk subjects had a higher preva-
+lence of lactobacilli when compared with high-
+risk subjects (Hyman et al. 2014). Despite the
+lack of association of lactobacilli with preterm
+birth, measured alpha diversity was reported as
+diminished when comparing Caucasian term
+and preterm subjects (Hyman et al. 2014).
+Among the two longitudinal subjects that ulti-
+mately delivered preterm, their vaginal micro-
+biomes were dominated by L. crispatus (Hyman
+et al. 2014), which is in contrast to a previous
+study demonstrating that L. crispatus is domi-
+nant in healthy term pregnancies (Verstraelen
+et al. 2009; Aagaard et al. 2012b). Moreover,
+although two subjects in the Hyman et al. study
+had outgrowths of Biﬁdobacterium and Urea-
+plasma genera, separately, these genera are re-
+ported in both normal pregnant subjects as well
+as nonpregnant (Ravel et al. 2010; Aagaard et al.
+2012b; Romero et al. 2014b). Similar ﬁndings
+were found in an independent study by Romero
+et al. In this prospective study, term (38 – 32 wk)
+versus preterm (,34 wk) subjects were sam-
+pled at the posterior fornix by an obstetrician
+and sequenced using V1V3 primers (Romero
+et al. 2014a). The authors found no associa-
+tion between the CSTs of the vaginal micro-
+biome and preterm birth, nor did they ﬁnd
+any CST of the vaginal microbiome associated
+with preterm subjects having acute chorioam-
+nionitis (Romero et al. 2014a). In contrast to
+the study by Hyman et al., this study found no
+signiﬁcant difference in the alpha diversity of
+the vaginal microbiome of term and preterm
+subjects (Hyman et al. 2014; Romero et al.
+
+When directly examining the intestinal mi-
+crobiome of infants born via cesarean or vaginal
+delivery, culture-based microbiological tech-
+niques have shown differences in the coloniza-
+tion of the neonatal
+intestinal microbiome,
+particularly of Biﬁdobacterium-like bacteria,
+Lactobacillus-like bacteria, and Bacteriodes fra-
+gilis (Gro¨nlund et al. 1999a). However, a sepa-
+rate study by this group also determined that
+bacterial enzymes were not altered in the stool
+of infants based on mode of delivery (Gro¨nlund
+et al. 1999b). Using culture-independent, PCR-
+based techniques, Penders et al. also showed
+that B. fragilis and Biﬁdobacterium were de-
+creased in cesarean delivered infants in compar-
+ison to vaginally delivered infants. However, this
+study also showed differences in the intestinal Perinatal Microbiome and Pregnancy microbiome of infants based on formula-feed-
+ing or breastfeeding (Penders et al. 2006). An
+Italian study further investigated the intestinal
+microbiome of infants based on mode of deliv-
+ery using the V6V8 region of the 16S rRNA gene
+in PCR-DGGE and PCR-temperature gradi-
+ent gel electrophoresis (TGGE) assays (Biasucci
+et al. 2008). This group determined that infants
+born vaginally had increased diversity in their
+intestinal microbiome when compared with ce-
+sarean delivered infants. Again, infants born by
+cesarean delivery appeared to have an absence of
+Biﬁdobacterium in their intestinal microbiome
+(Biasucci et al. 2008).
+
+To date, few studies on this issue regarding
+mode of delivery have used Next-Gen sequenc-
+ing techniques. An initial study was performed
+in Venezuela with nine gravid subjects, four giv-
+ing vaginal birth and ﬁve having a cesarean de-
+livery (Dominguez-Bello et al. 2010). This study
+used the V2 region of the 16S rRNA gene and
+showed that the infant microbiome most close-
+ly resembled the mothers’ vaginal microbiome
+following vaginal delivery. Similarly, if the in-
+fant was born by cesarean delivery, the infant
+microbiome most closely resembled the skin
+microbiome (Dominguez-Bello et al. 2010).
+Furthermore, a Canadian study using Next-
+Gen sequencing techniques for the V5, V6, and
+V7 regions of the 16S rRNA gene showed that
+Escherichia shigella and Bacteroides were signiﬁ-
+cantly diminished in the intestinal microbiome
+of infants born by cesarean section (Azad et al.
+2013). This study also found that infants with
+the highest species richness and diversity of
+their intestinal microbiome were born by emer-
+gency cesarean section rather than by an elective
+cesarean section or vaginally (Azad et al. 2013).
+However, when followed out to 4 mo postpar-
+tum, infants’ intestinal microbiome could be
+differentiated primarily based on mode of feed-
+ing. Speciﬁcally, infants that were formula-fed
+had a higher prevalence of Peptostreptococca-
+ceae and Verrucomicrobiaceae when compared
+with breastfed infants (Azad et al. 2013). Thus,
+mode of feeding may be more crucial than
+mode of delivery in regards to the long-term
+establishment of the microbiome. These ﬁnd-
+ings suggest that the establishment of a stable Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051 13 www.perspectivesinmedicine.org A.L. Prince et al.
+
+Which Microbiota First Populate the Infant? Further studies into the establishment of the
+neonatal microbiome highlight this principle.
+Jost et al. (2012) showed that the intestinal
+microbiome of infants born vaginally and ex-
+clusively breastfed decrease the amount of the
+Firmicutes phylum, of which Lactobacillus be-
+longs, over time while increasing the prevalence
+of Bacteroides species. Thus, although these in-
+fants were born vaginally, a high presence of
+Firmicutes did not persist. Intriguingly, these
+vaginally delivered infants could be classiﬁed
+into two cohorts in this study: those that had
+species of Bacteriodes present in their intestinal
+microbiome and those that did not (Jost et al.
+2012), and this trend was also seen in a separate
+study (Palmer et al. 2007). This is in contrast to
+previous studies ﬁnding that Bacteroides relative
+abundance differed based on mode of delivery
+(Gro¨nlund et al. 1999a; Penders et al. 2006).
+However, Palmer et al. also determined that var-
+iations in the Bacteroides species seen early in
+neonatal life were less variant and more con-
+sistent in the abundance by 1 yr of age. Addi-
+tionally, the neonatal intestinal microbiome also
+appeared more adult-like near the end of the ﬁrst
+year of life (Palmer et al. 2007). This ﬁnding was
+conﬁrmed in a study by Koenig et al. in which the
+intestinal microbiome of an infant was moni-
+tored for 2.5 yr. Here, the authors found that
+the diversity of the intestinal microbiome in-
+creased over time and with the introduction of
+foods (Koenig et al. 2011). Also, Bacteroides spe-
+cies were found to increase on the introduction
+of vegetables (Koenig et al. 2011). Altogether,
+this data indicate that the neonatal microbiome
+is highly variable within the ﬁrst year of life.
+Therefore, various exposures during this time
+may have a signiﬁcant impact on the developing
+microbiome.
+
+2000; Michalowicz et al. 2006; Macones et al.
+2010). Animal models have shown that bacteria
+may be spread hematogenously to the placenta
+(Han et al. 2004; Fardini et al. 2010), and re-
+ports have suggested that oral bacteria may be
+associated with pregnancy complications (Katz
+et al. 2009; Han et al. 2010; Swati et al. 2012).
+Fusobacterium nucleatum is an oral pathogen
+that is frequently found in diagnostic cultures
+following PTB, PPROM, and stillbirth (Romero
+et al. 1989; Watts et al. 1992; Han et al. 2004,
+2010; Cahill et al. 2005). Our ﬁnding of Fuso-
+bacteria to be a relatively abundant taxon in the
+placenta supports the hypothesis of hematoge-
+nous spread from the oral cavity to the placenta
+(Aagaard et al. 2014), and this theory is further
+buttressed by the ﬁnding of bacteria in cord
+blood of normal pregnancies (Jime´nez et al.
+2005). Along these lines, bacteria can spread
+from the intra-amnion outward to the chorion,
+which indicates that hematogenous spread from
+mother to infant may be occurring via cord blood (Kim et al. 2009). Thus, hematogenous
+spread may promote colonization of the placen-
+ta and the fetus, but further studies are needed
+to examine this phenomenon. However, a po-
+tential mechanism to compromise the ma-
+ternal– fetal barrier has been illuminated. In a
+mechanism akin to Listeria monocytogenes (Ba-
+kardjiev et al. 2006; Le Monnier et al. 2007),
+F. nucleatum expresses adhesin FadA that in-
+teracts with E-cadherin, which compromises
+cell– cell adhesion and membranes (Lecuit et
+al. 2004; Ikegami et al. 2009; Fardini et al.
+2011). However, further studies are necessary
+to show deﬁnitively that hematogenous spread
+from the oral cavity is possible for colonization
+or infection of the placenta

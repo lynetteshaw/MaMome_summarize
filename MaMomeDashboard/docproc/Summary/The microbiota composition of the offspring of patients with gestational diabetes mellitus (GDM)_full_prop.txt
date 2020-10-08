@@ -1,0 +1,66 @@
+Competing interests: The authors have declared
+that no competing interests exist. The first 50 consecutive sub-
+jects who met both the criteria for GDM according to international guidelines (fasting plasma
+glucose �92 mg/dL and/or 1h post-test glycemia �180 mg/dL and/or 2h post-test glycemia
+�153 mg/dL) and the inclusion criteria (see below) were enrolled  Out of them, 41
+women participated in an observational study aiming to evaluate the changes in gut micro-
+biota composition across pregnancy  The fecal samples of their offspring were collected in
+the first week of life. Finally, all mothers were suggested to breastfeed their children. However, only 10
+of them followed this suggestion. Ethical aspects
+
+The present study conforms to the principles outlined in the Declaration of Helsinki. All patients provided written informed consent prior to
+participation in the study protocol. Data relative to the type of delivery, birth weight, gestational age and the type of feeding were
+extracted from medical records. Containers were immediately
+stored at −80 ˚C for DNA extraction. One microliter of RNase
+(Illumina Inc. San Diego. In order to identify sub-OTUs populations in our offspring cohort, reads assigned to genera
+
+Blautia, Bacteroides and Bifidobacterium were extracted and entropy analysis and oligotyping
+were carried out since these were the only OTUs showing higher level of entropy able to
+obtain sub-OTUs. ADONIS and ANOSIM statistical test were used
+to detect significant differences in the overall microbial community by using the unweighted
+UniFrac distance matrices or OTU table. Patients with GDM showed a predominance of Firmicutes (increasing during the gesta-
+tional period) and Bacteroidetes (whose relative abundance decreased), while the infant gut
+microbiota was characterized by an increased relative abundance of Actinobacteria and Pro-
+teobacteria (Fig 2). https://doi.org/10.1371/journal.pone.0226545.g002
+
+Infant gut microbiota and maternal dietary habits and laboratory variables
+
+No clear separation of the infant gut microbiota was observed (anosim P > 0.05) according to
+the maternal compliance to dietary recommendations (S2 Fig). The correlation plot between
+maternal nutrient intakes and infant gut microbiota showed a higher number of significant
+associations with maternal variables at enrolment than at the study-end (Fig 3). Maternal oligosaccharides derived mainly from dairy products, cereals, fruit and vegetables,
+
+while saturated fatty acids (SFA) derived mainly from meat and cheese. Two out of 29 women were treated with insulin;
+none received metformin. After adjusting for insulin treatment, the results of the multiple
+regression analyses did not change. PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019
+
+6 / 18
+
+GDM offspring gut microbiota composition
+
+Fig 3. Spearman’s rank correlation matrix of
+OTUs with > 0.2% abundance in at least 10 fecal samples, dietary information and blood variables. Only correlations with P-values <0.002 are shown. Statistically significant associations between infant microbiota composition and maternal variables by Spearman’s correlations for continuous variables
+(left) and multiple regression analyses (right). Gut microbiota signature at sub-genus level
+
+In order to explore the possible mother-to-infant gut microbiota transmission at sub-OTUs
+level, we carried out oligotyping on sequences of Blautia, Bacteroides and Bifidobacterium
+since these were the only genera showing a Shannon entropy index sufficient to identify all
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019
+
+8 / 18
+
+GDM offspring gut microbiota composition
+
+Fig 5. We then selected the oligotypes which were present in at least 5 mother-to-child
+pairs. At phylum level, we
+observed higher abundance of Actinobacteria and Bacteroidetes in the offspring from GDM
+women (S5A Fig) (P<0.001). Con-
+trarily to a few previous human studies showing that the infant gut microbiota was associated
+with the last-trimester maternal diet  we found stronger associations between infant gut
+bacteria composition and early maternal nutrition. This hypothesis needs
+to be confirmed by further studies. Heatplot showing OTUs of
+GDM patients at enrolment (red bars), study end (green bars) and their offspring (blue bars). Distribution of representative Bifidobacterium oligotypes in the offspring samples. Inner bars indicate the presence of an oligotype
+in a given sample. Formal analysis: Valentina Ponzo, Ilario Ferrocino, Adriana Zarovska, Maria Bernadette
+
+Amenta, Clara Monzeglio, Roberto Gambino, Simona Bo.

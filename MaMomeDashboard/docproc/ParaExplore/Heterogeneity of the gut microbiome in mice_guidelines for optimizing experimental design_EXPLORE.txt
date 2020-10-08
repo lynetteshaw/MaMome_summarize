@@ -1,0 +1,490 @@
+23_PARAGRAPHS
+
+118 FEMS Microbiology Reviews, 2016, Vol. 40, No. 1 Figure 1. Main functions of bacteria in the gut. Bacteria benefit the host in many ways. Besides breaking down food compounds and synthesizing vitamins and other
+nutrients, they play an important role in the development and training of the immune system (Hill and Artis 2010; Renz, Brandtzaeg and Hornef 2011; Sonnenberg
+and Artis 2012). They provide colonization resistance (Kamada et al. 2013; Lawley and Walker 2013), protect against epithelial injury (Rakoff-Nahoum et al. 2004) and
+promote angiogenesis (Stappenbeck, Hooper and Gordon 2002; Reinhardt et al. 2012) and fat storage (B ¨ackhed et al. 2004). They are also able to modulate bone-mass
+density (Sj ¨ogren et al. 2012), modify the nervous system (Hsiao et al. 2013) and metabolize therapeutics into active compounds (Claus et al. 2011).
+
+light on bacterial functionality. Such techniques have led to the
+development of the first human intestinal gene catalog (Qin
+et al. 2010) and enabled a better understanding of the link be-
+tween obesity-associated comorbidities and reduced bacterial
+richness (Cotillard et al. 2013; Le Chatelier et al. 2013). Although
+predetermining functional effects to specific gene sets provides
+first information about the functionality of a given microbiome,
+these analyses do not always assess the true functionality of the
+encoded genes in a specific environment. Metagenomic li-
+braries, typically cloned into Escherichia coli vectors, permit func-
+tional screening of microbiota in vitro (Troeschel et al. 2010). In
+addition, the exact impact of the microbial presence on the host
+can be studied using other ‘-omic’ approaches, providing a mul-
+tifaceted view by combining metagenomics with metatranscrip-
+tomics, metaproteomics or metabolomics (Raes and Bork 2009;
+Holmes et al. 2012).
+
+VARIABLES IN EXPERIMENTAL DESIGN THAT
+COMPLICATE INTEREXPERIMENTAL
+COMPARISONS The temporal stability of one’s gut microbiome remains a critical
+question. Shotgun sequencing has revealed that over a five-year
+period, an individual conserves on average 60% of ∼200 phylo-
+types (highest taxonomic level) (Faith et al. 2013). At lower taxo-
+nomic levels, e.g. at species level, each individual’s microbiome
+may be as representative as a fingerprint (Schloissnig et al. 2013).
+Yet, the stability of such a fingerprint remains unclear and its
+identification possesses methodological challenges (Mart´ınez,
+Muller and Walter 2013), considering age, gender, genotype, diet
+and environmental factors related to the donor (Wu et al. 2011).
+Spatial organization of bacterial communities across and
+along the gastrointestinal tract complicates microbiome anal-
+ysis. The sample type used to extract bacterial genetic informa-
+tion is of crucial importance. Along the gastrointestinal tract,
+a gradient of pH, bile acid concentrations, oxygen levels and
+antibacterial products exists. More importantly, the microbial
+composition of feces and intestinal tissue is intrinsically dif-
+ferent, because they are dictated by the radial gradient of
+oxygen and substrates provided by the host. Adjacent to the
+mucosa, facultative anaerobes are able to grow because of Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018 120 FEMS Microbiology Reviews, 2016, Vol. 40, No. 1 diffusion of oxygen from the underlying vessel network,
+whereas viable luminal bacteria are strictly anaerobes (Alben-
+berg et al. 2014). In addition, specific nutrients such as secreted
+proteins or cell-death-derived peptides shape the mucosa-
+associated microbiome. For ethical and practical reasons, it may
+not always be feasible to collect tissue (biopsy) samples. In addi-
+tion, fecal matter is usually collected to meet practical standards
+for the donors in terms of storage and shipment, and some in-
+vestigators use samples that were collected ‘anaerobically’.
+
+GF animals were applied in the study of the involvement of
+microbiota in diabetes, rheumatic arthritis and IBD (Bleich and
+Hansen 2012). For example, although the severity of colitis in
+the commonly used dextran sulfate sodium (DSS) model criti-
+cally depends on the presence of bacteria (Kitajima et al. 2001),
+GF mice develop more severe colitis as compared to convention-
+alized mice. This suggests that bacteria may play a protective
+role in the metabolism of DSS, or that GF mice respond less ef-
+ficient because of their immature intestinal immune system.
+Important mechanistic insights in colonization resistance, the
+mechanism whereby a microbial community is protected from
+colonization of new and often harmful bacteria, were raised by
+the use of sequential introduction of Bacteroides species into GF
+mice (Lee et al. 2013), showing that colonization of Bacteroides
+is species-specific and saturable. Finally, since immune struc-
+tures in GF mice remain immature, much of our understanding
+of host–microbe interactions involved in the development of the
+immune system arose from the study of GF animals and is dis-
+cussed in more detail later in this review.
+
+Artificial colonization of GF mice with specific pathogen-free
+(SPF) flora partly reversed the response to restraint stress (de-
+fined by an increase of plasma cortisol levels) when the flora
+was introduced at 6 weeks of age but not at 14 weeks of age
+(Sudo et al. 2004). Others demonstrated that gavage of 1-week-
+old mice with a distinct microbiota did not result in colonization,
+whereas inoculation of 3-week-old mice was successful (Hansen
+et al. 2012). At a very young age, the microbiota originating from
+the mother likely dominate the offspring microbiota. This idea
+is supported by the observation that microbial colonization of
+neonate GF mice resulted in normal numbers of iNKT cells in
+lungs and colon, while they are typically elevated in GF mice. In Laukens et al.
+
+121 contrast, colonization of 8-week-old GF mice could not reverse
+the elevated numbers of iNKT cells (Olszak et al. 2012). Accord-
+ingly, the administration of probiotics might lead to optimal re-
+sults only when given at early ages. The probiotic Lactobacillus
+johnsonii strain La1, for example, was effective in inhibiting the
+development of atopic dermatitis in NC/Nga mice only when ad-
+ministered right after weaning (Inoue et al. 2007).
+
+Although considerable literature exists about microbiota
+transfer into GF animals, little is known about transferring mi-
+crobiota into animals with non-GF intestines. Intuitively, one
+would treat such animals with antibiotics to allow the introduc-
+tion of the donor microbiota. However, antibiotic treatment is
+not necessary to establish an exogenous microbiota (Manichanh
+et al. 2010). In fact, antibiotic pretreatment even worsened the ef-
+ficiency of engraftment. Transplantation has also been used in
+mouse models of enteric infections. For example, mice infected
+with C. difficile could be cured with feces from healthy mice
+(Lawley et al. 2012), in accordance with the successful treatment
+of human relapsing C. difficile colitis. In addition, a so-called coli-
+togenic flora, retrieved from transgenic mice that spontaneously
+develop colitis, can successfully transmit intestinal inflamma-
+tion to wild-type mice (Garrett et al. 2007; Elinav et al. 2011). We
+demonstrated that cohousing of mice from the age of 4 weeks
+determines the sensitivity towards DSS-induced colitis, inde-
+pendent of the specific genotype (Brinkman et al. 2013). Conse-
+quently, randomly distributing and cohousing mutant and wild-
+type mice in cages before the experiment could lead to loss of
+phenotype as a result of microbiota transfer (Brinkman et al.
+2013).
+
+In the human newborn’s gut, the original bacterial species
+that populate are mainly facultative anaerobes,
+including
+Staphylococci (Morelli 2008). They consume oxygen leading to a
+drop in redox potential, as such creating an appropriate en-
+vironment for anaerobic colonization such as Clostridia and Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018 122 FEMS Microbiology Reviews, 2016, Vol. 40, No. 1 Figure 3. The development of the murine microbiota and the immune system over time. In utero, few, if any, bacteria are present in the mouse gut and the immune
+system is not yet matured. Upon birth, the neonate is inoculated with microorganisms by the mother and the environment, and rapidly develops an immune system
+that enables the pup to fight infections. Genetic background co-determines the composition of the microbiota, for example when the genotype increases intestinal
+inflammation. After weaning, diet changes induce a novel surge in microbiota development and maturation of the immune response. At this time point, the microbiota
+is fully established but still susceptible to changes in its composition by manipulation (e.g. diet) or natural influences. When the mouse reaches adulthood around
+eight weeks, the microbiota displays a stable homeostatic state. At each of these four stages, the microbiota can be studied in conventional animals using the different
+experimental approaches that are listed. ILCs: innate lymphoid cells; Treg: regulatory T cells.
+
+Bifidobacteria. These early colonizers induce the expression of
+mucins, the constituents of the mucus layer that forms a phys-
+ical barrier between epithelial cells and the luminal content
+(Bergstr ¨om et al. 2012). Accordingly, the thickness of the mucus
+layer is decreased in GF rats and its composition differs dramat-
+ically compared to conventionalized rats (Meslin, Fontaine and
+Andrieux 1995). Especially in the first week after weaning, co-
+inciding with the introduction of solid food, the pups are chal-
+lenged by a rapidly changing microbiota until intestinal home-
+ostasis is established, which generally occurs 11–17 days after
+weaning (Schloss et al. 2012). The microbiota on day 17 closely
+resembles the microbiota one year after weaning when mice are
+kept under similar conditions. When the adult microbiome has
+been established, the bacterial communities inhabiting the in-
+testine are set and a clear distinction exists between the lumi-
+nal and the mucus-adherent microbial populations. After con-
+ventionalization of GF mice, microbial colonization of the colon
+starts with the appearance of early colonizers on day 1, fol-
+lowed by the slower establishment of a stable community. Inter-
+estingly, homeostasis in the colon is reached within 8–16 days,
+whereas establishment of homeostasis in the small intestine
+takes about twice as long (El Aidy et al. 2012). Why the establish-
+ment of this equilibrium in the ileum, which contains far less
+bacteria compared to the colon, takes more time is speculative,
+but indicates a higher complexity of the host–microbiome inter-
+face in the ileal environment.
+
+INTESTINAL HOMEOSTASIS OF THE MURINE
+GUT MICROBIOME Despite continuous exposure to bacteria and bacterial
+constituents such as lipopolysaccharides and flagellin, the
+intestinal mucosa maintains a homeostatic immunological en-
+vironment. The host preserves a state of tolerance towards col-
+onizing bacteria, inhibits bacterial overgrowth and at the same
+time acts appropriately towards pathogens (Kamada et al. 2013;
+Lawley and Walker 2013; Sommer and B ¨ackhed 2013).Vice versa,
+the established adult microbiota provides protection against
+potential pathogens via direct inhibition or nutrient depletion.
+In addition, bacterial metabolites such as short-chain fatty acids
+are well-known regulators of the host immune response (Macia
+et al. 2012), and the generation of antigen-specific populations
+of Treg cells in response to the commensal microbiota is thought Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018 to provide post-thymic education of the immune system and
+to generate tolerance (Lathrop et al. 2011; Renz, Brandtzaeg
+and Hornef 2011). Immunosuppressive Treg cells are induced
+in gut-draining lymph nodes and home to the gut where they
+expand and produce a tolerant environment for a specific
+antigen (Hadis et al. 2011).
+
+Emerging evidence demonstrates an important role of innate
+signaling in preserving a healthy microbiome through the in-
+teraction of PAMPs with NOD-like receptors (NLRs), Toll-like re-
+ceptors (TLRs) and ILCs (Hooper, Littman and Macpherson 2012).
+NOD2, one of the first and most replicated risk factors for ileal
+Crohn’s disease, recognizes intracellular muramyldipeptide, a
+constituent of both Gram-positive and Gram-negative bacte-
+ria, and induces proinflammatory cytokines and stimulates de-
+fensin production in the ileum. Mice deficient in Nod2 are not
+able to control Helicobacter hepaticus infection. In addition, a sig-
+nificantly higher amount of Bacteroides and Firmicutes is found in
+the terminal ileum of Nod2-deficient mice compared with their
+wild-type littermates. Of note, this difference is less prominent
+in fecal samples (Robertson et al. 2013), probably reflecting the
+highest expression of Nod2 in Paneth cells of the ileum. Genetic
+inactivation of the Nlrp6 inflammasome results in increase sus-
+ceptibility to DSS and the generation of a colitogenic flora (Eli-
+nav et al. 2011). In general, intestinal epithelial cells are hypore-
+sponsive towards bacterial sensing which is mediated by, for
+example, the single Ig IL-1-related receptor, inhibiting IL-1 sig-
+naling. Genetic deletion of this receptor in mice renders them
+highly susceptible to pathogen colonization as a direct conse-
+quence of the loss of a homeostatic commensal flora (Sham et al.
+2013). In addition, TLR-MyD88 signaling in response to commen-
+sal bacteria critically regulates defensin production by Paneth
+cells (Menendez et al. 2013). Of high importance in orchestrating
+intestinal barrier function and innate sensing are ILCs, which
+are the resident immune cell regulators at epithelial surfaces
+that share many of the CD4+ and CD8+ T-cell functions (Son-
+nenberg and Artis 2012). Like T cells, ILCs develop from com-
+mon lymphoid precursors; however, they are not selected for
+antigen specificity and do not express antigen receptors. As in-
+nate sensors, they respond and divide rapidly upon stimulation.
+ILCs regulate barrier integrity and therefore the direct physical
+border between microbiome and underlying lamina propria cells
+through secretion of cytokines such as tumor necrosis factor and
+interferon.
+
+Unexpectedly, individual mice from certain strains, for ex-
+ample C3HRI, DBAJR and WSB, appear to be more similar in their
+microbiota than other strains such as C57BL6/J (Friswell et al.
+2010; Campbell et al. 2012). This indicates that host genetic fac-
+tors contribute to different levels of conformity and explains
+why sufficient backcrossing of strains is crucial for the repro-
+ducibility of animal experiments. Moreover, a common practice
+is the use of embryonic stem cells from the 129 mouse strain to
+generate genetically engineered mice in which germ transmis-
+sion can be scored by a chimeric fur. This methodology requires
+sufficient backcrossing in a particular mouse strain to reduce
+the mixed genetic background. Unfortunately, the genetic his-
+tory of mutant mice is often ambiguous when mice are shared
+between institutions (Sellers et al. 2012). Although a strain is
+considered stable when backcrossed for 10 generations, original
+129 genes that are too close to the mutated gene to be segre-
+gated by recombination will persist in the backcrossed genome
+(Simpson et al. 1997; Lusis, Yu and Wang 2007) and may cause
+microbial differences compared to wild-type mice. Comparative
+genomic analysis of 129 and C57BL/6J mouse strains revealed
+indels and single nucleotide polymorphisms resulting in alter-
+native or aberrant amino acid sequences in 1084 genes in the
+129-strain genome. Annotating these passenger mutations to
+the reported genetically modified congenic mice that were gen-
+erated using 129-strain ES cells revealed that nearly all these
+mice possess multiple passenger mutations potentially influ-
+encing the phenotypic outcome. A Me-PaMuFind-It web tool
+has been developed to estimate the number and possible ef-
+fect of passenger mutations in transgenic mice of interest (Van-
+den Berghe et al. 2015). A dramatic illustration of the problem of
+passenger mutations recently reemerged when Casp1-null mice
+were found to carry an inactivating passenger mutation in the
+neighboring Casp11 gene (Kayagaki et al. 2011). Essentially, the
+strong protection observed in Casp1-null mice against a lethal
+lipopolysaccharide challenge was found to be mainly due to this
+inactivating passenger mutation in the Casp11 gene.
+
+Few papers describe murine gender differences in micro-
+biota composition. A comparison of inbred lines revealed greater
+similarity between pools of the same mouse line than between
+pools of the same sex (Kovacs et al. 2011). By contrast, others
+showed that gender differences in microbiota composition do
+exist but that this observation is genotype dependent (Fushuku
+and Fukuda 2008a; Gomez et al. 2012). The microbiomes of Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018 124 FEMS Microbiology Reviews, 2016, Vol. 40, No. 1 weanling non-obese diabetic (NOD) male and female are indis-
+tinguishable, but sex-specific differences in microbiome com-
+position become evident at puberty and are most evident in
+adult mice (Markle et al. 2013). Apparently, each gender har-
+bors a unique susceptibility to factors that shape the microbiota
+after birth. These authors demonstrated that the male micro-
+biota provides testosterone-dependent protection from type 1
+diabetes in the NOD mice.
+
+Besides strain and gender differences, investigators have
+studied the effects of the allelic absence of specific genes on
+the intestinal microbiota by comparing knockout with wild-type
+mice. These studies have demonstrated that deletion of a single
+gene can cause substantial alterations in the microbiota (Vijay-
+Kumar et al. 2010; Brinkman et al. 2011; Kellermayer et al. 2011;
+Lynch et al. 2012). Still, even gene deletions that cause a remark-
+able phenotypic abnormality, such as the Ob/Ob mouse, have
+been shown to have a much weaker effect than a change in diet
+on the microbial composition (Hildebrandt et al. 2009). In addi-
+tion, the question remains whether the microbiota as a whole
+or a specific bacterial community is responsible for phenotypic
+differences in transgenic animals. For example, the spontaneous
+colitis phenotype in mice lacking T-bet depends on the presence
+of only 12 species (Powell et al. 2012).
+
+Genotype-specific phenotypes can be microbiota dependent
+and this dependence could lead to wrong conclusions when
+phenotypes of different mutant lines of the same strain are
+compared. For example, phenotypic differences between TLR-
+deficient C57BL/6J mouse colonies mainly reflected a diver-
+gence of the microbiota after extended isolated breeding of the
+colonies (Ubeda et al. 2012). Thus, long-term breeding of separate
+mouse lines that had been derived from the same strain appears
+to result in marked changes in intestinal microbiota composi-
+tion. This observation cautions for direct comparison of mutant
+lines even when they are bred in the same facility. Therefore,
+correct interpretation of study results requires reference litter-
+mate mice that are bred from in-house heterozygous breedings.
+Taken together, microbiota composition in genetically modified
+mice may superimpose on the genetic effect causing a change
+in host physiology.
+
+VARIABLES THAT AFFECT GUT MICROBIOTA
+COMPOSITION RELATED TO ANIMAL
+HOUSING Variation in the microbiological environment between research
+institutions or commercial breeding facilities is a confounding
+factor; however. the exact contribution to experimental out-
+comes is poorly understood. The origin of the mice is extremely
+important because laboratory mice are available as both outbred
+stocks and inbred strains from various vendors. Viable counts
+of the total bacterial load have revealed large differences in the
+cecal microbiota among mice of the same strain from differ-
+ent vendors (Hufeldt et al. 2010b). The presence of segmented
+filamentous bacteria in the gut of mice of Taconic caused a
+higher frequency of Th17 cells compared with mice from Jack-
+son Laboratory who lacked these bacteria (Ivanov et al. 2009).
+Other groups have also reported vendor-dependent differences
+in disease outcome, but these studies did not focus on the mi-
+crobiome. For example, variations in airway responsiveness in
+C57BL6 mice obtained from five different vendors were reported
+(Chang, Mitzner and Watson 2012). This type of variation is not
+restricted to commercially available strains but also plays a role
+when comparing studies performed in different animal labora- tory sources (Ubeda et al. 2012). Recommendations for experi-
+mental design that take into account the key variables that affect
+gut microbiota composition with respect to housing conditions
+are provided in Table 1.
+
+Diet-induced changes in bile acid composition can also be
+an important cause of modifications to the gut bacterial com-
+munity. For example, a diet high in saturated fats increased
+the abundance of the sulfite-reducing bacterium deltaproteobac-
+terium (Devkota et al. 2012). This effect was achieved by promot-
+ing taurine conjugation of bile acids, hence increasing the avail-
+ability of organic sulfur and providing more favorable conditions
+for sulfite-reducing microorganisms. Vice versa, the conversion
+from primary to secondary bile acids by bacteria defines the
+composition of the gut microbiome (Cowles et al. 2002); however,
+it is difficult to establish which is cause or consequence.
+
+Stress factors The effects of physical and psychological stress on the
+functions of the gastrointestinal tract are widely recognized Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018 126 FEMS Microbiology Reviews, 2016, Vol. 40, No. 1 Table 2. Acute DSS-colitis and the role of the inflammasome components NRLP3 and caspase-1 in disease development.
+
+Control Littermates Strain Facility %DSS Effect Microbiota studied Reference Genetic
+modification Nlrp3 knockout Nlrp3 knockout Nlrp3 knockout Commercial
+wild type
+Commercial
+wild type
+Wild type Nlrp3 knockout
+Nlrp3 knockout
+Casp1 knockout Wild type
+Wild type
+Wild type Casp1 knockout
+Casp1 knockout Wild type
+Wild type Casp1 knockout
+Casp1 knockout
+Casp1 knockout Wild type
+Wild type
+Wild type No No NC NC
+Yes
+NC NC
+NC NC
+NC
+No NC: not communicated.
+
+C57BL/6 SPF Sensitized Zaki et al. (2010) NC NC C57BL/6
+C57BL/6
+C57BL/6 C57BL/6
+C57BL/6 C57BL/6
+C57BL/6
+C57BL/6 NC NC SPF
+NC
+SPF SPF
+NC NC
+SPF
+NC 2 2 4 4
+3 5
+2.5
+2 2
+5
+3.5 Protected No Bauer et al. (2010) Protected Bauer et al. (2012) Co-housing (2 weeks
+together), antibiotics
+Antibiotics, bacterial
+count in stool
+No
+No
+Co-housing (4 weeks
+together)
+No
+No Sensitized
+Sensitized
+Sensitized Sensitized
+Sensitized No effect
+Sensitized
+Protected No
+No
+No Allen et al. (2010)
+Hirota et al. (2011)
+Elinav et al. (2011) Zaki et al. (2010)
+Dupaul-Chicoine
+et al. (2010)
+Hu et al. (2010)
+Hirota et al. (2011)
+Siegmund et al.
+(2001) (Konturek, Brzozowski and Konturek 2011). Bidirectional signal-
+ing between the gastrointestinal tract and the central nervous
+system, known as the brain-gut axis, appears to be vital for
+maintaining immune homeostasis (Lyte 2013). The most reveal-
+ing insights into the importance of the microbiota in animal be-
+havior were obtained from comparison of GF mice with SPF mice
+and by the use of antibiotics (Sudo et al. 2004; Bercik et al. 2011;
+Neufeld et al. 2011). Stress-induced small bowel inflammation
+can be elicited in rodents by placing them on a small platform
+surrounded by water for 1 h daily. This results in stress-induced
+visceral hyperalgesia and increased cortisol levels. Interestingly,
+this hormone inhibits Nlrp6 expression, a component of the in-
+flammasome that responds to commensal bacteria (Sun et al.
+2013). Water-avoidance stress altered the gut microbiota, and co-
+housed non-stressed mice developed enteritis.
+
+It is important to harmonize the exposure of the animals to
+stressors such as noise and handling and minimize cage effects.
+In line with the existence of a susceptibility window, relocation
+effects were largest when the mice were between 4 and 8 weeks
+of age, and negligible at older ages (Friswell et al. 2010). Minimiz-
+ing differences in microbiota variation would therefore require
+maintaining mice that are part of an experiment in the same
+type of cage, in the same rack and in the same room of a facil-
+ity. As a critical note, many environmental conditions cannot be
+equalized between laboratories and different sites will inevitably
+standardize to different local environments and particularities.
+Instead of achieving the desired result of increased reproducibil-
+ity between different institutes, the standardization measures
+would thus reduce reproducibility between different sites, which
+is also known as the so-called standardization fallacy (W ¨urbel
+2000). The only way to stop this vicious circle of extreme local
+standardization (environmental factors, genetic factors, exper-
+imental setup) and apparent variation of phenotypes between
+different animal housings is introducing systematic variation of
+parameters within one research institution (W ¨urbel 2000).
+
+Collections of standardized microbiota Establishing a collection of different standardized microbiotas
+in isobiotic mice to be shared between institutions for repro-
+ducible experimentation has been proposed (Hooper, Littman
+and Macpherson 2012). This would require considerable effort,
+but it may be interesting to generate isobiotic mice lines in
+highly specialized animal facilities at the providing institutions.
+This has only a minor logistical, technical and financial im-
+pact on the receiving institution and should be seriously con-
+sidered. Commercial vendors are already studying methods for
+archiving microbiota for reproduction of studies in different
+labs or at different times (P156, AALAS 63rd National Meeting
+2012). Protocols for the sequential colonization of rodents us-
+ing donors or pure cultures have been suggested by Taconic
+(http://taconic.com/wmspage.cfm?parm1=289). Along the same
+line, the European framework program 7 has setup common
+projects to share mouse breeding facilities between different in-
+stitutes (‘mouse hotels’), while the experiments are done locally.
+Such a policy would already seriously prevent the problem of ex-
+treme local standardization and local genetic drift.
+
+CONCLUSIONS Optimizing reproducibility of animal experiments to study host–
+microbiome interactions between different research institutions
+is crucial to draw sound conclusions. Increasing evidence sug-
+gests that the microbial environment influences the innate
+and adaptive immune system and largely determines the out-
+come of such investigations, even in disease models where the
+microbiome is not under investigation. Therefore, parameters
+that influence the microbiota composition should be consid-
+ered at all times and requires extensive description upon pub-
+lication. Moreover, 129 derived genetically modified congenic
+mice are affected by passenger mutations, interfering with the Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018 128 FEMS Microbiology Reviews, 2016, Vol. 40, No. 1 link between modified target gene and the microbiota compo-
+sition phenotype. It is particularly important that journals de-
+mand adherence to the ARRIVE guidelines in combination with
+the GSPC checklist. The lack of defining confounding factors
+can jeopardize the relevance of data, especially in research re-
+lated to dysbiosis-induced disease and pre-clinical intervention
+studies

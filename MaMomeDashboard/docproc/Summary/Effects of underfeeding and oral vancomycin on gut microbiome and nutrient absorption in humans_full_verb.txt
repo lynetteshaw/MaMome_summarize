@@ -1,0 +1,131 @@
+Following screening, participants were admitted and placed on a WMD. Collection of food 
+(duplicate meals to perform bomb calorimetry) was done on days 5–7 and 11–13. In this two-phase study, 
+we directly measured stool and ingested calories along with plasma 
+biomarkers  of  host  and  microbial  metabolism  during  overfeeding 
+(OF) and UF (phase I) and then in a randomized, double-blind, pla-
+cebo-controlled trial with oral vancomycin versus placebo (phase II). As  expected,  the  absolute  number  of  calories  lost  per  day 
+was significantly higher in overfed relative to underfed individuals 
+(257.4 ± 91.2 kcal d−1 versus 123.5 ± 32.4 kcal d−1, Δ = 139.4 kcal d−1, 
+P < 0.0001, paired Student’s t-test; Fig. 2 | Dietary interventions impact nutrient absorption. P values 
+determined by two-sided paired Student’s t-test. Participants who started the dietary phase with OF are represented by red dots, while those who started 
+with UF are represented by white dots. The transit time was defined as the time between the first and the last appearance of the dye marker during each 
+intervention, in hours. When analyzed within each subject, we were 
+able to identify two individuals (of ten evaluated) that had signifi-
+cant differences in overall microbial community structure between 
+diet arms , which may suggest that the baseline gut micro-
+biota matters for its sensitivity to the dietary interventions. There  were  no  significant  differences  
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNeP = 0.5
+
+∆ = 83.2 kcal d–1
+P = 0.012
+
+Placebo
+
+Vancomycin
+
+Placebo
+
+Vancomycin
+
+400
+
+300
+
+200
+
+100
+
+0
+
+b
+
+Absolute stool calories (kcal d–1)
+
+d
+
+100
+
+80
+
+60
+
+40
+
+Transit time (hours)
+
+4,000
+
+3,500
+
+3,000
+
+2,500
+
+2,000
+
+a
+
+Daily food intake (kcal d–1)
+
+c
+
+12
+
+10
+
+02468
+
+(percentage per day)
+Calories excreted in stool
+
+∆ = 2.6% per day
+P = 0.0069
+
+P = 0.2
+
+Placebo
+
+Vancomycin
+
+Placebo
+
+Vancomycin
+
+Fig. a, Mean of 3-d food intake (kcal d−1) in the vancomycin (n = 11) and placebo 
+(n = 13) groups. d, Mean transit time, expressed in hours, in vancomycin (n = 11) and placebo 
+(n = 13) groups. Error bars represent 
+the mean with 95% confidence interval. Taken 
+together,  these  results  indicate  the  overall  resiliency  of  the  gut 
+microbiota faced with differences in caloric intake while also high-
+lighting  a  small  number  of  diet-responsive  bacterial  species  that 
+could contribute to the observed differences in nutrient absorption. While colonization level was not different by treat-
+ment group (P = 0.26, unpaired Wilcoxon test; Fig. Despite 
+these differences, we were able to identify two bacterial species that 
+consistently changed in response to both perturbations  based 
+on  16S  rRNA  sequence  variants  analysis:  A.  muciniphila,  a  mucin-
+degrading  bacterium  with  a  putative  role  in  preserving  gut  barrier 
+
+NATURE MEDiciNE | www.nature.com/naturemedicine
+
+ArticlesNature MediciNefunction24–26,  which  was  enriched  during  UF  and  in  the  vancomy-
+cin group, and an unidentified species belonging to Lachnospiraceae 
+NK4A136 group, which decreased during UF and vancomycin inter-
+ventions. At the pathway level there was a more modest 
+difference between groups; only 3 of 290 metabolic pathways were 
+differentially abundant (all decreased) with vancomycin compared 
+with placebo (Extended Data Fig. Discussion
+In  this  two-phase  study  we  directly  measured  ingested  and  stool 
+calories, demonstrating an increased and comparable stool calorie 
+loss relative to ingested calories during two states: UF versus OF and 
+oral vancomycin versus placebo. Subjects are split by diet order (n = 11 OF → UF and n = 9 UF → OF). c, First 
+two principal coordinates of Bray–Curtis dissimilarity for daily samples from ten subjects during the dietary phase. 5 | changes in the gut microbiome in response to oral vancomycin. Each data point represents the mean value of samples from each subject (n = 70 samples from 24 
+subjects). d, Heatmap of differentially abundant species, determined by shotgun metagenomic sequencing, between vancomycin (n = 8) and placebo 
+(n = 10) groups (FDR < 0.05, two-sided unpaired Wilcoxon test). Δ indicates the difference (log expressed) between pre- and postdietary intervention measurements (c) and 
+the difference (log expressed) between pre- and postrandomization measurements in vancomycin and placebo groups (d). Our results also differ from another carefully conducted study17 
+that  did  not  find  an  effect  of  oral  vancomycin  on  stool  calories 
+despite widespread changes in gut microbial community structure 
+and  metabolite  concentrations. Received: 15 February 2019; Accepted: 13 February 2020;  
+Published: xx xx xxxx

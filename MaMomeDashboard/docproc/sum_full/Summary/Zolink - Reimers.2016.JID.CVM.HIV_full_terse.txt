@@ -1,0 +1,75 @@
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+the commonality that relates both BV and vaginal pH to HPV
+infection (independent of HIV) is the RA of certain Lactobacil-
+lus species, most notably L. crispatus. The number of clusters was determined by the Milligan
+point-biserial criterion  The Shannon diversity index
+(SDI) was calculated for the microbiome at each patient visit
+in the data set 
+
+The primary outcomes were detection of any HPV and
+any oncogenic HPV. Selected Characteristics of Participants in the Cervicovaginal Microbiota Substudy at their Index Visit, Stratified by Study Group
+
+HIV Uninfected
+(n = 22)
+
+HIV Infected, Stable Immune
+Status (n = 22)
+
+HIV Infected, Rapid
+Immunosuppression (n = 20)
+
+Between All
+Groups
+
+Between HIV-
+Positive Groups
+
+30.7 ± 9.3
+1150 
+
+33.7 ± 6.8
+782 
+
+31.9 ± 4.9
+285 
+
+P Valuea
+
+.41
+
+<.001
+
+.87
+
+.35
+
+<.001
+
+.45
+
+Lifetime no. Reference
+0.29 (.08–1.05)
+0.55 (.06–5.13)
+1.19 (.69–2.04)
+1.65 (.72–3.78)
+0.84 (.33–2.17)
+
+. . . example, Candida albicans growth in vitro was inhibited via
+modulation of Toll-like receptors 2/4 by L. crispatus in epithe-
+lial cell culture 
+
+While the current study contributes data suggesting a possi-
+ble protective effect of L. crispatus against cervicovaginal HPV
+infection in HIV-infected and HIV-uninfected women (inde-
+pendent of pH), several limitations need to be considered. In summary, our results suggest a beneﬁcial effect of L. crisp-
+atus on the burden of HPV in HIV-infected and HIV-uninfected
+women that is unrelated to pH. Further research to better un-
+derstand these relationships is strongly warranted, including
+large prospective cohort studies and laboratory research to un-
+derstand the mechanisms that underlie the relation of the cer-
+vicovaginal microbiota with HPV infection.

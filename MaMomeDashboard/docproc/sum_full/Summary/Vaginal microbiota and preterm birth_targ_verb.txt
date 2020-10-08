@@ -1,0 +1,76 @@
+The microbiological diagnosis of a ‘normal’ or dis-
+turbed vaginal microbiota has historically been based on
+the Nugent score, the current gold standard diagnostic
+method that relies on Gram stain of vaginal smears 
+The ‘normal’ vaginal microbiota in non-pregnant repro-
+ductive aged women is understood to be dominated by
+Lactobacillus species, while an abnormal microbiota
+(defined as bacterial vaginosis) is characterized by low
+abundance of lactobacilli and an overgrowth of anaer-
+obic bacteria, such as Gardnerella vaginalis, Prevotella
+spp., and Mycoplasma
+hominis  In low-risk pregnant women, it has been
+shown that the vaginal microbiota has reduced richness
+lactobacilli
+and diversity and increased abundance of
+compared to those of non-pregnant women  An
+abnormal microbiota has been previously associated
+with preterm birth  but only a few in depth
+culture-independent studies of the vaginal microbiota of
+women who had preterm birth have been published,
+with inconsistent conclusions . The objective of this study was to assess whether there
+are differences in the vaginal microbiota composition,
+early in gestation, of women who had spontaneous pre-
+term birth (sPTB) and term delivery that could be fur-
+ther investigated as diagnostic indicators of preterm
+birth risk. Microbiome profiling was based on sequen-
+cing of the cpn60 universal target, which provides higher
+resolution than 16S rRNA variable regions and al-
+lows the resolution of Gardnerella vaginalis subgroups,
+a hallmark bacteria in the disturbed microbiota . Conventional PCR
+Some Mollicutes (Mycoplasma and Ureaplasma) species
+lack a cpn60 gene  Thus, we performed a family-
+specific semi-nested PCR targeting the 16S rRNA gene
+to detect Mollicutes  and a PCR targeting the
+multiple-banded antigen gene to detect Ureaplasma spp. PCR products from U. parvum and U. urealyticum can
+be differentiated by size . Hierarchical clustering of vaginal microbiota profiles
+resulted in seven community state types
+I
+(CST):
+(Lactobacillus crispatus dominated),
+(Lactobacillus
+gasseri dominated), III (Lactobacillus iners dominated),
+IVA (Gardnerella vaginalis subgroup B or mix of differ-
+ent species), IVC (G. vaginalis subgroup A dominated),
+IVD (G. vaginalis
+subgroup C dominated) and V
+(Lactobacillus jensenii dominated) . Overall microbiota profiles did not cluster together
+based on gestational age at delivery (Figs. The CST IVA was the
+most heterogeneous group, represented by the domin-
+ance of Lactobacillus delbrueckii, Bifidobacterium den-
+tium, Bifidobacterium infantis, Atopobium vaginae,
+Bifidobacterium breve or a mixture of different bacteria
+species. The CST IVC was dominated by G. vaginalis
+subgroup A and Megasphaera spp., Eight OTU/species were more abundant in the term
+group in comparison with preterm, all of which were
+considered rare members of the bacterial community
+. were associated with both term and pre-
+term. It is important to note that
+read depth distribution did not differ between term and
+preterm cohorts (t test, p > 0.05); therefore, the differ-
+ences observed here in bacteria prevalence were unlikely
+to be driven by cohort sequencing bias..
+
+although we cannot address this question, it is possible
+that sPTB driven by an ascending infection would be
+more evident in a high-risk cohort or extreme preterm
+cases. Differences in the
+prevalence of several other taxa between groups were
+also observed. For example, more women in the term
+group had Prevotella amnii and P. tannerae detected in
+their vaginal samples, whereas P. timonensis, P. bivia, P.
+corporis and P. bucalis were more frequently detected in
+samples from women in the preterm group (Table 3). have been previously associated with bac-
+terial vaginosis and preterm labour  and our
+results indicate that different Prevotella species might
+have different roles in sPTB.

@@ -1,0 +1,1104 @@
+Lactin-V to Prevent Recurrence of Bacterial Vaginosis
+
+Bacterial vaginosis affects 15 to 50% 
+
+of women of reproductive age worldwide.1 
+After treatment with an antibiotic agent, 
+20  to  75%  of  women  have  recurrent  bacterial 
+vaginosis within 3 months.2 Bacterial vaginosis 
+has  been  associated  with  an  increased  risk  of 
+sexually transmitted infections (STIs), including 
+human  immunodeficiency  virus  (HIV)  infec-
+tion,3-6  as  well  as  premature  birth7,8  and  other 
+reproductive  health  sequelae.9,10  Furthermore, 
+recurrent  bacterial  vaginosis  leads  to  negative 
+emotional, sexual, and social effects, as well as 
+a  substantial  economic  burden  on  the  health 
+care system.11,12 The high incidence of recurrence 
+suggests  the  need  for  new  agents  to  prevent 
+bacterial vaginosis.
+
+Lactobacillus crispatus  CTV-05  (Lactin-V,  Osel) 
+is  a  live  biotherapeutic  product  that  contains  a 
+naturally occurring vaginal strain of L. crispatus. 
+It  is  composed  of  a  powder  containing  2×109 
+colony-forming units (CFU) of L. crispatus CTV-05 
+preserved  with  inactive  ingredients  and  is  ad-
+ministered  with  the  use  of  a  prefilled  vaginal 
+applicator.  Lactin-V  is  designed  to  promote  a 
+community  state  type  (i.e.,  microbial  composi-
+tion) with a predominance of  L. crispatus11 after 
+treatment with vaginal 0.75% metronidazole gel. 
+In previous clinical trials, no serious or grade 3 
+adverse events that were considered to be related 
+to the use of Lactin-V were reported.13-18 On the 
+basis of the results from a phase 2a clinical trial 
+of Lactin-V,16 the current phase 2b trial was de-
+signed to assess whether treatment with Lactin-V 
+after  a  5-day  course  of  metronidazole  to  treat 
+bacterial vaginosis would result in a significantly 
+lower  incidence  of  recurrence  of  bacterial  vagi-
+nosis than placebo.
+
+Me thods
+
+Trial Design and Oversight
+From  April  2016  through  February  2019,  we 
+conducted  a  multicenter,  randomized,  double-
+blind,  placebo-controlled,  phase  2b  trial  to  as-
+sess  the  efficacy  of  repeated  doses  of  Lactin-V 
+over  the  course  of  11  weeks  in  preventing  the 
+recurrence of bacterial vaginosis in women who 
+had received a diagnosis of bacterial vaginosis at 
+the screening visit. The trial protocol and statis-
+tical analysis plan are available with the full text 
+
+of this article at NEJM.org. The protocol, which 
+was  approved  by  the  institutional  review  board 
+at each of four participating clinical sites, was 
+written by the trial investigators and personnel 
+at  Emmes  (a  contract  research  organization). 
+Representatives of the Division of Microbiology 
+and  Infectious  Diseases,  National  Institute  of 
+Allergy and Infectious Diseases of the National 
+Institutes  of  Health  (NIH)  reviewed  the  proto-
+col. Staff members at Osel reviewed the portions 
+of the protocol that described Lactin-V and pla-
+cebo,  including  storage  requirements,  and  one 
+of  the  staff  members  (the  penultimate  author) 
+was involved in writing the manuscript. Osel also 
+provided  both  Lactin-V  and  placebo.  The  first, 
+second, and last authors vouch for the complete-
+ness and accuracy of the data and for the fidel-
+ity of the trial to the protocol.
+
+Premenopausal women 18 to 45 years of age 
+were screened for eligibility after providing writ-
+ten  informed  consent  to  be  screened.  At  the 
+screening visit, the participant’s medical history 
+was obtained, and physical and pelvic examina-
+tions  were  performed.  If  a  potentially  eligible 
+woman met at least three of four Amsel criteria 
+(i.e.,  thin,  white  or  yellow,  homogeneous  dis-
+charge;  >20%  clue  cells  on  microscopic  exami-
+nation; vaginal fluid with a pH of >4.5; and re-
+lease  of  a  fishy  odor  when  10%  potassium 
+hydroxide  is  added  to  a  vaginal  specimen),  a 
+vaginal swab was obtained and sent to a central 
+laboratory at Magee–Womens Research Institute. 
+Gram’s staining of the vaginal smear was used 
+to determine the Nugent score (0 to 3 [normal], 
+4  to  6  [intermediate],  or  7  to  10  [indicative  of 
+bacterial  vaginosis]).19  A  blood  sample  was  ob-
+tained to test for HIV infection and syphilis; a 
+vaginal swab was obtained for molecular testing 
+for gonorrhea, chlamydia, and trichomonas in-
+fections; and a urine specimen was obtained to 
+test for beta human chorionic gonadotropin and 
+urinary tract infection. Potentially eligible wom-
+en completed a standard 5-day course of vaginal 
+0.75% metronidazole within 30 days before the 
+screening visit.
+
+Eligible women who met at least three Amsel 
+criteria and who had a Nugent score of 4 to 10 at 
+the screening visit and negative results on tests 
+for STIs then returned to the trial clinic within 
+48 hours after completion of the metronidazole 
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+1907
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. T h e  n e w   e ng l a n d   j o u r na l   o f  m e dic i n e
+
+regimen for reevaluation of their eligibility. After 
+providing written informed consent to partici-
+pate in the trial, eligible women were randomly 
+assigned,  in  a  2:1  ratio,  to  receive  Lactin-V  at 
+2×109  CFU  per  dose  or  matching  placebo  and 
+subsequently  received  a  carton  containing  25 
+vaginal applicators. The placebo formulation con-
+tained the same inactive ingredients as Lactin-V, 
+without L. crispatus CTV-05.
+
+Participants  were  instructed  on  proper  ad-
+ministration of the assigned treatment and were 
+observed during administration of the first dose 
+in the clinic. Subsequently, participants were to 
+administer four consecutive daily doses of Lactin-V 
+or  placebo  during  week  1,  followed  by  twice-
+weekly doses for 10 weeks. Participants used a 
+paper-based  memory  aid  to  log  administration 
+of  Lactin-V  or  placebo  and  menstruation  and 
+sexual activity and to record symptoms and ad-
+verse  events.  The  memory  aid  was  to  be  com-
+pleted  daily  during  the  first  12  weeks  of  the 
+trial and weekly thereafter.
+
+Clinic follow-up visits were scheduled 4, 8, 12, 
+and  24  weeks  after  enrollment.  At  each  time 
+point,  vaginal  swabs  were  obtained  for  assess-
+ment  of  Amsel  criteria,  determination  of  the 
+Nugent  score,  and  detection  of  L. crispatus  (all 
+strains  and  the  CTV-05  strain  specifically)  by 
+means of quantitative polymerase-chain-reaction 
+(PCR) assays; the swabs were also used for re-
+peat STI testing if clinically indicated. A positive 
+L. crispatus result was defined as a level above the 
+lower limit of detection for both the assay for all 
+strains and the assay for the CTV-05 strain (see 
+the Supplementary Appendix, available at NEJM 
+.org,  for  details  of  the  PCR  methods).  Vaginal 
+applicators  that  were  returned  at  the  follow-up 
+visits  were  stained  with  0.5%  trypan  blue  as  a 
+proxy for adherence to the assigned treatment.20 
+Further details of the trial, including trial proce-
+dures and the complete list of eligibility criteria, 
+are provided in the Supplementary Appendix.
+
+Treatment Assignment
+Women  underwent  randomization  after  com-
+pletion  of  the  course  of  metronidazole.  Ran-
+domization was performed in permuted blocks 
+with the use of the online enrollment module 
+of  AdvantageEDC  software  (Emmes).  The  ran-
+domization sequence was prepared by statisti-
+cians at Emmes.
+
+At  the  time  of  randomization,  a  kit  number 
+was generated electronically, and the site phar-
+macist selected the corresponding carton con-
+taining  either  Lactin-V  or  matching  placebo. 
+Trial personnel and participants were unaware 
+of  the  treatment-group  assignment.  Before  un-
+blinding of the treatment-group assignments oc-
+curred, a case-review committee identified par-
+ticipants who had had protocol deviations, such 
+as the use of prohibited medications, trial visits 
+outside  the  protocol-specified  time  window,  or 
+poor adherence to the assigned treatment; these 
+participants were excluded from the per-protocol 
+analyses (see the Methods section in the Supple-
+mentary Appendix).
+
+Efficacy Outcomes
+The primary efficacy outcome was the percent-
+age of participants who had recurrent bacterial 
+vaginosis  (defined  by  the  presence  of  at  least 
+three Amsel criteria and a Nugent score of 4 to 
+10) at any follow-up visit up to and including the 
+week  12  visit.  Prespecified  secondary  efficacy 
+outcomes  included  the  percentage  of  partici-
+pants who had recurrent bacterial vaginosis at 
+any follow-up visit up to and including the week 
+24  visit,  after  completion  of  the  12-week  post-
+treatment  phase  of  the  trial;  the  percentage  of 
+participants in the Lactin-V group who had de-
+tectable L. crispatus CTV-05 at 12 weeks and at 24 
+weeks,  overall  and  stratified  according  to  the 
+occurrence of menses and of sexual intercourse; 
+and the acceptability of Lactin-V, as assessed by 
+the percentage of participants in each treatment 
+group who were adherent to the assigned treat-
+ment and by responses on questionnaires. (The 
+data from the questionnaire are not reported here.)
+
+Safety Outcomes
+Participants recorded the presence and intensity 
+of  solicited  (expected  and  prespecified)  local 
+(involving the genitourinary tract) and systemic 
+adverse events in a memory aid, starting on the 
+first day of dosing, daily through week 12, and 
+then  weekly  through  week  24.  In  addition,  at 
+each  trial  visit,  participants  were  asked  about 
+any other (unsolicited) adverse events. The lists 
+of solicited local and systemic adverse events can 
+be found in the protocol. The severity of all ad-
+verse  events  was  graded  according  to  grading 
+tables  provided  by  the  Division  of  AIDS  of  the 
+
+1908
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. Lactin-V to Prevent Recurrence of Bacterial Vaginosis
+
+NIH.21,22  The  percentage  of  participants  who 
+discontinued Lactin-V or placebo early owing to 
+adverse events was also evaluated.
+
+The primary safety outcome was the percent-
+age of participants who had at least one adverse 
+event by week 24 that was considered to be re-
+lated to Lactin-V or placebo. All solicited adverse 
+events were considered to be related to Lactin-V 
+or placebo; the relatedness of unsolicited adverse 
+events was determined by trial staff.
+
+Statistical Analysis
+The efficacy analyses were performed in several 
+analysis populations. The intention-to-treat analy-
+ses  included  all  participants  who  underwent 
+randomization. The modified intention-to-treat, 
+complete-case-analysis,  and  per-protocol  popu-
+lations are described in the Supplementary Ap-
+pendix.
+
+We estimated that with a sample of 228 par-
+ticipants,  the  trial  would  have  70%  power  to 
+detect  a  cumulative  percentage  of  participants 
+with  recurrence  of  bacterial  vaginosis  by  week 
+12  that  was  50%  lower  in  the  Lactin-V  group 
+than in the placebo group, using Pearson’s chi-
+square test at a two-sided alpha level. This cal-
+culation  was  based  on  an  anticipated  dropout 
+rate of 10% in the complete-case-analysis popu-
+lation and an assumed cumulative percentage of 
+participants  in  the  placebo  group  with  recur-
+rence of bacterial vaginosis by week 12 of 30%.
+We  calculated  the  cumulative  percentage  of 
+participants  who  had  a  recurrence  of  bacterial 
+vaginosis  by  the  12-week  and  24-week  visits  in 
+each treatment group, as well as the risk ratios 
+and  95%  confidence  intervals.  Pearson’s  chi-
+square test was used to test the null hypothesis 
+that the cumulative percentages of participants 
+who  had  recurrence  of  bacterial  vaginosis  by 
+weeks 12 and 24 in the Lactin-V group would be 
+equal to those in the placebo group, with a two-
+sided  alternative  hypothesis.  For  the  intention-
+to-treat  and  modified  intention-to-treat  analy-
+ses, when diagnoses of bacterial vaginosis were 
+missing, the data were imputed with the use of 
+two  single-imputation  methods,  one  of  which 
+was the last observation carried forward. Post 
+hoc  sensitivity  analyses  for  missing  data  were 
+performed  to  calculate  risk  ratios  and  corre-
+sponding  confidence  intervals;  the  hypothesis 
+tests  were  performed  with  the  use  of  logistic-
+
+regression  multiple  imputation,  under  the  as-
+sumption  of  a  monotone  pattern  of  missing 
+data.23,24 The results of the prespecified inten-
+tion-to-treat  analyses  in  which  missing  data 
+were  imputed  with  the  use  of  the  last-observa-
+tion-carried-forward  method  were  included  in 
+the final clinical trial report and were reported 
+to ClinicalTrials.gov. Here, we present the results 
+of  the  post  hoc  multiple-imputation  analyses, 
+which corroborated the last-observation-carried-
+forward analyses; the results of the latter analy-
+ses are included in Tables S1 and S2.
+
+The percentage of participants in each group 
+who had detectable L. crispatus species (any strain) 
+and L. crispatus CTV-05 at any time after baseline 
+through week 24 were calculated, along with risk 
+ratios  for  these  outcomes.  For  the  intention-to-
+treat  and  modified  intention-to-treat  analyses, 
+missing  data  regarding  the  concentrations  of 
+L.  crispatus  species  and  L. crispatus  CTV-05  were 
+not  imputed.  In  addition,  the  associations  of 
+adherence  to  the  assigned  treatment  (≥75%  of 
+doses administered vs. <75% of doses adminis-
+tered), reported occurrence of menses since the 
+last  visit  (menses  vs.  no  menses),  and  reported 
+occurrence of sexual activity (sex without the use 
+of a condom vs. abstinence or sex with the use of 
+a condom) with the presence of L. crispatus spe-
+cies and L. crispatus CTV-05 were assessed as ex-
+ploratory analyses, as specified in the statistical 
+analysis plan.
+
+Because  the  statistical  analysis  plan  did  not 
+include a provision for correcting for multiplicity 
+for the secondary or other outcomes, results are 
+reported as point estimates and 95% confidence 
+intervals.  The  widths  of  the  confidence  inter-
+vals  were  not  adjusted  for  multiplicity,  so  the 
+intervals should not be used to infer definitive 
+treatment  effects  for  the  secondary  or  other 
+outcomes.
+
+R e sult s
+
+Participants
+A total of 522 women were screened, of whom 
+228 across four trial sites underwent randomiza-
+tion:  152  were  assigned  to  the  Lactin-V  group 
+and 76 to the placebo group . The demo-
+graphic  and  clinical  characteristics  of  the  two 
+groups were generally well balanced at baseline. 
+More than half the participants reported a his-
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+1909
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. T h e  n e w   e ng l a n d   j o u r na l   o f  m e dic i n e
+
+522 Women were assessed for eligibility
+
+294 Were excluded
+
+277 Did not meet inclusion criteria or met
+
+exclusion criteria
+
+17 Declined to participate
+
+228 Underwent randomization
+
+152 Were assigned to Lactin-V
+
+151 Received at least one dose
+1 Did not receive any doses
+
+to participant report
+
+117 Adhered to assigned treatment, according
+
+to positive applicator staining
+
+76 Were assigned to placebo
+
+76 Received at least one dose
+
+60 Adhered to assigned treatment, according
+
+56 Adhered to assigned treatment, according
+
+to positive applicator staining
+
+123 Adhered to assigned treatment, according
+
+to participant report
+
+122 Completed the trial
+30 Terminated the trial early
+
+59 Completed the trial
+17 Terminated the trial early
+
+151 Were included in the safety analysis
+152 Were included in the efficacy analysis
+
+152 Were included in the intention-to-treat
+
+76 Were included in the safety analysis
+76 Were included in the efficacy analysis
+
+76 Were included in the intention-to-treat
+
+population
+
+treat population
+
+population
+
+140 Were included in the modified intention-to-
+
+67 Were included in the modified intention-to-
+
+132 Were included in the complete-case-analysis
+
+64 Were included in the complete-case-analysis
+
+118 Were included in the per-protocol population
+
+58 Were included in the per-protocol population
+
+on the basis of participant report
+
+112 Were included in the per-protocol population
+on the basis of positive applicator staining
+
+on the basis of participant report
+
+54 Were included in the per-protocol population
+on the basis of positive applicator staining
+
+population
+
+treat population
+
+population
+
+Figure 1. Enrollment, Randomization, and Follow-up.
+
+tory of five or more episodes of bacterial vagino-
+sis (Table 1).
+
+One participant in the Lactin-V group did not 
+receive any doses, and Lactin-V was discontinued 
+in 2 participants in the Lactin-V group who had 
+spontaneous abortions (both of which were cat-
+egorized as unsolicited adverse events). In addi-
+tion, the assigned treatment was discontinued 
+in 2 participants in the Lactin-V group and in 
+2  participants  in  the  placebo  group  owing  to 
+genital itching or burning. Adherence to the as-
+signed treatment was 81% according to partici-
+pant report and 77% according to the number of 
+applicators  that  had  positive  staining  in  the 
+Lactin-V group, as compared with 79% and 74%, 
+respectively, in the placebo group.
+
+Efficacy
+Primary Outcome
+Among  the  228  participants  who  underwent 
+randomization, the status of recurrence of bac-
+terial vaginosis was known for 197 participants 
+ In the intention-to-treat population, re-
+currence  of  bacterial  vaginosis  by  week  12  oc-
+curred in 46 participants in the Lactin-V 
+group  and  in  34  participants   in  the  pla-
+cebo group (risk ratio, 0.66; 95% confidence in-
+terval [CI], 0.44 to 0.87; P = 0.01) (Table 2). The 
+results  of  the  intention-to-treat  (last-observa-
+tion-carried-forward), modified intention-to-treat, 
+complete-case,  and  per-protocol  analyses  were 
+similar to those of the intention-to-treat analysis 
+(Table S1).
+
+1910
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. Lactin-V to Prevent Recurrence of Bacterial Vaginosis
+
+Table 1. Demographic and Clinical Characteristics at Baseline in the Intention-to-Treat Population.*
+
+Race or ethnic group — no. (%)†
+
+American Indian or Alaskan Native
+
+Native Hawaiian or other Pacific Islander
+
+Variable
+
+Age — yr
+
+Asian
+
+Black
+
+White
+
+Multiracial
+
+Unknown
+
+Hispanic or Latino ethnic group — no. (%)†
+
+Current relationship status — no. (%)
+
+Married
+
+Divorced or separated
+
+Single, never married
+
+Widowed
+
+Steady partner, cohabitating
+
+Steady partner, not cohabitating
+
+Casual partner
+
+Sexual intercourse in the previous 30 days — no. (%)
+
+No. of pregnancies
+
+No. of male sexual partners in the previous 6 mo
+
+Previous episodes of bacterial vaginosis — no. (%)
+
+None
+
+1 or 2
+
+3 or 4
+
+≥5
+
+Unknown
+
+Lactin-V 
+(N = 152)
+
+30.7±6.8
+
+2 
+
+6 
+
+1 
+
+64 
+
+55 
+
+10 
+
+14 
+
+30 
+
+7 
+
+7 
+
+49 
+
+2 
+
+37 
+
+37 
+
+13 
+
+123 
+
+1.7±2.0
+
+1.6±1.8
+
+7 
+
+33 
+
+23 
+
+78 
+
+11 
+
+Placebo 
+(N = 76)
+
+31.4±7.1
+
+1 
+
+3 
+
+0
+
+31 
+
+26 
+
+7 
+
+8 
+
+15 
+
+10 
+
+2 
+
+20 
+
+0
+
+15 
+
+21 
+
+8 
+
+69 
+
+1.5±1.7
+
+1.7±1.5
+
+4 
+
+14 
+
+13 
+
+38 
+
+7 
+
+*  Plus–minus values are means ±SD. Percentages may not total 100 because of rounding.
+†  Race and ethnic group were reported by the participant.
+
+Secondary Outcomes
+Among  the  participants  without  known  recur-
+rence of bacterial vaginosis by week 12, a total 
+of 13 of 106 participants in the Lactin-V 
+group and 7 of 42 participants in the pla-
+cebo  group  had  a  recurrence  by  week  24.  The 
+risk  ratio  for  recurrence  by  week  24  was  0.73 
+ The recurrence 
+status at week 24 was unknown for 30 partici-
+pants   in  the  Lactin-V  group  and  for  14 
+participants in the placebo group. Results 
+across the analysis populations were consistent 
+(Table S2).
+
+In the Lactin-V group, L. crispatus CTV-05 was 
+detected in 79% (at week 12) to 84% of partici-
+pants during weeks 4, 8, and 12 and in 48% of 
+participants at week 24 . In contrast, in 
+the  placebo  group,  L. crispatus  CTV-05  was  de-
+tected in 2 to 6% of participants during weeks 4, 
+8, and 12 and in 2% of participants at week 24. 
+The  results  were  materially  unchanged  across 
+the  analysis  populations.  Among  the  partici-
+pants  with  detectable  L.  crispatus  CTV-05,  the 
+median  concentration  in  the  Lactin-V  group 
+ranged from 1.7×106 to 6.2×106 CFU per millili-
+ter during the treatment phase through week 12 
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+1911
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. T h e  n e w   e ng l a n d   j o u r na l   o f  m e dic i n e
+
+Table 2. Bacterial Vaginosis Recurrence Status in the Intention-to-Treat Population.
+
+Variable
+
+Lactin-V 
+(N = 152)
+
+Placebo 
+(N = 76)
+
+Risk Ratio 
+
+
+P Value
+
+Status of recurrence by wk 12
+
+Status of recurrence by wk 24
+
+Recurrence†
+
+No recurrence
+
+Unknown
+
+Recurrence
+
+No recurrence
+
+Unknown
+
+no. (%)
+
+46 
+
+87 
+
+19 
+
+59 
+
+63 
+
+30 
+
+34 
+
+30 
+
+12 
+
+41 
+
+21 
+
+14 
+
+0.66 
+
+0.01
+
+0.73 
+
+*  Risk ratios were calculated with the use of logistic-regression multiple imputation, under the assumption of a mono-
+
+tone pattern of missing data. 95% confidence intervals (CIs) were not adjusted for multiplicity and should not be used 
+to make definitive conclusions regarding treatment effects.
+
+†  This variable represents the primary outcome.
+
+ment, occurrence of menses since the last visit, 
+or  occurrence  of  sex  without  the  use  of  a  con-
+dom. The incidence and risk ratio for each vari-
+able are provided in Table S3.
+
+Safety
+After the exclusion of 1 participant in the Lactin-V 
+group who did not receive any doses, 151 par-
+ticipants  in  the  Lactin-V  group  and  76  partici-
+pants  in  the  placebo  group  were  evaluated  for 
+safety;  data  on  solicited  adverse  events  were 
+missing for 11 and 10 participants, respectively, 
+owing to early loss to follow-up. The percentage 
+of participants who had at least one treatment-
+related  adverse  event  (i.e.,  any  solicited  adverse 
+event  or  an  unsolicited  adverse  event  that  was 
+assessed  by  the  trial  staff  as  being  related  to 
+Lactin-V  or  placebo)  by  week  24  did  not  differ 
+significantly  between  the  groups  (132  partici-
+pants in the Lactin-V group and 60 par-
+ticipants in the placebo group; risk ratio, 
+1.11; 95% CI, 0.98 to 1.33; P = 0.12).
+
+Across  the  two  treatment  groups,  the  most 
+common solicited local adverse events were ab-
+normal vaginal discharge, abnormal vaginal odor, 
+external  genital  irritation,  and  genital  itching 
+,  and  the  most  common  solicited  sys-
+temic  adverse  events  were  abdominal  pain  or 
+cramps,  headache,  and  frequent  urination.  In 
+general,  the  incidence  and  severity  of  solicited 
+local and systemic adverse events were similar in 
+the two groups (Tables S4 through S6).
+
+Median Concentration (log10 CFU/ml)
+
+10
+
+89
+
+7 6
+
+5
+
+4 3
+
+2
+
+1
+
+0
+
+4
+
+8
+
+12
+
+24
+
+Trial Week
+
+Figure 2. Median Concentration and Incidence of Detectable Lactobacillus 
+crispatus CTV-05 in the Lactin-V Group, According to Trial Visit.
+I bars indicate maximum and minimum values, the horizontal lines inside the 
+blue bars indicate median values, and the diamonds indicate mean values. 
+(The circles below the blue bar at week 4 represent outliers.) The size of each 
+blue bar represents the interquartile range. CFU denotes colony-forming 
+units.
+
+and was 5.6×106 CFU per milliliter at week 24 
+.
+
+There were no apparent associations between 
+the detection of L. crispatus CTV-05 at week 12 or 
+week  24  and  adherence  to  the  assigned  treat-
+
+1912
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Percentage of Participants
+
+Participants with detectable
+L. crispatus CTV-05 
+
+L. crispatus CTV-05 concentration
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. Lactin-V to Prevent Recurrence of Bacterial Vaginosis
+
+Figure 3. Solicited Local (Genitourinary) Adverse Events, 
+According to Treatment Group.
+No severe solicited local adverse events were reported 
+in either group.
+
+Mild
+
+Moderate
+
+A Lactin-V (N=151)
+Adverse Event
+
+Abnormal vaginal
+discharge
+
+Abnormal vaginal
+odor
+
+External genital
+irritation
+
+External genital
+swelling
+
+Genital burning
+
+Genital itching
+
+B Placebo (N=76)
+Adverse Event
+
+Abnormal vaginal
+discharge
+
+Abnormal vaginal
+odor
+
+36/141
+
+59/141
+
+50/141
+
+30/141
+
+34/141
+
+28/141
+
+15/141
+15/141
+
+26/141
+
+22/141
+
+42/141
+
+45/141
+
+Genital rash
+
+13/141
+
+8/141
+
+Vaginal bleeding
+
+5/141
+
+33/141
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Percentage of Participants
+
+23/66
+23/66
+
+14/66
+
+20/66
+
+External genital
+irritation
+
+12/66
+
+8/66
+
+External genital
+swelling
+
+5/66
+5/66
+
+Genital burning
+
+7/66
+
+12/66
+
+Genital itching
+
+19/66
+
+15/66
+
+Genital rash
+
+4/66
+
+3/66
+
+Vaginal bleeding
+
+3/66
+
+19/66
+
+Unsolicited  adverse  events  were  reported  in 
+63 participants in the Lactin-V group and 
+in  22  participants   in  the  placebo  group 
+(risk ratio, 1.44; 95% CI, 0.97 to 2.30) (Tables S7 
+and S8). A total of 7 participants (4 in the Lactin-
+V group and 3 in the placebo group) had a severe 
+grade 3 adverse event, one of which was reported 
+as a serious adverse event (Lactin-V group) (Ta-
+ble S9). None of the severe adverse events were 
+classified as being related to Lactin-V or placebo.
+
+Discussion
+
+The use of Lactin-V after treatment with vaginal 
+metronidazole for bacterial vaginosis resulted in 
+a significantly lower incidence of recurrence of 
+bacterial  vaginosis  at  12  weeks  than  placebo, 
+and  the  benefit  appeared  to  persist  through 
+week  24.  Overall,  adherence  to  the  assigned 
+treatment  was  high.  In  the  Lactin-V  group, 
+L. crispatus CTV-05 was detected in almost 80% 
+of  the  participants  at  the  week  12  visit  and  in 
+almost  50%  of  the  participants  at  the  week  24 
+visit after completion of the 12-week post-treat-
+ment phase of the trial.
+
+In  addition  to  live  biotherapeutic  products 
+such  as  Lactin-V,  other  products  and  strategies 
+have been tested to determine their effectiveness 
+in  reducing  the  risk  of  recurrence  of  bacterial 
+vaginosis; these include intravaginal metronida-
+zole  at  a  dose  of  750  mg  plus  miconazole  at  a 
+dose of 200 mg,25 boric acid,26 and, most recently, 
+vaginal microbiome transplantation.27 Although 
+combination  metronidazole–probiotic  regimens 
+have been tested previously and some have been 
+shown to reduce the risk of recurrence of bacte-
+rial  vaginosis,  the  trials  have  generally  been 
+small  and  have  lacked  the  use  of  standardized 
+methods, including objective outcome measures 
+for bacterial vaginosis recurrence and coloniza-
+tion by the active trial medication.28-30
+
+We  found  no  material  differences  between 
+the treatment groups in the percentage of par-
+ticipants  who  had  a  treatment-related  adverse 
+event or in the number, type, or severity of solic-
+ited local adverse events during the course of the 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Percentage of Participants
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+1913
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. T h e  n e w   e ng l a n d   j o u r na l   o f  m e dic i n e
+
+24  weeks  of  follow-up.  These  results  extend 
+earlier findings seen with Lactin-V and support 
+the general safety of the current formulation and 
+dosing strategy.16
+
+The  results  of  our  phase  2a  trial  raised  the 
+possibility  that  exposure  to  semen  during  sex 
+without  the  use  of  a  condom,  the  presence  of 
+menstrual blood, and the reestablishment of bac-
+teria  associated  with  bacterial  vaginosis  soon 
+after completion of antibiotic treatment may re-
+duce the colonization of L. crispatus after admin-
+istration of Lactin-V.16,31 In the current trial, the 
+initial dose of Lactin-V or placebo was adminis-
+tered  within  48  hours  after  the  last  dose  of 
+vaginal metronidazole gel, and the frequency of 
+dosing after the first week was increased from 
+once  weekly  to  twice  weekly  through  week  11. 
+We did not find that the occurrence of menses 
+since the last visit or the occurrence of sex with-
+out the use of a condom affected the detection 
+of L. crispatus CTV-05.
+
+Among the enrolled women, 14% were ineli-
+gible for the analysis of the primary outcome, a 
+
+percentage  that  was  higher  than  the  assumed 
+percentage of 10% that was used to estimate the 
+sample  size.  However,  the  results  of  multiple-
+imputation analyses and several sensitivity analy-
+ses  yielded  findings  that  were  consistent  with 
+those of the complete-case analysis. The current 
+trial  evaluated  11  weeks  of  treatment  and  24 
+weeks of follow-up; further study should be con-
+sidered  to  assess  longer-term  sustainability  of 
+colonization and prevention of bacterial vaginosis.
+Among  women  with  a  history  of  bacterial 
+vaginosis,  the  use  of  Lactin-V  after  treatment 
+with vaginal metronidazole resulted in a lower 
+incidence of recurrence of bacterial vaginosis at 
+12 weeks than placebo.
+
+The contents of this publication are solely the responsibility 
+of the authors and do not necessarily represent the official views 
+of the National Institutes of Health (NIH).
+
+A data sharing statement provided by the authors is available 
+
+with the full text of this article at NEJM.org.
+
+Supported by the Division of Microbiology and Infectious Dis-
+eases, National Institute of Allergy and Infectious Diseases of 
+the NIH (contracts HHSN2722013000141 and HHSN27200007).
+Disclosure forms provided by the authors are available with 
+
+the full text of this article at NEJM.org.

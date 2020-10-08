@@ -1,0 +1,181 @@
+11_PARAGRAPHS
+
+Presence of haustrum and taenia coli in the colon .
+
+Along the length of the colonic mucosa .
+
+In  addition  to  the  macroscopic  differences,  the  microscopic
+structure  of  the  intestinal  tract  of  mice  and  humans  also  differ
+(Treuting and Dintzis, 2012). The mouse colon is composed of thin
+muscularis mucosae (see Box 1 and Table 1) with no discernible
+sub-mucosa,  whereas  the  human  colon  is  covered  by  a  thicker
+mucosal wall. Another difference is the presence of transverse folds
+along the length of the colonic mucosa in humans, whereas these
+folds are restricted to the cecum and proximal colon in mice. These.
+
+Fig. 1. Gross anatomy of the human and the mouse gastrointestinal
+tract. (A) The human colon is divided into different sections (i.e. ascending,
+transverse and descending colon) with the presence of taenia coli and
+compartmentalization in haustra, which are absent in the mouse colon. The
+human stomach is lined with a glandular mucosa (C) that secretes gastric
+acid, whereas the mouse stomach is divided in two regions – a glandular
+stomach and a non-glandular or fore-stomach (B). The mouse glandular
+stomach is responsible for secreting gastric acid, whereas the non-glandular
+stomach functions as a temporary site of food storage and digestion.
+(E) Cross-section of a human colon, which has a thicker muscular wall and
+mucosa compared with the mouse colon (D). M, mucosa; ME, muscularis
+externa; TC, taenia coli. Panels B and C are reproduced from “Comparative
+anatomy and histology: A mouse and human atlas” by Piper M. Treuting and
+Suzy Dintzis, 2012, with permission from Elsevier. D is reproduced from the
+website http://theses.ulaval.ca/archimede/fichiers/24866/ch07.html with the
+author’s permission. E is re-used from  with the
+author’s permission. .
+
+At  the  cellular  level,  there  are  also  a  number  of  notable
+differences  between  humans  and  mice.  The  first  example  is  the
+distribution of mucin-producing goblet cells (Table 1). In mice, these
+cells  are  abundant  along  the  surface  of  intestinal  crypts  in  the
+proximal colon but, in the distal colon and rectum, their number
+decreases at the base of the crypt. Conversely, in humans, goblet
+cells are abundant from cecum to rectum. The second example is the
+difference in distribution between mice and humans of another type
+of intestinal epithelial cell – the Paneth cell (Table 1). Paneth cells
+secrete  antimicrobial  compounds  into  the  lumen  of  the  small
+intestine. They are rare but present in the cecum and proximal colon
+of humans, whereas, in the mouse, these cells are entirely absent in
+the colonic mucosa and uniquely found in the cecum. In addition to
+location differences, the amount of defensins (peptides involved in
+the host defense) secreted by Paneth cells, their storage and secretion
+were  also  reported  to  be  different  between  mice  and  humans.
+
+Clostridium, Bacteroides and Blautia, on the contrary, have a similar
+relative  abundance  in  both  organisms.  However,  none  of  the
+differences  found  between  human  and  mouse  gut  microbiota
+survives multiple testing corrections due to the limited size of the
+dataset,  so  these  results  should  be  considered  as  exploratory.
+Although it is important to keep in mind the major inter-organism
+variations, as well as technical discrepancies in the gut microbiota
+studies  compared  above  (such  as  different  human  populations,
+mouse  houses,  mouse  strains,  sample  handling,  processing
+techniques and method of analysis), the results nonetheless mostly
+agree with current knowledge. For instance, Prevotella abundance
+is  known  to  be  low  in  mouse  gut  microbiota  (Hildebrand  et  al.,
+2013) and Faecalibacterium is reported to be one of the dominant
+members  in  healthy  gut  microbiota  in  humans,  as  it  has  been
+suggested to be the marker for anti-inflammatory gut microbiota in
+IBD patients in remission (Sokol et al., 2008; Sokol et al., 2009)..
+
+of  human  gut  microbiota  is  still  a  matter  of  debate  (Ding  and
+Schloss, 2014; Koren et al., 2013), a consensus on their usefulness
+as  a  stratification  tool  is  growing  (Moeller  and  Ochman,  2014).
+Enterotypes  were  also  identified  in  the  laboratory  mouse  gut
+microbiota  (Hildebrand  et  al.,  2013),  being  dominated  by
+Lachnospiraceae  and  Ruminococcaceae  or  Bacteroidaceae  and
+Enterobacteriaceae, respectively. Although the cause of stratification
+of human and mouse individuals into enterotypes is still unknown,
+there is a noticeable parallel between dominant bacterial families of
+the mouse and human enterotypes. Namely, one mouse enterotype
+is dominated by Lachnospiraceae/Ruminococcaceae, similarly to the
+human Ruminococcaceae enterotype (also known as enterotype 3).
+In  addition, 
+the  second  mouse  enterotype,  dominated  by
+Bacteroidaceae/Enterobacteriaceae,  is  similar  to  the  human
+Bacteroides enterotype  (enterotype  1)  (Arumugam  et  al.,  2011).
+Interestingly,  two  enterotypes  were  also  identified  in  wild  mice,
+dominated by Bacteroides and Robinsoniella, respectively (Wang et
+al., 2014). Moreover, the laboratory mouse enterotypes were found
+to correlate with species-richness and inflammation: mice belonging
+(Bacteroidaceae/
+species-richness  enterotype 
+to 
+Enterobacteriaceae) had higher levels of calprotectin, a marker of
+inflammation. This result is consistent with what has been recently
+found  in  studies  of  human  obesity  (Cotillard  et  al.,  2013;  Le
+Chatelier et al., 2013), in which low species-richness individuals
+were  found  to  have  more  pronounced  inflammation,  and  to  be
+dominated by Bacteroidetes and Proteobacteria, the same bacterial
+groups that dominated the ‘inflamed’ mouse enterotype..
+
+Obesity
+The influence of diet on the gut microbiota has received increasing
+research attention over recent years. With the rising incidence of
+metabolic  disturbances,  such  as  obesity  and  diabetes  in  Western
+countries,  the  impact  of  the  ‘Western’  diet  (high  in  simple
+carbohydrates and animal fats) on the gut microbiota and our health
+is a key question in this field. Many studies have been conducted on
+mice or humanized mouse models (i.e. germ-free mice administered
+human gut microbiota), which have been fed diets that are high in
+fat  or  saturated/unsaturated  fat  to  investigate  changes  in  the  gut
+microbiota  (Ley  et  al.,  2006;  Liu  et  al.,  2012;  Turnbaugh  et  al.,
+2009b; Wu et al., 2011; Zhang et al., 2012). Some common trends
+have emerged from this research. For instance, mice fed on a high
+animal-fat diet show a decreased Bacteroidetes:Firmicutes ratio in
+their gut microbiota (Murphy et al., 2010; Zhang et al., 2012). This
+shift  is  driven  by  more  complex  alterations  at  lower  taxonomic
+levels  within  the  phylum  Bacteroidetes:  most  genera,  including
+Prevotella and Roseburia, decreased in abundance (Neyrinck et al.,
+2011), whereas other genera of this phylum, such as Barnesiella,
+Bacteroides and  Alistipes,  significantly  increased  (Zhang  et  al.,
+2012). Interestingly, the overall trend observed in mouse studies
+agrees with that found in human studies. Human dietary studies have
+revealed that the Bacteroides enterotype in humans is associated
+with people whose diet contains more animal fats over long periods
+of time, whereas the Prevotella enterotype is found to predominate
+in people consuming more carbohydrates (Wu et al., 2011). A study
+comparing European and rural African children also confirmed this
+link between microbiota and diet (De Filippo et al., 2010). African
+children, who eat fiber-rich diets, had a higher abundance of specific
+Bacteroidetes (Prevotella and Xylanibacter), a reduced amount of
+Firmicutes  and  decreased  amounts  of  Proteobacteria  (Shigella,
+Escherichia),  compared  with  European  children.  The  study
+suggested  that  European  children  with  a  high-fat  diet  harbor  the
+Bacteroides enterotype,  which  might  predispose  them  to  many
+metabolic  diseases  (Le  Chatelier  et  al.,  2013).  Overall,  this
+highlights  that  the  use  of  diet  intervention  in  murine  models,
+including the use of humanized gnotobiotic mice, can mimic the
+changes in gut microbiota that occur in relation to human diet..
+
+Bacteroides enterotype, which is associated with animal protein, and
+Prevotella enterotype, which links to diets with more carbohydrates
+and simple sugars. The authors therefore suggested that a long-term
+dietary  intervention  might  be  needed  to  modify  an  individual’s
+enterotype (Wu et al., 2011). On the other hand, a study on wild
+mice by Wang et al. showed that feeding wild mice with chow diet
+can change mice enterotypes as quickly as within 1 week, from the
+Bacteroides enterotype (associated with protein metabolism) to the
+Robinsoniella enterotype (associated with carbohydrate metabolism)
+(Wang et al., 2014). The discrepancies in these results suggest that
+humans need more time for the diet interventions to change their
+enterotypes given the more drastic changes in diet in the wild mouse
+study.  The  discrepancies  might  otherwise  illustrate  the  intrinsic
+differences,  e.g.  the  effect  of  genetic  background  on  enterotype
+identities,  as  well  as  external  confounding 
+factors,  e.g.
+environmental influences, which affect the two organisms..
+
+of which can also be at different stages (for example, active or in
+remission). This said, some prominent changes in the gut microbiota
+have been concomitantly observed in independent IBD studies using
+a  variety  of  techniques  on  different  cohorts,  such  as  reduced
+bacterial  diversity  in  both  Crohn’s  disease  and  ulcerative  colitis
+patients (Andoh et al., 2012; Nemoto et al., 2012; Sokol et al., 2006;
+Walker  et  al.,  2011),  a  reduction  in  the  levels  of  the  anti-
+inflammatory  bacterium  Faecalibacterium (Andoh  et  al.,  2012;
+Joossens et al., 2011; Sokol et al., 2009; Willing et al., 2009), as well
+as  of  Clostridium  coccoides and  Bifidobacterium (Sokol  et  al.,
+2009), and an increase in abundance of Enterobacteriaceae (such as
+E. coli) (Duboc et al., 2013; Joossens et al., 2011; Willing et al.,
+2009; Willing et al., 2010)..
+
+most of the models show inflammation/lesions in the large, instead of
+the small, intestine, which more closely resembles ulcerative colitis
+symptoms (Peloquin and Nguyen, 2013). Moreover, the development
+of  colitis  in  mouse  models  has  been  shown  to  be  affected  by  the
+genetic  background  of  the  used  strain  [i.e.  some  strains  are
+intrinsically more susceptible to developing colitis (Büchler et al.,
+2012)] and the interactions with the gut microbiota [e.g. some models
+do not develop colitis in germ-free conditions (Hudcovic et al., 2001)].
+The  concern  is  not  only  that  symptoms  are  not  concordant  with
+human IBD, but that the underlying mechanism, such as the cross-talk
+between the immune system and the gut microbiota, might not be the
+same in the mouse model being used.

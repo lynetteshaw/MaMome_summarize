@@ -1,0 +1,80 @@
+fmicb-11-00393
+
+April 2, 2020
+
+Time: 17:57
+
+# 2
+
+Eetemadi et al. Several health conditions are linked to changes in a stable and
+established gut microbiota such as Crohn’s disease (Manichanh
+et al., Depending on data quality, sample size,
+and research hypothesis, diﬀerent information dimensionalities
+are used, such as gene-level (Vatanen et al., The most widely used approach for gut microbiota
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+April 2020 | Volume 11 | Article 393
+
+fmicb-11-00393
+
+April 2, 2020
+
+Time: 17:57
+
+# 3
+
+Eetemadi et al. Today,
+limited microbiome studies perform such analysis (Blekhman
+et al., 2016)
+UPARSE-OTU(U) (Edgar, 2013),
+Kraken (Wood and Salzberg, 2014),
+MetaPhlAn2(Q) (Truong et al., Data Analytics and Machine Learning
+Data processing is considered to be the step necessary for
+converting the raw data, such as metagenomics sequence reads,
+into biologically meaningful representations, such as OTU counts
+using bioinformatics tools, some of which are done in the
+sequencing device itself. Although several pipelines provide this functionality,
+it has been found inadmissible for metagenomics microbiome
+studies as it discards many reads leading to decreased sensitivity
+in diﬀerential abundance testing (McMurdie and Holmes, 2014)
+and biased estimates for alpha diversity (Willis, 2019). Computational Diet, Microbiome and Health
+
+TABLE 3 | Key challenges that arise in microbiome data analysis with examples and suggested solutions. Therefore, common statistical
+techniques that assume independence between variables
+are problematic. Solutions: (I) Convert read counts to relative abundances before comparison. ( Solution: Use phylogeny-aware metrics such as UniFrac distance instead, which takes into
+account the phylogenetic tree when calculating distances. Example: In one case, metagenomic data processing from marker-gene data has provided us with
+relative abundances at the genus level, but we do not know the possible functions of the microbiota
+in terms of proteins that it can produce. More advanced methods include
+
+for
+
+semi-supervised learning (Zhu, 2005), which takes advantage of
+both labeled and unlabeled data, and transfer learning (Pan and
+Yang, 2010), which transfers knowledge learned from one task to
+another, are not discussed here. Classiﬁcation
+In supervised classiﬁcation, the goal is to build a predictive
+model (classiﬁer) using labeled training data. In a diﬀerent
+study, the classiﬁcation task was to identify healthy vs. unhealthy
+donors given relative OTU abundance data (including species
+level) coming from shotgun metagenomics sequencing of the gut
+(as well as other body sites) (Pasolli et al., For example, in L1 regularization, the
+absolute values of model parameters are scaled and added to
+the loss function. Multiple factor analysis (MFA)
+is an extension of PCA that considers predeﬁned grouping of
+features during DR to ensure equal representation for all groups
+
+of features in derived PCs (Abdi et al., Unlike PCA and PCoA, it requires class labels. Once a similarity
+measure is deﬁned, various cluster analysis methods can be
+used to ﬁnd groups of samples with similar microbiota. 2018; Bauer and Thiele,
+2018; Greenhalgh et al., See Magnúsdóttir and Thiele for a
+comprehensive review. The ﬁrst challenge is the limited availability and accuracy of
+GENREs for gut microbes. When a group of users (or items) are overrepresented in the
+data, the predictive model tends to be biased toward their
+favorite items. The
+second challenge is the curse of dimensionality. In scenario B, the goal is to provide
+recommended probiotic intake for supporting a healthy gut
+
+TABLE 4 | Highlighted microbiome-aware diet recommendation studies.

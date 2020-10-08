@@ -1,0 +1,105 @@
+in
+
+use
+
+symptomatic
+
+including preterm birth (PTB).1–4 Antibiotics are effective
+in eradicating BV during pregnancy5 and are recommended
+The
+for
+consequences of antibiotic use during pregnancy have been
+poorly studied,7 but
+there are concerns that antibiotic-
+related changes in the vaginal microbiota8 are associated
+with short- and long-term morbidity in infancy and later
+years.9
+
+pregnant women.6
+
+Probiotics might be a safe and effective alternative to
+antibiotics in restoring the imbalance of the vaginal micro-
+biota found in BV. We therefore performed a randomised trial of a com-
+available probiotic preparation in pregnant
+mercially
+women to assess its biological effects on the vaginal micro-
+biota. The probiotic preparation selected
+has been shown to be safe when taken during preg-
+nancy.14,15
+
+Methods
+
+conducted using an analysis plan agreed in advance with
+the independent trial steering and data monitoring com-
+mittee. All par-
+ticipants provided written informed consent. We excluded those unable to provide
+written informed consent or who had a poor understand-
+ing of verbal or written English. These were then packaged into tamper-proof
+boxes. Microbiology methodology
+The double-headed swab was separated in the laboratory. Gram-stained glass slides prepared from the swabs were
+examined by microscopy and scored between 0 and 10
+based on bacterial morphotypes according to the Nugent
+method.27 Stored samples were thawed and diluted through
+a series of 10-fold dilutions in saline before being inocu-
+lated onto a range of selective and non-selective culture
+media (Unipath). From
+each DNA extract, variable regions V1 and V2 of the 16S
+rRNA gene were ampliﬁed by PCR using fusion primers
+incorporating
+27F-YM
+(AGAGTTTGATYMTGGCTCAG) and 338R-R (TGCTG
+CCTCCCGTAGRAGT) and MiSeq adapters and barcodes
+to achieve a double indexing system. Sequence reactions
+were spiked with 10% 12.5 pM PhiX DNA. The ﬁltered sequences were analysed using the mothur
+pipeline
+at https://
+www.mothur.org/wiki/MiSeq_SOP. The alpha diversity of the samples was estimated by calcu-
+lating the Inverse Simpson index and compared between
+groups by the Wilcoxon test. Otherwise, we reported the model without adjusting for
+confounders. Prior to this
+trial, a qualitative study was conducted to obtain input
+from women.32 The available core outcome set for PTB33
+had an inﬂuence on data collected. A
+total of 997 women were excluded from the trial either
+because they did not meet the inclusion criteria 
+or they declined to participate. Of
+
+the women who provided a swab sample at 18–
+20 weeks’ gestation, vaginal samples were available in 70%
+of women at 34–36 weeks’ gestation (72% (83/
+115) in the placebo group and 68% in the probi-
+otic group. Previous observational studies and small-scale
+randomised controlled trials in non-pregnant populations
+have suggested that oral administration of probiotics can
+alter the vaginal microbiota in a signiﬁcant number of
+women where microbial imbalance exists.18–21 It is on this
+basis that several commercial probiotic products are mar-
+keted for the restoration and maintenance of a healthy
+vaginal microbiota in both non-pregnant and pregnant
+women.19,20 Our ﬁndings have not shown any effect on the
+vaginal microbiota with the probiotic preparation used in
+this trial. Strengths and weakness of the study
+This study was a large and pragmatic multicenter, ran-
+domised trial carried out in pregnant women to assess the
+effect of probiotic supplementation on the vaginal micro-
+biota. BJOG: An International Journal of Obstetrics and Gynaecology published by John Wiley & Sons Ltd on behalf of
+Royal College of Obstetricians and Gynaecologists
+
+Probiotics and vaginal microbiota in pregnancy
+
+Figure 3. Our ﬁndings
+those recently reported by Gille
+et al.44 In a randomised, controlled trial, 320 women at
+<12 weeks’ gestational age were allocated to once-daily oral
+capsules of L. rhamnosus GR-1 or L. reuteri RC-14 or pla-
+cebo for 8 weeks. Contribution to authorship
+The trial was conceived by MM and MW, and designed by
+SH and KK. EP and WW carried out the DNA sequencing. ST, CC, and BMT provided overall support to the conduct
+and delivery of the trial. All participants provided
+informed consent to take part in the trial. Data sharing
+The research team will consider reasonable requests for
+sharing of patient level data. Funding
+This report summarises independent research funded by
+Barts Charity (grant reference 1082/2243) under its Large
+Programme Grant
+funding stream.

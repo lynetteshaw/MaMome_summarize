@@ -1,0 +1,100 @@
+Ananthakrishnan
+ 
+ 
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+FIGURE 1. Analysis of both 16s rRNA and metagenomic sequencing 
+has traditionally relied on comparing the relative abundance of 
+various  genera,  species,  and  strains  between  different  groups. Fecal  samples  were  obtained  at  therapy  cessation,  2  months, 
+6 months, and the end of follow-up. Cross-sectional compari-
+sons  were  also  made  with  29  healthy  control  patients. Over 
+follow-up, 19 patients relapsed and 14 remained in remission. Note  that  the  culture  supernatant  also  had  a  similar  effect  in 
+reducing the severity of this particular colitis, suggesting that 
+the  effect  of  F.  prauznitzii  may  be  mediated  in  part  through 
+the  production  of  anti-inflammatory  metabolites. A small 
+study of 12 patients with CD examined the microbiota profile 
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+Abbreviations: GA-map, genetic analysis; qPCR, quantitative polymerase chain reaction; RT-PCR, reverse transcription polymerase chain reaction. In contrast, response to therapy was not asso-
+ciated with a change in fungal composition. Consistent with other observations, 
+responders  had  a  less  dysbiotic  microbiome  at  baseline  than 
+nonresponders. The  baseline  abundance  of  F.  prauznitzii  was 
+higher  in  responders  than  in  nonresponders. The primary outcome, remission at week 14, was attained by 31 
+patients. A total of 35% of the cohort remained in remission 
+at week 54. This  difference  was  noted  primarily  at  the 
+species  level. Note  that  patients  with  CD  who  had  endo-
+scopic recurrence had a greater abundance of Enterococcus and 
+Veillonella and that those who remained in postsurgical remis-
+sion had a higher abundance of butyrate-producing Firmicutes, 
+Bacteroides,  Prevotella,  and  Parabacteroides. Specifically,  the  exchange  of 
+10  metabolites  was  less  frequent  at  baseline  among  patients 
+who did not achieve remission compared with healthy control 
+patients; these metabolites included butyrate, L-arginine, CO2, 
+ammonium,  ornithine,  ethanol,  L-glutamine,  and  glycine. One prior study examined the role of microbial compo-
+sition in predicting response to ustekinumab therapy. Patients  in  remission  at  week  6 
+also had a higher alpha diversity at baseline than did those with 
+active disease. The  PROTECT  cohort  recruited  400  children 
+
+did not (q = 0.09 and 0.06, respectively). Zhou et al26 followed 16 Han Chinese patients with CD 
+who were treated with infliximab for 30 weeks. A  model  of  gut  mi-
+crobial  composition  at  baseline  predicted  infliximab  response 
+at  week  30  with  an  87%  accuracy,  which  was  superior  to  the 
+predictive  value  of  the  Crohn’s  Disease  Activity  Index  (58% 
+accuracy) and calprotectin levels  The most in-
+formative features in this model were the abundance of various 
+Clostridiales and the abundance of Veillonella, Bacteroides, and 
+Anaerostipes. Aden et al24 performed a prospective study of 12 patients 
+with  IBD,  17  patients  with  rheumatic  disease,  and  19  healthy 
+control  patients  who  provided  fecal  samples  at  baseline  and 
+2,  6,  and  30  weeks  after  treatment  with  anti-TNF  therapy. Twenty-three  patients  who  were  treated  with  either  anti-TNF 
+drugs  or  vedolizumab  acted  as  control  patients. Interestingly, 
+patients with IBD but not with rheumatic disease demonstrated 
+a shift in diversity toward that of the control patients with anti-
+TNF therapy, suggesting that this effect was likely mediated in 
+part  by  resolution  of  intestinal  inflammation  rather  than  di-
+rect effect of the biologic agent.24 When compared to healthy 
+control patients, 14 indicator phylotypes, notably Coprococcus 
+and  R.  inulinivorans,  were  differentially  distributed  between 
+patients with IBD and healthy control patients. All 14 species 
+had a similar abundance to that of control patients at week 30 
+that increased although none of these changes were specific to 
+responders. Limitations of Existing Data and Suggestions for 
+Future Research
+
+1. A  second  important  challenge  with  existing  data  is  the  wide  vari-
+ 
+ability in the definition of outcomes. Thus, it is important to formulate accepted 
+definitions for each of the clinically relevant endpoints in the field 
+to facilitate robust validation of identified signals. This in-
+consistency complicates an understanding of the impact of the biologic 
+parameter being studied and of such external influences. The  emergence  of  tools  such  as  paper-based  technology 
+for microbiome profiling may prove to be cost-effective and appli-
+cable to direct patient care.45
+
+CONCLUSIONS
+
+In summary, given the likely central role of the microbiome 
+in the pathogenesis of IBD, it is intuitive that microbiome-based 
+biomarkers  may be particularly  relevant in  stratifying patients 
+with these complex diseases. However, existing studies 
+are limited by small sample sizes and significant heterogeneity 
+preventing robust validation. Ananthakrishnan
+ 
+ 
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+7
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020 
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020 
+
+Microbiome-Based Biomarkers

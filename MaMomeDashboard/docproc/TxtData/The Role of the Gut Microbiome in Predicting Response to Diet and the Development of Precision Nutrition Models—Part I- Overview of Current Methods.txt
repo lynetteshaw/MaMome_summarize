@@ -1,0 +1,3599 @@
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+and react to form a response, and understanding how these
+responses combine to affect human health.
+
+The microbiome: eﬀect compared with eﬀect
+modiﬁcation
+The body of research on the human microbiome, and par-
+ticularly the gut microbiome, is growing rapidly. The effects
+of the gut microbiome extend far beyond the gastrointestinal
+system, influencing immunity  and
+brain function  in short, everything we require to
+function as human beings.
+
+However, it is important to distinguish the role of the
+microbiome as a mediator of the effect of diet on metabolism
+from the potential of the microbiome to be an effect modifier
+of response to diet (Figure 2). In the former, diet acts
+directly on the gut microbiota, altering its composition
+or function (postintervention microbiome), which then
+alters host metabolism. In the latter, the effect of diet on
+metabolism depends on the microbiome, but this effect is not
+the result of diet-induced changes to the microbiome. For
+example, preintervention measurements of the microbiome
+may be used as effect modifiers in an analysis whereas
+postintervention measurements of the microbiome may
+serve as mediators. This distinction helps to avoid the circular
+logic of the effect of the diet on the gut microbiome and the
+effect of the gut microbiome in response to diet (Figure 3).
+Although these 2 concepts are inexorably intertwined, they
+are distinct and require their own independent questions and
+investigations. This review focuses on the question of effect
+modification by the gut microbiota and the role this plays in
+precision nutrition.
+
+Current Status of Knowledge
+
+Methods for conducting precision nutrition studies
+Aspects of study design, dietary intervention methods, and
+response criteria are discussed below and are summarized for
+recent studies in Table 1.
+
+Study design.
+Table 2 summarizes key features of the design of dietary
+intervention studies. The most common approach for in-
+vestigating personalized response to diet is a controlled
+intervention cohort study. For example, 51 out of the 55
+studies conducted between 2000 and 2019, were intervention
+cohort studies in living organisms (humans or rodents).
+Three studies examined the effect of supplementing nutrients
+to in vitro cultures from human stool  Just 2 were
+observational, cross-sectional studies 
+
+Intervention studies allow researchers to standardize
+the dietary stimulus, providing every participant the same
+amount (or relative amount) and type or quality of ingredi-
+ents. Interventions involving humans or animals supplement
+participants’ habitual diets or completely standardize diets by
+providing all meals during the intervention period. Although
+standardizing participants’ diets reduces variability,
+it is
+both expensive and intensive, and requires a much greater
+
+Figure 1 Numerous research ﬁelds are integrated and contribute
+to our overall understanding and study of personalized health and
+nutrition.
+
+to diet, as well as devising methods of personalizing dietary
+recommendations, is critical.
+
+Precision nutrition is a rapidly developing field of research
+incorporating a multitude of disciplines including nutrition,
+microbiology, genetics, epigenetics, metabolomics, and oth-
+ers 
+
+Subfields of precision nutrition include nutrigenetics
+and nutrigenomics, which study interactions between the
+human genome and diet  These fields examine how
+genetics, epigenetics, and the microbiome influence dietary
+response and requirements whilst also being influenced
+by dietary intake. The result of these interactions is a
+complex network of metabolic and physiologic processes that
+define the metabolic phenotype of an individual. Metabolic
+phenotype can be measured by traditional indicators such
+as weight, blood pressure, or fasting glucose or by more
+complex data such as metabolomics, transcriptomics, and
+proteomics. In combination, these data contribute to our
+understanding of the processes occurring inside the body
+as a result of the interconnected influences of diet, the
+microbiome, genetics, and epigenetics. The potential to
+predict an individual’s response to diet and to optimize an
+individual’s metabolism using diet depends on identifying
+the biological or physiological features that are relevant to
+dietary response, determining how these features interact
+
+Supported by the University of California Innovation Institute for Food and Health, Agricultural
+Research Service CRIS Projects 2032-51530-022-00D and 2032-53000-001-00D, Arcadia
+Biosciences and Ardent Mills. The funding agencies did not participate in data collection, or
+interpretation of the data. Mention of trade names or commercial products in this publication
+is solely for the purpose of providing specific information and does not imply recommendation
+or endorsement by the USDA. The USDA is an equal opportunity provider and employer.
+Figures were created using BioRender (https://biorender.com).
+Author disclosures: RLH, MLM, JPH, NLK, and MEK, no conflicts of interest.
+Address correspondence to MEK (e-mail: mary.kable@ars.usda.edu).
+Abbrevations used: AIC, Akaike information criterion; ANOSIM, analysis of similarities; BIC,
+Bayesian information criterion; BN, Bayesian network; CAP, canonical analysis of principal
+coordinates; CSS, cumulative-sum scaling; HCA, hierarchical cluster analysis; LDA, linear
+discriminant analysis; MLST, multilocus sequence typing; OPLS-DA, orthogonal projections to
+latent structures discriminant analysis; PAM, partitioning around medoids; PCA, principal
+components analysis; PCoA, principal coordinates analysis; PERMANOVA, permutational
+multivariate analysis of variance; PLS-DA, partial least squares discriminant analysis; RDA,
+redundancy analysis; ROC, receiver operating characteristic; rRNA, ribosomal RNA.
+
+2 Hughes et al.
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+FIGURE 2 Mediation compared with eﬀect modiﬁcation. When investigating the eﬀect of diet on the gut microbiome and human
+health, for example in a study investigating the eﬀect of a dietary intervention on weight loss, the gut microbiome may act as a mediator
+of eﬀect or as an eﬀect modiﬁer. In the former, the intervention modiﬁes the gut microbiome, which then aﬀects changes in metabolism.
+In the latter, the intervention may cause changes in metabolism without altering the gut microbiome but these changes may be modiﬁed
+by the preintervention microbiome.
+
+commitment from subjects compared with supplementing
+the diet. Studies that choose to supplement participant diets
+collect dietary recall information in order to account for this
+source of variability. In addition, a control group is typically
+included in the design to control for, or identify, variability
+unrelated to the intervention. If the supplement takes the
+form of nutrient capsules or pills, then a placebo control
+group that is indistinguishable from the true intervention
+should be used. On the other hand, if the supplement is a type
+of food or a dietary pattern, then a decision on the control
+group is not straightforward. Ideally, the control food or diet
+should physically resemble the intervention food and have
+a similar taste profile. When this is not possible, contrasting
+foods may be used, but it must be acknowledged that this is
+not a true control, but rather a separate intervention.
+
+Both parallel and cross-over study designs are used in
+dietary intervention studies. In a parallel design, different
+participants are assigned to each intervention group; in
+a cross-over design the same participants receive each
+intervention. There is typically greater natural variation
+between the control and intervention groups in a parallel
+design, requiring a larger sample size to identify significant
+treatment effects. In contrast, a cross-over study reduces the
+uncontrolled variation between the intervention and control
+arms, but introduces the potential for a carry-over effect.
+In both cases, a randomization scheme is implemented,
+
+randomizing either the order of treatments (cross-over)
+or the assignment of individuals to separate treatments
+(parallel).
+
+Randomized, controlled clinical trials with a standardized
+diet are generally considered the “gold standard” in
+dietary intervention trials because the potential for con-
+founding is minimized and the estimated intervention effect
+can be interpreted causally. Identifying the appropriate con-
+trol is challenging with diet interventions that are designed
+with whole foods, as a true placebo diet is not possible.
+For example, the effect of a standardized diet may vary
+depending on how different it is from the habitual diet of
+the study participants. Thus, in the attempt to control one
+source of variation, another is introduced. Therefore, when
+considering individual nutrients or dietary components, it
+may be more advantageous to allow participants to continue
+eating their habitual diets so that any change during the study
+period within the individual can be attributed to the specific
+change introduced.
+
+Ultimately, the study design must take into account
+the dietary intervention being introduced, the resources
+available, and the responses being measured.
+
+Dietary intervention.
+Three main categories of dietary interventions have been
+used in precision nutrition-microbiome studies: fiber; energy
+
+Gut microbiome and precision nutrition: Part I 3
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+“response,” even studies implementing the same dietary
+intervention (Table 1, Responder Criteria). However, there
+are some general trends. For instance, all 12 studies using
+an energy-restricted or high-energy diet analyzed differences
+in weight gain/loss or changes in body composition (39–
+50). Changes in circulating lipids  insulin
+sensitivity/resistance  or inflammatory markers
+were also common measured responses. Fiber-
+intervention studies measure many of these
+same variables but also often include SCFAs (9, 20–24,
+25, 26, 30, 34), which are one of the major metabolites
+produced by the gut microbiota during fermentation of
+dietary carbohydrates and have many biological effects 
+Changes within the gut microbial community as well as
+metabolites and clinical markers produced and/or influenced
+by the gut microbiota have also been used as indicators
+of responsiveness (9, 13, 15, 17, 23, 24, 27–29, 31–34, 42,
+48,
+59, 62, 68). Thresholds used to define response or
+differentiate individuals vary based on the variables being
+Ideally, such
+measured and are generally not standardized.
+thresholds should be based on clinically relevant effects
+or standardized health recommendations. If there are no
+standardized recommendations or limits for the variables
+being measured, it is important that studies clarify the clinical
+relevance of their findings.
+
+Methods for analyzing precision nutrition data
+Laboratory analytical methods for gut microbiome data.
+The microbiome can be measured using a variety of methods
+(Table 3, Microbiome Measures), which are subject to
+their own inherent limitations and biases  making
+comparisons between studies using different methods diffi-
+cult. Additionally, differences in sample collection, sample
+preparation, PCR amplification, and bioinformatics pipeline
+contribute additional variability, further complicating
+to make broad
+comparisons. Thus,
+conclusions regarding the effect of the microbiota when
+looking at findings in the literature. A brief overview of
+the different methods and their protocols, advantages, and
+disadvantages is provided here but, for further discussion,
+readers are directed to additional reviews of this topic (74,
+76).
+
+it can be difficult
+
+In early studies of the gut microbiome, culturing was the
+primary method used to investigate the growth and activity
+of microbes. However, the majority of gut microbes have not
+been cultured successfully and this technique is labor
+intensive. Thus, advances in sequencing technology have led
+to rapid adoption of culture-independent techniques.
+
+Most of these techniques are based on analysis of the 16S
+ribosomal RNA (rRNA) gene, which provides a phylogenetic
+marker for different bacterial taxa. The 16S rRNA gene is
+ubiquitous among bacterial species with extreme sequence
+conservation, which can be targeted for amplification, as
+well as variable domains that can be used to classify taxa
+ Some methods also utilize the recombinant protein A
+(recA) gene, which has been suggested as a potential marker
+to identify higher taxonomic ranks because of its ubiquity
+
+FIGURE 3 Diet and the microbiota. Dietary factors inﬂuence the
+composition and function of the gut microbiota. Research now
+shows that the microbiota can also impact the eﬀect of diet on
+individuals’ health and metabolism. Despite the appearance of
+circular logic, these are distinct concepts.
+
+restriction and excess; and bioactives, fermented products,
+and other dietary components. Many studies investigating
+the effect of the microbiota on metabolic response to
+diet have employed interventions involving dietary fiber
+or other nondigestible dietary components 
+as these compounds cannot be hydrolyzed by endogenous
+human enzymes and are thus able to pass through
+the upper gastrointestinal tract largely intact and enter the
+large intestine where they can be fermented by the gut
+microbiota. These compounds serve as a primary source of
+fuel for this community  As the microbiota has also
+been shown to influence energy harvest and predisposition
+to obesity  a number of studies have also looked at
+the effect of the gut microbiota on response to an energy-
+restricted or high-energy diet  The effect of the gut
+microbiome on metabolic response to macronutrient dis-
+tribution  dietary patterns
+ polyphenols and other plant-based compounds
+ as
+well as antibiotics and certain drugs has also been
+investigated. Dietary interventions may be targeted, such as
+supplementing an isolated nutrient in the participants’ diets
+(e.g. fiber), or broad, such as altering the participants’ entire
+dietary pattern (e.g. low fermentable oligosaccharides, disac-
+charides, monosaccharides and polyols [FODMAP] diet).
+
+Response criteria.
+Similar to the choice of dietary intervention, how studies
+define “response” may also be targeted or broad (e.g.
+lipid profile or HDL-cholesterol), continuous or categorical
+(e.g. bodyweight compared with overweight/obese). Dif-
+ferent studies have used different biological indicators of
+
+4 Hughes et al.
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+(Continued)
+
+SCFAs
+Lookingatassociationwithproductionof
+
+P/Bratio(nocut-oﬀratioprovided)
+
+cohortof39
+glycemicresponse)selectedfrominitial
+10NR(showedleastornoimprovementin
+insuliniAUCdecreasedby≥15%).10Rand
+decreasedby≥25%,totalAUCdecreased;
+Changeinglycemicresponse:R(glucoseiAUC
+
+SCFAproduction
+
+“Intervention”(nutrientchallenge)
+
+Invitrofermentation(humanstool
+
+Arabinoxylansfromsorghumbran(SAX)
+
+Chenetal.
+
+“Cross-over”
+
+from2individuals)
+
+fructo-oligosaccharides(FOS)
+vs.cornarabinoxyan(CAX)vs.
+
+Humans:Glucoseandinsulin,SCFAs,
+
+Intervention
+
+Humans(39healthyadults,10
+
+Barleykernelbread(BKB)vs.whitewheat
+
+Kovatcheva-
+
+Mice:PPGR,liverglycogen
+breathhydrogen
+
+weight,fecalpH
+GLP-1,PYY,lipidproﬁles,body
+HbA1c,SCFAs,glucoseandinsulin,
+
+individuals)
+humanfecesfromhighorlowP/B
+(gnotobiotic,colonizedwith
+selectedasRorNR)andmice
+
+ﬂourbread(WWB)for3deach
+
+
+Datcharyetal.
+
+guidelines)for84days
+2013ChineseDiabetesSociety
+(standarddietaryrecommendationsof
+medicinalfoods,prebiotics)vs.control
+WTPdiet(high-ﬁber,wholegrains,Chinese
+
+
+
+Zhaoetal.
+
+DecreaseinHbA1c
+
+Intervention
+
+Humans
+
+LookingatassociationwithchangeinTC
+
+P/Bratio:High(>0.01)andlow(<0.01)
+
+Lipidproﬁle(TC,TAG,HDL-C,LDL-C)
+
+Intervention
+
+metabolicsyndrome)
+obesityandcomponentsof
+Humans(62adultswithcentral
+
+NNDhighinﬁber/wholegrainvs.ADDfor
+
+Roageretal.
+
+6mo
+
+
+
+Lookingatassociationwithfatloss
+P/Bratio:High(>0.01)andlow(<0.01)
+
+Bodyfatloss
+
+Intervention
+
+NNDhighinﬁber/wholegrainvs.ADDfor
+
+Hjorthetal.
+
+metabolicsyndrome)
+obesityandcomponentsof
+Humans(62adultswithcentral
+
+individuals)
+humanfecesfrom3healthy
+Mice(gnotobiotic,colonizedwith
+
+6mo
+
+10d
+Phase2:FOS-enrichedor
+dietfor4wk
+
+
+
+
+
+Phase1:Standardizedpolysaccharide-rich
+
+Smitsetal.
+
+Gut microbiome and precision nutrition: Part I 5
+
+(unweightedUniFrac)
+
+Changealongprincipalcoordinates
+
+Metabolomics
+
+Lowerglycemicresponsetoeitherwhiteor
+
+sourdoughbread
+
+CRP,glucose,PPGR,BP,weight,BMR
+calcium,creatinine,urea,TSH,LDH,
+Fastinglipidproﬁle,ALT,AST,GGT,iron,
+
+excluded
+increaseordecrease,<10%change
+Host(cholesterol,HOMA,CRP):>10%
+R<0.87andNR>0.92.
+baselineandpostinterventionsamples.
+
+Intervention
+
+Humans
+
+Sourdoughwhole-grainbreadvs.white
+
+Koremetal.
+
+wheatbread
+
+
+
+lossdiet
+dietvs.low-carb/fat,high-proweight
+nonstarch-polysaccharide-enriched
+Cohort3:RS-enricheddietvs.
+8goligofructose
+Cohort2:Dailydoseof8ginulinand
+wheatbread
+whole-grainpastavs.low-ﬁberreﬁned
+Cohort1:High-ﬁberryebreadand
+
+Supplementeddiet
+Controlled
+Cross-over
+Randomized
+
+Supplementeddiet
+Controlled
+Parallel
+Randomized
+
+follow-upafter1y)
+Standardizeddiet(plusadviceand
+Controlled
+Parallel
+Randomized
+
+follow-upafter1y)
+Standardizeddiet(plusadviceand
+Controlled
+Parallel
+Randomized
+
+Standardizeddiet
+
+Intervention
+
+Supplementeddiet
+Controlled
+Cross-over
+Randomized
+
+Standardizeddiet
+Controlled
+Cross-over
+Randomized
+Intervention
+Cohort3:
+Supplementeddiet
+Controlled
+Randomized
+Intervention
+
+Microbiota:Pearsoncorrelationbetween
+
+TC,insulinsensitivity(HOMA),CRP
+
+Cohorts1&2:
+
+3cohorts:
+
+Korpelaetal.
+
+syndromeand/orobesity)
+Humans(78adultswithmetabolic
+
+Respondercriteria
+
+Biologicalmeasures
+
+Studydesign
+
+Model
+
+Dietaryintervention
+
+
+
+Fiber
+
+Citation
+
+TABLE1Reviewofmethodsusedtoconductprecisionnutritionstudies1
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+(Continued)
+
+ChangeinBif.abundance(nodiscretecut-oﬀ)
+
+Onlymicrobiotaresponse
+
+Intervention
+
+Humans
+
+nulinvs.placebo(8g/d
+
+Kolidaetal.
+
+maltodextrin)for2wkeach
+
+ChangeinBif.abundance(nodiscretecut-oﬀ)
+
+Onlymicrobiotaresponse
+
+Intervention
+
+Humans
+
+HP-inulinvs.maltodextrinfor2wkeach
+
+Tuohyetal.
+
+Bacteroidesandmicrobiotastability
+Associationsfoundwithbaseline
+
+antiproliferationability
+concentrations,genotoxicity,
+
+Fiberintake:High
+
+SCFAproduction,ammonia
+
+Intervention
+
+Humans
+
+Palmdatess.placebo
+
+Eidetal.
+
+ChangeinBif.abundance(nodiscretecut-oﬀ)
+
+Onlymicrobiotaresponse
+
+Intervention
+
+Humans
+
+Partiallyhydrolyzedguargum
+
+Tuohyetal.
+
+each
+(maltodextrin-dextrose,37.1g)for3wk
+
+vs.placebofor3wkeach
+(PHGG)+fructo-oligosacchardes(FOS)
+
+vs.placebo
+Phase2:Oneof4biﬁdogenicNDCHs
+for1wkeach
+isomalto-oligosaccharides)vs.placebo
+lactulose,long-chaininulin,
+galacto-oligosaccharides,RS3,
+oligosaccharides,
+fructo-oligosaccharides,soybean
+carbohydrates(NDCH)(short-chain
+
+
+
+
+
+
+
+
+
+
+
+ChangeinBif.abundance(nodiscretecut-oﬀ)
+
+Onlymicrobiotaresponse
+
+Intervention
+
+Humans
+
+Phase1:1of7nondigestible
+
+Bouhniketal.
+
+Onlymicrobiotaresponse
+
+Intervention
+
+Humans
+
+GOS(increasingdosage:0,2.5,5,10g)for
+
+Davisetal.
+
+FecalSCFAs
+
+Intervention
+
+Humans
+
+RS2(unmodiﬁedpotatostarch)at
+
+Venkataramaran
+
+3wkeach
+
+10d
+increasingdosesor
+
+etal.
+
+TDF)for4wkeach
+mixtureofthe2(BR+WGB,11.5g
+brownrice(BR,4.4gTDF)vs.equal
+Whole-grainbarley(WGB,18.7gTDF)vs.
+
+
+
+Martinezetal.
+
+ChangeinplasmaIL-6:terciles
+
+Bodycomposition,PPGR,lipidproﬁle,
+
+Intervention
+
+Humans
+
+hsCRP,IL-6,fecalSCFAs
+
+Microbiomeonly
+
+Intervention
+
+Humans
+
+RS2(Hi-Maize)vs.RS4(wheat)vs.control
+
+Martinezetal.
+
+(nativestarch)eachfor3wk
+
+
+
+discretedeﬁnition)
+
+Compositionalshiftsinthemicrobiome(no
+
+(≤8mmol/kg)
+feces),high(≥11mmol/kg),andlow
+Fecalbutyrate:Enhanced(9–15mmol/kgwet
+
+theintervention
+individualswhorespondeddiﬀerentlyto
+Noidentiﬁcationofaspectsthatdiﬀerentiated
+
+cut-oﬀ)
+
+Microbiotarichnessandstability(nodiscrete
+
+Cellgenotoxicity,SCFAs
+
+Intervention
+
+Humans
+
+10gvs.40gdietaryﬁberfor5deach
+
+Tapetal.
+
+coordinates(nodiscretecut-oﬀ)
+
+(glucose,insulin)
+
+Microbiotastabilityandclusteringinprincipal
+
+FecalSCFAs,insulinsensitivity
+
+Intervention
+
+Humans
+
+Respondercriteria
+
+Biologicalmeasures
+
+Studydesign
+
+Model
+
+Dietaryintervention
+
+Citation
+
+(WL)dietfor10wk
+polysaccharides(NSPs)vs.weight-loss
+type3)vs.controlleddietw/nonstarch
+controlleddietw/resistantstarch(RS,
+Standardweightmaintenancediet(M)vs.
+
+
+Walkeretal.
+nd
+
+Salonenetal.
+
+6 Hughes et al.
+
+TABLE1(Continued)
+
+Supplementeddiet
+Cross-over
+Placebo-controlled
+
+Supplementeddiet
+Cross-over
+Placebo-controlled
+
+Supplementeddiet
+Controlled
+Cross-over
+Randomized
+
+Supplementeddiet
+Cross-over
+Placebo-controlled
+Randomized
+
+Supplementeddiet
+Placebo-controlled
+Randomized
+
+Supplementeddiet
+Cross-over
+Placebo-controlled
+
+Supplementeddiet
+
+Supplementeddiet
+Cross-over
+Randomized
+
+Supplementeddiet
+Controlled
+Cross-over
+Randomized
+
+Standardizeddiet
+Controlled
+Cross-over
+Randomized
+
+Standardizeddiet
+Controlled
+Cross-over
+Randomized
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+Gut microbiome and precision nutrition: Part I 7
+
+(Continued)
+
+SSPG<120)atbeginningofstudy
+SSPG>150)orinsulinsensitive(IS;
+Participantsclassiﬁedasinsulinresistant(IR;
+
+value(CIV)
+
+etc.)
+clinicalmarkers(lipids,creatinine,
+(LC-MS),anthropometrics,general
+targetedassays),metabolomics
+(RNA-seq),proteomics(LC-MS,
+genomics(exome),transcriptomics
+
+Steadystateplasmaglucose(SSPG),
+
+Intervention
+
+Humans(13overweight
+
+Longitudinalinterventionincluding
+
+Pieningetal.
+
+Supplementeddiet
+Controlled
+
+insulin-sensitiveadults)
+insulin-resistant,10BMI-matched
+
+Standardizeddiet
+Controlled
+Cross-over
+
+Humans
+of5AMERindividuals)
+humanfecesfrom1of5CRONor1
+
+follow-up
+then
+hypercaloricdietEucaloricdiet
+
+restriction(AMER)
+nutrition(CRON)vs.nodietary
+Chroniccalorierestrictionw/adequate
+
+
+
+
+
+Valueandchangeincommunityindicator
+
+Bodyweight
+
+Intervention
+
+Mice(gnotobiotic,colonizedwith
+
+Griﬃnetal.
+
+periods
+duringenergyrestrictionandstabilization
+3clustersbasedonweightchangetrajectories
+
+adiponectin,IL-6,hsCRP
+composition,lipidproﬁle,leptin,
+adipocytemorphology,body
+Insulinsensitivity,glucose/insulin,
+
+Intervention
+
+Humans(50overweightandobese
+
+Energyrestrictedvs.weightmaintenance
+
+Kongetal.
+
+adults)
+
+
+
+
+
+Genecount:High(>480,000)andlow
+
+(<480,000)
+
+composition
+inﬂammatorymarkers,body
+Lipidproﬁle,insulinresistance,
+
+Intervention
+
+Humans(49overweightandobese
+
+Energyrestricted,highproteinvs.weight
+
+adults)
+
+maintenance
+
+Genecount:High(>480,000)andlow
+
+(<480,000)
+
+composition
+inﬂammatorymarkers,body
+Lipidproﬁle,insulinresistance,
+
+Intervention
+
+Humans(49overweightandobese
+
+Energyrestricted,highproteinvs.weight
+
+Cotillardetal.
+
+adults)
+
+maintenance
+
+
+
+Energyrestrictionandexcess
+
+NoidentiﬁcationofR/NR
+
+Allylmercapturicacid(AMA)
+
+Intervention
+
+Humans
+
+Inulins.noinulinfor3wkeach
+
+Fulleretal
+
+ammonia
+
+ChangeinBif.abundance(nodiscretecut-oﬀ)
+
+FecalSCFAs,BCFAs,phenols,indoles,
+
+Intervention
+
+Humans
+
+Agaveinulinvs.placebofor3wkeach
+
+Increaseinrelativeabundance
+
+Inulinmetabolism
+
+“Intervention”(nutrientchallenge)
+
+concentrations(nodiscretecut-oﬀs)
+ChangeinBif.abundanceormetabolite
+
+p-cresol,15N,andPEG
+
+Humans
+
+Lactuloses.oligofructose-enriched
+
+inulinor4wk
+
+
+dePreteretal.
+
+Respondercriteria
+
+Biologicalmeasures
+
+Model
+
+Dietaryintervention
+
+Citation
+
+Supplementeddiet
+Randomized(?)
+
+Intervention
+
+Studydesign
+
+gnotobioticmice
+andinvivo2-membermodelin
+Invitroculturingofisolatedstrains
+
+Inulin
+
+
+Sonnenburgetal.
+
+supplementsprovided)
+Standardizeddiet(only
+Controlled
+Cross-over
+Randomized
+
+supplementsprovided)
+Standardizeddiet(only
+Controlled
+Cross-over
+Randomized
+
+supplementsprovided)
+Standardizeddiet(only
+Controlled
+Cross-over
+Randomized
+
+Supplementeddiet
+Cross-over
+Controlled
+Randomized
+
+Supplementeddiet
+Cross-over
+Placebo-controlled
+Randomized
+
+etal.)
+fromCotillard
+usingdata
+Shoaieetal.
+
+
+
+
+Holscheretal.
+
+TABLE1(Continued)
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+(Continued)
+
+groups
+inﬂammatorymarkersbetweenthese
+diﬀerencesinweightgain,metabolic,and
+(<480,000).Lookingatsigniﬁcant
+Genecount:High(>480,000)andlow
+
+lymphocytes,hsCRP,FIAF,ALT
+FFA,leptin,adiponectin,leucocytes,
+
+BMI,bodyfat%,insulin,HOMA,TAG,
+
+Cross-sectional
+
+Humans(292overweightandobese
+
+adults)
+
+PPGR(nocutoﬀsstated)
+
+PPGR
+
+Humans
+
+InterventionSupplementeddiet
+Phase2:Standardizeddiet
+Phase1:Supplementeddiet
+Controlled
+Cross-over
+
+Intervention
+
+Phase2:26healthyadults)
+validatedon100personcohort;
+Humans(Phase1:800healthyadults,
+
+PPGR(nocut-oﬀsstated)
+
+Postprandialglucoseresponse(PPGR)
+
+Notinvestigatingresponsetointervention
+plainbagelwithcreamcheese,cereal)
+
+Standardizedmeals(2diﬀerentmeals:
+PPGRpredictionfor1wkeach
+Phase2:“Good”vs.“bad”dietbasedon
+fructose)for1wk
+(bread,bread+butter,glucose,
+
+Phase1:Standardizedmealsw/50gcarbs
+
+perdietx6diets)
+aboveusingpureedinfantfood(1wk
+Phase3:Randomcombinationsof
+wkperdietx3diets)
+Phase2:Newcombinationsofabove(2
+sugar)
+(polysaccharide)vs.sucrose(simple
+(protein)vs.cornoil(fat)vs.cornstarch
+Phase1:Varyingconcentrationsofcasein
+
+(outcomeat3mo)
+highfoodintakevolumefor12mo
+reduceenergyintakewhilstachieving
+nutrientdensityfoods)withgoalto
+densityfoods,lesserintakeofhigh
+amountsoffruits/vegandlow-energy
+Volumetricnutritionalintervention(larger
+
+intake)for3weeks
+
+Calorierestriction(CR,∼50%normal
+(diﬀerentvariationsoftime)
+high-plant-polysaccharide(LFPP)
+
+High-fat/high-sugarvs.low-fat,
+
+
+LeChatelieretal.
+
+
+Mendes-Soaresetal
+
+
+
+Zeevietal.
+
+
+
+MuñizPedrogoetal.
+
+Zouetal
+
+
+Carmodyetal.
+
+
+
+
+
+
+
+Justlookingatlinearpredictionofchange
+
+None
+
+Intervention
+
+Mice(gnotobiotic,10-strain
+
+community)
+
+Bioactives,fermentedproducts,andotherdietarycomponents
+
+
+
+Faithetal.
+
+Weightloss≥5%after3months
+
+Bodyweight,fastingglucose,HDL-C,
+
+Intervention
+
+Humans(26overweightandobese
+
+LDL-C,TG
+
+Dietaryadviceprovided
+
+adults)
+
+BMIloss
+
+compositionandfunction
+
+BMI,changeinmicrobiome
+
+InterventionStandardizeddiet
+
+Humans
+
+andpriordietaryexposure
+
+Diﬀerentiateresponsesbasedongenotype
+
+Bodyweight
+
+Intervention
+
+Mice(inbredandoutbredstrains)
+
+andlow(abundance<median)
+
+adults)
+
+stabilization(WS)dietfor6wkeach
+
+A.muciniphila:High(abundance≥median)
+
+BMI,waist/hip,bodycomposition,lipid
+
+Intervention
+
+Humans(49overweightandobese
+
+Calorie-restricteddietvs.weight
+
+Daoetal.
+
+Weightgain(nodiscretecut-oﬀ)
+
+GWAS,bodycomposition,metabolic
+
+Mice(inbredstrains)
+
+High-fat/high-sucrosevs.controlchow(8
+
+Parksetal.
+
+2metabolicallydivergentstrains)
+phase:Transplantedmicrobiotaof
+Mice(1stphase:8diﬀerentstrains,2nd
+
+phase:22wk,2ndphase:16wk)
+High-fat/high-sucrosevs.control(1st
+
+Kreznaretal.
+
+wk)
+
+macrophages
+adipocytemorphology,adipose
+(hsCRP,IL-6,LPS),ALT,GGT,HOMA,
+panel,inﬂammatorymarkers
+
+rate
+
+weight,hepaticTAG,oGTT
+Fastinginsulinandglucose,body
+
+Weightloss(nodiscretecut-oﬀs)
+
+Weightloss,BMI,bodycomposition
+
+Intervention
+
+Humans
+
+500kcal/ddeﬁcitdietwithhigh(1500mg
+
+Hjorthetal.
+
+Weightloss:High(>4kg)andlow(<2kg)
+
+Respondercriteria
+
+BMI,weightloss(WL)
+
+Biologicalmeasures
+
+Standardizeddietadviceprovided
+
+Intervention
+
+Humans
+
+Calorie-restricteddietnd
+
+Studydesign
+
+Model
+
+Dietaryintervention
+
+Citation
+
+calcium/d)indairyproductsfor24wk
+calcium/d)vs.low(≤600mg
+
+or10wk
+increasedphysicalactivity
+
+
+Santacruzetal.
+
+TABLE1(Continued)
+
+8 Hughes et al.
+
+oGTT(nodiscretecut-oﬀs)
+
+Weightgain,AUCinsulin/glucoseresponseto
+
+0-Prevotella
+LowP/Bratio(log(P/B)lessthan−0.48)
+HighP/Bratio(log(P/B)morethan−0.15)
+Groups:
+
+Standardizeddiet
+Controlled
+Cross-over
+
+Standardizeddiet
+Controlled
+
+supplementsprovided)
+Standardizeddiet(only
+Controlled
+Cross-over
+Randomized
+
+Standardizeddiet
+Controlled
+
+Intervention
+
+Standardizeddiet
+Controlled
+
+Intervention
+
+Dietaryadviceprovided
+Controlled
+Parallel
+Randomized
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+Gut microbiome and precision nutrition: Part I 9
+
+(Continued)
+
+High-andlow-ITCexcretors(nocut-oﬀ)
+
+Isothiocyanate(ITC)excretion
+
+Supplementeddiet
+
+Intervention
+
+lowestexcretors)
+glucoraphanin(from5highestand
+vivofermentationwith50μM
+Humansndex
+
+urolithinmetabotype,UM)
+
+lipidproﬁle
+
+Supplementeddiet
+
+Ellagitannin-metabolizingphenotype(i.e.
+
+Urolithinmetabotype(UM)andblood
+
+Intervention
+
+Humans
+
+Trial1:30gwalnutsfor3d
+
+Romo-Vaqueroetal.
+
+ENLproduction
+
+Cross-sectional
+
+Humans(115adult,premenopausal
+
+None
+
+Hullaretal.
+
+cookedbroccoli
+
+Standardizedmealcontaining200gof
+
+Lietal.
+
+extractor3d
+Trial3:3capsulesofpomegranate
+or3d
+Trial2:1capsulepomegranateextract
+
+
+
+
+
+women)
+
+(cut-oﬀvaluesnotstated)
+
+ENLexcretion:HighestandlowestENLtertiles
+
+8-PN:L
+Equol:L
+O-DMA:L
+ENL:L
+END:L
+diﬀerentmeans(cut-oﬀvaluesnotstated)
+(M),andlow(L)tercilesw/signiﬁcantly
+Metaboliteproduction:High(H),moderate
+
+multiplemetabolic/clinicaloutcomes
+Lookingatassociationwithchangesin
+
+P/Benterotype(nodiscretecut-oﬀ)
+days1–4;nodiscretecut-oﬀ)
+dafterNASconsumptioncomparedwith
+Glycemicresponse(signiﬁcantdiﬀerence5–7
+
+
+(ENL),and8-prenylnaringenin
+O-DMA,Equol,END,enterolactone
+
+andinﬂammatorymarkers
+
+Bodyweight,SCFA,plasmametabolic
+
+“Cross-over”
+
+from100femalesubjects)
+
+“Intervention”(nutrientchallenge)
+
+Invitrofermentation(humanstool
+
+isoxanthohumol(IX)fromhops
+Soy(daidzein)andﬂax(SDG)extracts,
+
+
+Possemiersetal.
+
+Intervention
+
+Humans
+
+low-CAPs.
+
+Kangetal.
+
+Glycemicresponse
+
+Intervention
+
+Humans
+
+Saccharin
+
+Suezetal.
+
+urinaryTMAOinresponsetoeggsandbeef
+
+TMAOproduction:High>20%increasein
+
+proﬁles,completecellcounts
+TMAOproduction,bloodchemistry
+
+Intervention
+
+Humans
+
+TMAOs.
+
+Choetal.
+
+ornormalization)andNR(nochange)
+Changeincalprotectin:R(decrease∼10-fold
+
+Calprotectin
+
+Intervention
+
+controls;32receivedmedication)
+Humans(68childrenwithIBDand26
+
+anti-TNF-αmedication
+
+Kolhoetal.
+
+meaningfulimprovement)andNR<50.
+
+ChangeinIBS-SSS:R≥50(clinically
+
+IBSsymptomseverityscore(IBS-SSS)
+
+Humans
+
+LowFODMAPdietvs.TraditionalIBSdiet
+
+Bennetetal.
+
+for4wk
+
+Respondercriteria
+
+Biologicalmeasures
+
+Model
+
+Dietaryintervention
+
+Citation
+
+placebofor6wk
+high-CAPs.
+
+challengemeals
+servingsapplesauce)asindividual
+carnitines.control(fruit,2
+
+
+
+
+
+
+
+
+
+
+
+TABLE1(Continued)
+
+Standardizeddiet
+Cross-over
+Placebo-controlled
+
+Supplementeddiet
+
+Supplementeddiet
+Cross-over
+Controlled
+Randomized
+
+Supplementedmedicationonly
+Parallel
+Controlled
+
+Standardizeddietadviceprovided
+Controlled
+Randomized
+
+Intervention
+
+Studydesign
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+urolithinmetabotype;WGB,whole-grainbarley;WL,weight-loss;WS,weightstabilization;WTP,dietofwholegrains,traditionalChinesemedicinalfoods,andprebiotics;8-PN,8-prenylnaringenin.
+glucose;SSS,IBSsymptomseverityscore;T2D,type2diabetes;TACD,TAG,orTG,triacylglyceridesortriglyceridestypicalAmericanchildhooddiet;TC,totalcholesterol;TDF,totaldietaryﬁber;TMAO,trimethylamineN-oxide;TSH,thyroidstimulatinghormone;UM,
+partiallyhydrolyzedguargum;PPGR,postprandialglucoseresponse;PYY,peptideYY;R,responders;RS,resistantstarch;RS2/3/4,resistantstarchtype-2,-3,-4;SDG,secoisolariciresinoldiglucoside;SNP,singlenucleotidepolymorphism;SSPG,steadystateplasma
+nitrogen-15nondigestiblecarbohydrate;NND,newNordicdiet;NR,nonresponders;O-DMA,O-desmethylangolensin;oGTT,oralglucosetolerancetest;P/Bratio,PrevotellatoBacteroidesratio;PEMT,phosphatidylethanolamineN-methyltransferase;PHGG,
+inﬂammatoryboweldisease;IBS,irritablebowelsyndrome;IR,insulinresistant;IS,insulinsensitive;ITC,isothiocyanate;IX,isoxanthohumol;LDH,lactatedehydrogenase;LDL-C,LDL-cholesterol;LFPP,low-fat,high-plat-polysaccharide;M,maintenance;NDCH,
+wideassociationstudy;HbA1c,hemoglobinA1c;HDL-C,HDL-cholesterol;polyethyleneglycol;HOMA,homeostaticmodelassessment;HP-inulin,highperformanceinulin;hsCRP,high-sensitivityC-reactiveprotein;iAUC,incrementalAUC;IBD,
+FMP,fermentedmilkproduct;FODMAP,fermentableoligosaccharides,disaccharides,monosaccharides,andpolyols;FOS,fructo-oligosaccharides;GGT,gamma-glutamyltranspeptidase;GLP-1,glucagon-likepeptide-1;GOS,galacto-oligosaccharides;GWAS,genome
+basalmetabolicrate;BP,bloodpressure;BR,brownrice;bw,bodyweight;CIV,communityindicatorvalue;CRON,chroniccalorierestrictionwithadequatenutrition;CRP,C-reactiveprotein;END,enterodiol;ENL,enterolactone;FIAF,fastinginducedadiposefactor;
+1ADD,averageDanishdiet;ALT,alanineaminotransferase;AMA,allylmercapturicacid;AMER,nodietaryrestriction;AST,aspartateaminotransferase;AUC,areaunderthereceiveroperatingcharacteristiccurve;BCFA,branched-chainfattyacid;Bif,Bifidobacteria;BMR,
+
+Changeinliverfatcontent
+
+Liverfattospleenfatratio(LF/SF),
+
+PEMTpromoterSNPrs12325817
+
+choline
+repletion
+depletion(<50mg/70kgbw,42d)vs.
+
+Humans
+
+Baselines.
+
+Spenceretal.
+
+Abdominalpainfrequency
+
+Intervention
+
+Humans
+
+childhooddiet(TACD)for48heach
+LowFODMAPdietvs.typicalAmerican
+
+
+Chumpitazietal.
+
+improvementduringeitherintervention)
+onlowFODMAPdietonly)andNR(no
+Abdominalpainfrequency:R(≥50%decrease
+
+microbialtaxa(LFTs)
+
+cut-oﬀsstated)
+AlsoincreasedSCFAanddecreasedpH(no
+
+Increaseininsulinsensitivityindex(ISI)
+
+HbA1c,insulinsensitivity,bileacids,
+
+Intervention
+
+Humans
+
+bodyfatdistribution
+liverfatcontent,bodycomposition,
+
+Coeﬃcientofchangeinlactose-fermenting
+
+Onlymicrobiotaresponse
+
+InterventionSupplementeddiet
+
+Humans
+
+Colitisscore:R
+
+CecalpH,SCFA,colitisscores
+
+Intervention
+
+Mice(T-bet-/-Rag2-/-versuscontrol
+
+Fermentedmilkproduct(BFMP,
+
+Veigaetal.
+
+Rag2-/-)
+
+Mobinietal.
+
+Volokhetal
+
+DSM17938for12wk
+actobacillusreuteri
+Placebovs.lows.high
+
+days
+Bif.animalissubsp.lactisBB-12)for30
+Fermenteddairyproduct(FDP,containing
+
+wkatage4wkand12wk
+nonfermentedmilkproduct(MP)for4
+containingBifidobacteriumlactis)vs.
+
+for4wkeach
+andLactobacillushelveticus)vs.placebo
+Probiotic(lassi,Streptococcusthermophilus
+
+Totalcholesterol:R(nochangeor
+
+Totalcholesterol(TC,primary
+
+Intervention
+
+Humans
+
+Senanetal.
+
+(increaseinTCof≥2.509mg/dL)
+<1.72mg/dLchangeinTC)andNR
+
+TNF-α,INF-γ,IL-2
+outcome),lipidproﬁle,IgG,IgM,
+
+persistenceofL.lactis)—cut-oﬀsnotstated
+marker)andPermissive/carrier(longer
+(eliminationofL.lactissimilartotransit
+PersistenceofL.lactis:Resistant/noncarrier
+
+Onlymicrobiotaresponse
+
+Rats
+
+Fermentedmilkproduct(FMP)
+
+Zhangetal.
+
+Standardizeddiet
+Parallel
+Intervention
+
+Standardizeddiet
+Cross-over
+Controlled
+Randomized
+
+Supplementeddiet
+Parallel
+Randomized
+
+Standardizeddiet
+Controlled
+
+Supplementeddiet(?)
+Cross-over
+Placebo-controlled
+Randomized
+
+Standardizeddiet
+
+Intervention
+
+Supplementeddiet
+Parallel
+Controlled
+Randomized
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Probioticcolonization
+
+Probioticcolonizationingutmucosa
+
+Intervention
+
+Humans(29healthyadults,10naïve,
+
+Probiotic(Bifidobacteriumbifidum,
+
+Zmoraetal.
+
+Respondercriteria
+
+Biologicalmeasures
+
+Studydesign
+
+Model
+
+Dietaryintervention
+
+Citation
+
+vs.placebofor4wk
+Bifidobacteriumlongumsbsp.infantis)
+Lactobacillusplantarum,
+sbsp.longum,Lactobacillusparacasei,
+thermophilus,Bifidobacteriumlongum
+Bifidobacteriumbreve,Streptococcus
+lactis,Lactobacilluscasei,
+Lactobacillusrhamnosus,Lactobacillus
+
+19intervention)
+
+TABLE1(Continued)
+
+10 Hughes et al.
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+TABLE 2 Features of dietary intervention design
+
+Study design
+
+Intervention
+Control
+
+Observational
+
+Intervention
+
+Parallel
+Placebo (e.g. placebo capsule vs. polyphenol capsule)
+
+Cross-over
+“Typical” diet option (e.g. white bread vs. whole-grain
+
+Diet intervention type
+
+Diet standardization (e.g. all food provided)
+
+Diet supplementation (e.g. dietary component of
+
+Diet intervention content
+
+Targeted dietary component (e.g. source of ﬁber,
+
+Broad dietary pattern (e.g. Mediterranean diet,
+
+polyphenols, etc.)
+
+bread)
+
+interest is provided)
+
+Western diet, etc.)
+
+and house-keeping function in bacteria  Protocols such
+as multilocus sequence typing (MLST) may also rely
+on multiple house-keeping genes. This technique, however,
+requires either a completely sequenced bacterial genome or
+one that contains all the loci necessary for MLST (typically
+7 loci) and, due to the variability of house-keeping genes,
+does not provide sufficient discrimination except between
+closely related bacteria 
+
+Before any of these techniques are implemented, sam-
+ples are first subjected to PCR, amplifying the genetic
+in the sample. Sequence identification of PCR
+material
+amplicons of the 16S rRNA gene can only be used to
+provide relative abundance of the gut microbial taxa. In
+contrast, qPCR, or real-time PCR, measures amplification of
+DNA in real-time using fluorescence of hybridized probes
+specific for individual taxa, allowing for more accurate
+quantification 
+
+Once amplified, DNA can be used for a variety of methods
+to compare and identify samples. Denaturing gradient gel
+electrophoresis and terminal restriction fragment length
+polymorphism (T-RFLP) are fingerprinting techniques that
+separate mixtures of 16S rRNA gene amplicons into bands of
+various sizes based on enzymatic cut sites. However, although
+these methods can be useful for checking the stability of
+dominant members and clustering communities according
+to these dominant members, they do not provide direct
+phylogenetic identification and it is difficult to relate banding
+patterns to changes in particular species  When
+coupled with 16S rRNA sequencing, these methods can
+provide more specific composition information. DNA mi-
+croarrays, which utilize oligonucleotide probes immobilized
+onto a glass slide to hybridize to complementary nucleotide
+sequences, provide phylogenetic identification. However,
+this method is subject
+to potential cross-hybridization
+(hybridization of multiple probes to single targets), can have
+difficulty detecting low abundance taxa, and is limited to
+identifying species that will hybridize to the probes provided
+on the slide 
+
+Sequencing has become the most widely adopted method
+for taxonomic identification. Direct sequencing of the 16S
+rRNA gene provides only taxonomic (i.e. composition) in-
+formation. Alternatively, metagenomic sequencing provides
+information regarding all genes present in the sample (i.e.
+composition and function). Although advances have led to
+
+a substantial reduction in the cost of direct sequencing 
+metagenomic technologies and other “omics” techniques,
+such as metatranscriptomics, that require much greater
+sequencing depth remain costly. A challenge for both
+methods is that they are computationally intense and require
+expertise to analyze the data that are generated. Additionally,
+the bioinformatics techniques used for analysis can have a
+significant effect on the results and interpretation of raw data
+
+
+The appropriate methods to use depend on the resources
+available as well as the features of the microbiome being
+investigated. The aspects of the microbiota (e.g. composition,
+function, relative compared with absolute abundance, etc.)
+that are most informative depend on the dietary intervention
+and response variables being investigated.
+
+Normalization and transformation methods for gut
+microbiome data.
+Microbiota sequence count data often require normalization
+and/or rarefaction to avoid biases due to uneven sequencing
+depth and to allow the comparison of data from
+different samples  The most common normalization
+technique, total sum scaling (TSS), divides the number of
+reads assigned to a certain taxa by the total number of reads
+in the sample  This method, although straightforward,
+has been shown to bias estimates in some data sets due
+to differential amplification efficiency of certain taxa 
+Cumulative-sum scaling (CSS) divides raw counts by the
+cumulative sum of counts up to a percentile determined by
+the nature of the data set  Data can also be rarefied, rather
+than scaled. Rarefying draws randomly without replacement
+from each sample such that all samples then have the
+same total count and excludes samples with total counts
+below that defined threshold  Rarefaction curves can
+provide guidance to determine proper rarefaction depth for
+a specific data set but, depending on how much data is
+removed, rarefying can reduce statistical power and has
+been denounced by some  The choice of normalization
+method depends on data characteristics such as library
+size 
+
+Another issue is the distribution of the data. If studies
+plan to utilize parametric statistical tests, such as a t-test
+or ANOVA, data must sometimes be transformed to make
+the distribution more Gaussian. Data can be transformed
+
+Gut microbiome and precision nutrition: Part I 11
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+TABLE 3 Review of methods used to analyze precision nutrition studies1
+
+Microbiome measures
+
+Association or
+prediction
+
+Statistical methods
+
+Korpela et al. 
+
+Microbiota composition (HITChip microarray)
+
+Prediction
+
+Linear models
+
+Citation
+
+Fiber
+
+
+
+Korem et al. 
+
+Microbiota composition and function (16S and
+
+Prediction
+
+Linear mixed model
+
+
+
+metagenomics)
+
+Smits et al. 
+
+Microbiota composition 
+
+Prediction
+
+Logistic regression
+Independent test cohorts
+AIC
+Correlation criterion
+
+PCA, PCoA (Bray–Curtis)
+Stochastic gradient boosting regression
+Internal leave-one-out cross-validation
+AUC criterion
+
+PCA, PCoA (Unweighted UniFrac)
+Mann–Whitney–Wilcoxon test
+Wilcoxon rank test
+Mantel’s Pearson test
+Procrustes transformation
+Random forests
+LDA
+
+rank-sum) 2-sample test
+Chi-square test
+Linear mixed models
+
+signed-rank test or paired t-test
+Chi-square test
+PCA
+
+2-way and 1-way ANOVA
+Mann–Whitney test
+PCoA (Bray–Curtis)
+Procrustes analysis
+Wilcoxon matched-pair signed-rank test
+Network plots
+
+2 group comparison: Student’s t-test, Wilcoxon
+matched-pairs signed-rank test, and
+Mann–Whitney U test
+3 + comparison: ANOVA
+PCoA (Unweighted UniFrac)
+
+PCoA (weighted Unifrac)
+Chi-square test
+Procrustes analysis
+
+hierarchical generalized linear models)
+Pearson’s correlation
+ANOVA
+
+Co-inertia using RV coeﬃcient
+Wilcoxon signed-rank test
+Spearman correlation
+
+Hjorth et al. Microbiota enterotype (Prevotella to Bacteroides
+(P/B) ratio, qPCR)
+
+Association
+
+Parametric (t-test) or nonparametric (Wilcoxon
+
+Roager et al. 
+
+Microbiota enterotype (Prevotella to Bacteroides
+
+Association
+
+Mann–Whitney U test or unpaired t-test Wilcoxon
+
+
+
+(P/B) ratio, qPCR)
+
+Zhao et al. 
+
+Microbiota composition and function
+
+Association
+
+(metagenomics)
+
+Kovatcheva-Datchary
+et al. 
+
+Microbiota composition and
+function (shotgun metagenomics, MG-RAST)
+
+Association
+
+Spearman’s correlation
+
+16S)
+
+qPCR)
+
+qPCR)
+
+Chen et al. 
+
+Microbiota enterotype (Prevotella or Bacteroidetes,
+
+Association
+
+RDA
+
+Salonen et al. 
+and Walker
+et al. 
+
+Microbiota composition (HITChip microarray,
+
+Association
+
+Linear mixed models (random eﬀects regression,
+
+Tap et al. 
+
+Microbiome composition (qPCR, 16S) and
+
+Association
+
+function (metatranscriptomics)
+
+Martinez et al. 
+
+Microbiome composition (16S, DGGE, Bif.-speciﬁc
+
+Association
+
+1-way ANOVA
+
+Martinez et al. 
+
+Microbiota composition 
+
+Venkataramaran et al.
+
+Microbiome composition 
+
+
+
+Association
+
+Association
+
+Pearson’s correlation
+Linear model
+k-means clustering
+Random forests
+LEfSe
+ANOVA
+
+Davis et al. 
+
+Microbiome composition (plate counts,
+
+Association
+
+PCR-DGGE, qPCR)
+
+Bouhnik et al. 
+
+Microbiota composition (plate counts)
+
+Association
+
+ANOVA
+
+
+
+
+
+
+
+Wilcoxon signed-rank test
+Bonferroni test
+
+(Continued)
+
+12 Hughes et al.
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+
+
+
+
+
+
+
+
+TABLE 3 (Continued)
+
+Citation
+
+Microbiome measures
+
+Tuohy et al. 
+Eid et al. 
+
+Microbiota composition (FISH)
+
+Association or
+prediction
+
+Association
+Association
+
+Tuohy et al. 
+Kolida et al. 
+de Preter et al. 
+
+Microbiota composition (DGGE, qPCR)
+
+Association
+Association
+Association
+
+Sonnenburg et al.
+
+Microbiota composition (qPCR) and function
+
+Association
+
+Paired t-test
+
+
+
+(protein expression)
+
+Holscher et al. 
+
+Microbiota composition 
+
+Association
+
+Linear mixed models
+
+Fuller et al. 
+
+Microbiota composition (Bifidobacteria
+
+Association
+
+ANOVA, ANCOVA
+
+Energy restriction and excess
+
+abundance by qPCR)
+
+Cotillard et al. 
+
+Microbiota richness and composition
+
+Prediction
+
+PCA
+
+
+
+(metagenomic sequencing)
+
+Statistical methods
+
+Paired t-test
+Linear model
+ANOVA
+Paired t-test
+
+Paired t-test
+Paired t-test
+Paired and unpaired t-tests
+Pearson correlation
+
+Mann–Whitney test
+Pearson’s correlation
+PCoA (Unweighted UniFrac)
+
+DBA score
+Internal cross-validation + independent test
+cohort
+AUC criterion
+
+Shoaie et al. 
+(using data
+from Cotillard
+et al.)
+
+Microbiota richness and composition
+
+Prediction
+
+CASINO
+
+(metagenomic sequencing)
+
+Kong et al. 
+
+Microbiota composition (qPCR of 7 bacteria)
+
+Prediction
+
+BN analysis
+
+Griﬃn et al. 
+
+Piening et al. 
+
+Microbiota composition 
+
+Prediction
+
+t-tests
+
+Prediction and
+association
+
+Internal leave-one-out cross-validation
+AUC criterion
+Random forests
+
+Internal cross-validation
+
+Santacruz et al. 
+
+Microbiota composition (qPCR)
+
+Association
+
+Mann–Whitney U test
+
+Hjorth et al. 
+
+Association
+
+1-way ANOVA
+
+Kreznar et al. 
+
+Microbiota composition and function (16S,
+
+Association
+
+ANOVA
+
+
+
+metagenomics)
+
+Parks et al. 
+
+Microbiota composition 
+
+Association
+
+Dao et al 
+
+Microbiota composition and richness
+
+Association
+
+BN
+
+(quantitative metagenomics, (Akkermansia
+muciniphila abundance also by qPCR)
+
+Carmody et al. 
+
+Microbiota composition and function
+
+Association
+
+
+
+(PICRUSt)
+
+Random forests
+AdaBoost Classiﬁcation
+ANOVA
+General linear models
+LASSO
+
+Wilcoxon signed-rank test
+
+Pearson’s chi-squared test
+Pearson’s correlation
+Linear mixed models
+Post hoc t-tests
+
+2-tailed unpaired Student’s t-test
+(Mann–Whitney U test for nonnormally
+distributed samples)
+PCA, PCoA (Unweighted UniFrac)
+PERMANOVA
+Pearson correlation
+Linear mixed models
+
+Biweight midcorrelation
+PCoA (Unweighted UniFrac)
+
+BIC
+Paired t-tests or ANCOVA
+Wilcoxon rank-sum or Kruskal–Wallis
+Spearman correlation
+Wilcoxon rank-sum test
+
+LEfSe
+PCoA (Bray–Curtis, Unweighted UniFrac)
+PERMANOVA
+
+Gut microbiome and precision nutrition: Part I 13
+
+(Continued)
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+Internal cross-validation + multiple
+independent test cohorts
+
+Pearson correlation
+Linear regression
+Gradient boosting regression
+Internal cross-validation + independent test
+cohort
+PDPs
+iAUC
+
+gradient boosting regression
+
+Internal cross-validation + independent test
+cohort
+AUC criterion
+
+Internal leave-one-out cross-validation
+
+PCoA (Bray–Curtis)
+Internal cross-validation
+AIC
+AUC criterion
+
+ANOSIM
+Unpaired t-test
+PCoA (Unweighted UniFrac)
+
+Unpaired t-test
+G-test
+PCoA (Weighted UniFrac)
+Pearson and Spearman correlation
+Mann–Whitney U test
+
+ANCOVA
+PCoA (JSD; Euclidean; Bray–Curtis; UniFrac,
+weighted and unweighted)
+Clustering (Calinski-Harabasz pseduo F-statistic;
+Rousseeuw’s Silhouette internal cluster quality
+index)
+
+Kruskal–Wallis
+Linear regression
+
+Multivariate regression
+ANOVA
+PCoA (UniFrac, weighted and unweighted)
+PAM clustering
+Shapiro–Wilk test
+
+Wilcoxon signed-rank test
+Bonferroni t-test
+Kruskal–Wallis
+Dunn’s test
+PCA
+HCA
+Multinomial logit model
+Spearman’s rank correlation
+
+(Continued)
+
+TABLE 3 (Continued)
+
+Citation
+
+Microbiome measures
+
+Association or
+prediction
+
+Statistical methods
+
+Zou et al 
+
+Microbiota composition and function
+
+Association
+
+Wilcoxon rank-sum testPearson’s chi-square
+
+Muñiz Pedrogo
+
+et al. 
+
+(metagenomics)
+
+(PICRUSt)
+
+Microbiota composition and function
+
+Association
+
+testPERMANOVA
+Wilcoxon rank-sum test
+
+LEfSe
+PERMANOVA
+Wilcoxon signed-rank
+
+Bioactives, fermented products, and other dietary components
+
+Faith et al. 
+
+Microbiota composition (shotgun sequencing)
+
+Prediction
+
+Linear model
+
+Zeevi et al. 
+
+Microbiota composition and function (16S,
+
+Prediction
+
+PCoA (Bray–Curtis)
+
+and gene expression (RNA-seq)
+
+metagenomics)
+
+Mendes-Soares et al.
+
+Microbiota composition and function
+
+Prediction
+
+Pearson correlationAUC criterionStochastic
+
+
+Le Chatelier et al.
+
+
+(metagenomics)
+
+(metagenomics, microarray)
+
+Microbiota richness, composition, and function
+
+Prediction
+
+DBA score
+
+Bennet et al. 
+
+Microbiota compostion (GA-map Dysbiosis Test)
+
+Prediction
+
+OPLS-DA
+
+
+
+Kolho et al. 
+
+Prediction
+
+Linear mixed eﬀect models
+
+Cho et al. 
+
+Microbiota composition 
+
+Association
+
+ANOVA
+
+Suez et al. 
+
+Microbiota composition 
+
+Association
+
+ANOVA
+
+Kang et al. 
+
+Microbiota composition and function
+
+Association
+
+ANOVA
+
+(PICRUSt)
+
+Possemiers et al.
+
+
+Microbiota composition (qPCR)
+
+Association
+
+Spearman correlation
+
+Hullar et al. 
+
+Association
+
+Romo-Vaquero et al.
+
+Microbiome composition 
+
+Association
+
+
+
+14 Hughes et al.
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+Fisher’s exact test
+NMS
+MRPP
+MRBP
+Cluster analysis
+Linear regression
+
+Kruskal–Wallis
+Dunn’s test
+PCA
+PCoA (weighted and unweighted UniFrac)
+Bray–Curtis dissimilarity
+Spearman’s rank correlation
+2-way and 1-way ANOVA
+Dunnett’s test
+Sidak test
+Mann–Whitney
+PERMANOVA
+LEfSe, Kruskal–Wallis
+
+LMM
+PLSDA
+PCA, PCoA (Weighted UniFrac)
+CAP
+PERMANOVA
+ROC analysis
+
+1-Way ANOVA
+Wilcoxon signed-rank test
+Hierarchical cluster analysis
+
+Mann-Whitney testk-means clustering (average
+silhouette width to determine number of
+clusters)MaAsLinBenjamini-Hochberg
+
+Repeated-measures ANCOVA
+Wilcoxon signed-rank test
+Mann–Whitney test and Manny Whitney U-test
+Kruskal–Wallis
+Spearman’s correlation
+
+PCoA (UniFrac, weighted and unweighted)
+
+Welch’s t test
+PCA
+Linear model
+
+Senan et al. and
+
+Association
+
+Paired t-tests
+
+Veiga et al. 
+
+Lactobacilli abundance (plating, qPCR)
+Microbiota composition (16S, qPCR, RT-qPCR,
+
+metagenomics)
+
+Association
+
+Mann–Whitney U test
+
+Volokh et al. 
+
+Microbiota composition 
+
+Association
+
+Mobini et al. 
+
+Microbiota composition 
+
+Association
+
+
+
+
+
+Chumpitazi et al.
+
+Spencer et al.
+
+
+(PICRUSt)
+
+(metagenomics)
+
+Microbiota composition and function
+
+Association
+
+LEfSe
+
+Microbiota composition and function
+
+Association
+
+paired t-test
+
+1AdaBoost, adaptive boosting; ADD, average Danish diet; AIC, Akaike information criterion; ANOSIM, analysis of similarities; BIC, Bayesian information criterion; Bif, Bifidobacteria;
+BN, Bayesian network; CAP, canonical analysis of principal coordinates; CASINO, community and systems-level interactive optimization; DBA, decisive bacterial abundance; DGGE,
+denaturing gradient gel electrophoresis; FISH, ﬂuorescence in situ hybridization; HCA, hierarchical clustering analysis; HITChip, human intestinal tract chip; iAUC, incremental AUC;
+JSD, Jensen-Shannon divergence; LASSO, least absolute shrinkage and selection operator; LDA, linear discriminant analysis; LEfSe, linear discriminant analysis eﬀect size; LMM,
+linear mixed models; MG-RAST, metagenomic rapid annotations using subsystems technology; MRBP, blocked multi-response permutation procedure; MRPP, multi-response
+permutation procedure; NMS, nonmetric multidimensional scaling ordination; NND, new Nordic diet; OPLS-DA, orthogonal projections to latent structures discriminant analysis;
+P/B ratio, Prevotella to Bacteroides ratio; PAM, partitioning around medoids; PCA, principal components analysis; PCoA, principal coordinates analysis; PDP, partial dependence plot;
+PERMANOVA, permutational analysis of variance; PICRUSt, phylogenetic investigation of communities by reconstruction of unobserved states; PLSDA, partial least squares
+discriminant analysis; RDA, redundancy analysis; ROC, receiver operating characteristic; T-RFLP, terminal restriction fragment length polymorphism.
+
+using an arcsine square root transformation  which
+is the transformation used by MaAsLin (multivariate as-
+sociation with linear models)  a bioinformatics tool
+used by researchers to discover associations between clinical
+variables and the microbiome. For a more comprehensive
+
+review of such tools, please refer to Mallick et al. 
+Log transformation is another commonly used method,
+but as it cannot be applied to zeros, this method also
+requires that zeros be replaced with small values (i.e. pseu-
+docounts). The choice of pseudocount can influence results
+
+Gut microbiome and precision nutrition: Part I 15
+
+Zmora et al. 
+
+
+
+Microbiota composition and function (16S, qPCR,
+metagenomics, RNA-Seq) of stool as well as
+lumen and mucosa samples
+
+Association
+
+Zhang et al. 
+
+Association
+
+TABLE 3 (Continued)
+
+Citation
+
+Microbiome measures
+
+Association or
+prediction
+
+Statistical methods
+
+Li et al. 
+
+Microbiome composition (T-RFLP 16S, qPCR)
+
+Association
+
+Student’s t-test
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+Association and prediction studies share the above
+methods of conducting the study and preparing the gut
+microbiome data. Where they differ, is in the statistical
+analysis of these data and the use of models to predict
+response and validate associations found in the first step
+of precision nutrition-microbiome research. It is important
+to note that these goals (association and prediction) are
+not mutually exclusive and several methods may be utilized
+within the same study to address different scientific goals
+and analyze different parts of the data set. The complexity of
+the task of analyzing the microbiome and its various effects
+means that this is often the case. Each of these methods
+has its own advantages and limitations, which should be
+recognized when presenting or comparing the results of
+studies.
+
+Association analysis methods.
+Association methods define and compare groups, find
+correlations, and determine significant differences (Table
+4). These methods differ in the number of groups being
+compared, the nature of the data being compared (i.e.
+categorical or continuous), and assumptions regarding the
+distribution of the data (i.e. normal, nonnormal). The
+methods shown below provide a rough introduction to
+statistical approaches that are currently in use for these
+types of analyses. Detailed information on commonly used
+methods can be found in Van Belle et al.  Additional
+references are given as needed.
+
+Comparing 2 groups in association studies.
+The t-test compares the mean responses of 2 groups to
+determine whether they are significantly different. This
+would be appropriate when comparing the abundance of
+a single taxa between 2 groups at 1 time point. The t-test
+may be conducted on paired data (e.g. comparing means
+within the same individuals at different time points as in a
+cross-over design) or unpaired data (e.g. comparing means
+between unrelated individuals as in a parallel design). This
+approach assumes that the data are normally distributed
+(parametric) or the sample size is “large.” The t-test does
+not account for potential confounding factors. The Mann–
+Whitney U (also called the Wilcoxon rank-sum) test is
+a nonparametric (does not assume the data are normally
+distributed) alternative to the t-test. When the spread
+and shape of the 2 distributions are the same, the Mann–
+Whitney U test compares the median of 2 unpaired samples
+(e.g. between groups). The Wilcoxon signed-rank test is used
+to determine if the median of the differences between paired
+responses is different from zero (e.g. within individuals). For
+example, comparing the abundance of a single taxa within
+1 individual before and after a dietary intervention. When
+the dependent variable is categorical (e.g. abundance above
+or below the median), a G-test or chi-square (or Fisher’s
+exact test) test may be used when the data are unpaired or
+a McNemar’s test may be used if the data are paired. Both
+
+Levels of microbiome classification.
+There are many different levels at which the microbiome may
+be analyzed, from broad classifications such as enterotypes
+to targeted species identification. This complexity leads to
+many different ways in which responsive groups may be
+differentiated.
+
+Arumugam et al. first introduced the concept of
+“enterotypes”, clustering individuals into 3 groups according
+to their dominant genera: Bacteroides, Prevotella, and Ru-
+minococcus. Although enterotypes have since been shown
+to exist more on a continuous scale  the Bacteroides
+and Prevotella enterotypes have been consistently replicated
+across cohorts  The identification of the Ruminococcus
+enterotype is more dependent on clustering and modeling
+approaches  Roager
+et al. 
+and Chen et al.  highlight measures such as enterotype or
+the Prevotella to Bacteroides ratio. Diversity and richness are
+also common measures used to highlight differences between
+groups 
+
+In addition to these broad groupings, individuals can
+also be classified according to the presence or absence of
+specific taxa, taxonomic abundance, richness and diver-
+sity, functional genes, or other features. For example, the
+abundance of individual taxa, such as Bifidobacterium, has
+been shown to be a significant indicator of response to
+fiber-based interventions and combinations
+of taxa, Moryella, Acetanaerobacterium, Fastidiosipila, and
+Streptobacillus, were found to be associated with a higher
+production of the phytoestrogen metabolite enterolactone
+ Kovatcheva-Datchary
+et al.  and Chumpitazi et al.
+also highlight differences in the abundance of functional
+genes, attempting to get closer to the activity of bacteria.
+These levels of microbiome classification may be combined
+in order to give a comprehensive picture of the interactions
+that contribute to response to diet.
+
+Association compared with prediction studies.
+When a study moves towards the analysis phase of bringing
+together microbiome, diet, and metabolic response, there
+are 2 steps in the process towards development of preci-
+sion nutrition recommendations: 1) identifying associations
+between microbiome features and dietary responsiveness
+and 2) predicting and validating individuals’ response to
+dietary interventions and/or advice (Figure 4). Some studies
+carry out only the first step (“Association” studies, Table 3),
+identifying baseline differences in the microbiota that dif-
+ferentiate groups of individuals who respond differently to
+dietary interventions. Other studies go further to complete
+the second step (“Prediction” studies, Table 3), using an
+individual’ pretreatment microbiome (sometimes in addition
+to other baseline characteristics) to devise models to predict
+
+16 Hughes et al.
+
+and there is currently no consensus on how to decide this
+value 
+
+how that individual will respond to a dietary intervention, or
+to design dietary advice suitable for the individual.
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+FIGURE 4 Steps of precision nutrition research. The 2 steps of personalized nutrition research involve 1) identifying associations between
+baseline features of the individual and their response to diet and 2) testing these associations in a population to determine if predicted
+responses are correct and/or if personalized recommendations based on these predictions result in better health outcomes.
+
+methods compare the relative frequency of taxa between
+2 groups to determine whether they are significantly
+different.
+
+Comparing >2 groups in association studies.
+When the number of comparison groups exceeds 2, methods
+such as ANOVA, permutational multivariate analysis of vari-
+ance (PERMANOVA), analysis of similarities (ANOSIM),
+or Kruskal–Wallis may be used. ANOVA analyzes the
+differences between group means and can examine the effects
+of multiple (categorical) independent variables on a single
+(univariate) or multiple (multivariate) dependent variables
+(i.e. 2-way, 3-way). This is useful when comparing multiple
+
+time points or when the number of groups exceeds 2, as
+in Bouhnik et al.  which tested 7 different types of
+nondigestible carbohydrates to determine their effect on
+the gut microbiota. Kruskal–Wallis is the nonparametric
+equivalent of the 1-way ANOVA and has been used to
+develop tools such as linear discriminant analysis effect size
+(LEfSe)  PERMANOVA is a nonparametric alternative
+to multivariate ANOVA (MANOVA)  ANOSIM is
+also used to compare multiple independent variables with a
+multivariate dependent variable  It differs from PER-
+MANOVA in that, instead of using the raw data, ANOSIM
+ranks values based on their similarity/dissimilarity. This
+minimizes the effects of outliers in the data, making it useful
+
+TABLE 4 Statistical methods1
+
+Independent variable
+
+Categorical = 2
+
+Categorical >2
+
+Continuous
+
+Continuous AND categorical
+
+Dependent variable
+
+Categorical
+
+G-test
+
+Chi-square test
+Fisher’s exact test
+
+Logistic regression2Generalized
+
+linear mixed
+models2Random forests2
+
+Continuous
+
+t-test (paired/unpaired)2
+
+Mann–Whitney U (Wilcoxon
+rank-sum)
+Wilcoxon signed-rank
+
+ANOVA2
+
+PERMANOVA
+ANOSIM
+Kruskal–Wallis
+PCA/PCoA
+k-means clustering
+Calinski-Harabasz pseudo-F
+Rousseeuw Silhouette index
+Partitioning around medoids
+Hierarchical cluster analysis
+
+Spearman correlation
+Pearson correlation
+Biweight midcorrelation
+Procrustes
+
+ANCOVA2
+CAP2
+Linear regression2
+Linear mixed models (random
+eﬀects regression, hierarchical
+models)2
+Random forests2
+RDA2
+
+1ANOSIM, analysis of similarities; CAP, canonical analysis of principal coordinates; PCA, principal components analysis; PCoA, principal coordinates analysis; PERMANOVA,
+permutational analysis of variance; RDA, redundancy analysis.2Methods may also be used for prediction.
+
+Gut microbiome and precision nutrition: Part I 17
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+when data are highly skewed. Whereas classical ANOVA and
+multivariate ANOVA methods use Euclidean distance, both
+PERMANOVA and ANOSIM may be implemented with any
+distance/dissimilarity metric.
+
+Dimension reduction and clustering methods in associa-
+tion studies.
+Methods such as principal components analysis (PCA) or
+principal coordinates analysis (PCoA) are used as dimension
+reduction techniques that form new variables (the PCs) using
+combinations of the original variables. The hope is that a
+limited number of these new PCs can represent the data
+almost as well as the many original variables. Addition-
+ally, investigators often look for clustering of samples to
+identify groups. PCA and PCoA both utilize the raw data
+and are identical when the distance metric is Euclidean,
+though PCoA can be used with other distance metrics,
+such as UniFrac (weighted or unweighted) or Bray–
+Curtis that are used for microbiome data. Typically,
+observations are plotted on a scatterplot of the first 2
+principal coordinates and data points are labeled to identify
+biologically significant groups (e.g. disease, no disease).
+
+Clustering methods such as k-means clustering  par-
+titioning around medoids (PAM)  Calinski–Harabasz
+pseudo-F-statistic 
+are used to dis-
+cover groups within the data. k-means clustering attempts to
+identify groups within the data by minimizing the distances
+between points within each group (defined by the mean
+of points within that group), and maximizing the distances
+between groups. Venkataraman et al. used k-means
+clustering to identify responsive and nonresponsive groups
+based on butyrate production before and during the fiber
+intervention. PAM is similar but, instead of taking the mean
+of groups, chooses one datapoint to serve as the “center”
+or medoid around which groups are formed. This method
+was used in Wu et al. to identify enterotype clusters.
+Both k-means clustering and PAM require the input of a
+desired or suspected number of clusters and use Euclidian
+distances. In contrast, both the Calinski–Harabasz pseudo-
+F and Rousseeuw Silhouette indices are used to determine
+the optimal number of clusters in a data set. HCA starts with
+the correlation matrix and sequentially groups variables and
+clusters, progressing from smaller, less inclusive groups, to
+larger, more inclusive groups until one large cluster is formed.
+This produces a dendrogram, showing the relation among
+the clusters, allowing the researcher to observe the clustering
+structure. However, in all of these clustering methods, groups
+are statistically defined and may not indicate any biological
+significance.
+
+Correlation of continuous variables in association studies.
+Variables may also be continuous values along a scale
+(e.g. weight, blood pressure), rather than categorical groups
+within a population. In these cases, various correlation meth-
+ods, such as Spearman, Pearson, Biweight midcorrelation
+ or Co-inertia using the
+
+18 Hughes et al.
+
+RV coefficient can be used to assess the association
+of the independent variable with a continuous outcome.
+An important point to remember is that correlation, as
+opposed to regression, makes no distinction between the
+2 variables being used, meaning that it does not identify one
+as the independent/predictor variable and the other as the
+dependent/outcome variable.
+
+Pearson (based on the raw data) and Spearman (based
+on ranks and, therefore, robust) correlation coefficients both
+evaluate the relation between 2 continuous variables. How-
+ever, whereas the Pearson correlation assumes a linear rela-
+tion and normally distributed variables, the Spearman corre-
+lation only assumes a monotonic relation (i.e. continually in-
+creasing or decreasing) and makes no assumption about dis-
+tributions. Thus, the Spearman correlation may be preferred
+for highly skewed outcomes. This may be useful when con-
+sidering microbiota abundance data, which is often highly
+skewed with an excess of zeros  Biweight midcorre-
+lation also measures the correlation of pairs of univariate
+measurements but differs from both Pearson and Spearman
+correlations as it is based on the median of the data, rather
+than the mean, making it less sensitive to outliers 
+
+Procrustes analysis and Co-inertia using the RV
+coefficient extend this idea to pairs of multivariate
+measurements. Procrustes analysis, originally developed for
+comparing shapes, computes the distances between pairs of
+high-dimensional samples after centering and scaling. Co-
+intertia analysis is a global measure of covariation between
+pairs of multivariate measurements. Co-inertia is high when
+the 2 sets of observations vary simultaneously (or inversely),
+and low when they vary independently. These methods are
+useful when comparing the similarity, or dissimilarity, of
+whole microbial communities.
+
+(an extension of
+
+Combining continuous and categorical variables in asso-
+ciation studies.
+Some methods may be used when the independent/
+explanatory variables are a mix of both continuous and
+categorical variables. These include ANCOVA, regression,
+linear mixed models
+regression to
+dependent observations), canonical analysis of principal
+coordinates (CAP) 
+and random forests  ANCOVA compares the means of
+a continuous dependent variable across levels of a categorical
+independent variable (i.e. experimental groups) whilst also
+controlling for the effects of other continuous variables (i.e.
+covariates such as BMI, cholesterol, etc.). This could be used
+to compare weight loss between groups on different diets,
+whilst controlling for baseline measures such as BMI or
+habitual fiber intake.
+
+Regression refers to the process of modeling the relation
+between a dependent variable and one or more independent
+variables. Indeed, ANOVA and ANCOVA may be viewed
+as special cases of regression. Regression models can take
+several forms depending on the nature of the data. For
+example,
+linear regression models a relation between a
+continuous dependent variable that changes at a constant rate
+with change in the independent variable. Generalized linear
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+models extend this idea to other types of dependent variables
+such as binary (logistic regression) or count (log regression)
+variables. Logistic regression models the relation between
+a binary dependent variable and one or more independent
+variables by estimating the probability of obtaining the
+outcome of interest. This can be used to determine the
+association between responder status and the abundance of
+one or more bacterial taxa.
+
+Generalized linear mixed models are an extension
+of generalized linear models and may include both fixed
+and random effects. Random effects represent factors with
+levels that are considered to be randomly sampled from
+some larger population. For example, individuals in a study
+are randomly sampled from a larger population. Random
+effects cannot be controlled experimentally. This is beneficial
+when analyzing longitudinal or repeated measures (i.e.
+cross-over studies) or multivariate outcomes (i.e. studies
+with multiple endpoints). In the first case, each individual
+contributes multiple measurements on the same outcome. In
+the second case, each individual contributes measurements
+on more than one outcome. In either case, the results are not
+independent of one another.
+
+CAP utilizes a distance matrix and PCoA to determine
+significant differences in principal components between
+groups (i.e. categorical) as well as along a scale (i.e. contin-
+uous). This can be used to quantify the distance between
+the microbiota composition of different groups or individuals
+over time, as in Zhang et al.  RDA extends multiple linear
+regression by summarizing the linear relations between mul-
+tiple dependent variables and multiple independent variables
+in a matrix, which is then incorporated into PCA. RDA could
+be used to examine the effect of different components of a
+dietary intervention on multiple taxa to identify microbes
+that are influenced by the diet, as done in Chen et al. 
+Random forests is a machine-learning technique that uses
+multiple decision trees, each built on random samples of the
+data, to estimate the mean value of the dependent variable.
+Each node in the decision tree represents a condition or
+question about the sample or datapoint (e.g. did butyrate
+increase or decrease in this sample?). The branches extending
+from these nodes represent the relevant data pertaining to
+the sample (e.g. yes/no, degree of change, etc.), eventually
+leading to a conclusion regarding an outcome of interest
+(e.g. responder/nonresponder). This method may be used
+for classification (i.e. categorical outcomes) or regression
+(i.e. continuous outcomes). For instance, Venkataraman et
+al. used random forest regression to identify asso-
+ciations between operational taxonomic unit abundances
+and butyrate concentration, both before and during fiber
+supplementation. Classification could be used to identify taxa
+associated with either an increase or decrease in butyrate
+concentration (categorical).
+
+Correction for multiple hypothesis testing.
+When analyzing the gut microbiota, a highly complex
+biological system, it is often necessary to correct for mul-
+tiple comparisons. This is done to avoid false positives
+
+when conducting many comparisons simultaneously. Some
+common methods used to do this are the Bonferroni
+correction and the Benjamini–Hochberg procedure
+ The Bonferroni correction takes the typical error rate
+(usually 0.05) and divides it by the number of tests to find
+the critical value (α). The Benjamini–Hochberg procedure
+instead controls the false discovery rate by ranking the raw
+P values (i.e. 1, 2, …n), dividing the rank by the number of
+tests, and multiplying this value by the false discovery rate
+(Q), which is set by the researcher. This produces a set of
+adjusted P values, which are then compared with the raw P
+values. The largest raw P value that is less than the adjusted P
+value is set as the threshold of significance so all P values less
+than or equal to this are significant.
+
+Prediction analysis methods.
+In principle, models used for prediction require accuracy,
+not biological plausibility. In practice, many models used
+for prediction are developed by taking population-level
+associations found using the approaches discussed above
+and using these to classify and predict response. There are
+2 general steps in this process: 1) model fitting and 2)
+validation (Table 5).
+
+Step 1: model fitting.
+In the model-fitting step, methods such as regression,
+decision trees, network analysis, and clustering can be used to
+incorporate information learned in the association phase to
+predict response in an individual. Many of the methods used
+in the association phase may also be used in this step (see
+footnote in Table 4). Here, we describe additional methods
+that tend to be used exclusively when the modeling goal is
+prediction.
+
+Stochastic gradient boosting regression uses deci-
+sion trees on random samples of the data, similar to random
+forests. However, instead of building multiple deep trees in
+parallel (i.e. at the same time), it builds many shallow trees,
+called weak learners, sequentially (i.e. one after the other)
+(Figure 5). Each new tree improves upon the classification of
+previous trees in an additive manner to reduce “loss” or error.
+This method performs best when dimensionality is low (i.e.
+fewer input variables) whereas random forests may perform
+better when dimensionality is high (i.e. many input variables)
+
+
+Bayesian network (BN) analysis is a graphical model
+that depicts the relations between variables and their prob-
+abilities or dependencies. For instance, a BN could depict
+the probability of a connection between a certain baseline
+symptom or state (e.g. abundance of a certain bacterial taxa),
+to one or many responses (e.g. SCFA production, glycemic
+response) (that also may be connected to one another within
+the network).
+
+Linear discriminant analysis (LDA) is similar
+to PCA/PCoA. However, in LDA, the groups of interest
+are known a priori and the axes represent
+the linear
+combinations of the measurements that best describe the
+separation between the groups. This can be used to separate
+
+Gut microbiome and precision nutrition: Part I 19
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+TABLE 5 Steps of predicting response1
+
+Model-ﬁtting phase
+
+Explanation
+
+Linear and linear mixed eﬀect
+
+Estimates continuous response variable as a function of one or more predictor variables by ﬁtting a best line
+
+models
+
+Logistic regression
+
+Linear models are “ﬁxed-eﬀects-only” whereas mixed eﬀect models add one or more random eﬀects
+
+Estimates categorical values as a function of a set of independent variables by ﬁtting to a logit function and predicting
+
+Random forests
+
+Builds deep decision trees in parallel, randomly sampling from the data set for each tree (bagging) dividing population
+
+probability
+
+into groups
+
+Stochastic gradient boosting
+
+Sequentially builds shallow decision trees to reduce residual, randomly sampling from the data set for each tree
+
+regression
+
+(bagging) dividing population into groups
+
+Bayesian network analysis
+k-means clustering
+
+Builds model representing the probabilistic relations/dependences between variables
+Observations are clustered according to the nearest mean value, minimizing sum of squares distances within clusters
+
+OPLS-DA
+
+Determines best predictor variables for groups deﬁned by the user (contrast to PCA which determines best
+
+(i.e. variance), and maximizing distance between clusters (i.e. separation)
+
+Decisive bacterial abundance
+
+Sums the abundances of taxa more frequent in one group (e.g. HGC) and subtracts the sum of the abundances of taxa
+
+discriminating variables for unknown groups)
+
+more frequent in the other group (e.g. LGC)
+
+Model validated on the same cohort used to construct the model. Leave-one-out method uses all data minus one
+
+subject repeatedly to construct the best-ﬁt model
+
+Model validated on an independent cohort from the one used to construct the model
+
+Estimates quality of model relative to other models in terms of goodness of ﬁt as well as complexity of the model
+
+Bayesian information criterion
+
+Related to AIC, larger penalty for increased number of parameters in model (i.e. increased complexity of model)
+
+Area under ROC curve (AUC)
+
+Plots true positive rate against the false positive rate to illustrate the accuracy of a model
+
+Correlation criterion
+
+Plots observed response against predicted response to illustrate the accuracy of a model
+
+1DBA, decisive bacterial abundance score; HGC, high gene count; LGC, low gene count; OPLS-DA, orthogonal projections to latent structures discriminant analysis; PCA, principal
+components analysis; ROC, receiver operating characteristic.
+
+score
+
+Validation phase
+Internal cross-validation
+
+Independent test cohort
+Performance criteria
+Akaike information criterion
+
+(AIC)
+
+(BIC)
+
+criterion
+
+dietary groups based on metabolic or microbiome data. In
+contrast, PCA/PCoA finds the linear combinations of the
+measurements that maximize variance (but may or may not
+separate the groups a posteriori).
+
+Partial least squares discriminant analysis (PLS-DA) and
+orthogonal projections to latent structures discriminant
+
+analysis (OPLS-DA) are extensions of LDA. Both PLS-
+DA and OPLS-DA may utilize weaker sources of variation
+to separate groups but OPLS-DA also eliminates variation
+that is unrelated to the separation of groups, creating a less
+complex model  Although these are powerful methods,
+they may force group separation at the expense of model
+
+FIGURE 5 Decision trees. Various methods of prediction such as random forests and stochastic gradient boosting use decision trees. In
+random forests, decision trees are built simultaneously and independently of one another, using more data to build deeper trees. In
+contrast, stochastic gradient boosting builds smaller trees sequentially, one after the other, with each subsequent tree learning from
+previous ones.
+
+20 Hughes et al.
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+validity, relying on weaker sources of variability in the data
+set 
+
+Some studies have even devised their own methods for
+prediction. Le Chatelier et al. devised the decisive
+bacterial abundance (DBA) score to predict
+individual
+responses based on the abundance of taxa known to be
+associated with previously identified groups (i.e. high-gene-
+count and low-gene-count individuals, referring to bacterial
+richness) that have been shown to have different metabolic
+phenotypes.
+
+The use of these methods, as with the methods used in the
+association phase, depends on the nature and complexity of
+the data as well as the desired format of prediction (i.e. group,
+continuous value, etc.).
+
+Step 2: validation.
+In the validation step, the model is used to predict response
+in the individuals used to fit the model (internal cross-
+validation) or in new individuals (external validation) to
+evaluate model performance  When utilizing internal
+cross-validation, a common practice is “leave-one-out” in
+which the model is fitted in an iterative process that utilizes
+all data minus one to predict the response of the left-out data
+point. The advantage of internal cross-validation is that the
+data are already available and new data does not have to be
+collected or obtained from another study. However, this test
+is not as rigorous as testing in an independent cohort and the
+model may not perform as well when applied to new data
+sets. Testing a model in an independent cohort allows for
+a better assessment of the applicability of the model in the
+broad population.
+
+Model performance criteria.
+To assess the accuracy of the model, several performance
+criteria may be used (Table 5). The Akaike information
+criterion (AIC) and Bayesian information criterion
+(BIC) refine the selection of multiple models and assess
+their performance. Both methods provide an assessment
+of relative performance, rather than absolute accuracy. BIC
+includes a larger penalty for increased complexity (i.e.
+numbers of parameters) in the model, typically resulting in
+a smaller model than AIC.
+
+In contrast, area under the receiver operating charac-
+teristic (ROC) curve (for models that predict
+binary outcomes) and proportion of variance explained by
+the model (R2) (for models predicting continuous outcomes)
+both assess the absolute accuracy of the model but do not
+have any penalty for increased complexity of the model. This
+may lead to increasingly complex models that, although they
+are highly accurate on the current data set, are over-fitted and
+will not perform well on an independent data set.
+
+Future directions
+Use of animal and in vitro models.
+Mice offer a model in which differences in the gut microbiota
+may be studied in a controlled experimental context, allowing
+for the determination of causality and development of
+
+mechanistic hypotheses  For example, transplantation
+of isolated strains or communities of bacteria into germ-free
+mice is one of the best models in use to demonstrate causal
+relations between the gut microbiota and host metabolism
+ This approach has been used in studies such as
+Kovatcheva-Datchary et al.  which used stool samples
+from individuals who did (responders) or did not (nonre-
+sponders) exhibit improved glucose tolerance in response to
+barley kernel supplementation to colonize germ-free mice.
+Colonized mice recapitulated the response phenotype of
+their respective donors, suggesting that the gut microbiome
+played a causal role in the improvement in glucose tolerance.
+This study also investigated the effect of monocolonization
+by taxa, overrepresented in responders (Prevotella copri) and
+nonresponders (Bacteroides thetaiotaomicron), and found
+differential gene expression in the colonized mice that
+altered hepatic glycogen storage, allowing for a mechanistic
+understanding of observed differences in glucose metabolism
+phenotypes.
+
+In vitro studies take place in an isolated system, allowing
+increased control over manipulation of conditions. This
+strategy has been utilized to investigate gut microbiome
+communities from humans 
+to determine the effect that differences in these taxa or
+communities have on the production of metabolites and
+fermentation of compounds.
+
+Both animal and in vitro models have limitations when
+it comes to drawing conclusions about human health and
+nutrition as they lack the specific interactions present in
+the human supraorganism. For further information, readers
+are directed to additional reviews of animal and
+in vitro models for human nutrition research.
+However, these techniques used in combination with human
+clinical trials will be crucial in the development of precision
+nutrition research and our understanding of the interaction
+between the host and the gut microbiota.
+
+Differences in methodology.
+As discussed above, studies investigating the contribution of
+the gut microbiota to personalized health and metabolism
+differ in what features of the microbiome are highlighted.
+Two meta-analyses have attempted to integrate results from
+multiple studies that have investigated the effects of the
+gut microbiota on human health using different laboratory
+methods and analysis strategies  Such work is
+important to improve our understanding of how the results
+of these studies complement each other and how the features
+or methods used affect the results.
+
+In order to facilitate the comparison of results, some
+standardization of protocols would be helpful. Obviously,
+there are limits to standardization as different studies have
+different scientific aims, which dictate the outcomes mea-
+sured and methods of microbiota analysis. The technology
+used for microbiota analysis is still developing but some
+work has been done to attempt to standardize protocols
+ However, more work is needed to develop procedures
+that minimize nonbiological variability due to laboratory
+
+Gut microbiome and precision nutrition: Part I 21
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+2. Kohlmeier M, De Caterina R, Ferguson LR, Gorman U, Allayee
+H, Prasad C, Kang JX, Nicoletti CF, Martinez JA. Guide and
+position of the International Society of Nutrigenetics/Nutrigenomics
+on personalized nutrition: Part 2—Ethics, challenges and endeavors of
+precision nutrition. J Nutrigenet Nutrigenomics 2016;928–46.
+3. Kau AL, Ahern PP, Griffin NW, Goodman AL, Gordon JI. Human
+nutrition, the gut microbiome and the immune system. Nature
+2011;474327–36.
+
+4. Hooper LV, Littman DR, Macpherson AJ. Interactions between the
+microbiota and the immune system. Science 2012;3361268–73.
+5. Tremaroli V, Backhed F, Functional interactions between the gut
+
+microbiota and host metabolism. Nature 2012;489242–9.
+
+6. Nicholson JK, Holmes E, Kinross J, Burcelin R, Gibson G, Jia W,
+Pettersson S. Host–gut microbiota metabolic interactions. Science
+2012;3361262–7.
+
+7. Cryan JF, Dinan TG. Mind-altering microorganisms: the impact
+of the gut microbiota on brain and behaviour. Nat Rev Neurosci
+2012;13701.
+
+8. Dinan TG, Cryan JF. The microbiome-gut-brain axis in health and
+
+disease. Gastroenterol Clin 2017;4677–89.
+
+9. Chen T, Long W, Zhang C, Liu S, Zhao L, Hamaker BR. Fiber-
+utilizing capacity varies in Prevotella- versus Bacteroides-dominated
+gut microbiota. Sci Rep 2017;72594.
+
+10. Sonnenburg ED, Zheng H, Joglekar P, Higginbottom SK, Firbank
+SJ, Bolam DN, Sonnenburg JL. Specificity of polysaccharide use
+in intestinal Bacteroides species determines diet-induced microbiota
+alterations. Cell 2010;1411241–52.
+
+11. Possemiers S, Rabot S, Espín JC, Bruneau A, Philippe C,
+González-Sarrías A, Heyerick A, Tomás-Barberán FA, De
+Keukeleire D, Verstraete W. Eubacterium limosum activates
+isoxanthohumol from hops (Humulus lupulus L.) into the potent
+phytoestrogen 8-prenylnaringenin in vitro and in rat intestine. J Nutr
+2008;1381310–6.
+
+12. Le Chatelier E, Nielsen T, Qin J, Prifti E, Hildebrand F, Falony G,
+Almeida M, Arumugam M, Batto JM, Kennedy S, et al. Richness of
+human gut microbiome correlates with metabolic markers. Nature
+2013;500541–6.
+
+13. Hullar MA, Lancaster SM, Li F, Tseng E, Beer K, Atkinson C, Wahala
+K, Copeland WK, Randolph TW, Newton KM, et al. Enterolignan-
+producing phenotypes are associated with increased gut microbial
+diversity and altered composition in premenopausal women in
+the United States. Cancer Epidemiol Biomarkers Prev 2015;24
+546–54.
+
+14. Grossman J, Mackenzie FJ. The randomized controlled trial: gold
+
+standard, or merely standard? Perspect Biol Med 2005;48516–34.
+15. Korpela K, Flint HJ, Johnstone AM, Lappi J, Poutanen K, Dewulf
+E, Delzenne N, de Vos WM, Salonen A. Gut microbiota signatures
+predict host and microbiota responses to dietary interventions in obese
+individuals. PLoS One 2014;9e90702.
+
+16. Korem T, Zeevi D, Zmora N, Weissbrod O, Bar N, Lotan-Pompan M,
+Avnit-Sagi T, Kosower N, Malka G, Rein M, et al. Bread affects clinical
+parameters and induces gut microbiome-associated personal glycemic
+responses. Cell Metab 2017;251243–53 e5.
+
+17. Smits SA, Marcobal A, Higginbottom S, Sonnenburg JL, Kashyap PC.
+Individualized responses of gut microbiota to dietary intervention
+modeled in humanized mice. mSystems 2016;1 e00098–16.
+
+18. Hjorth MF, Roager HM, Larsen TM, Poulsen SK, Licht TR, Bahl MI,
+Zohar Y, Astrup A. Pre-treatment microbial Prevotella-to-Bacteroides
+ratio, determines body fat loss success during a 6-month randomized
+controlled diet
+(Lond) 2017; 42
+Int
+580–3.
+
+intervention.
+
+J Obes
+
+19. Roager HM, Licht TR, Poulsen SK, Larsen TM, Bahl MI. Microbial
+enterotypes, inferred by the Prevotella-to-Bacteroides ratio, remained
+stable during a 6-month randomized controlled diet intervention with
+the new Nordic diet. Appl Environ Microbiol 2014;801142–9.
+20. Zhao L, Zhang F, Ding X, Wu G, Lam YY, Wang X, Fu H, Xue X, Lu C,
+Ma J. Gut bacteria selectively promoted by dietary fibers alleviate type
+2 diabetes. Science 2018;3591151–6.
+
+procedures, analysis pipelines, and analytical methods. It
+may also be of interest to the field to determine how to
+combine data collected under different protocols rather than
+developing overarching standardized procedures.
+
+Differences in microbiota features and responses exam-
+ined.
+Additionally, there has been no assessment of how micro-
+biome features that have been found useful in prediction
+of response to a certain dietary intervention translate to
+prediction of response to other nutrients or for broad
+dietary patterns. This is important as the taxa or features
+of the microbiome that may be responsible for variability in
+response to one nutrient may not be involved in or indicative
+of metabolism of other nutrients. In addition to applicability
+in a variety of dietary contexts, research should aim to
+determine which features of the microbiome are relevant in
+the context of different responses. This will allow researchers
+to devise a network of effects to better understand the ways in
+which the microbiota impacts our health as well as the ways
+in which we may manipulate the microbiota to improve our
+health.
+
+Conclusions
+As the focus of nutrition research shifts to a more indi-
+vidualized view of health and diet, appropriate methods
+must be developed to adequately test, detect, and validate
+the features that determine individual metabolic response
+to dietary components. As seen in this review, considerable
+progress has been made in recent years, but there is much
+that remains to be done. Current data give us only an
+incomplete understanding of the complexity of the human
+and microbial
+interaction. To get a full picture of the
+individual that captures this complexity requires researchers
+to learn how to design, conduct, and analyze studies that
+focus on the detailed characterization of the individual and
+their metabolic phenotype. Without the fine-scale resolution
+that optimization of methods and addition of mechanistic
+studies provide, we will be unable to interpret interindividual
+differences in response to diet. Additionally, without some
+way of comparing and combining the results of these studies,
+we will be unable to integrate these data and apply them.
+Further integration and consolidation of knowledge from the
+fields of microbiology, genetics, epigenetics, and nutrition
+will allow a more coherent picture to emerge.
+
+Acknowledgments
+The author’s contributions were as follows—RLH: performed
+the literature review, and conceived and composed the
+manuscript. MLM, JPH, NLK, and MEK: provided content
+and formatting advice, and edited the final manuscript, and
+all authors: read and approved the final manuscript.

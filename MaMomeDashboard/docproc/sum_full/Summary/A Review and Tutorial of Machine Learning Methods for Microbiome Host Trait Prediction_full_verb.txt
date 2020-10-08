@@ -1,0 +1,119 @@
+Zhou and Gallins
+
+Host Trait Prediction
+
+levels of taxonomy, with intriguing thoughts about the
+of
+interplay and use of molecular function descriptors vs. taxonomic
+descriptors, the reader is referred to Knights et al. Second, the role of taxonomy
+in prediction is often unclear – similar sequences are often
+correlated across samples, which is a property that can be readily
+assessed directly without taxonomic knowledge. Third, as with
+many omics technologies, library sizes (essentially column sums
+of the OTU table) vary considerably, and normalization methods
+must be used to account for this variation (Weiss et al., The target
+audience of this paper is those seeking a brief review and tutorial
+for trait prediction, and who will beneﬁt from accessible code. The remainder of this paper is written in several sections. Feature
+selection methods that use host
+information belong
+in the next section, as they must be included inside a
+cross-validation procedure. Commonly a trait will be a binary outcome (e.g.,
+case/control status, coded 1/0), or a continuous trait, such as
+body mass index (BMI). REVIEW OF MACHINE LEARNING
+METHODS FOR PREDICTION
+
+in the data, but without
+
+Machine learning deals with the creation and evaluation of
+algorithms to recognize, classify, and predict patterns from data
+(Tarca et al., The python code for implementation is on our site
+(https://sites.google.com/ncsu.edu/zhouslab/home/software?). Since HFE was reported to outperform other
+methods (Oudah and Henschel, 2018) and resulted in higher
+prediction performance overall, we apply it in the real data
+analysis section to extract OTU features before applying machine
+learning methods of trait prediction. An ensemble of decision trees (or regression trees
+for continuous y) is built by performing bootstrapping on the
+dataset and averaging or taking the modal prediction from trees
+(a process known as “bagging”)(Figure 1C), with subsampling
+of features used to reduce generalization error (Ho, 1995). Neural Networks
+Neural networks
+to an interconnected feed-forward
+network of nodes (“neurons”) with weights attached to each
+edge in the network, which allows the network to form a
+mapping between the inputs X and the outcomes y (Ditzler
+et al., This process continues until the last hidden layer is connected
+
+Frontiers in Genetics | www.frontiersin.org
+
+5
+
+June 2019 | Volume 10 | Article 579
+
+Zhou and Gallins
+
+Host Trait Prediction
+
+TABLE 1 | Review of published prediction accuracy comparisons. 2014
+
+Liver cirrhosis
+
+232
+
+118
+
+114
+
+542
+
+Species Random forest
+
+Zeller et al., 2011
+
+Three body sites
+
+1,967
+
+NA
+
+NA
+
+500
+
+Various
+
+Error rate
+
+0.17
+
+Reiman et al., We conducted a
+literature review of published host-trait microbiome prediction
+studies that used cross-validation and reported a measure of
+prediction accuracy. for each of
+
+For our analyses, we analyzed four traits (three binary and
+one continuous) from three datasets with varying sample sizes
+
+FIGURE 3 | ROC curves after collapsing OTUs to the genus level (A) the Singh dataset, (B) the Vincent dataset, and (C) the Goodrich dataset. We also removed OTUs
+which were present in <1% of samples from the Vincent et al. Finally, we ran the
+hierarchical feature engineering (HFE) algorithm introduced by
+Oudah and Henschel which results fewer informative
+features, including individual OTUs and aggregated elements of
+the taxonomy. For binary traits, the estimated group probability ˆP(Y = 1|X)
+was used to estimate the group assignment. The Lasso, Ridge,
+and Elastic Net approaches used the package and method
+glmnet, with lambda=seq The k-NN
+approach used caret with k = 5 and default (equal) neighbor
+weighting. The results for discrete traits
+
+Summarizing the results after using BMI as a continuous trait
+in the Goodrich dataset, the bar graph (Figure 2D) shows the
+
+FIGURE 5 | Scatterplot comparing the average AUCs between the full dataset and the HFE subset. ( For the Vincent dataset, again most prediction methods were
+improved by HFE feature-reduction, but the results were less
+uniform. ACKNOWLEDGMENTS
+
+Thanks to Mr. Chris Smith for the IT support in Bioinformatics
+Research Center. SUPPLEMENTARY MATERIAL
+
+for this article can be found
+at: https://www.frontiersin.org/articles/10.3389/fgene.

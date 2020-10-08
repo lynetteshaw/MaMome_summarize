@@ -1,0 +1,397 @@
+Hullar and Fu
+
+Page 2
+
+Here, we present below examples of the role of the microbiome in dietary metabolism, an 
+overview of eukaryotic epigenetic mechanisms, and microbially-derived metabolites that are 
+relevant to eukaryotic epigenetic changes in gene expression that may be linked to colon 
+cancer. In particular, we focus on the following microbial metabolites: the short chain fatty 
+acids (SCFA), isothiocyanates, lipids, and select polyphenols.
+
+Diet shapes the microbiome
+
+Diet helps shape the composition of the intestinal microbiota. Differences in the distribution 
+of bacteria are associated with dietary patterns and this influences host exposure to microbial 
+metabolites. De Filippo et al. showed that the gut microbiome of children living in Burkina 
+Faso was significantly different than European children of the same age.5 The microbiome 
+of the children from Burkina Faso was more varied, produced more butyrate, and had more 
+Prevotella than Bacteroides. The children in Burkina Faso consumed a diet high in fiber and 
+non-animal protein whereas the European children consumed a diet higher in refined 
+carbohydrates and animal protein. Similar trends were seen in other studies that compared 
+residents in non-industrialized and industrialized societies.6, 7 Although these observational 
+studies lay the ground work for the connection between diet and the microbiome in human 
+populations, factors other than diet may influence the composition and function of the 
+microbiome in these different habitats.8
+
+Dietary intervention studies provide a controlled setting in which to study how the 
+composition and function of the microbiome changes in response to diet. These studies show 
+that the gut microbiome often responds quickly to changes in diet.9-13 Of particular interest, 
+dietary interventions also alter the exposure of the host to microbial metabolites although 
+these changes are often transient.14-18 For example, in a randomized, controlled cross-over 
+designed dietary intervention, Costabile et al found that bacterial groups and plasma levels 
+of bacterial phenolic metabolites were altered depending upon the type of fiber ingested in 
+two, three week periods.18 However, the microbial metabolites only increased in one of the 
+treatments suggesting that diet is a complex human exposure that is further complicated by 
+microbial metabolism and the composition of the microbiome.
+
+Epigenetics refers to heritable changes in gene activity that are not caused by changes in the 
+DNA sequence.19 Regulation of gene expression can occur through post translation 
+modification of the amino acids in histone proteins, by methylation of DNA, and at the post-
+transcriptional level by miRNAs.20
+
+Histone proteins are involved in tightly packing chromosomes into chromatin in the nucleus. 
+Modification of histone proteins loosens the chromatin, making it more available for 
+transcription. Post-translational modifications of the N-termini of histone 3 or histone 4, 
+occur by acetylation, methylation, ubiquitination, phosphorylation, or sumoylation. The 
+enzymes involved in these reactions include: histone acetyltransferases (HATs) which adds 
+acetyl groups; histone deacetylases (HDAC), which removes them; histone 
+methyltransferases (MHTs), which add methyl groups to lysine and/or arginine groups; and 
+histone demethyltransferases (DMHTs), which removes them. HATs catalyze the addition 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01.
+
+Epigenetics
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 3
+
+of acetyl groups to the lysine residues of histones that activates normally repressed genes. 
+HDACs are responsible for the removal of these groups and results in gene repression.21, 22 
+Methylation of lysines results in either activation or deactivation of transcription whereas 
+methylation of arginine residues activates transcription. In cancer cells, patterns of histone 
+modifications and methylation differ from normal cells. Hypermethylation of genes involved 
+in pathways identified as the hallmarks of cancer: cell cycle regulation, DNA repair, 
+apoptosis, hormone response, carcinogen metabolism, angiogenesis and metastases are 
+found in several human cancers 2, 23-26
+
+Methylation of DNA in the coding region of a gene, especially the conversion of cytosine to 
+5-methylcytosine, leads to CpG dinucleotides that affect expression of target genes. DNA 
+methylation patterns change in response to environmental factors through DNA 
+methyltransferases (DNMT1, DNMT2 DNMT3A, and DNMT3B) in the presence of S-
+adenoysl-L-methionine.27, 28 Hypermethylation of these CpG dinucleotides or CpG islands, 
+if they are in the promoter regions of a gene, result in transcriptional gene silencing and gene 
+inactivation.20 Methylation has been linked to many diseases, including cancer.29-32
+
+MicroRNAs (miRNA) are small, non-coding RNAs, which inhibit gene expression at the 
+posttranscriptional level. miRNAs are generated by a complex protein system involving 
+transcription of miRNA genes by RNA polymerase II and processing of the pre-miRNA by 
+Drosha and Dicer ribonucleases.33 Mature miRNA are part of an active RNA-induced 
+silencing complex (RISC). miRNAs regulate post-transcriptional expression by either 
+imperfect base-pairing to mRNA or by affecting mRNA stability. Each miRNA controls 
+several genes in related pathways. Aberrant miRNA expression affects signaling pathways 
+associated with the initiation and progression of carcinogenesis.34
+
+The impact of bacterial metabolism of dietary fiber on epigenetics
+
+Meta-analysis of prospective cohort and nested case-control studies have shown an inverse 
+relationship between dietary fiber intake and risk of colon cancer, although these trends tend 
+to be more variable in prospective cohort studies due to confounding variables.35 Increased 
+fiber intake reduces the exposure of gut epithelial cells to toxicants by increasing stool bulk 
+which dilutes fecal carcinogens and decreases transit time. High-fiber foods contain an array 
+of complex phytochemicals that are metabolized by the gut microbiome to short chain fatty 
+acids, isothiocyanates, and polyphenolic derivatives that interact with human gut epithelial 
+cells and may modify epigenetic control of gene expression.
+
+Microbial metabolism of dietary fiber to SCFA
+
+The main types of dietary carbohydrate that escape digestion in the small intestine are 
+resistant starches, non-starch polysaccharides, and oligosaccharides primarily from plants. In 
+westernized populations, approximately 40 g/day of carbohydrates enter the large intestine 
+and undergo microbial metabolism.36 There is a gradient in SCFA production from the 
+proximal largely based on availability of 
+substrate and SCFAs are inversely associated with increased pH in the distal colon. 36 The 
+predominant short chain fatty acids from fermentation are acetate, butyrate, and propionate 
+in a ratio of 3:1:1, although formate, caproate, and lactate are also formed.37
+
+Cancer J. Author manuscript; available in PMC 2015 May 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 4
+
+The fluxes through these pools vary by fiber source and microbial pathways dictated by 
+microbial community composition of the lumen. While acetate is a dominant end product of 
+glycolysis, cross-feeding between groups of bacteria occurs and can influence SCFA 
+pools.38 Butyrate forming bacteria condense acetate from butyrl CoA and external pools of 
+acetate.39, 40 Use of external pools of acetate varies among bacterial species and may alter 
+the amount of acetate and butyrate available to the host. For example, Duncan et al. showed 
+that while F. prausnitizii and Roseburia spp derived about 85% of butyrate carbon from 
+external pools of acetate, Coporcoccus spp. only derived 28%.41 In addition, different 
+sources of carbohydrates produce different amounts of butyrate ranging from 56% with 
+pectin to 90% for xylan. Propionate is also formed via microbial fermentation of 
+carbohydrates. After formation of pyruvate, depending upon the microbial composition, 
+propionate is formed via the succinate or the more minor acrylate pathways from 
+carbohydrates that reach the colon.42 While butyrate supplies the majority of energy to 
+colonic epithelial cells primarily through beta-oxidation, concentrations of SCFA in the 
+colon are also high enough to influence regulation of colon epithelial gene expression.43-45
+
+The role of butyrate in cancer prevention is the result of differences in the underlying 
+physiology of normal or tumor cells.46 Butyrate has differential effects on normal colon 
+epithelial cells depending upon its concentration and the metabolic state of the cell. Butyrate 
+is present in high concentrations in the lumen and is transported into eukaryotic gut 
+epithelial cells.47 In the colon crypts, there is a decreasing concentration gradient of butyrate 
+from the lumen to the bottom of the crypt. In the cells at the bottom of the crypt, normal cell 
+growth is supported by beta-oxidation of butyrate in the mitochondria and little butyrate 
+accumulates in the nucleus.48 There is increased cell proliferation via increased energetics. 
+Normal cells near the lumen experience higher levels of butyrate which accumulates in the 
+nucleus and inhibits HDAC. Cell proliferation is inhibited, apoptosis is induced, and the 
+cells are exfoliated into the lumen. In normal homeostasis, butyrate plays a role in 
+promoting cell turnover of the colonic epithelium. In contrast, metabolism in cancer cells is 
+dominated by aerobic glycolysis which uses glucose over butyrate as the growth substrate. 
+Butyrate can then accumulate in the nucleus where it functions as an HDAC inhibitor and 
+inhibits cell proliferation and induces apoptosis.
+
+While inhibition of HDACs is a common mechanism to inhibit cancer growth, the effect of 
+SCFA on the prevention of colorectal cancer has been inconsistent. This may be due to 
+differences in response among eukaryotic cell lines or effects of other SCFA. For example, 
+acetate, propionate, and caproate have been shown to be inactive as HDAC inhibitors in 
+HT-29 cells,49-51 although the effect on gene expression is not clear in Caco-2 cells.52
+
+Microbial metabolism of glucosinolates to isothiocyanates
+
+Glucosinolates are converted into isothiocyanates (ITC) by either the plant myrosinases, or 
+bacterially produced thioglucosidases. Cooking cruciferous vegetables deactivates the plant 
+myrosinases, and given that most cruciferous vegetables consumed by humans are cooked, 
+gut bacteria play a critical role in converting glucosinolates to ITC. Previous studies have 
+shown that certain species of bacteria, such as Escherichia coli, Bacteroides 
+thetaiotaomicron, Enterococcus faecalis, Enterococcus faecium, Peptostreptococcus sp. and 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 5
+
+Bifidobacterium sp., isolated from the human gut or feces can convert glucosinolates into 
+ITCs and other derivatives.53-55 Controlled feeding studies in humans have shown 
+significant inter-individual differences in urinary ITC excretion after participants consumed 
+the same amount of cruciferous vegetables that had been either heated or microwaved prior 
+to consumption to remove the plant myrosinase activity.56-58 Similar effects have been 
+found in studies with rats.59, 60 This suggests inter-individual differences exist in the activity 
+or composition of the intestinal bacteria involved in ITC formation. In support of this 
+hypothesis, we showed recently that the fecal bacteria from individuals who excrete higher 
+amounts of ITC in their urine after a standard meal of cooked broccoli metabolize more 
+glucoraphanin in-vitro.61
+
+Studies suggest that the exposure to ITCs in-vivo may well translate to prevention or 
+reduction in tumor growth through the effects on DNA methylation, histone modification, 
+and miRNA. Sulforaphane (SFN), an ITC, prevents carcinogen or genetically induced colon 
+cancer in rodent models. Recent studies have shown that sulforaphane is an HDAC inhibitor 
+and leads to an increase in global and local histone acetylation.62, 63 Similar to butyrate, 
+SFN causes p21 upregulation and cell cycle arrest. Further studies in wild-type and APC 
+Min/+ mice showed that a single dose of SFN reduced HDAC activity and increase histone 
+acetylation in colonic mucosa.63 Additionally, SFN has been identified as a DNA 
+demethylating agent in breast cancer cell lines although this has not been verified in colon 
+tissue.64
+
+Polyphenols represent a wide variety of phytochemicals that are divided into several classes 
+according to their chemical structures. They include phenolic acids (hydroxybenzoic acids 
+and hydroxycinnamic acids), anthocyanins, flavonoids (flavanols, flavonols, flavones, 
+flavonones, and isoflavones), stilbenes, lignans, and curcuminoids. These compounds 
+undergo extensive microbial transformations in the colon and also undergo enterohepatic 
+circulation which alters influence host exposure to these compounds and their metabolites. 
+While the dietary polyphenolic compounds have been associated with inducing epigenetic 
+mechanisms, many of the microbial metabolites of polyphenols have yet to be tested even 
+though metabolomics studies identify these compounds in systemic circulation. We present 
+below evidence of the role metabolites of epigallocatechin-3-gallate in green tea and 
+ellagitannins in relation to epigenetic modifications exists.65
+
+Dietary polyphenols
+
+EGCG
+
+Epigallocatechin-3-gallate (EGCG) is a polyphenol found in green tea that has been reported 
+to impact human health including anti-oxidative, blood cholesterol and sugar level lowering, 
+and cancer preventive activities. However, epidemiologic studies show inconsistent results 
+when evaluating green tea consumption in relation to colon cancer risk.66-70 This is in part 
+due to differences in tea consumption habits and failure to account for other factors, such as 
+alcohol consumption or tobacco smoke, which may modify the effect of green tea 
+consumption on health.71, 72 A recent study found that green tea consumed at least three 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 6
+
+times per week for more than 6 months was associated with reduced risk of colorectal cancer 
+by 23% in non-smokers.67
+
+Pharmacokinetic studies show that tea catechins do not appear to accumulate in systemic 
+circulation but do undergo rapid absorption and elimination in humans.73 During this period, 
+they undergo extensive biotransformation by both Phase II enzymes and gut microbial 
+metabolism. The metabolites/catabolites identified include glucuronides and sulfated 
+conjugates of EGCG indicative of Phase II metabolisms, as well as, methylated catechins, 
+ring fission products (like valerolactone), and phenolic products that are indicative of gut 
+microbial transformations. Chow et al showed, in pharmacokinetic studies, that while green 
+tea catechins (EGCG) were present in plasma after a single-dose, the concentration is lower 
+than the amounts of biological activity shown in in vitro studies.73 In contrast, the 
+biotransformed compounds were present in higher amounts than the parent compound, 
+suggesting that metabolites/catabolites should be considered in the biological effects of these 
+polyphenols.
+
+Polyphenols have exhibited differential selection for different species in the microbial 
+community by either acting as an antibiotic or a prebiotic which may influence human 
+exposure to microbial metabolites of polyphenols. Recently, van Dorsten et al showed, in a 
+simulated gut bioreactor, that the type and distribution of microbial metabolites of 
+polyphenols changed as a function of dosing strategy.74 For example, valerolactones, one of 
+the initial fission products of microbial metabolism of catechins, disappeared with 
+continuous dosing. In parallel, Kemperman et al found that there were dramatic shifts in the 
+composition of the microbiome with continual polyphenol dosing, although it is difficult to 
+directly link the disappearance of valerolactones to specific bacteria.75 These studies suggest 
+that diet may alter the microbiome, which in turn alters dietary exposure and down-stream 
+host response.
+
+Green tea polyphenols, specifically EGCG, alter gene expression by influencing DNA 
+methylation patterns and/or histone modification. Several studies have shown that EGCG 
+inhibits both bacterial and eukaryotic DNMT and alters DNA methylation patterns.76, 77 
+This mechanism is mediated by altering the availability of methyl groups that are used to 
+methylate catechol groups on polyphenols by catecohol-O-methyltransferase (EC 2.1.16). 
+Additionally, the microbial metabolites of EGCG, gallic acid (GA) and epigallocatechin 
+(EGC) influence epigenetic gene expression by acting as HAT inhibitors78-82 although not 
+as strongly as EGCG.82
+
+Ellagitannins are polyphenols that are found in fruits, such as pomegranate, raspberries, 
+strawberries, blackberries, and nuts, such as walnuts and almonds. Ingested ellagitannins are 
+hydrolyzed in the stomach and small intestine to ellagic acid. The gut microbiome 
+metabolizes ellagitannins to urolithins by removal of one of the lactone rings and subsequent 
+dehydroxylation in the colon. Enterohepatic circulation of urolithins and ellagic acids alters 
+host exposure to these compounds, and there is large between person variation in urolithin 
+production.83 Recent studies suggest that bacteria from the C. coccoides group and 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01.
+
+Ellagitannins
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 7
+
+Dietary fats
+
+Polyunsaturated Fatty Acids
+
+Actinobacteria are involved in the production of urolithins.83, 84 Specifically, urolithin D 
+was produced followed by urolithin C and urolithin B, and was associated with an increase 
+in Bifidobacteria spp and Lactobacillus spp.
+
+Ellagitannins have strong antioxidant, radical scavenging, anti-viral, anti-microbial, anti-
+mutagenic, anti-inflammatory, anti-tumor promoting, and immunomodulatory properties.85 
+Ellagitannins inhibit proliferation and induce apoptosis of cancer cells through modulation 
+of transcription factors and signaling pathways.85 Ellagitannin treatment of a liver cancer 
+cell line showed increased expression of miRNAs associated with cell differentiation and 
+proliferation in a dose and time dependent manner.86 Metabolites of ellagitannins, ellagic 
+acid and the bacterial metabolites, urolithin B and C, also act as epigenetic modulators. At 
+physiologic concentrations, ellagic acid and urolithins reduced HAT activity in a tumor 
+necrosis factor (TNF) stimulated monocyte cell line82 suggesting a plausible epigenetic 
+mechanism mediated through gut microbial metabolites that is consistent with the 
+observations that ellagitannins are an anti-inflammatory component of diet.
+
+The majority of dietary fats, such as triacylglycerol, saturated and unsaturated fatty acids, 
+and sterols, are absorbed in the small intestine. However, recent studies suggest that 7% of 
+ingested fat is excreted in stool and is likely metabolized by the gut microbiota.87 In 
+addition, bile acids are synthesized in the liver from cholesterol, conjugated with methionine 
+or glycine. Bile is secreted from the gall bladder into the small intestine to help emulsify fats 
+during digestion. Most of the bile acids are absorbed in the ileum and delivered back 
+to the liver. A small amount is delivered to the colon and undergoes anaerobic microbial 
+metabolism to secondary bile acids deoxycholate (DCA), lithocholate (LCA), and 
+ursodeoxycholate (UDCA). Listed below are two examples of microbial metabolism of fats 
+that may influence epigenetics.
+
+Fish oil from cold water fish and plants provides dietary sources of ω 3 long chain 
+polyunsaturated fatty acids  Epidemiologic studies have shown that these 
+fats are protective against colon and prostate cancer although there are conflicting results. 88 
+Prospective studies showed either no effect, increased risk, or reduced risk.89-93 Differences 
+in these outcomes have been attributed to sex differences, cancer stage, site of the disease, 
+and other confounding factors. Case-control studies and experimental studies which focused 
+on a defined dietary intake support the hypothesis of CRC risk reduction by 3ω LC-PUFA. 
+A reduction in histone lysine methylation by 3ω LC-PUFA has been shown to down-
+regulate genes in cancer cell lines .94 Other studies have shown that the type of 3ω LC-
+PUFA is important in miRNA mediated gene expression. Azoxymethane (AOM) tumor 
+induction in rats fed either fish showed that the 
+fish oil intervention produced fewer tumors and the lowest number of differentially express 
+miRNAs.95 The anaerobic bacteria, Roseburia, Bifidobacteria, and Lactobacillus, found in 
+the distal gut, metabolize 3ω LC-PUFA from dietary intake to conjugated linolenic (CLnA) 
+acids.96, 97 Although 3ω LC-PUFA are not produced by bacteria, the availability of 3ω LC-
+
+Cancer J. Author manuscript; available in PMC 2015 May 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 8
+
+PUFA may be influenced by microbial metabolism and may, in part, explain some of the 
+inter-individual variation in the effects of 3ω LC-PUFA on cancer.
+
+Ursodeoxycholate (UDCA)
+
+Colon cancer is associated with a high-fat diet in western populations and rates in non-
+western populations are increasing as a more western, non-traditional diet is adopted.98, 99 
+Recent studies in mice suggest that the gut microbiome influences the size and composition 
+of the bile acid pool throughout the enterohepatic system and exposure may influence cancer 
+risk.100 For example, R. gnavus can convert 7-oxo-lithocholic acid to UDCA.101 A study of 
+the microbiome in colorectal and healthy subjects found a 63% increase in the amount of 
+UDCA in stools of healthy individuals correlated with Ruminococcus sp.102 Secondary bile 
+acids, deoxychloate (DCA), lithodeoxycholate (LDA), and ursodeoxycholate (UDCA) 
+increase in response to high fat diets and are increased in populations with higher incidence 
+of colorectal cancers. In particular, there was a positive association with DCA and colorectal 
+adenomas, a precursor to colorectal cancer.103-109 In contrast, UDCA has been shown in 
+animal and in vitro studies to reduce the risk of cancer dysplasia and cancer 
+development110, 111 and, in a phase III clinical trial, UDCAs reduced the degree of dysplasia 
+in colonic polyps.,112 Recent mechanistic studies suggest that, in contrast to butyrate, 
+UDCA induced cell differentiation and senescence in colon cancer cells via histone 
+hypoacetylation.113
+
+Transformation of dietary compounds by the gut microbiome results in additional 
+environmental exposures that may influence epigenetic mechanisms of gene expression. We 
+presented examples of anaerobic metabolism by gut bacteria that is dynamic and responsive 
+to ingested substrates from myriad dietary sources. Functional genes measured in the gut 
+microbiome suggest that there are basic metabolic pathways that are conserved across all 
+healthy individuals114, 115 which have the core capacity to generate compounds that 
+influence epigenetic pathways of gene expression.109, 110 While colonic epithelium may 
+have immediate exposure to microbial metabolites, many microbial products are absorbed 
+into systemic circulation and may alter gene expression in regions distal to the gut. 
+Integration of dietary intake, measurements of the gut microbiome, and epigenome markers 
+in multi-generational human population studies are needed to understand the influence of 
+these environmental factors on human health.
+
+Summary and Future Directions
+
+Acknowledgments

@@ -1,0 +1,43 @@
+of intravaginal nonoxyl-9 (an ingredient in spermicide and a commonly used cytotoxic control) and univer-
+sal placebo gel (isotonic) found that both have inflammatory effects on cells of the cervix and endometrium12. Additionally, individual ingredients commonly used in vaginal products have been found to alter the electrical 
+resistance and morphology of ectocervical tissue13, and hyperosmolar lubricants have been demonstrated to be 
+cytotoxic to vaginal epithelial cells, some of them also altering inflammatory mediators14. While these products 
+have been shown to negatively impact cells of the female reproductive tract, little is known about how vaginal 
+lubricants impact potentially protective Lactobacillus spp. Over six hours of co-culture, the growth of one laboratory and 6 clinical strains of E. 
+coli were significantly inhibited in coculture with all vaginal products tested (Table 1) except coconut oil (p < 0.02 for 
+all), with an effect seen as soon as 2 hours . After six hours of co-culture, both the laboratory strain and a representative clinical strain of E. coli (from a 
+postmenopausal woman with cystitis) were similarly impacted by the tested products . To test the observed interactions in a more high-fidelity model, the vaginal products with the most significant 
+inhibitory effects in simple co-culture were then co-cultured with bacteria in the presence of an immortalized 
+vaginal epithelial cell line (VK2, ATCC, VA) grown in keratinocyte serum-free (KSF) media. When exposed to a 
+1:100 dilution of KY Jelly, Replens Long-Lasting moisturizer, or Trimo-San in KSF, the laboratory strain of E. coli 
+was inhibited compared to a KSF media control (p = 0.01, Fig. L. crispatus growth was stimulated by Replens Silky Smooth (p < 0.01). Change in bacterial growth with exposure to vaginal products in the presence of vaginal cells. ( b) Final change in growth of 
+L. crispatus, as measured in CFU (in 1:100 diluted product and MRS/KSF cell culture media as control), 
+demonstrating a lack of inhibition by KY Jelly, Replens Long-Lasting moisturizer and Trimo-San, regardless of 
+the presence of human vaginal epithelial cells (p > 0.05). Previously, parabens in mouthwash and vaginal moisturizer have been found to decrease or inhibit oral 
+
+Scientific RepoRtS  |         10:7625  | https://doi.org/10.1038/s41598-020-63652-x
+
+3
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Lactobacillus spp.16. At the 1:100 dilution no products 
+inhibited the growth of Lactobacillus spp., A 
+prospective study of 331 women found spermicide use correlated with increased vaginal colonization with E. coli, 
+which in turn was associated with absent lactobacilli19. While it is reassuring that these products have a uniformly negative effect on uropath-
+ogenic E. coli in vitro, the abrogation of this effect in the presence of human vaginal epithelial cells suggests that 
+the interaction may not be that simple. This suggests factors in 
+addition to concentration of product may contribute to bacterial survival or growth. Our study is limited by the lack of a better human vaginal model. However, results may not be generalizable to other vaginal 
+Lactobacillus spp. In a 96-well microplate, the following were added to each well: 75 µL fresh nutrient broth, 
+50 µL test product, 25 µL E. coli broth culture at 0.5 OD, adapted from Kalyoussef et al.21. Plates were incubated at 37 °C 
+with agitation for 6 hours. The plates were incubated anaerobically at 37 °C without agitation 
+for 12 hours. Supernatants were serially diluted and plated on MRS agar to count colony forming units (CFU) at 
+both the start and end of incubation. After initial experiments to ensure that OD and CFU were measuring com-
+parable phenomena (Supplemental Fig. At the 
+conclusion of the experiment, co-culture broth and negative controls were plated to confirm no contamination 
+during experiments. Bacterial broths 
+were prepared as described previously, and then centrifuged at 1000 RPM for 5 minutes. The bacteria pellet was 
+re-suspended in Gibco keratinocyte serum free media (KSF, Fisher Scientific, MA) (supplemented with epidermal 
+growth factor, bovine pituitary extract and CaCl2 per manufacturer’s instructions) to an OD600 of 0.15. A 96-well tissue culture treated microplate was seeded with 4 × 105 cells per well of an immortalized vaginal 
+epithelial cell line (VK2, ATCC, VA) in KSF. Cell death was assessed with a lactate dehydro-
+genase cytotoxicity assay (Fisher Scientific, MA). The experiment was simultaneously performed without vaginal cells, using 1:100 diluted prod-
+ucts, KSF medium and bacterial suspension. Statistical significance was set at p < 0.05. Received: 13 December 2019; Accepted: 21 March 2020;
+Published: xx xx xxxx

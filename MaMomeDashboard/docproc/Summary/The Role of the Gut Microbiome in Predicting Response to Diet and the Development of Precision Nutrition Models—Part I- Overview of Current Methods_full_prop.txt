@@ -1,0 +1,203 @@
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+and react to form a response, and understanding how these
+responses combine to affect human health. Three studies examined the effect of supplementing nutrients
+to in vitro cultures from human stool  Just 2 were
+observational, cross-sectional studies 
+
+Intervention studies allow researchers to standardize
+the dietary stimulus, providing every participant the same
+amount (or relative amount) and type or quality of ingredi-
+ents. The USDA is an equal opportunity provider and employer. supplementsprovided)
+Standardizeddiet(only
+Controlled
+Cross-over
+Randomized
+
+supplementsprovided)
+Standardizeddiet(only
+Controlled
+Cross-over
+Randomized
+
+supplementsprovided)
+Standardizeddiet(only
+Controlled
+Cross-over
+Randomized
+
+Supplementeddiet
+Cross-over
+Controlled
+Randomized
+
+Supplementeddiet
+Cross-over
+Placebo-controlled
+Randomized
+
+etal.) improvementduringeitherintervention)
+onlowFODMAPdietonly)andNR(no
+Abdominalpainfrequency:R(≥50%decrease
+
+microbialtaxa(LFTs)
+
+cut-oﬀsstated)
+AlsoincreasedSCFAanddecreasedpH(no
+
+Increaseininsulinsensitivityindex(ISI)
+
+HbA1c,insulinsensitivity,bileacids,
+
+Intervention
+
+Humans
+
+bodyfatdistribution
+liverfatcontent,bodycomposition,
+
+Coeﬃcientofchangeinlactose-fermenting
+
+Onlymicrobiotaresponse
+
+InterventionSupplementeddiet
+
+Humans
+
+Colitisscore:R
+
+CecalpH,SCFA,colitisscores
+
+Intervention
+
+Mice(T-bet-/-Rag2-/-versuscontrol
+
+Fermentedmilkproduct(BFMP,
+
+Veigaetal. Data can be transformed
+
+Gut microbiome and precision nutrition: Part I 11
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+TABLE 3 Review of methods used to analyze precision nutrition studies1
+
+Microbiome measures
+
+Association or
+prediction
+
+Statistical methods
+
+Korpela et al. Microbiota composition and function (16S and
+
+Prediction
+
+Linear mixed model
+
+
+
+metagenomics)
+
+Smits et al. Microbiota enterotype (Prevotella to Bacteroides
+
+Association
+
+Mann–Whitney U test or unpaired t-test Wilcoxon
+
+
+
+(P/B) ratio, qPCR)
+
+Zhao et al. Microbiota composition (Bifidobacteria
+
+Association
+
+ANOVA, ANCOVA
+
+Energy restriction and excess
+
+abundance by qPCR)
+
+Cotillard et al. Microbiota composition (qPCR)
+
+Association
+
+Spearman correlation
+
+Hullar et al. Microbiota composition 
+
+Association
+
+
+
+
+
+Chumpitazi et al. The Wilcoxon signed-rank test is used
+to determine if the median of the differences between paired
+responses is different from zero (e.g. within individuals). When a study moves towards the analysis phase of bringing
+together microbiome, diet, and metabolic response, there
+are 2 steps in the process towards development of preci-
+sion nutrition recommendations: 1) identifying associations
+between microbiome features and dietary responsiveness
+and 2) predicting and validating individuals’ response to
+dietary interventions and/or advice (Figure 4). In these cases, various correlation meth-
+ods, such as Spearman, Pearson, Biweight midcorrelation
+ or Co-inertia using the
+
+18 Hughes et al. Some methods may be used when the independent/
+explanatory variables are a mix of both continuous and
+categorical variables. These include ANCOVA, regression,
+linear mixed models
+regression to
+dependent observations), canonical analysis of principal
+coordinates (CAP) 
+and random forests  ANCOVA compares the means of
+a continuous dependent variable across levels of a categorical
+independent variable (i.e. experimental groups) whilst also
+controlling for the effects of other continuous variables (i.e.
+covariates such as BMI, cholesterol, etc.). Correction for multiple hypothesis testing. This method performs best when dimensionality is low (i.e.
+fewer input variables) whereas random forests may perform
+better when dimensionality is high (i.e. many input variables)
+
+
+Bayesian network (BN) analysis is a graphical model
+that depicts the relations between variables and their prob-
+abilities or dependencies. Linear discriminant analysis (LDA) is similar
+to PCA/PCoA. However, in LDA, the groups of interest
+are known a priori and the axes represent
+the linear
+combinations of the measurements that best describe the
+separation between the groups. Both PLS-
+DA and OPLS-DA may utilize weaker sources of variation
+to separate groups but OPLS-DA also eliminates variation
+that is unrelated to the separation of groups, creating a less
+complex model  Although these are powerful methods,
+they may force group separation at the expense of model
+
+FIGURE 5 Decision trees. However, this test
+is not as rigorous as testing in an independent cohort and the
+model may not perform as well when applied to new data
+sets. Mice offer a model in which differences in the gut microbiota
+may be studied in a controlled experimental context, allowing
+for the determination of causality and development of
+
+mechanistic hypotheses  For example, transplantation
+of isolated strains or communities of bacteria into germ-free
+mice is one of the best models in use to demonstrate causal
+relations between the gut microbiota and host metabolism
+ This approach has been used in studies such as
+Kovatcheva-Datchary et al. In vitro studies take place in an isolated system, allowing
+increased control over manipulation of conditions. Kohlmeier M, De Caterina R, Ferguson LR, Gorman U, Allayee
+H, Prasad C, Kang JX, Nicoletti CF, Martinez JA. Mind-altering microorganisms: the impact
+of the gut microbiota on brain and behaviour. Chen T, Long W, Zhang C, Liu S, Zhao L, Hamaker BR. Specificity of polysaccharide use
+in intestinal Bacteroides species determines diet-induced microbiota
+alterations. Hjorth MF, Roager HM, Larsen TM, Poulsen SK, Licht TR, Bahl MI,
+Zohar Y, Astrup A. Pre-treatment microbial Prevotella-to-Bacteroides
+ratio, determines body fat loss success during a 6-month randomized
+controlled diet
+(Lond) 2017; 42
+Int
+580–3. Roager HM, Licht TR, Poulsen SK, Larsen TM, Bahl MI. procedures, analysis pipelines, and analytical methods. As seen in this review, considerable
+progress has been made in recent years, but there is much
+that remains to be done.

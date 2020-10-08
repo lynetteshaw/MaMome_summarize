@@ -1,0 +1,23 @@
+Number of taxa at different ranks
+
+Taxonomy
+
+No. For the tests described here,
+the Bergey corpus was used as the database, and a query was assigned to the
+same genus as the closest-matching sequence from the Bergey corpus (effec-
+tively, k (cid:2) 1). For these high-throughput experiments,
+the RDP Classiﬁer can provide rapid taxonomic placement and
+summary data, including the number of input sequences be-
+longing to each taxon. Unlike the Seq-
+Match nearest-neighbor classiﬁer, the RDP naı¨ve Bayesian
+Classiﬁer uses information averaged over the entire genus and
+hence is less inﬂuenced by individual misplaced training se-
+quences. Sequences for each of the
+11 species type strains of Alicyclobacillaceae available in release 5.0 of
+Bergey’s taxonomic outline, along with additional sequences for four
+Alicyclobacillaceae species type strains that became available after the
+release of the outline (marked with an asterisk), and two Bacillus
+species type strains were analyzed using the weighted neighbor-joining
+method  The tree is rooted using Escherichia coli sequence J01695
+as the outgroup. We chose to use SeqMatch for the comparison, because it, like
+the RDP Classiﬁer, is offered through the RDP.

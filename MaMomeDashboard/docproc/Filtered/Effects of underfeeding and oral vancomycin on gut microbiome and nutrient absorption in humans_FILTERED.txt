@@ -1,0 +1,111 @@
+6_PARAGRAPHS
+
+in  phylum-  or  genus-level  relative  abundance  between  diet  arms, 
+with the exception of the Verrucomicrobia phylum which was sig-
+nificantly  increased  during  UF  (Extended  Data  Fig.  3).  At  a  finer 
+taxonomic level, we were able to identify four 16S ribosomal RNA 
+sequence  variants  that  were  significantly  associated  with  the  diet 
+arm (independent of order): A. muciniphila, Bacteroides coprocola, 
+a  Lachnospiraceae  sp.  and  a  Ruminoccoccus  sp.  .  Taken 
+together,  these  results  indicate  the  overall  resiliency  of  the  gut 
+microbiota faced with differences in caloric intake while also high-
+lighting  a  small  number  of  diet-responsive  bacterial  species  that 
+could contribute to the observed differences in nutrient absorption.
+Next, we used metagenomic sequencing to confirm and extend 
+the  observed  shifts  in  gut  bacterial  relative  abundance.  Samples 
+were  selected  from  18  individuals  at  four  key  time  points  includ-
+ing a baseline  sample,  midpoint samples  during  each 3-d UF and 
+OF period, a sample during the washout period in between and a 
+sample during the vancomycin or placebo arm. In total, we gener-
+ated 381.7 giga base pairs of sequencing data from the 95 samples 
+during  phase  I  (Supplementary  Table  6).  Differentially  abundant 
+bacteria  on  each  diet  arm  (independent  of  order)  were  identified 
+using  a  paired  Wilcoxon  test.  This  analysis  revealed  nine  bacte-
+rial  species  that  were  significantly  different  between  the  two  diet 
+arms , including an enrichment 
+for A. muciniphila during UF, consistent with our 16S rRNA gene 
+sequencing-based  analysis  .  We  also  detected  an  enrich-
+ment for multiple Alistipes species during UF..
+
+Despite increased stool calorie loss with both UF versus OF and 
+vancomycin  versus  placebo,  we  found  markedly  different  effects  of 
+these interventions on the gut microbiota. UF and OF produced little 
+perturbation at the phylum or finer levels, while vancomycin resulted 
+in widespread changes in gut microbial community structure. Despite 
+these differences, we were able to identify two bacterial species that 
+consistently changed in response to both perturbations  based 
+on  16S  rRNA  sequence  variants  analysis:  A.  muciniphila,  a  mucin-
+degrading  bacterium  with  a  putative  role  in  preserving  gut  barrier .
+
+Veillonella dispar
+Veillonella parvula
+Veillonella sp.
+Lactobacillus rhamnosus
+Klebsiella sp.
+Lactobacillus phage Lc_Nu
+Lactobacillus salivarius
+Klebsiella oxytoca
+Megasphaera micronuciformis
+Odoribacter splanchnicus
+Parabacteroides merdae
+Alistipes putredinis
+Erysipelotrichaceae bacterium 21_3
+Lachnospiraceae bacterium 7_1_58FAA
+Ruminococcus sp 5_1_39BFAA
+Clostridium leptum
+Oscillibacter sp.
+Subdoligranulum sp.
+Collinsella aerofaciens
+Eubacterium rectale
+Lachnospiraceae bacterium 3_1_46FAA
+Ruminococcus obeum
+Ruminococcus torques
+Clostridium symbiosum
+Gordonibacter pamelaeae
+Flavonifractor plautii
+Clostridium bolteae
+Clostridium hathewayi
+Lachnospiraceae bacterium 1_4_56FAA
+Ruminococcaceae bacterium D16
+Alistipes onderdonkii
+Alistipes senegalensis
+Eubacterium eligens
+Roseburia hominis
+Ruminococcus lactaris
+Eubacterium ramulus
+Holdemania filiformis
+Dorea formicigenerans
+Coprococcus comes
+Anaerostipes hadrus
+Lachnospiraceae bacterium 5_1_63FAA.
+
+Fig. 5 | changes in the gut microbiome in response to oral vancomycin. a, Overall gut microbial colonization, represented as 16S rRNA gene copies per 
+gram wet weight, between vancomycin and placebo groups (P = 0.26, two-sided unpaired Wilcoxon test). Each data point represents the mean value 
+of samples from each subject (n = 63 samples from 23 subjects). b, Shannon diversity in microbial communities of vancomycin and placebo groups 
+(P < 0.0001, two-sided unpaired Wilcoxon test). Each data point represents the mean value of samples from each subject (n = 70 samples from 24 
+subjects). Boxplots in a and b indicate the interquartile range (IQR, 25th to 75th percentiles), with a center line indicating the median and whiskers 
+showing the value ranges up to 1.5 × IQR above the 75th or below the 25th percentiles. c, Principal coordinate analysis of Bray–Curtis dissimilarity for 
+ordination of microbial communities of subjects on vancomycin or placebo. Each data point shows the mean and standard deviation of samples from each 
+subject (n = 70 samples from 24 subjects; P < 0.0001, determined using Adonis comparing effect of treatment and accounting for repeated measures 
+per subject). d, Heatmap of differentially abundant species, determined by shotgun metagenomic sequencing, between vancomycin (n = 8) and placebo 
+(n = 10) groups (FDR < 0.05, two-sided unpaired Wilcoxon test). Letters represent subject identity. e, Venn diagram of 16S rRNA sequence variants 
+significantly different between vancomycin and placebo, or UF and OF, respectively (FDR < 0.1, two-sided unpaired or paired Wilcoxon test). Two bacterial 
+species consistently changed in response to both perturbations: A. muciniphila and an unidentified species belonging to Lachnospiraceae NK4A136 group..
+
+Our  results  provide  insights  into  potential  mechanisms  that 
+could explain the increased stool calories loss. Both perturbations 
+(UF and vancomycin) resulted in a significant increase in the rela-
+tive abundance of A. muciniphila, which is recognized for its ability 
+to forage on host mucins42. In mice, A. muciniphila counteracts the 
+effect of the decrease in mucous layer thickness produced by a high-
+fat diet26, producing weight loss without changes in food intake. A. 
+muciniphila increases turnover of the mucous layer preventing dis-
+ruption of tight junctions, which may reduce gut permeability43,44. 
+In  humans,  a  randomized,  double-blind,  placebo-controlled  pilot 
+study revealed a trend towards decreased body weight and fat mass .
+
+in  response  to  A.  muciniphila  supplementation45.  Administration 
+of  pasteurized  A.  muciniphila  cells45  in  this  study  increased  stool 
+energy content, consistent with our results. Additional studies are 
+warranted to elucidate the role and mechanisms of A. muciniphila 
+in nutrient absorption.

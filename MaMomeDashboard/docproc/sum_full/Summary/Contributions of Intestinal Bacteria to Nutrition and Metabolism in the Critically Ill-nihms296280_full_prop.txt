@@ -1,0 +1,92 @@
+Page 2
+
+MICROBES AND NUTRITION DURING CRITICAL ILLNESS
+
+It has been known for decades that intestinal bacteria make important contributions to
+human metabolism and physiology. The implications of this research for
+assessing and meeting the nutritional needs of critically ill patients are substantial. Author manuscript; available in PMC 2012 August 1. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Morowitz et al. In this section, we summarize what is known about how
+microbes directly impact human nutrition. Page 4
+
+Utilization of complex polysaccharides via fermentation by anaerobic bacteria in the large
+intestine results in the accumulation of short chain fatty acids (SCFA)  The principal
+SCFAs seen in the colon, acetate, propionate, and butyrate, have inherent nutritional value,
+but also impact gut epithelial physiology in other ways. Propionate metabolism is poorly
+understood but appears to involve transport to the liver by the portal circulation. Mechanistic studies in gnotobiotic animals further demonstrated that, when B.
+thetaiotaomicron senses a scarcity of fucose in the intestinal lumen, it actually induces the
+gut epithelium to upregulate expression of fucosylated glycans that can be used by the
+bacteria as an energy source without harming the host  This body of work illustrates
+how the remarkable host-microbe symbiosis can be teased apart by pairing genomic
+sequencing efforts with creative in vivo laboratory studies. This is partly because
+conventional wisdom states that all essential amino acid requirements in humans must be
+supplied by the diet  however, emerging evidence indicates that gut microbes can
+impact nitrogen balance by de novo synthesis of amino acids and intestinal urea recycling. Some of the ammonia
+can be utilized for microbial synthesis of amino acids. By use of x-ray absorptiometry and epididymal fat pad weight analysis, it
+was demonstrated that wild-type (WT) animals contained 42% more total body fat than GF
+animals, despite a higher metabolic rate and a reduced daily consumption of standard chow
+ To mechanistically evaluate this finding, the authors transferred the microbiota of WT
+animals to GF animals. Intriguingly, colonization of GF mice with just a single gut microbe (B. thetaiotaocmicron,
+discussed above) also yielded a significant increase in total body fat content, although the
+increase in fat content was less than that seen with transfer of the complete mouse
+microbiota. Even more between group differences were detected in the liver lipid profiles. Vitamins
+
+Page 6
+
+Most human diets provide a robust supply of vitamins, the essential human nutrients that
+must be obtained from exogenous sources. Likewise, it has been
+estimated that up to half of the daily Vitamin K requirement is provided by gut bacteria 
+Interestingly, the molecular structure of bacterially synthesized vitamins is not always
+identical to the dietary forms of the vitamins. LESSONS LEARNED FROM STUDIES OF NUTRIENT EXCESS AND
+
+DEPRIVATION
+
+Obesity
+
+Studying the relationship between the gut microbiota and energy balance in the extreme
+states of obesity and starvation may improve our ability to assess and satisfy nutritional
+needs in the ICU. Subsequently, several studies have contrasted gut microbes in newborn animals
+
+Surg Clin North Am. Page 8
+
+WHAT HAPPENS TO THE MICROBIOME DURING CRITICAL ILLNESS? receiving either enteral or parenteral nutrition. These studies suggest that TPN-fed animals
+have an increased relative abundance of potential pathogens, such as Clostridium
+perfringens, that can forage on glycans lining the gut epithelium  However, it is not
+known if these findings can be extended to critically ill adults that have shifted abruptly
+from the fed to the fasting state. To understand further how microbial ecology is
+altered during fasting, Costello, et al. To date, evaluations of the microbial ecology of the ICU have largely been restricted to
+culture-based studies. Although we lack a comprehensive molecular readout of gut microbes in the ICU, several
+human and animal studies provide clues about how the microbiota is altered by common
+ICU exposures. Page 9
+
+SELECTIVE MANIPULATION OF THE GUT MICROBIOTA IN THE ICU
+
+hypoxia, are also known to perturb the microbiota and encourage the overgrowth of
+pathogens  Some of the most commonly used pharmaceutical agents in the ICU,
+including acid suppression therapies, vasopressors, and opioids, are known to impact the
+human microbiota  Finally, our group was the first to demonstrate that the use of
+total parenteral nutrition or enteral nutrition with processed liquid diets dramatically alters
+the intestinal microbiota such that bacterial translocation to extraintestinal sites is promoted. As a result, interventions in this
+field have been introduced with a limited scientific foundation. Nonetheless, several
+strategies to optimize the microbiome have now been evaluated clinically. Others with obvious relevance to nutrition are discussed. As a result, a precise understanding of
+how decontamination protocols work is lacking. Most mechanistic studies in this area have centered upon production of
+antimicrobial substances to inhibit colonization by pathogens, enhance the mucosal barrier
+function, and downregulate mucosal inflammation  It is particularly interesting that,
+despite the growing awareness of how gut microbes contribute to energy balance and despite
+the administration of probiotics/prebiotics as nutritional supplements, little research on this
+topic has focused on how these agents specifically impact nutrition, metabolism, or energy
+balance. The increased mortality was attributed to a high incidence of
+intestinal ischemia, although a direct link between the probiotic and bowel ischemia was not
+proven  A subsequent meta-analysis concluded that probiotics do not influence
+mortality in the treatment of acute pancreatitis  however, the results of the Dutch study
+have raised important questions about the whether and how probiotics should be
+administered to vulnerable populations. Most recently
+we have shown that surgical injury causes a rapid depletion of mucus phosphate, thereby
+inducing certain strains of pathogenic bacteria to upregulate their virulence against the
+intestinal epithelial barrier  Most bacteria that cause serious infections in ICU patients
+are equipped with exquisite sensory mechanisms to detect the level of local phosphate
+concentration.

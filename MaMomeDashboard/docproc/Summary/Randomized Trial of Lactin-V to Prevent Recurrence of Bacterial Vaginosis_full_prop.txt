@@ -1,0 +1,212 @@
+Lactobacillus crispatus  CTV-05  (Lactin-V,  Osel) 
+is  a  live  biotherapeutic  product  that  contains  a 
+naturally occurring vaginal strain of L. crispatus. Copyright © 2020 Massachusetts Medical Society. Subsequently, participants were to 
+administer four consecutive daily doses of Lactin-V 
+or  placebo  during  week  1,  followed  by  twice-
+weekly doses for 10 weeks. Ran-
+domization was performed in permuted blocks 
+with the use of the online enrollment module 
+of  AdvantageEDC  software  (Emmes). Before  un-
+blinding of the treatment-group assignments oc-
+curred, a case-review committee identified par-
+ticipants who had had protocol deviations, such 
+as the use of prohibited medications, trial visits 
+outside  the  protocol-specified  time  window,  or 
+poor adherence to the assigned treatment; these 
+participants were excluded from the per-protocol 
+analyses (see the Methods section in the Supple-
+mentary Appendix). The 
+data from the questionnaire are not reported here.) In  addition,  at 
+each  trial  visit,  participants  were  asked  about 
+any other (unsolicited) adverse events. The severity of all ad-
+verse  events  was  graded  according  to  grading 
+tables  provided  by  the  Division  of  AIDS  of  the 
+
+1908
+
+n engl j med 382;20  nejm.org  May 14, 2020
+
+The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. Statistical Analysis
+The efficacy analyses were performed in several 
+analysis populations. For  the  intention-
+to-treat  and  modified  intention-to-treat  analy-
+ses, when diagnoses of bacterial vaginosis were 
+missing, the data were imputed with the use of 
+two  single-imputation  methods,  one  of  which 
+was the last observation carried forward. The  widths  of  the  confidence  inter-
+vals  were  not  adjusted  for  multiplicity,  so  the 
+intervals should not be used to infer definitive 
+treatment  effects  for  the  secondary  or  other 
+outcomes. Enrollment, Randomization, and Follow-up. Efficacy
+Primary Outcome
+Among  the  228  participants  who  underwent 
+randomization, the status of recurrence of bac-
+terial vaginosis was known for 197 participants 
+ In the intention-to-treat population, re-
+currence  of  bacterial  vaginosis  by  week  12  oc-
+curred in 46 participants in the Lactin-V 
+group  and  in  34  participants   in  the  pla-
+cebo group (risk ratio, 0.66; 95% confidence in-
+terval [CI], 0.44 to 0.87; P = 0.01) (Table 2). Lactin-V to Prevent Recurrence of Bacterial Vaginosis
+
+Table 1. Demographic and Clinical Characteristics at Baseline in the Intention-to-Treat Population.* American Indian or Alaskan Native
+
+Native Hawaiian or other Pacific Islander
+
+Variable
+
+Age — yr
+
+Asian
+
+Black
+
+White
+
+Multiracial
+
+Unknown
+
+Hispanic or Latino ethnic group — no. (%)† Married
+
+Divorced or separated
+
+Single, never married
+
+Widowed
+
+Steady partner, cohabitating
+
+Steady partner, not cohabitating
+
+Casual partner
+
+Sexual intercourse in the previous 30 days — no. (%) None
+
+1 or 2
+
+3 or 4
+
+≥5
+
+Unknown
+
+Lactin-V 
+(N = 152)
+
+30.7±6.8
+
+2 
+
+6 
+
+1 
+
+64 
+
+55 
+
+10 
+
+14 
+
+30 
+
+7 
+
+7 
+
+49 
+
+2 
+
+37 
+
+37 
+
+13 
+
+123 
+
+1.7±2.0
+
+1.6±1.8
+
+7 
+
+33 
+
+23 
+
+78 
+
+11 
+
+Placebo 
+(N = 76)
+
+31.4±7.1
+
+1 
+
+3 
+
+0
+
+31 
+
+26 
+
+7 
+
+8 
+
+15 
+
+10 
+
+2 
+
+20 
+
+0
+
+15 
+
+21 
+
+8 
+
+69 
+
+1.5±1.7
+
+1.7±1.5
+
+4 
+
+14 
+
+13 
+
+38 
+
+7 
+
+*  Plus–minus values are means ±SD. Percentages may not total 100 because of rounding. †  Race and ethnic group were reported by the participant. Secondary Outcomes
+Among  the  participants  without  known  recur-
+rence of bacterial vaginosis by week 12, a total 
+of 13 of 106 participants in the Lactin-V 
+group and 7 of 42 participants in the pla-
+cebo  group  had  a  recurrence  by  week  24. †  This variable represents the primary outcome. The incidence and risk ratio for each vari-
+able are provided in Table S3. (The circles below the blue bar at week 4 represent outliers.) The size of each 
+blue bar represents the interquartile range. and was 5.6×106 CFU per milliliter at week 24 
+. Solicited Local (Genitourinary) Adverse Events, 
+According to Treatment Group. Overall,  adherence  to  the  assigned 
+treatment  was  high. T h e  n e w   e ng l a n d   j o u r na l   o f  m e dic i n e
+
+24  weeks  of  follow-up. A data sharing statement provided by the authors is available 
+
+with the full text of this article at NEJM.org. Disclosure forms provided by the authors are available with 
+
+the full text of this article at NEJM.org.

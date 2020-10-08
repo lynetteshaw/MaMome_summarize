@@ -1,0 +1,59 @@
+3_PARAGRAPHS
+
+Genomic analysis of gut bacteria offers vivid examples of the role of microbes in nutrient
+utilization. For example, in 2003, Xu, et al. published the complete genome sequence of the
+gram-negative anaerobe Bacteroides thetaiotaomicron, a prominent member of the normal
+intestinal microbiota  Annotation and analysis of the genome revealed a sophisticated
+apparatus for acquiring and digesting otherwise unusable dietary polysaccharides. This
+apparatus, including a complex, multi-component, multi-enzyme complex starch utilization
+system (SUS), consists of over 230 glycoside hydrolase and 15 polysaccharide lyase genes
+ The genomic analysis demonstrated that B. thetaiotaomicron has evolved the
+remarkable capacity to sense the availability of carbohydrates in its microenvironment, and
+that it also has the ability to forage and utilize host-derived glycans (e.g., mucin and
+heparin). Mechanistic studies in gnotobiotic animals further demonstrated that, when B.
+thetaiotaomicron senses a scarcity of fucose in the intestinal lumen, it actually induces the
+gut epithelium to upregulate expression of fucosylated glycans that can be used by the
+bacteria as an energy source without harming the host  This body of work illustrates
+how the remarkable host-microbe symbiosis can be teased apart by pairing genomic
+sequencing efforts with creative in vivo laboratory studies..
+
+If one accepts that a “healthy” intestinal microbiota serves important biological functions,
+then it is reasonable to hypothesize that gut microbial communities can be manipulated or
+“optimized” during critical illness to increase the chances of achieving desired clinical
+outcomes. In theory, manipulation of the gut microbiota could be used to improve energy
+balance and decrease the incidence of infectious complications. A fundamental problem
+with clinical application of this theory has been that we lack a detailed understanding of if
+and how the microbiome is altered during critical illness. As a result, interventions in this
+field have been introduced with a limited scientific foundation. Nonetheless, several
+strategies to optimize the microbiome have now been evaluated clinically. Some, such as the
+recent description of fecal transplantation for Clostridium difficile colitis  will not be
+discussed here. Others with obvious relevance to nutrition are discussed..
+
+Another possible approach to improve outcomes for critically ill patients is to manipulate the
+intestinal microenvironment to maintain the local microbial ecology of the GI tract
+indirectly. It is well established that the use of vasoactive pressors, antibiotics, and highly
+processed nutrients will change not only the local microbiota, but also pH, oxygen tension,
+SCFA production, and various critical micronutrients that maintain the health of normal
+intestinal microbes. Our group and others have shown that maintenance of a more acidic
+intestinal pH through the course of surgical injury and administration of oral pH solutions
+enhance local intestinal immunity and prevent lethal gut-derived sepsis . Most recently
+we have shown that surgical injury causes a rapid depletion of mucus phosphate, thereby
+inducing certain strains of pathogenic bacteria to upregulate their virulence against the
+intestinal epithelial barrier  Most bacteria that cause serious infections in ICU patients
+are equipped with exquisite sensory mechanisms to detect the level of local phosphate
+concentration. Phosphate concentration is a key trigger by which bacteria activate their
+virulence machinery to, in some cases, cause lethal sepsis. When phosphate levels are high
+at sites of local microbial colonization, such as the intestinal mucus, microbes use the PhoB
+phosphosensory/phosphoregulatory system to repress virulence activation. However, during
+phosphate depletion, the PhoB system is derepressed and virulence is activated even to the
+point of tissue invasion, immune activation, and organ failure  The PhoB and analogous
+systems are highly conserved among microbes and offer an opportunity for clinicians to
+understand the precise host signals that trigger microbes to transform from indolent
+colonizers to lethal pathogens rapidly. We have shown in animal studies that maintenance of
+local phosphate concentration can suppress virulence activation among highly pathogenic
+bacteria such as P. aeruginosa even during periods of severe physiologic stress  This
+also appears to be the case for other pathogens such as C. albicans and E. faecalis
+(unpublished observations). Therefore, providing therapies at the microenvironmental level
+could be a novel approach to create molecular diplomacy between pathogen and host
+through the course of severe physiologic stress such as that which occurs during human
+critical illness.

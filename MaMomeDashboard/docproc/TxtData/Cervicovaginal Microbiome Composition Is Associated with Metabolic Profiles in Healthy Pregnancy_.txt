@@ -1,0 +1,924 @@
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al.
+
+®
+
+many healthy women lacking BV symptoms have vaginal microbiomes dominated
+by microbes associated with BV, resulting in debate about the deﬁnition of a healthy
+vaginal microbiome. Despite substantial evidence that the reproductive health of a
+woman depends on the vaginal microbiota, future therapies that may improve re-
+productive health outcomes are stalled due to limited understanding surrounding
+the ecology of the vaginal microbiome. Here, we use sequencing and metabolomic
+techniques to show novel associations between vaginal microbes and metabolites
+during healthy pregnancy. We speculate these associations underlie microbiome dy-
+namics and may contribute to a better understanding of transitions between alter-
+native vaginal microbiome compositions.
+
+KEYWORDS Lactobacillus, longitudinal, metabolome, microbiome, pregnancy, vagina
+
+Vaginal microbes sustain important physiologies and produce metabolites that can
+
+directly or indirectly affect maternal health and infant development during preg-
+nancy. Perturbations to early-life microbiomes and associated metabolic dysfunction
+have been linked with allergy and autoimmune diseases such as asthma  For
+example, regular prenatal and postnatal farm exposure, i.e., contact with a diversity of
+microbes during pregnancy and infancy, have been shown to reduce the incidence of
+chronic health diseases such as asthma and atopy  Moreover, recent research has
+supported the idea of fetal programming, a term describing the process by which the
+maternal microbiota, as well as maternal antibodies, prepare the infant immune system
+for the postnatal onslaught of colonizing microbes  Others have shown in mice that
+vaginal dysbiosis, induced by maternal stress, has the potential to negatively affect
+offspring metabolic proﬁles  Thus, maternal microbes, particularly those of the
+vaginal tract, are some of the ﬁrst microbes the offspring will encounter and may be
+central to the study of early-life microbiome and immune development  Indeed,
+a recent large-scale study of 2,582 women, over 600 of whom were pregnant (a subset
+of whom were longitudinally sampled), provided evidence for vaginal microbiome
+restructuring during pregnancy toward a Lactobacillus-dominated community  This
+occurred early in gestation and was associated with a reduced vaginal microbiome
+metabolic capacity. Postpartum,
+irrespective of the mode of delivery, the vaginal
+microbiota resembled that of a gastrointestinal microbiome, likely due to microbial
+mixing during the birthing process  suggesting that both vaginal and gastrointes-
+tinal microbial seeding of the neonate occurs.
+
+The human vaginal microbiome maintains low diversity in low-pH conditions and
+depends on host sugars as carbon sources, with less access to dietary and exogenous
+nutrients than the gut, skin, or oral cavity. Historically, vaginal microbial communities
+have been stratiﬁed based on hierarchical clustering of the taxa composition 
+Keystone species include Lactobacillus crispatus and Lactobacillus gasseri, which have
+been associated with maintenance of a simple vaginal microbiome by their production
+of bacteriostatic and bactericidal compounds (e.g., lactic acid and hydrogen peroxide)
+and maintenance of a low pH numerically and functionally dominating their
+respective vaginal communities. A closely related species, Lactobacillus iners, has been
+associated with health-promoting beneﬁts; however,
+its genome also encodes the
+capacity to promote microbiome perturbation by increasing vaginal pH and producing
+species-speciﬁc virulence factors  the most common
+gynecological condition in reproductive-age women 
+is characterized by the
+presence of a more diverse vaginal microbiome and associated with adverse pregnancy
+outcomes, including preterm birth  and spontaneous abor-
+tion  Recently, vaginal microbial transplants have been successfully imple-
+mented as a treatment for intractable BV  Despite L. crispatus generally being
+regarded as a highly beneﬁcial and dominant microbe throughout pregnancy, healthy
+women from different ethnic groups have markedly different species dominating the
+vaginal microbiome  In fact, many healthy women who lack BV symptoms have
+vaginal microbiomes dominated by microbes that are associated with BV  suggest-
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 2
+
+Microbiome Composition in Healthy Pregnancy
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+FIG 1 Study outline. Eighteen women were sampled throughout pregnancy and their offspring were sampled at
+birth and 6 and 12 months of age. Samples collected were urine, saliva, and cervical vaginal ﬂuid (CVF) from the
+mothers and urine and saliva from the children. CVF was sequenced using shotgun metagenomics and amplicon
+sequencing. All samples were analyzed using GC-TOF MS and lipidomics.
+
+ing that taxonomy alone is insufﬁcient to predict health outcomes and that microbial
+activities, including metabolic productivity, may offer a more contemporary view of
+microbiome function.
+
+An untargeted, more global assessment of microbiomes and associated metabolites
+during pregnancy and early life is lacking. To address this gap in knowledge, we
+collected saliva, urine, and cervical vaginal ﬂuid (CVF) from 18 mothers during each
+trimester of pregnancy and saliva and urine from offspring through their ﬁrst year of
+life. Speciﬁcally, we were interested in how maternal CVF microbiome proﬁles are
+associated with metabolomic assessments of the same samples. Furthermore, we had
+the opportunity to examine whether maternal saliva and urine metabolome proﬁles
+relate to those of the infant in the ﬁrst year of life. Here, we present DNA sequencing
+(amplicon and shotgun) and untargeted metabolomics to characterize microbial and
+metabolic features of the CVF microbiome throughout pregnancy to determine the
+composition of the vaginal microbiome from a cohort of healthy Caucasian and
+Hispanic women, longitudinally sampled throughout a healthy pregnancy.
+
+RESULTS
+
+Description of the cohort and data obtained from samples. Saliva, urine, and
+cervical vaginal ﬂuid (CVF) were collected from 18 women at early, middle, and late
+pregnancy with the gestational age range of the included women at each time point
+. At the time of enrollment into the cohort, the average woman’s age was
+27.8 years old, and the average prepregnancy body mass index (BMI) was 24.8 kg/m2
+(Table 1). The cohort was 39% white Hispanic and 61% non-Hispanic white; there were
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 3
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al.
+
+Maternal ID
+1018
+1062
+1088
+1089
+1103
+1111
+1120
+1126
+1137
+1146
+1151
+1157
+1180
+1191
+1198
+1201
+1202
+1222
+
+TABLE 1 Demographics of the 18 mothers who participated in the study
+
+Race and ethnicity
+White Hispanic
+White Hispanic
+White non-Hispanic
+White non-Hispanic
+White non-Hispanic
+White Hispanic
+White non-Hispanic
+White Hispanic
+White Hispanic
+White non-Hispanic
+White non-Hispanic
+White non-Hispanic
+White non-Hispanic
+White Hispanic
+White non-Hispanic
+White non-Hispanic
+White Hispanic
+White non-Hispanic
+
+Age (yr)
+35
+23
+26
+22
+27
+38
+34
+19
+31
+29
+30
+28
+29
+31
+26
+30
+20
+24
+
+BMI (prepregnancy [kg/m2])
+27.4
+25.3
+25.8
+21.8
+24.5
+27.9
+26.9
+27.8
+23.5
+23.5
+22.4
+18.9
+24.9
+22.7
+24.8
+29.9
+24.7
+24.0
+
+no signiﬁcant differences in BMI (t test; P (cid:2) 0.28) or age (t test; P (cid:2) 0.89) between ethnic
+groups. Saliva and urine were collected at indicated intervals from each infant up until
+1 year of age . Saliva, urine, and CVF samples were subjected to metabolomics
+analysis, whereas only CVF was used for sequence analysis. Sequence analysis included
+amplicon-based sequencing of the 16S rRNA gene (bacteria and archaea) and ITS2
+(fungi) loci and shotgun metagenomic sequencing of the entire microbial community.
+Vaginal microbiota support high abundances of Lactobacillus and Biﬁdobacte-
+riaceae throughout pregnancy. Sixteen individuals produced suf-
+ﬁcient sequence reads for taxonomic assignment using the 16S rRNA gene. Amplicon
+sequencing stratiﬁed cervical samples into those where the most abundant taxon was
+Lactobacillus spp. . The
+bacterial taxa in samples with abundant Lactobacillus spp. were signiﬁcantly less evenly
+distributed (linear mixed-effects [LME] modeling; P (cid:2) 0.001; Fig. 2C), with Gardnerella
+vaginalis being the most abundant in seven of eight samples 
+and a Shuttleworthia taxon being most abundant in one sample (at 23% relative
+abundance). In samples where Lactobacillus spp. had the highest abundance, a single
+taxon comprised 50% or more of the sequencing reads  L. iners was the
+most abundant taxon detected in 14 samples from 7 subjects, with a median relative
+abundance of 79%. In 12 samples from 7 subjects, a Lactobacillus taxon, putatively
+identiﬁed as L. crispatus through metagenomic sequencing , had a
+median relative abundance of 96% and persisted at a relative abundance greater than
+90% in subjects 1088, 1120, and 1191. Altogether, the most abundant 3 taxa, L. iners
+(operational taxonomic unit 1 [OTU_1]), L. crispatus (OTU_2), and G. vaginalis (OTU_3),
+comprised 66% of the total bacterial sequencing reads.
+
+Whole-genome shotgun sequencing produced, on average, 2.9 million paired-end
+reads per sample, which decreased to an average of 220,355 paired-end reads per
+sample following removal of reads that aligned to the human genome. Thirteen
+individuals produced sufﬁcient sequence reads for taxonomic as-
+signment, which was concordant with 16S rRNA gene sequence results .
+Most of the reads classiﬁed as L. crispatus or L. iners mapped to a single metagenomic
+assembled genome, with completeness of 95.7% and 97.1% and redundancy of 0% and
+1.4%, respectively.
+
+Twelve samples from seven subjects produced ITS2 sequences ; we do not
+have quantitative data characterizing the abundance of bacterial or fungal biomass.
+Eleven samples from six subjects contained species of Candida, classiﬁed as C. albicans
+, the most abundant fungal taxon in these data. Shotgun metagenomics
+conﬁrmed these results and allowed for additional identiﬁcation of reads mapping to
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 4
+
+Microbiome Composition in Healthy Pregnancy
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+FIG 2 Taxonomy and alpha diversity of vaginal microbiomes during pregnancy. (A) Relative abundance plot of operational taxonomic units, from 16S
+amplicon data, grouped together by individual. Each individual is clustered into a larger category deﬁned by the dominating microbe. (B) Presence or
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+(Continued on next page)
+
+mbio.asm.org 5
+
+Oliver et al.
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+FIG 3 Ordination of vaginal microbiomes during pregnancy. (A) Nonmetric multidimensional scaling (nMDS) of Bray-Curtis dissimilarity between vaginal
+microbiomes (n (cid:2) 42 samples) of mothers. Color indicates the most abundant microbe within the microbial community. The most abundant microbe in the
+community plays a statistically signiﬁcant role in the composition of the community (LME; R2 (cid:2) 69%; P (cid:3) 0.0001). (B) Some participants 
+experienced large, signiﬁcant shifts (LME; P (cid:2) 0.0219) in their microbiomes throughout the trimesters of pregnancy.
+
+taxa such as Malassezia spp. . Subject 1,088 was the only participant to deviate
+from this trend, with a high relative abundance of Aspergillus during the ﬁrst trimester
+of pregnancy .
+
+Alpha diversity indices based on 16S rRNA and ITS2 data, when available, were
+compared across trimesters. While some subjects exhibited qualitative evidence of
+compositional shifts in vaginal microbiota with advancing gestation , we did
+not observe a signiﬁcant difference in bacterial richness (number of observed OTUs)
+(LME; P (cid:2) 0.17), evenness (Pielou’s evenness index)  or phylogenetic
+diversity (LME; P (cid:2) 0.21) across trimesters .
+
+Highly abundant bacterial taxa were signiﬁcantly associated with community
+composition. A nonmetric multidimensional scaling (nMDS) plot of Bray-Curtis
+dissimilarities showed that vaginal communities clustered by their most abundant
+bacterium . This association between the most abundant bacterial taxa and
+microbial composition of the sample was signiﬁcant and explained more than half
+of the variance using permutational multivariate analysis of variance (PERMANOVA)
+(R2 (cid:2) 56%; P (cid:2) 0.0001). To account for repeated measures from longitudinal samples
+from the same individual, we also performed an LME, which required dimensional
+reduction (LME; R2 (cid:2) 69%; P (cid:3) 0.0001). Communities with abundant L. crispatus were
+more similar to each other, sharing more than 90% similarity,
+in comparison to
+communities where a different bacterial species was most abundant. While some
+individuals exhibited a relatively stable microbial community over time, others 
+experienced shifts in composition, resulting in a statistically signiﬁcant change in
+Bray-Curtis dissimilarity on PC axis 1 between trimesters .
+
+The ﬁve subjects with Candida detected in at least one of two longitudinally paired
+samples displayed a signiﬁcant increase in intersample Bray-Curtis dissimilarity in their
+bacterial proﬁles over that interval (e.g., the intervals between trimester 1 to 2, 2 to 3,
+or 1 to 3), suggesting the presence of Candida may be associated with greater shifts in
+bacterial composition than those who had no Candida detected .
+
+FIG 2 Legend (Continued)
+absence of fungi, at the genus level, per sample. Linear mixed-effects models (LME) were done on the alpha diversity metrics to account for repeated
+measures in the data. (C) Evenness between samples dominated by Lactobacillus (n (cid:2) 34 samples) is signiﬁcantly lower than samples dominated by
+Biﬁdobacteriaceae (n (cid:2) 7 samples). (D) No signiﬁcant change in the observed OTUs between the trimesters (n (cid:2) 15, 13, and 14 samples, respectively) of
+pregnancy and likewise. (E and F) There was no change in evenness (E) or phylogenetic diversity (F) throughout pregnancy.
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 6
+
+Microbiome Composition in Healthy Pregnancy
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+FIG 4 Relationship between vaginal microbes and metabolites. (A) Distance-based linear model recapitulates the relationship between the vaginal
+microbiomes of these subjects (n (cid:2) 42 samples). Superimposed are vectors showing which annotated GC-TOF MS molecules are best correlated with these
+microbial communities. Length and direction of vectors correspond to the strength of the association between the metabolite and the microbial communities.
+Box plots show the raw abundance (n (cid:2) 45 samples) of indole-3-lactate (B) and mannitol (C).
+
+Metabolites have strong associations with vaginal microbial community struc-
+tures. Using gas chromatography-time of ﬂight mass spectrometry (GC-TOF MS), we
+detected 330 metabolites from urine, saliva, and CVF with 133 identiﬁed compounds.
+In the same samples, 1,946 metabolites were also detected by liquid chromatography-
+quadrupole time of ﬂight tandem mass spectrometry (LC-QTOF MS/MS) (lipidomics;
+Table S1), with an additional 353 identiﬁed compounds. The CVF metabolome as
+assessed by both mass spectrometry methods did not signiﬁcantly differ across trimes-
+ters (LME; P (cid:2) 0.6378 for GC-TOF MS; P (cid:2) 0.3942 for liquid chromatography-tandem
+mass spectrometry [LC-MS/MS]). This stability was even true for the subset of individ-
+uals who exhibited shifts in microbiota composition over trimesters (LME; P (cid:2) 0.6594
+for GC-TOF MS; P (cid:2) 0.2482 for LC-MS/MS). CVF samples dominated by distinct bacte-
+ria exhibited signiﬁcant differences in metabolic proﬁles (PERMANOVA; R2 (cid:2) 12%;
+P (cid:2) 0.0195). A constrained, distance-based ordination plot recapitulated 67% of the
+community variation observed in the vaginal microbiota . Superimposed on the
+ordination plot are GC-TOF MS predictor metabolites, calculated using the distance-
+based linear models (DISTLM) program in PRIMER-e. Indole-3-lactate (ILA) accounted for
+27% of the variation observed in the vaginal microbiota data and was found to be more
+abundant in vaginal microbiota with abundant L. crispatus . Mannitol was also
+more abundant in samples dominated by L. crispatus . In parallel, we found that
+a pathway for mannitol-1-phosphate production is also more abundant in shotgun
+metagenomic data sets of CVF samples dominated by L. crispatus . This linear
+model identiﬁed the top 10 annotated GC-TOF MS metabolites that were associated
+with variation in the microbial community composition, which are shown in Fig. 4A;
+these 10 metabolites together might explain almost 57% of the total variation in the
+microbial community composition. A permutated random forest recapitulated what we
+identifying mannitol and indole-3-lactate as two of the top
+found in the DISTLM,
+variables of importance, speciﬁcally for distinguishing microbiomes with high abun-
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 7
+
+Oliver et al.
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+FIG 5 Ordination of functional pathways within the vaginal microbiome. An nMDS of HUMAnN2 analysis, examining the abundance
+of pathways in each microbiome (n (cid:2) 35 samples). Vaginal microbiomes have functions that are indicative of the most abundant
+microbe present in the samples.
+
+dances of L. crispatus . To explore the ability to analyze the metabolome in
+high throughput, the same sample sets were analyzed using matrix-assisted laser
+desorption ionization mass spectrometry imaging (MALDI-MSI) (Table S1). Detected
+ions by MALDI were compared to those identiﬁed by GC-MS and LC-MS, and we found
+that (cid:4)55% of the metabolites identiﬁed had corresponding ions in the MALDI analysis
+(Table S1).
+
+Metagenomics and functional potential of communities. Distinct functions were
+associated with each of the vaginal microbial community clusters (PERMANOVA;
+R2 (cid:2) 70%; P (cid:2) 0.0001; Fig. 5). LEfSe identiﬁed several pathways that differed between
+L. crispatus and G. vaginalis, in particular, an enrichment of ammonia assimilation genes
+in G. vaginalis . Genes involved in mannitol metabolism were enriched in
+communities where L. crispatus was highly abundant . Searching
+the PATRIC database of all sequenced L. crispatus 
+and G. vaginalis strains revealed annotated genes for mannitol usage
+and transport for L. crispatus but not for L. iners or G. vaginalis.
+
+Mothers and infants have signiﬁcantly different saliva and urine metabolomes.
+Maternal and infant saliva and urine metabolomes were assessed with both GC-TOF MS
+and LC-MS/MS (lipidomics) in order to study the relationship between maternal and
+infant metabolomic compositions during early life (see Fig. 1). PERMANOVA analysis of
+lipidomics data from saliva samples showed the largest difference between mothers
+and offspring (PERMANOVA; R2 (cid:2) 69%; P (cid:2) 0.001; Fig. S5A). A subset of 50 lipidomics
+metabolites with high mean abundance, 70% of which were unannotated, showed
+distinct proﬁles between mother and offspring salivary metabolomes . Like-
+wise, GC-TOF MS salivary metabolomes were also signiﬁcantly different between
+mother and offspring, but far less variation was explained (PERMANOVA; R2 (cid:2) 12%;
+P (cid:2) 0.0001; Fig. S5B). Some metabolites, such as lactulose, were much more abundant
+in infants and largely absent in mothers . Maternal metabolomics proﬁles
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 8
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Microbiome Composition in Healthy Pregnancy
+
+®
+
+(both GC-TOF MS and LC-MS/MS lipidomics) have a strong individual signature, while
+infants do not (see PERMANOVAs; Table S2). The infant metabolome for saliva and urine
+had little variance attributed to which subject donated the sample, but GC-TOF MS was
+able to detect a signiﬁcant change between the infant urine metabolome at birth
+versus 6 and 12 months of age (PERMANOVA; R2 (cid:2) 34%; P (cid:2) 0.0007; Table S2). More-
+over, from lipidomics data, the infant metabolome proﬁle seemed to converge on
+mothers’ metabolomes as they aged, though more samples would be needed to
+conﬁrm this ﬁnding . For both saliva and urine, GC-TOF MS- and lipidomics-
+detected metabolites were more similar for mother-child pairs than for unrelated
+individuals . Mantel tests to determine if intersample relationships were similar
+between chromatography methods (including both GC-TOF MS and lipidomics)
+showed a strong correlation between saliva samples and weaker correlations between
+urine and CVF (Table S3).
+
+DISCUSSION
+
+Exposure to the microbiome in early life is critical for immune and physiological
+development  yet the factors that set this trajectory remain poorly understood. In
+this study, we followed the vaginal microbiome through the trimesters of pregnancy for
+18 women, tracking changes in the bacterial communities with longitudinal samples
+and capturing their functional potential with metagenomic sequencing and multiple
+platforms to assess metabolomic proﬁles. The resolution provided by shotgun metag-
+enomic sequencing allowed us to identify species and characterize the functional gene
+content of CVF microbiomes. An additional strength of this work is the strict inclusion
+criteria deﬁning healthy pregnancy (see “Subject information” in Materials and Meth-
+ods). Moreover, as part of an existing sample cohort, we had the opportunity to
+measure saliva and urine metabolomes from mothers and children. We aim to establish
+how the metabolome develops in the ﬁrst year of life and how maternal-infant saliva
+and urine metabolomes relate. In our study, most healthy pregnant women exhibited
+a relatively stable vaginal microbiota throughout the trimesters of pregnancy, domi-
+in some cases, more diverse, Biﬁdobacterium-dominated
+nated by Lactobacillus or,
+microbiota. However, a subset of women exhibited compositional shifts in their CVF
+microbiota as pregnancy progressed, as has also been seen in other larger cohorts 
+We found several strong correlations between particular vaginal communities and
+metabolites, which may help us understand the physiology underlying distinct vaginal
+microbiota structures that were evident in our study. Lastly, vaginal microbiota com-
+position predicted which metabolites were present in the CVF samples but not urine or
+saliva samples from the mothers or infants, suggesting that local microbial metabolism
+may represent the dominant contributor to the metabolic milieu of the vaginal tract
+during pregnancy.
+
+Our study supports the results from several other studies that have indicated that
+the vaginal microbiome is stable during pregnancy  Speciﬁcally, in a longitudinal
+study that includes 90 women, most retain a microbial community with the same
+dominant member (in L. crispatus communities, 75% remain stable; in communities
+with high L. iners abundance, 71% remain stable; and in more diverse communities like
+those sometimes associated with BV, 58% do not shift)  Using metagenomic
+sequencing to probe microbial community variation, our ﬁndings indicate that few
+bacteria, particularly Lactobacillus species, are highly abundant in the vaginal environ-
+ment. Indeed, for individuals with vaginal microbiomes numerically dominated by L.
+crispatus or L. iners, the vast majority of reads mapped to contigs from one strain of L.
+crispatus or L. iners . Of note, the microbiome of some individuals did differ
+considerably with advancing pregnancy. For instance, the vaginal microbiota of sub-
+jects 1180 and 1222 had higher abundances of L. crispatus during the ﬁrst trimester, but
+L. iners was more abundant in the remaining trimesters. Brooks et al. demonstrated
+that shifts in vaginal microbiota structures can be described probabilistically, where
+shifts from L. crispatus to L. iners are the most likely to occur. This is consistent with the
+observations made in two individuals from our study; however, due to the small
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 9
+
+Oliver et al.
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+FIG 6 Proposed vaginal microbial community model. Current hypothesized model of vaginal microbial community physiology, with gaps in
+understanding (denoted by question marks) where future work is needed. Our study indicates that mannitol production is associated with a high
+relative abundance of L. crispatus.
+
+number of samples exhibiting this phenomenon, qualitative assessments were more
+appropriate than statistical analysis. Of note, vaginal microbiota instability throughout
+pregnancy was associated with the presence of Candida, a known opportunistic
+pathogen of the vaginal tract. Since inclusion criteria for this study stipulated no
+antibiotic treatment, it is unlikely that Candida detection was a result of antibiotic
+administration. The prevalence of Candida in our cohort is more likely to be reﬂective
+of the fact that pregnancy is a known risk factor for candidiasis and to related
+differences in the vaginal environment, including microbiological colonization. Indeed,
+L. crispatus has been shown to have anti-Candida activity of
+samples that were Candida positive came from individuals whose vaginal microbiota
+were dominated by an organism other than L. crispatus.
+
+A few metabolites were highly indicative of the bacterial community present in each
+subject and may be useful biomarkers for the type of vaginal microbiota present. The
+most indicative metabolite was indole-3-lactate (ILA), a tryptophan metabolite whose
+abundance was correlated with communities having abundant L. crispatus (Fig. 4B and
+Fig. S4A). One potential explanation is that L. crispatus produces ILA to competitively
+exclude the growth of other species . At physiologically relevant concentrations,
+ILA has been shown to have antimicrobial properties against both Gram-positive and
+Gram-negative organisms  Although the production of lactic acid is generally
+thought of as a strategy Lactobacillus spp. use to prevent other species from colonizing
+the vagina, perhaps these organisms also use ILA in a similar or supplementary
+capacity. Additionally, bacteria-derived ILA (also referred to as indole-lactic acid) has
+been recently shown to directly move from maternal to infant tissue  It has been
+suggested that indoles may play an important role as a ligand for the human aryl
+hydrocarbon receptor (AhR), which have diverse functions from immune regulation to
+metabolism (reviewed in reference 37). Zelante et al. further showed that some
+lactobacilli produce the related tryptophan catabolite, indole-3-aldehyde (IAld), which
+provides protection against candidiasis by increasing interleukin-22 (IL-22) production
+via AhR receptor binding  The study also demonstrated that vaginal speciﬁc
+bacteria, such as L. acidophilus, produce IAld in the vaginal environment, which
+protected against vaginal but not intestinal candidiasis. We measured indole-3-acetate
+(IAA), the direct precursor to IAld, in our study, but found no difference in its abundance
+between women dominated by different species of Lactobacillus (data not shown).
+Because indole-3-lactate can act as a ligand for AhR, we speculate that L. crispatus may
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 10
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Microbiome Composition in Healthy Pregnancy
+
+®
+
+regulate the IL-22-AhR response in the vagina, reducing the risk of vaginal candidiasis
+in the same way IAld does, and potentially activating the AhR response in newborns to
+prevent early-life candidiasis. Additionally, indole itself may play a role in structuring
+community composition by selecting for organisms that have adapted to a high
+abundance of this metabolite, repelling more transient microbes that have not been
+exposed to higher indole concentrations previously 
+
+Whole-genome shotgun metagenomics allowed us to begin to address the func-
+tional capacities of these microbiomes. The largest differences between functional
+capacity appeared to be between communities where L. crispatus or G. vaginalis were
+the most abundant bacterial taxon. One pathway particularly enriched in Gardnerella
+communities was the ammonia assimilation cycle . Studies have pointed out
+Gardnerella’s preference for ammonia as a nitrogen source  moreover, this ability to
+assimilate ammonia and produce amino acids has been implicated in mutualistic
+interactions between species of Prevotella, in the context of BV  Together, these
+BV-associated organisms contribute to genital inﬂammation, which may play a role in
+the susceptibility of certain diseases, such as HIV 
+
+Increased abundance of mannitol when L. crispatus was present is an important and
+unexpected ﬁnding . Most likely, mannitol contributes to optimizing the tonicity
+of the vaginal environment, and has recently been considered for this use in develop-
+ing effective therapeutics for altering the vaginal microbiota  Even more,
+mannitol may assist L. crispatus in adhering to the epithelial
+layer, a strategy the
+organism may use to competitively inhibit other microbes from colonizing, potentially
+by drawing out excess water in the mucin layer and altering the mucin structure 
+Irrespective of the biochemistry, these genes, and mannitol in general, represent very
+speciﬁc markers of a community where L. crispatus was most abundant.
+
+Although it is known that homofermentative lactic acid bacteria (LAB) such as L.
+crispatus convert glucose primarily to lactic acid,
+it is unclear why mannitol
+accumulates in this niche. Interestingly, there was no difference in the glucose abun-
+dance between the four distinct vaginal communities. Further, metabolomic analysis of
+our CVF samples failed to capture signiﬁcant levels of the mannitol precursor fructose;
+however, previous studies have indicated an appreciable amount of fructose within the
+cervical mucus of humans and the capability of L. crispatus to utilize fructose as a
+carbon source  We speculate that this high extracellular mannitol abundance
+phenotype may underlie the cell’s need to regenerate NAD(cid:5) for use in glycolysis. When
+faced with a limiting amount of pyruvate (or perhaps an upstream glycolytic metabo-
+lite) to convert to lactate, homofermentative LAB may be unable to produce sufﬁcient
+NAD(cid:5) to allow glycolysis to continue. To this end, reducing fructose 6-phosphate to
+mannitol-1-phosphate may be an alternative and vital way L. crispatus regenerates
+NAD(cid:5) for glycolysis  We did ﬁnd the gene mannitol-1-phosphate dehydroge-
+nase, responsible for converting fructose 6-phosphate to mannitol-1-phosphate, was
+highly correlated (R2 (cid:2) 0.9) with the relative abundance of L. crispatus. The genes for
+the conversion of mannitol-1-phosphate to mannitol (presumably an M1P phospha-
+tase) and its subsequent export are currently unknown  This may imply that
+mannitol accumulation is a marker of a cellular switch to NAD(cid:5) regeneration by
+fructose reduction rather than converting pyruvate to lactic acid. Consequently, the
+decrease in lactic acid production may contribute to community dysbiosis due to a rise
+in pH . Future experiments using culturing to elucidate whether these in vivo
+community data are recapitulated with axenic cultures in vitro are needed.
+
+Furthermore, this study enabled comparison of two metabolomic methods (GC-TOF
+MS and LC-MS/MS lipidomics) for analysis of the pregnancy and early-life metabolomes.
+Our data showed that metabolite intensities obtained by GC-TOF MS were more tightly
+correlated with microbial community composition than those obtained by lipidomics,
+perhaps indicating that GC-TOF MS is more effective at detecting microbial metabolites
+than lipidomics, especially during pregnancy. We also show that both the saliva and
+urine metabolomes of children are more similar to their own mother than to unrelated
+individuals . Strikingly, the ability of lipidomics to differentiate mothers from
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 11
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al.
+
+®
+
+children via saliva was the strongest signal in our metabolomics data (Table S1). The
+oral microbiome may play a role in this, as there is a well-established community
+succession in children during early life (reviewed in reference 52), where children begin
+life with oral microbes that differ from those in adults. Lactulose, detected by GC-TOF
+MS, was a speciﬁc metabolite with increased abundance in infant saliva, which may
+reﬂect its use as a treatment for constipation or perhaps even its presence in
+heated milk  Finally, urine metabolomes had a distinct age proﬁle, especially with
+the lipidomics data. Our data suggest that, over the ﬁrst year of life, the urine
+metabolome rapidly converges on the adult metabolome. This is likely a result of the
+development of the renal system in children  along with the development of the
+gut microbiome and the related metabolites which are processed through the liver and
+kidneys. Other reasons for this age-related shift include a change in diet and weaning
+off breastmilk or formula  Expectedly, we did not see a strong inﬂuence of the
+vaginal microbiome during pregnancy on the infant saliva and urine metabolome. We
+suspect that if differences in the vaginal microbiome were to affect the early-life saliva
+and urine metabolome, those effects would be subtle. The lack of stool samples from
+the mothers and infants is a limitation of this study, as they may contain a stronger
+signal of shared metabolomes across mother-infant dyads. Additionally, we explored a
+high-throughput approach to characterize the metabolomes. By using acoustic depo-
+sition in combination with MALDI-MSI, a throughput of (cid:4)1 s per sample was reached
+using only 2 (cid:2)l of sample. Of the metabolites identiﬁed by GC-MS and LC-MS, (cid:4)55%
+had corresponding ions in the MALDI-MSI analysis (Table S1). Future work will focus on
+conﬁrming these metabolite identiﬁcations, but the initial results are promising and
+indicate that rapid analysis of microbial metabolites using MALDI, an analysis platform
+routinely used in clinical microbiology laboratories, is feasible 
+
+Overall, we provide a broad look at the metabolome during pregnancy and early life,
+detailing the utility of GC-TOF MS, lipidomics, and MALDI-MSI for saliva, urine, and CVF.
+In conclusion, here, we share a high-resolution characterization of the vaginal
+microbiome, longitudinally sampled throughout healthy pregnancies. We show that,
+despite the generally accepted view that lactobacilli are indicative of healthy vaginal
+communities, many women in our healthy pregnancy cohort had non-Lactobacillus-
+dominated communities. The vaginal communities were characterized by a high abun-
+dance of one or a few acid-tolerant species, which dictated the physiologic potential
+and the metabolic proﬁles of the vaginal microbiome. Many of the metabolites that
+were speciﬁc to these different organisms warrant further investigation, especially
+considering the recent development of vaginal microbiota transplantation (VMT) as a
+treatment for BV  The metabolites we found to be associated with L. crispatus may
+be useful as microbiome cultivation approaches are developed to intentionally direct
+the composition of the vaginal microbiome. For example, indole-3-lactate may support
+L. crispatus colonization, while mannitol may indicate a shift in metabolism away from
+fermentation and the production of acid, relaxing the low-pH selection pressure, which
+normally gives L. crispatus an advantage.
+
+MATERIALS AND METHODS
+
+Subject information. Eighteen women were selected from a larger cohort recruited to address how
+maternal stress affects child development  Inclusion criteria for the larger cohort
+included (cid:6)18 years of age, singleton,
+inclusion
+criteria for this study were normal prepregnancy body mass index, vaginal delivery, full-term pregnancy,
+breastfeeding, and no antibiotics for mother or baby. Generally, these 18 women and their children
+represented healthy subjects with the most complete sample sets.
+
+intrauterine pregnancy, and nondiabetic. Additional
+
+Sample collection. Samples were collected at each trimester of pregnancy for women and through-
+out the ﬁrst year of life for infants. At each time point, maternal saliva, urine, and cervical vaginal ﬂuid
+were collected. For infants, urine was collected at birth, 6 months, and 12 months, whereas saliva was
+sampled at 6 months and 12 months of age. Maternal saliva was collected using a Salivette collection kit,
+including a small cotton roll contained in a plastic container (Salimetrics, Carlsbad, CA). Mothers were
+instructed to place the cotton rolls in their mouths until saturated with saliva (approximately 1 to 3 min)
+and then reseal the swabs in plastic Salivette tubes. Infant saliva was collected using Weck-Cel spears and
+a swab extraction tube system. Infants were allowed to suck on the spear for 2 min, ensuring saturation.
+Maternal urine was collected using a sterile collection cup. Infant urine was collected using an adhesive
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 12
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Microbiome Composition in Healthy Pregnancy
+
+®
+
+U-Bag attached to the genital region of the infant. A minimum of 2 ml of urine was collected. Cervical
+vaginal ﬂuid (CVF) was collected by placing three Dacron swabs into the cervix for 10 s to achieve
+saturation. Each swab was then placed in a plastic vial with 500 (cid:2)l of sterile phosphate-buffered saline
+(PBS). All samples were initially stored at (cid:7)20°C, and then saliva, CVF, and infant urine were subsequently
+moved to (cid:7)80°C storage.
+
+Metabolomics. Prior to processing, samples were thawed from (cid:7)80°C storage. Fifty microliters of
+each sample were subjected to gas chromatography-time of ﬂight mass spectrometry (GC-TOF MS) 
+and liquid chromatography-tandem mass spectrometry (LC-MS/MS, lipidomics). Urine, saliva, and CVF
+from each time point were sent to the West Coast Metabolomics Center (WCMC) for untargeted
+metabolomics. GC-TOF MS metabolites were extracted with a mixture of 3:3:2 acetonitrile-isopropyl
+alcohol-water according to standard operating procedures from the Fiehn Lab at the WCMC 
+LC-MS/MS samples were extracted using a variant of the Matyash method  Data were acquired for
+complex lipids in positive and negative electrospray mode on a Waters CSH column and an Agilent 6530
+QTOF mass spectrometer  Metabolites were identiﬁed by retention time MS/MS matching using
+MassBank of North America (http://massbank.us) and NIST 17 libraries.
+
+High-throughput metabolomics. All urine, saliva, and CVF were analyzed using matrix-assisted laser
+desorption ionization mass spectrometry imaging (MALDI-MSI) for high-throughput untargeted metabo-
+lomics. Extracted samples in 3:3:2 acetonitrile-isopropyl alcohol-water were diluted 1:2 in water in
+384-well plates. Next, an equal volume of MALDI matrix (20 mg/ml of 1:1 2,5-dihydroxybenzoic acid and
+(cid:3)
+-cyano-4-hydroxycinnamic acid in 1:3 [vol/vol] H2O-MeOH plus 0.2% formic acid) was added. Samples
+were printed onto a stainless steel blank MALDI plate using an ATS-100 acoustic transfer system (BioSera)
+with a sample deposition volume of 10 nl. Samples were printed in clusters of four replicates, with the
+microarray spot pitch (center-to-center distance) set at 900 (cid:2)m. MS-based imaging was performed using
+an ABI/Sciex 5800 MALDI TOF/TOF mass spectrometer with a laser intensity of 3,500 (arbitrary units) over
+a mass range of 50 to 3,000 Da. Each position accumulated 20 laser shots. The instrument was controlled
+using the MALDI-MSI 4800 imaging tool. Surface rasterization was oversampled using a 75-(cid:2)m step size.
+Average ion intensity for all reported ions was determined using the OpenMSI Arrayed Analysis Toolkit
+(OMAAT) software package 
+
+DNA extraction. Cervical brushes were resuspended in PBS. Two negative extraction controls using
+sterile PBS were prepared alongside the samples. Aliquots of 100 to 200 (cid:2)l were added to lysing matrix
+E tubes prealiquoted with 500 of hexadecyltrimethylammonium bromide (CTAB) DNA extraction buffer
+and incubated at 65°C for 15 min. An equal volume of phenol-chloroform-isoamyl alcohol was
+added to each tube, and samples were homogenized in a Fast Prep-24 homogenizer at 5.5 m/s for 30 s.
+Tubes were centrifuged for 5 min at 16,000 (cid:8) g, and the aqueous phase was transferred to individual
+wells of a 2-ml 96-well plate. An additional 500 (cid:2)l of CTAB buffer was added to the lysing matrix E tubes,
+the previous steps were repeated, and the aqueous phases from paired extractions were combined. An
+equal volume of chloroform was mixed with each sample, followed by centrifugation at 3,000 (cid:8) g for 10
+min. The aqueous phase was transferred to a clean 2-ml 96-well plate, combined with 2 volume
+equivalents of polyethylene glycol (PEG) and stored overnight at 4°C to precipitate DNA. Plates were
+centrifuged for 60 min at 3,000 (cid:8) g. DNA pellets were washed twice with 300 (cid:2)l of 70% ethanol, air-dried
+for 10 min, and resuspended in 100 (cid:2)l of sterile water. DNA was quantiﬁed using the Qubit dsDNA
+high-sensitivity (HS) assay kit and diluted to 10 ng/(cid:2)l when possible. Although DNA was extracted from
+CVF, attempts to extract DNA from saliva were unsuccessful, potentially due to the storage swabs
+trapping the biomaterial.
+
+Amplicon gene sequencing. To amplify the V4 region of the bacterial 16S rRNA gene, 10 ng of DNA
+template was combined with PCR master mix (0.2 mM deoxynucleoside triphosphate [dNTP] mix,
+0.56 mg/ml bovine serum albumin [BSA], 0.4 (cid:2)M Illumina adapter sequence-tagged forward primer
+ and 0.025 U/(cid:2)l Taq DNA polymerase) and 0.4-(cid:2)M barcode-tagged reverse primers and
+then ampliﬁed in triplicate 25-(cid:2)l reactions, along with a no-template control, for 30 cycles (98°C for
+2 min; 98°C for 20 sec, 50°C for 30 sec, and 72°C for 45 sec; repeat steps 2 to 4 29 times; 72°C for 10 min).
+PCR conditions were identical for ITS2 ampliﬁcation (primer pair fITS7 
+and ITS4  except for the annealing temperature, which was 52°C.
+Triplicate reactions were combined and puriﬁed using the SequalPrep normalization plate kit (Invitrogen)
+according to the manufacturer’s speciﬁcations. Puriﬁed amplicons were quantiﬁed using the Qubit
+double-stranded DNA (dsDNA) HS assay kit and pooled at equimolar concentrations. The amplicon
+library was concentrated using the Agencourt AMPure XP system (Beckman-Coulter), quantiﬁed using
+the Kapa library quantiﬁcation kit (Kapa Biosystems), and diluted to 2 nM. Equimolar PhiX was added at
+40% ﬁnal volume to the amplicon library; the 16S rRNA amplicon pool was sequenced on the Illumina
+NextSeq 500 platform on a 153-bp by153-bp sequencing run, and the ITS2 amplicon pool was sequenced
+on the Illumina MiSeq platform on a 290-bp by 290-bp run.
+
+Shotgun metagenomics sequencing. Sequencing libraries were prepared using the Illumina Nex-
+tera kit and methods described in Baym et al. 
+and tagmented with the Nextera enzyme (Illumina) for 10 min at 55°C. Following tagmentation, each
+sample received 1-(cid:2)l forward and 1-(cid:2)l reverse barcodes, which were added via PCR using Phusion DNA
+polymerase (New England BioLabs). After PCR, the libraries were cleaned of smaller DNA fragments, using
+AMPure XP magnetic beads (Beckman-Coulter), and pooled by concentration. Libraries were quantiﬁed
+using the Quanti-iT PicoGreen dsDNA kit (Thermo Fisher Scientiﬁc), and DNA was run on a gel to check
+fragment size. These libraries were loaded onto the Illumina Next-Seq 500 at 1.8-pM concentrations and
+Illumina’s midoutput kit for 75-bp paired-end sequencing.
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 13
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al.
+
+®
+
+OTU table generation. Raw sequence data were converted from bcl to fastq format using bcl2fastq
+v2.16.0.10. Paired sequencing reads with a minimum overlap of 25 bp were merged using FLASH v1.2.11.
+Index sequences were extracted from successfully merged reads and demultiplexed in the absence of
+quality ﬁltering in QIIME (Quantitative Insights into Microbial Ecology, v1.9.1), and reads with more than
+two expected errors were removed using USEARCH’s fastq ﬁlter (v7.0.1001). Remaining reads were
+dereplicated, clustered into operational taxonomic units (OTUs) at 97% sequence identity, ﬁltered to
+remove chimeric sequences, and mapped back to OTUs using USEARCH v8.0.1623. Taxonomy was
+assigned with the most current Greengenes database for bacteria and UNITE version 6
+for fungi were considered potential contam-
+inants and ﬁltered by subtracting the maximum NEC read count from all samples; any remaining OTU
+with a total read count less than 0.001% of the total read count across all samples was removed.
+Sequencing reads were rareﬁed to an even depth  To
+maximize similarity between the raw and rareﬁed OTU tables, random subsampling was performed at
+predeﬁned depths 100 times, and the most representative subsampled community was selected based
+on the minimum Euclidean distance to the other OTU vectors generated for each sample.
+
+16S rRNA gene analysis. Alpha diversity indices and Bray-Curtis dissimilarity matrices were gener-
+ated in QIIME modeling to adjust for
+repeated measures using the nlme package 0.05 were
+considered statistically signiﬁcant. Data were visualized using Tableau and Adobe Illustrator unless
+otherwise noted.
+
+Metagenomic analysis. Raw sequences (mean 2,977,881 paired-end reads per sample from 35/38
+successfully sequenced samples) were ﬁltered using PRINSEQ v0.20.4 to ﬁlter out sequences that had
+a mean quality score of 30 or less. Human DNA was next ﬁltered out by aligning the ﬁltered reads to the
+human genome (hg38) using Bowtie2 v2.2.7 and keeping the reads that failed to align (mean
+220,355 paired-end plus 33,744 singleton reads per sample or 10.9% of quality-ﬁltered reads per sample).
+To analyze functional potential, the reads were run through HUMAnN2 v0.1.9 using default
+parameters, and differences in pathway abundances were analyzed using LEfSe  These reads were
+also cross-assembled using SPAdes v3.8.2  Each sample was then mapped to this cross-assembly
+using Bowtie2, samples from the same subject were merged together using Samtools v1.9, and the
+resulting bam ﬁles and the cross-assembly were imported into Anvio4  Taxonomy was assigned to
+each gene call using Kaiju  which subsequently informed a more accurate metagenomics binning of
+the most abundant microbes present.
+
+Statistical analysis. Unless otherwise noted, statistics were done using the ecological statistics
+program PRIMER-e v7  Metabolic data were normalized in PRIMER-e by dividing by sum total for each
+sample. The speciﬁc programs used in PRIMER-e were permutational multivariate analysis of variance
+(PERMANOVA) and distance-based linear models (DISTLM), the former of which calculates the signiﬁ-
+cance and variance explained by a given factor and the latter determines which environmental variables
+correlate with the biological (microbiome) data. rfPermute  an R package for permutated random
+forests, was also performed to determine which annotated GC metabolites were indicative of microbial
+composition. PERMANOVA also partitions variance based on each factor, which is done in PRIMER-e by
+dividing the factor estimate by the sum total estimates of components of variation (ECoV). Traditional R2
+values were also calculated by dividing the sum of squares by total sum of squares. LMEs were carried
+out as described above; R2 values for linear mixed models were calculated using the MuMIn package in
+R were used to compare GC-MS and LC-MS data. Bray-Curtis
+distances were used for all distance-based analyses. To consider repeated measures, linear mixed-effects
+modeling (nlme package in R) was used to analyze the stability of the microbiome and metabolome
+through time.
+
+Ethics approval and consent to participate. This study utilized a subset of samples from a larger,
+longitudinal prospective cohort study designed to analyze the relationship between maternal stress and
+Irvine (UCI)  The University of
+infant development conducted at the University of California,
+California’s Institutional Review Board approved the protocol, and written,
+informed consent was
+obtained from each participant. Research on human subjects was performed in accordance with the
+Declaration of Helsinki.
+
+Data availability. Sequence data for 16S, ITS2, and shotgun metagenomes were deposited on the
+National Center for Biotechnology Information (NCBI) sequence read archive (SRA) under the BioProject
+accession number PRJNA612083. Metabolomics data for all samples can be found in Table S1. R scripts
+for statistical analysis are published on GitHub at https://github.com/aoliver44/Cervicovaginal-Paper.
+
+SUPPLEMENTAL MATERIAL
+
+Supplemental material is available online only.
+FIG S1, PDF ﬁle, 0.4 MB.
+FIG S2, PDF ﬁle, 0.2 MB.
+FIG S3, PDF ﬁle, 0.4 MB.
+FIG S4, PDF ﬁle, 0.6 MB.
+FIG S5, PDF ﬁle, 0.6 MB.
+FIG S6, PDF ﬁle, 0.5 MB.
+FIG S7, PDF ﬁle, 0.1 MB.
+TABLE S1, XLSX ﬁle, 2.8 MB.
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 14
+
+®
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Microbiome Composition in Healthy Pregnancy
+
+TABLE S2, XLSX ﬁle, 0.01 MB.
+TABLE S3, XLSX ﬁle, 0.01 MB.
+
+ACKNOWLEDGMENTS
+
+The pilot grant awarded to start a UC Center for Pediatric Microbiome Research
+awarded by the UCI Institute for Clinical and Translational Science (UL1 TR001414)
+gave rise to this project. A.O. was supported by an NIH T32 training grant
+from UC Irvine’s training program in microbiology and infec-
+tious diseases.
+
+We thank Dan Cooper for enthusiasm and strategic advice. We thank the members
+of the Whiteson Lab, especially Whitney England for insight into metagenomics anal-
+ysis, and Joann Phan and Tara Gallagher for thoughtful comments during the prepa-
+ration of the manuscript. Heather Maughan made insightful and clarifying edits that we
+are grateful for.
+
+We declare that we have no competing ﬁnancial interests.

@@ -1,0 +1,158 @@
+16_PARAGRAPHS
+
+Materials and methods
+Patients recruitment All pregnant women routinely performed an oral glucose tolerance test at 24–28 gestational
+weeks at the “Città della Salute e della Scienza” Hospital of Turin. The first 50 consecutive sub-
+jects who met both the criteria for GDM according to international guidelines (fasting plasma
+glucose �92 mg/dL and/or 1h post-test glycemia �180 mg/dL and/or 2h post-test glycemia
+�153 mg/dL) and the inclusion criteria (see below) were enrolled [17]. Out of them, 41
+women participated in an observational study aiming to evaluate the changes in gut micro-
+biota composition across pregnancy [17]. The fecal samples of their offspring were collected in
+the first week of life. Indeed, as the mode of collection and/or storage of the offspring stool
+samples by 12 mothers resulted inappropriate, data of 29 infants (70.7%) could be analyzed
+only (S1 Table). Inclusion criteria were: GDM diagnosed by a 75g oral glucose tolerance test
+(OGTT) between 24–28 weeks gestational age and European origin with both parents born in
+Europe. Women with twin pregnancy, any pathological conditions before or during pregnancy
+(known diabetes mellitus, hypertension, cardiovascular, pulmonary, autoimmune, joint, liver PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019 2 / 18 GDM offspring gut microbiota composition or kidney diseases, thyroid dysfunction, cancer, any other disease/condition), no compliance
+to the study protocol, on prebiotics/probiotics, antibiotics or any drug during pregnancy were
+excluded. All the GDM patients received dietary counselling and the recommendation of per-
+forming 30-min daily moderate exercise (i.e. brisk walking) and were instructed to self-moni-
+tor finger-prick capillary blood glucose at least 4 times per day. Participants completed a 3-day
+food record (2 weekdays and 1 weekend day) and the Minnesota-Leisure-Time-Physical Activ-
+ity Questionnaire at enrolment and at the study end [17]. Detailed information on how to
+record the food and drink consumed by using common household measures was provided to
+all participants. Two dieticians checked all questionnaires for completeness, internal coherence
+and plausibility [17].
+
+Fecal DNA extraction and sequencing Total DNA from the feces collected was extracted using the RNeasy Power Microbiome KIT
+(Qiagen, Milan, Italy) following the manufacturer’s instructions. One microliter of RNase
+(Illumina Inc. San Diego. CA) was added to digest RNA in the DNA samples, with an incuba-
+tion of 1 h at 37 ˚C. DNA was quantified using the QUBIT dsDNA Assay kit (Life Technolo-
+gies, Milan, Italy) and standardized at 5 ng/μL. DNA was used as a template in a PCR reaction
+in order to amplify the V3-V4 region of the 16S rRNA gene [29]. Library preparation and
+sequencing (2X250bp) was performed as already reported [17].
+
+In order to identify sub-OTUs populations in our offspring cohort, reads assigned to genera Blautia, Bacteroides and Bifidobacterium were extracted and entropy analysis and oligotyping
+were carried out [31] since these were the only OTUs showing higher level of entropy able to
+obtain sub-OTUs. After the first round of oligotyping, high entropy positions were chosen (-C
+option): 8, 12, 113, 223, 224, 247, 432, 433 for Blautia; position 8, 12, 40, 74, 75, 116, 117, 124,
+129, 130, 390, 397, 452 and 453 were chosen for Bacteroides; while position 8, 12, 14, 81, 114,
+115, 158, 159, 160, 328, 329, 389, 437, 438, 439, 440, 441, 442, 443 and 444 were chosen for Bifi-
+dobacterium. In order to reduce the noise, each oligotype should appear in at least 10 samples,
+occur in more than 1.0% of the reads for at least ten samples, represent a minimum of 750
+reads in all samples combined, and have a most abundant unique sequence with a minimum
+abundance of 50. A cladogram of representative sequences was generated using the ANVIOs
+software [32].
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019 4 / 18 GDM offspring gut microbiota composition The post-hoc power estimated on partial R2 according to the multivariate linear regression
+model adjusted for maternal weight change, breastfeeding and Cesarean section was 0.80 with
+α = 0.05. A P value of 0.002 or lower was considered as statistically significant.
+
+Maternal oligosaccharides derived mainly from dairy products, cereals, fruit and vegetables, while saturated fatty acids (SFA) derived mainly from meat and cheese. In a multiple regres-
+sion model, after adjusting for weight change, breastfeeding and Cesarean section, associations
+between infant Ruminococcus with maternal oligosaccharide (positive association) and with
+maternal intake of SFA (inverse association) were found, even if not reaching the defined
+cutoff of p-values. The inverse relationship between Rikenellaceae and maternal SFA intake
+remained statistically significant (Table 1). In the multivariate model, no significant associa-
+tion between infant gut microbiota and maternal dietary habits at the study-end was found.
+The direct association between maternal fasting glucose at enrolment and Enterococcus
+(Rho = 0.49) was no longer confirmed in the multivariate model, while the inverse association
+between Clostridiales and maternal changes across pregnancy (delta) in glycated hemoglobin
+(HbA1c) levels was statistically significant (Table 1). No significant association between mater-
+nal anthropometric or metabolic variables and the gestational changes in these variables and
+infant gut microbiota composition was found. Two out of 29 women were treated with insulin;
+none received metformin. After adjusting for insulin treatment, the results of the multiple
+regression analyses did not change.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019 6 / 18 GDM offspring gut microbiota composition Fig 3. Spearman’s rank correlation of OTUs dietary information and blood variables. Spearman’s rank correlation matrix of
+OTUs with > 0.2% abundance in at least 10 fecal samples, dietary information and blood variables. The colors of the scale bar denote
+the nature of the correlation, with 1 indicating a perfectly positive correlation (dark blue) and -1 indicating a perfectly negative
+correlation (dark red) between the two datasets. Only correlations with P-values <0.002 are shown. Data at enrolment (plot A) or at
+study-end (Plot B).
+
+Dietary habits at enrolment
+Oligosaccharides Ruminococcus
+Saturated fatty acids (%kcal) Rikenellaceae Ruminococcus Maternal laboratory variables
+Delta HbA1c Clostridiales
+Breastfeeding�
+Bifidobacterium Rho 0.55 -0.61 -0.44 -0.49 - Beta 0.09 -0.24 -0.76 -0.32 22.9 95% CI 0.04 0.14 -0.37–0.11 -1.21–0.31 P 0.005 0.001 0.004 -0.48–0.16 <0.001 10.1 35.7 0.0017 Model adjusted for maternal weight change, breastfeeding, and Cesarean section;
+�Model adjusted for maternal weight change and Cesarean section https://doi.org/10.1371/journal.pone.0226545.t001 PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019 7 / 18 GDM offspring gut microbiota composition Fig 4. Principal coordinates analysis (PCoA) of unweighted UniFrac distances matrix for 16S rRNA gene sequence data. Infant
+artificially-fed (blue dots) or breast-fed (red dots).
+
+Ten out of the 29 (34.5%) newborns were breastfed by their mothers, while 19 (65.5%)
+were formula-fed. We observed a non-significant reduction in microbial richness in breastfed
+infants when compared to infants fed with artificial milk.
+
+At phylum level, we observed that breastfed infants showed a higher abundance of Actino-
+bacteria and Proteobacteria, while in formula-fed infants we observed a higher proportion of
+Firmicutes phyla (Fig 5A). At genus level, breastfed infants displayed an increased abundance
+of Escherichia and Bifidobacterium, while formula-fed infants had a varied microbiota mainly
+composed of Bacteroides, Clostridium, Enterococcaceae, Escherichia, Faecalibacterium, Staphy-
+lococcus and Streptococcus (Fig 5B). In multiple regression analyses, a significant association
+between breastfeeding and the relative abundance of Bifidobacterium in the infant gut micro-
+biota was found (β = 22.9; 95%CI = 10.1–35.7; P = 0.0017).
+
+Gut microbiota signature at sub-genus level In order to explore the possible mother-to-infant gut microbiota transmission at sub-OTUs
+level, we carried out oligotyping on sequences of Blautia, Bacteroides and Bifidobacterium
+since these were the only genera showing a Shannon entropy index sufficient to identify all PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019 8 / 18 GDM offspring gut microbiota composition Fig 5. Relative phylum-level abundance profiles. Phylum-level abundance profiles of breastfed infants and artificially
+fed infants (Panel A); relative genus-level abundance of breastfed infants and artificially fed infants (Panel B).
+
+https://doi.org/10.1371/journal.pone.0226545.g005 nucleotide positions that would resolve the oligotypes. We considered the dominant oligotypes
+shared by mothers and their offspring only to explore possible mother-to-child oligotype
+transmission. We then selected the oligotypes which were present in at least 5 mother-to-child
+pairs. We found 18 oligotypes for Bacteroides, 30 for Blautia, and 81 for Bifidobacterium. Only
+for Bifidobacterium, oligotypes of the offspring were taken into account, since resolving Bifido-
+bacterium in mothers was not possible. A high inter-individual diversity in the Bifidobacterium
+oligotypes was observed in the offspring samples (S3 Fig). We observed that the relative PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019 9 / 18 GDM offspring gut microbiota composition abundance of the Blautia oligotypes increased during the pregnancy and were lower in the
+infants (S4A Fig). A high degree of mother-offspring concordance was found for B11
+(P = 0.008) and B42 (P<0.001); both were identified as Blautia wexlerae by best BLASTn
+match. A reduction in the relative abundance of Bacteroides oligotypes was observed across
+pregnancy while few oligotypes were observed to be dominant in the offspring samples
+(S4B Fig).
+
+Comparison between gut microbiota from GDM offspring and healthy
+women offspring The gut microbiota of our offspring was compared with those of 19 breastfed infants from
+healthy normoglycemic women. A higher α-diversity was evident in the latter (for the Chao-1
+diversity index, P = 0.001). However, when comparing to those infants the 10 breastfed infants
+from GDM women, no significant difference in α-diversity was found. At phylum level, we
+observed higher abundance of Actinobacteria and Bacteroidetes in the offspring from GDM
+women (S5A Fig) (P<0.001). At genus level, higher abundance of Staphylococcus, Ralstonia,
+Lactobacillus and some members of Enterobacteriaceae were observed in the offspring from
+healthy women (S5B Fig).
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019 12 / 18 GDM offspring gut microbiota composition Several limitations of the present study should be recognized. The sample size was low,
+the standard errors were wide, and we could analyze the fecal samples of only 70.7% of the
+offspring of the initially enrolled women. Therefore, we might not have detected modest differ-
+ences in bacterial composition. Many associations that we found to be not statistically signifi-
+cant, could have become so if we had analyzed a larger sample. However, the post-hoc power
+was 0.80 with α = 0.05; furthermore, we have set-up a lower p-value cut-off value (p<0.002) as
+statistically significant. In doing so, we have considered only the strongest associations; how-
+ever, we cannot exclude the possibility that a type II error could have occurred.
+
+Supporting information S1 Fig. Heat-plot of the abundances of OTUs at genus level. Heatplot showing OTUs of
+GDM patients at enrolment (red bars), study end (green bars) and their offspring (blue bars).
+Rows and columns are clustered by means of Ward linkage hierarchical clustering. The inten-
+sity of the colors represents the degree of correlation between the samples and OTUs as mea-
+sured by Spearman’s correlations.
+(TIF) S2 Fig. Principal Component Analysis (PCA) based on OTUs relative abundance of infant
+gut microbiota according to the maternal compliance to dietary recommendations. Sam-
+ples are color-coded according to compliance to dietary recommendations (red) or non-com-
+pliance to dietary recommendations (blue).
+(TIF) S3 Fig. Distribution of representative Bifidobacterium oligotypes in the offspring samples.
+Inner black bars indicate the presence of an oligotype in a given sample.
+(TIF) S4 Fig. Distribution in representative Blautia (plot A) and Bacteroides (plot B) oligotypes.
+Plot showing the sequence distribution in GDM patients at enrolment (red bars), study end
+(green bars) and their offspring (blue bars). Inner bars indicate the presence of an oligotype
+in a given sample. Outer circle, if colored, denotes oligotype abundance with high degree of
+mother-offspring concordance.
+(TIF) S5 Fig. Distribution of OTUs between offspring from healthy and GDM women. Plot
+shows the relative phyla (panel A) and genus (panel B) abundance in the offspring from
+healthy and GDM women.
+(TIF) S1 Table. Enrolment characteristics and pregnancy outcomes of the GDM women.
+(DOCX) PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019 13 / 18 GDM offspring gut microbiota composition Author Contributions Conceptualization: Valentina Ponzo, Ilario Ferrocino, Simona Bo.
+
+Formal analysis: Valentina Ponzo, Ilario Ferrocino, Adriana Zarovska, Maria Bernadette Amenta, Clara Monzeglio, Roberto Gambino, Simona Bo.
+
+Investigation: Valentina Ponzo, Ilario Ferrocino, Adriana Zarovska, Maria Bernadette
+Amenta, Filomena Leone, Clara Monzeglio, Marianna Pellegrini, Roberto Gambino,
+Simona Bo

@@ -1,0 +1,23 @@
+The human vaginal microbiome maintains low diversity in low-pH conditions and
+depends on host sugars as carbon sources, with less access to dietary and exogenous
+nutrients than the gut, skin, or oral cavity. Historically, vaginal microbial communities
+have been stratiﬁed based on hierarchical clustering of the taxa composition 
+Keystone species include Lactobacillus crispatus and Lactobacillus gasseri, which have
+been associated with maintenance of a simple vaginal microbiome by their production
+of bacteriostatic and bactericidal compounds (e.g., lactic acid and hydrogen peroxide)
+and maintenance of a low pH numerically and functionally dominating their
+respective vaginal communities. This association between the most abundant bacterial taxa and
+microbial composition of the sample was signiﬁcant and explained more than half
+of the variance using permutational multivariate analysis of variance (PERMANOVA)
+(R2 (cid:2) 56%; P (cid:2) 0.0001). Detected
+ions by MALDI were compared to those identiﬁed by GC-MS and LC-MS, and we found
+that (cid:4)55% of the metabolites identiﬁed had corresponding ions in the MALDI analysis
+(Table S1)..
+
+Metagenomics and functional potential of communities. Indeed,
+L. crispatus has been shown to have anti-Candida activity of
+samples that were Candida positive came from individuals whose vaginal microbiota
+were dominated by an organism other than L. crispatus..
+
+A few metabolites were highly indicative of the bacterial community present in each
+subject and may be useful biomarkers for the type of vaginal microbiota present.

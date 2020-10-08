@@ -1,0 +1,155 @@
+10_PARAGRAPHS
+
+There are several recent reviews on sequencing and anal-
+ysis  of  the  microbiome,  although  a  full  discussion  of  these 
+methods  is  beyond  the  scope  of  this  review.28-31  In  brief,  com-
+monly  used  methods  to  study  the  microbiome  use  either 
+amplicon sequencing methods that analyze the partial genome 
+or whole-genome shotgun metagenomic sequencing. Amplicon 
+sequencing methods profile segments of the bacterial genome, 
+typically the hypervariable regions of the highly conserved 16s 
+ribosomal RNA gene. Such profiling can reveal segments (oper-
+ational taxonomic units [OTUs]) that are common to a specific 
+taxon. A limitation of this method is that closely related bacte-
+rial families may share 99% of the hypervariable region, thereby 
+precluding  identification  of  individual  species  and  strains. 
+A  second  commonly  used  microbial  sequencing  method  relies 
+on shotgun metagenomic sequencing, which is high-throughput 
+sequencing of the entire bacterial genome. Through profiling the 
+entire genome, this method allows for resolution at the species 
+and  even  strain  level  in  addition  to  the  definition  of  bacterial 
+function through mapping the genome to reference databases..
+
+Analysis of both 16s rRNA and metagenomic sequencing 
+has traditionally relied on comparing the relative abundance of 
+various  genera,  species,  and  strains  between  different  groups. 
+A  limitation  of  this  method  is  that  a  change  in  relative  abun-
+dance  could  result  from  either  the  increased  absolute  number 
+of  a  species  of  interest  or  the  depletion  of  other  species  and 
+consequent reliance on the overall microbial load. In contrast, 
+quantitative profiling of absolute counts of absolute microbial 
+abundances may be as or more relevant to defining the role of 
+microbiome  in  human  disease.32  A  small  study  of  29  patients 
+with CD revealed microbial counts that were 3 times lower than 
+those of healthy control patients and differences in defining an 
+association between Bacteroides (noted only in relative profiling) 
+and Prevotella (only in quantitative microbial profiling) in CD.32.
+
+investigators obtained fecal samples from 33 patients with CD 
+who  stopped  infliximab  therapy  (as  part  of  an  interventional 
+study  to  assess  the  rate  of  relapse  after  biologic  cessation). 
+Fecal  samples  were  obtained  at  therapy  cessation,  2  months, 
+6 months, and the end of follow-up. Cross-sectional compari-
+sons  were  also  made  with  29  healthy  control  patients.  Over 
+follow-up, 19 patients relapsed and 14 remained in remission. 
+Compared  with  the  healthy  control  patients,  those  with  CD 
+had reduced counts of Firmicutes such as Clostridium coccoides 
+(P  =  0.0003),  Clostridium 
+leptum,  and  Faecalibacterium 
+prauznitzii (P = 0.003). Interestingly, although all patients were 
+in clinical remission at study entry, a lower baseline abundance 
+of F. prausnitzii (P = 0.014) and Bacteroides (P = 0.030) pre-
+dicted relapse after therapy cessation in addition to biochem-
+ical markers such as an elevated serum C-reactive protein. .
+
+The  association  with  F.  prauznitzii  is  particularly  inter-
+esting as prior work has shown a significant anti-inflammatory 
+effect of this species. In experiments using in vitro and in vivo 
+models,  Sokol  et  al34  showed  in  2008  that  stimulation  of  pe-
+ripheral  blood  mononuclear  cells  by  F.  prauznitzii  resulted  in 
+lower  interleukin  (IL)-12  and  interferon-γ  levels  and  higher 
+levels  of  IL-10,  which  has  known  anti-inflammatory  effects. 
+Interestingly, the oral administration of F. prauznitzii resulted 
+in a lower severity of 2,4,6-trinitrobenzenesulfonic acid colitis. 
+Note  that  the  culture  supernatant  also  had  a  similar  effect  in 
+reducing the severity of this particular colitis, suggesting that 
+the  effect  of  F.  prauznitzii  may  be  mediated  in  part  through 
+the  production  of  anti-inflammatory  metabolites.  A  subse-
+quent study of a peptidomic analysis of F. prauznitzii culture 
+supernatants  showed  7  peptides  derived  from  a  microbial  an-
+ti-inflammatory  molecule  that  had  a  dose-dependent  effect 
+on  reducing  the  activation  of  the  NF-κB  pathway.35  Luminal 
+delivery  of  this  peptide  through  Lactococcus  lactis  alleviated 
+colitis  in  dinitrobenzene  sulfonic  acid  mice  models.35  In  other 
+experiments, F. prauznitzii or its supernatant also induced the 
+production of IL-10 and transforming growth factor-β1.36.
+
+Two OTUs affiliated with Faecalibacterium and Bacteroides were more abundant at .
+
+Relapsers had lower abundance of F. prausnitzii (P = 0.014) and Bacteroides .
+
+The  author  and  colleagues  previously  performed 
+metagenomic  sequencing  from  fecal  samples  of  85  patients 
+with  IBD  initiating  treatment  with  vedolizumab.25  The  study 
+cohort included 43 patients with UC and 42 patients with CD. 
+The primary outcome, remission at week 14, was attained by 31 
+patients. A total of 35% of the cohort remained in remission 
+at week 54. In the baseline stool sample, alpha diversity at the 
+species  level  was  higher  among  those  with  CD  who  achieved 
+remission at week 14 than in those who were not in remission 
+at  that  time  point.  This  difference  was  noted  primarily  at  the 
+species  level.  Compositionally,  there  was  no  separation  of  re-
+sponders and nonresponders on principal component analysis, 
+primarily because of similar baseline abundance of the top 15 
+most  abundant  species.  Two  species,  Roseburia  inulinivorans 
+and Burkholderiales, were significantly more abundant at base-
+line in CD patients who achieved remission than in those who .
+
+Response to Biologic and Nonbiologic Therapies
+Several  studies  have  examined  the  utility  of  microbial 
+markers in predicting relapse in patients with CD or UC.39-41 An 
+initial analysis of the longitudinal changes in the microbiome 
+was conducted by Kolho et al,41 who profiled 68 children with 
+IBD  among  whom  32  received  anti-TNF  therapy.  During  in-
+duction,  patients  who  responded  (defined  by  a  reduction  in 
+fecal  calprotectin)  showed  increasing  diversity  and  similarity 
+to  healthy  control  patients,  whereas  a  similar  effect  was  not 
+observed  among  those  who  were  nonresponders.  Although 
+the  abundance  of  Bacilli,  Proteobacteria,  and  low-abundance 
+Clostridium clusters increased in nonresponders, these levels did 
+not increase in responders. The authors showed that patients re-
+sponding to anti-TNF therapy had higher baseline abundances 
+of bacteria belonging to Bifidobacterium, Clostridium colinum, 
+Vibrio,  and  Eubacterium  rectale  and  a  lower  abundance  of 
+Streptococcus  mitis.  A  multivariable  model  that  incorporated 
+an abundance of Clostridium sphenoides and Haemophilus spe-
+cies predicted a fecal calprotectin level < 200 mcg/g at 3 months 
+with an accuracy of 0.88.41.
+
+One prior study examined the role of microbial compo-
+sition in predicting response to ustekinumab therapy. Doherty 
+et al27 performed 16s rRNA sequencing from fecal samples of 
+patients treated in a phase 2 clinical trial (CERTIFI) comparing 
+ustekinumab induction and maintenance to placebo. Stool sam-
+ples were obtained at baseline and weeks 4, 6, and 22. A com-
+bined random forest predictive model that incorporated clinical 
+and baseline microbial data performed significantly better than 
+clinical data containing models alone (AUC = 0.84 vs 0.62). In 
+fact, the addition of clinical data did not add predictive value 
+to  microbiome-only  predictive  models  (AUC  =  0.838).  Two 
+OTUs were significantly different between those in remission at 
+week 6 and those with active CD: Bacteroides (P = 0.022) and 
+Faecalibacterium  (P  =  0.003).  Patients  in  remission  at  week  6 
+also had a higher alpha diversity at baseline than did those with 
+active disease. During maintenance therapy through week 22, 
+microbiome-based  models  could  also  classify  disease  activity 
+states  based  on  an  abundance  of  Faecalibacterium,  Blautia, 
+Clostridium XIVa, Ruminococcaceae, and Roseburia..
+
+Two pediatric inception cohorts with serial sampling of 
+the microbiome in mucosa and stool provided insights into the 
+potential  predictive  value  of  microbial  markers  in  identifying 
+disease  progression.14,  23  A  total  of  913  children  were  enrolled 
+at  diagnosis  of  CD,  most  of  whom  had  a  nonstricturing, 
+nonpenetrating phenotype.14 At follow-up, 54 and 24 patients 
+had  stricturing  and  penetrating  complications  respectively, 
+and 21% received anti-TNF therapy. Interestingly, both CBir1 
+positivity  and  the  presence  of  anti-saccharomyces  antibodies 
+was  associated  with  a  risk  of  stricturing  or  penetrating  di-
+sease  behavior.  Expression  of  genes  regulating  acute  inflam-
+matory response to microbes was induced at baseline in those 
+who  developed  penetrating  disease.  Specifically,  fecal  abun-
+dance  of  Rothia  and  Ruminococcus  was  associated  with  the 
+development of stricturing complications and Collinsella abun-
+dance was greater at baseline in patients who developed pene-
+trating  disease.  The  PROTECT  cohort  recruited  400  children 

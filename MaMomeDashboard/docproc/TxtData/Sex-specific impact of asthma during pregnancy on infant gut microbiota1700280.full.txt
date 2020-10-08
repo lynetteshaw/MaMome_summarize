@@ -1,0 +1,1435 @@
+ASTHMA | P.T. KOLEVA ET AL.
+
+it
+
+Introduction
+Asthma is a common chronic disorder during pregnancy, affecting between 8% and 13% of pregnant
+women 
+is often a comorbid condition with food and environmental allergies  Asthma
+exacerbation rates during pregnancy are high  and more severe asthma or poor symptom control have
+been associated with low birthweight  A greater risk for childhood asthma following uncontrolled
+versus controlled maternal asthma during pregnancy has been reported  These variations in risk to the
+offspring point to a potential in utero influence of maternal asthma. Asthma during pregnancy often leads
+to maternal antibiotic treatment and delivery by caesarean  interventions that can interrupt the
+transfer of maternal lactobacilli, which become more prominent in the placenta, gut and vaginal tract in
+the last trimester of pregnancy  Reduced abundance of Lactobacillales has been observed in the
+meconium of newborns of mothers with atopic disease 
+
+Female infants are generally born smaller than male infants; however, in response to maternal asthma, the
+Caucasian male fetus is more likely to have a lower birthweight and show growth retardation when
+delivered at term than the female fetus recently reported less colonisation of stool
+with Lactobacillus species at birth and during the first month of life among full-term male infants in
+comparison to female infants. Postnatally, depending on the Lactobacillus species, since weight promotion
+is species-specific, the dominance of lactobacilli in the infant gut will determine the extent of weight gain
+and subsequent atopic disease  Altogether, evidence is mounting for a programming role of
+prenatal asthma that might affect the infant gut microbiome. These observations led us to study the
+influence of maternal asthma status during pregnancy on infant intestinal microbiota in the Canadian
+Healthy Infant Longitudinal Development (CHILD) general population birth cohort. Specifically, we
+determined whether the genus Lactobacillus was reduced in the gut of infants born to an asthmatic
+mother, especially in the gut of male infants. Second, we sought evidence for a fetal programming role of
+maternal asthma that was independent of birth mode and related events, and was enhanced by maternal
+comorbid conditions, such as overweight and atopic disease.
+
+Material and methods
+Study design and sample collection
+This study was conducted on 1021 mothers and their infants who participated in the Canadian Healthy
+Infant Longitudinal Development (CHILD) Study – a national population-based birth cohort (www.
+canadianchildstudy.ca)  Pregnant women were recruited in their second or third trimester at the
+Manitoba, Edmonton (Alberta) and Vancouver (Ontario) sites of the CHILD cohort. Written informed
+consent was obtained from all mothers. This microbiome study of the CHILD cohort was approved by the
+Human Research Ethics Boards of the University of Alberta (#Pro00010073). Hospital birth records
+provided data on mode of delivery, sex and infant exposures during birth. The mothers’ anthropometry
+pre-pregnancy and infant diets were obtained from standardised questionnaires and hospital records.
+Asthma during pregnancy was defined as present, if mothers had responded ‘yes’ to the question ‘Have
+you had any treatment for asthma or wheezing in the last 12 months?’ in prenatal questionnaires. Any
+treatment for asthma, as indicated by hospitalisation, a physician’s visit or medication use, has been
+validated as a measure for asthma morbidity during pregnancy  The 12-month assessment period of
+included the time just prior to conception. Since 23–30% of asthmatic women
+asthma treatment
+the CHILD study
+discontinue treatment during pregnancy due to lessening symptoms,
+questionnaire would have correctly classified women reporting treatment prior to conception but not
+during pregnancy.
+
+
+
+Data on maternal atopic status during pregnancy was also obtained from prenatal questionnaires as
+symptoms in response to one or more food or environmental allergens, such as hay fever, atopic
+dermatitis, and allergies to pollens, grasses, trees, weeds, food,
+insects or pets. Faecal samples were
+obtained from infants at 3–4 months of age for microbial profiling. Parents were instructed to refrigerate
+soiled diapers prior to retrieval by a CHILD research assistant during a home visit. Faecal samples were
+then transported to the laboratory in a cooler, where they were divided into aliquots and stored at −80°C
+prior to DNA extraction and sequencing.
+
+Sequencing and data processing
+Pooled 16S rRNA fragments were sequenced using the MiSeq Illumina sequencing method at the Centre
+the University of Toronto. Sequences were
+for the Analysis of Genome Evolution & Function at
+de-multiplexed and binned into individual samples according to their barcodes using the QIIME pipeline
+(version 1.8.0). The sequences were then quality filtered by removing reads having more than 10 sites with
+a Phred quality score less than 20. Using the closed-picking algorithm in QIIME, sequences that passed
+quality control were clustered into operational taxonomic units (OTUs) at a 97% similarity cut-off. Finally,
+OTUs were aligned with the Greengenes bacterial reference database (v. 13.5) to identify microbes at the
+
+https://doi.org/10.1183/13993003.00280-2017
+
+2
+
+ASTHMA | P.T. KOLEVA ET AL.
+
+phylum, family and genus levels. The OTUs with an overall relative abundance below 0.0001 were
+excluded from subsequent analyses  After cleaning and processing, the total number of unique OTUs
+was 1325 and the total number of reads was 270 million (median 2.3×105 per sample, range 6.7×103–
+8.3×106). Data were rarefied to 13 000 sequences per sample. The metrics of OTU (microbial) relative
+abundance and diversity (Shannon and Simpson diversity indices, Chao1 species richness index) were
+generated in QIIME to profile infant gut microbiota in individual faecal samples.
+
+Statistical analysis
+The statistical analysis of data was performed with the Statistical Analysis Systems (SAS) Software (version
+9.4.; SAS Institute Inc., Cary, NC, USA). Relative abundance of microbial taxa (at the phylum, family or
+genus level) and biodiversity measures (Chao1, Shannon and Simpson indices) were presented as medians
+and interquartile ranges, because these measures were not normally distributed. Medians were compared
+using the non-parametric Wilcoxon rank sum test or the Kruskal–Wallis test for >2 group comparisons,
+with statistical significance at p<0.05. Although the hypothesis regarding lactobacilli was a priori, the
+Benjamini–Hochberg method to adjust p-values for the false discovery rate (FDR, where p<FDR p) was
+applied to analyses for all bacterial taxa with the SAS multi-test procedure  As gut microbiome
+differences have been reported between European/North American and Asian populations  analyses
+were restricted to mothers of Caucasian ethnicity. Restriction to Caucasian ethnicity also allowed us to test
+associations within a population at highest risk for infant wheeze: male Caucasian infants 
+
+To test the a priori research question on infant sex and adjust for putative confounding factors, analyses
+were stratified by infant sex, birth mode, breastfeeding status and intrapartum antibiotic exposure (also a
+strong marker for infant antibiotic use; . Using the adjusted rank transform (ART) nonparametric test
+for interaction  the p-value for the interaction between infant sex and maternal prenatal asthma on
+Lactobacillus abundance was 0.001. To determine the impact of maternal comorbid conditions, statistical
+testing was also performed following stratification by maternal prenatal atopy status and pre-pregnancy
+weight (normal weight ⩽24.9; overweight ⩾25.0 body mass index). Independence of association between
+maternal asthma during pregnancy, and highest or lowest
+levels was further
+determined using purposeful stepwise logistic regression modelling, adjusting for confounding factors. To
+identify discriminative taxonomic biomarkers, the linear discriminant analysis effect size (LEfSe) was
+conducted with a linear discriminant analysis (LDA) log score cut-off of 2, followed by the Kruskal–Wallis
+test with the Dunn’s multiple comparison test, using no prenatal maternal asthma as the reference group.
+
+tertile Lactobacillus
+
+Results
+9% of the infants under study were born to women with asthma during pregnancy, the majority by vaginal
+delivery; 8% of these infants were born by emergency caesarean and 7% by elective caesarean. Similar to
+the whole cohort, 79% of infants born to asthmatic mothers were fed breast milk at 3–4 months. Prenatal
+maternal asthma was not differentially distributed by infant sex or ethnicity, birth mode, early term birth,
+birthweight, breastfeeding status, maternal pre-pregnancy weight and maternal
+intrapartum antibiotic
+treatment (table 1); it tended to be higher in both the lowest and highest infant weight gain tertiles. Food
+and environmental allergies during pregnancy were more common among women with prenatal asthma
+than among those without asthma. Compared to the complete CHILD birth cohort  our CHILD
+study population of 1021 mother-infant pairs was similar in terms of male sex 
+Caucasian ethnicity 
+
+infants at 3–4 months of age were dominated by members of
+
+Gut microbiota of all
+the phyla
+Bacteroidetes, Firmicutes and Proteobacteria (supplementary figure S1). Microbiota in female infants
+tended to be enhanced with Bacteroidetes (median relative abundance, 20.8% versus 9.3%). With the
+exception of Firmicutes being less abundant in female infants born to women with asthma ( p=0.03), no
+other differences were evident in phylum abundance, microbial richness or diversity between infants born
+to women with versus those without prenatal asthma (supplementary figure S1, supplementary table S1).
+Crude differences in median and high abundance were found for gut colonisation by members of the
+genus Lactobacillus, according to infant feeding and asthma status of the mother (table 1).
+
+The abundance of Lactobacillus was significantly lower among infants born to women with non-Caucasian
+ethnicity and to women with asthma during pregnancy (table 1). Based on the ART test, the p-value for
+the interaction term between prenatal asthma and Caucasian ethnicity was 0.002. In Caucasian infants,
+prenatal maternal asthma was significantly associated with a lower relative abundance of the genus
+Lactobacillus (median 0.001% versus 0.002%, p=0.01; table 2). This genus was not differentially abundant
+by maternal asthma status in non-Caucasian infants (data not shown). Stratification by infant sex yielded
+statistical significance for a reduction in gut Lactobacillus species among Caucasian male infants (median
+0.002% versus 0.0005%, p=0.02), but not female infants born to women with asthma. No differences in gut
+
+https://doi.org/10.1183/13993003.00280-2017
+
+3
+
+ASTHMA | P.T. KOLEVA ET AL.
+
+TABLE 1 Distribution of maternal prenatal asthma status and infant faecal Lactobacillus abundance according to study
+covariates
+
+Prevalence
+
+Proportion with
+maternal prenatal
+asthma #
+
+p-value ¶
+
+Median abundance
+(IQR) of Lactobacillus
+species
+
+Proportion with
+highest Lactobacillus
+abundance #
+
+p-value +
+
+p-value ¶
+
+Subjects n
+Mothers
+
+Maternal asthma during pregnancy
+
+1021
+
+87
+
+1021
+
+Maternal allergies during pregnancy§
+
+Maternal pre-pregnancy overweight status§
+
+<0.0001
+
+Maternal ethnicity§
+
+Asthma
+No asthma
+
+Site
+
+Edmonton
+Winnipeg
+Vancouver
+
+Caucasian
+Asian
+Other
+
+Yes
+No
+
+Normal weight
+Overweight/Obese
+
+Infants
+Sex
+
+Female
+Male
+
+Antibiotic intrapartum exposure§
+
+Exposure
+No exposure
+Mode of delivery§
+
+Vaginal
+Caesarean emergent
+Caesarean elective
+
+Term gestation
+
+Late term (⩾39 weeks)
+Early term (<39 weeks)
+Birthweight (lowest quartile)
+
+Breastfeeding status at 3 months§
+
+Breastfed
+Not breastfed
+
+Weight gain (medium tertile)
+
+Yes
+No
+
+Yes
+No
+
+87 
+934 
+
+345 
+307 
+369 
+
+795 
+137 
+86 
+
+623 
+375 
+
+587 
+396 
+
+476 
+545 
+
+434 
+560 
+
+760 
+139 
+108 
+
+705 
+260 
+
+246 
+750 
+
+828 
+187 
+
+334 
+662 
+
+34 
+22 
+31 
+
+74 
+5 
+8 
+
+75 
+11 
+
+43 
+39 
+
+46 
+41 
+
+42 
+44 
+
+70 
+11 
+6 
+
+71 
+16 
+
+12 
+75 
+
+69 
+18 
+
+21 
+66 
+
+0.47
+
+0.07
+
+0.20
+
+0.26
+
+0.36
+
+0.48
+
+0.08
+
+0.13
+
+0.56
+
+0.06
+
+<0.02
+
+0.02
+
+0.003
+
+0.21
+
+0.18
+
+0.93
+
+0.39
+
+0.31
+
+0.52
+
+0.44
+
+0.0005 
+0.001 
+
+0.0009 
+0.002 
+0.001 
+
+0.002 
+0.0004 
+0.001 
+
+0.001 
+0.002 
+
+0.002 
+0.001 
+
+0.001 
+0.001 
+
+0.001 
+0.002 
+
+0.001 
+0.001 
+0.002 
+
+0.001 
+0.001 
+
+0.002 
+0.001 
+
+0.003 
+0.002 
+
+0.002 
+0.001 
+
+0.0007
+
+0.90
+
+0.03
+
+0.20
+
+0.41
+
+0.43
+
+0.94
+
+0.19
+
+0.74
+
+0.87
+
+255
+
+9 
+246 
+
+88 
+78 
+89 
+
+209 
+22 
+23 
+
+148 
+103 
+
+154 
+94 
+
+113 
+142 
+
+106 
+138 
+
+179 
+36 
+34 
+
+171 
+66 
+
+63 
+185 
+
+246 
+6 
+
+88 
+160 
+
+<0.0001
+
+<0.0001
+
+0.09
+
+0.44
+
+Data are presented as n (%),unless otherwise stated. IQR: interquartile range. p-values <0.05 are indicated in bold. #: percentage of asthma and
+highest Lactobacillus abundance within category; ¶: comparison of proportions was performed using Fisher’s exact test for 2×2 and 2×3
+contingency tables; +: medians were compared with the Wilcoxon rank sum test or Kruskal–Wallis test for >2 group comparisons; §: variables
+with missing information for some infants.
+
+Lactobacillus abundance were found between non-Caucasian males born to mothers with (median
+0.0005%, n=5) and without (median 0.0007%, n=112) prenatal asthma.
+
+To reduce bias from perinatal exposures, comparisons were conducted only within vaginally delivered,
+breastfed infants, who were not exposed to maternal antibiotics during birth. The restricted analyses
+revealed similar trends for the genus Lactobacillus in the gut microbiota of male, Caucasian infants
+( p=0.06) born to an asthmatic mother (table 3, supplementary table S2). Other sex-specific differences
+were uncovered. Following prenatal asthma, the gut of female, Caucasian infants, born vaginally and
+breastfed, without exposure to maternal intrapartum antibiotics, was more abundant in members of the
+
+https://doi.org/10.1183/13993003.00280-2017
+
+4
+
+ASTHMA | P.T. KOLEVA ET AL.
+
+TABLE 2 Median relative abundance of dominant bacterial taxa at the phylum, family and
+genus levels in infant gut microbiota at 3–4 months, according to maternal prenatal asthma in
+all Caucasian infants
+
+All infants with Caucasian mothers
+
+No Asthma
+
+Asthma
+
+Crude p-value
+
+Subjects n
+Actinobacteria
+
+Actinomycetaceae
+Actinomyces
+Bifidobacteriaceae
+Bifidobacterium
+
+Bacteroidetes
+
+Bacteroidaceae
+Bacteroides
+
+Porphyromonadaceae
+
+Firmicutes
+
+Lactobacillaceae¶
+Lactobacillus¶
+
+Clostridiaceae
+Clostridium
+Lachnospiraceae
+
+Blautia
+Dorea
+
+Ruminococcaceae
+Ruminococcus
+
+Veillonellaceae
+Dialister
+Megasphaera
+Veillonella
+Proteobacteria
+
+Enterobacteriaceae
+
+Verrucomicrobia
+
+Verrucomicrobiaceae
+
+Akkermansia
+
+721
+5.9 
+0.03 
+0.02 
+5.1 
+5.1 
+16.9 
+9.0 
+9.0 
+0.005 
+23.5 
+0.002 
+0.002 
+0.4 
+0.02 
+2.9 
+0.001 
+0.0005 
+0.1 
+0.001 
+4.1 
+0.0005 
+0.001 
+2.9 
+17.9 
+16.0 
+0.002 
+0.002 
+0.002 
+
+74
+4.7 
+0.02 
+0.02 
+4.3 
+4.3 
+26.1 
+23.4 
+23.4 
+0.006 
+17.2 
+0.001 
+0.001 
+0.3 
+0.01 
+2.7 
+0.001 
+0.0006 
+0.1 
+0.0006 
+4.0 
+0.0003 
+0.0006 
+2.8 
+15.1 
+13.0 
+0.002 
+0.002 
+0.002 
+
+0.01 #
+0.01 #
+
+0.08
+
+0.07
+
+Data are presented as median (interquartile range), unless otherwise stated. Comparisons were performed
+using the Wilcoxon rank sum test. The false discovery rate (FDR) was used to adjust p-values for multiple
+testing and crude p-values <FDR p-values are indicated by “#”. The p-values <0.1 are reported and
+p-values <0.05 are indicated in bold. ¶: comparison of Lactobacillus was the primary hypothesis.
+
+Bacteroidetes phylum ( p=0.02, table 3) and less abundant in Enterobacteriaceae ( p=0.03). Differences were
+also evident at the Bacteroidaceae family level ( p=0.02, supplementary table S2) in all female breastfed
+infants born vaginally without
+the
+Firmicutes phylum ( p<0.05).
+
+intrapartum antibiotics, alongside a reduction in abundance of
+
+Lactobacilli were less abundant in male infants born to women with asthma and concomitant food or
+environmental allergies, or asthma and pre-pregnancy overweight; statistical significance was not observed in
+the absence of either comorbidity (table 4). Based on the ART test, the p-value for the interaction term
+between prenatal asthma and infant sex on Lactobacillus abundance was 0.003 for maternal atopy
+comorbidity and 0.06 for overweight comorbidity. Following the same maternal asthma comorbidity during
+pregnancy, the abundance of Bacteroidaceae was substantially and significantly higher in female infants. The
+p-value for this sex interaction term was 0.001 for maternal atopy comorbidity and 0.002 for overweight
+(ART test). Firmicutes were much less abundant in females born to overweight mothers with asthma. Within
+the Firmicutes phylum, the genus Megasphaera was less abundant in the infant gut following maternal
+asthma comorbid with overweight or atopy, and this difference was statistically significant in females of
+mothers with atopic asthma (table 4). The p-value for the sex interaction term for differences in Megasphera
+abundance related to maternal atopic asthma was 0.14 (ART test). Following atopic asthma during
+pregnancy, Enterobacteriaceae were less common in the gut microbiota of offspring, more so in males than
+females; only Bacteroidaceae enrichment survived correction for multiple testing. With one exception (when
+the crude p-value was 0.06 with reduced sample size following restriction, as presented in table 3), reductions
+in Lactobacillus abundance were also statistically significant after the FDR correction.
+
+https://doi.org/10.1183/13993003.00280-2017
+
+5
+
+ASTHMA | P.T. KOLEVA ET AL.
+
+TABLE 3 Median relative abundance of dominant bacterial taxa at the phylum, family and genus levels in infant gut microbiota
+at 3–4 months, by maternal prenatal asthma and infant sex in Caucasian, vaginally delivered, breastfed infants, not exposed to
+maternal antibiotics during birth
+
+Female infants ¶
+
+Male infants ¶
+
+No Asthma
+
+Asthma
+
+No Asthma
+
+Asthma
+
+Crude
+p-value
+
+Crude
+p-value
+
+Subjects n
+Actinobacteria
+
+Actinomycetaceae
+Actinomyces
+Bifidobacteriaceae
+Bifidobacterium
+
+Bacteroidetes
+
+Bacteroidaceae
+Bacteroides
+
+Porphyromonadaceae
+
+Firmicutes
+
+Lactobacillaceae+
+Lactobacillus+
+
+Clostridiaceae
+Clostridium
+Lachnospiraceae
+
+Blautia
+Dorea
+
+Ruminococcaceae
+Ruminococcus
+
+Veillonellaceae
+Dialister
+Megasphaera
+Veillonella
+Proteobacteria
+
+Enterobacteriaceae
+
+Verrucomicrobia
+
+Verrucomicrobiaceae
+
+Akkermansia
+
+145
+7.8 
+0.03 
+0.03 
+6.8 
+6.8 
+31.0 
+25.7 
+25.7 
+0.006 
+17.5 
+0.004 
+0.004 
+0.2 
+0.02 
+1.8 
+0.0007 
+0.0002 
+0.03 
+0.0004 
+3.2 
+0.0009 
+0.001 
+1.9 
+19.1 
+17.7 
+0.001 
+0.001 
+0.001 
+
+17
+6.4 
+0.02 
+0.01 
+6.4 
+6.4 
+72.8 
+51.9 
+51.9 
+0.007 
+9.3 
+0.004 
+0.004 
+0.2 
+0.004 
+0.7 
+0.001 
+0.003 
+0.2 
+0.02 
+1.6 
+0.0009 
+0.0009 
+1.3 
+10.1 
+9.8 
+0.001 
+0.001 
+0.001 
+
+165
+7.0 
+0.01 
+0.01 
+6.5 
+6.5 
+38.8 
+31.8 
+31.8 
+0.004 
+13.9 
+0.004 
+0.004 
+0.09 
+0.006 
+1.3 
+0.0008 
+0.0004 
+0.04 
+0.001 
+2.0 
+0.0004 
+0.0008 
+1.4 
+15.6 
+14.4 
+0.002 
+0.002 
+0.002 
+
+10
+9.1 
+0.01 
+0.01 
+8.1 
+8.1 
+51.9 
+33.6 
+33.6 
+0.02 
+19.2 
+0.0004 
+0.0004 
+0.2 
+0.009 
+1.7 
+0.0005 
+
+0.0 
+0.02 
+0.0003 
+1.9 
+0.0003 
+0.0005 
+0.5 
+12.6 
+12.3 
+0.0006 
+0.0006 
+0.0006 
+
+0.02 #
+0.06
+0.06
+
+0.07
+
+0.01 #
+
+0.08
+
+0.06
+0.03
+
+0.06
+0.06
+
+-
+
+0.08
+0.08
+0.08
+
+Data are presented as median (interquartile range), unless otherwise stated. Comparisons were performed using the Wilcoxon rank sum test.
+The false discovery rate (FDR) was used to adjust p-values for multiple testing and crude p-values <FDR p-values are indicated by “#”. The
+p-values <0.1 are reported and p-values <0.05 are indicated in bold. ¶: restricted to Caucasian, vaginally delivered, breastfed infants not
+exposed to maternal antibiotics during birth; +: comparison of Lactobacillus was the primary hypothesis.
+
+Adjustment for covariates in multi-variable regression showed the association between prenatal maternal
+asthma and gut lactobacilli in offspring to be quite robust (table 5). Independent of maternal atopy status
+and pre-pregnancy weight, birth mode, intrapartum antibiotic prophylaxis, breastfeeding status and sex,
+infants exposed to maternal asthma during pregnancy were one-third as likely to have Lactobacillus
+abundance in the highest tertile at 3–4 months of age. Statistical significance was confirmed in male (aOR,
+0.26, 95% CI 0.07–0.89), but not female infants (aOR, 0.48, 95% CI 0.17–1.32). Regression models to
+predict
+tertile Lactobacillus abundance in infants as the outcome, showed no statistical
+associations with prenatal asthma status (data not shown). Only 2% of Caucasian infants received
+probiotic products; their exclusion from analyses did not change any of the findings.
+
+the lowest
+
+the species level (figure 1), an unclassified
+Finally, using the LEfSe method to test differences at
+Lactobacillus species was found to be less abundant in male Caucasian infants born to mothers with atopic
+asthma (LDA score 2.93, p<0.05). Unclassified Megasphera species (LDA score 3.34, p=0.003) were
+comparatively less abundant and Bacteroides fragilis (LDA 3.29, p=0.02) were more abundant in female
+Caucasian infants born to mothers with atopic asthma.
+
+Discussion
+In a birth cohort study of 1021 full-term Canadian infants, we detected alterations to gut microbial
+composition at 3–4 months following pregnancy complicated with asthma versus pregnancy without
+asthma. Infants of mothers with asthma harboured fewer lactobacilli in their gut microbiota, especially if
+
+https://doi.org/10.1183/13993003.00280-2017
+
+6
+
+ASTHMA | P.T. KOLEVA ET AL.
+
+TABLE 4 Median relative abundance of selected infant gut microbiota at 3–4 months, by maternal prenatal asthma, stratified by
+infant sex and maternal comorbid conditions during pregnancy
+
+Female infants
+
+Male infants
+
+No Asthma
+
+Asthma
+
+Crude p-value
+
+No Asthma
+
+Asthma
+
+Crude p-value
+
+Maternal allergies during pregnancy ¶
+
+Maternal pre-pregnancy overweight ¶
+
+Subjects n
+Bacteroidetes
+
+Bacteroidaceae
+
+Firmicutes
+
+Lactobacillaceae+
+Lactobacillus+
+
+Veillonellaceae
+
+Megasphaera
+
+Proteobacteria
+
+Enterobacteriaceae
+
+Subjects n
+Bacteroidetes
+
+Bacteroidaceae
+
+Firmicutes
+
+Lactobacillaceae+
+Lactobacillus+
+
+Veillonellaceae
+
+Megasphaera
+
+Proteobacteria
+
+Enterobacteriaceae
+
+185
+15.1 
+9.8 
+21.6 
+0.002 
+0.002 
+4.0 
+0.002 
+17.4 
+15.6 
+
+140
+8.7 
+5.4 
+24.0 
+0.002 
+0.002 
+5.5 
+0.001 
+16.6 
+15.3 
+
+30
+57.2 
+38.9 
+16.5 
+0.001 
+0.001 
+2.7 
+0.0005 
+13.2 
+11.0 
+
+13
+76.8 
+51.9 
+7.4 
+0.001 
+0.001 
+2.0 
+0.0004 
+9.1 
+9.1 
+
+0.02 #
+0.03 #
+
+0.02 #
+
+0.001 #
+0.004 #
+0.0008 #
+
+0.05
+0.08
+
+244
+10.1 
+7.9 
+22.7 
+0.002 
+0.002 
+3.8 
+0.001 
+20.4 
+18.3 
+
+151
+29.9 
+22.6 
+17.7 
+0.001 
+0.001 
+3.1 
+0.001 
+16.1 
+14.1 
+
+34
+3.0 
+1.8 
+24.0 
+0.0005 
+0.0005 
+5.4 
+0.0005 
+15.4 
+9.4 
+
+20
+0.3 
+0.2 
+28.1 
+0.0002 
+0.0002 
+4.5 
+0.0005 
+20.0 
+18.2 
+
+0.03 #
+0.03 #
+
+0.05
+
+0.03 #
+0.03 #
+
+0.06
+
+Data are presented as median (interquartile range), unless otherwise stated. Comparisons were performed using the Wilcoxon rank sum test.
+The false discovery rate (FDR) was used to adjust p-values for multiple testing and crude p-values <FDR p-values are indicated with “#”. The
+p-values <0.1 are reported and p-values <0.05 are indicated in bold. ¶: restricted to Caucasian infants; +: comparison of Lactobacillus was the
+primary hypothesis.
+
+TABLE 5 Likelihood of highest tertile Lactobacillus abundance in the infant gut at 3–4 months of age according to maternal
+prenatal asthma, all children and sex-specific#
+
+Subjects n
+
+Crude models
+
+Adjusted models ¶
+
+OR 
+
+p-value
+
+aOR 
+
+p-value
+
+All infants
+Female infants
+Male infants
+
+710
+324
+386
+
+0.35 
+0.45 
+0.26 
+
+0.006
+0.11
+0.02
+
+0.36 
+0.48 
+0.26 
+
+0.01
+0.16
+0.03
+
+#: analysis was restricted to Caucasian mothers; ¶: each model was adjusted for maternal pre-pregnancy weight, maternal food and
+environmental allergies during pregnancy, mode of delivery, maternal intrapartum antibiotic treatment, infant sex and breastfeeding status at
+3–4 months. OR: odds ratio; aOR: adjusted odds ratio; CI: confidence interval. The p-values <0.05 are indicated in bold.
+
+they were male and of Caucasian ethnicity ( p=0.02). Moreover, the reduction in Lactobacillus species
+abundance was most apparent if Caucasian mothers with asthma had pre-pregnancy overweight or a
+history of food or environmental allergies. While no prior evidence exists for maternal prenatal asthma,
+these findings are compatible with the reduced Lactobacillales abundance observed in the meconium of
+newborns of mothers with eczema, and lower faecal colonisation with Lactobacillus species in infants of
+atopic parents  In our study, male infants born to mothers with prenatal asthma were one-third
+(aOR 0.26, 95% CI: 0.07–0.89) as likely to be colonised with high levels of lactobacilli, independent of
+maternal overweight or atopy status, birth mode or infant diet. These associations were not present in
+female offspring.
+
+Male infants are at higher risk of developing wheeze during infancy than female infants, especially if they
+are Caucasian  although sex differences in gut microbiota composition have not been a focus of
+attention until recently  Literature reporting a higher risk for overweight with antibiotic use in male,
+
+https://doi.org/10.1183/13993003.00280-2017
+
+7
+
+ASTHMA | P.T. KOLEVA ET AL.
+
+Asthmatic
+Normal
+
+a: s_fragilis
+b: g_Bacteroides
+c: f_Bacteroidaceae
+d: Other_Cloistridium
+e: s_Uncl_Megasphaera
+f: g_Megasphaera
+g: s_Uncl_Pseudomonas
+h: g_Pseudomonas
+i: f_Pseudomonas
+
+c_Bacteroidia
+o_Bacteroidales
+
+c
+
+b
+
+a
+
+g
+
+ih
+
+Asthmatic
+Normal
+
+Asthmatic
+Normal
+
+b)
+
+e
+
+LDA score (log 10)
+
+e
+
+f
+
+4 3 2 1 0
+
+–1
+
+–2
+
+–3
+
+–4
+
+–5
+
+Asthmatic
+Normal
+
+a: s_Uncl_Actinomyces
+b: g_Actinomyces
+c: f_Actinomycetaceae
+d: s_Uncl_Gemellaceae
+e: g_Uncl_Gemellaceae
+f: f_Gemellaceae
+g: s_Uncl_Lactobacillus
+h: s_Uncl_Lactococcus
+i: g_Lactococcus
+j: s_Uncl_Megamonas
+k: g_Megamonas
+l: Other_Trabulsiella
+m: g_Trabulsiella
+
+b c
+
+a
+
+mI
+
+a)
+
+l a l e s
+
+o _ G e m e l
+f
+e
+
+d
+
+g
+
+i
+
+h
+
+I
+
+k
+
+4 3 2 1 0
+
+–1
+
+–2
+
+–3
+
+–4
+
+LDA score (log 10)
+
+o_Bacteroidales
+
+p_Bacteroidetes
+
+c_Bacteroidia
+
+g_Bacteroides
+
+f_Bacteroidaceae
+
+f_Pseudomonaceae
+
+s_Uncl_Pseudomonas
+
+g_Pseudomonas
+
+s_fragilis
+
+g_Megasphaera
+
+s_Uncl_Megasphaera
+
+Other_Clostridium
+
+g_Megamonas
+
+s_Uncl_Megamonas
+
+g_Actinomyces
+
+s_Uncl_Actinomyces
+
+f_Actinomycetaceae
+
+g_Lactococcus
+
+s_Uncl_Lactococcus
+
+f_Gemellaceae
+
+s_Uncl_Gemellaceae
+
+o_Gemellaceae
+
+g_Uncl_Gemellaceae
+
+s_Uncl_Lactobacillus
+
+g_Trabulsiella
+
+Other_Trabulsiella
+
+FIGURE 1 Cladogram and linear discriminant analysis (LDA) plots for prenatal maternal atopic asthma by a) male and b) female Caucasian infants
+from LDA effect size (LEfSe) methods.
+
+female infants
+
+but not
+suggests differential sensitivity of male gut microbiota to environmental
+perturbations found that the response of the
+male placenta to maternal asthma exacerbations was minimal compared to that of the female placenta,
+with few changes to pro-inflammatory gene expression and 11β-hydroxysteroid dehydrogenase activity in
+the placenta. This reduced response of the placenta heightened the risk for intrauterine growth restriction
+in male newborns. Noteworthy in our study is that no other significant changes to gut microbial
+composition were found for male infants born to asthmatic mothers, and Lactobacillus differences survived
+multiple correction. In alignment with evidence for prenatal asthma programming effects on infant
+growth, and the link between infant growth and gut microbial composition and atopic dermatitis 
+our results hint at possible sexually dimorphic effects of prenatal asthma on infant gut microbiota.
+
+tract
+
+the human gastrointestinal
+
+lactate-producing
+in early infancy 
+As persistent residents of
+lactobacilli are less abundant in the gut of
+infants who develop atopic disease by age 5 
+Lactobacillus species are documented to elevate growth and immune factors in breast milk and
+anti-inflammatory cytokine levels in cord blood, when administered prenatally to the mother  and
+postnatally, lactobacilli probiotics promote weight gain in infants 
+less than 2500 g to be more common following a mid-pregnancy vaginal
+observed birthweights of
+found in
+microbiota dominated by non-lactobacilli versus lactobacilli microbes. Further,
+amniotic fluid are capable of modulating expression of toll-like receptor genes in the fetal gut  In our
+study, the reduction in Lactobacillus abundance was most apparent among infants whose mothers had
+asthma and overweight or a history of allergies. Indeed, risk for atopic sensitisation at age 5 is reportedly
+elevated, with lower Lactobacillus colonisation by the age of 2 months in infants born to atopic parents 
+Other high-risk cohort studies have found discordant faecal microbial biomarkers for atopic disease, such as
+
+lactobacilli
+
+https://doi.org/10.1183/13993003.00280-2017
+
+8
+
+ASTHMA | P.T. KOLEVA ET AL.
+
+lower abundance of Bacteroidetes or Ruminococcaceae, or higher abundance of the Clostridium cluster, but
+these observations were evident either at a much younger or older infant age; furthermore, sex-specific
+findings were not reported in these studies 
+
+Maternal overweight during pregnancy has been linked to a higher risk of asthma and other atopic
+diseases in offspring  In our study infants, maternal asthma comorbidity with this added risk for
+offspring also yielded a reduction in the abundance of faecal Megasphaera in female infants and an
+elevation in the abundance of Bacteroidaceae. The latter remained statistically significant after adjustment
+for the FDR; both species were identified as statistically more abundant by the LEfSe method. Both
+Megasphaera and Bacteroidaceae microbes produce propionate, but under opposing conditions. The
+Megasphaera species utilise lactate as a substrate to produce propionate  whereas Bacteroides species
+produce propionate when lactate levels are low  Propionate is absorbed by the host for liver
+gluconeogenesis, possesses anti-inflammatory and satiety properties  and protects against the
+development of allergic asthma in a murine model 
+
+Lactobacillus bacteria are available to the newborn during vaginal delivery and breastfeeding, and are
+sensitive to antibiotic treatment  Caesarean delivery and formula feeding have the potential to
+diminish maternal transfer of lactobacilli and other microbes to the infant  Yet, the reduction in
+Lactobacillus abundance was also evident in male infants who were breastfed following vaginal delivery
+without maternal antibiotics, although statistical significance was lost after the reduction in sample size.
+Under the same circumstances, an enrichment of Bacteroidaceae and depletion of Enterobactericeae was
+detected in female microbiota following maternal prenatal asthma. Of interest, in the same cohort of
+infants, we found that a lower ratio of the faecal abundance of Enterobactericeae to Bacteroidaceae
+protected against food sensitisation  Hence, our findings suggest a programming role for maternal
+asthma in shaping early gut colonisation, which cannot be attributed to caesarean delivery, antibiotic use
+or formula feeding, and which differs by sex and might confer less immediate risk for allergy in female
+infants 
+
+There are several strengths to our research. Our findings were based on a large population-based cohort of
+full-term infants that included early-term infants, who are more likely to be delivered by asthmatic women
+and develop asthma  The large sample size also afforded stratification by covariates to identify
+associations between microbiota and maternal asthma, which were independent of birth-related events 
+We adjusted p-values for multiple testing and verified sex and ethnicity interactions with a non-parametric
+test for interaction. High throughput gene sequencing enabled profiling of whole microbial communities in
+infant faecal samples, whereas most studies to date have targeted individual species. On the other hand, while
+the pregnancy questionnaire included criteria which had been validated as measures of prenatal asthma
+morbidity, maternal asthma status during pregnancy was not verified by a physician; neither did we test
+asthma severity, which might explain the modest impact of maternal asthma on birthweight 
+
+Both prenatal and postnatal exposures are potential stimuli for health programming in the infant, through
+the modification of intestinal microbiota  Initial colonisation of the neonatal gut plays a central
+role in the development of
+the immune system  Our results provide the first evidence of a
+programming effect of prenatal maternal asthma on gut microbial composition that is independent of
+birth and postnatal events. In addition to smaller lung size at birth 
+reductions in gut lactobacilli point to another pathway for persistent asthma in male Caucasian infants.
+Having fewer intestinal lactobacilli also has additional implications for male infants, such as reduced resistance
+to pathogens  whereas gut microbial changes, such as an increased abundance of Bacteroidaceae, might
+have a protective effect in female infants.
+
+Acknowledgements
+We are grateful to all the families who took part in this study, and the whole CHILD team, which includes interviewers,
+computer and laboratory technicians, clerical workers, research scientists, volunteers, managers, receptionists and nurses.
+We thank Sarah Bridgman for her assistance in formatting the final version of the manuscript and Konstantin
+Shestopaloff for completing the ART tests. Anita Kozyrskyj will serve as the guarantor for the contents of this paper.
+
+CHILD Study Investigators: SS Anand, McMaster University; MB Azad, University of Manitoba; AB Becker, University
+of Manitoba; AD Befus, University of Alberta; M Brauer, University of British Columbia; JR Brook, University of
+Toronto; E Chen, Northwestern University, Chicago; MM Cyr, McMaster University; D Daley, University of British
+Columbia; SD Dell, The Hospital for Sick Children and University of Toronto; JA Denburg, McMaster University;
+QL Duan, Queen’s University; T Eiwegger, The Hospital for Sick Children and University of Toronto; H Grasemann,
+The Hospital for Sick Children and University of Toronto; K HayGlass, University of Manitoba; RG Hegele, The
+Hospital for Sick Children and University of Toronto; DL Holness, University of Toronto; P Hystad, Oregon State
+University; M Kobor, University of British Columbia; TR Kollmann, University of British Columbia; AL Kozyrskyj,
+University of Alberta; C Laprise, Université du Québec à Chicoutimi; WYW Lou, University of Toronto; J Macri,
+McMaster University; PJ Mandhane, University of Alberta; G Miller, Northwestern University, Chicago; TJ Moraes, The
+Hospital for Sick Children and University of Toronto; P Paré, University of British Columbia; C Ramsey, University of
+
+https://doi.org/10.1183/13993003.00280-2017
+
+9
+
+ASTHMA | P.T. KOLEVA ET AL.
+
+Manitoba; F Ratjen, The Hospital for Sick Children and University of Toronto; A Sandford, University of British
+Columbia; J Scott, University of Toronto; JA Scott, University of Toronto; MR Sears (Founding Director), McMaster
+University; F Silverman, University of Toronto; E Simons, University of Manitoba; P Subbarao (Director), The Hospital
+for Sick Children and University of Toronto; T Takaro, Simon Fraser University; SJ Tebbutt, University of British
+Columbia; T To, The Hospital for Sick Children and University of Toronto; SE Turvey (Co-director), University of
+British Columbia.
+
+Author contributions: P.T. Koleva performed statistical analysis, prepared figures and tables, and wrote the first draft of
+the manuscript. A.L. Kozyrskyj conceived the study and obtained funding, designed the analyses and wrote the final
+version of the manuscript. H.M. Tun conducted the LEfSE analyses. Under the supervision of J.A. Scott, T. Konya
+conducted DNA extraction and sample preparation for sequencing in the laboratory of D. Guttman. Microbiota
+bioinformatics was conducted by J.A. Scott, D. Guttman, A.B. Becker, P.J. Mandhane, P. Subbarao, S.E. Turvey; and M.
+R. Sears helped obtain funding, advised on the study design, and coordinated data collection. All authors provided
+critical comments on the manuscript content and approved the final version of the manuscript.

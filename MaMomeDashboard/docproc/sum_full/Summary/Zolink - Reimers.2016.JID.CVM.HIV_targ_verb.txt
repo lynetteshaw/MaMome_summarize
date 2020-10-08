@@ -1,0 +1,56 @@
+the commonality that relates both BV and vaginal pH to HPV
+infection (independent of HIV) is the RA of certain Lactobacil-
+lus species, most notably L. crispatus. Women with rapidly progression of
+HIV-associated immunosuppression had a lower CD4+ T-cell
+count than HIV-infected women with stable immune status
+and HIV-uninfected women (P < .001). HIV-uninfected
+women were less likely than HIV-infected women to use con-
+doms in the past 6 months (P = .001). Self-report of Trichomo-
+nas vaginalis infection, BV, candidiasis, or STIs within the past. Figure 2 displays a heat map of the RA data for the 25 most
+abundant genera or species and how they cluster within each
+CST. L. crispatus dominated CST I, CST II was dominated by
+Lactobacillus gasseri, both CST III and IV-A were dominated
+by Lactobacillus iners, and CST V was dominated by Lactobacil-
+lus jensenii. Figure 2 additionally shows the SDI for each study
+visit, and as expected CSTs I through IV-A and V (each dom-
+inated by a single Lactobacillus species) had a low SDI, com-
+pared with CST IV-B. The ﬁgure also presents the proportion
+of oncogenic HPV–positive women-visits for each CST..
+
+Table 3 shows multivariate GEE logistic regression models of
+the associations between CSTs and the prevalent detection of
+HPV. While CST I (L. crispatus dominated)
+had an inverse association with detection of any HPV and espe-
+cially with any oncogenic HPV, the relationship was of border-
+line statistical signiﬁcance (eg, odds ratio [OR] for oncogenic
+HPV was 0.30 [95% conﬁdence interval {CI},
+.08–1.11];
+P = .07). Nor did exclusion
+of pH from the above models discernibly alter any ﬁndings
+(data not shown). The implications may be
+especially important for HIV-infected women, since the inverse
+L. crispatus–oncogenic HPV associations we observed were
+independent of HIV and host immune status and therefore
+indicate similar potential beneﬁt among those with a low
+CD4+ T-cell count..
+
+IV-B, lowa Lactobacillus
+I, L. crispatus. D-lactic acid (but not L-lactic acid) levels have been
+inversely associated with the ability of HIV to transverse cervi-
+covaginal mucous  An antiviral effect of D-lactic acid would
+be consistent with our results for oncogenic HPV, since L. crisp-
+atus produces D and L isoforms of lactic acid, whereas L. iners. On the other hand, bacteriocins produced by
+L. crispatus may have antiviral effects. L. crispatus has additionally been
+noted to have potential immunomodulatory activity. Relation of Lactobacillus crispatus Relative Abundance to Detection of Human Papillomavirus (HPV). This was addressed in part
+by the use of efﬁcient analytic methods able to incorporate all
+available serial HPV and microbiome data. The study
+also focused on only premenopausal African American women,
+which was done to reduce the number of factors being studied..
+
+In summary, our results suggest a beneﬁcial effect of L. crisp-
+atus on the burden of HPV in HIV-infected and HIV-uninfected
+women that is unrelated to pH. Further research to better un-
+derstand these relationships is strongly warranted, including
+large prospective cohort studies and laboratory research to un-
+derstand the mechanisms that underlie the relation of the cer-
+vicovaginal microbiota with HPV infection.

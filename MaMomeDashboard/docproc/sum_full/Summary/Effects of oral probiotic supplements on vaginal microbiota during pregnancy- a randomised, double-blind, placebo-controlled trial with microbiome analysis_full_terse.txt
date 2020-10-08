@@ -1,0 +1,46 @@
+in
+
+use
+
+symptomatic
+
+including preterm birth (PTB).1–4 Antibiotics are effective
+in eradicating BV during pregnancy5 and are recommended
+The
+for
+consequences of antibiotic use during pregnancy have been
+poorly studied,7 but
+there are concerns that antibiotic-
+related changes in the vaginal microbiota8 are associated
+with short- and long-term morbidity in infancy and later
+years.9
+
+pregnant women.6
+
+Probiotics might be a safe and effective alternative to
+antibiotics in restoring the imbalance of the vaginal micro-
+biota found in BV. Sequences were clus-
+(OTUs) at a
+tered into operational
+sequence dissimilarity distance of 0.015 using an average
+neighbour algorithm and then classiﬁed using a Na€ıve
+Bayesian classiﬁer implemented in mothur with the Human
+Oral Microbiome Database release 14.51 reference dataset. Prior to this
+trial, a qualitative study was conducted to obtain input
+from women.32 The available core outcome set for PTB33
+had an inﬂuence on data collected. We used probiotics that are safe during pregnancy
+and have been reported to colonise the vagina in some
+non-pregnant women within 2 weeks of treatment.19 Before
+the start of the study, we conﬁrmed the viability of the lac-
+tobacilli in the probiotic capsules and that our laboratory
+techniques would detect them in culture. BJOG: An International Journal of Obstetrics and Gynaecology published by John Wiley & Sons Ltd on behalf of
+Royal College of Obstetricians and Gynaecologists
+
+Probiotics and vaginal microbiota in pregnancy
+
+Figure 3. Our ﬁndings
+those recently reported by Gille
+et al.44 In a randomised, controlled trial, 320 women at
+<12 weeks’ gestational age were allocated to once-daily oral
+capsules of L. rhamnosus GR-1 or L. reuteri RC-14 or pla-
+cebo for 8 weeks.

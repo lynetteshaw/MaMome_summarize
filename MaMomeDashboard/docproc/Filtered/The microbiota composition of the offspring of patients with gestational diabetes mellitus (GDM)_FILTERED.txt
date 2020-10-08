@@ -1,0 +1,37 @@
+6_PARAGRAPHS
+
+Blautia, Bacteroides and Bifidobacterium were extracted and entropy analysis and oligotyping
+were carried out since these were the only OTUs showing higher level of entropy able to
+obtain sub-OTUs. After the first round of oligotyping, high entropy positions were chosen (-C
+option): 8, 12, 113, 223, 224, 247, 432, 433 for Blautia; position 8, 12, 40, 74, 75, 116, 117, 124,
+129, 130, 390, 397, 452 and 453 were chosen for Bacteroides; while position 8, 12, 14, 81, 114,
+115, 158, 159, 160, 328, 329, 389, 437, 438, 439, 440, 441, 442, 443 and 444 were chosen for Bifi-
+dobacterium. In order to reduce the noise, each oligotype should appear in at least 10 samples,
+occur in more than 1.0% of the reads for at least ten samples, represent a minimum of 750
+reads in all samples combined, and have a most abundant unique sequence with a minimum
+abundance of 50. A cladogram of representative sequences was generated using the ANVIOs
+software .
+
+In order to explore the possible mother-to-infant gut microbiota transmission at sub-OTUs
+level, we carried out oligotyping on sequences of Blautia, Bacteroides and Bifidobacterium
+since these were the only genera showing a Shannon entropy index sufficient to identify all.
+
+abundance of the Blautia oligotypes increased during the pregnancy and were lower in the
+infants (S4A Fig). A high degree of mother-offspring concordance was found for B11
+(P = 0.008) and B42 (P<0.001); both were identified as Blautia wexlerae by best BLASTn
+match. A reduction in the relative abundance of Bacteroides oligotypes was observed across
+pregnancy while few oligotypes were observed to be dominant in the offspring samples
+(S4B Fig)..
+
+S4 Fig. Distribution in representative Blautia (plot A) and Bacteroides (plot B) oligotypes.
+Plot showing the sequence distribution in GDM patients at enrolment (red bars), study end
+(green bars) and their offspring (blue bars). Inner bars indicate the presence of an oligotype
+in a given sample. Outer circle, if colored, denotes oligotype abundance with high degree of
+mother-offspring concordance.
+(TIF).
+
+Amenta, Clara Monzeglio, Roberto Gambino, Simona Bo..
+
+Investigation: Valentina Ponzo, Ilario Ferrocino, Adriana Zarovska, Maria Bernadette
+Amenta, Filomena Leone, Clara Monzeglio, Marianna Pellegrini, Roberto Gambino,
+Simona Bo.

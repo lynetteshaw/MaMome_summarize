@@ -1,0 +1,126 @@
+Even though they have limitations
+like all other models, they present some important
+immunological and histopathological aspects of IBD in
+humans  The most widely used and characterized
+experimental model of erosion and inﬂammation related
+to UC in mice is the dextran sulphate sodium (DSS)-
+induced colitis, which is developed by DSS administration
+either in the drinking water or via intragastric
+catheter  The DSS induces a reproducible
+acute colitis  however, there is some controversy
+regarding the type of inﬂammation that is induced. For
+some, the DSS model is recognized as a true model of
+colitis, while for others the model represents a model of
+epithelial erosion, but it is believed that DSS is directly
+toxic to gut epithelial cells of the basal crypts and affects
+the integrity of the mucosal barrier  However,
+the model induces an acute colitis that is characterized
+by ulceration and inﬁltration, and also reﬂects many
+of the clinical features of IBD  For example,
+among other features, changing the DSS concentration or
+administration cycles can easily induce acute, chronic,
+and relapsing colitis. The aim of the present study was to utilize Illumina
+sequencing of the 16S rRNA gene and inferred meta-
+genomics by open source software PICRUSt (Phyloge-
+netic Investigation of Communities by Reconstruction of
+Unobserved States  to investigate differences in
+microbiome composition and function in the fecal and
+colonic mucosa of mice treated with 5% DSS for 5 days. 2016, 56, 1–13
+
+the animal care facility at the Faculty of Health Sciences,
+University of Manitoba. Controls were time-matched and consisted of
+mice that received normal drinking water only. Blood was assessed using the Hemoccult II test
+(Beckman coulter, Oakville, ON, Canada). DNA extraction
+from colonic mucosa samples was done using ZR Tissue
+and Insect DNA kit (Zymo Research Corp.). Amplicons were veriﬁed by agarose
+gel electrophoresis. This was followed by multiple dilution steps using pre-
+chilled hybridization buffer (HT1) (Illumina, San Diego,
+CA, USA) to bring the pooled amplicons to a ﬁnal
+concentration of 5 pM, measured by Qubit 2.0 Fluorom-
+eter (Life technologies, Burlington, ON, Canada). The
+sequencing data are uploaded into the Sequence Read
+Archive (SRA) of NCBI (http://www.ncbi.nlm.nih.gov/sra)
+and are accessible through accession number SRR2830596. for further comparisons between
+microbial communities. Data were presented in loading scatter
+plots. The new OTU table
+was then used to generate metagenomic data after
+normalizing the data by copy numbers, and to derive
+relative Kyoto Encyclopedia of Genes and Genomes
+(KEGG) Pathway abundance  The KEGG data were
+analyzed using STAMP (STatistical Analysis of Metage-
+nomic Proﬁles) 
+
+Statistical analysis
+The UNIVARIATE procedure of SAS (SAS 9.3, 2012) was
+used to test the normality of residuals for a-diversity
+data. The differences between groups were
+considered signiﬁcant at p < 0.05. loss, and the
+presence of blood in the feces were increased whereas
+stool consistency was decreased. Microbiota composition at phylum and lower
+taxonomic levels in the fecal samples
+A total of 259,126 sequences were generated after quality
+ﬁltering steps with an average of 28,791 high-quality
+sequences per sample, which resulted in identiﬁcation of
+11 phyla and 86 taxa. Values are
+shown as the mean (cid:4) SEM. (cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+6
+
+Peris Mumbi Munyaka et al. The p values shown
+on top of each bar were calculated using SAS. a) Fecal
+samples clustered separately according to treatment status of the mice, suggesting that DSS and control mice samples are composed of
+distinct bacterial communities; (b) colon mucosa samples have shared bacterial communities. The p values were determined using
+PERMANOVA. Results of the relative abundances of
+various phyla are summarized in Fig. Bacterial taxa with relative abundance of (cid:5)0.01% of
+community were analysed using PLS-DA to identify
+bacteria that were most characteristic of the DSS or
+control treatments. 5a, Bacteroides
+ovatus, Clostridium perfrigens, Helicobacter hepaticus, and
+Parabacteroides distasonis; g. Desulfovibrio, Escherichia,
+Helicobacter, Clostridium,
+Parabacteroides,
+Bacilli, Allobaculum, Coprobacillus, Bacteroides, rc4-4; and
+unclassiﬁed members of f. Enterobacteriaceae, Clostri-
+diaceae, Bacteroidaceae; o. RF39, RF32, Bacteroidales,
+and Erysipelotrichales were positively correlated with
+the DSS group but negatively correlated with the
+control group. The low-abundance phyla (<1% of
+included Acidobacteria, Actinobacteria,
+community),
+Cyanobacteria, Fibrobacteres, Lentisphaerae, Planctomy-
+cetes, Spirochaetes, TM7, and Tenericutes. In this context, the fecal
+microbiome of DSS-treated mice was associated with but
+not limited to, increased fatty acid biosynthesis, lysine
+degradation, pyruvate metabolism, propanoate metabo-
+lism, replication, recombination and repair proteins,
+and transcription machinery . From the macroscopic assessment of disease
+severity in the colon, it was apparent that mice in the
+DSS-induced colitis treatment exhibited overt features of
+colitis compared to the healthy control group, which is
+in agreement with previous results where a DSS model
+was used  Also, analysis of the inﬂammatory
+markers including serum CRP level, a marker of systemic
+inﬂammation, showed signiﬁcant differences between
+the two groups as DSS up-regulated this marker. This indicates that proﬁling of
+fecal and colonic bacteria by Illumina sequencing may
+be sensitive for investigating changes associated with
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. Lending support to these results,
+Berry et al. Generally,
+despite these differences in relative abundances of
+speciﬁc phylotypes, there appear to be a consensus in
+overall decrease in biodiversity in IBD patients and in
+murine models of colitis 
+
+The mechanisms by which DSS induced stronger
+bacterial shifts in the feces than in the colon mucosa
+
+are not fully understood.

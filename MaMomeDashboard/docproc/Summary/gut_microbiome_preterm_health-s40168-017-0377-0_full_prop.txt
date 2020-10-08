@@ -1,0 +1,132 @@
+Microbiome  5:158 
+
+Page 2 of 19
+
+infant nutrition, and common clinical practices in neonatal
+care  We hypothesize that assembly and function
+of the preterm infants’ gut microbiota is associated with
+postnatal growth patterns and represents a yet unexplored
+personalized therapeutic potential for optimizing infant
+development. We first defined the phases and phase transition points
+in longitudinal gut microbiota samples from two cohorts
+of preterm and full-term infants from the multicenter
+Prematurity and Respiratory Outcomes Program (PROP)
+and Respiratory Pathogens Research Center (RPRC) at the
+University of Rochester School of Medicine. Results
+Overview of preterm infant cohort
+Our study examined associations between preterm infant
+PMA, growth, nutrition, clinical factors, and gut microbiota
+
+development in a cohort of 95 preterm and 2 full-term in-
+fants from PROP and 23 full-term infants from RPRC at
+the University of Rochester School of Medicine. A total of 2 rectal swabs were collected from
+the 2 PROP full-term infants, and 46 rectal swabs from the
+23 RPRC full-term infants: one near birth (≤ 20 day of life
+[DOL]) and—for the RPRC subjects only—a second at
+1 month of age  The longitudinal
+analyses included 719 samples from preterm and 48
+samples from full-term infants. The groupings
+and bars within each group indicate the phases of the first and second sample of a pair of consecutive samples, respectively, and are ordered as
+described in c. Transition probabilities are included in the table below the graph. The average composition of the samples
+in each phase at the genus level is shown in Fig. Changes in
+taxa abundance would suggest adaptation of the micro-
+biota in response to factors that the preterm infant en-
+counters while in the NICU and may affect development
+of a mature, functional gut microbiota. Early and late periods of the preterm infant microbiome
+To demonstrate the utility of modeling the microbiome
+as three compositionally defined phases, we compared
+gut microbiota development using two constant time pe-
+riods based solely on PMA. 0
+
+10
+
+20
+
+30
+
+50
+
+60
+
+70
+
+80
+
+40
+Day Of Life
+
+Grier et al. Microbiome  5:158 
+
+Page 9 of 19
+
+(See figure on previous page.) Beta values are the estimated regression coefficients and p values are
+computed from the likelihood ratio tests. For clarity, only significant associations are reported in this table. It has
+in preterm infants, passage of
+been established that
+meconium as stool is both delayed and prolonged and is
+observed well beyond the first stool, with final clearance
+occurring up to several weeks after birth 
+
+To identify potential associations between the presence
+of meconium and P1 of the microbiota, we examined the
+relationship between clearance of the meconium from the
+stool and the initial transition of the microbiota out of P1
+,
+but did not survive beyond the first weeks in the NICU. The remaining 38 infants that were observed to be
+in P1 at their first rectal sample were included in a linear
+regression model using gestational age at birth and the
+DOL of their last P1 sample before their initial transition
+to another phase as explanatory variables, with the DOL
+of meconium clearance as the dependent variable. In contrast, a
+higher proportion of protein is significantly negatively asso-
+ciated with a P2 microbiota, with increased proportions of
+total nutrition lipids and protein in P2 strongly associated
+with higher weight Z-score. Read pairs were assembled
+using fastq-join from the ea.-utils package, requiring at
+least 40 bases of overlap and allowing a maximum of
+10% mismatched bases. Operational taxonomic
+units (OTU) were picked using the reference-based
+USEARCH (version 5.2) pipeline in QIIME, using the
+May 2013 release of the GreenGenes 99% OTU database
+as a closed reference  An indexed word length
+of 128 and otherwise default parameters were used with
+USEARCH. Microbiome  5:158 
+
+Page 15 of 19
+
+assessed at each taxonomic level using the metagen-
+omicsSeq zero-inflated Gaussian test  and the re-
+sults are summarized in Additional file 5: Tables S4A–C.
+Testing for differential functional capacity between the
+phases was performed using LEfSe with per-sample
+normalization to 1 M total counts, minimum effect size
+of 2.0, alpha of 0.1, an all-against-all strategy, and other-
+wise default parameters. The results are summarized in
+Additional file 7: Table S6. Association between nutrition/medication and growth
+We performed linear mixed-effect regression analysis
+similar to the above model on both early and late pe-
+riods (Model A) and three phases (Model B) to test
+the association between the nutrition/medication factors
+(as covariates) and weight Z-score as a proxy for growth
+(as the response variables). As an example, the linear associations of P2
+and percent lipids * P2 with the weight z-score are both
+significant (beta = − 0.7766 for P2 and 5.658 for lipids *
+P2); meaning that while P2 is correlated with a smaller
+weight z-score as compared with the baseline (P3), a
+higher percent of lipid intake for P2 subjects increases
+the weight Z-scores for subjects in P2. Number of Dirichlet components vs.
+model fit. Colors on the row and
+column labels indicate these correspondence relationships, and colors
+internal to the table identify sets of samples where the phase-based and
+DMM component classifications are in agreement. ( C. Results of differential abundance tests
+(metagenomeSeq zero-inflated Gaussian) of all bacterial taxa between
+microbiome phases 1 and 3. ( DOCX 14 kb)
+
+Additional file 10: Table S9. nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs00001297.v1.p1 and
+url http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=
+phs00001347.v2.p1. AG, XQ, HAK, TJM,
+LS, KMS, MTC, GSP, and SRG drafted the manuscript. All authors reviewed the
+final manuscript. Competing interests
+The authors declare that they have no competing interests. 4Division of Neonatology,
+Department of Pediatrics, University of Rochester School of Medicine and
+Dentistry, Rochester, NY, USA. Received: 18 April 2017 Accepted: 23 November 2017

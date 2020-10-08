@@ -1,0 +1,58 @@
+Nutrients 2019, 11, 330
+
+2 of 13
+
+The crucial role of the intestinal microbiota in modulating insulin resistance and the inﬂammatory
+response in GDM pregnancies has been reported by a few studies  It is well known that diet is
+able to modulate the microbiota composition rapidly, within a few days  Emerging evidence
+has shown a differential role of speciﬁc nutrients on metabolic outcomes, based on the individual
+microbial pattern. The potential impact of speciﬁc
+dietary interventions on the gut bacteria composition and function is of considerable interest in the
+search for the optimal strategy to prevent and treat GDM. Herein, we examine the updated evidence about this emerging topic. Methods
+
+The following electronic databases were queried: PubMed (National Library of Medicine),
+the Cochrane Library, EMBASE, and Cumulative Index to Nursing and Allied Health Literature
+(CINAHL). The search strategy was performed using database speciﬁc subject headings and keywords;
+restrictions to human studies were placed. A different microbiota composition was found to precede the onset of
+GDM in early pregnancy, since both reduced microbial richness and increased abundance of
+Ruminococcaceae family with a supposed subsequent increased energy harvest, pro-inﬂammatory
+status, and impaired insulin signaling, have been reported 
+
+A few studies described a different microbiota within 3–16 months after delivery in women with
+a previous GDM (GDM+) compared to those with a previous normoglycemic pregnancy (GDM−). Nutrients
+are able to interact directly with microbes by promoting or inhibiting their growth. Only a few studies have evaluated the role of nutrition on maternal gut microbiota
+during pregnancy. Higher intakes of vitamin
+D were associated with reduced microbial α-diversity. In pregnancy, different nutrients were found to be related with gut microbiota diversity and
+composition. Diet-Microbiota Interactions in GDM
+
+The impact of diet on the microbiota of GDM patients was recently addressed by an observational
+study  Forty-one overweight women with GDM diagnosed at 24–28 weeks of gestation
+received dietary recommendation from a registered dietitian, and their nutritional intakes and
+microbiota were evaluated after the diagnosis of GDM (enrolment) and at the 38th week of gestation. Adherents showed a signiﬁcant
+decrease in Bacteroides  which is a genus that has been associated with high-fat animal-based
+diets  Moreover, at enrolment, total fat intake was associated with higher abundance of Alistipes
+and protein intake with Faecalibacterium genus, while, at the end of the pregnancy, ﬁber intake was
+associated with the genus Roseburia  However, none of these bacteria were associated with the
+changes in metabolic variables occurring during pregnancy in patients with GDM 
+
+Therefore, the meaning of these associations remains unclear. Microbiota: A Novel Potential Therapeutic Target in GDM? First of all, the terminology used needs to be clariﬁed. In a recent study, 3 days of barley kernel-based bread supplementation improved the
+glucose metabolism only in subjects with higher Prevotella/Bacteroides ratios  conﬁrming the role
+of arabinoxylans and β-glucans in the P-type individuals. Limitations and Future Perspectives
+
+The key points of this review are reported in Table 1. At present, we are still far from ﬁnding a personalized dietary
+treatment for GDM patients. The microbiota of GDM
+patients can be transmitted
+to the offspring. Diet can shape the gut
+microbiota and the microbiota
+can use nutrients to produce
+bioactive compounds. However, it
+generally reverts to the
+original status with
+short-term dietary changes. Uncertainty about the causal
+relationship between gut
+dysbiosis and GDM. Randomized controlled trials
+are lacking. S.B. participated in the conception of the
+paper, collection and interpretation of the references, manuscript writing and revision. All authors have read and
+approved the ﬁnal manuscript. The funders had no role in the design of the
+study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.

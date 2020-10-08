@@ -1,0 +1,168 @@
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+and react to form a response, and understanding how these
+responses combine to affect human health. Current Status of Knowledge
+
+Methods for conducting precision nutrition studies
+Aspects of study design, dietary intervention methods, and
+response criteria are discussed below and are summarized for
+recent studies in Table 1. Three studies examined the effect of supplementing nutrients
+to in vitro cultures from human stool  Just 2 were
+observational, cross-sectional studies 
+
+Intervention studies allow researchers to standardize
+the dietary stimulus, providing every participant the same
+amount (or relative amount) and type or quality of ingredi-
+ents. Identifying the appropriate con-
+trol is challenging with diet interventions that are designed
+with whole foods, as a true placebo diet is not possible. Research now
+shows that the microbiota can also impact the eﬀect of diet on
+individuals’ health and metabolism. restriction and excess; and bioactives, fermented products,
+and other dietary components. ChangeinplasmaIL-6:terciles
+
+Bodycomposition,PPGR,lipidproﬁle,
+
+Intervention
+
+Humans
+
+hsCRP,IL-6,fecalSCFAs
+
+Microbiomeonly
+
+Intervention
+
+Humans
+
+RS2(Hi-Maize)vs. improvementduringeitherintervention)
+onlowFODMAPdietonly)andNR(no
+Abdominalpainfrequency:R(≥50%decrease
+
+microbialtaxa(LFTs)
+
+cut-oﬀsstated)
+AlsoincreasedSCFAanddecreasedpH(no
+
+Increaseininsulinsensitivityindex(ISI)
+
+HbA1c,insulinsensitivity,bileacids,
+
+Intervention
+
+Humans
+
+bodyfatdistribution
+liverfatcontent,bodycomposition,
+
+Coeﬃcientofchangeinlactose-fermenting
+
+Onlymicrobiotaresponse
+
+InterventionSupplementeddiet
+
+Humans
+
+Colitisscore:R
+
+CecalpH,SCFA,colitisscores
+
+Intervention
+
+Mice(T-bet-/-Rag2-/-versuscontrol
+
+Fermentedmilkproduct(BFMP,
+
+Veigaetal. However, although
+these methods can be useful for checking the stability of
+dominant members and clustering communities according
+to these dominant members, they do not provide direct
+phylogenetic identification and it is difficult to relate banding
+patterns to changes in particular species  When
+coupled with 16S rRNA sequencing, these methods can
+provide more specific composition information. Data can be transformed
+
+Gut microbiome and precision nutrition: Part I 11
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+TABLE 3 Review of methods used to analyze precision nutrition studies1
+
+Microbiome measures
+
+Association or
+prediction
+
+Statistical methods
+
+Korpela et al. Microbiota composition and function (16S and
+
+Prediction
+
+Linear mixed model
+
+
+
+metagenomics)
+
+Smits et al. Microbiota composition (qPCR)
+
+Association
+
+Spearman correlation
+
+Hullar et al. The t-test does
+not account for potential confounding factors. The Wilcoxon signed-rank test is used
+to determine if the median of the differences between paired
+responses is different from zero (e.g. within individuals). When a study moves towards the analysis phase of bringing
+together microbiome, diet, and metabolic response, there
+are 2 steps in the process towards development of preci-
+sion nutrition recommendations: 1) identifying associations
+between microbiome features and dietary responsiveness
+and 2) predicting and validating individuals’ response to
+dietary interventions and/or advice (Figure 4). Dimension reduction and clustering methods in associa-
+tion studies. k-means clustering attempts to
+identify groups within the data by minimizing the distances
+between points within each group (defined by the mean
+of points within that group), and maximizing the distances
+between groups. In these cases, various correlation meth-
+ods, such as Spearman, Pearson, Biweight midcorrelation
+ or Co-inertia using the
+
+18 Hughes et al. These include ANCOVA, regression,
+linear mixed models
+regression to
+dependent observations), canonical analysis of principal
+coordinates (CAP) 
+and random forests  ANCOVA compares the means of
+a continuous dependent variable across levels of a categorical
+independent variable (i.e. experimental groups) whilst also
+controlling for the effects of other continuous variables (i.e.
+covariates such as BMI, cholesterol, etc.). In the first case, each individual
+contributes multiple measurements on the same outcome. Linear discriminant analysis (LDA) is similar
+to PCA/PCoA. However, in LDA, the groups of interest
+are known a priori and the axes represent
+the linear
+combinations of the measurements that best describe the
+separation between the groups. Both PLS-
+DA and OPLS-DA may utilize weaker sources of variation
+to separate groups but OPLS-DA also eliminates variation
+that is unrelated to the separation of groups, creating a less
+complex model  Although these are powerful methods,
+they may force group separation at the expense of model
+
+FIGURE 5 Decision trees. Mice offer a model in which differences in the gut microbiota
+may be studied in a controlled experimental context, allowing
+for the determination of causality and development of
+
+mechanistic hypotheses  For example, transplantation
+of isolated strains or communities of bacteria into germ-free
+mice is one of the best models in use to demonstrate causal
+relations between the gut microbiota and host metabolism
+ This approach has been used in studies such as
+Kovatcheva-Datchary et al. Sonnenburg ED, Zheng H, Joglekar P, Higginbottom SK, Firbank
+SJ, Bolam DN, Sonnenburg JL. Specificity of polysaccharide use
+in intestinal Bacteroides species determines diet-induced microbiota
+alterations. Korpela K, Flint HJ, Johnstone AM, Lappi J, Poutanen K, Dewulf
+E, Delzenne N, de Vos WM, Salonen A. Gut microbiota signatures
+predict host and microbiota responses to dietary interventions in obese
+individuals.

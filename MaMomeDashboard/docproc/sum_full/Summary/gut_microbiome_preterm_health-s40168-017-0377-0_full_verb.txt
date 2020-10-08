@@ -1,0 +1,122 @@
+Microbiome  5:158 
+
+Page 2 of 19
+
+infant nutrition, and common clinical practices in neonatal
+care  We hypothesize that assembly and function
+of the preterm infants’ gut microbiota is associated with
+postnatal growth patterns and represents a yet unexplored
+personalized therapeutic potential for optimizing infant
+development. We found that mode of
+delivery was not significantly associated with microbiota
+composition after controlling for age, which is similar to
+recent studies where mode of delivery was not associ-
+ated with the influence of breast milk in preterm infants
+or with stool composition in full-term infants 
+Overall, PMA has the strongest impact on microbiota
+composition, followed by the ratio of enteral calories,
+total calories normalized by body weight, proportion of
+dietary lipids, antimicrobial usage, proportion of dietary
+protein, and diuretics usage (Additional file 1: Table S1). To characterize the apparent
+developmental phases of
+the premature infant gut
+microbiome, we used threshold values for the log ratio
+the three predominant bacterial classes—Bacilli,
+of
+Gammaproteobacteria, and Clostridia—to construct a
+decision tree that permits objective assignment of indi-
+vidual microbiota samples to one of the three phases
+based on their composition . The groupings
+and bars within each group indicate the phases of the first and second sample of a pair of consecutive samples, respectively, and are ordered as
+described in c. Transition probabilities are included in the table below the graph. Microbiome  5:158 
+
+Page 5 of 19
+
+gut physiology and developmental stage influences the
+microbiota following birth. Changes in
+taxa abundance would suggest adaptation of the micro-
+biota in response to factors that the preterm infant en-
+counters while in the NICU and may affect development
+of a mature, functional gut microbiota. Using a multivari-
+ate mixed-effects regression model
+that accounts for
+subject-specific variations, we assessed changes in taxa
+abundance at each phase, with PMA, gestational age at
+birth, total calories per kilogram in the past week, propor-
+tion of enteral calories in the past week, ratio of lipids,
+carbohydrates and protein in the past week, antibiotics
+and corticosteroid received during the past week, and add-
+itional medications as covariates. Early and late periods of the preterm infant microbiome
+To demonstrate the utility of modeling the microbiome
+as three compositionally defined phases, we compared
+gut microbiota development using two constant time pe-
+riods based solely on PMA. Beta values are the estimated regression coefficients and p values are
+computed from the likelihood ratio tests. For clarity, only significant associations are reported in this table. It has
+in preterm infants, passage of
+been established that
+meconium as stool is both delayed and prolonged and is
+observed well beyond the first stool, with final clearance
+occurring up to several weeks after birth 
+
+To identify potential associations between the presence
+of meconium and P1 of the microbiota, we examined the
+relationship between clearance of the meconium from the
+stool and the initial transition of the microbiota out of P1
+,
+but did not survive beyond the first weeks in the NICU. We first developed a
+discrete three phase-based model based upon quantitative
+categorical classification of the preterm gut microbiota,
+characterized the composition and putative functional cap-
+acity of the three microbiota phases, and described the
+properties of phase transition. Reads
+containing more than four mismatches to the known
+primer sequences or more than three mismatches to all
+barcode sequences were excluded from subsequent pro-
+cessing and analysis. For each functional pathway from the
+Kyoto Encyclopedia of Genes and Genomes (KEGG) that
+was putatively identified, comparisons were made be-
+tween the phases using LEfSe, which identifies features
+that are statistically differentially abundant among bio-
+logical classes (in this case phases) and then performs
+comparative tests between pairs of biological classes to
+identify where these features are significantly enriched
+or diminished. Microbiome  5:158 
+
+Page 15 of 19
+
+assessed at each taxonomic level using the metagen-
+omicsSeq zero-inflated Gaussian test  and the re-
+sults are summarized in Additional file 5: Tables S4A–C.
+Testing for differential functional capacity between the
+phases was performed using LEfSe with per-sample
+normalization to 1 M total counts, minimum effect size
+of 2.0, alpha of 0.1, an all-against-all strategy, and other-
+wise default parameters. The results are summarized in
+Additional file 7: Table S6. Association between nutrition/medication and growth
+We performed linear mixed-effect regression analysis
+similar to the above model on both early and late pe-
+riods (Model A) and three phases (Model B) to test
+the association between the nutrition/medication factors
+(as covariates) and weight Z-score as a proxy for growth
+(as the response variables). For model A, LATE is consid-
+ered as the baseline phase (coded as 0) and EARLY is
+coded as 1. Predicting microbiome phases
+We performed a mixed-effects logistic regression analyses
+to study the associations between a host of nutrition- and
+
+medication-related covariates and the three micro-
+biota phases on the early and late intervals. Weighted UniFrac Principal Coordinate Analyses of
+phase and Dirichlet component. ( B. Results of differential abundance tests
+(metagenomeSeq zero-inflated Gaussian) of all bacterial taxa between
+microbiome phases 2 and 3. DOCX 14 kb)
+
+Additional file 10: Table S9. Availability of data and materials
+All phenotypic data, 16S rRNA sequence reads and generated datasets is
+publically available through dbGaP accessions phs001297.v1.p1 (PROP
+rectal samples n = 721, n = 97 subjects) and phs001347.v2.p1 (RPRC/PROP
+fullterm samples n = 46 samples, n = 23 subjects, meconium and stool
+samples, n = 10 samples, n = 5 subjects) through url http://www.ncbi.nlm. All authors read and approved the final manuscript. The institutional review board at the University of
+Rochester School of Medicine and Strong Memorial Hospital approved the
+study. 4Division of Neonatology,
+Department of Pediatrics, University of Rochester School of Medicine and
+Dentistry, Rochester, NY, USA.

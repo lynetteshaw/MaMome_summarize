@@ -1,0 +1,1253 @@
+49_PARAGRAPHS
+
+Human  Yes  Yes  Yes  Yes  Yes  Yes  Yes  SPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 Table 1. Similarities and differences in the anatomy of the mouse and human gastrointestinal tract   Features  Overall anatomy: gastrointestinal tract is composed of mouth,  esophagus, stomach, small intestine, large intestine and anus  Composition of sectional tissue of small intestine: mucosa, lamina 
+propria, muscularis mucosae, submucosa, muscular tunics, 
+nervous plexi, serosa     Presence of cells in small intestine: absorptive enterocytes, goblet 
+cells, enteroendocrine cells, Paneth cells, microfold (M) cells, 
+caveolated (chief) cells  Composition of sectional tissue of large intestine: mucosa, lamina 
+propria, muscularis mucosae, submucosa, muscular tunics, 
+serosa  Mouse  Yes  Yes  Yes  Yes  Presence of cells in the colon: absorptive colonocytes, goblet cells,  Yes  enteroendocrine cells, microfold (M) cells  Stomach  Cecum  Appendix  Colon  Small intestine  Taller vili with no mucosal folds  Shorter than mouse villi, presence of  Divided into non-glandular/fore-stomach 
+and glandular stomach, the two parts 
+separated by limiting ridge  Lack fore-stomach, no limiting ridge  Large, fermentation happens here  Small, no fermentation  mucosal folds  No  Rather smooth and no division  Clearly divided into different sections:  ascending, transverse and descending 
+colon  Bowel of colon  Thin muscularis mucosae  Variable thickness  Presence of haustrum and taenia coli in the colon  No  Distribution of Paneth cells   Distribution of goblet cells  Present only in the small intestine  In the cecum and proximal colon  Abundant in proximal colon, number  Abundant from cecum to rectum  Distribution of transverse folds  Restricted to the cecum and proximal  Along the length of the colonic mucosa  decrease at the base of the crypt in 
+distal colon and rectum  colon  Adapted from Treuting and Dintzis, 2012. 
+  intestine:colon  length  ratio  is  2.5  in  mice  versus  7  in  humans
+(Treuting  and  Dintzis,  2012),  and  the  surface  ratio  of  small
+intestine:colon  is  only  18  in  mice  compared  to  400  in  humans
+(Casteleyn et al., 2010). The mouse cecum is also large relative to
+its total gastrointestinal (GI) tract and is an important site for the
+fermentation  of  plant  materials  as  well  as  for  the  production  of
+vitamin K and B, which mice reabsorb through coprophagy (Fig. 1).
+By  contrast,  the  human  cecum  is  relatively  small,  with  an
+anatomical structure similar to that of the colon and does not hold a
+clear function (Treuting and Dintzis, 2012). These morphological
+differences reflect murine adaptation toward an expanded colon and
+cecum  capacity,  allowing  them  to  extract  nutrients  from  the
+relatively larger proportion of indigestible food components in their
+diet, as compared with humans. Humans also have an appendix,
+which  is  absent  in  mice.  The  appendix  is  a  vermiform  organ
+attached to the cecum (Fig. 1) and was hypothesized to be a remnant
+of the cecum under selective pressure of diet. However, the organ
+has  recently  been  shown  to  have  evolved  under  multiple
+environmental  factors  beyond  diet  (Smith  et  al.,  2013b).  The
+appendix has also been suggested to act as a repository for beneficial
+bacteria to replenish the gut microbiota after disturbances (Smith et
+al., 2013b).
+
+Mouse intestinal villi are taller than those of human (Fig. 2). This
+morphological difference increases the surface area of the mouse 2 small  intestine  and  has  been  suggested  as  a  compensation
+mechanism for the lack of mucosal folds in the mouse intestine. The
+mouse colon is rather smooth with no division, whereas the human
+large  intestine  is  sub-compartmentalized  into  pouches  (called
+haustra; see Box 1 for a glossary of terms, and see Fig. 1), which are
+absent  in  the  mouse  colon.  In  humans,  fermentation  of  dietary
+carbohydrates is bound to the large intestine, and is not observed in
+either  the  vestigial  cecum  or  appendix.  These  major  anatomical
+differences  in  the  gut  compartmentalization  between  mice  and
+humans, especially with regards to the greater fermentation capacity
+of  mice  (in  the  cecum),  probably  impact  the  diversity  and
+composition of the gut microbial communities in the colon. These
+communities  are  not  only  responsible  for  the  fermentation  of
+indigestible  food  components,  but  also  for  the  production  of
+essential  complements  to  the  host  such  as  vitamin  K  and  B  and
+short-chain fatty acids (SCFAs).
+
+In  addition  to  the  macroscopic  differences,  the  microscopic
+structure  of  the  intestinal  tract  of  mice  and  humans  also  differ
+(Treuting and Dintzis, 2012). The mouse colon is composed of thin
+muscularis mucosae (see Box 1 and Table 1) with no discernible
+sub-mucosa,  whereas  the  human  colon  is  covered  by  a  thicker
+mucosal wall. Another difference is the presence of transverse folds
+along the length of the colonic mucosa in humans, whereas these
+folds are restricted to the cecum and proximal colon in mice. These Disease Models & MechanismsDisease Models & Mechanisms (2015) doi:10.1242/dmm.017400 Human A B G V V C L P M M SM L MM C Fig. 2. Anatomical structures of the intestinal wall in mice and in
+humans. A and B are taken at the same magnification (20×) and show a
+section of the small intestinal wall in mice (A) and humans (B), illustrating that
+mouse intestinal villi (A) are taller than those in humans (B). C, intestinal
+crypts; G, goblet cells; L, lamina propria; MM, muscularis mucosae; P,
+Paneth cells; SM, submucosa; V, villi. The images are reproduced from
+“Comparative anatomy and histology: A mouse and human atlas” by Piper M.
+Treuting and Suzy Dintzis, 2012, with permission from Elsevier.  (Cunliffe et al., 2001; Ghosh et al., 2002; Ouellette and Selsted,
+1996).  These  differences  in  distribution  of  both  goblet  cells  and
+Paneth cells between the two organisms suggest differences in local
+immune responses, which might shape the composition of the gut
+microbiota.
+
+Overall, the mammalian digestive tract is strongly conserved, with
+major differences between species being likely driven by diet. Given
+their shared omnivorous nature, humans and mice thus share strong
+similarities.  However,  humans  have  evolved  towards  a  smaller
+cecum and colon and relatively longer small intestine as compared
+to the murine system. In mice, fermentation of indigestible food
+components  is  compartmentalized  in  the  cecum,  whereas,  in
+humans, fermentation takes place in the colon, and the cecum is
+vestigial (Fig. 1). The morphology of mouse and human colons also
+differs: the human colon is divided into haustra, whereas the mouse
+colon is rather smooth. Cells that are essential to intestinal integrity
+and host-microbiota equilibrium, such as goblet and Paneth cells,
+are  also  conserved  between  the  two  species,  although  there  are
+differences in distribution. Although these differences do not mean
+that  the  murine  model  is  not  valuable  to  study  host-microbiota
+interactions, care must be taken in making direct parallels between
+murine  and  human  gut  with  regard  to  microbiota  composition,
+because host-microbiota co-evolution could have been influenced
+by these anatomical divergences.
+
+Human and mouse gut microbiota composition in health and
+disease
+Given the considerations mentioned above, in this section we further
+analyze the similarities and discrepancies between the murine and
+human  gut  microbiota  composition,  as  well  as  their  respective
+responses upon dietary interventions. Finally, we compare disease-
+associated microbiome shifts between the two organisms.
+
+Composition of the gut microbiota in healthy humans and mice
+Overall, the gut microbiota of human and mice are dominated by
+two  major  phyla,  Bacteroidetes  and  Firmicutes  (Eckburg  et  al.,
+2005; Ley et al., 2005; Ley et al., 2006). However, when exploring 3 SPECIAL ARTICLE A Mouse Cecum Colon Stomach Ascending
+colon Small
+intestine Cecum
+Appendix Anus Transverse
+colon Descending
+colon Taenia coli Haustra B Mouse fore and glandular stomach  C Human glandular stomach  ME C M T ME
+M D Cross-section of mouse colon E Cross-section of human colon Fig. 1. Gross anatomy of the human and the mouse gastrointestinal
+tract. (A) The human colon is divided into different sections (i.e. ascending,
+transverse and descending colon) with the presence of taenia coli and
+compartmentalization in haustra, which are absent in the mouse colon. The
+human stomach is lined with a glandular mucosa (C) that secretes gastric
+acid, whereas the mouse stomach is divided in two regions – a glandular
+stomach and a non-glandular or fore-stomach (B). The mouse glandular
+stomach is responsible for secreting gastric acid, whereas the non-glandular
+stomach functions as a temporary site of food storage and digestion.
+(E) Cross-section of a human colon, which has a thicker muscular wall and
+mucosa compared with the mouse colon (D). M, mucosa; ME, muscularis
+externa; TC, taenia coli. Panels B and C are reproduced from “Comparative
+anatomy and histology: A mouse and human atlas” by Piper M. Treuting and
+Suzy Dintzis, 2012, with permission from Elsevier. D is reproduced from the
+website http://theses.ulaval.ca/archimede/fichiers/24866/ch07.html with the
+author’s permission. E is re-used from www.anatomyatlases.org with the
+author’s permission.  differences in colonic micro-compartmentalization and structuring
+might contribute to the creation of diverse ecological micro-niches
+hosting differing microbial communities.
+
+At  the  cellular  level,  there  are  also  a  number  of  notable
+differences  between  humans  and  mice.  The  first  example  is  the
+distribution of mucin-producing goblet cells (Table 1). In mice, these
+cells  are  abundant  along  the  surface  of  intestinal  crypts  in  the
+proximal colon but, in the distal colon and rectum, their number
+decreases at the base of the crypt. Conversely, in humans, goblet
+cells are abundant from cecum to rectum. The second example is the
+difference in distribution between mice and humans of another type
+of intestinal epithelial cell – the Paneth cell (Table 1). Paneth cells
+secrete  antimicrobial  compounds  into  the  lumen  of  the  small
+intestine. They are rare but present in the cecum and proximal colon
+of humans, whereas, in the mouse, these cells are entirely absent in
+the colonic mucosa and uniquely found in the cecum. In addition to
+location differences, the amount of defensins (peptides involved in
+the host defense) secreted by Paneth cells, their storage and secretion
+were  also  reported  to  be  different  between  mice  and  humans Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 Box 1. Glossary of scientific terms
+Adiponectin: a protein involved in regulating glucose level and fatty-acid
+breakdown.
+Bacteroidetes: Gram-negative, non-spore-forming anaerobic bacteria;
+one of the major bacterial phyla in human and mouse gut microbiota.
+Coprophagy: consumption of feces. 
+Dysbiosis: imbalance  of  human-associated  microbial  communities,
+usually related to disease, with compositional (microbial species) and
+functional (microbial metabolism) deviation from the normal microbiota.
+Enterotype: classification of humans (or other host organisms) based
+on the composition of their gut microbiota. 
+Firmicutes: Gram-positive, endospore-producing anaerobic bacteria;
+one of the major bacterial phyla in human and mouse gut microbiota.
+Gut-brain axis: bidirectional signaling between the gut microbiota and
+the host brain, affecting normal homeostasis and contributing to disease.
+Haptens: small  molecules  that  can  elicit  immune  responses  when
+attached to larger non-immunogenic carriers.
+Haustra: small  pouches  segmenting  the  large  intestine,  caused  by
+tension of shorter exterior muscle ribbons (cf. taenia coli). 
+Humanized gnotobiotic mice: mice born germ-free and inoculated with
+a human gut microbiota sample.
+Isobiotic mice: genetically identical mice, only differing in microbiota
+composition.
+Metagenomic analysis: study of a microbial community by sequencing
+the genetic material pool from an environmental or clinical sample.
+Muscularis mucosae: thin muscle layer, separating the lamina propria
+mucosae from the submucosae.
+Taenia coli: three longitudinal smooth muscle ribbons along the outside
+of the colon.
+
+deeper  taxonomic  classifications,  Ley  et  al.  showed  that  85%  of
+bacterial genera found in the mouse gut microbiota are not present
+in  human  (Ley  et  al.,  2005).  Several  differences  in  research
+techniques  hamper  the  comparison  of  the  murine  and  human
+microbiome. First, most human gut microbiome studies use stool
+samples,  whereas  cecal  contents  are  usually  used  in  mouse  gut
+microbiome  studies  (with  the  exception  of  longitudinal  studies,
+where pellets are sampled). Furthermore, the composition of the
+human  gut  microbiota  has  been  investigated  in  several  studies
+(Arumugam et al., 2011; Human Microbiome Project Consortium,
+2012;  Qin  et  al.,  2010;  Yatsunenko  et  al.,  2012)  using  both
+metagenomic and 16S rDNA sequencing approaches, whereas the
+standard choice for mouse studies is mostly 16S rDNA sequencing
+(Brinkman et al., 2011; Brinkman et al., 2013; Hildebrand et al.,
+2013; Kellermayer et al., 2011; Riboulet-Bisson et al., 2012; Ubeda
+et  al.,  2013;  Ward  et  al.,  2012;  Zenewicz  et  al.,  2013),  although
+metagenomic analysis has also begun to be used in mouse studies
+(Wang et al., 2014). Here, we compare the composition of mouse
+and  human  gut  microbiota  based  on  all  currently  available  16S
+rDNA sequenced data from fecal samples of healthy adults (Fig. 3).
+Considering the restrictions referred to previously, the analysis is
+based on a limited number of samples: five murine fecal 16S rDNA
+studies  (Nagy-Szakal  et  al.,  2012;  Riboulet-Bisson  et  al.,  2012;
+Ubeda et al., 2013; Ward et al., 2012; Zenewicz et al., 2013) and
+four  public  16S  rDNA  healthy  adult  human  datasets  (Human
+Microbiome Project Consortium, 2012; Yatsunenko et al., 2012).
+
+In these datasets, we found 79 genera occurring in both human
+and mouse gut microbiotas. The relative abundances of most of the
+dominant genera in mouse and human are quite different (Fig. 3A;
+supplementary material Table S1). Genera with high abundance in
+human  gut  microbiota,  as  compared  to  mouse  gut  microbiota,
+include Prevotella, Faecalibacterium and Ruminococcus, whereas
+Lactobacillus,  Alistipes and  Turicibacter are  more  abundant  in
+mouse  gut  microbiota  (supplementary  material  Table  S1).
+
+4 Clostridium, Bacteroides and Blautia, on the contrary, have a similar
+relative  abundance  in  both  organisms.  However,  none  of  the
+differences  found  between  human  and  mouse  gut  microbiota
+survives multiple testing corrections due to the limited size of the
+dataset,  so  these  results  should  be  considered  as  exploratory.
+Although it is important to keep in mind the major inter-organism
+variations, as well as technical discrepancies in the gut microbiota
+studies  compared  above  (such  as  different  human  populations,
+mouse  houses,  mouse  strains,  sample  handling,  processing
+techniques and method of analysis), the results nonetheless mostly
+agree with current knowledge. For instance, Prevotella abundance
+is  known  to  be  low  in  mouse  gut  microbiota  (Hildebrand  et  al.,
+2013) and Faecalibacterium is reported to be one of the dominant
+members  in  healthy  gut  microbiota  in  humans,  as  it  has  been
+suggested to be the marker for anti-inflammatory gut microbiota in
+IBD patients in remission (Sokol et al., 2008; Sokol et al., 2009).
+
+We then defined the core gut microbiota of mice, i.e. the taxa that
+are always present in each individual gut microbiota (intersection set
+of genera across samples). The comparative analysis of six mouse gut
+microbiota  datasets  (Cho  et  al.,  2012;  Nagy-Szakal  et  al.,  2012;
+Riboulet-Bisson et al., 2012; Ubeda et al., 2013; Ward et al., 2012;
+Zenewicz et al., 2013) (Fig. 3B; supplementary material Table S2)
+shows  that  the  core  mouse  gut  microbiota  plateaus  down  to  four
+genera [note that this number increases to 13 genera if we exclude the
+limited Zenewicz’s dataset (Zenewicz et al., 2013), which overlaps
+very poorly with the other datasets (data not shown)]. In humans,
+using 16S rDNA cloned sequences from 17 individuals, Tap et al.
+found seven genera that were common in 50% of the cohort (Tap et
+al., 2009). On the other hand, a study by the MetaHIT consortium
+investigating metagenomes from 124 European individuals discovered
+that 90% of the individuals of the cohort share a common core of nine
+genera, at a 10% sequence coverage threshold (i.e. species being only
+considered  present  if  a  minimum  of  10%  of  their  genome  was
+recovered in the sequenced metagenome) (Qin et al., 2010). More
+recently,  Martínez  et  al.  defined  a  core  set  of  24  bacterial  genera
+(Martínez et al., 2013) in a longitudinal study of three healthy human
+individuals during one year, which would constitute a ‘healthy’ core
+microbiota set. Thus, first observations indicate that the murine core
+microbiota could be smaller than the humans’, but this needs further
+follow  up  to  be  sure  that  this  result  is  not  driven  by  insufficient
+sequencing depth in these first datasets.
+
+The total set of genera found across the six mouse gut microbiota
+datasets  previously  referred  to  (pan-gut  microbiota:  union  set  of
+genera across samples) cumulates to 352 genera (Fig. 3B), of which
+only 44 are found in more than three mouse gut microbiota datasets.
+This number is higher than the one observed in humans: the overall
+stool microbiota richness (i.e. the number of different genera in the
+population) was estimated at 226 bacterial genera across 208 donors,
+using the data from the Human Microbiome Project Consortium (Li
+et al., 2013).
+
+Recently, a study by Krych et al. identified about 80 genera that
+are shared between mice and humans (with abundance threshold set
+to  0.19%  to  filter  out  variations  due  to  sequencing  method  or
+sequencing depth) (Krych et al., 2013), a number that is very similar
+to  the  79  found  in  our  meta-analysis.  The  authors  proposed  that
+multiple genera are present exclusively in the human gut microbiota:
+Faecalibacterium,  Mitsuokellla,  Megasphera,  Dialister,
+Asteroleplasma,  Succinivibio,  Sutterella,  Paraprevotella and
+Phascolarctobacterium, with Mucispirillum being the only genus
+exclusive to mice (Krych et al., 2013). However, as a case in point,
+Faecalibacterium was found in the mouse gut microbiota datasets
+from Ward (Ward et al., 2012), Riboulet-Bisson (Riboulet-Bisson et Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 Increased in mouse GM Increased in human GM Mouse core GM Mouse pan GM 500 200 100 50 30 20 10 5 3 Core/pan gut microbiota size (number of genera) B Organism Mouse Human A 100 80 60 40 20 0 Relative abundance (%) D orea
+A naeroplas m a
+Johnsonella
+*F aecalibacteriu m
+*S utterella
+*Lactobacillus
+*O scillospira
+*Lachnospira
+E ubacteriu m
+Clostridiu m
+Prevotella
+Blautia
+*R u minococcus
+S uccinivibrio
+Alkaliphilus
+C oprococcus
+B acteroides
+R oseburia
+Alistipes
+P arabacteroides
+*Streptococcus
+P aludibacter
+*T uricibacter
+*Dialister Genera 2 3 4 5 6 Number of datasets compared Fig. 3. Meta-analysis of mouse and human fecal microbiota based on published 16S rDNA sequencing data. (A) Comparison of human and mouse
+healthy adult gut microbiota. The relative abundances of genera in the gut microbiota of both organisms [four human datasets (Human Microbiome Project
+Consortium, 2012; Yatsunenko et al., 2012) and five mouse datasets (Nagy-Szakal et al., 2012; Riboulet-Bisson et al., 2012; Ubeda et al., 2013; Ward et al.,
+2012; Zenewicz et al., 2013)] are ordered according to their overrepresentation in either mouse or human gut microbiota (non-parametric Wilcoxon Z score).
+Genera with significant differences (P<0.05) between human and mouse gut microbiota are annotated with an asterisk. Note that none of these differences are
+significant after multiple testing corrections. Note that only five mouse datasets are used in this comparison because the dataset from Cho et al. (Cho et al.,
+2012) does not include data for abundance and thus cannot be used for comparison of relative abundances between mouse and human gut microbiota.
+(B) Mouse core and pan-gut microbiota size in all possible combinations of the six mouse gut microbiota datasets (Cho et al., 2012; Nagy-Szakal et al., 2012;
+Riboulet-Bisson et al., 2012; Ubeda et al., 2013; Ward et al., 2012; Zenewicz et al., 2013). The pan-gut microbiota is the set of genera found at least once in
+any of the datasets compared (union set), whereas the core gut microbiota is the set of genera found in all compared datasets (intersection set). It should be
+noted that Zenewicz’s dataset overlaps poorly with the others.
+
+al., 2012) and Nagy-Szakal (Nagy-Szakal et al., 2012). The genus
+was also detected in a mouse study from Werner et al. (Werner et
+al.,  2011).  These  examples  indicate  the  difficulty  of  inferring  a
+bacteria’s  exclusivity  to  an  organism  based  on  a  lack  of  its
+observation in community studies, where only a fraction, albeit an
+increasing  one,  of  bacterial  genera  are  accessible  with  current
+techniques. Such conclusions are thus affected by sequencing depth,
+the  age  of  the  mice/human  subjects,  the  mouse  strains/human
+populations  chosen,  the  different  microbiota  pools  in  different
+laboratories and by other practical factors involved in gut microbiota
+studies. In addition, the effect of multi-generation specific pathogen
+free  (SPF)  conditions  might  serve  to  reduce  the  murine  gut
+microbiota  diversity  to  below  that  of  healthy  wild  mice.
+Accordingly, a study by Linnenbrink et al. reveals that wild mice
+have  a  greater  bacterial  diversity  in  their  cecal  microbiota  than
+laboratory mice housed in SPF facility (Linnenbrink et al., 2013).
+Another  important  point  is  that,  in  most  current  analyses,  low-
+abundance  genera  on  the  boundary  of  sequencing  depth  are
+overlooked. However, a recent study investigating microbiota across
+human body habitats suggests that low-abundance genera might play
+more important roles, because they are ubiquitous in different sites
+of the body (Li et al., 2013). Together, these findings highlight that
+inter-study variations should be considered more carefully, and that
+a final conclusion on discrepancies and similarities between humans
+and mice has not been reached.
+
+One important finding in the inter-individual diversity in human
+gut microbiota was the observation of the existence of a limited set
+of possible gut communities – termed enterotypes (Arumugam et al.,
+2011). Although the degree of distinctiveness between these clusters of  human  gut  microbiota  is  still  a  matter  of  debate  (Ding  and
+Schloss, 2014; Koren et al., 2013), a consensus on their usefulness
+as  a  stratification  tool  is  growing  (Moeller  and  Ochman,  2014).
+Enterotypes  were  also  identified  in  the  laboratory  mouse  gut
+microbiota  (Hildebrand  et  al.,  2013),  being  dominated  by
+Lachnospiraceae  and  Ruminococcaceae  or  Bacteroidaceae  and
+Enterobacteriaceae, respectively. Although the cause of stratification
+of human and mouse individuals into enterotypes is still unknown,
+there is a noticeable parallel between dominant bacterial families of
+the mouse and human enterotypes. Namely, one mouse enterotype
+is dominated by Lachnospiraceae/Ruminococcaceae, similarly to the
+human Ruminococcaceae enterotype (also known as enterotype 3).
+In  addition, 
+the  second  mouse  enterotype,  dominated  by
+Bacteroidaceae/Enterobacteriaceae,  is  similar  to  the  human
+Bacteroides enterotype  (enterotype  1)  (Arumugam  et  al.,  2011).
+Interestingly,  two  enterotypes  were  also  identified  in  wild  mice,
+dominated by Bacteroides and Robinsoniella, respectively (Wang et
+al., 2014). Moreover, the laboratory mouse enterotypes were found
+to correlate with species-richness and inflammation: mice belonging
+(Bacteroidaceae/
+species-richness  enterotype 
+to 
+Enterobacteriaceae) had higher levels of calprotectin, a marker of
+inflammation. This result is consistent with what has been recently
+found  in  studies  of  human  obesity  (Cotillard  et  al.,  2013;  Le
+Chatelier et al., 2013), in which low species-richness individuals
+were  found  to  have  more  pronounced  inflammation,  and  to  be
+dominated by Bacteroidetes and Proteobacteria, the same bacterial
+groups that dominated the ‘inflamed’ mouse enterotype.
+
+low  the  Overall,  these  observations  show  that  clear  differences  can  be
+observed at the level of specific genus/species abundances between 5 Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 the murine and human gut microbiota. The observed differences
+might  be  caused  by  intrinsic  differences  between  these  two
+mammalian  systems,  but  also  by  various  confounding  factors
+ranging  from  diet  to  exposure  to  pathogens.  At  the  same  time,
+overall community composition rules as well as the factors driving
+them might be similar (e.g. enterotypes). Thus, although absolute
+comparisons might be difficult, murine models are likely relevant
+for studying the processes responsible for microbiota variation and
+shifts upon disturbance.
+
+Do gut microbiota shifts in murine models mimic those reported in
+human disease?
+Mouse  models  are  a  powerful  tool  to  study  the  underlying
+mechanisms  of  gut-microbiota-associated  diseases.  Given  the
+anatomical  and  compositional  differences  in  the  healthy  control
+individuals, we review the concordance in the major shifts in gut
+microbiota associated with the most popular gut microbiota-related
+diseases: obesity and IBD.
+
+Obesity
+The influence of diet on the gut microbiota has received increasing
+research attention over recent years. With the rising incidence of
+metabolic  disturbances,  such  as  obesity  and  diabetes  in  Western
+countries,  the  impact  of  the  ‘Western’  diet  (high  in  simple
+carbohydrates and animal fats) on the gut microbiota and our health
+is a key question in this field. Many studies have been conducted on
+mice or humanized mouse models (i.e. germ-free mice administered
+human gut microbiota), which have been fed diets that are high in
+fat  or  saturated/unsaturated  fat  to  investigate  changes  in  the  gut
+microbiota  (Ley  et  al.,  2006;  Liu  et  al.,  2012;  Turnbaugh  et  al.,
+2009b; Wu et al., 2011; Zhang et al., 2012). Some common trends
+have emerged from this research. For instance, mice fed on a high
+animal-fat diet show a decreased Bacteroidetes:Firmicutes ratio in
+their gut microbiota (Murphy et al., 2010; Zhang et al., 2012). This
+shift  is  driven  by  more  complex  alterations  at  lower  taxonomic
+levels  within  the  phylum  Bacteroidetes:  most  genera,  including
+Prevotella and Roseburia, decreased in abundance (Neyrinck et al.,
+2011), whereas other genera of this phylum, such as Barnesiella,
+Bacteroides and  Alistipes,  significantly  increased  (Zhang  et  al.,
+2012). Interestingly, the overall trend observed in mouse studies
+agrees with that found in human studies. Human dietary studies have
+revealed that the Bacteroides enterotype in humans is associated
+with people whose diet contains more animal fats over long periods
+of time, whereas the Prevotella enterotype is found to predominate
+in people consuming more carbohydrates (Wu et al., 2011). A study
+comparing European and rural African children also confirmed this
+link between microbiota and diet (De Filippo et al., 2010). African
+children, who eat fiber-rich diets, had a higher abundance of specific
+Bacteroidetes (Prevotella and Xylanibacter), a reduced amount of
+Firmicutes  and  decreased  amounts  of  Proteobacteria  (Shigella,
+Escherichia),  compared  with  European  children.  The  study
+suggested  that  European  children  with  a  high-fat  diet  harbor  the
+Bacteroides enterotype,  which  might  predispose  them  to  many
+metabolic  diseases  (Le  Chatelier  et  al.,  2013).  Overall,  this
+highlights  that  the  use  of  diet  intervention  in  murine  models,
+including the use of humanized gnotobiotic mice, can mimic the
+changes in gut microbiota that occur in relation to human diet.
+
+However, the dynamics of enterotypes during diet interventions
+do show discrepancies between human and mouse studies. Wu et al.
+followed enterotype switches in participants with controlled diets
+(randomized to a high-fat/low-fiber or low-fat/high-fiber diets) over
+a period of 10 days (Wu et al., 2011). There was no switch between 6 Bacteroides enterotype, which is associated with animal protein, and
+Prevotella enterotype, which links to diets with more carbohydrates
+and simple sugars. The authors therefore suggested that a long-term
+dietary  intervention  might  be  needed  to  modify  an  individual’s
+enterotype (Wu et al., 2011). On the other hand, a study on wild
+mice by Wang et al. showed that feeding wild mice with chow diet
+can change mice enterotypes as quickly as within 1 week, from the
+Bacteroides enterotype (associated with protein metabolism) to the
+Robinsoniella enterotype (associated with carbohydrate metabolism)
+(Wang et al., 2014). The discrepancies in these results suggest that
+humans need more time for the diet interventions to change their
+enterotypes given the more drastic changes in diet in the wild mouse
+study.  The  discrepancies  might  otherwise  illustrate  the  intrinsic
+differences,  e.g.  the  effect  of  genetic  background  on  enterotype
+identities,  as  well  as  external  confounding 
+factors,  e.g.
+environmental influences, which affect the two organisms.
+
+Similarly, there is controversy over the gut microbiota changes
+observed in human and mouse obesity studies. For instance, in some
+human  studies,  obese  individuals  have  been  reported  to  have  an
+increased  Firmicutes:Bacteroidetes  ratio  (Ley  et  al.,  2006;
+Turnbaugh et al., 2009a), which decreases when submitted to a low-
+calorie diet (Ley et al., 2006). In mouse studies, besides feeding
+wild-type  mice  ad  libitum with  a  high-fat  diet,  leptin-deficient
+(ob/ob)  mice  have  also  been  used  as  a  model  for  obesity.  These
+mice, which lack the gene encoding the hormone leptin, which has
+a crucial role in the regulation of the appetite, have increased food
+intake  as  compared  with  wild-type  mice  and  ultimately  become
+obese.  The  gut  microbiota  of  this  obese  mouse  model  was  also
+found to have an increased ratio of Firmicutes:Bacteroidetes (Ley et
+al.,  2005;  Murphy  et  al.,  2010),  as  seen  in  some  human  studies
+mentioned  above  (Ley  et  al.,  2006;  Turnbaugh  et  al.,  2009a).
+Moreover,  a  genome-wide  association  study  of  obesity  in  mice
+identified genes associated with obesity in mice that overlap with
+some genes involved in human obesity (Parks et al., 2013). This
+genetic  background  overlap  suggests  conserved  mechanisms  for
+obesity susceptibility across mammalian species. Conversely, other
+studies  reported  conflicting  results  for  the  ratio  of  Firmicutes  to
+Bacteroidetes,  in  which  overweight  and  obese  individuals  were
+found  to  have  reduced  Firmicutes  and  increased  Bacteroidetes
+(Schwiertz et al., 2010) or have no change in proportions of either
+Bacteroidetes or Firmicutes (Duncan et al., 2008). A reduced ratio
+of Firmicutes:Bacteroidetes was also found in a study linking gut
+microbiota composition and metabolic adaptations in mice on high-
+fat diets (Serino et al., 2012). The discrepancies in the importance
+of the Firmicutes:Bacteroidetes ratio found across studies could be
+linked to the heterogeneity in age of subjects, because the ratio of
+Firmicutes:Bacteroidetes has been found to change with age (Mariat
+et  al.,  2009),  or  to  the  different  sample-processing/analyzing
+techniques used in these studies. Another possibility is that focusing
+on the ratio of Firmicutes:Bacteroidetes, which does not completely
+capture the compositional changes of the gut microbiota associated
+with  obesity,  is  an  overly  simplistic  metric  to  study  metabolic
+disorders.
+
+The  mechanisms  by  which  gut  microbiota  contribute  to  the
+pathophysiology of obesity have been investigated in many mouse
+studies  and,  thanks  to  their  results,  we  can  now  draw  a  clearer
+picture  of  the  impact  of  gut  microbiota  on  maintaining  energy
+balance of the host. Using wild-type and leptin-deficient (ob/ob)
+mice,  Turnbaugh  and  colleagues  proposed  that  the  obese  gut
+microbiome has an increased capacity to harvest energy from the
+host diet (Turnbaugh et al., 2006). The obese gut microbiome was
+shown to produce a higher level of monosaccharides and SCFAs, Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 which  supply  the  host  with  extra  energy  from  indigestible  food
+components,  as  compared  with 
+lean  animals.  The  higher
+concentration  of  SCFAs  in  feces  of  obese  compared  with  lean
+individuals was also observed in humans (Schwiertz et al., 2010). In
+addition,  by  using  germ-free  and  leptin-deficient  (ob/ob)  mice,
+Bäckhed and colleagues were able to suggest other mechanisms by
+which  the  gut  microbiota  could  regulate  fat  storage  in  the  host
+(Bäckhed et al., 2007). Particularly, the gut microbiota can control
+fatty-acid  oxidation  in  the  host  via  suppression  of  the  AMP-
+activated protein kinases (AMPKs). By contrast, the gut microbiota
+can also induce fat storage in the host by suppression of fasting-
+induced adipose factor (Fiaf) (Bäckhed et al., 2007). These results
+are valuable in understanding the pathology of obesity because they
+determine  the  inside  mechanisms  of  how  gut  microbiota  can
+contribute to energy balance of the host. Although it remains to be
+elucidated  whether  the  same  mechanisms  exist  in  humans,  this
+example  well  illustrates  the  usefulness  of  mouse  studies  in
+performing experiments that cannot be done in humans.
+
+importance  of  Inflammatory bowel disease
+The  development  of  IBD  has  been  linked  to  genetic  factors,
+infectious pathogens and alterations in the composition of the gut
+microbiota (Jostins et al., 2012; Khor et al., 2011), even though the
+respective  causal 
+these  factors  still  awaits
+clarification. With respect to the role of the gut microbiota, large
+inter-individual variations among IBD patients regarding genetic
+background, stage of the disease and diet have made it difficult to
+identify clear associations between compositional changes in the gut
+microbiota  and  the  pathology.  The  comparison  of  trends  of
+alterations in gut microbiota composition in IBD between human
+and  model  organisms  is  complicated  by  the  fact  that  IBD
+encompasses a heterogenous group of diseases, including Crohn’s
+disease (ileal, colon), ulcerative colitis and intermediate colitis, all of which can also be at different stages (for example, active or in
+remission). This said, some prominent changes in the gut microbiota
+have been concomitantly observed in independent IBD studies using
+a  variety  of  techniques  on  different  cohorts,  such  as  reduced
+bacterial  diversity  in  both  Crohn’s  disease  and  ulcerative  colitis
+patients (Andoh et al., 2012; Nemoto et al., 2012; Sokol et al., 2006;
+Walker  et  al.,  2011),  a  reduction  in  the  levels  of  the  anti-
+inflammatory  bacterium  Faecalibacterium (Andoh  et  al.,  2012;
+Joossens et al., 2011; Sokol et al., 2009; Willing et al., 2009), as well
+as  of  Clostridium  coccoides and  Bifidobacterium (Sokol  et  al.,
+2009), and an increase in abundance of Enterobacteriaceae (such as
+E. coli) (Duboc et al., 2013; Joossens et al., 2011; Willing et al.,
+2009; Willing et al., 2010).
+
+Increasing numbers of mouse models have been created and used
+in  IBD  research,  with  the  aim  of  mimicking  the  disease’s
+pathophysiology in humans. In general, these models were created
+by  introducing  genetic  modifications  in  mice  that  resemble  the
+genetic  defects  of  IBD  patients,  or  by  relying  on  external
+disturbances to induce disease. The latter include biological agents,
+such as infective pathogens (for example, Helicobacter hepaticus
+and Citrobacter rodentium), or chemicals, such as dextran sulfate
+sodium  (DSS)  and  2,4,6-trinitrobenzene  sulfonic  acid  (TNBS),
+which  cause  the  initial  damage  that  leads  to  chronic  intestinal
+inflammation  (Peloquin  and  Nguyen,  2013;  Wirtz  et  al.,  2007).
+However, most mouse models of colitis do not fully recapitulate the
+pathophysiology of human IBD and generally only cause colonic
+inflammation (Fig. 4), which is more similar to ulcerative colitis
+(reviewed in Wirtz and Neurath, 2007 and discussed further below).
+Despite this, the major gut microbiota shifts that have been observed
+in  different  colitis  mouse  models  are  similar  to  those  found  in
+human  IBD  studies.  In  these  models,  gut  bacterial  diversity  was
+found to be reduced, with certain shifts in gut microbiota profiles
+in  Enterobacteriaceae
+being  observed,  such  as  increases  A
+A)
+A)))))))))))))))))))))))))))))
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A G V B G V C
+C
+C
+C C C MT
+ME
+SM
+MM L V M M L SM B
+  10 μm ME MT 10 μm MT
+ME
+SM
+MM L V SM L MM
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M   A  Fig. 4. Histological features of murine DSS-induced colitis. (A,B) Histology images of colon cross-sections from control (A) and dextran sulfate sodium
+(DSS)-treated (B) mice. The diagram under each panel illustrates an outline of a mouse colon cross-section with boxes A and B indicating the histological
+regions shown in panels A and B, respectively. Mir29-knockout mice from a Black6 background were treated either with water (control animals) or with 1.5%
+DSS for 8 days prior to examination. Whereas the cross-section of the colon wall from a control mouse shows normal morphology (A), the colon of the DSS-
+treated mouse (B) shows alterations in the mucosal epithelium such as cell necrosis, and loss of structure of both villi and intestinal crypts (C; indicated by
+arrowhead). In addition, infiltration of immune cells such as macrophages, neutrophils, eosinophils and lymphocytes (indicated with arrowheads) is found in the
+colonic lamina propria (L) and submucosa (SM), indicative of the inflammatory status of the DSS-treated mouse. C, intestinal crypts; G, goblet cells; L, lamina
+propria; ME, muscularis externa; MM, muscularis mucosae; MT: muscularis tunics; SM: submucosa; V: villi.
+
+7 Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 (Escherichia), Bacteroidaceae (Bacteroides) and Ruminococcaceae
+(Berry et al., 2012; Lupp et al., 2007; Wohlgemuth et al., 2009).
+However,  the  reduction  in  the  anti-inflammatory  bacterium
+Faecalibacterium prausnitzii, which is observed to occur in many
+human IBD studies, was not observed in murine colitis models. In
+addition, Akkermansia was found to be reduced in abundance in a
+human  ulcerative  colitis  study  (Vigsnæs  et  al.,  2012),  but  was
+increased in the DSS-induced mouse model (Berry et al., 2012).
+Mouse studies have also detected changes in abundance of bacterial
+phylotypes that solely happen in mice, such as of Tenericutes and
+Deferribacteriaceae (Nagalingam et al., 2011). Conversely, changes
+in the diversity of TM7 phylotypes (Kuehbacher et al., 2008) or in
+the abundance of Roseburia (Willing et al., 2010) were found only
+in human Crohn’s disease studies. Vereecke et al. recently developed
+a mouse model prone to spontaneous colitis (Vereecke et al., 2014),
+while  studying  A20  –  an  inhibitor  of  both  NF-κB  and  apoptotic
+signaling that has previously been associated with susceptibility to
+IBD  in  humans  (Catrysse  et  al.,  2014;  Ma  and  Malynn,  2012).
+Deleting  A20  in  intestinal  epithelial  and  myeloid  cells  in  mice
+(A20IEC/myel-KO) induced intestinal epithelial apoptosis, Paneth and
+goblet  cell  loss,  and  gut  microbiota  dysbiosis.  The  latter  was
+characterized  by  a  reduced  bacterial  diversity  and  altered
+composition as compared with wild type. Furthermore, the mouse-
+specific  genus  Mucispirillum was  significantly  increased  in
+A20IEC/myel-KO mice  and  was  thus  suggested  as  a  biomarker  for
+spontaneous colitis in this model. Interestingly, mucosal expression
+levels  of  A20  in  humans  have  been  put  forward  as  a  prognosis
+marker  for  response  to  anti-TNF  treatment  in  IBD  patients
+(Vereecke et al., 2014).
+
+Overall,  these  results  show  that  obesity  and  IBD  have  quite
+different ‘translatability’ from models to humans, and illustrate both
+the potential and the drawbacks of this process.
+
+Practical issues influence the composition of human and
+murine gut microbiota
+The  murine  and  human  gut  microbiota  are  not  only  intrinsically
+different,  but  are  also  affected  by  environmental  factors.  These
+factors  can  be  confounders  but  can  also  be  controlled  for  with
+appropriate experimental design in mouse studies. Here, we discuss
+how  the  genetic  backgrounds  of  mouse  models,  as  well  as
+environmental factors, contribute to the overall composition of the
+mouse gut microbiota.
+
+Housing conditions
+To prevent mice in gut microbiota studies from being contaminated
+by pathogens from the surrounding environment, they are usually
+housed in clean facilities, such as in SPF conditions, where hygiene
+is  strictly  controlled.  Although  the  microbes  allowed  in  SPF
+facilities  are  strictly  regulated,  each  mouse  house  is  home  to  a
+distinct pool of microorganisms, including a variety of pathogens
+that come from contaminations or adventitious infections (Jacoby
+and  Lindsey,  1998;  Pritchett-Corning  et  al.,  2009;  Taylor  et  al.,
+2007). Because mice are housed in a semi-closed environment in
+which the types of microbes and other environmental factors are
+partly controlled, their microbiota, including their gut microbiota,
+depend largely on the microbe pool of the mouse house, on the other
+mice  present  and  possibly  even  on  their  carers,  who  can
+unintentionally pass their microbes onto housed mice. As such, the
+gut  microbiota  of  laboratory  mice  cannot  be  considered  to  fully
+represent  that  of  normal,  free-living  mice,  and  adds  to  the
+differences with human gut microbiota, which is exposed to a wide
+range of environmental cues. It is also possible that, in such a semi- 8 closed  system,  stochastic  effects  will  influence  the  available
+microbiota pool over time (McCafferty et al., 2013). Notably, the
+accidental discovery of segmented filamentous bacteria that account
+for the differences in microbiota of mice from two different mouse
+vendors  (Ivanov  et  al.,  2009)  highlights  the  variations  in  gut
+microbiota  composition  brought  about  by  different  housing
+conditions.
+
+It is not only external environmental factors that affect mice in
+mouse  houses;  ‘in-house’  interactions  with  cage  mates  also
+influence the composition of their gut microbiota. Within one cage,
+for example, mice will engage in coprophagy in order to obtain
+additional nutrients from fecal matter (Soave and Brand, 1991).
+This activity is considered to be the main reason for the gradual
+homogenization of the gut microbiota between co-housed mice, as
+shown by multiple studies (Elinav et al., 2011; Zenewicz et al.,
+2013). Another factor to be taken into account in gut microbiota
+research  is  the  maternal  transmission  of  the  microbiota  in
+mammals  at  birth,  which  is  reported  to  be  an  important
+confounding factor in mouse studies (Benson et al., 2010; Friswell
+et al., 2010; Ley et al., 2005). Microbes from the maternal vaginal,
+fecal  and  skin  microbiota,  are  the  first  ones  to  occupy  the  gut
+microbiota.  Maternal  inoculation  was  shown  to  influence  the
+composition of gut microbiota across four generations (Benson et
+al., 2010), and is thus an important factor shaping the composition
+of the gut microbiota. However, the importance of the effect of this
+initial inoculate on the final composition of the adult microbiota is
+not clear compared with dietary, physiological, host genetic and
+stochastic  effects  during  the  development  of  the  animal
+(Hildebrand et al., 2013; Spor et al., 2011). Furthermore, in closed
+housing conditions, where mice are confined in a limited space,
+stress related to human handling, noise and social contacts with
+cage mates is considered to affect gut microbiota composition (Ma
+et al., 2012). Specifically, it has been shown that animals behave
+differently  when  they  are  caged  in  isolation  (Blanchard  et  al.,
+1991).  Although  eliminating  stress  induced  by  conspecific
+aggression, isolation is a source of stress in social animals. Indeed,
+it has been shown that mice in groups are buffered against stress
+and that they show more positive signs of health such as faster
+wound healing and a lower level of stroke-induced neuronal death
+(DeVries et al., 2007; Galley et al., 2014). This is relevant within
+the  context  of  increasing  evidence  that  there  is  bidirectional
+communication  between  the  nervous  system  and  the  gut
+microbiota.  Given  the  nature  of  these  interactions,  stress  could
+alter gut microbiota composition (Bercik et al., 2012; Cryan and
+O’Mahony, 2011; Galley et al., 2014; Neufeld et al., 2011).
+
+Dietary impacts
+Usually, laboratory mice are fed a standardized chow diet, a closed
+formula diet in which the exact amount of each ingredient is not
+disclosed by the producer. The nutritional content of chow varies
+from batch to batch, depending on agronomical market fluctuations.
+Even with these variations, chow diet is composed mainly of plant
+materials  and  thus  differs  considerably  to  the  composition  and
+variation in a human daily diet. In most cases, mice being used in
+an  experiment  are  fed  the  same  diet,  obtained  from  the  same
+supplier, throughout the experiment. Chow diet might differ from
+human diets in components that have a significant impact on gut
+microbiota  composition.  As  a  case  in  point,  coumestrol,  a
+phytoestrogen, from alfalfa (clover) is used in rodent diets, which
+increases the ingestion of estrogen equivalents by mice compared
+with humans (Degen et al., 2002). In fact, changes in gut microbiota
+composition  have  been  found  to  follow  changes  in  the  estrogen Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 Box 2. Advantages and limitations of mouse models used in gut microbiota research Advantages
+• Allow interventions that are not possible in humans to study the causal
+role of gut microbiota in health and disease.
+• Comprehensive knowledge of mouse genetics and availability of
+numerous genetically modified mouse models more than any other
+models.
+• Low cost of maintenance, high reproductive rate, short life cycle.
+• Omnivorous mammal, with gut physiology and anatomy comparable to
+the human.
+• Allow targeting of a specific gene/pathway in the complex gut-
+microbiota – host interactions by using knock-out models.
+• Mouse models are inbred, providing a homogenous genetic
+background, a cleaner system to dissect signals from gut-bacteria–host
+interactions and improve reproducibility of experiments. 
+• Sources of variations such as diets and housing conditions are
+generally controlled for in experiments, limiting unwanted influences of
+noises from the surrounding environment to gut microbiota.  Limitations
+• Despite important similarities, mice are different from humans in
+anatomy, genetics and physiology, and thus mouse models cannot fully
+recapitulate human systems.
+• Different mouse models can give rise to diverged shifts in gut
+microbiota composition. 
+• Cross-talk between gut microbiota and the host is host-specific so
+observations in mouse models might not be applicable in humans.
+• Genetic homogeneity implies that the inbred mouse strains cannot
+capture the inherent genetic variations in the human population.
+• Multiple factors, such as genetic background, birth mode of delivery
+(caesarean or vaginal), mode of feeding (breast or bottle), diet, 
+medical history and social activities all contribute to shaping a ‘real-life’
+gut microbiota in humans. Absence of these factors in mice implies 
+that gut microbiota in mouse models cannot reflect a ‘real-life’ gut
+microbiota.
+
+content in diets of both humans and mice (Akaza, 2012; Menon et
+al., 2013). Some xenobiotics, such as antibiotics, can also strongly
+affect the gut microbiota composition and function (Maurice et al.,
+2013). Humans, through diet or treatments, are often exposed to
+such compounds and their potential synergistic effects. The mouse
+models have the advantage of allowing researchers to control for the
+impact  of  such  compounds  on  the  gut  microbiota,  by  either
+minimizing exposure or recording levels of exposure.
+
+Furthermore, dietary variations between humans represent a large
+potential source of gut microbiota inter-individual variation, which
+would not be detected in lab mice under uniform chow diet. For
+instance, the Prevotella enterotype is known to be sensitive to diet
+changes and is linked to a high carbohydrate/fiber diet in humans
+(De Filippo et al., 2010; Liu et al., 2012; Willing et al., 2010; Wu et
+al.,  2011).  In  both  mouse  (Neyrinck  et  al.,  2011)  and  human
+(Fernandez-Raudales et al., 2012; Wu et al., 2011) gut microbiota
+studies,  the  abundance  of  Prevotella was  found  to  change  upon
+dietary  intervention.  Furthermore,  Wang  et  al.  have  shown  that
+hosting wild mice in a laboratory environment on chow diet causes
+a shift in enterotypes, from the original Bacteroides-dominated (with
+microbial metabolism more dedicated to protein degradation) to the
+Robinsoneilla-dominated 
+to  carbohydrate
+degradation) enterotype (Wang et al., 2014).
+
+(more  dedicated  In  summary,  it  is  essential  to  keep  in  mind  that  the  murine
+models’ controlled diet might skew analyses by focusing only on a
+subset of the mouse gut microbiota inter-individual variance. On the
+other hand, controlling mouse diets provides a clearer experimental
+setup to disentangle the associations between the gut microbiota
+composition and function, and the perturbations studied, such as
+disease and host physiology (Box 2).
+
+Genetic background and founder effects
+A wide range of experiments in which gene-knockout mouse models
+have  been  created,  yielding  different  genetic  backgrounds,  have
+highlighted  that  genetics  is  an  important  determinant  of  gut
+microbiota  composition  (Benson  et  al.,  2010;  Hildebrand  et  al.,
+2013; Kovacs et al., 2011). In experiments using wild-type inbred
+mouse strains, genetic background effects have been suggested to
+be  stronger  than  gender  (Hildebrand  et  al.,  2013;  Kovacs  et  al.,
+2011) but to contribute less than environmental (cage) factors and
+stochastic  effects  to  variation  in  gut  microbiota  composition
+(Hildebrand  et  al.,  2013).  One  explanation  for  the  influence  of
+genetic background is the variation in the efficacy of colonization by  bacteria  on  hosts  with  different  genetic  backgrounds.  For
+example, Wos-Oxley et al. found that Clostridiales bacteria colonize
+the gut of humanized rats more efficiently than that of humanized
+mice (Wos-Oxley et al., 2012).
+
+In humans, the role of genetics in gut microbiota composition has
+been  scrutinized  in  twin  studies.  A  study  by  Turnbaugh  and
+colleagues shows that monozygotic twins are less dissimilar in terms
+of  gut  microbiota  composition  within  twin  pairs  than  pairs  of
+dizygotic  twins,  and  that  the  gut  microbiota  of  twins  are  more
+similar  to  each  other  than  to  their  mothers’  (Turnbaugh  et  al.,
+2009a). Given the similar environment that the twins share with
+each other and with their mother, it is obvious that the more closely
+related  they  are  in  genetics,  the  more  similar  the  gut  microbiota
+composition becomes.
+
+Murine  models  are  usually  inbred  in  order  to  reduce  the
+phenotypic  variation  that  arises  from  genetic  heterogeneity.
+Controlling genetic background offers opportunities to disentangle
+complex relationships between host genetics and gut microbiota, and
+potentially  to  elucidate  the  mechanisms  of  host-microbiota
+interaction. Knock-out mouse models, for example, are crucial tools
+for  functional  experiments  on  gut  pathologies.  For  instance,  the
+study  of  Muc2  knock-out  mice,  which  lack  Muc2,  the  most
+abundant secreted gastrointestinal mucin, led to the discovery of the
+link  between  this  protein  and  suppression  of  colorectal  cancer
+(Velcich et al., 2002). Nevertheless, model knock-out work is not
+without pitfalls either. Genetic homogeneity, which fails to portray
+inter-individual  variations  in  humans,  can  pose  problems  when
+translating  the  results  of  studies  using  inbred  mouse  strains  to
+humans in gut microbiota research. For instance, results from the IL-
+10  knock-out  mouse  model  implied  that  this  anti-inflammatory
+cytokine  plays  an  important  role  in  controlling  IBD.  However,
+clinical trials of IL-10 treatment on IBD in humans yielded modest
+results  (Fedorak  et  al.,  2000;  Schreiber  et  al.,  2000).  One  of  the
+the  unexpected
+the  minimal  results  was 
+explanations  for 
+heterogeneity in IL-10 receptor pool in humans as compared with
+mice (Barnett and Fraser, 2011). This heterogeneity might influence
+the efficiency of IL-10 in dampening inflammation via interactions
+with target cells that express IL-10 receptors. Similarly, variations
+in drug efficacy due to genetic polymorphism in human population
+are another important issue that was discussed (Ma and Lu, 2011).
+However, the lack of genetic background diversity in inbred mice
+could be solved in experimental setups by using outbred strains or
+wild  mice,  or  genetically  modified  models  from  multiple  mouse 9 Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 strains, in order to partially mimic the genetic diversity of the human
+population. Another advantage of this approach is that the maternal
+effect is minimized when mice are all from different mothers.
+
+Given the complex interactions of gut microbiota with the host and
+the surrounding environment, and stochastic effects, which still largely
+contribute to gut microbiota variations (Hildebrand et al., 2013), it is
+crucial to control for all contributing factors to increase statistical
+power.  These  include  genetic  background,  cage  effects,  maternal
+effects, diet, treatments and the number of biological replicates. In
+addition,  for  the  reproducibility  of  gut  microbiota  studies,
+standardization of protocols for animal handling as well as sample
+storage and processing and data analysis are of utmost importance.
+
+The limitations of certain mouse models
+Given its involvement in a wide range of physiological processes,
+the gut microbiota inevitably plays an important role in maintaining
+host health and wellbeing. The number of associations between gut
+microbiota composition and function and host diseases is increasing,
+with  such  diseases  including  obesity,  IBD,  diabetes  and  allergic
+diseases, such as asthma (Russell et al., 2012) and atopy (Lee et al.,
+2014). These chronic diseases place a substantial financial burden
+on the healthcare systems of developed societies (Burisch et al.,
+2013; Meng et al., 2014; Yang and Zhang, 2014). These pathologies
+were  already  known  to  be  triggered  by  multiple  genetic  and
+environmental factors. In addition, the discovery of a contribution
+of the gut microbiota to their development has added another layer
+of  complexity 
+their  pathophysiological
+mechanisms.  Although  the  association  of  gut  microbiota  with  a
+disease does not imply causality, understanding its role does open
+up  potentially  new  opportunities  to  treat  or  mitigate  the  disease.
+Employing mouse models to study host-microbe interactions allows
+functional experimentation to dissect underlying mechanisms that
+are  not  always  possible  in  humans.  On  the  other  hand,  mouse
+models also have their limitiations (Box 2). Here, we illustrate the
+limitations of mouse disease models from a microbiota perspective, to  understanding  focusing on models of colitis as well as on models in which germ-
+free  mice  are  inoculated  with  human  gut  microbiota  samples
+(humanized gnotobiotic mice) (Table 2).
+
+Genetically modified and/or chemically induced models
+Genetically modified murine models are powerful tools for studying
+the pathophysiological mechanisms of human diseases, and are now
+increasingly used to study the complex interactions between the gut
+microbiota and host in normal homeostasis and disease. However,
+targeted genes are often involved in multiple pathways, confounding
+the inferences that can be made about the association between the
+gene  expression  and  gut  microbiota  composition  and  function.
+Moreover,  many  mouse  models  do  not  recapitulate  exactly  the
+modeled human disease (Table 2), with each model having different
+limitations that need to be taken into account to translate the results
+to humans. A typical example is colitis, for which there are currently
+about  60  different  mouse  models  (Peloquin  and  Nguyen,  2013;
+Wirtz and Neurath, 2007).
+
+IBD is a complex disease, proposed to be an autoimmune disorder
+with the involvement of multiple genetic loci as well as a contribution
+of the gut microbiota in the development of the disease. IBD research
+has  yielded  several  mouse  models  (usually  referred  to  as  colitis
+models  because  the  pathology  mostly  resembles  ulcerative  colitis
+symptoms,  as  mentioned  above),  including  genetically  modified
+models,  where  a  candidate  gene  involved  in  IBD  development  is
+altered or knocked out, and models in which chemicals or infectious
+pathogens are used to induce gut inflammation and changes in gut
+microbiota  composition,  leading  to  colitis.  Despite  the  numerous
+mouse  models  developed  for  IBD  and  their  contributions  to  our
+knowledge of the underlying mechanisms of the disease, none of them
+fully  mimic  the  pathophysiology  of  human  IBD  (Peloquin  and
+Nguyen, 2013; Wirtz and Neurath, 2007) (Table 2). However, these
+genetically modified models can resemble pretty well the phenotype
+of a subset of individuals with IBD who carry genetic defects and thus
+are predisposed for developing IBD (Table 2). On the other hand, able 2. Features that mouse models can and cannot recapitulate human IBD and obesity  Modeled human 
+disease  Features of the human pathology that 
+are recapitulated in mice  Features of the human pathology that are 
+not recapitulated in mice   References  Mouse models  Genetically modified  IBD  Mimic the disease phenotype associated 
+with genetic susceptibility to IBD (for 
+example, the NOD2 gene) as seen in 
+a subset of patients   Cannot capture the whole genetic  Jurjus et al., 2004;  heterogeneity of human IBD owing to  
+the inherent genetic differences between 
+the two species  Barnett and Fraser, 
+2011  Chemically induced  IBD  Mostly resemble pathology of colitis as  seen in a subset of IBD patients  Induced by infectious  IBD  pathogens  Convey risks for developing IBD/colitis 
+after gastrointestinal infections as 
+seen in a subset of IBD patients  Obesity, IBD,  Resemble the majority of the human gut  microbiota composition  Humanized gnotobiotic 
+mice (germ-free mice 
+inoculated with 
+human microbiota)   confirmation of 
+alterations in the 
+gut microbiota 
+due to diet 
+changes  Inflammation does not occur throughout 
+the intestine; no remission unless 
+treatment is stopped  Inflammatory responses differ from those 
+in humans depending on the type of 
+infectious agents used and on the 
+deficient virulence factors of the infecting 
+bacteria    Boismenu and Chen, 
+2000; Barnett and 
+Fraser, 2011; Wirtz 
+and Neurath, 2007  Nell et al., 2010  do not exist in humans   Lack of some human-specific gut bacteria; 
+proportion of bacterial phyla is different 
+compared with humans; the immune 
+responses as well as other responses 
+from physiological processes in 
+experiments using humanized 
+gnotobiotic mice cannot be considered 
+the same as in humans  Chung et al., 2012; 
+Eun et al., 2014; 
+Turnbaugh et al., 
+2009b; Wos-Oxley 
+et al., 2012  Leptin-deficient mice  Obesity  Mice are predisposed to obesity  Mice exhibit other disease phenotypes that  Farooqi et al., 1999    T  
+10 Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 most of the models show inflammation/lesions in the large, instead of
+the small, intestine, which more closely resembles ulcerative colitis
+symptoms (Peloquin and Nguyen, 2013). Moreover, the development
+of  colitis  in  mouse  models  has  been  shown  to  be  affected  by  the
+genetic  background  of  the  used  strain  [i.e.  some  strains  are
+intrinsically more susceptible to developing colitis (Büchler et al.,
+2012)] and the interactions with the gut microbiota [e.g. some models
+do not develop colitis in germ-free conditions (Hudcovic et al., 2001)].
+The  concern  is  not  only  that  symptoms  are  not  concordant  with
+human IBD, but that the underlying mechanism, such as the cross-talk
+between the immune system and the gut microbiota, might not be the
+same in the mouse model being used.
+
+Another  common  way  to  induce  colitis  in  mice  is  by  using
+chemical agents, such as DSS, to damage gut epithelial cells, or
+molecules to stimulate an immune response in the colonic mucosa
+(e.g. haptens, such as TNBS and oxazolone). These agents induce
+either acute or chronic intestinal inflammation in mice, leading to
+the development of colitis. Although widely used, variations exist
+in  experimental  protocols  and  in  the  mice  housing  conditions,
+sometimes giving rise to differing results in experiments conducted
+on the same mouse model. For instance, Kitajima et al. observed
+that germ-free laboratory mice are very susceptible to DSS-induced
+colitis, whereas conventionally housed wild-type laboratory mice are
+more  tolerant  (Kitajima  et  al.,  2002).  This  result  contradicts  the
+observation  that  germ-free  mice,  either  immune-deficient  or
+immune-competent,  are  resistant  to  DSS-induced  colitis  as
+compared  with  their  respective  conventionally  housed  mice,  as
+reported in the study by Hudcovic et al. (Hudcovic et al., 2001).
+Another  example  of  inconsistencies  from  chemically  induced
+models  of  colitis  is  from  the  diverging  results  of  the  studies  by
+Fayad et al. (Fayad et al., 2007) and Nishihara et al. (Nishihara et
+al., 2006). In the former, the adiponectin knock-out mice did not
+develop  colitis  when  administered  with  either  DSS  or  TNBS,
+whereas, in the latter, the DSS-treated adiponectin knock-out mice
+developed more severe colitis compared with wild-type mice. The
+discrepancies in outcomes of these studies raise concerns for the use
+of  these  models  in  IBD  and  colitis  research.  Furthermore,  the
+chemical  itself  might  affect  the  composition  or  function  of  the
+resident gut microbiota before the onset of colitis (Nagalingam et
+al., 2011). In support of this proposition, DSS has recently been
+shown to alter the protein expression profiles of gut-resident E. coli
+in DSS-treated mice (Schumann et al., 2012). These cases highlight
+how the use of colitis mouse models in gut microbiota research will
+require  controlling  for  additional  variables  beyond  the  common
+confounders (such as host genetic background and environmental
+factors). Therefore, the interpretation of results from colitis mouse
+models, at least from the microbiota perspective, should be done
+with caution. The intrinsic complexity of gut microbiota research,
+together with the inconsistency of colitis mouse models (chemically
+induced or genetically engineered), makes interpreting the results of
+gut  microbiota  research  from  these  models  in  terms  of  human
+disease far from easy.
+
+Humanized gnotobiotic mice
+Humanized gnotobiotic mice, which result from the inoculation of
+a  human  gut  microbiota  sample  in  germ-free  mice,  provide  a
+powerful tool for gut microbiota studies because these models can
+recapitulate a large part of the human gut microbiota phylogenetic
+composition (100% of phyla, 11/12 classes and ~ 88% of genus-
+level  taxa).  This  approach  has  been  widely  employed  in  many
+studies because it allows perturbations in a ‘human-like system’ and
+is considered to be the gold standard for confirming associations and trying to prove causality in gut microbiota research (Faith et al.,
+2011;  Goodman  et  al.,  2011;  McNulty  et  al.,  2011;  Smith  et  al.,
+2013a; Turnbaugh et al., 2009b). However, it should be highlighted
+that the host-microbe relationships in these humanized models do
+not necessarily reflect the real relationships seen in humans, because
+the gut microbiota is transplanted into a host with which it has not
+co-evolved. Turnbaugh et al. reported that some resident bacterial
+taxa in the human gut microbiota are absent in the humanized mouse
+gut microbiota (Turnbaugh et al., 2009b). Given the low abundance
+of these bacteria, their absence is generally considered to be less
+important  for  the  balance  and  functions  of  the  gut  microbiota.
+However, the complex interactions between the bacteria composing
+the gut community (Faust and Raes, 2012) suggest that this might
+not be the case. Furthermore, low-abundance microbial species can
+be of essential importance to the ecosystem, as shown by a recent
+study  in  which  the  immune  system  of  humanized  mice  did  not
+mature normally (Chung et al., 2012). This study shows that the gut
+microbiota  composition  of  humanized  mice  in  general  does  not
+differ significantly from that of the initial human donors, except for
+the absence of many low-abundance Firmicutes, but these mice fail
+to recapitulate a comprehensive response to infections. Moreover,
+as discussed above, gnotobiotic mouse phenotypic responses can
+vary in different recipient germ-free mouse genetic backgrounds.
+Overall, it has been found that even though gnotobiotic mice are
+being  increasingly  used  as  models  for  studying  the  human  gut
+microbiota, they might not fully recapitulate the mechanisms of the
+human-host–gut-microbiota interaction. This said, they are one of
+very few methods to assess causality in microbiota research, and
+thus  further  development  and  improvement  of  this  approach  is
+essential.
+
+In summary, mouse models are a powerful tool in gut microbiota
+research, and offer the possibility to perform experiments that would
+be  too  invasive  for  human  subjects  and  with  better  control  over
+confounding  factors.  Despite  the  various  drawbacks  of  mouse
+models for colitis, these models have provided valuable insights into
+colitis  and  the  physiopathology  of  IBD,  identifying  factors  that
+trigger the progression of this complex disease (Barnett and Fraser,
+2011;  Nell  et  al.,  2010;  Peloquin  and  Nguyen,  2013;  Uhlig  and
+Powrie,  2009).  Similarly,  although  the  gap  between  humanized
+mouse models and the human gut microbiota within its original host
+needs to be acknowledged, these models provide unique possibilities
+to manipulate the human microbiota and potentially assess causality
+in the role of the gut microbiota in health and disease. Recently, a
+study  by  Ridaura  et  al.  showed  that  obesity  phenotypes  can  be
+transferred from human to humanized mice and between co-housed
+mice (Ridaura et al., 2013). Such studies are extremely valuable for
+understanding  the  underlying  disease  mechanisms  and  causative
+agents,  and  thus  for  getting  closer  to  developing  preventive  or
+therapeutic treatments.
+
+Outlook: alternatives to mice
+The strengths and limitations of mice as models for gut microbiota
+research are clear, but are there better alternatives for the research
+community  to  develop  or  consider?  Some  studies  have  been
+exploring the gut microbiota of other animal models, such as rats
+(Alpert et al., 2008; Liou et al., 2013; Wos-Oxley et al., 2012), dogs
+(Middelbos et al., 2010), pigs (Lamendella et al., 2011; Riboulet-
+Bisson et al., 2012) and primates, such as chimpanzees (Moeller et
+al., 2012) and macaques (McKenna et al., 2008). Rats are proposed
+to be more representative of the human gut microbiota than mice
+because  the  gut  bacterial  communities  of  humanized  rats  more
+closely reflect the gut microbiota of human donors (Wos-Oxley et 11 Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 al., 2012). Specifically, humanized rat models have a more similar
+Firmicutes:Bacteroidetes ratio to human donors and could represent
+the human donor better than could germ-free mouse models. This
+difference  is  thought  to  be  due  to  the  fact  that  the  rat  has  a
+microbiota  that  is  more  similar  to  humans  than  mice  do,  thus
+facilitating the establishment of the inoculated microbiota (Wos-
+Oxley  et  al.,  2012).  Furthermore,  it  was  hypothesized  that  the
+differences  between  mice  and  rats  in  recapitulating  the  human
+donors’  microbiota  is  due  to  the  intrinsic  differences  in  genetic
+backgrounds of the recipient models, which might control for the
+establishment of the transferred microbiota (Wos-Oxley et al., 2012).
+Another non-murine rodent model that has been employed in gut
+microbiota  research  is  the  guinea  pig.  Given  the  homology  that
+exists between human and guinea pig E-cadherin, a transmembrane
+adhesion protein that locates to the intestinal surface, this animal has
+become an important model for studying infection by the human
+pathogen Listeria monocytogenes. Because a healthy commensal
+intestinal microbiota affects the potential for infection by a pathogen
+(pathogen exclusion), the gut microbiota of guinea pigs has been
+investigated in several studies (Hildebrand et al., 2012; Yanabe et
+al., 2001). For example, in the study by Yanabe et al., germ-free
+guinea  pigs  were  inoculated  with  combinations  of  cecal  content
+from conventional guinea pigs to determine efficient cocktails to
+establish a healthy SPF colony (Yanabe et al., 2001). The authors
+found  that  the  transferred  microbiota  became  similar  to  the  gut
+microbiota of conventional guinea pigs and stayed stable over a long
+period.  More  recently,  another  study  employed  metagenomic
+approaches to compare the gut microbiota composition of humans
+and guinea pigs (Hildebrand et al., 2012). The study revealed that
+humans  and  guinea  pigs  share  dominant  bacterial  phyla,  but  the
+abundance  of  these  common  phyla  (22  out  of  26  phyla)  is
+significantly  higher  in  guinea  pigs  as  compared  to  humans.  In
+addition, significant differences in abundance were found across 320
+out of 376 genera. Functional categories, such as metabolism or cell
+membrane  biogenesis,  also  differ  significantly  in  abundance
+between the human and guinea pig gut microbiome (Hildebrand et
+al., 2012).
+
+The canine gut microbiota has also been investigated in several
+studies, given the similarity in gut morphology and functioning to
+the digestive system of humans (Middelbos et al., 2010; Suchodolski
+et  al.,  2008;  Suchodolski  et  al.,  2009).  Recently,  a  metagenomic
+study described the composition (bacteria, archaea and fungi) and
+function of the dog microbiome (Swanson et al., 2011). The canine
+microbiota  has  similar  dominant  phyla  (Bacteroidetes  and
+Firmicutes) to humans. However, at the genus level, the canine gut
+microbiota  is  distinct  by  a  greater  prevalence  of  the  genus
+Fusobacteria than in humans. The dog gut microbiota also has a
+higher  Fibrobacteres  and  Acidobacteria  abundance  and  lower
+abundance  of  Actinobacteria  than  humans.  Clustering  of  fecal
+microbiomes on the basis of metabolic capacity of gut microbial
+communities of canines, humans and mice showed that the canine
+microbiome clustered more closely to the human than did the mouse
+microbiome (Swanson et al., 2011).
+
+One  potential  competitor  for  mouse  as  a  prime  microbiome
+research  model  is  pig.  The  pig  gut  microbiota  is  becoming  an
+increasingly intensive area of study owing to the scale of the pig
+husbandry  industry,  as  well  as  to  the  similarities  in  anatomy,
+physiology  and  immunology  to  the  human  gastrointestinal  tract
+(Litten-Brown  et  al.,  2010).  Swine  gut  microbiota  has  been
+investigated  in  several  studies,  especially  involving  antibiotic
+interventions (Kim et al., 2012), which are of industrial relevance.
+An  in-depth  study  of  swine  gut  microbiota  composition  in  the 12 the  human  gut  microbiota.  Yorkshire pig breed showed that human and pig microbiota shared
+similar diversity patterns, with the two dominant phyla in pigs also
+being Bacteroidetes and Firmicutes (Lamendella et al., 2011). At the
+genus level, the swine gut microbiota harbors more Spirochaetes and
+Prevotella than 
+Interestingly,
+Anaerovibrio and  Treptonema are  genera  exclusive  to  pig  fecal
+metagenomes  (Lamendella  et  al.,  2011).  Miniature  pigs  are
+becoming promising models for biomedical research owing to their
+small size. In general, miniature pigs become obese when fed ad
+libitum and  are  therefore  employed  as  models  for  obesity  and
+metabolic  syndrome.  In  a  study,  in  which  Ossabaw  and  Yucatan
+miniature pig breeds were assessed for their suitability as models of
+metabolic syndrome and coronary artery disease, it was indicated
+that Ossabaw miniature pig is a superior model (Neeb et al., 2010).
+Likewise,  the  gut  microbiota  composition  of  two  miniature-pig
+breeds, Gottingen and Ossabaw, was investigated for their responses
+to obesity induction (Pedersen et al., 2013). The study showed that
+the major phyla of miniature pig gut microbiota are Firmicutes and
+Bacteroidetes. Interestingly, the two miniature pig breeds responded
+differently  to  an  obesity-inducing  diet:  Ossabaw  gut  microbiota
+displayed more of the characteristics of a ‘healthy’ obese microbiota,
+whereas Gottigen gut microbiota had changes similar to metabolic
+syndrome, such as those found in the gut microbiota profiles of type
+2  diabetic  mice,  again  emphasizing  the  importance  of  genetic
+background in gut microbiota response to perturbation.
+
+Non-human  primates  are  also  suitable  models  for  human  gut
+microbiota  research,  with  the  obvious  advantage  of  close
+evolutionary relatedness to humans. Interestingly, chimpanzees were
+found  to  harbor  three  enterotypes  and  these  had  a  similar
+composition  to  those  found  in  humans  (Arumugam  et  al.,  2011;
+Moeller et al., 2012), suggesting a conservation of the stratification
+of microbial communities in chimpanzees and humans (Moeller and
+Ochman, 2014). By contrast, studies investigating the gut microbiota
+composition  of  macaques  showed  that  the  community  of  gut
+bacteria in these primates is quite different to that of humans or mice
+(McKenna et al., 2008). Specifically, the macaque gut microbiota
+clearly  separated  from  that  of  human  and  mice  in  a  principal
+coordinate analysis on microbiota phylogenetic composition. One of
+the distinct features of the macaque gut microbiota is the presence
+and  abundance  of  Treponema,  a  genus  from  the  phylum
+Spirochaetes. By contrast, Bacteroides, one of the most abundant
+genera in human gut microbiota, is found to be rare in this species
+(McKenna et al., 2008). Despite the advantage of close evolutionary
+relatedness and physiology to humans, primate models have more
+stringent ethical restrictions for experimentation and breeding/care
+difficulties compared with mice.
+
+Conclusions
+The pioneering studies cited above on new animal models for gut
+microbiota  research  have  greatly  demonstrated  their  potential.
+However, despite the limitations of mouse models outlined in this
+review, their advantages are numerous and, furthermore, the amount
+of research and knowledge on mouse gastroenterology, genetics and
+immunology far surpasses any other model. Murine mouse models
+provide  a  range  of  customizable  genotypes  and  phenotypes  far
+superior to any other model organism. They have thus played a very
+important role in the emerging gut microbiota research field. Owing
+to their widespread use in biomedical research, these models are
+complemented with extensive knowledge on genetic background
+and deep phenotypic and functional characterization. Moreover, with
+well-set-up standardized mouse house facilities throughout labs in Disease Models & MechanismsSPECIAL ARTICLE Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400 the world, conducting experiments on mouse models, even germ-
+free ones, can be more easily achieved than with other models.
+
+Each  one  of  the  animal  models  referred  to  here  shows  some
+similarity to the physiology of the human digestive system, thus
+providing  useful  knowledge  from  different  angles  about  the  gut
+microbiota in health and disease. It is clear that information obtained
+from  studies  using  alternative  models  has  diversified  our
+understanding of the mammalian gut microbiota in general and has
+deepened our knowledge of each model separately. It is, however,
+important to keep in mind that models always have some degree of
+dissimilarity  with  the  system  modeled.  Therefore,  results  from
+animal models, including the popular murine ones, are not always
+translatable  to  humans  and  conclusions  should  be  made  with
+caution.  In  addition,  even  well-controlled  gut  microbiota
+experiments  using  mouse  models  show  important  inter-study
+variations due to confounding factors in the experimental setup, such
+as mouse house origin, maternal effects, environmental conditions
+(food composition, light, stress factors, pathogen infection), genetic
+backgrounds  and  in  the  downstream  analysis  methods  applied.
+There  have  been  recent  efforts  to  standardize  gut  microbiota
+experiments, for example by establishing standardized microbiota in
+isobiotic mice that would be shared by institutions involved in gut
+microbiota research (Hooper et al., 2012). Although these efforts are
+still  in  their  infancy  (Würbel,  2000),  they  will  increase  result
+reproducibility  and  inter-study  comparability,  and  allow  for  the
+healthy growth of the gut microbiota research field.
+
+Competing interests
+The authors declare no competing financial interests.  Funding
+T.L.A.N. is supported by VIB international PhD program. S.V.-S. is funded by Marie
+Curie Actions FP7 People COFUND – Proposal 267139 (acronym OMICS@VIB).
+The Raes lab is supported by KU Leuven, the REGA Institute, the Fund for
+Scientific Research – Flanders (FWO) and the Agency for Innovation by Science
+and Technology (IWT), and the FP7 MetaCardis project (HEALTH-F4-2012-
+305312).  Supplementary material
+Supplementary material available online at
+http://dmm.biologists.org/lookup/suppl/doi:10.1242/dmm.017400/-/DC1

@@ -1,0 +1,32 @@
+Competing interests: The authors have declared
+that no competing interests exist. The first 50 consecutive sub-
+jects who met both the criteria for GDM according to international guidelines (fasting plasma
+glucose �92 mg/dL and/or 1h post-test glycemia �180 mg/dL and/or 2h post-test glycemia
+�153 mg/dL) and the inclusion criteria (see below) were enrolled  Out of them, 41
+women participated in an observational study aiming to evaluate the changes in gut micro-
+biota composition across pregnancy  The fecal samples of their offspring were collected in
+the first week of life. PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019
+
+4 / 18
+
+GDM offspring gut microbiota composition
+
+The post-hoc power estimated on partial R2 according to the multivariate linear regression
+model adjusted for maternal weight change, breastfeeding and Cesarean section was 0.80 with
+α = 0.05. The correlation plot between
+maternal nutrient intakes and infant gut microbiota showed a higher number of significant
+associations with maternal variables at enrolment than at the study-end (Fig 3). Gut microbiota signature at sub-genus level
+
+In order to explore the possible mother-to-infant gut microbiota transmission at sub-OTUs
+level, we carried out oligotyping on sequences of Blautia, Bacteroides and Bifidobacterium
+since these were the only genera showing a Shannon entropy index sufficient to identify all
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0226545 December 16, 2019
+
+8 / 18
+
+GDM offspring gut microbiota composition
+
+Fig 5. Formal analysis: Valentina Ponzo, Ilario Ferrocino, Adriana Zarovska, Maria Bernadette
+
+Amenta, Clara Monzeglio, Roberto Gambino, Simona Bo.

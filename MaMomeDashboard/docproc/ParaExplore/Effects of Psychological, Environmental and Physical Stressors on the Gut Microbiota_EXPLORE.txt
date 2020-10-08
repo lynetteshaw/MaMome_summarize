@@ -1,0 +1,200 @@
+9_PARAGRAPHS
+
+Brief Reviews   e
+Th Journal of Immunology The Impact of Maternal Microbes and Microbial
+Colonization in Early Life on Hematopoiesis Downloaded from  http://www.jimmunol.org/  by guest on June 25, 2020 function of the immune system at distal tissues, including
+primary lymphoid organs, such as the bone marrow (BM) and
+thymus. In this capacity,
+intestinal microbes can regulate
+immune function via effects on the differentiation of hema-
+topoietic progenitor cells. Not only can these processes alter the
+type of leukocytes produced and released from the BM, some
+microbial signals may even act at the epigenetic level, thereby
+inducing semipermanent changes in individual lineages. Un-
+derstanding the timing and the mechanisms by which the
+microbiome can inﬂuence hematopoiesis is required for ra-
+tional development of novel strategies to harness the power of
+the microbiome to treat and prevent disease. In this review, we
+discuss how hematopoiesis in the BM is shaped by microbial
+signals during neonatal life and adulthood and following in-
+fection and highlight our current knowledge of the molecular
+processes involved.
+
+Address correspondence and reprint requests to Dr. Kathy D. McCoy, University of
+Calgary, Health Sciences Centre, Room 1883, 3330 Hospital Drive N.W., Calgary, AB
+T2N 4N1, Canada. E-mail address: kathy.mccoy@ucalgary.ca www.jimmunol.org/cgi/doi/10.4049/jimmunol.1701776 Downloaded from  http://www.jimmunol.org/  by guest on June 25, 2020 2520 BRIEF REVIEWS: MICROBIAL IMPACT ON HEMATOPOIESIS within this time frame. Not only can changes to the micro-
+biome inﬂuence susceptibility to infections and sepsis, nu-
+merous studies have revealed critical links between early life
+dysbiosis (deﬁned as changes in the normal composition of
+the microbiota) and a broad range of metabolomic, immu-
+nological, and behavioral disorders in adulthood, including
+asthma, allergy, inﬂammatory bowel disease (IBD), type 1
+diabetes, autism, and obesity (1, 4). Many factors, including
+diet, antibiotic exposure, genotype, and method of delivery
+(vaginal versus caesarean), are known to shape the developing
+microbiome (1), and it is of crucial importance that we un-
+derstand how these factors subsequently impact the develop-
+ing immune system.
+
+The ﬁrst few hours of life are normally associated with a rapid
+increase in neutrophils in the BM and circulation of humans and
+mice (4, 11). In mice, this neutrophilia is dependent on the
+presence of an intact maternal microbiota and is ablated by
+treatment of the pregnant dam from 5 d before birth with a
+combination of ampicillin, gentamicin, and vancomycin (4). In
+antibiotic-treated pups, aberrant neutrophil development could
+be detected from as early as 1 d of age and was associated with
+loss of IL-17A production by innate lymphoid cells (ILCs) in
+the small intestinal lamina propria of the pups, together with
+signiﬁcantly reduced levels of circulating G-CSF. As a result, these pups rapidly succumbed to experimental infection with
+Escherichia coli or Klebsiella pneumoniae. The deleterious effects
+of antibiotics could be reversed by treating mice with G-CSF or
+by adoptive transfer of microbiota from normal neonatal mice.
+This process was dependent on intact IL-17A signaling, high-
+lighting a potential role for the IL-17A/G-CSF axis in medi-
+ating the effects of the microbiota on neutrophil production in
+the BM. It is important to emphasize that the antibiotic-
+mediated effects in this model must reﬂect vertical transfer
+from the mother to the pup, because the treatment was started
+during pregnancy and discontinued prior to weaning. These
+studies indicate that caution needs to be applied when con-
+sidering the use of broad-spectrum antibiotics during labor or
+the perinatal period and perhaps suggest potential beneﬁts of
+coadministering probiotics under these circumstances.
+
+In the experiments above, the effects of antibiotics could
+reﬂect an inﬂuence on the microbiota of the mother, the
+neonate, or both. To assess the impact of the maternal
+microbiota alone, without any inﬂuence from microbial col-
+onization of the pups after birth, Gomez de Ag€uero et al. (20)
+transiently colonized germ-free dams during gestation with an
+auxotrophic mutant strain of E. coli, termed HA107. This
+model allows microbial colonization to occur only during
+pregnancy so that the dam becomes germ-free again prior to
+giving birth to her germ-free pups. This study revealed that
+maternal Ab-mediated vertical transfer of maternal microbial
+components vastly altered gene expression in the intestine of The Journal of Immunology 2521 Downloaded from  http://www.jimmunol.org/  by guest on June 25, 2020 FIGURE 1. Microbial signals in early life shape the repertoire of immune cell development in the BM. A child’s immune system can be modulated by microbial
+signals at various stages in development. Microbial metabolites, such as SCFAs, and Abs carrying microbial molecules can pass from mother to fetus during gestation
+(A) or from mother to child via breast milk (B). This has been shown to impact the immune cell repertoire in the intestine and may affect susceptibil-
+ity to intestinal pathogens. (B and C) From birth onward, children are exposed to microbes in the environment (i), which
+(Figure legend continues) Downloaded from  http://www.jimmunol.org/  by guest on June 25, 2020 2522 BRIEF REVIEWS: MICROBIAL IMPACT ON HEMATOPOIESIS the pups and was responsible for more intestinal ILC3 pop-
+ulations (20). Gestational colonization was also responsible
+for increased numbers of intestinal macrophages, although
+Ab-mediated transfer was not involved in mediating this
+phenotype. These data highlight a novel pathway whereby the
+maternal microbiome inﬂuences the neonatal immune system.
+Although no changes were observed in B cell development in
+the neonatal BM, a general effect on BM hematopoiesis was
+not assessed. One intriguing possibility that may account for
+some of the changes in the neonatal immune system in re-
+sponse to maternal colonization is raised by older studies il-
+lustrating the presence of maternally derived hematopoietic
+stem cells (HSCs) and other hematopoietic progenitor cells in
+cord blood (21), from where they may seed the BM of the
+developing fetus. Because these cell types can be regulated by
+the host microbiome, dysbiosis in the mother could potentially
+have indirect effects on the developing neonatal BM in utero by
+altering the behavior of these maternally derived progenitors.
+Postnatal maturation of the innate and adaptive immune
+is driven by signals arising from the intestinal
+systems
+microbiota. Current work supports the presence of a critical
+developmental window early in life when the immune system is
+highly susceptible to microbial inﬂuence (22). In humans, this
+window may encompass the ﬁrst 3 y of a child’s life and marks
+a period of intense variability in the microbiome. If the
+normal processes of establishing a microbiota are disrupted
+during this period, it may have life-long consequences for the
+host, leading to increased susceptibility to a number of dis-
+orders, including autoimmune diseases, IBD, asthma, allergy,
+obesity, and autism. Although multiple pathways are likely to
+be involved, it is possible that alterations in hematopoiesis in
+the developing BM or other tissues may result from decreased
+or altered microbial signals. Recent work shows that the dif-
+ferentiation fate of an HSC clone down a particular lineage is
+predetermined by epigenetic modiﬁcations that are thought to
+arise early during its development (23). This begs the ques-
+tion: could early life exposure to microbes generate epigenetic
+memory in the BM that has a life-long impact on host immune
+responses, subsequently inﬂuencing the risk for immune-mediated
+pathologies? Although not yet shown for cells in the neonatal
+BM, microbial-mediated epigenetic regulation of the che-
+mokine ligand CXCL16 has been identiﬁed in lung and colon
+tissues (24). In that study, microbial colonization during
+neonatal life was shown to be required to limit accumulation
+of invariant NK T cells in the lung and colon, and this effect
+was mediated through microbiota-mediated epigenetic regu-
+lation of CXCL16 (24).
+
+Exposure to microbes in early life is known to have an impact
+on primary B cell development that occurs in hindgut B cell
+structures in animals like the chicken and rabbit (reviewed in
+Ref. 25). Whether early B cell development can occur in the
+intestines of humans is not clear, although pre-B cells have
+been found in the human fetal small intestinal lamina propria (26). In mice, although early B cells that express RAGs are
+absent from the small intestine at birth, they are found to
+accumulate in the gut mucosa at weaning, coincident with
+increasing microbial colonization in early life (27). This
+suggests that microbes (and potentially dietary Ags) may play
+an important role in shaping the primary Ab repertoire in
+early life (28), and this may occur outside of the BM.
+
+Although the factors mediating emergency myelopoiesis
+have been characterized in some detail (see below), the reg-
+ulation of steady-state hematopoiesis by the normal microbiota
+remains less well understood. Nevertheless, recognition of
+microbe-associated molecular patterns (MAMPs) is likely to be
+important; indeed, intestinal colonization of germ-free mice
+with a combination of E. coli, Staphylococcus xylosus, and
+Enterococcus faecalis stimulates myelopoiesis in a MyD88 and
+TRIF–dependent manner (31). Although it was unclear what
+cell types mediated this response, one possibility is that it
+reﬂects regulation of secondary mediator production by in-
+testinal enterocytes stimulated by MAMPs from the com-
+mensal bacteria. This would be consistent with experiments
+showing that epithelial cell–derived CXCL5 can regulate the leads to establishment of a diverse microbiota in the intestine. (ii) The host immune system responds to this intestinal colonization, leading to the local and/or systemic
+production of growth factors, cytokines, and chemokines. Microbial components, such as SCFAs and MAMPs, including LPS and peptidoglycan (PGN), can also
+enter the circulation from intestinal lumen. Collectively, these factors can access distal sites, such as the BM, where they may regulate the proliferation and differ-
+entiation of LSK HSCs, LSK multipotent progenitors, and their descendants (iii), thus shaping commitment to speciﬁc immune cell lineages (iv). These effects of
+hematopoiesis have functional consequences on host immune responses, reducing susceptibility to intestinal pathogens and modulating inﬂammatory responses, such as
+to allergic airway challenge. Future work will unravel the impact that microbe-driven effects on BM homeostasis have on other tissues or immunopathologies.
+
+Downloaded from  http://www.jimmunol.org/  by guest on June 25, 2020 The Journal of Immunology 2523 levels of circulating G-CSF and neutrophil numbers in the
+BM by controlling the production of IL-17A from ILCs in
+the intestine (38).
+
+2 Neutrophil release from the BM is dependent on G-CSF
+produced by vascular endothelial cells in response to TLR
+ligation. G-CSF stimulates neutrophil release from the BM via
+a two-pronged approach. By triggering a downregulation of
+CXCL12, a surface-bound chemokine expressed by BM
+stromal cells, and by activating neutrophil proteases, G-CSF
+breaks the chemokine ligand–receptor bond that usually re-
+tains neutrophils within the BM niche (53, 54). Further,
+G-CSF triggers the release of the neutrophil chemoattractants
+CXCL1 and CXCL2 from vascular endothelial cells (55). By
+binding to CXCR2 on neutrophils, these chemokines recruit
+newly differentiated neutrophils to the bloodstream. A similar
+process of CXCL12 regulation by the monocyte chemokine
+receptor CCR2 has been proposed to regulate monocyte
+egress from the BM under inﬂammatory conditions (56).
+Activation of CCR2 by its cognate ligand CCL2 down-
+regulates CXCR4 expression by BM monocytes, releasing
+them from the BM niche. Although CCL2 was previously
+assumed to come from the inﬂamed tissues, a recent article by Downloaded from  http://www.jimmunol.org/  by guest on June 25, 2020 2524 BRIEF REVIEWS: MICROBIAL IMPACT ON HEMATOPOIESIS Jung et al. (57) shows that preformed CCL2 is stored in the
+vesicles of stromal cells within the BM itself, from where it is
+rapidly released after TLR4 ligation.
+
+In addition to these effects in adults, it is becoming in-
+creasingly clear that early life is a particularly critical period
+during which disruption of normal microbial colonization can
+have life-long effects on immune function. There is also
+emerging evidence that exposure of the mother to microbial
+signals during gestation or in the postnatal period can alter
+immune responses in infants. Whether this is a downstream
+consequence of altered BM hematopoiesis in the offspring
+remains unclear but certainly warrants further study. Elucidating Downloaded from  http://www.jimmunol.org/  by guest on June 25, 2020 The Journal of Immunology 2525 the processes that allow the microbiota to shape immune
+function early in life could provide a missing link in our
+understanding of how immunopathologies develop and has
+important implications for the use of antibiotics and dietary
+manipulation in children and pregnant women

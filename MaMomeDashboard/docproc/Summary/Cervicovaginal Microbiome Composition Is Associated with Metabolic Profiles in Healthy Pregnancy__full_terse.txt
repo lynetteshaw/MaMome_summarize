@@ -1,0 +1,38 @@
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al. The infant metabolome for saliva and urine
+had little variance attributed to which subject donated the sample, but GC-TOF MS was
+able to detect a signiﬁcant change between the infant urine metabolome at birth
+versus 6 and 12 months of age (PERMANOVA; R2 (cid:2) 34%; P (cid:2) 0.0007; Table S2). Mantel tests to determine if intersample relationships were similar
+between chromatography methods (including both GC-TOF MS and lipidomics)
+showed a strong correlation between saliva samples and weaker correlations between
+urine and CVF (Table S3). Studies have pointed out
+Gardnerella’s preference for ammonia as a nitrogen source  moreover, this ability to
+assimilate ammonia and produce amino acids has been implicated in mutualistic
+interactions between species of Prevotella, in the context of BV  Together, these
+BV-associated organisms contribute to genital inﬂammation, which may play a role in
+the susceptibility of certain diseases, such as HIV 
+
+Increased abundance of mannitol when L. crispatus was present is an important and
+unexpected ﬁnding . Strikingly, the ability of lipidomics to differentiate mothers from
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 11
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al. To amplify the V4 region of the bacterial 16S rRNA gene, 10 ng of DNA
+template was combined with PCR master mix (0.2 mM deoxynucleoside triphosphate [dNTP] mix,
+0.56 mg/ml bovine serum albumin [BSA], 0.4 (cid:2)M Illumina adapter sequence-tagged forward primer
+ and 0.025 U/(cid:2)l Taq DNA polymerase) and 0.4-(cid:2)M barcode-tagged reverse primers and
+then ampliﬁed in triplicate 25-(cid:2)l reactions, along with a no-template control, for 30 cycles (98°C for
+2 min; 98°C for 20 sec, 50°C for 30 sec, and 72°C for 45 sec; repeat steps 2 to 4 29 times; 72°C for 10 min).

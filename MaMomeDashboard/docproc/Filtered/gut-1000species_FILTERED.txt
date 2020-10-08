@@ -1,0 +1,1309 @@
+75_PARAGRAPHS
+
+The present-day view of the gastrointestinal microbiota
+composition is quite different than prior to the molecular
+revolution. Most importantly, it is evident that still many
+of the gastrointestinal microorganisms have not yet been
+cultured and this in particular concerns phylogenetically
+distinct bacterial groups belonging to the Firmicutes phy-
+lum (Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2007). Furthermore, several
+of the bacterial groups that based on cultivation studies
+had been recognized as dominant gastrointestinal genera,
+have been reclassiﬁed and renamed. Most notably this
+concerns the Bacteroides spp. that have been reclassiﬁed
+into the genera Alistipes, Prevotella, Paraprevotella, Para-
+bacteroides, and Odoribacter. Moreover, it is evident that
+different members of the Bacteroidetes phylum and not the
+Bacteroides genus sensu stricto are dominant in the human
+gastrointestinal tract. Furthermore, the abundance of the
+Peptostreptococcus spp. demonstrated in cultivation-based
+studies, could primarily be attributed to Peptostreptococco-
+cus productus (Holdeman et al., 1976). However, SSU
+rRNA gene analysis has shown that this species does not
+belong to the genus Peptostreptococcocus, and the species
+was reclassiﬁed ﬁrst as Ruminococcus productus (Ezaki
+et al., 1994) and ﬁnally as Blautia producta (Liu et al.,
+2008). Today, it is clear that Blautia spp., in contrast to Pe-
+ptostreptococcus spp.,
+the most abundant
+form one of
+groups in the human gastrointestinal tract. Many other so-
+called dominant genera are still in need for major reclassi-
+ﬁcation, and the best example of this is the Clostridium
+genus, for which a detailed phylogenetic analysis led to a
+proposed grouping into 19 clusters (Collins et al., 1994).
+Bacteria belonging to the Clostridium spp. are highly abun-
+dant in the adult gastrointestinal tract, and in particular,
+the members of the species that cluster within the Clostrid-
+ium cluster IV (C. leptum group, which major constituent
+is the Ruminococcacea family) and the Clostridium cluster
+XIVa (C. coccoides group, which resembles the Lachnospir-
+aceae family). Furthermore, the Ruminococcus genus is
+polyphyletic or paraphyletic and its members cluster
+within two families — the Ruminococcaceae and Lachno-
+spiraceae. A recent metagenomic study reported that the
+abundance of Ruminococcus spp. is a driver of one of the
+proposed enterotype status of the microbiota (Arumugam
+et al., 2011). However, as the present metagenomic analy-
+ses do not provide accurate phylogenetic information, it is
+unclear which of the two distinct groups of Ruminococcus
+spp., is the actual driver of this enterotype status. This
+example illustrates the need for a systematic and detailed.
+
+very
+dynamic, and in the last decade, 239 novel gastrointesti-
+nal tract species have been detected or described, con-
+ﬁrming the earlier notion that
+the
+gastrointestinal microorganisms are cultivable but not yet
+cultured. While traditional cultivation media and strate-
+gies are efﬁcient in obtaining novel species within the
+Actinobacteria, Bacteroidetes, Firmicutes, and Proteobacteria
+phyla, for the detection of the gastrointestinal representa-
+tives of the phyla Verrucomicrobia and Lentisphaerae, the
+development of speciﬁc media and culturing approaches.
+
+was needed (Zoetendal et al., 2003; Derrien et al., 2004).
+This suggests that for the cultivation of the gastrointesti-
+nal microorganisms belonging to phyla that lack any cul-
+tured representatives
+from the human intestine (e.g.,
+TM7 candidate phylum or the Oscillospira genus), alter-
+native and creative cultivation approaches
+should be
+developed and applied. Some new and promising devel-
+opments include the use of high-throughput solid phase
+growth
+culturing
+approaches using gnotobiotic mice (Goodman et al.,
+2011), or gel microdroplet culturing (Fitzsimons et al.,
+2013). The use of high-throughput culturing systems that
+employ a large set of growth media coupled to genomic
+characterization has proven to be very fruitful (Lagier
+et al., 2012a; Dubourg et al., 2013; Hamad et al., 2013;
+Pﬂeiderer et al., 2013). This recent attention for culturing
+the gastrointestinal microorganisms reﬂects the perceived
+need for detailed physiological, ecological and genetic
+studies. While a variety of
+functional metagenomics
+it is the
+approaches have been described and applied,
+integration with culturing approaches that is needed to
+further advance the understanding of the function of the
+intestinal ecosystem in health and disease. The power of
+this combination has recently been illustrated with the
+example of the abundant mucus-utilizing bacterium, Akk-
+ermansia muciniphila as a paradigm (Belzer & de Vos,.
+
+age (Scardovi & Trovatelli, 1974), an intestinal origin can
+be suspected, showing the high adaption of this genus to
+the gastrointestinal tract. Phylogenetically, Biﬁdobacterium
+spp. form a homogenous group, with 20 cultured species
+linked to the human gastrointestinal tract . The
+ﬁrst Biﬁdobacterium spp. was recovered from infant feces
+in 1900 by Henri Tissier, as a part of his PhD thesis work
+(Tissier, 1900). It was named Bacillus biﬁdus-communis.
+Already in 1924, this bacterium was renamed to Biﬁdo-
+bacterium biﬁdum, but Biﬁdobacterium was not recognized
+as an independent genus until 1974 (Biavati et al., 2000).
+The members of the Biﬁdobacterium genus are nonmotile,
+anaerobic or microaerophilic bacteria that produce ace-
+tate and lactate as major fermentation products from sug-
+sugars by these bacteria is
+ars. The degradation of.
+
+Eggerthella are assacharolytic bacteria that produce
+acids only from glucose, but not from other sugars. The
+ﬁrst representative of this bacterial group was isolated in
+1935 by Arnold Eggerth (Eggerth, 1935). These bacteria
+produce formate and lactate. Until now, only Eggerthella
+lenta and the still not fully characterized Eggerthella sp.
+YY7918 are associated with the human gastrointestinal
+tract. Eggerthella lenta has been implied in producing
+anti-tumor substances that stimulate natural killer cells
+(Hatta, 1995), while Eggerthella sp. YY7918 has been
+reported to produce s-equol (Yokoyama & Suzuki, 2008),
+which has anticarcinogenic properties (Yuan et al., 2007).
+Slackia spp. are asaccharolytic bacteria with the com-
+mon feature of converting dietary isoﬂavones. These isof-
+lavones have been proposed to prevent hormone-
+dependent diseases, while their conversion by gastrointes-
+tinal bacteria
+effectiveness.
+Among the bacterial products, s-equol appears to be the
+most relevant to human physiology (Yuan et al., 2007).
+At least two Slackia spp. are capable of equol production
+from isoﬂavones (Matthies et al., 2009; Jin et al., 2010),
+while Adlercreutzia equolifaciens that also belongs to the
+Coriobacteriales order, is another gastrointestinal species
+capable to produce equol (Maruo et al., 2008). The ability
+to produce s-equol is more abundant among microbiota
+of Asian than the Caucasian subjects (Song et al., 2006)
+and can be explained by the adaptation of the microbiota
+isoﬂavones — particularly
+to the higher availability of
+those derived from soy beans..
+
+The gastrointestinal Actinomycetales also include Rothia
+spp. that are frequently detected in the upper gastrointesti-
+nal tract (Ou et al., 2009), but rarely in fecal samples. These
+species contribute to the degradation of gluten (Zamakh-
+chari et al., 2011) and their abundance and activity might
+be relevant for celiac disease and other conditions related
+to gluten digestion. Another species of this order — Actino-
+myces graevenitzii — which is detected in an increased
+abundance in the small intestine of celiac disease patients,
+might be a relevant risk factor for the development of this
+disease (Ou et al., 2009). Various other Actinomyces spp.
+can be detected in low abundance in the fecal samples of
+healthy humans (Hoyles et al., 2012; Hoyles et al., 2013),
+and while the role of these bacteria in the gastrointestinal
+tract is still to be determined, it is noteworthy that an Acti-
+nomyces spp. was detected as colonizer of the infant gastro-
+intestinal tract using sensitive molecular methods already
+in the ﬁrst days of life (Favier et al., 2002)..
+
+Micrococcus spp. are relatively prevalent (present
+in
+20% of the analyzed subjects) in the samples of the upper
+gastrointestinal tract in patients predisposed to the devel-
+opment of the small intestinal bacterial overgrowth syn-
+drome (Bouhnik et al., 1999). Although representatives of
+this genus can be detected in the fecal samples (Finegold
+et al., 1974), these bacteria typically inhabit human skin.
+Similar applies to six Kocuria spp., which are human skin
+and oropharynx mucosa commensals (Savini et al., 2010),
+although two recent studies have reported presence of
+Kocuria spp.
+in gastrointestinal samples (Lagier et al.,
+2012a; Fitzsimons et al., 2013).
+The other members of.
+
+The Gram-negative bacteria that belong to the phylum
+Bacteroidetes are common, abundant and diverse within
+the human gastrointestinal tract. The ﬁrst Bacteroides spe-
+cies — Bacteroides fragilis — was isolated in 1898 as a
+human pathogen linked to appendicitis among other clin-
+ical cases (Veillon & Zuber, 1898). Although some Bacte-
+roides
+spp. are still considered to be opportunistic
+pathogens, several decades of research have testiﬁed that
+many Bacteroidetes species are highly adjusted to the gas-
+trointestinal tract, where they live in high abundance (up
+(cid:1)1 of intestinal material; Eggerth & Gagnon,
+to 1011 cells g
+1933; Moore & Holdeman, 1974a; Benno et al., 1986).
+Hence,
+that are
+they perform metabolic conversions
+essential for the host, often related to the degradation of
+proteins or complex sugar polymers. The colonization of
+the gastrointestinal tract with the Bacteroidetes is pro-
+moted already in infants, as mother milk’s nondigestible
+oligosaccharides support the growth of both Bacteroides
+and Biﬁdobacterium spp. (Marcobal et al., 2011). Further-
+more, animal model experiments have shown that the
+colonization of the normal gastrointestinal tract, as illus-
+trated by experiments with pure cultures of Bacteroides
+spp., is a result of the recognition and selection by the
+immune system of
+(Rakoff-Nahoum et al.,
+2004), mediated through the toll-like receptors (Round
+et al., 2011; Lopez-Siles et al., 2012) and other speciﬁc
+host-microorganism interactions (Hooper et al., 2012)..
+
+For a long time, it was thought that the majority of
+Gram-negative gastrointestinal tract bacteria belonged to
+the Bacteroides genus, but in recent years many earlier
+designed Bacteroides spp. were assigned to other genera
+within the Bacteroidetes phylum. Currently, only four gas-
+trointestinal Bacteroides spp. form deep branches in the
+phylogenetic tree , suggesting that these bacteria
+and
+(B. ureolyticus, B. galacturonicus, B. pectinophilus,
+B. coagulans) still should be reclassiﬁed to other phyloge-
+netic groups. A similar situation applies to Anaerorhabdus
+furcosa, which is still classiﬁed as a member of the Bacter-
+family, but based on its SSU rRNA gene
+oidaceae
+sequence clusters within the Firmicutes phylum. The
+majority of the gastrointestinal Bacteroidetes spp. belongs.
+
+Bacteroides dorei, AB242143
+Bacteroides vulgatus, AB510712
+Bacteroides massiliensis, AY126616.
+
+Bacteroides coprocola, AB200225.
+
+Bacteroides coprophilus, AB260025.
+
+Bacteroides intestinalis, AB437413.
+
+Bacteroides oleiciplenus, AB490803.
+
+Bacteroides cellulosilyticus, AB510698.
+
+Bacteroides graminisolvens, AB363973.
+
+Bacteroides timonensis, JX041639
+Bacteroides nordii, AY608697.
+
+Bacteroides salyersiae, AY608696.
+
+Bacteroides thetaiotaomicron, AE015928.
+
+Bacteroides finegoldii, AB222699.
+
+Bacteroides ovatus, AB050108
+Bacteroides caccae, EU136686
+Bacteroides xylanisolvens, AM230650
+Bacteroides eggerthii, AB510700.
+
+Bacteroides stercoris, AB510708.
+
+Bacteroides uniformis, AB050110.
+
+Bacteroides ureolyticus, FN401327.
+
+Fig. 6. Phylogenetic tree of the human gastrointestinal species that belong to the class of the Bacteroidia. GenBank Accession Numbers of the
+SSU rRNA gene sequence are provided for each species and the family names are indicated. Deeply rooted Bacteroides spp., which based on the
+SSU rRNA gene sequence cluster within distant phylogenetic groups are depicted in the gray area..
+
+to the following bacterial families: Bacteroidaceae, Prevo-
+tellaceae, Rikenellaceae, and Porphyromonadaceae .
+These bacterial species share the common feature that
+they produce succinic acid, acetic acid, and in some cases
+end-products. Species
+propionic acid, as
+belonging to the genera Alistipes, Bacteroides, Parabactero-
+ides, Prevotella, Paraprevotella, Alloprevotella, Barnesiella,
+and Tannerella are saccharolytic, while species belonging
+to Odoribacter and Porphyromonas are predominantly
+asaccharolytic. Some Bacteroides spp. and Prevotella spp.
+can degrade complex plant polysaccharides such as starch,
+cellulose, xylans, and pectins (Wu et al., 1992; Morotomi
+et al., 2009; Sakamoto & Ohkuma, 2012). The Bacteroide-
+tes species play also an important role in protein metabo-
+lism, as some species have proteolytic activity, assigned to
+the proteases that are linked to the cell wall (Macfarlane
+et al., 1986; Macfarlane et al., 1988), while some Bactero-
+ides spp. have a potential to utilize urea as a nitrogen
+source (Yatsunenko et al., 2012). Other important func-
+tions of Bacteroides spp. include the deconjugation of bile
+acids (Narushima et al., 2006) and growth on mucus (Le-
+itch et al., 2007). The Bacteroidetes contribute to the
+recently proposed classiﬁcation of
+the gastrointestinal
+microbiota into enterotypes (Arumugam et al., 2011).
+The importance of the Bacteroidetes is further illustrated
+by the fact that this group is the most stable component
+of the gastrointestinal microbiota over time in healthy
+adults (Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2013b). Anecdotally, a
+unique case report described the microbiota of a critically
+ill patient that harbored no Bacteroidetes — this patient
+passed away soon after sampling (Dubourg et al., 2013)..
+
+complex: while the reduced abundance of the Bacteroide-
+tes in some cases is associated with obesity (Ley, 2010)
+and irritable bowel syndrome (Rajili(cid:1)c-Stojanovi(cid:1)c et al.,
+2011),
+this bacterial group appears to be enriched in
+patients suffering from type 1 and type 2 diabetes (Larsen
+et al., 2010). Moreover, Bacteroides spp.
+in contrast to
+Prevotella spp. were recently found to be enriched in the
+metagenomes of subjects with low gene richness that were
+associated with adiposity, insulin resistance and dyslipida-
+emia as well as an inﬂammatory phenotype (Le Chatelier
+et al., 2013)..
+
+The ﬁrst representative of the Bacilli class retrieved from
+the gastrointestinal tract was a member of Lactobacillales
+order and was isolated in 1900 — Bacillus acidophilus
+(Moro, 1900). The description of this species is vague,
+based on the currently accepted standards, and as the ori-
+ginal strain was lost, it is not clear if this species is Lacto-
+bacillus acidophilus or one of
+the other ﬁve species
+derived from the so-called L. acidophilus group (Mits-
+uoka, 1992). Lactobacilli comprise a group of gastrointes-
+inhabitants that has received particular scientiﬁc
+tinal
+attention (Tannock, 2004), mainly because of the health
+claims proposed by Metchnikoff in the beginning
+of the nineteenth century and their later application as
+probiotics. Although highly important for the health, Lac-
+tobacilli are rarely detected as markers of the gastrointes-
+tinal microbiota dysbiosis, but such reports exist and.
+
+include a reduced abundance in patients suffering from
+inﬂammatory bowel disease (Keighley et al., 1978; Ott
+et al., 2004), type 1 diabetes (Murri et al., 2013). This
+might be related to the fact that lactobacilli are only a
+minor fraction of the fecal microbiota where they can
+(cid:1)1 (Simon & Gorbach,
+reach counts of up to 108 cells g
+1984), and most of the analysis of the gastrointestinal
+microbiota is based on the use of stool samples. In the
+small intestine Lactobacillus spp. represent one of the pre-
+dominant groups obtained by culturing (Reuter, 2001).
+However, while molecular studies could conﬁrm their
+presence in the upper intestinal tract, these also showed
+that the Lactobacilli are quite variable and not as abun-
+dant as other gastrointestinal genera at that location, such
+as Streptococcus and Veillonella (Booijink, 2009; Booijink
+et al., 2010). This may explain why Lactobacillus spp.
+should be part of the diet, as consumed probiotic strains
+of Lactobacillus spp. have a beneﬁcial effect on human
+health and speciﬁc induction of gene expression has been
+observed in duodenal biopsies after exposure of Lactoba-
+cillus plantarum (van Baarlen et al., 2009). Speciﬁc media,
+developed already in the 1950s (Rogosa et al., 1951),
+enabled the isolation of numerous Lactobacillus spp. Nev-
+ertheless, new Lactobacillus spp. from human gastrointes-
+tinal tract are still being reported (Roos et al., 2005; Oki
+et al., 2012), indicating that even the 38 known gastroin-
+testinal Lactobacillus sp.  are not covering the
+group’s full diversity. Several previously misclassiﬁed Lac-
+tobacillus spp. have now been reclassiﬁed into novel gen-
+and
+including Weissella, Atopobium, Eggerthia,
+era,
+Kandleria (Collins & Wallbanks, 1992; Bjorkroth et al.,
+2002; Salvetti et al., 2011). Currently, only Lactobacillus
+rogosae is strongly outgrouping from the remaining Lacto-
+bacillus spp., although even after exclusion of the strongly
+outgrouping species, the species show a large degree of
+the SSU rRNA gene variation and form several groups in
+the phylogenetic tree  As Lactobacillus spp. pro-
+duce lactic acid as the major fermentation production
+that can be accompanied with ethanol and carbon dioxide
+in some species and under some conditions, traditionally
+Lactobacillus spp. are classiﬁed into three groups: obli-
+gately homofermentative, facultatively homofermentative,
+and obligately heterofermentative. However, the phyloge-
+netic position of the species does not seem to be related
+to their fermentation proﬁle..
+
+lactic
+acid bacteria can be detected in the gastrointestinal tract.
+Members of the genera Leuconostoc and Weissella used to
+be considered as occasional and possibly transient mem-
+bers of the gastrointestinal microbiota. However, a recent
+study showed that Leuconostoc spp. and Weissella spp. are
+abundant (representing up to 24% of
+total microbial
+community) and widely distributed in colonic mucosa.
+
+Brochothrix thermosphacta , FJ512270.
+
+Gemella spp. are abundant in the upper gastrointestinal
+tract and specially the proximal small intestine (Ou et al.,
+2009). While their function in the gastrointestinal tract
+has not been determined, these species can include patho-
+genic strain that translocate to other organs. For instance,
+Gemella spp. have been described as likely causing agents
+of endocarditis, particularly in patients that suffer from
+gastrointestinal disorders (such as colon cancer; Lopez-
+Dupla et al., 1996)..
+
+Numerous members of the Bacillus and Paenibacillus
+genera have been detected in the samples of the human gas-
+trointestinal tract. The ﬁrst representatives of this group of
+bacteria were isolated in 1919 by Marjorie Batchelor, who
+reported Bacillus cereus as the most prevalent member of
+the aerobic sporogenic bacteria in infant feces (Batchelor,
+1919). Members of the Bacillus genus were often reported
+in the older cultivation-based studies, but the vast majority
+this genus and related genera were
+of
+reported only recently (Hoyles et al., 2012; Lagier et al.,
+2012a; Zoetendal et al., 2012). One of these studies was
+designed for the targeted cultivation of Bacillus and related
+species from human samples (Hoyles et al., 2012). It has
+been shown that Bacillus spp. could be retrieved from all
+analyzed samples, although these bacteria have very low
+abundance of 102–104 cells mL
+intestinal content.
+Many of the Bacillus spp. isolated in this study exhibited
+notable antimicrobial activity. This feature is in line with
+the use of several Bacillus spp. as potent probiotics with
+immunomodulatory potential (Duc et al., 2004). Little is
+known about the function of these bacteria in the ecosys-
+tem, but it is noteworthy that two independent studies have
+shown that members of the Bacillales order, more speciﬁ-
+cally Aneurinibacillus spp., have an increased abundance in
+(Krogius-
+feces of
+Kurikka et al., 2009; Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2011), while a
+signiﬁcantly higher abundance of Bacillus subtilis was found
+in the feces of bottle-fed than breast-fed babies (Benno
+et al., 1984)..
+
+geneous and many of its members were initially assigned
+to Clostridium genus and subsequently reclassiﬁed into
+novel genera. The Clostridium sensu stricto — the real
+Clostridium spp. — are grouped around the type species
+Clostridium butyricum and belong to the Clostridium clus-
+ter I within the Clostridiaceae family (Fig. 12; Stacke-
+brandt et al., 1999). In addition to Clostridium spp., the
+Clostridiaceae ofﬁcially groups Sarcina spp., Butyricicoccus
+pullicaecorum and Lactonifactor longoviformis, Anoxynatro-
+num sibiricum while the latter three, based on their SSU
+rRNA gene sequence, should be assigned to various other
+Clostridiales
+(Figs 13, 14 and 16). The ﬁrst
+human gastrointestinal Clostridium isolate, C. perfringens,
+was recovered in 1905 (Passini, 1905). The same species,
+previously known as Bacillus aerogenes capsulatus and
+Clostridium welchii, was earlier isolated from a case of
+endocarditis (Welch & Nuttall, 1892). Both isolation sites
+ﬁt
+the nowadays known properties of C. perfringens,
+which is a commensal gastrointestinal bacterium that can
+cause bacteraemia (Petit et al., 1999). Up to now, 72
+Clostridium spp. have been detected in the human gastro-
+intestinal samples, of which 30 belong to the Clostridium
+sensu stricto . The other Clostridium spp. belong
+to different families within the Firmicutes phylum, while
+Clostridium rectum belongs to the Fusobacteria phylum.
+Members of the Clostridium sensu stricto are generally
+perceived as pathogenic, although cultivation-based stud-
+ies show that C. perfringens and other real clostridia can
+(cid:1)1 intestinal
+be found in densities of up to 1010 cells g
+content of healthy individuals (Finegold et al., 1974), and
+up 107 cells g
+intestinal content of healthy infants
+(Mevissen-Verhage et al., 1987). Still,
+the presence of
+these bacteria, notably as seen for C. perfringens in elderly
+is interpreted as an indicator of a less
+Irish subjects,
+healthy microbiota (Lakshminarayanan et al., 2013)..
+
+The most abundant and diverse gastrointestinal family
+is the Lachnospiraceae. This family groups 24 different
+genera, most of which can be detected in the human gas-
+trointestinal tract. In addition, a number of species that
+are ofﬁcially classiﬁed into the genera Clostridium, Eubac-
+terium, and Ruminococcus, cluster within the Lachnospira-
+ceae based on their SSU rRNA gene sequence .
+Members of the Lachnospiraceae are also among the ﬁrst
+to be established in the gastrointestinal tract. A recent
+study showed that Ruminococcus gnavus is an exclusive
+representative of this family in 2-months old breast-fed
+infants, while infants fed with cow-milk based formula
+have a more diverse Lachnospiraceae community (Tan-
+nock et al., 2013). Analysis of the microbiota of children
+and adults showed that this group of bacteria is predomi-
+nant in both young children and in adults, which indicates
+the early establishment of these bacteria (Ringel-Kulka
+et al., 2013)..
+
+Bacteroides galacturonicus, DQ497994
+Lactobacillus rogosae, GU269544.
+
+Blautia is a recently described bacterial genus that
+groups
+several abundant gastrointestinal bacteria that
+were previously assigned to the Ruminococcus genus –
+notably those related to Ruminococcus obeum .
+The common feature of Blautia spp. is the utilization of
+hydrogen and carbon dioxide to form acetate (Bernalier
+et al., 1996). Blautia spp. are among the most abundant
+tract and can
+the entire gastrointestinal
+members of
+encompass between 2.5% and 16% of the total microbi-
+ota (Zoetendal et al., 2002). This abundant bacterial
+group is signiﬁcantly depleted in elderly subjects (Hayashi
+et al., 2003; Biagi et al., 2010) and in mucosal samples of
+colorectal cancer patients (Chen et al., 2012). In contrast,
+increased levels of Blautia spp. are observed in irritable
+bowel syndrome patients (Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2011),
+but this could reﬂect the adaption of the ecosystem to
+the larger amount of gasses produced by Dorea spp.,
+which can be utilized by Blautia spp..
+
+of important metabolic functions. R. torques and other
+currently uncultured species related to R. torques, are
+among the most potent mucus utilizes that enable mucus
+degradation by secretion of several different extracellular
+glycosidases
+the
+abundance of these bacteria is strongly associated with
+the level of triglycerides in blood serum (Lahti et al.,
+2013). Several studies of the microbiota of irritable bowel
+syndrome patients and controls have shown that organ-
+isms related to these misclassiﬁed Ruminococcus spp. are
+signiﬁcantly elevated in patients (Kassinen et al., 2007;
+Rajili(cid:1)c-Stojanovi(cid:1)c
+et al., 2011).
+Moreover, the abundance of these bacteria is positively
+correlated with irritable bowel syndrome symptoms (Mal-
+inen et al., 2010) and signiﬁcantly reduced by probiotics
+consumption that reduces these symptoms (Lyra et al.,
+2010)..
+
+recognized members of the Clostridium cluster IV (Clos-
+tridium leptum group) are either members or are closely
+related to this family . The true Ruminococcus
+spp. are an abundant fraction of the human gastrointesti-
+can reach densities of up to
+nal microbiota that
+(cid:1)1 of intestinal content (Finegold et al., 1977).
+1010 cells g
+Being strictly anaerobic cellulolytic cocci, Ruminococcus
+spp. were isolated from human gastrointestinal samples
+only after the improvement of the anaerobic techniques
+and media for
+(Hungate,
+1947). The ﬁrst human gastrointestinal Ruminococcus spp.
+reported is Ruminococcus bromii isolated in 1972 (Moore
+et al., 1972). Similar to the other gastrointestinal bacteria,
+the initially deﬁned Ruminococcus spp. are a heteroge-
+neous group, which based on the SSU rRNA gene
+sequence clusters within the Ruminococcaceae and Lachno-
+spiraceae families. Recently, ﬁve gastrointestinal Rumino-
+coccus spp. were reclassiﬁed into Blautia genus,
+leaving
+seven others to be reclassiﬁed (Liu et al., 2008; Figs 9 and
+10). Bacteria that belong to the Ruminococcus sensu stricto
+degrade complex sugars to produce acetate as the major
+fermentation product. Both in vitro and in vivo studies
+have shown that R. bromii is the major degrader of the
+resistant starch in the human gastrointestinal tract (Ko-
+vatcheva-Datchary et al., 2009; Walker
+et al., 2011).
+Application of the resistant starch in the diet has a wide
+range of health-promoting effects, suggesting the impor-
+tance of the metabolic activity of R. bromii for the wellbe-
+ing of the host (Higgins & Brown, 2013). The importance
+of the members of the Ruminococcus sensu stricto for the
+intestinal health is indicated by their reduced abundance
+in feces of Crohn’s disease (Kang et al., 2010) and ulcera-
+tive colitis patients (Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2013a)..
+
+Among the Ruminococcaceae family, Faecalibacterium
+prausnitzii (previously known as Fusobacterium prausnitzii)
+is the most prevalent and abundant gastrointestinal micro-
+organism (Holdeman et al.,
+1976). Faecalibacterium
+prausnitzii can utilize glucose, fructose, and fructo-oligosa-
+charides, as well as complex molecules such as pectin and
+N-acetylglucosamine to produce butyrate, formate and lac-
+tate (Duncan et al., 2002a; Lopez-Siles et al., 2012). It is
+one of the major butyrate producers in the gastrointestinal
+tract, which is a relevant feature because of the health-pro-
+moting properties of butyrate. The reduced abundance of
+this bacterium is detected in association with Crohn’s dis-
+ease (Sokol et al., 2006; Kang et al., 2010) and with colon
+cancer (Chen et al., 2012). This bacterium is important for
+the gastrointestinal microbiota homeostasis as it has found
+to show anti-inﬂammatory properties in mice (Sokol et al.,
+2008) and is associated with a range of metabolic processes
+in the human mucosa (Lepage et al., 2011). Health-pro-
+moting properties are also exhibited by B. pullicaecorum,
+another species with the SSU rRNA gene sequence that is.
+
+related to the Ruminococcaceae family. This bacterium is
+signiﬁcantly reduced in inﬂammatory bowel disease
+patients, while its oral administration strengthens the epi-
+thelial barrier function in animal models by increasing the
+trans-epithelial resistance (Eeckhaut et al., 2013)..
+
+The ﬁrst Eubacterium spp. from a human gastrointesti-
+nal sample was isolated already in 1908 when Henri Tis-
+sier plated Bacillus
+renamed into
+ventriousus,
+Eubacterium ventriosum (Tissier, 1908). The genus Eubac-
+terium was for a long time recognized as one of the most
+abundant genera of the human gastrointestinal microbi-
+(cid:1)1 of intestinal
+ota, with densities of up to 1010 cells g
+content (Moore & Holdeman, 1974a). However, Eubacte-
+rium, similar to Clostridium,
+is very
+rod-shaped,
+vaguely described. Deﬁned as anaerobic,
+Gram-positive bacteria that do not
+form endospores,
+Eubacterium genus includes a consortium of distantly
+related species. Some Eubacterium spp. have been reclassi-
+ﬁed into novel genera within two bacterial phyla —
+Actinobacteria and Firmicutes — of which six genera
+(Dorea, Collinsella, Eggerthella, Flavonifractor, Mogibacteri-
+um and Pseuodramibacter) can be members of the gastro-
+intestinal microbiota (Willems & Collins, 1996; Kageyama
+et al., 1999a, b; Nakazawa et al., 2000; Taras et al., 2002;
+Carlier et al., 2010). Further reclassiﬁcation of the genus
+can be expected, as only four gastrointestinal Eubacterium
+spp. belong to the Eubacterium sensu stricto . In
+a recent study of the gastrointestinal microbiota of cente-
+narians, Eubacterium spp. (notably those related to Eubac-
+terium limosum) were reported as signature bacteria of
+the long life, being 10-fold increased in centenarians
+(Biagi et al., 2010). It is known that E. limosum has the
+ability to transform dietary phytoestrogens into forms
+that might have a positive impact on health (Clavel et al.,
+2006; Possemiers & Verstraete, 2009). Furthermore,
+E. limosum is selectively stimulated by prebiotics that
+improve the symptoms of
+inﬂammatory bowel disease
+patients (Kanauchi et al., 2005)..
+
+Mogibacterium is a genus established by reclassiﬁcation
+of the intestinal bacterium – Eubacterium timidum. Mogi-
+bacterium spp. are enriched in mucosa-associated micro-
+biota in colon cancer patients but not much is known
+about this group of bacteria belonging to Clostridium
+Family XIII Incertae Sedis (Chen et al., 2012)..
+
+stridia class, form distinct branches in the phylogenetic
+tree . Two of
+these gastrointestinal bacteria,
+namely Catabacter hongkongensis and C. minuta, form a
+the
+separate cluster within the Clostridiales order of
+Clostridia class and are the only cultured representatives
+of a phylogenetic group that was previously detected only
+in various molecular studies and was in a previous review
+designated as uncultured Clostridiales II (Rajili(cid:1)c-Stojano-
+vi(cid:1)c et al., 2007). These two species are ofﬁcially assigned
+to two different families (Catabacteriaceae and Christense-
+nellaceae), although based on the SSU rRNA gene
+sequence similarity  they should be grouped in
+the same family, and, most likely,
+in the same genus.
+Catabacter hongkongensis was isolated in 2007 from a
+blood sample, although the intestinal origin of the bacte-
+rium was suspected (Lau et al., 2007). This bacterium
+was later isolated from patients with acute appendicitis,
+but also from other tissues where it was a causative agent
+of fatal bacteremia (Lau et al., 2012). Christensenella min-
+uta is an intestinal isolate, described in 2012 (Morotomi
+et al., 2012). Not much is known about the role of this
+group of strictly anaerobic bacteria in the human gastro-
+intestinal tract, but it is noteworthy that bacteria that
+belong to the Christensenella/Catabacter group were
+reported to be dramatically depleted in fecal
+samples of ulcerative patients relative to controls (Rajili(cid:1)c-
+Stojanovi(cid:1)c
+(ﬁvefold)
+depleted in fecal samples of patients with postinfectious
+irritable bowel syndrome (Jalanka-Tuovinen et al., 2013).
+family were
+the human gastrointestinal.
+
+Bacteroides coagulans, DQ497990.
+
+from Clostridia sensu stricto. Peptococcus niger is the only
+representative of the genus. This strictly anaerobic bacte-
+rium has been isolated from various body sites, while the
+strain isolated from feces showed an ability to desulfate
+transformation of steroid
+and perform other chemical
+molecules
+feature of
+(Van Eldere et al., 1987). This
+P. niger makes it an important player in enterophatic cir-
+culation of various steroid molecules, primarily steroid
+hormones, which has a major impact on human metabo-
+lism. Another member of the Peptococcaceae family, Des-
+ulﬁtobacterium hafniense, has been reported only once as
+an inhabitant of the human gastrointestinal tract (van de
+Pas et al., 2001). In contrast to other members of the
+genus, the human D. hafniense is not able to use chloro-
+ethenes or chlorophenol as terminal electron acceptors
+(Smidt & de Vos, 2004). This bacterium is capable of
+using sulﬁte as terminal electron acceptor and hence pro-
+duces hydrogen sulﬁde. Hydrogen sulﬁde is also produced
+by P. niger (Wilkins et al., 1975), and this property that
+may be detrimental to health as described below for the
+Deltaproteobacteria..
+
+Finally, Halanaerobaculum tunisiense has been identiﬁed
+by pyrosequencing of the V6 variable region of the SSU
+rRNA gene in a recent study that compared efﬁciency of
+culturomics and pyrosequencing approach for studying
+the gastrointestinal microbiota diversity (Lagier et al.,
+2012a). Halanaerobaculum tunisiense
+recently
+described anaerobic bacterium that was isolated from
+hypersaline lake in Tunisia (Hedi et al., 2009). Given the
+conditions
+this bacterium
+the isolated strain of
+requires for its growth (the minimal required NaCl con-.
+
+It has been suggested that members of the Tenericutes
+are involved in inﬂammatory bowel disease, as they have
+the ability to adhere to and to fuse with epithelial and
+immune system cells, which could explain intracellular
+epithelial structures in the Crohn’s disease patients’ biop-
+sies detected by electron microscopy (Roediger & Macfar-
+lane, 2002). A molecular survey has revealed that a
+cultured representative of this group — the pathogenic
+Mycoplasma pneumoniae — can be detected in mucosal
+biopsies of both inﬂammatory bowel disease patients and
+healthy controls alike, although Crohn’s disease patients
+had a signiﬁcantly higher abundance of this bacterium
+than ulcerative colitis patients and healthy subjects (Chen
+et al., 2001). The ﬁrst report of the Mycoplasma in the
+human gastrointestinal tract dates from 1973 (Bhat et al.,
+1973), while speciﬁc searches for Ureaplasma urealyticum
+and Mycoplasma hominis revealed the presence of these
+two species in anal swaps of more than half of the ana-
+lyzed subjects (Munday et al., 1981)..
+
+The ﬁrst bacterium from the Betaproteobacteria class —
+Alcaligenes faecalis — was isolated from a human fecal
+sample in 1896 (Petruschky, 1896). This asaccharolytic
+rod that can utilize urea, a range of amino-acids, and can
+produce nitric oxide (NO; Denault et al., 1953) has fre-.
+
+quently been detected in later studies of the gastrointesti-
+nal microbiota. A number of other bacteria within this
+class have been detected in recent years, showing that
+Betaproteobacteria are diverse and ubiquitous members of
+the gastrointestinal microbiota . Among them,
+Sutterella and Parrasutterella are the most
+frequently
+encountered and the abundant gastrointestinal microor-
+ganisms (Nagai et al., 2009; Mukhopadhya et al., 2011).
+These bacteria are typical for the gastrointestinal microbi-
+ota ecosystem, assacharolytic and inactive in classical
+microbiological
+tests. Their abundance is increased in
+autistic children (Williams et al., 2012) and in patients
+suffering from type 2 diabetes (Larsen et al., 2010).
+Hence, it is of interest to deﬁne which metabolic transfor-
+mations are catalyzed by these bacteria, as they might be
+particularly relevant for understanding the global impact
+of the gastrointestinal microbiota on human health. Alca-
+ligenes faecalis and related bacteria are common gastroin-
+testinal tract inhabitants, notably of the ileum. Alcaligenes
+spp. may be opportunists that inhabit Peyers’ patches and
+signal to the immune system as shown in model animals
+(Obata et al., 2010). Moreover, Alcaligenes spp. produce
+NO, which is an important biological regulator (Culotta
+& Koshland, 1992; Anderson et al., 1993)..
+
+intestinal
+inhabitant. It has been isolated in 1985 and described as a
+unique intestinal bacterium that degrades exclusively oxa-
+(cid:1)1 of feces
+late and can reach densities of up to 107 cells g
+(Allison et al., 1985). Due to its metabolic activity, O. for-.
+
+Within the class Gammaproteobacteria, nine different fam-
+ilies distributed within six different orders have been
+detected in the human gastrointestinal samples. Escherichia
+coli was the ﬁrst bacterial isolate of the Gammaproteobac-
+teria characterized from human gastrointestinal samples in
+1885 (Shulman et al., 2007). Escherichia coli belongs to the
+Enterobacteriaceae family, which is the most diverse, pre-
+valent and abundant of all gastrointestinal Proteobacteria
+. Most of Enterobacteriaceae members are associ-
+ated with diarrhea (Thielman & Guerrant, 2004), although
+representatives of this family are not necessarily causing
+any symptoms and are actually one of the ﬁrst to be found
+in the newborn gastrointestinal tract (Favier et al., 2002).
+The abundance of this bacterial group increases with age,
+but it remains subdominant and in elderly subjects repre-
+sents about 1% of the total gastrointestinal microbiota
+(Hopkins et al., 2001). Escherichia coli is the most preva-
+lent representative of this family that is often the most
+abundant facultative anaerobe in the gastrointestinal sam-
+ples. The different strains of E. coli can exhibit different
+properties, varying from probiotic (Kruis et al., 2004) to
+pathogenic causing diarrhea or infections on other sites
+(Ron, 2006). The majority of other Enterobacteriaceae spp.
+are infrequently isolated from gastrointestinal samples
+(Bucher & von Graevenitz, 1982; M€uller, 1986). In that
+line, a study of dedicated isolation of the Morganella-
+Proteus-Providencia group from feces of almost 3000
+healthy subjects and patients suffering from enteric dis-
+eases, showed that species of this group are subabundant
+and have joined prevalence between 10% and 20%,
+depending on the health status (M€uller, 1986). Still, the
+the most comprehensively
+Enterobacteriaceae is one of
+described gastrointestinal families, which can be explained
+by its development as a paradigm for genetic studies and
+its clinical relevance (Grimont et al., 1981; Hickman-Bren-
+ner et al., 1984; Farmer et al., 1985; Hickman-Brenner
+et al., 1985a, b). A speciﬁc case is represented by the
+so-called adherent-invasive E. coli strains that have been.
+
+Aeromonas spp. are medically signiﬁcant as these spe-
+cies are implicated in the development of the gastroenter-
+itis and diarrhea. The role of these bacteria in human
+health has been a subject of a long-lasting debate result-
+ing in a conclusion that at least four gastrointestinal spe-
+cies (A. caviae, A. hydrophila, A. jandaei, and A. veronii),
+are pathogenic (Janda & Abbott, 1998). The presence of
+these species in the gastrointestinal tract is not necessarily
+inducing any symptoms, although in vitro experiments
+have indicated that they are cytotoxic and induce lesions
+in the intestinal mucosa (Pitarangsi et al., 1982)..
+
+Eight different Pseudomonas spp. can be detected in the
+human gastrointestinal tract. Among them, Pseudomonas
+frequently
+aeruginosa is
+reported as a member of the fecal microbiota of healthy
+humans
+(Finegold et al., 1974; Benno et al., 1986).
+Although a member of the normal gastrointestinal micro-
+biota, Pseudomonas aeruginosa can act as an opportunistic
+pathogen in critically ill or immuno-suppressed patients
+and cause sepsis as it can interact with our immune sys-
+tem (Wu et al., 2005) and can disrupt the intestinal epi-
+et al., 2006). Pseudomonas
+thelial barrier
+ﬂuorescens is a less prevalent member of the genus that
+has been implicated in the development of Crohn’s dis-
+ease (Wei et al., 2002). A recent study showed that Pseu-
+domonas spp., among other Proteobacteria, have increased
+abundance in infants with colic (de Weerth et al., 2013)..
+
+Until today, only two bacteria from Xanthomonadaceae
+have
+samples:
+Stenotrophomonas maltophilia from a stool and an ileal
+sample derived from atypical clinical cases (Tamura et al.,
+1988; Apisarnthanarak et al., 2003), and Lysobacter soli in
+a recent high-throughput cultivation of the normal gas-
+trointestinal microbiota (Lagier et al., 2012a). In addition,
+four other related bacterial species were detected based
+on the SSU rRNA gene sequence. These bacteria were
+previously isolated from different ecosystems and include
+Nevskia ramose
+ginsenosidimutans
+and Rhodanobacter
+from soil, Pseudoxanthomonas mexicana from sludge and
+urine, and Silanimonas lenta from a hot spring. Based on
+their low prevalence in the gastrointestinal tract,
+it is
+most likely that Xanthomonadaceae are transient members
+of the gastrointestinal microbiota..
+
+Bacteroides ureolyticus, FN401327.
+
+bacter and Helicobacter. Campylobacter is a genus that
+groups diverse isolates from mucosal surfaces of gastroin-
+testinal, oral and urogenital tract. The ﬁrst report of Cam-
+pylobacter isolation from the human gastrointestinal tract
+dates from 1946 (Levy, 1946). Campylobacter spp. were
+originally described as members of genus Vibrio, and
+reclassiﬁed into an independent genus in 1973 (Veron &
+Chatelain, 1973). Species of this genus are principally con-
+sidered to be pathogenic organisms involved in diarrheal
+illness. However, Campylobacter hominis has been isolated
+from a gastrointestinal sample of a healthy subject (Lawson
+et al., 2001), while C. concisus is a clinical isolate that also
+has been recovered from healthy individual (Engberg et al.,
+2000). Finally, a recent study of the microaerophilic fecal
+microbiota of children revealed diverse and prevalent colo-
+nization of Campylobacter spp. of gastrointestinal tract of
+both healthy and children suffering from inﬂammatory
+bowel diseases (Hansen et al., 2013). The presence of Cam-
+pylobacter spp. in the gastrointestinal tract can cause watery
+or bloody diarrhea, whereas it also can be associated with
+intestinal diseases such as ulcerative colitis (Rajili(cid:1)c-Stojano-
+vi(cid:1)c et al., 2013a). However, Campylobacter spp. can also
+remain asymptomatic, suggesting that at least some species
+of this genus are commercial members of the gastrointesti-
+nal microbiota..
+
+The genus Helicobacter has been derived from Cam-
+pylobacter after reclassiﬁcation of
+the latter (Goodwin
+et al., 1989; Vandamme et al., 1991). Helicobacter spp. are
+spiral-shaped bacteria that were detected in human gastric
+mucosa as late as in 1906 (Krienitz, 1906). They received
+exceptional attention once Helicobacter pylori was discov-
+ered to induce the gastric and duodenal ulcers (for recent
+review see, Fock et al., 2013). Helicobacter spp. are mainly
+located in the stomach but can be detected in the other
+gastrointestinal samples of healthy individuals but only
+when highly sensitive techniques are applied, suggesting
+that they may lyse and disappear in transit from the
+stomach (MacKay et al., 2003; Ceelen et al., 2005).
+Hence, their prevalence is low in samples from the lower
+gastrointestinal tract (Hansen et al., 2013)..
+
+Victivallis vadensis is the only species within the phylum
+of Lentisphaerae that has been isolated from the gastroin-
+testinal tract . This species was isolated in 2003,
+liquid
+as a bacterium that was able to grow in basal.
+
+Nitrososphaera gargensis , NR_102916.
+
+electron microscopy images (Gad et al., 1977). Another
+factor might be relevant to the currently undeﬁned role of
+the Spirochetes in human health. A recent molecular study
+showed that
+in addition to the two cultured species,
+another, currently uncultured Brachyspira spp. is more fre-
+quent than the other two Brachyspira spp. in the human
+colonic biopsies. Although this
+study conﬁrmed the
+absence of a correlation between these species and physical
+complaints, it appeared that B. pilosicoli is associated with
+intestinal inﬂammation (Westerman et al., 2012)..
+
+0.01% in human fecal samples (Horz et al., 2006). The ﬁrst
+attempt to detect this group of bacteria in the human gas-
+trointestinal tract yielded a sole SSU rRNA gene sequence
+that is identical to that of a later on cultured Cloacibacillus
+evryensis (Ganesan et al., 2008). Cloacibacillus spp. are
+amino acid degrading bacteria that use sulfate as terminal
+electron acceptor and that are capable to use mucin as sole
+carbon source (Looft et al., 2013). Their presence in the
+human gastrointestinal microbiota was conﬁrmed by
+Furthermore,
+several molecular
+recent
+high-throughput
+study retrieved another
+gastrointestinal Synergistetes bacterium — Pyramidobacter
+piscolens (Lagier et al., 2012a). Pyramidobacter piscolens was
+described in 2009, as an asaccharolytic, anaerobic oral
+isolate capable of hydrogen sulﬁde production..
+
+Currently, only two species within the Verrucomicrbia
+phylum have been detected in the human gastrointestinal
+tract. Akkermansia muciniphila was described in 2004 as a
+unique human gastrointestinal bacterium that is able to
+grow on intestinal mucus as a sole carbon source (Derri-
+en et al., 2004). This bacterium is widely distributed and
+can be detected in fecal material of humans of all age
+groups (Collado et al., 2007), and although its abundance
+varies between subjects, it is probably one of the members
+that
+of.
+
+for a healthy host as its
+A. muciniphila is important
+decreased abundance is associated with compromised
+health including acute appendicitis
+(Swidsinski et al.,
+2011), ulcerative colitis (Vigsnæs et al., 2012; Rajili(cid:1)c-
+Stojanovi(cid:1)c et al., 2013a), autism (Wang et al., 2011a),
+and atopic diseases (Candela et al., 2012). Finally, the
+abundance of A. muciniphila is inversely correlated with
+obesity (Karlsson et al., 2012). A recent study suggests
+that A. muciniphila plays a pivotal role in obesity as its
+duodenal delivery regulates
+fat-mass gain, metabolic
+endotoxemia, adipose tissue inﬂammation, and insulin
+resistance in an animal model experiment (Everard et al.,
+2013). Given the very short history of the research related
+to A. muciniphila, the wealth of data that support its
+beneﬁcial
+remarkable
+importance of this bacterium. In addition, one other spe-
+cies of the Verrucomicrobia — Prosthecobacter ﬂuviatilis —
+has been detected in the study of bacteria of a patient
+with ileal pouch (McLaughlin et al.,
+2010), while
+sequences classiﬁed within this genus were detected in the
+study of the microbiota of infants (Palmer et al., 2007)..
+
+There are a few gastrointestinal bacterial phyla with low
+diversity that have not yet been discussed, including the
+Deinococcus-Thermus bacteria,
+the Melainabacteria the
+Gemmatimonadetes and the Planctomycetes . The
+Deinococcus-Thermus bacteria were for the ﬁrst time asso-
+ciated with the human gastrointestinal microbiota in
+2006, when uncultured phylotypes within this phylum
+were recovered in a molecular survey of the microbiota of
+the human stomach (Bik et al., 2006). Several studies
+have conﬁrmed the presence of these bacteria in the gas-
+trointestinal microbiota, while a recent high-throughput
+culturing study detected a single cultivated bacterium of
+this phylum (Lagier et al., 2012a). Currently, no particu-
+lar function has been assigned to this bacterial group,
+although there is evidence that these bacteria are active in
+the distal parts of the gastrointestinal tract (Peris-Bondia
+et al., 2011).
+Molecular.
+
+In addition to the bacterial phyla that are reproducibly
+detected by many studies of the human gastrointestinal
+microbiota, some bacterial phyla are only occasionally
+found. For instance, some studies have reported the pres-
+ence of the Gemmatimonadetes in the human gastrointes-
+(Andersson et al., 2008), but even when
+tinal
+present, these bacteria constitute an extremely minor frac-
+tion, as indicated by the fact that only one of over 15 000
+SSU rRNA gene sequences in the study of the microbiota
+of inﬂammatory bowel disease patients and controls orig-
+inated from a Gemmatimonadetes bacterium (Frank et al.,
+2007). Furthermore, a few pyrosequencing studies have
+reported Nitrospira bacteria in the human gastrointestinal
+tract (Hung et al., 2011). It is interesting to note that in
+a recent study of the microbiota of pediatric irritable
+bowel syndrome patients only one Nitrospira phylotype
+was detected by pyrosequencing. However, the further
+attempts to retrieve this bacterium revealed that
+the
+detected sequence was actually retrieved from a novel
+taxon related to the genus Ruminococcus (Saulnier et al.,
+2011). This example testiﬁes to the fact that identiﬁcation
+of sequences based on very short reads, such as those
+produced by currently used high-throughput sequencing
+technologies, are not always reliable (Werner et al., 2012).
+The presence of the Planctomycetes in the human gas-
+trointestinal tract was reported only in molecular-based
+studies (Wilson & Blitchington, 1996; De Filippo et al.,
+2010; Hong et al., 2011). A sequence of an uncultured
+bacterium (Gene Bank Accession Number U58225) was
+reported in one of
+the
+human gastrointestinal microbiota, and was designated as
+an uncultured Plantomycetes bacterium (Wilson & Blitch-
+ington, 1996). However, the detected SSU rRNA gene
+sequence was probably retrieved from a representative of
+a new genus within the Lentisphaerae phylum, since it has
+the highest similarity with V. vadensis (that was
+isolated and described after publication of the molecular
+study). Nevertheless, Plantomycetes might be a part of the
+human gastrointestinal microbiota, as a recent review
+indicated the detection of a diverse community of the
+Planctomycetes in the human gastrointestinal tract (Lagier
+et al., 2012b). When analyzing the publicly available data,
+we found that only one (JQ287572) had high similarity
+to the SSU rRNA gene sequence of a cultured bac-
+terium—Schlesneria paludicola. However, based on the
+it grows in the
+characteristics of this bacterium (e.g.,.
+
+Bacteria are the dominant but not an exclusive compo-
+nent of the human gastrointestinal microbiota. Archaea,
+primarily the methanogenic ones, can be relatively abun-
+dant component of the gastrointestinal microbiota with
+densities of up to 1010 cells g
+feces (Bond et al.,
+1971; Miller & Wolin, 1986). In total, eight archaeal spe-
+cies have been associated with the human gastrointestinal
+tract . In an early cultivation study,
+which dates from 1968, a single methanogenic species,
+isolated from four of ﬁve individuals, was identiﬁed as
+Methanobrevibacter ruminantium (Nottingham & Hun-
+gate, 1968). Today, Methanobrevibacter smithii is recog-
+nized as the most abundant, and often an exclusive
+methanogen of human gastrointestinal microbiota (Miller
+& Wolin, 1986; Dridi et al., 2009), which suggests a pos-
+sible misidentiﬁcation of the isolates in the earlier study.
+In addition to M. smithii, Methanosphaera stadtmaniae is
+a relatively prevalent, but atypical methanogenic archaea
+that reduces methanol and that can be found in human
+feces in low concentrations (Miller & Wolin, 1985; Dridi
+et al., 2009). Similar to M. stadtmaniae, a recently iso-
+lated Methanomassiliicoccus luminyensis can also utilize
+methanol in the presence of hydrogen, but these two gas-
+trointestinal archaeal species are phylogenetically distant
+(Dridi et al., 2012). Methanogenic archaea have been
+extensively studied as the process of methane synthesis
+from carbon dioxide and hydrogen results in a signiﬁcant
+gas removal
+tract. The role of
+methanogenic archaea might be particularly relevant for
+bloating, which is one of the symptoms of irritable bowel
+syndrome, and a recent study has shown a highly signiﬁ-
+cant (fourfold) reduction of methanogenic archaea in irri-
+to controls
+table bowel
+(Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2011). In addition to methano-
+genic archaea, two cultured species of halophilic archaea
+have been detected in the study of the microbiota of Kor-
+ean subjects (Nam et al., 2008), while the presence of low
+numbers of these organisms was conﬁrmed by the analy-
+sis of the colonic mucosa of inﬂammatory bowel patients
+(Oxley et al., 2010). In addition to the conﬁrmed pres-
+ence of the Euryarchaeota phylum members, the human
+gastrointestinal archaea might also include a number of
+yet uncultured species within the Thermoplasma and the
+Crenarchaeota phylum and putative novel orders, as
+detected in molecular-based studies and recently reviewed
+(Dridi et al., 2011). The presence of Crenarchaeota phy-
+lum representatives was detected by retrieving the speciﬁc
+partial SSU rRNA gene sequences in a study that dates.
+
+from 2005 (Rieu-Lesme et al., 2005). One of the ampli-
+ﬁed SSU rRNA gene sequences (AY887079) shows 97%
+sequence similarity with SSU rRNA gene sequence of
+Sulfolobus
+(AY887074) 99%
+sequence similarity with the SSU rRNA gene of Candida-
+tus Nitrososphaera gargensis. It should be noted that both
+Sulfolobus solfataricus and Nitrososphaera gargensis are hy-
+perthermophilic species, and it
+is highly unlikely that
+these species inhabit the gastrointestinal tract of humans.
+Until cultured representatives or at least the full SSU
+rRNA gene sequences of the Crenarchaeota species are
+obtained in the future independent studies, the presence
+of the this archaeal phylum in the human gastrointestinal
+tract remains questionable..
+
+infections, primarily
+the
+gastrointestinal tract. All Apicomplexa species that can be
+retrieved from the human gastrointestinal tract are con-
+sidered to be pathogenic (Farthing, 2006). Cryptosporidi-
+um parvum is the most widely distributed representative
+of the group, and it has a high prevalence of infection in
+children of the developing world (Checkley et al., 1997).
+Although infections with Cryptosporidium parvum can be
+asymptomatic, even when it does not cause diarrhea, this
+organism affects absorption of nutrients and has a nega-
+tive effect on weight gain of children (Checkley et al.,
+1997)..
+
+Blastocystis spp. (classiﬁed within the Stramenopiles) are
+single-celled protozoan organisms. Blastocystis spp. was
+for the ﬁrst time isolated from the human gastrointestinal
+tract in 1911 and was reported under name Blastocystis
+enterocola, which was, at the time, designated as yeast
+(Alexieff, 1911). According to the current convention, all
+Blastocystis isolated from humans are identiﬁed as Blasto-
+cystis hominis, although their SSU rRNA gene sequence
+analysis showed that nine different phylotypes of these
+organisms can be detected in the human gastrointestinal
+tract (Arisue et al., 2003; Scanlan & Marchesi, 2008). This
+‘within species’ diversity of the B. hominis can explain the
+fact that the role of Blastocystis in human disease is still
+not deﬁned (Zierdt, 1991). Longitudinal study of
+the
+Eukarya in the human gastrointestinal tract has shown
+that Blastocystis spp. are stable and frequently detected
+organisms
+(Scanlan & Marchesi,
+2008). Although some authors have suggested the link.
+
+is the only representative of the
+Ciliophora phylum. Neobalantidium coli is the largest pro-
+tozoan parasite that infects humans, but its natural hosts
+are pigs. Although the organism can reproduce within the
+intestinal lumen of humans without attacking the tissues
+and therefore remain asymptomatic, the infection with
+this species is typically followed by diarrhea and bloody
+stools (Katz et al., 1982)..
+
+(Saklatvala, 1993). There are several studies that show the
+successful detection of Entamoeba spp. in clinical samples
+using molecular methods, typically in stool samples taken
+from patients with diarrhea. Molecular studies of the Euk-
+arya as part of the ecosystem in the human gastrointestinal
+tract already conﬁrmed the presence of two Entamoeba spe-
+cies: Entamoeba coli (Scanlan & Marchesi, 2008) and Ent-
+amoeba
+the
+gastrointestinal tract of a healthy man..
+
+Members of the phyla Micosporidia, Parabasalia and
+Metamonada are micro-eukaryotic organisms that contain
+ﬂagella and are often commonly termed as ﬂagellates.
+Micosporidia are obligate intracellular protozoan parasites
+that spread in the environment via spores. Four species
+of Micosporidia can infect the human gastrointestinal tract
+— Enterocytozoon bieneusi (Desportes et al., 1985), En-
+cephalitozoon intestinalis (Weber et al., 1994), Encephalito-
+zoon cuniculi (Franzen et al., 1995), and Retortamonas
+intestinalis (Jones-Engel et al., 2004; Fig. 28, Table S3).
+for which SSU rRNA gene
+Retortamonas
+sequence is not available,
+is the oldest isolate of this
+time cultured in 1879
+group that was
+(Hogue, 1933). Other Micosporidia were isolated from the
+gastrointestinal tract of a subject infected with HIV (Des-
+portes et al., 1985). The presence of Micosporidia in the
+gastrointestinal tract is typically associated with diarrhea,
+mostly in immuno-suppressed patients, although spores
+of these organisms can be detected in gastrointestinal
+samples of asymptomatic subjects (Cegielski et al., 1999;
+Mungthin et al., 2005; Wichro et al., 2005). If asymptom-
+atic, the presence of Micosporidia in the gastrointestinal
+tract is associated with malnutrition..
+
+two species can be associated
+with the human gastrointestinal tract. Pentatrichomonas
+hominis is generally regarded as a harmless commensal
+organism, although it
+is occasionally designated as a
+causal agent of diarrhea. This organism, which actually
+represents the oldest gastrointestinal isolate retrieved in
+1854, has a low prevalence of the human gastrointestinal
+from 0.1% to 30.9%
+tract
+depending on the geographical
+location (Honigberg,
+1990). In 1918 another member of this group, Dient-
+in the
+amoeba fragilis was reported as a commensal
+human
+latter
+the
+research has suggested that D. fragilis might be associ-
+ated with a number of diseases
+including diarrhea,
+irritable bowel syndrome or
+abdominal pain, anorexia,
+allergic colitis (reviewed in Johnson et al., 2004). The
+uncertainty of the pathogenicity of D. fragilis might be,
+similar to B. hominis, due to the presence of different
+phylotypes, since two different phylotypes of this species,
+with 2% SSU rRNA gene sequence divergence, have
+been identiﬁed (Johnson & Clark, 2000)..
+
+The Metamonada phylum includes Giardia lamblia
+and two rarely detected and principally nonpathogenic
+species — Enteromonas homins and R. intestinalis (Katz
+et al., 1982). Giardia lamblia is the most common ﬂagel-
+late of the human gastrointestinal tract. When ingested,
+typically via contaminated food or water, G. lamblia
+attaches to the mucosal surface of
+the duodenum or
+jejunum and multiplies by binary ﬁssion (Wolfe, 1992).
+and
+Infection with G. lamblia is
+although it may remain asymptomatic, giardiasis can be
+followed by a range of symptoms that include steator-
+rhoea, diarrhea and weight loss (Wolfe, 1992). It is not
+clear why some infections are asymptomatic, but already
+in the 1970s, it was suggested that the symptoms might
+depend on the relation between the parasite and the
+enteric gastrointestinal microbiota (Tandon et al., 1977).
+Postinfective to the giardiasis, patients might develop a
+range of novel symptoms that resemble those of the irri-
+table bowel syndrome (Hanevik et al., 2009). This con-
+infection with
+dition, which can be developed after
+other infectious agents, such as Campylobacter spp.,
+is
+syndrome
+recognized as postinfectious
+(Spiller & Garsed, 2009). A recent study showed that
+the bacterial fraction of the gastrointestinal microbiota
+of the postinfectious irritable bowel syndrome patients
+have a distinct composition relative to controls, which
+most likely reﬂects a consequence of an intensive inter-
+action between the ecosystem and the infectious agent
+(Jalanka-Tuovinen et al., 2013). This
+that
+infectious agent, although not true members of the gas-
+trointestinal microbiota should be kept in mind when
+studying the gastrointestinal microbiota, as their short-
+and long-term impact on the microbiota composition
+and function can be profound.

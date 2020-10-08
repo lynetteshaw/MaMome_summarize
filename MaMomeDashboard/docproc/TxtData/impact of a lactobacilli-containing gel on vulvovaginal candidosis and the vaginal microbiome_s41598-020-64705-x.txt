@@ -1,0 +1,388 @@
+First we explored in detail the in vitro inhibitory effects of a selection of LGC strains against growth and 
+pathogenic properties (adhesion to vaginal cells and hyphae formation) of Candida albicans. It is increasingly 
+appreciated that a combination of targeting both the inhibition of pathogenic growth and virulence factor expres-
+sion has superior efficacy in eliminating pathogens15. One of the simplest, yet very effective ways that lactobacilli 
+inhibit the growth of competing bacteria is through the production of lactic acid. It is likely various C. albicans 
+strains exhibit various levels of acid resistance but lactic acid has been shown to inhibit Candida albicans16. As 
+lactobacilli exhibit various levels of lactic acid production17, we rationalized here that the selected lactobacilli 
+should have a strong intrinsic capacity to produce lactic acid, at least in the optimal growth conditions. Because of 
+the indication that endogenous vagina-specific lactobacilli do not always sufficiently protect against Candida, we 
+focused on the selection of habitat-flexible lactobacilli, mainly from the L. plantarum and L. casei group. Although 
+most LGC species of the strains tested here have “qualified presumption of safety”18 status when applied orally 
+in food and feed, such guidelines do not yet exist for vaginal topical applications of lactobacilli. To reduce safety 
+risks also other important factors were taken into account, such as genome availability19–21, previous knowledge 
+of their human host interaction capacity (primarily in the gut)22,23, their robustness and growth capacity19,21,23, 
+and previous reports on their safety in humans after oral24–26, nasal27 and vaginal28 high-dose application. We 
+selected three strains and formulated them into an innovative silicon-based gel, which was designed specifically 
+for application in the vagina and maintained a high viability of the lactobacilli. This gel was supplied to patients 
+with acute VVC for 10 days. We examined the vaginal microbiome over four weeks: before, during, and after the 
+use of the probiotic gel and compared the group requiring rescue medication (RM; 3 × 200 mg fluconazole) with 
+the group not requesting this antifungal treatment.
+
+Results
+In vitro selection of LGc strains for anti-Candida effects.  We screened our selection of LGC strains 
+for direct growth inhibition against Candida , absence of induction 
+of an inflammatory marker .
+
+Concentrations of produced lactic acid  to 20.22 g/L (L. 
+pentosus KCA1). L. rhamnosus GG produced the highest amount of L-lactic acid and L. plantarum 
+WCFS1 produced the highest amount of D-lactic acid  The latter also performed the best in the C. albi-
+cans growth inhibition assays. In the spot assay, it yielded the largest inhibition zones and its cell 
+free supernatant reduced the optical density at stationary planktonic growth of C. albicans by 43.5% and delayed 
+the lag phase by approximately 5 hours (Supplementary Fig. S1).
+
+The lactobacilli with the strongest antimicrobial effects showed adhesive capacities of 11.3% (L. plantarum 
+WCFS1), 11.8% (L. rhamnosus GG) and 34.7% (L. pentosus KCA1)  to vaginal keratinocyte cell line 
+(VK2/E6E7), used as model for the vaginal epithelium. Co-incubation of these bacteria and keratinocytes did not 
+provoke an elevation of interleukin 8 expression, neither did two other L. plantarum strains, but L. reuteri RC-14 
+did cause some upregulation of interleukin 8 . When applying the strains simultaneously with C. albi-
+cans, the strains were able to reduce adhesion of C. albicans, e.g. L. pentosus KCA1 by 78.0% . Finally, we 
+compared the capacity of the lactobacilli to inhibit the formation of hyphae, a key virulence factor of C. albicans 
+that enables invasion of host tissue. L. pentosus KCA1, L. plantarum WCFS1 and L. rhamnosus GG all showed 
+strong inhibitory effects. The latter exhibited the strongest effect (reducing hyphal formation by 51.3%; Fig. 1e).
+
+formulation of lactobacilli in silicone gel to preserve viability and promote topical applica-
+tions.  Based on the above screening, three LGC strains were selected i.e. L. plantarum WCFS1, L. pentosus 
+KCA1 and L. rhamnosus GG. These strains were formulated in an innovative silicone gel at a dose of 109–1010 
+CFU/g gel, in a 1:1:1 weight ratio, as described in materials and methods. The vaginal gel was developed to ensure 
+maximal exposition of living bacteria to the vaginal wall through spreading after intravaginal application and 
+maintain a high viability. Plate count viability assays confirmed that the lactobacilli remained viable over multiple 
+months of storage at 5 °C and 25 °C (Supplementary Fig. S2). For storage at 5 °C, no reduction could be observed 
+in viability over the two-year period. The concentration of viable lactobacilli did decline during storage at 25 °C, 
+showing roughly a ten-fold reduction after 6 months of storage.
+
+proof-of-concept study in patients with VVc.  Subsequently, we evaluated whether L. plantarum 
+WCFS1, L. pentosus KCA1 and L. rhamnosus GG formulated in the gel were able to modulate the vaginal micro-
+biome over a four-week period in 20 patients suffering from acute VVC . The participants were asked to 
+administer 2.5 ml of gel by use of an applicator in recumbent position at bedtime. This corresponded to 2.5.109–
+1010 CFU of bacteria per application or 2.5-250 times the amount of bacteria in 1 ml of vaginal discharge29. 
+Because of the acute phase of the disease, patients had access to RM  as requested 
+by the ethical committee in this phase of the study. Because fluconazole is available as standard care, this study 
+design with a rescue arm was preferred over a placebo-controlled trial. No safety issues of the vaginal LGC gel 
+were reported. Of the twenty women included in the study, nine women did not need the RM. Eleven 
+women used RM 
+
+The microbiome was investigated at four time points (at intake= day 0, day 7, day 14 and day 28). 36 out of 
+80 samples showed a relatively low sequencing depth (fewer than 2000 reads over 
+two cumulated technical repeats; Fig. 3a), particularly samples of the third and fourth visits. The qPCR results 
+showed that in general the estimated absolute fungal abundances were significantly lower for these visits (visit 
+3 mean=7.4.103 CFU/ml and visit 4 mean=5.7.102 CFU/ml) as compared to visit 1 (mean = 1.1.105 CFU/ml, 
+p = 0.005 and p = 0.0002 respectively, visit 2 mean = 3.8.104 CFU/ml, visit 2 vs. 4 p = 0.0009; Fig. 3b). As for the 
+estimated absolute abundances of lactobacilli in the samples, the total concentrations of combined endogenous 
+and applied lactobacilli did not increase significantly from the first visit (mean visit 1 = 4.5.108 CFU/ml, mean 
+
+Scientific RepoRtS  |         10:7976  | https://doi.org/10.1038/s41598-020-64705-x
+
+2
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 1.  Anti-Candida activity of LGC strains (a) Production of D- and L-lactic acid as important 
+antimicrobial compound secreted by the tested LGC strains (b) Width of halo of inhibition zone (radius of spot 
+subtracted from radius of inhibition zone) around LGC strains in competition with C. albicans in the spot assay. 
+Halos around the LGC colonies indicate inhibition by the strain against C. albicans. (c) Adhesion percentage of 
+LGC strains to VK2/E6E7 cells, a cell line of vaginal keratinocytes. (d) Fold increase in interleukin-8 expression 
+by co-incubation of the LGC strains with VK2/E6E7 cells. The regular growth medium without 
+any added microorganisms was used as a negative control. (e) Adhesion of C. albicans to VK2/E6E7 cells either 
+alone or in co-incubation with lactobacilli as percentage of adherent cells to total applied cells. (f) Formation of 
+hyphae by C. albicans as ratio of number of yeast cells showing hyphae to total cells, normalized to the negative 
+control (=1). LA: lactic acid, N: negative control, P: positive control, CA: Candida albicans, LB: Lactobacillus 
+bulgaricus, LC: L. casei, LGG: L. rhamnosus GG, LH: L. helveticus, LPb, L. parabuchneri, LPl: L. plantarum, LPn: 
+L. pentosus, LR: L. reuteri, LS: L. sakei.
+
+Scientific RepoRtS  |         10:7976  | https://doi.org/10.1038/s41598-020-64705-x
+
+3
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 2.  Overview of the proof-of-concept study. Twenty women with acute VVC were recruited for the 
+proof-of-concept study where they were asked to use a vaginal gel containing lactobacilli once daily before 
+bedtime over the course of 10 days. Patients were asked to return for evaluation of symptoms and VVC 
+diagnosis (through microscopy and culture) one, two and four weeks after the intake visit. At each visit vaginal 
+lavage fluid was collected for 16 S rRNA and ITS sequencing and qPCR. For evaluation of the gel’s safety, a 
+blood sample was collected at the first two visits. Data on medical history and patient satisfaction was collected 
+through questionnaires at the intake visit and study termination (visit 4). In this figure, images from Servier 
+Medical Art (http://smart.servier.com/) were used unchanged, licensed under a Creative Commons Attribution 
+3.0 Unported License (https://creativecommons.org/licenses/by/3.0/).
+
+Figure 3.  Estimations of bacterial and fungal concentrations over the course of the study: sequencing depth 
+for ITS sequencing (a), estimated absolute abundances of fungi (b) and lactobacilli (c) and change in LGC 
+concentration as compared to the first visit (d). Samples are divided by visit and colored by group: women 
+requiring RM are indicated as a blue dot and women who only used the probiotic gel are colored red. Significant 
+differences were tested with pairwise Wilcoxon tests and significance levels are indicated when p < 0.05. 
+*p < 0.05, **p < 0.01, ***p < 0.005. RM: RM group, nRM: non-RM group.
+
+Scientific RepoRtS  |         10:7976  | https://doi.org/10.1038/s41598-020-64705-x
+
+4
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/visit 2 = 6.1.108 CFU/ml). This despite that patients had administered an estimated number of 2.5.109–1010 CFU 
+of lactobacilli the night before the second visit. The total concentration even slightly dropped after the second 
+visit, yielding significantly lower concentrations of lactobacilli at visit 3 and visit 4 (mean visit 3 = 2.1.108 CFU/ml, 
+mean visit 4 = 1.9.108 CFU/ml; visit 2 vs. 3 p = 0.034, visit 2 vs. 4 p = 0.004, Fig. 3c). Of note, when we stratified 
+the samples in women who did or did not use RM, the following trend was observed: the women who used RM 
+started off with a higher load of fungi and lactobacilli and ended with on average with similar fungal concen-
+trations and lower concentrations of lactobacilli as compared to the women who did not use RM . These 
+differences were not statistically significant at each time point, because of large variations within the two groups 
+and a lack of statistical power  
+However, when the concentration difference between the first and the last visit was evaluated, a larger decrease in 
+the concentration of lactobacilli was observed in the RM group as compared to the group without RM that was 
+statistically significant (p = 0.03). While we observed a decline in LGC concentration for the RM group, the LGC 
+concentration in the non-RM remained relatively stable . This difference between the RM and non-RM 
+group was not observed for fungal concentrations (Supplementary Fig. S4).
+
+Analysis of fungal community in VVc.  We subsequently analyzed the taxonomic composition of the fun-
+gal community  were all almost completely 
+dominated by Candida amplicon sequence variants (ASVs) (mean relative abundance 99.9%; range: 98.8%–
+100%). In total 24 Candida ASVs were found in the dataset, of which the eleven most abundant were plotted in 
+Fig. 4 and classified to a sub-genus level by EZ BioCloud30. Nine of these eleven ASVs were identified as Candida 
+albicans, one as Candida glabrata (Candida 5) and one as Candida spencermartinsiae (Candida 3). We found that 
+Candida 1 and Candida 12 on the one hand and Candida 2 and Candida 14 on the other hand always occurred 
+together, and usually in similar ratios. Since these four ASVs were also determined as C. albicans, this indicates 
+that these sequences might actually be derived of the same organism. Based on our classification, 17 of the 20 
+women who participated in the study showed infection by Candida albicans, while in one woman the infection 
+was caused by Candida glabrata  and in two other we did not obtain sufficient sequencing depth. This 
+concurred with the culture data, commonly used for VVC diagnosis. Based on these culture data, we could also 
+identify Candida krusei in one of these two women.
+
+Analysis of LGc community in VVc.  We also investigated the bacterial community present in the samples. 
+LGC was the most abundant bacterial genus, both during and after resolving VVC, accounting for more than 90% 
+of reads in the large majority of the samples and six of the 11 most abundant ASVs belonging to this genus (Fig. 4, 
+Supplementary Fig. S5). The other ASVs belong to the genera Gardnerella, Atopobium, Prevotella, Aerococcus and 
+Streptococcus. Seven of the most dominant LGC ASVs matched with the four species typically observed in the 
+vaginal microbiota, more precisely L. iners (LGC 1, 4 and 8), L. crispatus (LGC 2 and 9), L. gasseri (LGC 3) and L. 
+jensenii (LGC 6). Two other ASVs were classified as L. pentosus/ plantarum/paraplantarum/ fabifermentans (LGC 
+5) and as L. rhamnosus (LGC 7). This first ASV likely corresponds to L. pentosus KCA1, L. plantarum WCFS1 or 
+both, which were supplemented in the gel, as this ASV was only found at visit 2 (16/20 samples, during treatment 
+with the gel) and visit 3  Similarly, LGC 7, found in 12 of the 20 visit 2 samples and one visit 3 
+sample, likely corresponded to L. rhamnosus GG, also supplemented in the gel. This ASV showed a lower relative 
+abundance than L. plantarum/pentosus (mean relative abundance at visit 2: 11.0% versus 37.9% of LGC 5). Finally, 
+LGC 10 and 12 were classified as L. oris/antri/reuteri/frumenti/panis/caviae and L. coleohominis.
+
+Specific taxa of lactobacilli could not be linked to RM use but the bacterial community of the samples from 
+women who used RM did seem to show somewhat higher relative abundance of non-LGC genera as compared to 
+the samples derived from women who did not use RM (p = 0.057). In most women the lactobacillus that 
+dominated the bacterial community before treatment (visit 1) was also dominant at the end of the study, after the 
+treatment (visit 4), indicating the applied lactobacilli had a temporary effect on the microbiome (Supplemental 
+Fig. S7). We did observe shifts in relative abundances of the lactobacilli. Two women ended the study with a 
+different dominant Lactobacillus as at the study onset and two women had bacterial community profiles not dom-
+inated by Lactobacillus at visit 1 or 4. One visit 4 sample could not be analyzed because of insufficient sequencing 
+depth.
+
+Discussion
+The high recurrence of VVC and limited treatment options require the development of alternative therapies. 
+Although probiotics, mainly LGC species, have been suggested as a possible therapy, they are not frequently 
+applied. Here, three LGC strains were selected for further evaluation in patients based on in vitro anti-Candida 
+effects. We showed their ability to inhibit Candida albicans in vitro and formulated them in a gel, which was tested 
+in a proof-of-concept study aimed at investigating their influence on the vaginal microbiome and highlighting 
+relevant characteristics for future improvements for probiotic strategies against VVC.
+
+We found that specific LGC strains can be selected to compete with Candida from in vitro findings and inhibit 
+Candida sufficiently in vivo under certain conditions, as indicated by the reduction in fungal concentrations in 
+the RM and the non-RM group to similar levels. Not all women who participated were sufficiently helped with 
+the probiotic gel (as can be seen in the clinical composite scores of visit 2, Supplemental Fig. S6), but these women 
+likely suffered from more severe infections. In this group we found higher concentrations of fungi at study onset, 
+higher occurrence of hyphae and a higher number of previous infections. However, although our test probiotic 
+formulation was not successful for all treated patients, it might still be useful as adjuvant treatment for severe 
+cases. Previous studies have reported successes in using probiotics for VVC treatment (in combination with azole 
+treatment), but these were mostly aimed at reducing the rate of recurrence and did not test the lactobacilli as 
+stand-alone treatments for acute pathology10–13,31. For the milder cases, it could be a stand-alone treatment. The 
+
+Scientific RepoRtS  |         10:7976  | https://doi.org/10.1038/s41598-020-64705-x
+
+5
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 4.  Evaluation of the microbiome of the samples through sequencing, microscopy and culture. Results 
+of ITS sequencing focused on Candida (top row), 16 S rRNA sequencing focused on LGC  microscopy 
+for Candida morphology 
+and women who did use RM (B) are indicated. Samples are ordered by patient and subsequently by visit. ASVs 
+were classified by EZBioCloud30. Two ASVs that likely result from the supplemented lactobacilli are indicated 
+in bold. Abbreviations for morphology in microscopy: N: no Candida observed, S: sporae, M: mixed, PH: 
+pseudohyphae, H: hyphae.
+
+latter is suggested by the fact that in women without need for RM, the symptoms and lab findings did improve 
+rapidly (within a few days) when using the gel and continued to improve during the weeks following treatment. 
+The product did not show notable side effects and was even felt as an agreeable gel to use, leading to the willing-
+ness to use it again in all women who did not use RM, and surprisingly even in half of the women who eventually 
+did need RM. This suggests that there is high acceptance to use this gel, even if it did not solve all symptoms in all 
+patients. Lastly, women using RM ended with lower lactobacilli in the qPCR data as compared to women who did 
+not use RM (reversed to the situation of at the intake visit). Thus, our data suggest that the use of the RM targeting 
+the fungal community might have a negative effect on the present bacteria, diminishing numbers of lactoba-
+cilli, which are the hallmark of a healthy vaginal microbiome. This finding suggests more research is necessary 
+
+Scientific RepoRtS  |         10:7976  | https://doi.org/10.1038/s41598-020-64705-x
+
+6
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Strain
+
+Candida albicans SC5314
+
+Source/reference
+Martin et al.44
+
+L. bulgaricus AMB-1
+
+Yoghurt
+
+L. casei ATCC334
+
+American Tissue Culture Collection
+
+L. casei MCJ
+
+L. casei Shirota
+
+L. helveticus 1807
+
+Fermented food
+
+Commercial probiotic product
+
+Commercial probiotic product
+
+L. parabuchneri AB17
+
+Fermented food
+
+L. parabuchneri NM63-3
+
+Fermented food
+
+L. paracasei LMG12586
+
+L. pentosus KCA1
+
+L. pentosus LMG10755
+
+L. plantarum 5057
+
+L. plantarum LMG1284
+
+L. plantarum CMPG5300
+
+L. plantarum WCFS1
+
+L. reuteri RC-14
+
+L. rhamnosus GG
+
+Belgian Coordinated Collections of microorganisms
+Anukam et al.21
+
+Belgian Coordinated Collections of microorganisms
+Danielsen, 200245
+
+Belgian Coordinated Collections of microorganisms
+Malik et al.46
+Kleerebezem et al.20
+Chan et al. 1984 & 1985, Reid & Bruce 2001, Reid & Reid 199928,47–49/ ATCC
+Kankainen et al.19
+
+Table 1.  Inventory of bacterial strains used in the in vitro work of this chapter.
+
+concerning the vaginal microbiome also after clearing an episode of VVC. The decline in LGC concentrations 
+should be investigated in larger cohorts that preferably also evaluate if this is linked to RM use, or possibly disease 
+severity, specific symptoms or microbiota members and ultimately recurrence rates. Nonetheless, whatever the 
+underlying reason may be, there might be a role for probiotics in preventing or restoring such a drop in beneficial 
+lactobacilli. In addition, the data obtained here also form a starting point for future improvements of similar pro-
+biotic treatments for VVC, in hope to obtain even better cure rates. First, future in vitro screening should include 
+experiments predicting the in vivo survival and adaptability to the vaginal environment, given that our strong 
+antimicrobial L. rhamnosus GG strain did not persist well in the vagina. For this reason, closely related strains 
+that share (some) of their properties with L. rhamnosus GG, but which were isolated from the vagina might be 
+interesting alternative probiotics. Secondly, based on our ASV analysis we expect that there are (at least) two 
+main types of C. albicans that occur often in VVC. Isolation and characterisation of these two types of C. albicans 
+should confirm their pathogenicity. If confirmed, selection of new probiotic targets active against these two path-
+ogenic forms would definitely benefit the chances of success for future probiotic VVC studies.
+
+Materials and methods
+culture of micro-organisms.  An overview of the used micro-organisms can be found in Table 1. 
+Lactobacilli were grown in de Man, Rogosa and Sharpe (MRS) medium and Candida albicans in yeast extract 
+peptone dextrose (YPD) medium at 37 °C. For solid media, 5%w/v (for overlay) or 15% w/v (regular base) of 
+microbiological agar (VWR) was supplemented to the medium.
+
+Lactic acid production.  To evaluate lactic acid production, lactobacilli were grown to stationary phase, after 
+which the cultures were centrifuged and the supernatant passed through a sterile 0.2 µm cel-
+lulose filter (VWR). Levels of lactic acid in the cell-free supernatant (CFS) were tested with the D-Lactic/L-lactic 
+acid kit (r-biopharm), according manufacturer’s instructions.
+
+Spot assay for growth inhibition and inhibition of hyphae formation in C. albicans by lactoba-
+cilli.  To evaluate the potency of the LGC strains to inhibit the growth of Candida albicans (inoculated at 2.103 
+CFU/ml), a spot assay was performed as described previously32.
+
+The ability of the LGC strains to inhibit hyphae formation was measured as described previously33,34.
+
+Adhesion of lactobacilli and adhesion-competition of lactobacilli and C. albicans to VK2/
+E6E7cells.  The vaginal keratinocyte immortalized cell line, VK2/E6E7, was used as model for the vaginal 
+epithelium and obtained from the Center for Molecular Plant Genetics (CMPG) in Leuven, Belgium.
+
+The potency of lactobacilli to adhere to VK2/E6E7 cells or compete for adhesion sites with C. albicans, was 
+evaluated as described previously33–35 and details can be found in supplementary information. Briefly, suspen-
+sions of lactobacilli and C. albicans 
+were co-incubated with VK2/E6E7 cells for 2 h, after 
+which unattached bacteria were washed away and cells were detached. Concentrations of lactobacilli and C. albi-
+cans in these cell suspensions were determined through plating of serial dilutions.
+
+Induction of interleukin 8 expression in VK2/E6E7 cells by lactobacilli.  VK2/E6E7 cells were 
+cultured to monolayers as described previously35. Solutions of 107 CFU/ml of the lactobacilli were prepared as 
+described for the adhesion experiments, added to the cells and co-incubated for 1.5 h. After washing the cells 
+twice with PBS, RNA was extracted using the RNeasy Mini kit (Qiagen), according to manufacturer’s instructions, 
+
+Scientific RepoRtS  |         10:7976  | https://doi.org/10.1038/s41598-020-64705-x
+
+7
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/and stored at −80 °C. RNA concentrations were estimated with NanoDrop 1000 (Thermo Scientific). 1 µg of RNA 
+was used for cDNA synthesis using oligo-(dT) primers and ReadyScript® reverse transcriptase (Sigma Aldrich), 
+according to the manufacturer’s instructions. qPCR for interleukin 8 and reference genes, peptidylprolyl isomer-
+ase A (PPIA) and glyceraldehyde 3-phosphate dehydrogenase (GAPDH) was performed as previously described32. 
+Primer sequences can be found in Supplementary Table 3.
+
+formulation of gel containing selected lactobacilli.  L. pentosus KCA1, L. plantarum WCFS1 and L. 
+rhamnosus GG, were selected for a proof-of-concept trial in patients. The lactobacilli-containing gel was devel-
+oped in collaboration with the Belgian biotech company YUN nv (see ‘Competing interest’ statement). The 
+selected LGC spp. were spray-dried and formulated in a silicon-based gel containing 85.5% dimethicone, 4.5% 
+bis-vinyl dimethicone/dimethicone copolymer and 10% LGC powder mix (strains were blended in equal amounts 
+based on weight) resulting in a colloid suspension-gel (final dosage per gram of 109−1010 CFU of lactobacilli).
+
+proof of concept study for evaluation of LGc-containing gel, ethical approval and informed 
+consent.  The effectiveness and tolerability of the gel, as well as its effect on the microbiome was evaluated 
+in acute VVC patients, recruited from the vulvovaginitis clinic in Femicare, the Regional Hospital Tienen, 
+and the University hospital Antwerp, Belgium. The study was performed according to the study protocol 
+approved by the Central Ethical Committee of the University Hospital Antwerp and the local ethical committee 
+(B300201628296 - 16/7/66; Clinicaltrails.gov identifier: NCT03975569). All methods were performed in accord-
+ance with the relevant guidelines and regulations. All participants were evaluated for exclusion and inclusion 
+criteria (Supplementary Table S1) and were informed about the study aim and protocol through written informed 
+consent for study participation.
+
+After signing informed consent forms, patients were asked to administer 2.5 ml of the gel daily for 10 con-
+secutive days. RM was provided to patients to be used as necessary: oral fluconazole 3 × 200 mg. Patients were 
+monitored over four weeks and asked to return three times after the intake visit (day 0): at day 7 (visit 2, during 
+treatment with gel), day 14 (visit 3) and day 28 (visit 4). At all visits, a gynaecological examination was performed, 
+which included the scoring of symptoms, collection of a vaginal smear for pH, two vaginal swabs (for microscopy 
+and culture) and collection of vaginal lavage samples. The following symptoms were scored as absent  
+moderate and cumulated for the clinical composite score: vulvovaginal itching, burning, redness, 
+fissures and edema. Vaginal rinsing fluid was collected in a standard way36. Two questionnaires were collected; at 
+the entry visit (medical history and demographics) and at the last visit (satisfaction).
+
+evaluation of the microbiome of patient samples.  The vaginal lavage fluids obtained were stored fro-
+zen at −80 °C until microbiome analysis, performed as described in De Boeck et al.37, with minor modifications. 
+Briefly, DNA was extracted from the vaginal lavage samples (PowerFecal DNA extraction kit, Qiagen) and sub-
+jected to respectively 25 and 30 cycles of PCR amplification targeting the V4 region of the 16S rRNA gene (for 
+bacteria; Supplementary Table 2) and the ITS2 region (for fungi; Supplementary Table 3)38,39. PCR products were 
+purified (AMPure XP PCR purification, Beckmann Coulter) and pooled equimolarly. The subsequent librar-
+ies (one bacterial and one fungal) were sequenced on separate Illumina Miseq runs (v2 chemistry, 2×250 kit, 
+Illumina). Quality control and processing of reads was performed using the R package DADA2, version 1.6.040, 
+which included merging of reads and removal of reads with conflicting bases or chimeric sequences. Finally, 
+ASVs were classified from the kingdom to the genus level using the EzBioCloud and UNITE databases30,41. A 
+species annotation was added to each ASV by listing the species of all 16 S rRNA sequences in the database that 
+showed an exact match to the ASV sequence. Contaminants were identified using the approach of Jervis-Bardy 
+et al.42, based on a p-value <0.0001. The in-house R package “tidyamplicons” (publicly available at github.com/
+SWittouck/tidyamplicons) was used for processing of the ASV table and annotation of metadata to samples.
+
+estimation of LGc and fungal concentrations using qpcR.  To supplement the microbiome data with 
+estimations of absolute abundances of lactobacilli and yeast, the DNA samples obtained before were subjected to 
+qPCR analysis, as described previously43.
+
+Data availability
+The obtained sequencing data and metadata is available under ENA accession number PRJEB33108.
+
+Received: 13 September 2019; Accepted: 15 April 2020;
+Published: xx xx xxxx

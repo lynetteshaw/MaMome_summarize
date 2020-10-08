@@ -1,0 +1,156 @@
+17_PARAGRAPHS
+
+Perhaps the foremost lesson of these recent efforts has been that all humans, both healthy
+and critically ill, are intimately associated with a vast population of microbial organisms.
+Uncertainty remains regarding the precise number of bacteria in the human body, but it is
+generally agreed that there at least 10 bacterial cells for every 1 human cell [7]. This has led
+authorities in the field to describe humans as “superorganisms” composed of both human
+and microbial cells [8]. Although clinicians have not historically thought about their patients
+in this way, it is easy to recognize the evolutionary logic of a symbiotic relationship between
+humans and microbes. By supporting lifelong colonization by organisms that possess a
+diverse set of metabolic capabilities, the host effectively augments its own genome; this is a
+much more efficient arrangement than waiting for humans to evolve new metabolic
+capacities on their own [9]. In return for their contributions, microbes associated with the
+body are rewarded with a relatively safe, predictable, and nutrient-rich niche for
+colonization. As will be discussed in subsequent sections, the impact of critical illness on
+this symbiotic relationship remains poorly understood.
+
+Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+Genomic analysis of gut bacteria offers vivid examples of the role of microbes in nutrient
+utilization. For example, in 2003, Xu, et al. published the complete genome sequence of the
+gram-negative anaerobe Bacteroides thetaiotaomicron, a prominent member of the normal
+intestinal microbiota [10]. Annotation and analysis of the genome revealed a sophisticated
+apparatus for acquiring and digesting otherwise unusable dietary polysaccharides. This
+apparatus, including a complex, multi-component, multi-enzyme complex starch utilization
+system (SUS), consists of over 230 glycoside hydrolase and 15 polysaccharide lyase genes
+[15]. The genomic analysis demonstrated that B. thetaiotaomicron has evolved the
+remarkable capacity to sense the availability of carbohydrates in its microenvironment, and
+that it also has the ability to forage and utilize host-derived glycans (e.g., mucin and
+heparin). Mechanistic studies in gnotobiotic animals further demonstrated that, when B.
+thetaiotaomicron senses a scarcity of fucose in the intestinal lumen, it actually induces the
+gut epithelium to upregulate expression of fucosylated glycans that can be used by the
+bacteria as an energy source without harming the host [16]. This body of work illustrates
+how the remarkable host-microbe symbiosis can be teased apart by pairing genomic
+sequencing efforts with creative in vivo laboratory studies.
+
+Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+Vitamins Page 6 Most human diets provide a robust supply of vitamins, the essential human nutrients that
+must be obtained from exogenous sources. However, it has long been recognized that gut
+microbes also contribute to vitamin synthesis. The magnitude of this contribution in healthy
+and unhealthy patients is currently poorly understood.
+
+Why would a microbial community enriched in Firmicutes promote obesity? Recent work
+has suggested that the microbiota of obese individuals has an increased capacity to harvest
+energy from the diet [35]. Landmark papers, utilizing high-throughput metagenomic
+sequencing platforms to identify as many genes as possible from all members of a mixed
+population of bacteria, from Gordon, Turnbaugh, Ley and colleagues, have conclusively
+demonstrated that the metabolic potential of the gut microbiome varies according to the Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+Page 7 microbial community composition. Molecular analysis of the microbiota of lean and obese
+mice demonstrated that the obese microbiome is markedly enriched in genes enabling
+breakdown of dietary polysaccharides, e.g., glucosidases, galactosidases, and amylases, and
+genes encoding proteins that transport and metabolize the products of polysaccharide
+metabolism [37]. Biochemical and bomb calorimetry analyses in the same experiments
+demonstrated increased concentrations of SCFA’s (indicating a higher degree of bacterial
+fermentation) and significantly less energy remaining in the feces of obese mice relative to
+their lean counterparts [37]. Finally, these phenotypic traits were transmissible; colonization
+of GF animals with the microbiota of obese animals led to higher weight gain than
+colonization with microbiota from lean WT mice.
+
+In 1968, Tennant, et al. demonstrated that GF mice do not survive as long as WT mice
+during starvation despite similar patterns of starvation-induced weight loss. However, this
+group did not characterize the microbiota of the WT animals [43]. In 1974, Tannock and
+Savage used a culture-based approach to characterize the intestinal bacteria of mice exposed
+to a stress model that included deprivation of food, water, and bedding for 48 hours[44].
+They concluded that stressed animals had a reduction in Lactobacilli and total mucosal-
+associated bacteria relative to control animals, but maintained a similar number of colonic
+anaerobes. In 1989, Deitch, et al. similarly reported that starvation induced a decrease in
+Lactobacilli in the murine GI tract, however they noted a bloom of gram-negative enteric
+organisms. Subsequently, several studies have contrasted gut microbes in newborn animals Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+Page 8 WHAT HAPPENS TO THE MICROBIOME DURING CRITICAL ILLNESS? receiving either enteral or parenteral nutrition. These studies suggest that TPN-fed animals
+have an increased relative abundance of potential pathogens, such as Clostridium
+perfringens, that can forage on glycans lining the gut epithelium [45, 46]. However, it is not
+known if these findings can be extended to critically ill adults that have shifted abruptly
+from the fed to the fasting state.
+
+Although we lack a comprehensive molecular readout of gut microbes in the ICU, several
+human and animal studies provide clues about how the microbiota is altered by common
+ICU exposures. Several excellent studies have demonstrated that the pervasive, site-specific,
+and drug-specific effects of antibiotic therapy on the microbiota can be long-lasting [55–57].
+Multiple host factors relevant to the critically ill, including epithelial inflammation and Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+If one accepts that a “healthy” intestinal microbiota serves important biological functions,
+then it is reasonable to hypothesize that gut microbial communities can be manipulated or
+“optimized” during critical illness to increase the chances of achieving desired clinical
+outcomes. In theory, manipulation of the gut microbiota could be used to improve energy
+balance and decrease the incidence of infectious complications. A fundamental problem
+with clinical application of this theory has been that we lack a detailed understanding of if
+and how the microbiome is altered during critical illness. As a result, interventions in this
+field have been introduced with a limited scientific foundation. Nonetheless, several
+strategies to optimize the microbiome have now been evaluated clinically. Some, such as the
+recent description of fecal transplantation for Clostridium difficile colitis [62], will not be
+discussed here. Others with obvious relevance to nutrition are discussed.
+
+Gut decontamination Probiotics The administration of probiotics and prebiotics represents an increasingly popular
+alternative to gut decontamination protocols. Probiotics are defined as live microorganisms
+that confer health benefits upon humans and animals that ingest them in adequate amounts
+[66]; prebiotics are nondigestible food ingredients that confer health benefits by selectively
+inducing the growth of probiotic species [67]. Commonly, probiotics and prebiotics are
+administered together as a food or dietary supplement known as a synbiotic [67]. Although Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+Several studies have been conducted to test the hypothesis that outcomes in critically ill
+patients can be improved by administering probiotics and prebiotics. These studies,
+including a randomized trial comparing the effects of early enteral nutrition with and
+without prebiotic supplementation, indicate that the incidence of sepsis and multi-organ
+dysfunction syndrome among patients with severe pancreatitis is lower after treatment with
+probiotics/prebiotics [70]. However, in 2008, the Dutch Acute Pancreatitis Study Group
+released results of a well-publicized multicenter, randomized, controlled study
+demonstrating increased mortality among patients with severe acute pancreatitis that
+received probiotic prophylaxis. The increased mortality was attributed to a high incidence of
+intestinal ischemia, although a direct link between the probiotic and bowel ischemia was not
+proven [71]. A subsequent meta-analysis concluded that probiotics do not influence
+mortality in the treatment of acute pancreatitis [72], however, the results of the Dutch study
+have raised important questions about the whether and how probiotics should be
+administered to vulnerable populations. Nonetheless, several other studies conducted in Surg Clin North Am. Author manuscript; available in PMC 2012 August 1.
+
+Another possible approach to improve outcomes for critically ill patients is to manipulate the
+intestinal microenvironment to maintain the local microbial ecology of the GI tract
+indirectly. It is well established that the use of vasoactive pressors, antibiotics, and highly
+processed nutrients will change not only the local microbiota, but also pH, oxygen tension,
+SCFA production, and various critical micronutrients that maintain the health of normal
+intestinal microbes. Our group and others have shown that maintenance of a more acidic
+intestinal pH through the course of surgical injury and administration of oral pH solutions
+enhance local intestinal immunity and prevent lethal gut-derived sepsis [74]). Most recently
+we have shown that surgical injury causes a rapid depletion of mucus phosphate, thereby
+inducing certain strains of pathogenic bacteria to upregulate their virulence against the
+intestinal epithelial barrier [75]. Most bacteria that cause serious infections in ICU patients
+are equipped with exquisite sensory mechanisms to detect the level of local phosphate
+concentration. Phosphate concentration is a key trigger by which bacteria activate their
+virulence machinery to, in some cases, cause lethal sepsis. When phosphate levels are high
+at sites of local microbial colonization, such as the intestinal mucus, microbes use the PhoB
+phosphosensory/phosphoregulatory system to repress virulence activation. However, during
+phosphate depletion, the PhoB system is derepressed and virulence is activated even to the
+point of tissue invasion, immune activation, and organ failure [75]. The PhoB and analogous
+systems are highly conserved among microbes and offer an opportunity for clinicians to
+understand the precise host signals that trigger microbes to transform from indolent
+colonizers to lethal pathogens rapidly. We have shown in animal studies that maintenance of
+local phosphate concentration can suppress virulence activation among highly pathogenic
+bacteria such as P. aeruginosa even during periods of severe physiologic stress [74]. This
+also appears to be the case for other pathogens such as C. albicans and E. faecalis
+(unpublished observations). Therefore, providing therapies at the microenvironmental level
+could be a novel approach to create molecular diplomacy between pathogen and host
+through the course of severe physiologic stress such as that which occurs during human
+critical illness.
+
+CONCLUSIONS The intersection between the microbiome, nutrition, and critical illness will undoubtedly
+grow more interesting in the coming years. While the studies discussed in this paper provide
+clear evidence that gut microbes contribute to human nutrition and metabolism, it is too
+early to know if this information will be translated into meaningful improvements in current
+practice patterns. However, it is easy to identify clinical scenarios in critical care that are Surg Clin North Am. Author manuscript; available in PMC 2012 August 1

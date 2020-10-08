@@ -1,0 +1,213 @@
+riage patterns far exceeded what was initially
+suspected (Aagaard et al. Thus, it is critical-
+ly important to ﬁrst discriminate when in the
+course of the lifespan there is normal and antic-
+ipated variation in the human microbiome,
+in which body niches such variation occurs,
+and what other covariates (such as host disease-
+susceptible genotype, host metabolic milieu and
+associated disorders, as well as age, gender, race/
+ethnicity, and medications and diet) may con-
+tribute to any observed variation. 2012b
+
+posterior
+fornix, and
+mid-vagina
+
+Romero et al. 2014b
+
+Vaginal introitus,
+
+Next-Gen
+
+V3V5
+
+Cross-
+
+Characterized healthy,
+
+sequencing
+
+sectional
+
+gravid vaginal
+microbiome
+
+Posterior fornix Next-Gen
+
+V1V2
+
+Longitudinal Characterized healthy,
+
+sequencing
+
+Walther-
+
+Posterior fornix,
+
+Next-Gen
+
+V3V5
+
+Longitudinal Characterized healthy,
+
+V1V2
+
+Longitudinal Characterized ﬁrst and
+third trimester stool
+
+V1V3 and
+WGS
+
+Population-
+
+based, cross-
+sectional
+
+Anto´ nio
+et al. Continued
+
+Reference
+
+Site
+
+Technique(s)
+
+Study design
+
+Findings
+
+Koenig et al. 2014b Colon, anus,
+
+Next-Gen
+
+V3V5
+
+stool
+
+sequencing
+
+Nonhuman
+primate
+
+necrotizing colitis had
+predominantly one
+bacteria dominating
+
+microbiome in VLBW
+infants
+
+neonatal microbiome
+from birth to 4 mo
+while examining mode
+of delivery and feeding
+
+Examined the role of
+maternal IgA on
+intestinal microbiome
+
+Examined the role of
+maternal diet on
+juvenile microbiome
+
+16S-Based Metagenomics
+
+Sequencing of the 16S rRNA gene using Next-
+Gen technology has recently been widely ex-
+ploited to characterize the human microbiome
+(Jonasson et al. This is challenging because of the lack of refer-
+ence genomes, which results in de novo assembly
+of microbial genomes with the potential to dis-
+tort the species abundance and generate chime-
+ric genomes (Pop 2009). However, re-
+cent studies have shown the caution that must
+be used when performing analysis such as CSTs
+(Koren et al. An additional method that may be use-
+ful to examine microbiome communities across
+ethnicities is to use single nucleotide poly-
+morphisms (SNPs) in mitochondrial DNA
+(mtDNA), which provides more precision in
+analysis (Ruiz-Pesini et al. We have re-
+cently used this method in conjunction with
+analysis of the microbiome through data lever-
+aged from the HMP to examine associations
+
+Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
+
+7
+
+www.perspectivesinmedicine.org
+
+A.L. Prince et al. Although we
+did see similar microbiome communities as
+the Ravel group, our analysis has provided a
+molecular basis in which to describe the struc-
+ture of microbiome communities (Ma et al. Using inferred
+function analysis obtained from WGS sequenc-
+ing data, the HMP consortium noted that a
+decrease in the vaginal pH corresponded to
+an increase in metabolic activity, speciﬁcally
+when examining the phosphate transport sys-
+tem (Human Microbiome Project 2012c). In women with healthy vaginal micro-
+ﬂora, glycogen metabolism resulted in the pro-
+duction of lactic acid although subjects with
+BV had an increase in succinate production
+(Macklaim et al. Thus, this study exempliﬁes the need
+for further metatranscriptomic and metabolo-
+mic studies involving large cohorts to under-
+stand the role of the reproductive microbiome
+in health and disease. Nearly every organ
+system changes during pregnancy to promote
+pregnancy maintenance or prepare for parturi-
+tion. When com-
+
+Perinatal Microbiome and Pregnancy
+
+pared with the HMP nonpregnant reference
+subjects, we found that pregnancy was associat-
+ed with an altered vaginal microbiome and
+marked by a decrease in alpha diversity at the
+subgenus level . And on
+probing at the species level using supervised
+machine learning approaches, such as linear
+discriminate analysis (LDA) effect size (LEfSe)
+and Boruta feature selection, we discovered that
+the vaginal microbiome during pregnancy was
+enriched in L. iners, L. crispatus, Lactobacillus
+jensenii, and Lactobacillus johnsonii (Aagaard
+et al. On the other hand, 56.5% of gravi-
+dae with a lactobacilli-diminished vaginal
+microbiome during the ﬁrst trimester gained
+prevalence of this genus. Haplogroup association;
+Ethnic variation
+
+Preterm birth
+
+??? In a separate study, the
+vaginal microbiome was examined longitudi-
+nally during gestation using the V3V5 amplicon
+of 16S rRNA in 12 subjects that were mostly
+Caucasian (Walther-Anto´ nio et al. This group determined that infants
+born vaginally had increased diversity in their
+intestinal microbiome when compared with ce-
+sarean delivered infants. Furthermore, a Canadian study using Next-
+Gen sequencing techniques for the V5, V6, and
+V7 regions of the 16S rRNA gene showed that
+Escherichia shigella and Bacteroides were signiﬁ-
+cantly diminished in the intestinal microbiome
+of infants born by cesarean section (Azad et al. The ELGAN studies constituted a
+large effort that systematically identiﬁed bacte-
+ria from PTB placentas under this assumption
+(Olomu et al. Vaginal microﬂora likely contribute to the initial seeding of the neonatal microbiome during vaginal deliveries,
+but the discovery that the uterine environment may not be sterile suggests that colonization of the infant may
+happen before birth. Although the vag-
+inal microbiome may be implicated in these
+neonatal diseases, signiﬁcant differences in
+the abundance of placental bacteria have been
+found when comparing preterm and term pla-
+centas (Jones et al. ACKNOWLEDGMENTS
+
+This research was supported in part by a
+grant to Baylor College of Medicine from the
+Howard Hughes Medical Institute through the
+Med into Grad Initiative.

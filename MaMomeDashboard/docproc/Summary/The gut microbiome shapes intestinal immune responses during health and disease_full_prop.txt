@@ -1,0 +1,79 @@
+Round and Mazmanian
+
+Page 2
+
+and anti-inflammatory responses, and balances in the community structure of gut bacteria
+may be intimately linked to the proper function of the immune system. While the
+classical view of the immune system is that it evolved to protect organisms from infection
+by microbial pathogens, we peacefully co-exist with our vast and complex microbiota. Germ-free animals show extensive deficits in the development of the gut-associated
+lymphoid tissues (GALT)9,11. Author manuscript; available in PMC 2014 July 14. Gut bacteria
+have been shown to direct the glycosylation of lumenally-exposed surface proteins of the
+epithelium14. Listeria infected germ-free mice have decreased
+accumulation of CD44+L-selectin+ T cells resulting in increased bacterial burden compared
+to SPF animals20. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Round and Mazmanian
+
+Page 4
+
+Although significant work is still required to determine the beneficial immune responses
+induced by the microbiota, it is exciting to consider the teleological notion that indigenous
+bacteria actively prevent enteric disease by infectious microorganisms to fortify their niche. In other words, is our
+wellbeing dependent on the microbes we harbour? The causes for these diseases are complex, and
+include the contributions of genetic, geographic and habitual factors27. These include the expression of inhibitory cytokines such as IL-10, TGF-β, and
+IL-35; disruption of cellular metabolism by expression of the IL-2 receptor, CD25;
+cytolysis, and targeting the maturation of DCs through surface expression of molecules such
+as CTLA-4 and LAG-335. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Round and Mazmanian
+
+Page 5
+
+Recent evidence has begun to reveal mechanisms of intestinal immune modulation by the
+microbiota. The contribution of the microbiota to the development of TRegcells remains unclear as
+multiple studies have revealed conflicting results. Therefore, the equilibrium between
+
+Nat Rev Immunol. As shown in Table 2,
+many individual or combinations of bacterial species have been shown to ameliorate the
+symptoms of IBD in humans and mouse models. More importantly, transfer of lamina propria mononuclear cells from
+VSL#3-treated mice was able to prevent colitis in recipient mice, indicating the ability of the
+VSL#3 cocktail to initiate the generation of a protective population of cells. Moreover, depletion of the CD4+CD25+ T-cell subset
+abolished the ability of the probiotic-treated DCs to protect from disease, suggesting that L.
+rhamnosus-treated DCs can initiate TReg-cell activity79. The specific molecules made by these
+particular bacterial species that guide immune responses remain unknown; however current
+data support the idea that symbiotic organisms actively communicate with the host immune
+system to modulate anti-inflammatory processes. The importance of B. fragilis in
+maintenance of a healthy immune response was recently illustrated by the finding that
+colonization by B. fragilis or treatment with purified PSA can protect from the induction of
+experimental IBD66. These data have identified a single molecule made by a
+symbiotic microorganism that stimulates CD4+ T cells to make IL-10, required for the
+suppression of the inflammatory process during colitis, and suggest that other beneficial
+bacteria may produce factors that can positively shape the host immune response during
+IBD. B. fragilis has been shown to protect its host from inflammatory disease caused by H.
+hepaticus in an animal model of experimental colitis66. As symbiotic bacteria seem to have
+evolved mechanisms to promote protection from pathobionts found in the same microbiota,
+does disease result from the absence of specific organisms and their beneficial molecules? Reflecting a growing
+medical crisis in Western societies, recent epidemiological and clinical reports have revealed
+dramatic increases in the incidences of several immune disorders. The intestinal bacterial composition of IBD patients differs
+greatly from that of healthy controls74. It has been shown in
+animal models and some human studies that deficiencies in TReg-cell populations or
+function underlie asthma, IBD, rheumatoid arthritis, type 1 diabetes and multiple sclerosis89. Recent studies have shown that at least for experimental IBD, spontaneous disease results
+when immune suppression is deficient; thus inflammation appears to be a default
+immunological state in the absence of regulation94. Work in the laboratory of the authors is supported by funding from the National Institutes of Health,
+Damon Runyon Cancer Research Foundation and the Crohn's & Colitis Foundation of America to S.K.M.
+
+Sarkis K. Mazmanian: Sarkis K. Mazmanian is an assistant professor in the Division of
+Biology at the California Institute of Technology. Although often used to describe a beneficial relationship,
+symbiosis literally does not imply that either partner gains an
+advantage. An organism that lives in association with a host (usually for a
+lifetime) without obvious benefit or harm to either member. From the Latin, com mensa, meaning to ‘share a table’. Lymphoid structures and aggregates associated with the intestinal
+mucosa, specifically the tonsils, Peyer's patches, lymphoid follicles,
+appendix or cecal patch and mesenteric lymph nodes. Lymph nodes located at the base of the mesentery.

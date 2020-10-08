@@ -1,0 +1,339 @@
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+the commonality that relates both BV and vaginal pH to HPV
+infection (independent of HIV) is the RA of certain Lactobacil-
+lus species, most notably L. crispatus. WIHS Substudy Population
+As described previously  women included in the micro-
+biome substudy were selected from among premenopausal
+African American participants at the Chicago WIHS site,
+with at least 8 years of observation and a minimum of 6 annual
+CVL specimens, with further selection based on their HIV sta-
+tus and CD4+ T-cell count over time. CVLs were obtained by irrigation of
+the cervix with 10 mL of nonbacteriostatic sterile saline, fol-
+lowed by aspiration from the posterior fornix. Microbial DNA was isolated using the FastDNA Spin Kit for
+Soil (MP Biomedicals, Solon, OH). Distribution of relative abundance (RA) of Lactobacillus species. It is a highly efﬁcient analytic method, widely
+used in HPV research  In addition to CSTs, we conduct-
+ed a priori–planned analyses of the RA of lactobacilli (at the
+genus and species level), modeled as both continuous and ordi-
+nal data. All covariates except study group were time
+dependent. RESULTS
+
+Select characteristics of the cohort at the index visit are shown in
+Table 1. Self-report of Trichomo-
+nas vaginalis infection, BV, candidiasis, or STIs within the past
+
+Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 1363
+
+performed as described previously  Brieﬂy, universal
+primers 27F and 338R were used for PCR ampliﬁcation of the
+V1-V2 hypervariable regions of 16S rRNA genes from genomic
+DNA extracts. Detection of chimeric se-
+quences was performed using the UCHIME component of
+UCLUST, and chimeric sequences were removed. Statistical Methods
+We characterized demographic and risk factor data at the index
+visit for each of the 3 study groups, with statistical differences
+between groups assessed using analysis of variance (ANOVA;
+for continuous variables), the Kruskal–Wallis test (for continu-
+ous variables with nonnormal distributions), or the χ2 test (for
+categorical data). of STIs in past
+
+6 mo
+
+Any HPV infection
+
+Oncogenic HPV infection
+
+mo
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+0
+
+1
+
+2
+≥3
+
+No
+
+Yes
+
+No
+
+Yes
+
+4 
+
+12 
+
+4 
+
+2 
+
+1 
+
+6 
+
+8 
+
+7 
+
+14 
+
+8 
+
+5 
+
+3 
+
+14 
+
+15 
+
+3 
+
+18 
+
+3 
+
+20 
+
+2 
+
+13 
+
+9 
+
+10 
+
+6 
+
+4 
+
+2 
+
+17 
+
+5 
+
+21 
+
+1 
+
+3 
+
+11 
+
+5 
+
+3 
+
+2 
+
+2 
+
+9 
+
+8 
+
+3 
+
+19 
+
+3 
+
+1 
+
+18 
+
+16 
+
+1 
+
+16 
+
+6 
+
+21 
+
+0 
+
+10 
+
+12 
+
+12 
+
+2 
+
+3 
+
+5 
+
+14 
+
+8 
+
+18 
+
+4 
+
+Table 1. of male sex
+
+.28
+
+.34
+
+Vaginal pH, median (IQR)
+
+5.0 
+
+5.0 
+
+5.0 
+
+Data are no. (%) of participants or median value (interquartile range). See “Methods” section for details (substudy population). Figure 2 additionally shows the SDI for each study
+visit, and as expected CSTs I through IV-A and V (each dom-
+inated by a single Lactobacillus species) had a low SDI, com-
+pared with CST IV-B. The ﬁgure also presents the proportion
+of oncogenic HPV–positive women-visits for each CST. Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 1365
+
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+Figure 2. A, Heat map of the relative percent abundance of bacterial taxa, by community state
+type (CST) and the presence of oncogenic human papillomavirus (oncHPV). The results reflect the 25 most abundant bacterial taxa. Reference
+0.29 (.08–1.05)
+0.55 (.06–5.13)
+1.19 (.69–2.04)
+1.65 (.72–3.78)
+0.84 (.33–2.17)
+
+. . . Those with an STI on the day of the index visit were
+excluded from this substudy. Abbreviations: BV, bacterial vaginosis; CI, confidence interval; OR, odds ratio. a“Low” and “medium” denote the relative abundance of Lactobacillus species and L. iners, respectively. b A pH of ≤ 4.5 (the cut point used in the Amsel criteria for the diagnosis of BV) was considered low, a pH of 4.5–5.8 was considered medium, and a pH of >5.8 (where a pH of 5.8 was the
+median of all pH values >4.5) was considered high. Lactobacillus species against STIs, most of that research
+preceded widespread use of methods for comprehensively
+assessing the cervicovaginal microbiome  The growing ev-
+idence of species-speciﬁc (eg, L. crispatus–related) relationships
+between the cervicovaginal microbiome and HPV infection ar-
+gues against a signiﬁcant role of pH, since production of lactic
+acid is a common attribute of lactobacilli as a group, and our
+data showed that the greatest association with pH was with
+the RA of Lactobacillus species, not for L. crispatus RA or
+CSTs dominated by L. crispatus. Relation of Lactobacillus crispatus Relative Abundance to Detection of Human Papillomavirus (HPV)
+
+L. crispatus relative abundance
+
+Characteristic
+
+Any HPV
+
+Low
+
+Medium
+
+High
+Vaginal pHb
+
+Continuous
+>4.5 (vs ≤4.5)
+Medium (vs low)
+
+High (vs low)
+
+Low
+
+Medium
+
+High
+Vaginal pHb
+
+Continuous
+>4.5 (vs ≤4.5)
+Medium (vs low)
+
+High (vs low)
+
+Oncogenic HPV
+
+L. crispatus relative abundance
+
+Model 1 (pH Continuous)
+
+Model 2 (pH Binary Variable)
+
+Model 3 (pH Ordinal With 3
+Levels)
+
+OR 
+
+P Value
+
+OR 
+
+P Value
+
+OR 
+
+P Value
+
+Reference
+0.52 (.24–1.11)
+0.47 (.24–.90)
+
+1.11 (.91–1.35)
+. . . 1.11 (.54–2.29)
+1.10 (.51–2.41)
+
+.03a
+.10
+
+.04
+
+.09
+
+.58
+
+.03a
+.01
+
+.11
+
+.77
+
+.81
+
+All models were adjusted for age, study group, highly active antiretroviral therapy use, number of recent sex partners, smoking status, condom use, lifetime sex partners, Trichomonas vaginalis
+infection in the past 6 months, Candida infection in the past 6 months, or other sexually transmitted infections (STIs) in the past 6 months. In summary, our results suggest a beneﬁcial effect of L. crisp-
+atus on the burden of HPV in HIV-infected and HIV-uninfected
+women that is unrelated to pH. Further research to better un-
+derstand these relationships is strongly warranted, including
+large prospective cohort studies and laboratory research to un-
+derstand the mechanisms that underlie the relation of the cer-
+vicovaginal microbiota with HPV infection. The WIHS is funded primarily by the NIAID, with additional
+co-funding from the Eunice Kennedy Shriver National Institute of Child
+Health and Human Development, the NCI, the National Institute on
+Drug Abuse, and the National Institute of Mental Health. K. A. has received honoraria from Bris-
+tol-Myers Squibb. All authors have submitted the ICMJE
+Form for Disclosure of Potential Conﬂicts of Interest.

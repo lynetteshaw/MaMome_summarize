@@ -1,0 +1,272 @@
+19_PARAGRAPHS
+
+On these grounds, we hypothesize that excess androgen biosynthesis in PCOS may result in the dysbiosis of host gut microbiota and modulating of gut microbiota may be beneficial for
+PCOS treatment. In this study, in order to verify our hypotheses, PCOS rat model was estab-
+lished using letrozole induction. Microbiota interventions through Lactobacillus transplanta-
+tion and fecal microbiota transplantation (FMT) from healthy rats were used for the
+treatments of PCOS rats. Administration of probiotics such as Lactobacillus is an attractive
+concept in combating various diseases. L rhamnosus GR-1 attenuated lipopolysaccharide-
+induced inflammation in pregnant CD-1 mice [20]. Lactobacillus acidophilus NCFM main-
+tained insulin sensitivity in a metabolically heterogeneous group [21]. Lactobacillus rhamnosus
+GG and Lactobacillus casei DN-114-001 protected epithelial barrier function against Escheri-
+chia coli-induced redistribution of the tight-junction proteins [22, 23]. Fecal microbiota trans-
+plantation (FMT) was introduction of fecal suspension derived from a healthy donor into the
+gastrointestinal tract of a diseased individual. It has been proposed as a novel therapeutic
+approach to modulate gut microbiota dysbiosis. Patients with metabolic syndrome increased
+insulin sensitivity after infusion of microbiota from lean donors [24]. Our previous study
+showed that FMT promoted the re-establishment of intestinal microbial communities and
+mucosal barriers in mice with antibiotic-induced dysbiosis [25]. Thus, the available animal and
+human evidences suggested that Lactobacillus transplantation and FMT could serve as new
+therapies for treating diseases. In the present study, after microbiota interventions through Lac-
+tobacillus transplantation and FMT, the estrous cycles, sex hormonal levels, ovarian PLOS ONE | DOI:10.1371/journal.pone.0153196 April 19, 2016 2 / 15 Gut Microbiota for Polycystic Ovary Syndrome morphology and gut microbiota were examined. We hope that our results will shed a new light
+on the pathogenesis and treatment for PCOS.
+
+Materials and Methods Animals and animal husbandry Six-week-old specific-pathogen free (SPF) level inbred female Sprague-Dawley (SD) rats (mean
+body weight, 180 g) were purchased from Animal Facility of Dalian Medical University. All
+animal experiments were approved by the Animal Care Committee of Dalian Medical Univer-
+sity, China (SCXK-2013-0003). All animals were feed with commercial diet (51% nitrogen-free
+extract, 24.9% crude protein, 4.6% crud fat, 6.6% crud ash, 4.1% crud fiber and 8.9% moisture),
+and tap water ad libitum. In this experiment, 32 female SD rats were randomly assigned into 4
+groups of 8 rats each, including a control group that received a gavage of normal saline, and
+three treatment groups (PCOS, PCOS FMT and PCOS Lactobacillus transplantation groups)
+administered a gavage of letrozole (Novartis Pharma Schweiz AG, Switzerland) at a concentra-
+tion of 1 mg/kg once daily for 21 consecutive days. The establishment of PCOS rat model was
+similar to that of Kalafi. et al [26]. On day 21, all rat fecal samples were collected. Control rat
+fecal samples and PCOS rat fecal samples were used for DGGE analysis to evaluate the gut
+microbiota shift in PCOS rats. In order to quantify the differences of microbita for all rats on
+day 21, real-time PCR analysis was applied. Twenty four hours after the last dose of letrozole
+(on day 22), PCOS FMT rats were administered a gavage of fecal supernatant with 2×109 fecal
+microbiota, PCOS Lactobacillus transplantation rats were administered a gavage of 2×109 Lac-
+tobacillus, the control rats and PCOS rats were administered a gavage of normal saline for 14
+consecutive days. On day 36, all rat fecal samples were collected for real-time PCR analysis.
+Then all rats were sacrificed by decapitation. Trunk blood samples and ovarian tissue samples
+were obtained for the subsequent experiments. The treatments of the animals and sample col-
+lections were showed in Fig 1.
+
+Fig 1. Time lines of the animal experiments. To establish the PCOS rat model, SD rats were treated with
+letrozole at a concentration of 1 mg/kg once daily for 21 days. After that, PCOS FMT group was treated with
+2×109 fecal microbiota once daily, PCOS Lactobacillus transplantation group was treated with 2×109
+Lactobacillus once daily, PCOS group and control group were treated with normal saline for 14 days. On day
+21, all rat fecal samples were collected. On day 36, all rat blood samples, ovarian tissue samples and fecal
+samples were collected.
+
+Fecal microbial transplantation Ten gram fresh fecal samples from the control group were collected using sterile tubes every
+morning. Fecal samples were blended with 20 mL sterile warm (37°C) normal saline for 1 min-
+ute using a conventional blender. This blended fecal mixture was then centrifuged at 1000 g for
+5 min, the supernatant was collected and OD value was tested at 620 nm. This supernatant was
+prepared for FMT. Twenty four hours after the last dose of letrozole, each rat of the PCOS
+FMT group was administered a gavage of fecal supernatant with 2×109 fecal microbiota for 14
+consecutive days. Meanwhile, each rat of the control group and PCOS group was administered
+a gavage of normal saline.
+
+Morphological observation On day 36 (24 h after the last dose of FMT or Lactobacillus transplantation), all rats were sacri-
+ficed. The ovarian morphological changes were determined as previously described [28]. Ovar-
+ian tissue samples were obtained and fixed in 10% neutral-buffered formalin, embedded in
+paraffin and sectioned at 4 μm. Every 10th section (n = 8) was mounted on a glass slide, stained
+with hematoxylin/eosinand and analyzed using an Olympus DP73 microscope (Olympus, PLOS ONE | DOI:10.1371/journal.pone.0153196 April 19, 2016 4 / 15 Gut Microbiota for Polycystic Ovary Syndrome Tokyo, Japan) by two persons blinded to the origin of sections. Cystic follicles were defined
+according to criteria proposed previously [29] as those follicles devoid of oocytes, displaying a
+large antral cavity, an enlarged thecal cell layer, and a thin granulosa cell compartment contain-
+ing apparently healthy cells.
+
+Results DGGE analysis To characterize gut microbiota shift in PCOS rats, we performed a global survey of the micro-
+biota in fecal samples. Genetic fingerprints of the gut bacterial communities generated by
+DGGE analysis showed shifts of the bacterial composition and diversity in feces. It could be
+observed that some bands became more intense, such as band 3 (Fig 2A). However, the changes
+of the DGGE band profiles were difficult to be quantified by observation. Therefore, we utilized
+similarity and Unweighted Pair Group Method with Arithmetic Mean (UPGMA) as a cluster
+method to demonstrate band pattern similarity. The similarity matrix indicated a 60.1% and
+66.9% similarity within the control group and PCOS group, respectively, but only a 58.3% simi-
+larity between the two groups (data not shown). Clustering analysis based on the similarity
+indices showed that PCOS group and the control group clustered in a different branch (Fig
+2B). Though two PCOS rats were clustered in the control group, they were in different
+branches. Principal component analysis (PCA) of DGGE fingerprints further confirmed the
+differences of gut microbiota between PCOS group and control group. Microbiota structure of
+the PCOS group showed a separation from the control group by PCA axis 1 and 2. Gut micro-
+biota in PCOS group differed considerably from the control group by moving towards right of
+PCA axis 1 and down of PCA axis 2 (Fig 2C). These findings indicated that PCOS resulted in a
+redistribution of the relative abundances of bacterial phyla with the gut microbiota.
+
+doi:10.1371/journal.pone.0153196.g002 lanes (C2-2 and P2-3) were cut and sequenced. Band 2 and 3 were identified as Prevotella mela-
+ninogenica ATCC 25845 with 93% similarity, indicating that the DGGE gel separated V3 16S
+rRNA genes from different bacteria effectively. As shown in DGGE profiles, the separated and
+strong bands in PCOS group were identified as Pseudomonas monteilii SB3101, Roseburia
+intestinalis XB6B4, Prevotella melaninogenica ATCC25845 and Prevotella denticola F0289. The
+weak bands in PCOS group were identified as Lactobacillus johnsonii NCC533 and Ruminococ-
+cus torques L2-14 (Table 1).
+
+Real-time PCR analysis Enterococcus, Bacteroides, Enterobacteriaceae, Bifidobacterium and Clostridium genus in fecal
+samples were chosen for further quantitative analysis on the basis of their important status in PLOS ONE | DOI:10.1371/journal.pone.0153196 April 19, 2016 6 / 15 Gut Microbiota for Polycystic Ovary Syndrome Table 1. Sequence identities of PCR amplicons derived from DGGE gels.
+
+Selected
+bands Organism with highest sequence homology, sequence accession no. (%
+homology) Bacterial
+Phyla GeneBank accession
+number 1 2 3 4 5 6 7 Lactobacillus johnsonii NCC 533 (94) Prevotella melaninogenica ATCC 25845(93) Prevotella melaninogenica ATCC 25845(93) Pseudomonas monteilii SB3101(99) Roseburia intestinalis XB6B4(99) Prevotella denticola F0289(93) Ruminococcus torques L2-14(97) doi:10.1371/journal.pone.0153196.t001 Firmicutes NC_005362 Bacteroidetes NC_014371 Bacteroidetes NC_014371 Proteobacteria NC_023076 Firmicutes NC_021012 Bacteroidetes NC_015311 Firmicutes NC_021015 the gut; Lactobacillus, Prevotella and Ruminococcus genus were selected because of the results
+of DGGE analysis and sequence analysis. On day 21, the copy number of Lactobacillus, Rumi-
+nococcus and Clostridium were lower and Prevotella was higher in PCOS group when com-
+pared with the control group. There were no significant differences in the copy number of
+Bifidobacterium, Escherichia coli, Enterococcus and Bacteroides in the two groups (Table 2).
+
+Bacterium Control group
+(Mean±sem) Biﬁdobacterium 6.00±0.03 PCOS group
+(Mean±sem) 5.99±0.03 Lactobacillus treatment group
+(Mean±sem) 6.11±0.15 4.66±0.12
+4.63±0.45
+4.18±0.05
+4.16±0.39
+3.70±0.04*
+3.67±0.19*
+7.04±0.05
+7.25±0.03
+5.08±0.11*
+5.49±0.29*
+4.34±0.06*
+4.41±0.19*
+4.14±0.10*
+4.15±0.21* 6.02±0.01 5.93±0.09 4.99±0.06
+4.55±0.33
+4.09±0.04
+4.03±0.12
+3.59±0.05*
+4.45±0.14#
+6.99±0.04
+6.87±0.13
+4.97±0.13*
+4.66±0.43#*
+4.25±0.09*
+4.66±0.32*
+4.11±0.05*
+5.46±0.33# 21d 36d Biﬁdobacterium 6.01±0.10 Escherichia coli 21d Escherichia coli 36d Enterococcus 21d Enterococcus 36d Lactobacillus 21d Lactobacillus 36d Bacteroides 21d Bacteroides 36d Prevotella 21d Prevotella 36d Ruminococcus 21d Ruminococcus 36d Clostridium 21d Clostridium 36d 4.74±0.07
+4.87±0.34
+4.43±0.03
+4.52±0.25
+4.59±0.06
+4.61±0.25
+6.90±0.07
+7.09±0.07
+2.47±0.02
+2.77±0.55
+5.38±0.07
+5.40±0.12
+5.03±0.08
+5.16±0.18 doi:10.1371/journal.pone.0153196.t002 Data were reported as the average estimate of Log10 of fecal PCR target genetic amplicon copy numbers present in 1 g of feces.
+* p<0.05 results which are signiﬁcantly different versus control group
+# p<0.05 data are signiﬁcantly different versus PCOS group.
+
+FMT group
+(Mean±sem) 5.99±0.02 5.96±0.06 4.50±0.09
+4.62±0.43
+4.12±0.03
+4.03±0.27
+3.56±0.06*
+4.43±0.10#
+7.11±0.05
+6.68±0.06
+4.95±0.15*
+3.91±0.30#*
+4.37±0.07*
+4.53±0.16*
+4.17±0.08*
+5.52±0.20# PLOS ONE | DOI:10.1371/journal.pone.0153196 April 19, 2016 7 / 15 Gut Microbiota for Polycystic Ovary Syndrome than that in Lactobacillus transplantation group. Though Prevotella in both groups still have
+significant differences with the control, it decreased significantly when compared with the
+PCOS group. There were no significant differences in the copy number of Bifidobacterium,
+Escherichia coli, Enterococcus, Bacteroides and Ruminococcus in the two treated groups when
+compared with PCOS group. These data indicated that PCOS resulted in a significant variation
+of gut microbiota composition. Both FMT and Lactobacillus transplantation were beneficial for
+restorations of normal gut residents in letrozole induced PCOS rats.
+
+FMT and Lactobacillus transplantation improved estrous cycles in
+letrozole induced PCOS rats Using daily vaginal smears, estrous cycles were analyzed for all rats. All control rats had regular
+estrous cycles of 4–5 days, comprising proestrus, estrus, metestrus and diestrus. The PCOS rats
+were constantly in diestrus stage, exhibiting predominantly leukocytes. On the 7th day after
+PCOS rats were treated with FMT, epithelial keratinocytes were observed microscopically dur-
+ing estrus in the vaginal smears of 3 rats; on the 14th day epithelial keratinocytes were observed
+in all of the 8 rats. The estrous cycle changes occurred twice in 5 rats, once in 3 rats. In the
+PCOS Lactobacillus transplantation group, 1 of 8 rats had epithelial keratinocytes on the 7th
+day; 6 of 8 rats had epithelial keratinocytes on the 14th day; the remaining 2 rats were in dies-
+trus at the time of sacrifice. The estrous cycle changes occurred twice in 2 rats, once in 4 rats,
+and not at all in 2 rats (Fig 3).
+
+Ovarian morphological changes Under light microscopy, the control rat ovaries exhibited follicles in various stages of develop-
+ment including secondary follicles, graafian follicles, and fresh corpora lutea. The granulosa
+within the follicles showed multiple layers. The PCOS rat ovaries showed small follicles in early
+stage of development and atretic follicles. In addition, many large cysts with virtually no granu-
+losa layer or scant granulosa were observed. The FMT and Lactobacillus transplantation rat
+ovaries showed increased granulosa layers and the formation of corpora lutea (Fig 4 and
+Table 3).
+
+Discussion The increasing knowledge of the role of microbiota in sex and gender difference has presented
+new horizons on the critical role of the enteric microbiota in regulating sex hormones in health PLOS ONE | DOI:10.1371/journal.pone.0153196 April 19, 2016 8 / 15 Gut Microbiota for Polycystic Ovary Syndrome Fig 3. Estrous cycle changes in three representative rats from each group. Cycle stages are as follows: 1, diestrus; 2, proestrus; 3, estrus and 4,
+metestrus. Groups are as follows: (A) Control group; (B) PCOS group; (C) PCOS Lactobacillus transplantation group; (D) PCOS FMT group.
+
+doi:10.1371/journal.pone.0153196.g003 and disease state. It has been reported that sex differences in the gut microbiome drived hor-
+mone-dependent regulating autoimmunity. Early life exposures determined the sex hormone
+level and modified progression to autoimmunity in type 1 diabetes mouse (T1D) model. Trans-
+plantation of the male microbiome to immature females increased the level of testosterone and
+formed a testosterone-dependent metabolite profile in the female recipients and robust T1D
+protection [18]. Besides the communication between gut microbiota and testosterone occur-
+ring in immune system, gut microbiota has a direct effect over endocrine system. Clarke. et al
+found that male germ free mice, unlike females, exhibited a significant high level of 5-hydroxy-
+tryptamine and its metabolite in hippocampal compared with conventionally housed control
+animals [28]. Collectively, these studies indicated the bi-direction regulation of gut microbiota
+and endocrine systems.
+
+Excess androgen production and relatively insufficient estradiol are major traits for PCOS
+patients and essential for follicle development [29]. Such hormone changes in PCOS are likely
+associated with dysbiosis of gut microbiota. In this study, letrozole-induced PCOS rat model
+was used to evaluate the gut microbiota and sex hormone concentrations. Letrozole is a nonste-
+roidal aromatase inhibitor that reduces conversion of androgens to estrogens in the ovary,
+resulting in increased testosterone and decreased estrone production [30]. Decreased aroma-
+tase activity in the ovary is one of the pathophysiologic hypotheses of PCOS development [31, PLOS ONE | DOI:10.1371/journal.pone.0153196 April 19, 2016 9 / 15 Gut Microbiota for Polycystic Ovary Syndrome Fig 4. Morphological changes of ovarian tissues. (A) Sections of ovary from the control group had normal appearance. (B) PCOS group showed cystic
+degenerating follicles with thin granulosa layers. (C) PCOS Lactobacillus transplantation group showed increased granulosa layers. (D) PCOS FMT group
+showed increased granulosa layers and formation of corpora lutea. The larger boxed area in A, B, C, D was shown at higher magnification (400×) in E, F, G,
+H, respectively. GLC: granular cell layer, TCL: theca cell layer, O: oocyte, L: luteum, AF: atretic follicle. Magnification (100×), scale bar, 50 μm.
+
+Cystic follicles (n) Number of corpora lutea (n)
+Diameter of largest follicle (μm)
+Thickness of granulosa cell layer
+(μm) Control group
+(Mean±sem) 0.50±0.13
+8.50±0.27
+115.13±6.32
+77.88±2.95 PCOS group
+(Mean±sem) 7.63±0.24*
+0.13±0.06*
+463.75±33.23*
+36.63±1.67* Lactobacillus treatment group
+(Mean±sem) 4.38±0.22*#
+4.88±0.23*#
+398.25±23.28*#
+50.50±16.78*# FMT group
+(Mean±sem) 3.38±0.20*#
+6.25±0.22*#
+317.25±22.63*#
+60.87±3.27*# Every 10th section of 8 rats in each group was calculated.
+
+Prevotella species are constituents of host-associated ecosystems in the respiratory tract,
+oral cavity and genital tract. These organisms contributed to polymicrobial infections such as PLOS ONE | DOI:10.1371/journal.pone.0153196 April 19, 2016 11 / 15 Gut Microbiota for Polycystic Ovary Syndrome chronic sinusitis, periodontitis and bacterial vaginosis [35–37]. Recent investigations have
+revealed that males not females have greater odds of carrying Prevotella intermedia in oral cav-
+ity, suggesting an association between sex hormone and carriage of Prevotella [38]. In women
+with PCOS, Prevotella intermedia serum antibody levels were higher than healthy women [39].
+It has been hypothesized that testosterone metabolites contributed to Prevotella growth and
+virulence [40]. However, there is no evidence to support this hypothesis. Prevotella intermedia
+were capable of stimulating 5α-reductase activity in human gingival fibroblasts, leading to the
+synthesis of dihydrotestosterone form testosterone and androstenedione [41, 42]. In this study,
+with the testosterone and androstenedione levels increased in PCOS group, the copy number
+of Prevotella also increased, which is consistent with previous study. To further understand
+effects of microbiota interventions on PCOS, PCOS rats were treated with FMT and Lactobacil-
+lus transplantation. The results showed that with the copy number of Prevotella decrease the
+testosterone and androstenedione levels also decreased. The relationship between Prevotella
+and androgen level needs further study in letrozole-induced PCOS rat model.
+
+Gut microbiota such as Bifidobacteria and Lactobacillus are often referred to as “good bacte- ria” as they exert health-promoting properties. It is proposed that increase of Lactobacillus in
+the gut lead to production of short chain fatty acids that improve gut health, increasing the bar-
+rier function of the gut and reducing translocation of bacterial endotoxins across the gut wall
+where they could produce inflammation and insulin resistance [19]. Probiotic supplementation
+(Lactobacillus casei Shirota (LcS)) could prevent high-fat, over-feeding induced insulin resis-
+tance in human subjects [46]. Considering the beneficial effect of Lactobacillus on insulin resis-
+tance and the disorder is associated with PCOS, the present study used Lactobacillus
+transplantation and FMT to treat PCOS rats. The results showed that after treating PCOS rats
+with Lactobacillus transplantation and FMT, the serum androgens reduced, estrous cycles
+improved and the ovarian functions normalized. These data suggested that FMT and Lactoba-
+cillus transplantation were helpful for the treatments of PCOS rats

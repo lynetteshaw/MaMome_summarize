@@ -1,0 +1,146 @@
+Mei Wang
+
+Sharon M. Donovan
+
+Introduction
+
+Over the past decade, the essential role that the gut micro-
+biota plays in the developmental programming of the neo-
+nate, including growth trajectories, metabolism, and immune 
+and cognitive development, has been demonstrated  
+Thus, fostering the development of the microbiome in the 
+first 1000 days of life is critical to supporting lifelong health. Dietary pat-
+tern 2, defined by intake of grains, dairy and legumes, nuts 
+and seeds, was associated with higher Cyanobacteria and 
+Phascolarctobacterium abundance and lower Dorea and 
+Eubacterium abundance  Additionally, the intake of 
+
+snacks and sweets and refined carbohydrates were nega-
+tively correlated with both Shannon and the Chao1 Indices, 
+respectively, demonstrating reduced microbial diversity with 
+greater intake of sugars and refined grains. Residing in rural vs. urban environments can also affect 
+food availability and choices, which has been investigated 
+in a series of studies. Urban-dwelling children also con-
+sumed a diet higher in meat, fat, and confectionaries, such 
+as sweetened pastries and biscuits, and lower in complex 
+carbohydrates compared to rural children. Vegetables comprised < 1.0% of total cal-
+orie intake in urban children compared to 7.3% in rural chil-
+dren. The fecal microbiome of the rural children displayed 
+significantly greater alpha diversity (Chao1 index). The 
+microbiota of rural children was enriched by bacteria in the 
+order Clostridiales, containing families such as Peptostrep-
+tococcaceae and unclassified Ruminococcaceae, compared 
+to higher proportions of Actinobacteria, Bacteroidales, and 
+Selenomadales in urban dwellers. Additionally, rural chil-
+dren had significantly higher fecal butyrate and propionate 
+concentrations, suggesting that the fiber-rich diet in the rural 
+children promotes a microbiota composition with greater 
+fermentative capacity 
+
+Greater Bifidobacterium abundance in 1- to 4-year-olds 
+compared to adults has been reported  and recent stud-
+ies have shown that the relative abundance of Bifidobac-
+terium in older children is related to dietary intake and is 
+
+1 3 
+
+Digestive Diseases and Sciences
+
+associated  with  metabolic  phenotypes. Studying  Dutch 
+children in the KOALA Birth Cohort Study, Zhong and col-
+leagues documented higher levels of Bifidobacterium at 6 
+to 9 years of age compared to adults  They also classi-
+fied children into three enterotypes and observed that cor-
+relations between dietary and metabolic phenotypes were 
+dependent on fecal microbial enterotype. Additionally,  children  may  also  be 
+more similar to each other than adults are. while children displayed enhanced Bifi-
+dobacterium spp., and members of 
+Lachnospiraceae  However, the current literature on 
+the impact of diet in this age group has some noted limita-
+tions. While dietary intake differs between rural 
+and urban communities, many other environmental factors 
+are also likely contributing, including socioeconomic status, 
+exposure to agricultural species and routine medical care, 
+which could also be influencing the gut microbiota. In the USA, 
+the recommended dietary fiber intake is 14 g/1000 kcal or 
+25 g for females and 38 g for males. Most prebiotics are DF, but not all DF 
+are considered to be prebiotics. Infant Formula and Prebiotics
+
+HMOs are considered prebiotics, which may partly explain 
+the differences in microbiota composition between BF and 
+FF infants  To narrow the gap between HM and infant 
+formula, prebiotics are now routinely added to infant for-
+mula. Further large-scale studies are 
+needed with different fiber sources. Probiotic Interventions in Children on Gut 
+Microbiota
+
+Probiotics are “live microorganisms that, when administered 
+in adequate amounts, confer a health benefit on the host” 
+ The most commonly administered probiotic bacteria 
+belong to the genera Bifidobacterium and Lactobacillus, 
+but can be provided either as single or mixtures of strains. Pro-
+biotics shorten the duration of acute gastroenteritis, prevent 
+antibiotic-associated diarrhea, reduce the risk of necrotiz-
+ing enterocolitis in preterm infants and lower the incidence 
+of eczema in high-risk children  The mechanisms 
+of action of probiotics are not fully understood; however, 
+modulation of gut microbiota has been postulated as one of 
+the mechanisms 
+
+Two general probiotic approaches have been taken to 
+influence the infant or child microbiota. For example, supplementation of pregnant and 
+lactating women with L. rhamnosus GG (LGG), L. acidophi-
+lus La-5 and B. animalis subsp. lactis BB-12 from 36-week 
+gestation until 3 months postnatal during breastfeeding did 
+not affect the proportions of bacteria classes and genera of 
+the infants at 3 months and 2 years  In contrast, a Finish 
+study evaluated the effect of administration of L. rhamnosus 
+LPR and B. longum BL999 to mothers 2 months before and 
+2 months after delivery. Probiotics have been administrated directly to infants and 
+children (Table 4). These studies varied in terms of 
+age of the children (newborns to age 18), type of probiotic, 
+dose administered, and duration of the intervention. These conflicting results may be 
+related to differences in probiotic strain/strains used, the 
+dose use, duration of administration, and the methods used 
+for microbiota analysis. Furthermore, factors that influence 
+the development of gut microbiota, such as delivery mode, 
+children’s age, and diet, likely confound the effects of pro-
+biotic supplementation in this population 
+
+While some encouraging data exist on the efficacy of pro-
+biotics on disease prevention, no broad consensus exists to 
+recommend the use of probiotics in these conditions  
+Although probiotics are safe for use in healthy population; 
+several concerns have been raised related to the administra-
+tion of probiotics early in life when gut microbiota is not 
+fully established. For example, it is not known 
+whether or not early-life acceleration toward an adult-like 
+microbiome has negative downstream effects on health. 1 3 
+
+Digestive Diseases and Sciences
+
+year, ↑indicates significantly increased, ↓ indicates significantly decreased, ↔ indicates no effect
+interspace profiling, mo month, qPCR quantitative PCR, T-RFLP terminal restriction fragment length polymorphism, RT-qPCR reverse transcription quantitative PCR, VD vaginally delivered, y 
+BB-12 Bifidobacterium animalis subsp. lactis BB-12, CFU colony-forming unit, CS cesarean section, d day, FISH fluorescent in situ hybridization, LGG Lactobacillus rhamnosus GG, IS-pro 
+
+6 mo
+
+Metagenomic sequencing by Illumina 
+0, 3, 12 and 24 mo of age
+
+HiSeq 2500
+
+9 × 109 CFU/strain/d
+B. animalis subsp. •  The microbiome of BF infants is nurtured by human milk 
+components, including HMO, and differs from that of FF 
+infants. •  Findings on probiotic administration to pregnant or 
+lactating women or directly to the infant or child are 
+inconsistent, likely due to the variation in the bacterial 
+strains, doses, duration and methods of microbiome 
+analysis. Funding  This work was supported in part by NIH R01 DK107561 
+[SMD].
+
+Compliance with Ethical Standards 
+
+Conflict of interest  The authors declare that they have no conflict of 
+interest.

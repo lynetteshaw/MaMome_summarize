@@ -1,0 +1,146 @@
+Brief Reviews
+
+  e
+Th
+
+Journal of
+
+Immunology
+
+The Impact of Maternal Microbes and Microbial
+Colonization in Early Life on Hematopoiesis
+
+Downloaded from 
+
+http://www.jimmunol.org/
+
+ by guest on June 25, 2020
+
+function of the immune system at distal tissues, including
+primary lymphoid organs, such as the bone marrow (BM) and
+thymus. However, recent evidence suggests that coloni-
+zation may, in fact, precede birth. It
+has been suggested that a placental microbiome, seeded from
+the mother’s intestine and oral cavity, may develop to initiate
+fetal colonization during gestation. The Journal of Immunol-
+ogy, 2018, 200: 2519–2526. Microbes
+are passed vertically from mother to child during birth and are
+subsequently obtained via horizontal transfer from the envi-
+ronment. Accepted for publication February 12,
+2018. As a result,
+
+these pups rapidly succumbed to experimental infection with
+Escherichia coli or Klebsiella pneumoniae. In the experiments above, the effects of antibiotics could
+reﬂect an inﬂuence on the microbiota of the mother, the
+neonate, or both. To assess the impact of the maternal
+microbiota alone, without any inﬂuence from microbial col-
+onization of the pups after birth, Gomez de Ag€uero et al. transiently colonized germ-free dams during gestation with an
+auxotrophic mutant strain of E. coli, termed HA107. This study revealed that
+maternal Ab-mediated vertical transfer of maternal microbial
+components vastly altered gene expression in the intestine of
+
+The Journal of Immunology
+
+2521
+
+Downloaded from 
+
+http://www.jimmunol.org/
+
+ by guest on June 25, 2020
+
+FIGURE 1. A child’s immune system can be modulated by microbial
+signals at various stages in development. Postnatal maturation of the innate and adaptive immune
+is driven by signals arising from the intestinal
+systems
+microbiota. If the
+normal processes of establishing a microbiota are disrupted
+during this period, it may have life-long consequences for the
+host, leading to increased susceptibility to a number of dis-
+orders, including autoimmune diseases, IBD, asthma, allergy,
+obesity, and autism. Recent work shows that the dif-
+ferentiation fate of an HSC clone down a particular lineage is
+predetermined by epigenetic modiﬁcations that are thought to
+arise early during its development  This begs the ques-
+tion: could early life exposure to microbes generate epigenetic
+memory in the BM that has a life-long impact on host immune
+responses, subsequently inﬂuencing the risk for immune-mediated
+pathologies? Whether early B cell development can occur in the
+intestines of humans is not clear, although pre-B cells have
+been found in the human fetal small intestinal lamina propria
+
+ In mice, although early B cells that express RAGs are
+absent from the small intestine at birth, they are found to
+accumulate in the gut mucosa at weaning, coincident with
+increasing microbial colonization in early life  This
+suggests that microbes (and potentially dietary Ags) may play
+an important role in shaping the primary Ab repertoire in
+early life  and this may occur outside of the BM. ii) The host immune system responds to this intestinal colonization, leading to the local and/or systemic
+production of growth factors, cytokines, and chemokines. Future work will unravel the impact that microbe-driven effects on BM homeostasis have on other tissues or immunopathologies. Recent
+work showed that microbial dysbiosis caused by feeding mice
+a high-fat diet was associated with a shift in hematopoiesis in
+favor of myelopoiesis at the expense of the lymphoid lineage
+ These changes appeared to reﬂect an increase in MPPs
+and common myeloid progenitors and a concomitant re-
+duction in common lymphocyte progenitors (CLPs) and
+immature B cells. As a result, the host mice were less able to
+regenerate leukocytes following BM ablation with 5-ﬂuoro-
+uracil. Similarly, Ver-
+rucomicrobia are Gram-negative and increased during van-
+comycin treatment; in contrast to Proteobacteria, members of
+this phylum, such as Akkermansia muciniphila, promote a
+healthy gut, possibly through colonizing the outer mucous
+layer and producing SCFAs  In contrast, Actinobacteria
+are Gram-positive and depleted by vancomycin treatment. Exactly which bacteria may be playing a role is not clear,
+because Actinobacteria are the third most dominant bacterial
+phylum in humans and can be pathogens, like Mycobacterium,
+or commensals, such as Biﬁdobacterium. Another study found
+that feeding mice with a ﬁber-rich diet led to an outgrowth of
+Bacteriodetes at the expense of Firmicutes, leading to an in-
+crease in the levels of the SCFAs propionate and acetate in the
+circulation  When challenged intranasally with house
+dust mite Ag, mice on the high-ﬁber diet developed less severe
+airway inﬂammation than mice fed regular chow. Many studies report a defect in myelopoiesis in animals
+deﬁcient in TLRs or TLR-speciﬁc adapter molecules (42, 43,
+50–52). By triggering a downregulation of
+CXCL12, a surface-bound chemokine expressed by BM
+stromal cells, and by activating neutrophil proteases, G-CSF
+breaks the chemokine ligand–receptor bond that usually re-
+tains neutrophils within the BM niche  Further,
+G-CSF triggers the release of the neutrophil chemoattractants
+CXCL1 and CXCL2 from vascular endothelial cells  By
+binding to CXCR2 on neutrophils, these chemokines recruit
+newly differentiated neutrophils to the bloodstream. A similar
+process of CXCL12 regulation by the monocyte chemokine
+receptor CCR2 has been proposed to regulate monocyte
+egress from the BM under inﬂammatory conditions 
+Activation of CCR2 by its cognate ligand CCL2 down-
+regulates CXCR4 expression by BM monocytes, releasing
+them from the BM niche. However, recent work cou-
+pling functional studies with transcriptional and epigenetic
+modiﬁcation assays suggests that HSCs are biased in their
+differentiation potential and that speciﬁc HSC clones
+may be impaired in their ability to differentiate down a par-
+ticular lineage pathway by cell-autonomous epigenetic con-
+straints generated the
+transgenic HUe mouse strain, which allowed fate mapping of
+endogenous HSCs in vivo, as well as isolation of distinct HSC
+clones and transplantation into new hosts. Importantly, it is becoming clear that alterations in diet or
+antibiotic treatment can alter BM hematopoiesis in adults,
+resulting in profound effects on immune function. Elucidating
+
+Downloaded from 
+
+http://www.jimmunol.org/
+
+ by guest on June 25, 2020
+
+The Journal of Immunology
+
+2525
+
+the processes that allow the microbiota to shape immune
+function early in life could provide a missing link in our
+understanding of how immunopathologies develop and has
+important implications for the use of antibiotics and dietary
+manipulation in children and pregnant women.
