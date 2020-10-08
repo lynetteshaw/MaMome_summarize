@@ -1,0 +1,521 @@
+44_PARAGRAPHS
+
+The microbiome: eﬀect compared with eﬀect
+modiﬁcation
+The body of research on the human microbiome, and par-
+ticularly the gut microbiome, is growing rapidly. The effects
+of the gut microbiome extend far beyond the gastrointestinal
+system, influencing immunity  and
+brain function  in short, everything we require to
+function as human beings..
+
+Study design.
+Table 2 summarizes key features of the design of dietary
+intervention studies. The most common approach for in-
+vestigating personalized response to diet is a controlled
+intervention cohort study. For example, 51 out of the 55
+studies conducted between 2000 and 2019, were intervention
+cohort studies in living organisms (humans or rodents).
+Three studies examined the effect of supplementing nutrients
+to in vitro cultures from human stool  Just 2 were
+observational, cross-sectional studies .
+
+Figure 1 Numerous research ﬁelds are integrated and contribute
+to our overall understanding and study of personalized health and
+nutrition..
+
+Precision nutrition is a rapidly developing field of research
+incorporating a multitude of disciplines including nutrition,
+microbiology, genetics, epigenetics, metabolomics, and oth-
+ers .
+
+Subfields of precision nutrition include nutrigenetics
+and nutrigenomics, which study interactions between the
+human genome and diet  These fields examine how
+genetics, epigenetics, and the microbiome influence dietary
+response and requirements whilst also being influenced
+by dietary intake. The result of these interactions is a
+complex network of metabolic and physiologic processes that
+define the metabolic phenotype of an individual. Metabolic
+phenotype can be measured by traditional indicators such
+as weight, blood pressure, or fasting glucose or by more
+complex data such as metabolomics, transcriptomics, and
+proteomics. In combination, these data contribute to our
+understanding of the processes occurring inside the body
+as a result of the interconnected influences of diet, the
+microbiome, genetics, and epigenetics. The potential to
+predict an individual’s response to diet and to optimize an
+individual’s metabolism using diet depends on identifying
+the biological or physiological features that are relevant to
+dietary response, determining how these features interact.
+
+“response,” even studies implementing the same dietary
+intervention (Table 1, Responder Criteria). However, there
+are some general trends. For instance, all 12 studies using
+an energy-restricted or high-energy diet analyzed differences
+in weight gain/loss or changes in body composition (39–
+50). Changes in circulating lipids  insulin
+sensitivity/resistance  or inflammatory markers
+were also common measured responses. Fiber-
+intervention studies measure many of these
+same variables but also often include SCFAs (9, 20–24,
+25, 26, 30, 34), which are one of the major metabolites
+produced by the gut microbiota during fermentation of
+dietary carbohydrates and have many biological effects 
+Changes within the gut microbial community as well as
+metabolites and clinical markers produced and/or influenced
+by the gut microbiota have also been used as indicators
+of responsiveness (9, 13, 15, 17, 23, 24, 27–29, 31–34, 42,
+48,
+59, 62, 68). Thresholds used to define response or
+differentiate individuals vary based on the variables being
+Ideally, such
+measured and are generally not standardized.
+thresholds should be based on clinically relevant effects
+or standardized health recommendations. If there are no
+standardized recommendations or limits for the variables
+being measured, it is important that studies clarify the clinical
+relevance of their findings..
+
+Methods for analyzing precision nutrition data
+Laboratory analytical methods for gut microbiome data.
+The microbiome can be measured using a variety of methods
+(Table 3, Microbiome Measures), which are subject to
+their own inherent limitations and biases  making
+comparisons between studies using different methods diffi-
+cult. Additionally, differences in sample collection, sample
+preparation, PCR amplification, and bioinformatics pipeline
+contribute additional variability, further complicating
+to make broad
+comparisons. Thus,
+conclusions regarding the effect of the microbiota when
+looking at findings in the literature. A brief overview of
+the different methods and their protocols, advantages, and
+disadvantages is provided here but, for further discussion,
+readers are directed to additional reviews of this topic (74,
+76)..
+
+restriction and excess; and bioactives, fermented products,
+and other dietary components. Many studies investigating
+the effect of the microbiota on metabolic response to
+diet have employed interventions involving dietary fiber
+or other nondigestible dietary components 
+as these compounds cannot be hydrolyzed by endogenous
+human enzymes and are thus able to pass through
+the upper gastrointestinal tract largely intact and enter the
+large intestine where they can be fermented by the gut
+microbiota. These compounds serve as a primary source of
+fuel for this community  As the microbiota has also
+been shown to influence energy harvest and predisposition
+to obesity  a number of studies have also looked at
+the effect of the gut microbiota on response to an energy-
+restricted or high-energy diet  The effect of the gut
+microbiome on metabolic response to macronutrient dis-
+tribution  dietary patterns
+ polyphenols and other plant-based compounds
+ as
+well as antibiotics and certain drugs has also been
+investigated. Dietary interventions may be targeted, such as
+supplementing an isolated nutrient in the participants’ diets
+(e.g. fiber), or broad, such as altering the participants’ entire
+dietary pattern (e.g. low fermentable oligosaccharides, disac-
+charides, monosaccharides and polyols [FODMAP] diet)..
+
+Gut microbiome and precision nutrition: Part I 7.
+
+and house-keeping function in bacteria  Protocols such
+as multilocus sequence typing (MLST) may also rely
+on multiple house-keeping genes. This technique, however,
+requires either a completely sequenced bacterial genome or
+one that contains all the loci necessary for MLST (typically
+7 loci) and, due to the variability of house-keeping genes,
+does not provide sufficient discrimination except between
+closely related bacteria .
+
+Before any of these techniques are implemented, sam-
+ples are first subjected to PCR, amplifying the genetic
+in the sample. Sequence identification of PCR
+material
+amplicons of the 16S rRNA gene can only be used to
+provide relative abundance of the gut microbial taxa. In
+contrast, qPCR, or real-time PCR, measures amplification of
+DNA in real-time using fluorescence of hybridized probes
+specific for individual taxa, allowing for more accurate
+quantification .
+
+Once amplified, DNA can be used for a variety of methods
+to compare and identify samples. Denaturing gradient gel
+electrophoresis and terminal restriction fragment length
+polymorphism (T-RFLP) are fingerprinting techniques that
+separate mixtures of 16S rRNA gene amplicons into bands of
+various sizes based on enzymatic cut sites. However, although
+these methods can be useful for checking the stability of
+dominant members and clustering communities according
+to these dominant members, they do not provide direct
+phylogenetic identification and it is difficult to relate banding
+patterns to changes in particular species  When
+coupled with 16S rRNA sequencing, these methods can
+provide more specific composition information. DNA mi-
+croarrays, which utilize oligonucleotide probes immobilized
+onto a glass slide to hybridize to complementary nucleotide
+sequences, provide phylogenetic identification. However,
+this method is subject
+to potential cross-hybridization
+(hybridization of multiple probes to single targets), can have
+difficulty detecting low abundance taxa, and is limited to
+identifying species that will hybridize to the probes provided
+on the slide .
+
+Normalization and transformation methods for gut
+microbiome data.
+Microbiota sequence count data often require normalization
+and/or rarefaction to avoid biases due to uneven sequencing
+depth and to allow the comparison of data from
+different samples  The most common normalization
+technique, total sum scaling (TSS), divides the number of
+reads assigned to a certain taxa by the total number of reads
+in the sample  This method, although straightforward,
+has been shown to bias estimates in some data sets due
+to differential amplification efficiency of certain taxa 
+Cumulative-sum scaling (CSS) divides raw counts by the
+cumulative sum of counts up to a percentile determined by
+the nature of the data set  Data can also be rarefied, rather
+than scaled. Rarefying draws randomly without replacement
+from each sample such that all samples then have the
+same total count and excludes samples with total counts
+below that defined threshold  Rarefaction curves can
+provide guidance to determine proper rarefaction depth for
+a specific data set but, depending on how much data is
+removed, rarefying can reduce statistical power and has
+been denounced by some  The choice of normalization
+method depends on data characteristics such as library
+size .
+
+Microbiota enterotype (Prevotella to Bacteroides.
+
+Salonen et al. 
+and Walker
+et al. .
+
+Tuohy et al. 
+Kolida et al. 
+de Preter et al. .
+
+Microbiota composition (qPCR of 7 bacteria).
+
+1AdaBoost, adaptive boosting; ADD, average Danish diet; AIC, Akaike information criterion; ANOSIM, analysis of similarities; BIC, Bayesian information criterion; Bif, Bifidobacteria;
+BN, Bayesian network; CAP, canonical analysis of principal coordinates; CASINO, community and systems-level interactive optimization; DBA, decisive bacterial abundance; DGGE,
+denaturing gradient gel electrophoresis; FISH, ﬂuorescence in situ hybridization; HCA, hierarchical clustering analysis; HITChip, human intestinal tract chip; iAUC, incremental AUC;
+JSD, Jensen-Shannon divergence; LASSO, least absolute shrinkage and selection operator; LDA, linear discriminant analysis; LEfSe, linear discriminant analysis eﬀect size; LMM,
+linear mixed models; MG-RAST, metagenomic rapid annotations using subsystems technology; MRBP, blocked multi-response permutation procedure; MRPP, multi-response
+permutation procedure; NMS, nonmetric multidimensional scaling ordination; NND, new Nordic diet; OPLS-DA, orthogonal projections to latent structures discriminant analysis;
+P/B ratio, Prevotella to Bacteroides ratio; PAM, partitioning around medoids; PCA, principal components analysis; PCoA, principal coordinates analysis; PDP, partial dependence plot;
+PERMANOVA, permutational analysis of variance; PICRUSt, phylogenetic investigation of communities by reconstruction of unobserved states; PLSDA, partial least squares
+discriminant analysis; RDA, redundancy analysis; ROC, receiver operating characteristic; T-RFLP, terminal restriction fragment length polymorphism..
+
+using an arcsine square root transformation  which
+is the transformation used by MaAsLin (multivariate as-
+sociation with linear models)  a bioinformatics tool
+used by researchers to discover associations between clinical
+variables and the microbiome. For a more comprehensive.
+
+Microbiota composition and function (16S, qPCR,
+metagenomics, RNA-Seq) of stool as well as
+lumen and mucosa samples.
+
+Association analysis methods.
+Association methods define and compare groups, find
+correlations, and determine significant differences (Table
+4). These methods differ in the number of groups being
+compared, the nature of the data being compared (i.e.
+categorical or continuous), and assumptions regarding the
+distribution of the data (i.e. normal, nonnormal). The
+methods shown below provide a rough introduction to
+statistical approaches that are currently in use for these
+types of analyses. Detailed information on commonly used
+methods can be found in Van Belle et al.  Additional
+references are given as needed..
+
+Comparing 2 groups in association studies.
+The t-test compares the mean responses of 2 groups to
+determine whether they are significantly different. This
+would be appropriate when comparing the abundance of
+a single taxa between 2 groups at 1 time point. The t-test
+may be conducted on paired data (e.g. comparing means
+within the same individuals at different time points as in a
+cross-over design) or unpaired data (e.g. comparing means
+between unrelated individuals as in a parallel design). This
+approach assumes that the data are normally distributed
+(parametric) or the sample size is “large.” The t-test does
+not account for potential confounding factors. The Mann–
+Whitney U (also called the Wilcoxon rank-sum) test is
+a nonparametric (does not assume the data are normally
+distributed) alternative to the t-test. When the spread
+and shape of the 2 distributions are the same, the Mann–
+Whitney U test compares the median of 2 unpaired samples
+(e.g. between groups). The Wilcoxon signed-rank test is used
+to determine if the median of the differences between paired
+responses is different from zero (e.g. within individuals). For
+example, comparing the abundance of a single taxa within
+1 individual before and after a dietary intervention. When
+the dependent variable is categorical (e.g. abundance above
+or below the median), a G-test or chi-square (or Fisher’s
+exact test) test may be used when the data are unpaired or
+a McNemar’s test may be used if the data are paired. Both.
+
+Arumugam et al. first introduced the concept of
+“enterotypes”, clustering individuals into 3 groups according
+to their dominant genera: Bacteroides, Prevotella, and Ru-
+minococcus. Although enterotypes have since been shown
+to exist more on a continuous scale  the Bacteroides
+and Prevotella enterotypes have been consistently replicated
+across cohorts  The identification of the Ruminococcus
+enterotype is more dependent on clustering and modeling
+approaches  Roager
+et al. 
+and Chen et al.  highlight measures such as enterotype or
+the Prevotella to Bacteroides ratio. Diversity and richness are
+also common measures used to highlight differences between
+groups .
+
+In addition to these broad groupings, individuals can
+also be classified according to the presence or absence of
+specific taxa, taxonomic abundance, richness and diver-
+sity, functional genes, or other features. For example, the
+abundance of individual taxa, such as Bifidobacterium, has
+been shown to be a significant indicator of response to
+fiber-based interventions and combinations
+of taxa, Moryella, Acetanaerobacterium, Fastidiosipila, and
+Streptobacillus, were found to be associated with a higher
+production of the phytoestrogen metabolite enterolactone
+ Kovatcheva-Datchary
+et al.  and Chumpitazi et al.
+also highlight differences in the abundance of functional
+genes, attempting to get closer to the activity of bacteria.
+These levels of microbiome classification may be combined
+in order to give a comprehensive picture of the interactions
+that contribute to response to diet..
+
+and there is currently no consensus on how to decide this
+value .
+
+time points or when the number of groups exceeds 2, as
+in Bouhnik et al.  which tested 7 different types of
+nondigestible carbohydrates to determine their effect on
+the gut microbiota. Kruskal–Wallis is the nonparametric
+equivalent of the 1-way ANOVA and has been used to
+develop tools such as linear discriminant analysis effect size
+(LEfSe)  PERMANOVA is a nonparametric alternative
+to multivariate ANOVA (MANOVA)  ANOSIM is
+also used to compare multiple independent variables with a
+multivariate dependent variable  It differs from PER-
+MANOVA in that, instead of using the raw data, ANOSIM
+ranks values based on their similarity/dissimilarity. This
+minimizes the effects of outliers in the data, making it useful.
+
+Gut microbiome and precision nutrition: Part I 17.
+
+Clustering methods such as k-means clustering  par-
+titioning around medoids (PAM)  Calinski–Harabasz
+pseudo-F-statistic 
+are used to dis-
+cover groups within the data. k-means clustering attempts to
+identify groups within the data by minimizing the distances
+between points within each group (defined by the mean
+of points within that group), and maximizing the distances
+between groups. Venkataraman et al. used k-means
+clustering to identify responsive and nonresponsive groups
+based on butyrate production before and during the fiber
+intervention. PAM is similar but, instead of taking the mean
+of groups, chooses one datapoint to serve as the “center”
+or medoid around which groups are formed. This method
+was used in Wu et al. to identify enterotype clusters.
+Both k-means clustering and PAM require the input of a
+desired or suspected number of clusters and use Euclidian
+distances. In contrast, both the Calinski–Harabasz pseudo-
+F and Rousseeuw Silhouette indices are used to determine
+the optimal number of clusters in a data set. HCA starts with
+the correlation matrix and sequentially groups variables and
+clusters, progressing from smaller, less inclusive groups, to
+larger, more inclusive groups until one large cluster is formed.
+This produces a dendrogram, showing the relation among
+the clusters, allowing the researcher to observe the clustering
+structure. However, in all of these clustering methods, groups
+are statistically defined and may not indicate any biological
+significance..
+
+Pearson (based on the raw data) and Spearman (based
+on ranks and, therefore, robust) correlation coefficients both
+evaluate the relation between 2 continuous variables. How-
+ever, whereas the Pearson correlation assumes a linear rela-
+tion and normally distributed variables, the Spearman corre-
+lation only assumes a monotonic relation (i.e. continually in-
+creasing or decreasing) and makes no assumption about dis-
+tributions. Thus, the Spearman correlation may be preferred
+for highly skewed outcomes. This may be useful when con-
+sidering microbiota abundance data, which is often highly
+skewed with an excess of zeros  Biweight midcorre-
+lation also measures the correlation of pairs of univariate
+measurements but differs from both Pearson and Spearman
+correlations as it is based on the median of the data, rather
+than the mean, making it less sensitive to outliers .
+
+Combining continuous and categorical variables in asso-
+ciation studies.
+Some methods may be used when the independent/
+explanatory variables are a mix of both continuous and
+categorical variables. These include ANCOVA, regression,
+linear mixed models
+regression to
+dependent observations), canonical analysis of principal
+coordinates (CAP) 
+and random forests  ANCOVA compares the means of
+a continuous dependent variable across levels of a categorical
+independent variable (i.e. experimental groups) whilst also
+controlling for the effects of other continuous variables (i.e.
+covariates such as BMI, cholesterol, etc.). This could be used
+to compare weight loss between groups on different diets,
+whilst controlling for baseline measures such as BMI or
+habitual fiber intake..
+
+CAP utilizes a distance matrix and PCoA to determine
+significant differences in principal components between
+groups (i.e. categorical) as well as along a scale (i.e. contin-
+uous). This can be used to quantify the distance between
+the microbiota composition of different groups or individuals
+over time, as in Zhang et al.  RDA extends multiple linear
+regression by summarizing the linear relations between mul-
+tiple dependent variables and multiple independent variables
+in a matrix, which is then incorporated into PCA. RDA could
+be used to examine the effect of different components of a
+dietary intervention on multiple taxa to identify microbes
+that are influenced by the diet, as done in Chen et al. 
+Random forests is a machine-learning technique that uses
+multiple decision trees, each built on random samples of the
+data, to estimate the mean value of the dependent variable.
+Each node in the decision tree represents a condition or
+question about the sample or datapoint (e.g. did butyrate
+increase or decrease in this sample?). The branches extending
+from these nodes represent the relevant data pertaining to
+the sample (e.g. yes/no, degree of change, etc.), eventually
+leading to a conclusion regarding an outcome of interest
+(e.g. responder/nonresponder). This method may be used
+for classification (i.e. categorical outcomes) or regression
+(i.e. continuous outcomes). For instance, Venkataraman et
+al. used random forest regression to identify asso-
+ciations between operational taxonomic unit abundances
+and butyrate concentration, both before and during fiber
+supplementation. Classification could be used to identify taxa
+associated with either an increase or decrease in butyrate
+concentration (categorical)..
+
+analysis (OPLS-DA) are extensions of LDA. Both PLS-
+DA and OPLS-DA may utilize weaker sources of variation
+to separate groups but OPLS-DA also eliminates variation
+that is unrelated to the separation of groups, creating a less
+complex model  Although these are powerful methods,
+they may force group separation at the expense of model.
+
+validity, relying on weaker sources of variability in the data
+set .
+
+Step 2: validation.
+In the validation step, the model is used to predict response
+in the individuals used to fit the model (internal cross-
+validation) or in new individuals (external validation) to
+evaluate model performance  When utilizing internal
+cross-validation, a common practice is “leave-one-out” in
+which the model is fitted in an iterative process that utilizes
+all data minus one to predict the response of the left-out data
+point. The advantage of internal cross-validation is that the
+data are already available and new data does not have to be
+collected or obtained from another study. However, this test
+is not as rigorous as testing in an independent cohort and the
+model may not perform as well when applied to new data
+sets. Testing a model in an independent cohort allows for
+a better assessment of the applicability of the model in the
+broad population..
+
+mechanistic hypotheses  For example, transplantation
+of isolated strains or communities of bacteria into germ-free
+mice is one of the best models in use to demonstrate causal
+relations between the gut microbiota and host metabolism
+ This approach has been used in studies such as
+Kovatcheva-Datchary et al.  which used stool samples
+from individuals who did (responders) or did not (nonre-
+sponders) exhibit improved glucose tolerance in response to
+barley kernel supplementation to colonize germ-free mice.
+Colonized mice recapitulated the response phenotype of
+their respective donors, suggesting that the gut microbiome
+played a causal role in the improvement in glucose tolerance.
+This study also investigated the effect of monocolonization
+by taxa, overrepresented in responders (Prevotella copri) and
+nonresponders (Bacteroides thetaiotaomicron), and found
+differential gene expression in the colonized mice that
+altered hepatic glycogen storage, allowing for a mechanistic
+understanding of observed differences in glucose metabolism
+phenotypes..
+
+Both animal and in vitro models have limitations when
+it comes to drawing conclusions about human health and
+nutrition as they lack the specific interactions present in
+the human supraorganism. For further information, readers
+are directed to additional reviews of animal and
+in vitro models for human nutrition research.
+However, these techniques used in combination with human
+clinical trials will be crucial in the development of precision
+nutrition research and our understanding of the interaction
+between the host and the gut microbiota..
+
+Differences in methodology.
+As discussed above, studies investigating the contribution of
+the gut microbiota to personalized health and metabolism
+differ in what features of the microbiome are highlighted.
+Two meta-analyses have attempted to integrate results from
+multiple studies that have investigated the effects of the
+gut microbiota on human health using different laboratory
+methods and analysis strategies  Such work is
+important to improve our understanding of how the results
+of these studies complement each other and how the features
+or methods used affect the results..
+
+10. Sonnenburg ED, Zheng H, Joglekar P, Higginbottom SK, Firbank
+SJ, Bolam DN, Sonnenburg JL. Specificity of polysaccharide use
+in intestinal Bacteroides species determines diet-induced microbiota
+alterations. Cell 2010;1411241–52..
+
+11. Possemiers S, Rabot S, Espín JC, Bruneau A, Philippe C,
+González-Sarrías A, Heyerick A, Tomás-Barberán FA, De
+Keukeleire D, Verstraete W. Eubacterium limosum activates
+isoxanthohumol from hops (Humulus lupulus L.) into the potent
+phytoestrogen 8-prenylnaringenin in vitro and in rat intestine. J Nutr
+2008;1381310–6..
+
+48. Dao MC, Everard A, Aron-Wisnewsky J, Sokolovska N, Prifti E,
+Verger EO, Kayser BD, Levenez F, Chilloux J, Hoyles L, et al.
+Akkermansia muciniphila and improved metabolic health during a
+dietary intervention in obesity: relationship with gut microbiome
+richness and ecology. Gut 2016;65426–36..
+
+51. Zou H., Wang D., Ren H., Fang C., Shi Z., Zhang P., Chen P., Wang J.,
+Yang H., Cai K., et al. Nonobese subjects of Bacteroides and Prevotella
+enterotypes responded differentially to calorie restriction intervention,
+bioRxiv. 2019; 514596.
+
+Gut microbiome and precision nutrition: Part I 23.
+
+65. Senan S, Prajapati JB, Joshi CG, Sreeja V, Gohel MK, Trivedi S, Patel
+RM, Pandya H, Singh US, Phatak A, et al. Geriatric respondents and
+non-respondents to probiotic intervention can be differentiated by
+inherent gut microbiome composition. Front Microbiol 2015;6:944.
+66. Veiga P, Gallini CA, Beal C, Michaud M, Delaney ML, DuBois
+A, Khlebnikov A, van Hylckama Vlieg JE, Punit S, Glickman JN.
+Bifidobacterium animalis subsp. lactis fermented milk product reduces
+inflammation by altering a niche for colitogenic microbes. Proc Natl
+Acad Sci 2010;10718132–7..
+
+67. Mobini R, Tremaroli V, Ståhlman M, Karlsson F, Levin M, Ljungberg
+M, Sohlin M, Bertéus Forslund H, Perkins R, Bäckhed F. Metabolic
+effects of Lactobacillus reuteri DSM 17938 in people with type
+2 diabetes: a randomized controlled trial. Diabetes Obes Metab
+2017;19579–89.

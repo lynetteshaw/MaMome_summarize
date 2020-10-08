@@ -1,0 +1,528 @@
+56_PARAGRAPHS
+
+23 Department of Neonatology La Paz University Hospital, 28046 Madrid, Spain;.
+
+Abstract: Pregnancy induces a number of immunological, hormonal, and metabolic changes that are
+necessary for the mother to adapt her body to this new physiological situation. The microbiome of
+the mother, the placenta and the fetus inﬂuence the fetus growth and undoubtedly plays a major
+role in the adequate development of the newborn infant. Hence, the microbiome modulates the
+inﬂammatory mechanisms related to physiological and pathological processes that are involved in
+the perinatal progress through diﬀerent mechanisms. The present review summarizes the actual
+knowledge related to physiological changes in the microbiota occurring in the mother, the fetus,
+and the child, both during neonatal period and beyond. In addition, we approach some speciﬁc
+pathological situations during the perinatal periods, as well as the inﬂuence of the type of delivery
+and feeding..
+
+Pregnancy induces a number of immunological, hormonal, and metabolic changes necessary for the
+normal development of the fetus and for a timely onset of labor and successful delivery  It has been
+described that maternal microbiota inﬂuences prenatal and early postnatal oﬀspring development and
+health outcomes  There is a lack of consensus about the real nature of microbiome changes during
+pregnancy, since discrepant and unpredictable ﬁndings have been described  These diﬀerences
+could be explained by the diﬀerence in gestational age, genetics, ethnicity, and environmental factors
+surrounding the participants included in those studies. Indeed, it has been described that maternal
+microbiota composition during pregnancy is related to maternal diet  and by pre-pregnancy
+weight and weight gain over the course of pregnancy  Koren et al. described that the amounts
+of anti-inﬂammatory butyrate-producer commensal bacteria present in non-pregnant women gut
+microbiota decrease while bacteria associated with pro-inﬂammatory responses, such as Proteobacteria,
+increase during pregnancy  Similarly, bacterial diversity tends to be reduced in vaginal microbiota
+during pregnancy while increasing vaginal Streptococci along with several speciﬁc Lactobacilli strains,
+which are thought to prevent the growth of pathogenic bacteria, as well as to help human digestion,
+and inﬂuence host innate and adaptive immune system responses  Furthermore, the classical
+paradigm of the fetus as a sterile organism is under discussion, since a characteristic microbiome has
+been identiﬁed in the placenta, the amniotic ﬂuid, and the fetus in healthy pregnancies  However,
+this issue is under discussion. Perez-Muñoz et al. argued the weakness of evidence supporting the.
+
+“in utero colonization hypothesis”, due to methodological diﬃculties, and concluded that current
+scientiﬁc evidence does not support the existence of microbiome within the healthy fetal milieu 
+Gut microbiota inﬂuences the immune function  and thus may modulate the response
+through diﬀerent microbial-derived metabolites, especially short-chain fatty acids (SCFAs) such as
+butyrate, acetate, or propionate  These are the key drivers of T-cell subset proliferation and
+activity  Gastrointestinal bacteria generate SCFAs after fermentation of complex dietary
+carbohydrates. These metabolites may have an inﬂuence both in the mother and in the newborn by
+down-regulation of pro-inﬂammatory responses at the speciﬁc sites where the allergens are located,
+which typically precedes asthma in childhood  In addition, the may also inﬂuence bone marrow
+stimulation by reprogramming the immunological tone of the mammalian ecosystem .
+
+During pregnancy, the female body undergoes hormonal, metabolic, and immunological changes
+to preserve the health of both the mother and the oﬀspring  These changes alter the mother
+microbiota at diﬀerent sites such as the gut, the vagina, and the oral cavity. However, published data
+are not consistent, since a number of factors might inﬂuence the microbiota proﬁle such as the diet,
+antibiotic, or other supplement intakes, as well as the methodology of research. Therefore, a holistic
+approach is needed to understand all this information..
+
+The gut microbiota shifts substantially throughout the progression of the pregnancy and is
+characterized by reduced individual richness (alpha-diversity) (Figure 1), and increased inter-subject
+beta-diversity  These changes are not related to, although they may be inﬂuenced by, the diet,
+antibiotic treatments, gestational diabetes, or pre-pregnancy body mass index, but are vital for a healthy
+pregnancy  It has been suggested that other factors, such as the state of the host immune and
+endocrine systems, may actively contribute to the observed modiﬁcations  During the ﬁrst
+trimester, the gut microbiota pattern is similar in many aspects to that of healthy non-pregnant women,
+showing a predominance of Firmicutes, mainly Clostridiales, over Bacteroidetes  Then, maternal
+gut microbiota declines in butyrate-producing bacteria, while Biﬁdobacteria, Proteobacteria, and lactic
+acid-producing bacteria increase from the ﬁrst to the third trimester, when the microbiota resembles
+an unpredictably disease-associated dysbiosis that diﬀers greatly among normal pregnancies 
+Changes in the host immune system of the gastrointestinal mucosa together with metabolic hormonal
+changes may trigger a low-grade pro-inﬂammatory status that could facilitate an increased diﬀusion
+of glucose from the gut epithelium towards the lumen, and thus may induce weight gain while
+modifying the gut microbiota during normal pregnancies  Indeed, changes in the microbiota
+may contribute to the evolution of this process. In addition, disruption of maternal gut microbiota
+during the third trimester may aﬀect host metabolism in order to provide an energy supply for
+the fetus  Moreover, it has been reported that the gut microbiota during pregnancy is a critical.
+
+determinant of oﬀspring health  and that potentially determines the development of atopy and
+autoimmune phenotypes in the oﬀspring  However, the relationship among the immune system,
+the gut microbiota, and metabolism in pregnancy is unclear, and more research is needed to stablish
+ﬁnal conclusions..
+
+The composition of the vaginal microbiota is dynamic, corresponding with hormonal ﬂuctuations
+throughout the woman’s reproductive life, and also during pregnancy. A number of protective lactic
+acid-producing Lactobacillus species dominates the healthy vaginal microbiota in most reproductive-age
+women. These bacteria protect against vaginal dysbiosis and inhibit opportunistic infections through
+the direct and indirect protective eﬀects of Lactobacillus products, such as lactic acid and bacteriocin
+among others. Lactic acid decreases vaginal pH and thus inhibits a broad range of infections 
+can directly aﬀect host immune functions, by inhibiting pro-inﬂammatory responses, and also help
+to release mediators from vaginal epithelial cells and stimulate antiviral response  In addition,
+Lactobacillus-derived bacteriocins may inhibit pathogen growth  The degree of protection varies
+according to the predominant Lactobacillus specie  Vaginal dysbiosis is comprised of a wide array
+of strict and facultative anaerobes that correlate to increased risk of infection, diseases, and poor
+reproductive and obstetric outcomes .
+
+During normal pregnancy, the composition of the vaginal microbiota changes as a function of
+gestational age, with an increase in the relative abundance for Lactobacillus spp., such as L. crispatus,
+L. jensenii, L. gasserii, L. vaginalis, and a decrease in anaerobe or strict anaerobe microbial species, such as
+Atopobium, Prevotella, Sneathia, Gardenerella, Ruminococcaceae, Parvimonas, Mobilincus  Those authors
+reported for the ﬁrst time, that the composition and stability of the vaginal microbiota of normal
+pregnant women is diﬀerent from that of non-pregnant women. In fact, low risk pregnant women have
+more stable vaginal ﬂora throughout the pregnancy than non-pregnant women. Normal changes in
+the vaginal ﬂora during pregnancy are transitions to another Lactobacillus community, and this stability
+would protect against ascending infections through the genital tract. In addition, they reported that
+Lactobacillus communities vary depending on the ethnicity of the women conﬁrmed
+that vaginal microbiota richness and diversity remained stable during the ﬁrst and second trimesters
+of gestation in pregnancies ended at term, whereas in woman with preterm born, the richness and
+diversity decreased early in pregnancy. Therefore, early pregnancy may be an important environment,
+modulating preterm delivery. A meta-analysis reported signiﬁcant diversity diﬀerences in vaginal
+microbiomes in the ﬁrst trimester, between women with term and preterm outcomes, indicating
+a potential diagnostic utility of microbiome-related biomarkers  In addition, the increase of
+pathogens in the vagina is associated with complications of pregnancy, in particular with an increased
+risk of preterm birth and spontaneous abortion .
+
+Nutrients 2020, 12, x FOR PEER REVIEW 4 of 21  determines the development of atopy and autoimmune phenotypes in the offspring     Nutrients 2020, 12, 133.
+
+An increase in the microbial load in the oral cavity during pregnancy has been described. It has
+been hypothesized that pregnancy creates a nutrient environment that is more favorable to some
+sensitive strains  The presence of pathogenic bacteria Porphyromonas gingivalis and Aggregatibacter
+actinomycotemcomitans in gingival sulcus were signiﬁcantly higher during early and middle stages
+of pregnancy compared to non-pregnant women  The oral alpha-diversity index was higher
+in the third trimester compared to non-pregnant women, and this may be related to the increase of
+progesterone and estradiol.  One underlying mechanism refers to estrogens being substituted
+for vitamin K in bacterial anaerobic respiration, especially for black-pigmented Bacteroides such as
+Bacteroides melaninogenicus and Prevotella intermedia .
+
+The classical paradigm of fetal environment as a sterile harbor has traditionally explained that
+microbes, and thus microbiome, are acquired both vertically (from the mother) and horizontally (from
+other humans or from the environment) during and after birth. However, recent data have questioned
+the traditional accepted dogma of human microbiome acquisition, proposing that neither the placenta,
+the amniotic ﬂuid, nor the fetus are sterile..
+
+Several ﬁndings using both culture and metagenomic techniques have suggested the presence of
+a low biomass microbial community in the healthy placenta  The abundance of diﬀerent species
+of Lactobacillus, Propionibacterium, and members of the Enterobacteriaceae family have been detected
+by DNA-based studies in placental tissue of pregnant women at term and it is under debate 
+In addition, other authors have conﬁrmed a distinct microbiota in both the placenta and amniotic
+ﬂuid of healthy women at the time of elective C-section, characterized by low richness, low diversity,
+and the predominance of Proteobacteria  Similarly, other studies have found microbes in amniotic
+ﬂuid and umbilical cord blood in healthy asymptomatic women, as well as in those with pregnancy
+complications .
+
+However, it is unclear where the fetal microbiota comes from, and when is the ﬁrst fetal exposition.
+The presence of a diﬀerent placental microbiota compared to the vagina raises the possibility that
+the infant may be ﬁrst seeded in utero from other sources. Microorganism may pass through the
+placenta and colonize the fetus ascending from the vagina, from the oral cavity, from the urinary track,
+or from the intestinal lumen of the mother. These microorganisms may reach via the hematogenous
+route, the placenta, and then be transmitted to the fetus  Some of those oral bacteria, such as
+Fusobacterium nucleatum, may be transmitted hematogenously during placentation by binding to
+the vascular endothelium, and modifying its permeability and the translation of other common
+commensals, such as Escherichia coli  In addition, Franasiak et al. observed that Flavobacterium and
+Lactobacillus represent the majority of endometrial bacterium at the time of embryo transfer, supporting
+a new hypothesis of the endometrial environment participation .
+
+Diﬀerent studies have also detected microbiome in the ﬁrst baby fecal sample, the meconium,
+supporting the in utero exposure to bacteria  Staphylococcus has been reported as the most
+prevalent bacteria in meconium samples, followed by Enterobacteriaceae, Enterococcus, Lactobacillus,
+and Biﬁdobacterium even in infants born by C-section  Modiﬁcation in placental microbiota may
+be related with adverse pregnancy outcomes of pregnancy or symptoms of clinical infection .
+
+in oral and vaginal samples, they did not ﬁnd a characteristic placental microbiota, evidencing a sterile
+environment  Therefore, conclusions remain unachievable, and more studies are needed in
+this area..
+
+There is great controversy in the scientiﬁc community about the relationship of the meconium
+and infant gut microbiota proﬁle, and the type of delivery. Microbiome studies on early infancy
+have demonstrated a signiﬁcant inﬂuence of the mode of delivery on the microbiome composition,
+suggesting the likely association of the infant gut bacteria with maternal vaginal or skin microbiome
+habitats. A systematic review has concluded that the diversity and colonization pattern of the gut
+microbiota were signiﬁcantly associated to the mode of delivery during the ﬁrst three months of
+life, which is a critical period of life for immunological programming  However, the observed
+diﬀerences disappear after 6 months of infants’ life, when solid foods are included in the diet 
+It is important to clarify the inﬂuence of factors commonly accompanying C-section delivery on the
+microbiome, due to the potential inﬂuence on some non-communicable diseases, such as neonatal skin
+infection, asthma, allergies, obesity, inﬂammatory bowel disease, or type I diabetes mellitus .
+
+Vaginally delivered newborn have shown bacterial communities resembling their own mother’s
+vaginal microbiota, dominated by Lactobacillus, Prevotella, or Sneathia spp. In contrast, C-section-born
+infants harbored bacterial communities similar to those found on the skin surface niche, dominated by
+Staphylococcus, Corynebacterium, and Propionibacterium spp. or potentially pathogenic microbial
+communities such as Klebsiella, Enterococcus, and Clostridium  Other authors have reported that
+Biﬁdobacterium seem to be signiﬁcantly more frequent in vaginally compared
+with C-section delivered infants, which were mainly colonized by Clostridium and Lactobacillus 
+The high abundance of Biﬁdobacterium species in infants is considered to promote the maturation
+of the healthy immune system, while high presence of Clostridium diﬃcile is considered as one of
+the major intra-hospital hazards of severe gastrointestinal infections during infancy  Another
+study proposed that some species of Propionibacterium were most abundant in the meconium of
+vaginally delivered Chinese infants, whereas C-section-born children had higher amounts of Bacillus
+licheniformis.
+In addition, the diversity of the microbial composition was also higher in vaginal
+than in C-section deliveries, although no correlation with maternal microbiome was reported 
+Similarly, a metagenomic analysis found a Propionibacterium-enriched meconium in vaginal delivery
+mothers, which may proceed from skin or fecal microbes through direct contact during the natural
+labor  Therefore, there is no consensus regarding the most colonizable pattern of the ﬁrst
+microbiota community in the ﬁrst three days after birth, although it seems that according to phyla,
+vaginal deliveries are more related to Actinobacteria and Bacteroidetes, while C-section deliveries are
+more related to Firmicutes. In addition, it has also been suggested that the transfer of maternal vaginal
+microbes plays a minor role in seeding infant stool microbiota since the overlap of maternal vaginal
+microbiota and infant faecal microbiota is minimal, while the similarity between maternal rectal
+microbiota and infant microbiota was more pronounced .
+
+The discrepances of the results obtained could be due to diﬀerent factors associated to C-section
+delivery such as antibiotic administration, but also to breastfeeding, maternal obesity, gestational
+diabetes mellitus, and even the analytical methodology. In addition, the diversity from Firmicutes and
+Bacteroides colonization levels on infants gut microbiota may be inﬂuenced by geographical variation
+such as the latitude .
+
+Some authors have proposed that the lower presence of Biﬁdobacteria and Bacteroides, and the
+abundance of Clostridia and Lactobacillus, in infants delivered by C-section could be explained
+by perinatal antibiotics administration  Mothers delivering by C-section receive antibiotic
+prophylaxis before the beginning of surgery or, in some countries, after the cord clamping to minimize
+the direct exposure of the neonate to antibiotics 
+In addition, Azad et al. determined that
+intrapartum antibiotics both in C-section and vaginal deliveries are associated with infant gut.
+
+microbiota dysbiosis, although breastfeeding modiﬁes some of these eﬀects  Nevertheless,
+Martinez et al. performed antibiotic-free C-section delivery in mice and determined that these mice
+did not have the dynamic developmental gut microbiota changes observed in control natural born
+mice, evidencing the involvement of maternal vaginal bacteria in a proper metabolic development
+even in absence of antibiotics supporting the hypothesis of the antibiotic-modulated dysbiosis. It is
+worth to take into account that perinatal antibiotic administration may be associated with increased
+risk of developing morbidities such as asthma, allergies and obesity, which may be inﬂuenced by
+dysbiosis. In accordance, epidemiological data show that atopic diseases appear more often in infants
+born by C-section than after vaginal delivery .
+
+Furthermore, bacterial richness and diversity were lower in the infant gut of babies born after
+elective C-section and higher in emergency C-section, suggesting that colonization may be aﬀected
+diﬀerently in both situations. It is important to highlight that emergency C-section and vaginal delivery
+labor are frequently accompanied by rupture of fetal membranes, and exposing the fetus to maternal
+vaginal bacteria .
+
+Importantly, C-section may decrease the colonization of milk-digested bacteria including the
+genus Lactobacillus in newborns during the ﬁrst months of life  In addition, the mode of delivery
+has a relevant impact on the microbiota composition of colostrums and milk  which also may
+be inﬂuenced by antibiotics administrated during C-section. It has been proposed that infants born
+by C-section lacked the early provision of breast milk essential to attain a proper gut microbiota that
+contains microbes such as Lactobacilli and Biﬁdobacteria. This could explain the higher colonization
+rates of these genera in vaginal compared to C-section-delivered infants  In fact, Sakwinska et
+al. reported that only vaginal delivered and fully breastfed infants had gut microbiota dominated by
+Biﬁdobacteria .
+
+Finally, there are several potential preventive intervention strategies to restore the gut microbiota
+after C-section  The intervention could be focused on maternal administration of probiotics and
+prebiotics during gestation. There is a great interest about “seeding approaches” as “vaginal seeding” to
+reverse the eﬀects of C-section delivery mode on the microbiome in early life, but at the same time there
+are critical voices concerned about safety and eﬃcacy of this practice  In addition, the intervention
+could concentrate on the neonate using “seeding” methods such as encouraging breastfeeding instead
+of formula feeding, or the use of infant enriched formulas.
+In this sense, supplementation with
+symbiotic, the combination of synergistic pre- and probiotics, might oﬀer an innovative strategy to
+re-establish the delayed colonization of Biﬁdobacterium spp. in C-section-delivered children .
+
+Maternal diet establishes long-lasting eﬀects on oﬀspring gut microbial composition, which may
+have important clinical implications  Complex interactions between breast milk cytokines and
+microbiota guide the microbiological, immunological, and metabolic programming of infants’ health,
+which may explain the higher risk of obesity in infants with overweight and excessive weight gain
+mothers  In addition, data supporting the notion of bacterial translocation from the maternal gut
+to extra-intestinal sites during pregnancy are emerging and potentially explain the presence of bacteria
+in breast milk .
+
+Some authors have reported changes in meconium microbiota when delaying the collection of
+meconium samples by one day, supporting that the type of feeding or the environment has an inﬂuence
+after the birth, which may be more determinant to establish the intestinal microbiome during
+childhood  The type
+of feeding has an important impact on gut microbial composition in preterm infants. In preterm infants,
+breast milk has been associated with improved growth and cognitive development and a reduced
+risk of necrotizing enterocolitis and late sepsis onset  Occasionally, the absence of mother’s
+own milk (MOM) requires the use of donated human milk (DHM). A prospective cohort study has been
+launched to determine the impact of DHM upon preterm gut microbiota admitted in a neonatal intensive.
+
+care unit. Despite the high variability of DHMs, no diﬀerences in microbial diversity and richness
+were found, although feeding type signiﬁcantly inﬂuenced the preterm microbiota composition and
+predictive functional proﬁles. Inferred metagenomic analyses showed higher presence of Biﬁdobacterium
+in the MOM, a genus related to enrichment in the glycan biosynthesis and metabolism pathway, as well
+as an unclassiﬁed Enterobacteriaceae and lower unclassiﬁed Clostridiaceae compared with the DHM
+or in the formula fed groups. After adjusting for gender, postnatal age, weight, and gestational age,
+the diversity of gut microbiota increased over time and was constantly higher in infants fed their MOM
+relative to infants with other types of feeding. In addition, DHM favors an intestinal microbiome
+more similar to MOM despite the diﬀerences between MOM and DHM  Preterm infants are
+prone to develop free radical-associated conditions that may be inﬂuenced by the microbiota.
+In a recent study, urine oxidative stress biomarkers such as 8-hydroxy-deoxyguanosine 
+orto-tyrosine, and F2 isoprostanes, neuroprostanes, neurofurans, and di-homo-isoprostanes were
+longitudinally measured in preterm infants fed either MOM or DHM using validated mass spectrometry
+techniques. No signiﬁcant diﬀerences for any of the markers studied were found between preterm babies
+fed MOM or DHM  However, exfoliated epithelial intestinal cells transcriptome of preterm infants
+fed their MOM or a DHM induced a diﬀerential gene expression of speciﬁc genes which may contribute
+to a more eﬃcient antioxidant response in the postnatal period  Therefore, using DHM could have
+potential long-term beneﬁts on intestinal functionality, the immune system, and metabolism 
+However, available pasteurization methods cause changes that may blunt many of the positive aspects
+derived from the use of MOM  Further studies are needed to understand the complex links
+between microbiome and breastfeeding, its impact on health programming, and to develop sensitive
+methods capable of providing human milk as similar as possible to their MOM, when the latter is
+not available..
+
+Some studies have compared the fetal and mother microbiome in relation to adverse outcomes
+such as prematurity or low birth-weight without reaching ﬁrm conclusions. Ardissone et al. 
+compared the meconium microbiome in newborn before and after 33 weeks of gestation and concluded
+that Enterococcus and Enterobacter negatively correlated with gestational age, and Lactobacillus and
+Phortorhabdus were more abundant in newborns with less than 33 weeks of gestation. They indicated
+that the composition of the microbiome may be involved in the inﬂammatory response that
+leads to premature birth more than the colonization alone. Speciﬁcally, preterm subjects with
+severe chorioamnionitis had higher abundance of Ureaplasma parvum, Fusobacterium nucleatum,
+and Streptococcus agalactiae  The placental microbiome varies as a consequence of an excess
+of gestational weight gain, but is not related to obesity among women with spontaneous preterm
+birth. Indeed, this placental dysbiosis aﬀects diﬀerent bacterially encoded metabolic pathways that
+may be related to pregnancy outcomes  Furthermore, it has been reported high abundance of
+Burkholderia, Actinomycetales, and Alphaproteobacteria in placental samples from gravidae delivered
+preterm, and of Streptococcus and Acinetobacter in placental samples from patients with a history of
+antepartum urinary infection. In contrast, Paenibacillus predominated in term placental specimens 
+Other authors have proposed that the fetal intestinal microbiota derives from swallowed amniotic ﬂuid,
+and that they may trigger an inﬂammatory response which leads to premature birth  Considering
+that some Lactobacillus strains may possess potential anti-inﬂammatory activities, and could regulate
+blood glucose levels in diabetic humans  the low abundance of Lactobacillus in placentas of low
+birth weight neonates reported by Zheng et al. might be related to a pro-inﬂammatory status in
+these pregnancies. Thus, the higher sensitivity of fetal intestinal tissue to inﬂammatory stimuli may
+induce labor due to an immune-mediated reaction. However, as mentioned previously, the presence
+of placental microbiota is under discussion due to methodological doubts, and these data have to be
+discussed with caution..
+
+Finally, a number of bacteria, viruses, and protozoa infections have been associated with pregnancy
+complications. Liu et al analyzed the gut microbiome in pregnant women aﬀected by preeclampsia.
+They showed an overall increase in pathogenic bacteria such as Clostridium perfringens and Bulleidia
+moorei and a reduction in probiotic bacteria Coprococcus catus. A correlation between periodontitis and
+the risk of spontaneous abortion or miscarriage has also been described  More well-controlled
+studies should be carried out in order to identify interactions between pregnancy microbiome and
+mother and children health which might help to predict gestational and newborn complications and
+search for new therapeutic targets in adverse obstetrical conditions..
+
+Epidemiological evidence shows that 50% of women in childbearing age and 20%–25% of pregnant
+women in Europe can be aﬀected by overweight or obesity  increasing the cardiometabolic risk in
+mothers  Pregnancy-associated
+changes are diﬀerent in overweight or obese women compared to normal-weight pregnant women.
+Overweight pregnant women show a reduction in the number of Biﬁdobacterium and Bacteroides,
+and an increase in the number of Staphylococcus, Enterobacteriaceae, and Escherichia coli  Additionally,
+higher levels of Staphylococcus and Akkermansia muciniphila, and lower levels of Biﬁdobacterium were
+detected in women with excessive weight gain during pregnancy as compared to normal-weight
+ones  Consequently, this altered maternal microbiome will contribute to shape an altered
+composition of the oﬀspring’s microbiome and thus inﬂuence their future health..
+
+Vaginal-born neonates from overweight or obese mothers show increased numbers of Bacteroides
+and depleted in Enterococcus, Acinetobacter, Pseudomonas, and Hydrogenophilus  When speciﬁcally
+examining phyla level relative taxonomic abundance among preterm women by virtue of maternal
+weight gain, other authors have reported an appreciable and signiﬁcant increased abundance of
+Firmicutes, Actinobacteria, and Cyanobacteria, and decreased relative abundance of Proteobacteria 
+Furthermore, this altered maternal microbiota composition may be transferred from mother to fetus
+during the prenatal period .
+
+In addition, gut microbiota can induce obesity in children by several mechanisms. For example,
+lower amounts of Biﬁdobacteria can aﬀect weight gain in infants through mucosal host-microbe crosstalk,
+and immune and inﬂammatory dysregulation. Moreover, higher presence of Bacteroides, Clostridium,
+and Staphylococcus can stimulate greater energy extraction from food, combined with a reduced control
+of inﬂammation during the ﬁrst six months of life in infants of overweight mothers  These ﬁrst
+months of life are of great importance since rapid weight gain during this period is associated with
+an increased risk of obesity during childhood, and this inﬂuence is even more important than the birth
+weight .
+
+Critical illness itself or its treatment can inﬂuence the composition of microbiota 
+Although broad-spectrum antibiotics are probably the factor which further alters its composition,
+other factors can alter the ecosystem in which develops the microbiota, such as enteral or parenteral
+feeding, drugs administration, disease co-morbidities, central venous catheters, or intubation and
+mechanical ventilation. These studies have shown that the intestinal microbiota of critical patients
+has low diversity, with a shortage of key commensal bacteria and overgrowth of pathogenic bacteria
+such as Clostridium diﬃcile, and some species of Enteococcus, Escherichia and Shigella 
+In addition, the microbiota changes throughout the stay in the intensive care units (ICU)  and the
+possibility of pathogenic colonization increases with the time of stay in the unit..
+
+To our best knowledge, only one study has analyzed the microbiota in children in a pediatric ICU
+(PICU)  These authors found that the skin, oral, and fecal microbiota diﬀers sharply from critically
+ill children compared with healthy children and adults. They reported a PICU-associated dysbiosis
+with less alpha-diversity, diﬀerent composition (beta-diversity), and the loss of body site-speciﬁcity,.
+
+increasing the abundance of nosocomial pathogens across all body sites and reducing gut commensals
+such as Faecalibacterium  A number of studies have shown an association between the microbiota
+and the immune function 
+the function of the central nervous system  and the digestive
+system  Therefore, PICU-associated dysbiosis may contribute to malnutrition, nosocomial
+infection, neurocognitive alteration, organ dysfunction, and sepsis associated to critical illness 
+and may also have an eﬀect on the lung, the brain, and the kidneys .
+
+Critically ill patient conditions may contribute to changes in the oropharynx microbiota, such as the
+increase of Klebsiella or Pseudomonas proliferation. On one hand, sedation and endotracheal intubation
+decrease mucociliary clearance and cough, reducing the elimination of microorganisms. On the other
+hand, mechanical ventilation, pneumonia, and acute respiratory distress syndrome (ARDS) favor
+alveolar edema, increasing the amount of nutrients available and decreasing the amount of oxygen
+in some areas. These facts stimulate bacterial proliferation  and increase the risk of nosocomial
+infection and ARDS .
+
+In addition to the critical patients, associated dysbiosis, hypoperfusion, and reperfusion of the
+intestinal wall produce an intense inﬂammation of the digestive mucosa which alters the gradient of
+oxygen concentration and increases the concentration of nitrates favoring the growth of pathogenic ﬂora.
+Furthermore, the slowing down of intestinal transit, frequent drugs (sedatives, opioids, catecholamines),
+and the alteration of the mechanisms of microbial elimination (decreased production of bile salts and
+IgA, pharmacological alkalinization of pH, etc.) may also inﬂuence the alteration of the digestive
+functions  Freedberg et al. observed that colonization by some microorganisms prior to admission
+in ICU was associated with increased risk of infection by that same germ, and subsequently increased
+mortality  This fact indicates that the gastrointestinal microbiome can help stratiﬁcation and early
+identiﬁcation of the risk of ICU patient complications..
+
+The modiﬁcation of the normal microbiota pattern can contribute to the development of
+a systemic inﬂammatory response with increased cytokine production, sepsis, multi-organ failure,
+and morbi-mortality  In spite of variation in net incidence, neonatal sepsis remains one
+of the leading causes of preventable neonatal morbidity and mortality throughout the world. The main
+agents responsible for sepsis are group B Streptococcus (GBS), Escherichia coli, and coagulase-negative
+Staphylococci (CONS)  However, this scenario may be modiﬁed depending on the use of antibiotics
+and/or the implementation of non-culture diagnostic techniques .
+
+In recent years, there has been growing interest in the role of commensal bacteria in an individual´s
+susceptibility to infection. A few studies have evaluated the maternal vaginal microbiota in relation
+to GBS carrier status. Although it seems that some speciﬁc taxa might be associated with the
+presence of GBS  there is no apparent parallel reduction of the predominant commensal bacteria
+Lactobacilli  Indirect evidence suggests that the neonatal gut microbiome might be of relevance
+in GBS infection, since diﬀerent colonizing species have been found in the stool of infants from
+GBS positive and negative mothers, while the protective eﬀect of pre and probiotics has also been
+suggested .
+
+It seems that gastrointestinal microbiota might induce an increase in permeability, modulating gut
+and systemic immune response, and decreasing the tight junction integrity  As a consequence,
+intestinal bacteria can promote the systemic inﬂammatory response syndrome, facilitate bacterial
+translocation, and cause late-onset sepsis and necrotizing enterocolitis, especially aﬀecting premature
+neonates. Most, but not all, of the evidence suggests that premature newborns with low microbiome
+gut diversity, or with predominance of Staphylococcus, Firmicutes, and Proteobacteria are associated
+with increased risk for late-onset sepsis compared to those premature infants at lower risk 
+Furthermore, gut colonization with Biﬁdobacterium and increased presence of prebiotic oligosaccharides
+in feces, has been related to less disruption of the mucosal barrier and gut epithelial translocation,.
+
+providing an improved gut development and protection 
+It remains unclear if invasion of
+the bloodstream during sepsis is caused by the same microorganisms identiﬁed in stool or by
+others  in which case the gut microbiota would act as a facilitating mechanism by interfering with
+the gut barrier or intestinal immune function. Further studies are needed to tease out if the diﬀerences
+observed in gut colonization in ICU patients predispose to sepsis or if they respond to other factors
+such as the diet, site diﬀerences in initiating and advancing feeds, breastfeeding, the use of antibiotics,
+or interpatient transmission within the neonatal intensive care units .
+
+Allergy disorders represent an important global health burden with an increasing prevalence in
+infants and children, mainly as food allergies, atopic eczema  and respiratory pathologies such as
+rhinitis  Their causes are multifactorial and contemplate interactions between
+genetic, environmental, and socioeconomic factors leading to diﬀerent symptoms or phenotypes 
+Among this heterogeneity, a restricted microbial exposure at early life seems to play an important role
+inﬂuencing allergic diseases, and asthma onset .
+
+Eczema or atopic dermatitis (AD) is the ﬁrst typical allergic manifestation in newborns 
+A recent study has reported a high proportion of Faecalibacterium prausnitzii on the gut microbiome
+from AD subjects. The presence of these bacteria is lower in Crohn’s disease patients, as well as
+anti-inﬂammatory fecal bacteria metabolites  Besides, it has been shown that infants with AD
+improved their symptomatology when the abundance of fecal Coprococcus eutactus, a butyrate-producing
+bacterium, is increased  Consequently, it has been proposed that dysbiotic gut microbiota and
+subsequent dysregulation of the gut inﬂammation may promote an aberrant Th2-type immune response
+to allergens altering the epithelial barrier in AD skin .
+
+Available literature on animal models suggests that gut microbiome may have an important role
+in the susceptibility to food sensitization and food allergy, mainly at early stages of life  Chen et
+al. recently showed both lower microbiota alpha-diversity and altered gut microbiota composition
+(an increased number of Firmicutes in detriment of Bacteroidetes) in children with food sensitization in
+early life compared with children without these conditions. Among the causes, the increasing use of
+antibiotics both in humans and in agriculture, and the lower intake of dietary ﬁber may have an impact
+on these situations .
+
+Allergies are the strongest risk factors for childhood asthma in Western countries  but the
+relationship between asthma and the microbiota is not clear. Although it seems that the diversity
+of the gut microbiota in infancy is even more determinant for asthma onset than the prevalence of
+speciﬁc bacterial taxa, it has been suggested that there might be speciﬁc important bacterial species
+related to the prevention of asthma, and that gut microbial diversity during the ﬁrst month of life
+may be the most important factor associated with asthma development at school age than with other
+allergic manifestations  In addition, another study has indicated that the neonatal gut microbiota
+inﬂuences susceptibility to childhood allergic asthma via alterations in the gut microenvironment
+that modulates CD4+ T-cell proliferation and functions. These authors have observed a characteristic
+depletion of dihomo-γ-linoleate, a precursor of anti-inﬂammatory ω-3 polyunsaturated fatty acid and
+prostaglandins that may be related .
+
+As described previously, diﬀerent factors have been associated with infant microbiome and the
+risk of asthma, such as furry pets exposure  gestational age, the mode of delivery (vaginal vs.
+C-section), and antibiotic treatment (direct vs. indirect via mother) among others  However,.
+
+there is no doubt that a key issue is the type of feeding. A systematic review addressing the eﬀect of
+breastfeeding in the development of asthma concluded that children who were breastfed for a longer
+time during the ﬁrst two years of life had a lower risk of developing asthma, and this eﬀect could be
+mediated by an adequate and early shaping of the gut microbiota  although whether the
+dysbiotic microbiota is the cause or the consequence of atopic and allergic diseases is still unknown 
+Besides, interventional studies have suggested that pre- and probiotics could prevent or down-regulate
+the severity of some diseases, such as asthma or allergies, but the biological mechanisms, as well as the
+best taxa or type of intervention, require further research .
+
+The role of microbiome diversity and its variations in the incidence and susceptibility to infection
+has also aroused great interest beyond the neonatal period. In view of the interaction between the
+microbiota and the immune system, the implications are probably major and remain challenging,
+but for some authors, is even more attractive the idea of its usefulness as a diagnostic tool, a preventive
+strategy, or even a therapeutic target. As described in the neonatal period, in most infectious diseases
+scenarios, a decrease in alpha and beta diversity of the microbiota seems to be present. Regarding
+respiratory infections, diversity of the oropharyngeal and nasopharyngeal microbiota in children
+with pneumonia was lower compared with healthy controls. Furthermore, a correlation between the
+presence of certain taxa in sputum and the clinical course of community acquired pneumonia has been
+described .
+
+HIV infected children present reduced gastrointestinal microbial diversity  Modulation of
+the intestinal microbiome through nutritional supplementation, with the aim of decreasing bacterial
+permeability, has been attempted in the context of HIV infection with scarce success 
+In addition, the microbiome has been suggested to impact the risk of diﬀerent infectious diseases.
+Both vaginal and penile microbiotas modify the risk of sexual acquisition of HIV, due to their inﬂuence
+on inﬂammatory pathways and metabolization of antiretroviral drugs  Recent studies have
+shown how an altered vaginal microbioma increases the risk of vertical transmission of HIV 
+These studies beautifully exemplify the potential inﬂuence of the microbiome on the risk of infections,
+as well as its implications in pharmacokinetics modulating bacterial metabolism..
+
+Finally, based on the potential role of the gut microbiota as a modulator of the immune function,
+attempts of supplementation with pre and probiotics have also been carried out. Two randomized
+controlled trials have analyzed the impact of probiotic supplementation on children with acute
+gastroenteritis without proving any beneﬁcial clinical outcome  Supplementation with
+prebiotics or probiotics may also enhance vaccine response and thus becomes a new tool for the
+improvement of vaccine eﬃcacy  However, results have been controversial in this ﬁeld and
+warrant further investigation. The evidence for a beneﬁcial eﬀect of probiotics on vaccine response was
+strongest for oral vaccinations and for parenteral inﬂuenza vaccination, and depended on the choice of
+probiotic, strain, dose, viability, purity, and the time and duration of administration .
+
+38. Kornman, K.S.; Loesche, W.J. Eﬀects of estradiol and progesteroneon Bacteroides melaninogenicus and Bacteroides.
+
+100. Hussen, H.I.; Persson, M.; Moradi, T. Maternal overweight and obesity are associated with increased risk
+of type 1 diabetes in oﬀspring of parents without diabetes regardless of ethnicity. Diabetologia 2015, 58,
+1464–1473. [CrossRef].
+
+ﬁrst 6 months of life and obesity at 3 years of age. Pediatrics 2009, 123, 1177–1183. [CrossRef].
+
+133. Bousquet, J.; Khaltaev, N.; Cruz, A.A.; Denburg, J.; Fokkens, W.J.; Togias, A.; Burnham, C.A.; Weinstock, E.S.;
+Weinstock, G.M.; Wylie, T.N.; et al. Allergic Rhinitis and its Impact on Asthma (ARIA) 2008 update (in
+collaboration with the World Health Organization, GA
+8–160. [CrossRef] [PubMed].
+
+138. Song, H.; Yoo, Y.; Hwang, J.; Na, Y.C.; Kim, H.S. Faecalibacterium prausnitzii subspecies-level dysbiosis
+in the human gut microbiome underlying atopic dermatitis. J. Allergy Clin. Immunol. 2015, 137, 852–860.
+[CrossRef].
+
+161. Schnadower, D.; Tarr, P.I.; Casper, T.C.; Gorelick, M.H.; Dean, J.M.; O’Connell, K.J.; Mahajan, P.; Levine, A.C.;
+Bhatt, S.R.; Roskind, C.G.; et al. Lactobacillus rhamnosus GG versus Placebo for Acute Gastroenteritis in
+Children. N. Engl. J. Med. 2018, 22, 2002–2014. [CrossRef]

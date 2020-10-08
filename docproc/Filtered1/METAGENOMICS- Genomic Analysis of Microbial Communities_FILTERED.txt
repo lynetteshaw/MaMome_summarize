@@ -1,0 +1,599 @@
+77_PARAGRAPHS
+
+Obtaining bacteria in pure culture is typically the ﬁrst step in investigating bacterial
+processes. However, standard culturing techniques account for 1% or less of the
+bacterial diversity in most environmental samples  Although some signiﬁcant
+breakthroughs have resulted from recent attempts to culture the as-yet-unculturable
+bacteria  a suite of culture-independent techniques are needed to
+complement efforts to culture the thousands or millions of unknown species in the
+environment..
+
+A new era of microbial ecology was initiated when sequencing of ribosomal
+RNAs and the genes encoding them was introduced to describe uncultured bacteria
+in the environment. The ﬁrst approach was to sequence clones from a 5S rRNA
+cDNA library derived from the symbiotic community within the tubeworm Riftia
+pachyptila  Variations of this method generated a set of culture-independent
+techniques to (a) reconstruct phylogenies, (b) compare microbial distributions
+among samples using either nucleotide sequence or restriction fragment length
+polymorphisms (RFLPs), and (c) quantify the relative abundance of each taxo-
+nomic group using membrane hybridization or ﬂuorescent in situ hybridization (2,
+47, 57, 78–80)..
+
+The most startling result of the many microbial diversity studies that have
+employed 16S rRNA culture-independent methods is the richness of the uncultured
+microbial world. As of April 1, 2004, GenBank contained 21,466 16S rRNA genes
+from cultured prokaryotes and 54,655 from uncultured prokaryotes, according to
+the search terms described by Rapp´e & Giovannoni  and many of those from
+uncultured organisms afﬁliate with phyla that contain no cultured members. When
+Woese originally proposed a 16S rRNA-based phylogeny, 12 bacterial phyla
+were recognized, each with cultured representatives. Since then, 14 additional
+phyla with cultured representatives have been identiﬁed. In addition, 16S rRNA
+gene sequence analysis suggests 26 candidate phyla that have no known cultured
+representatives  Therefore, half of the known microbial phyla have no cultured
+representatives..
+
+Among the phyla that contain cultured members, a few contain many isolates
+and the rest contain too few to represent the full spectrum of diversity in the
+phylum. For example, Hugenholtz found that 97% of prokaryotes deposited
+in the Australian Culture of Microorganisms in 2001 were members of just four
+phyla: the Proteobacteria  and.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Bacteroidetes  Within GenBank, 76% of the 16S rRNA gene sequences of
+cultured prokaryotes are from these four groups. But other phyla may be more
+diverse, prevalent, and ecologically consequential in the environment. 16S rRNA
+gene sequences from the Acidobacterium phylum are among the most abundant
+in clone libraries obtained from soil and have been found in all soils examined,
+suggesting that the Acidobacteria play important roles in soil ecosystems. How-
+ever, of the 684 Acidobacterium 16S rRNA gene sequences in GenBank, only 19
+are from cultured isolates, providing an inadequate collection to describe
+the physiological diversity of the phylum. Other than 16S rRNA gene sequences,
+little is known about the bacteria within the 22 poorly cultured phyla and 26 candi-
+date phyla. Many terms, such as unculturable, uncultivated, as yet uncultured, and
+not yet cultured, are used to refer to microorganisms that we know of only through
+culture-independent means. In this review, we refer to them as uncultured..
+
+Describing the phylogenetic diversity of uncultured microorganisms is only the
+ﬁrst step. A greater challenge is to assign ecological roles to them. The uncultured
+microbiota must play pivotal roles in natural environmental processes and are a
+large untapped resource for biotechnology applications. Exploiting the rich micro-
+bial biodiversity for enzyme and natural product discovery is an active research
+area that has been reviewed elsewhere  This re-
+view discusses the application of culture-independent genomics-based approaches
+to understand the genetic diversity, population structure, and ecology of complex
+microbial assemblages .
+
+“Metagenomics” describes the functional and sequence-based analysis of the col-
+lective microbial genomes contained in an environmental sample (Figure 1) 
+Other terms have been used to describe the same method, including environ-
+mental DNA libraries  eDNA
+libraries  whole genome treasures
+ and
+probably others. In this review, we use metagenomics to describe work that has
+been presented with all of these names because it is the most commonly used term
+ was used for the title of the ﬁrst
+international conference on the topic (“Metagenomics 2003” held in Darmstadt,
+Germany), and is the focus of an upcoming issue of the journal Environmental Mi-
+crobiology. The deﬁnition applied here excludes studies that use PCR to amplify
+gene cassettes 
+since these methods do not provide genomic information beyond the genes that are
+ampliﬁed. Many environments have been the focus of metagenomics, including
+soil, the oral cavity, feces, and aquatic habitats, as well as the hospital metagenome,
+a term intended to encompass the genetic potential of organisms in hospitals that
+conribute to public health concerns such as antibiotic resistance and nosocomial
+infections .
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Figure 1 Metagenomics involves constructing a DNA library from an en-
+vironment’s microbial population and then analyzing the functions and se-
+quences in the library..
+
+The concept of cloning DNA directly from an environment was initially sug-
+gested by Pace  who constructed
+a λ phage library from a seawater sample and screened it for 16S rRNA genes.
+Advances by the DeLong group in cloning DNA directly from seawater provided
+the landmark work that launched the ﬁeld  Development of metagenomic
+analyses of soil was slower than with seawater because of the technical challenges
+of cloning DNA from the complex matrix of soil, which contains many compounds
+that bind to DNA or inhibit the enzymatic reactions required for cloning. Signiﬁ-
+cant progress has been made, producing libraries that have substantially advanced
+understanding the functions in the soil community  The past eight years have
+witnessed an explosion of interest and activity in metagenomics, accompanied by
+advances in technology that have facilitated studies at a scale that was not feasible
+when the ﬁeld began. For example, the seminal paper in 1996 by Stein et al. 
+reported the sequencing and reconstruction of a 40-kb fragment from an uncultured
+marine archaeon, which was a major undertaking at the time. In 2004, Venter et al.
+reported their attempt to sequence the entire metagenome of the Sargasso
+Sea by obtaining over 1 million kb of nonredundant sequence. The advances in
+sequencing technology have expanded the approaches and questions that can be.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Diverse activities have been discovered by functional analysis of metagenomic
+libraries. New antibiotics  hydrolytic and degrada-
+tive enzymes 
+antibiotic resistance enzymes have been
+identiﬁed. The diversity of functionally active clones discovered in metagenomic
+libraries validates the use of functional screens as one means to characterize the
+libraries. Antimicrobial screens have revealed new antibiotics such as terragine
+ as well as previously
+described antibiotics such as indirubin  Most of these com-
+pounds are structurally based on common cell substituents, such as amino acids,
+and none requires more than a few genes for its synthesis. The goal of identify-
+ing new polyketide, macrolide, and peptide antibiotics may require different
+methods. Enhancing expression of genes in metagenomic libraries may lead to dis-
+covery of a wider array of natural products. This will be accomplished by moving
+the libraries into alternative hosts, such as Streptomyces, which was the basis for
+discovery of terragine  Alternative hosts may enhance gene expression or
+provide starting materials that Escherichia coli does not contain. E. coli can be en-
+gineered to express a wider range of functions by introducing genes encoding new
+sigma factors, rare tRNAs, or functions required to synthesize starting materials.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only..
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+for antibiotic biosynthesis that are deﬁcient in E. coli. Alternatively, sequences that
+carry conserved regions of genes associated with antibiotic biosynthesis, such as
+the polyketide synthases and peptide synthetases, may be identiﬁed by sequenced-
+based screens that do not require heterologous gene expression. This approach
+successfully identiﬁed clones carrying a novel hybrid polyketide synthase-peptide
+synthetase gene cluster from an uncultured bacterial symbiont of a beetle .
+
+Novel enzymes have been revealed in metagenomic libraries by screening
+clones directly for activity  Pigments have been identiﬁed by visual
+inspection  These methods require handling individual clones, usually
+in an array format. Because the frequency of active clones is low, high-throughput
+methods are essential for efﬁcient screening. Selection for the ability to grow on
+hydroxyl-butyrate as the sole carbon and nitrogen source provided a powerful
+selection for clones carrying new degradative enzymes  and selection for an-
+tibiotic resistance identiﬁed new antibiotic resistance determinants from soil (22,
+92) and from oral ﬂora .
+
+Linking new functions with the organisms from which they were cloned will
+facilitate ecological inferences and may lead to culturing strategies for uncultured
+species. Several approaches have been used to identify the phylogenetic origin
+of functionally active clones. First, to determine which phylogenetic groups are
+represented in a metagenomic library, 16S rRNA gene libraries have been con-
+structed using DNA from the metagenomic library as the template for PCR (43,
+63, 68, 96, 117). Comparing the phylogenetic distribution of 16S rRNA sequences
+in the environmental sample and the metagenomic library can reveal biases in
+library construction  The nucleotide sequence of the genes that ﬂank the.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+region of functional interest can provide the basis for inferences about phylogeny
+that are supported by similarity of the ﬂanking genes to genes of known function
+in GenBank  Conclusions from these analyses must be treated
+cautiously because horizontal gene transfer and the lack of functional homologues
+in the database may confound the results, leading to matches in ﬂanking DNA
+originating in two different phyla  However, the presence of many cloned
+genes on a clone that all show similarity to genes from related organisms can bol-
+ster phylogenetic claims. Analyses of G + C content and codon usage within the
+region of interest and the ﬂanking gene sequences may suggest the phylogenetic
+origin of the cloned DNA, although this approach has not been widely successful
+to date .
+
+Concerted effort devoted to ﬁnding clones carrying phylogenetic anchors from the
+least known taxons has produced impressive collections of clones derived from
+some of these groups. Sequence analysis of the DNA that ﬂanks phylogenetically
+informative genes has provided the ﬁrst glimpses into the genetic potential of taxa
+that contain no cultured members (Table 2). rRNA genes are the most widely
+used anchors  and radA/recA homologues
+have been informative as well. Other genes that contain phylogenetic in-
+formation but have not been used in metagenomic analyses include DNA gyrase
+ ATPase
+β-subunit  σ 70-type
+sigma factor  The phylogenetic anchor ap-
+proach has been a rich source of information that can be used to develop hypotheses
+about the function and physiology of uncultured members of microbial commu-
+nities that were previously known only by their 16S rRNA gene signature. Use
+of more phylogenetic anchors will increase the frequency of functionally active
+clones that also contain anchors..
+
+Genomic information about uncultured bacteria may hasten development of media
+for their culture  This will be a needed boost to the laborious
+work that has led to signiﬁcant recent advances in culturing technology (56, 89,
+99, 127). The Acidobacterium phylum has been largely recalcitrant to culturing.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Metagenomics has provided the ﬁrst information beyond 16S rRNA gene se-
+quences about the uncultured Acidobacterium subgroups based on partial and
+full-length sequencing of six fosmid clones (∼35 kb each; 85) and 12 BAC clones
+from uncultured soil Acidobacterium members. Two of the clones are
+from members of Acidobacterium Group III, ﬁve are from Group V, and 11 are
+from Group VI. These clones provide a preliminary indication that the Acidobac-
+terium phylum contains substantial genetic diversity. Among the Group V clones,
+for example, the G + C content of one is 56% and the other four range from 62%
+to 68%, while the one cultured member of this group, A. capsulatum, has a G + C
+content of 60%. Some of the metagenomic clones that afﬁliate with the Acidobac-
+terium phylum have been fully sequenced, revealing many genes with homology
+to housekeeping genes involved in DNA repair, transport, cell division, transla-
+tion, and purine biosynthesis. Other gene sequences include those with homology
+to genes encoding cyclic β 1(cid:2)-2(cid:2) glucan synthetase, polyhydroxybutyrate depoly-
+merase, Bacteroides fragilis aerotolerance functions, and an operon distantly re-
+lated to the lincomycin biosynthesis pathway of Streptomyces lincolnensis 
+which provide hints about ecological roles of the Acidobacteria..
+
+Ten of the 22 ORFs on one Acidobacterium fosmid clone showed homology
+to genes from members of the Rhizobiales within the α-Proteobacteria phylum
+ Comparison of the fosmid sequence to the gene sequences from Rhodopseu-
+domonas palustris and Bradyrhizobium japonicum, Quaiser et al. revealed
+a colinear 10-kb region containing eight ORFs, which had homology to genes
+encoding a penicillin-binding protein, zinc metalloprotease, hydroxybutyrate de-
+polymerase, and a highly conserved two-component histidine kinase response reg-
+ulator. A phylogenetic analysis of the response regulator indicated that one gene
+afﬁliated within the Rhizobiales and the second gene afﬁliated with other groups
+in the α-Proteobacteria. This 10-kb region was contiguous to an Acidobacterium-
+type rrn operon, suggesting that this region might be the product of horizontal
+gene transfer .
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+A particularly fruitful application of metagenomics to Archaea has been the
+study of the symbiotic community of an Axinella sp. sea sponge 
+In a culture-independent 16S rRNA gene survey, Preston et al. found that
+65% of the symbiotic community associated with the sponge was represented by a
+single archaeal 16S rRNA gene sequence. They proposed the name Cenarchaeum
+symbiosum for the uncultured archaeal symbiont. Schleper et al. then
+constructed fosmid libraries of the prokaryotic community and identiﬁed 15 unique
+clones that harbored 16S rRNA genes..
+
+Analysis of the 15 clones revealed genetic variation within the C. symbiosum
+population and provided insight into the role of the population within the sponge
+ After identifying two 16S rRNA sequence variants that differed by two
+point mutations over a 590-bp region, they sequenced one fosmid clone from each
+variant. The 16S genes of the two clones were 99.2% identical while the 28-kb
+colinear region that they shared had 87.8% overall DNA identity, and 91.6% simi-
+larity in ORF amino acid sequence. Of the 17 ORFs in the 28-kb region shared by
+the two variants, eight had no known function, and the others had functions related
+to heme and menaquinone biosynthesis, glycolysis, DNA replication and repair,
+protein folding, and DNA methylation. The DNA polymerase found in this region
+was expressed and characterized in an E. coli host  The complete genome
+sequence of C. symbiosum will contribute to understanding its biology and symbi-
+otic relationship with its sponge host. There is precedent for this in the symbiosis
+between the aphid Baizongia pistacea and the bacterium Buchnera aphidicola.
+B. aphidicola is found in pure culture as an endosymbiont of its host. The complete
+genome sequence for the bacterium revealed a complex biochemical symbiosis be-
+tween the partners in which each partner had lost biochemical functions that the
+other conducted for both of them  The B. aphidicola system illustrates the
+power of genomics to elucidate the biology of uncultured microorganisms..
+
+Discovery of the rhodopsin-like photoreceptors in marine Bacteria exempliﬁes the
+type of biological surprise that can be revealed through metagenomic analysis.
+Previously, rhodopsins had been found only in Archaea, not in members of the do-
+main Bacteria. B´ej`a et al. sequenced a 130-kb fragment that contained the 16S
+rRNA operon of an uncultured γ -Proteobacterium (the SAR 86 group) and dis-
+covered a bacteriorhodopsin, which indicated a novel taxon of marine phototroph.
+The bacteriorhodopsins couple light-energy harvesting with carbon-cycling in the
+ocean through nonchlorophyll-based pathways, and the new homologue was ex-
+pressed in E. coli and shown to bind retinal and form an active, light-driven,
+proton pump. Subsequent studies showed that many marine Proteobacteria harbor
+“proteorhodopsins,” that are optimized for various light wavelengths at different.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+ocean depths  This line of research was successful at show-
+ing that bacteria that harbor proteorhodopsin variants are widespread, and recent
+work by Venter et al. using a shotgun sequencing approach revealed that
+the class of proteorhodopsins previously observed is a small subset of the total
+proteorhodopsin diversity..
+
+As sequencing technology has improved, it has become feasible to sequence the
+entire metagenome of an environmental sample. Most environments contain com-
+munities far too complex for it to be possible to sequence a complete metagenome,
+and even the simple communities contain microheterogeneity that makes most
+genome reconstructions simpliﬁed versions of reality. However, it is useful to re-
+fer to a metagenome, just as it is useful to refer to the human genome, although it
+is widely recognized that the true human genome is far more complex and variable
+than the published genomic sequence, which is based on a few of the 6 × 109
+members of the species. Reconstruction was initially pursued for viral commu-
+nities in the ocean and human feces and has since been attempted in an
+acid mine drainage (AMD) bioﬁlm  The AMD
+bioﬁlm community was ideal for complete metagenome sequencing because 16S
+rRNA gene sequencing indicated that there were three bacterial and three archaeal
+species in the bioﬁlm. Marine communities contain far greater species richness,
+on the order of 100 to 200 species per ml of water  making the sequencing
+and assembly effort considerably more difﬁcult. Further out on the continuum
+of biological complexity is soil, with an estimated species richness on the or-
+der of 4000 species per gram of soil  Sequencing the soil metagenome
+requires faster and less expensive sequencing technology than currently avail-
+able. Meanwhile, soil metagenomics continues to focus on targeted biological
+questions, thereby elucidating a slice of the community’s function by genomic
+analysis..
+
+Microbial communities are dominated by bacteria, and bacterial populations are
+dominated by bacteriophage. Bacteriophages inﬂuence the diversity and popula-
+tion structure of microbial communities  Like their bacterial counterparts,
+most bacteriophages have never been studied in the laboratory because they rep-
+resent staggering diversity  and many of their hosts have not been cultured.
+Complete viral genome sequences are also necessary for viral phylogeny studies
+since there is no equivalent to the 16S rRNA gene for virus phylogeny. Using
+metagenomic analyses, two recent studies examined phage diversity of the human
+gut and marine environments..
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+The microbial community within the human gut is complex, consisting of more
+than 400 species  To investigate the phage population in the human gut, Breit-
+bart et al. conducted a metagenomic analysis of the viral community in human
+feces. They constructed a library containing random fragments of viral DNA from
+a preparation of virus particles isolated from a 500-g human fecal sample, end-
+sequenced 532 clones, and found that 59% of them did not contain signiﬁcant
+similarity to previously reported sequences. The viral community contains ap-
+proximately 1200 genotypes, which probably outnumber the bacterial species in
+the human intestine. The viral community may affect community structure by in-
+fecting and lysing particular members of the bacterial community and enhancing
+its diversity by mediating genetic exchange between bacteria..
+
+In another study, Breitbart et al. described a metagenomic analysis of
+marine phage collected at two locations. In total, almost 2000 viral sequences
+were obtained. The results suggest that the phage populations differed between
+the two marine locations and between the marine and fecal samples. For instance,
+T7-like podophages comprised over 30% of the marine phage types and less
+than 6% of the fecal phage types  The predominance of gram-positive bacteria
+in the gut and gram-negative bacteria in seawater is at least partly responsible for
+the substantial difference in viral communities..
+
+Acid mine drainage results from bacterial iron oxidation, which leads to acidiﬁca-
+tion due to dissolution of pyrite in abandoned mines  The microbial bioﬁlm
+growing in the AMD in the Richmond mine at Iron Mountain, California, has a
+pH of 0.83, temperature of 43◦C, and high concentrations of Fe, Zn, Cu, and As
+ends of 384 16S rRNA genes obtained from the
+bioﬁlm revealed members of Leptospirillum groups II and III, Sulfobacillus sp.,
+Ferroplasma sp., “A-plasma,” and “G-plasma.” There are also protists containing
+Rickettsiales-type endosymbiotic bacteria .
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+BIOGEOCHEMISTRY With a metagenome sequence, Tyson et al. set out to
+determine the ecological role of each of the ﬁve prokaryotes in the acid mine
+drainage. Genes that would enable most of the organisms to ﬁx carbon via the
+reductive acetyl coenzyme A pathway were identiﬁed within each of the genome
+sequences. Based on the many genes in the Ferroplasma type I and II genomes that
+have signiﬁcant similarity to sugar and amino acid transporters, they predicted that
+these Ferroplasma spp. preferred a heterotrophic lifestyle. The only N2 ﬁxation
+genes that were identiﬁed in the metagenome belonged to the genome of the Lep-
+tospirillum group III population. Because of its specialized role in the environment
+and relatively low abundance  Leptospirillum group III was proposed as a
+keystone species. They tested and supported this hypothesis by isolating Leptospir-
+illum group III in pure culture from a N2-based enrichment (J.F. Banﬁeld, personal
+communication). Other genes that are potentially responsible for microaerophilic
+survival, bioﬁlm formation, acid tolerance, and metal resistance were observed..
+
+Many of the hypotheses suggested in the AMD study will be evaluated by con-
+structing microarrays and developing new techniques for isolating the uncultured
+prokaryotes  The simplicity of the community and the differences in G +
+C content of its members facilitated the powerful genomic reconstruction in the
+AMD bioﬁlm. The genomics, coupled with keen insight into the chemistry of the
+environment, produced inferences and hypotheses that will lead to future studies
+to culture each of the community’s members and unravel the complex interactions
+that produce this extreme environment..
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+The ideal phylogenetic anchor would be equally represented in all species. The 16S
+rRNA genes do not meet this standard because microorganisms differ in the number
+of rrn operons they carry in their genomes, with a range of 1 to 15  If the number.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+An alternative to ﬁnding phylogenetic anchors on a DNA fragment encoding a
+function of interest is to ﬁnd fragments of the genome that are linked to the one
+of interest and search for phylogenetic anchors on them. This method increases
+the effective size of the contiguous piece of DNA that is being analyzed without
+requiring an increase in the size of the inserts in the library. To ﬁnd fragments that
+are linked in a simple community, a library with high redundancy is needed. The
+clones can be blotted on a membrane and then probed with the clone of interest to
+identify those that have an end overlapping with it or clones can be screened
+by PCR for overlapping regions  Neither of these methods has been reported
+as successful, but this is an area of rapid development and functional methods will
+likely be established in the future..
+
+Constructing metagenomic libraries from environmental samples is conceptu-
+ally simple but technically challenging. If seawater contains 200 species per
+ml  then the metagenome would contain 1 Gbp of unique DNA. To ob-
+tain greater than single sequencing coverage, the size of a metagenomic library
+would need to be many times the size of the metagenome. Because members
+of a community are not equally represented, it is likely that a metagenomic
+library of minimum coverage would only represent the genomes of the most
+abundant species. To obtain substantial representation of rare members (<1%)
+of the community, the library would likely need to contain 100- to 1000-fold
+coverage of the metagenome. A library of 500 Gbp might be required to capture
+the species richness in 1 ml of seawater. Cloning the metagenome of soil, with
+a species richness 20-fold higher than seawater  would be a considerably
+more daunting prospect  These examples illustrate several chal-
+lenges in constructing and interpreting information from metagenomic libraries:
+(a) a large amount of DNA must be isolated and cloned from a small sample,
+(b) many clones and sequences must be processed to provide meaningful data, and
+(c) lognormal-type population distributions make it difﬁcult to represent the minor
+species from a sample. Each of these challenges is being addressed, and several
+studies evaluating methods for library construction have been published (10, 33, 34,
+37, 44)..
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Strategies for library construction vary depending on the intended study of the
+resulting library. Libraries containing large DNA fragments are constructed in
+lambda phage, cosmid, fosmid, and BAC vectors. Most of the reported large-
+insert metagenomic libraries contain fewer than 100,000 clones (Tables 1 and 2)
+and are several orders of magnitude too small to capture the entire microbial diver-
+sity present in the complex communities they represent. Although increasing the
+library size is a worthy goal, existing libraries have provided useful insights into the
+microbial ecology of several ecosystems in the absence of complete metagenome
+coverage..
+
+Small-insert libraries have a signiﬁcant advantage over large insert libaries be-
+cause to obtain small inserts the microorganisms can be lysed by harsh methods
+that would shear DNA too much to obtain large inserts. Bead beating, for example,
+extracts DNA from diverse Bacteria and Archaea, providing a good representa-
+tion of the community. Small-insert libraries are not useful for capturing complex
+pathways requiring many genes, but they provide an appropriate resource for dis-
+covery of new metabolic functions encoded by single genes and for reconstructing
+metagenomes  The past reconstruction studies, however, did not take
+advantage of the harsh lysis methods that are accommodated by small-insert li-
+brary construction, instead using chemical lysis, which does not access DNA from
+as diverse a group of organisms. Although both reconstruction studies reported
+sequences from Archaea, which are notoriously difﬁcult to lyse, the Sargasso Sea
+study did not report members of the phyla containing only uncultured organisms,
+so the effect of the DNA extraction on the diversity of DNA in the metagenomic
+libraries method remains unclear..
+
+The two metagenome reconstruction studies illustrate the difﬁculty in repre-
+senting all of the members of a community in the library. For example, ﬁve species
+were identiﬁed within the AMD metagenome and the two archaeal Ferroplasma
+and Leptospirillum spp. were represented similarly in the metagenomic libraries,
+although ﬂuorescent in situ hybridization (FISH) showed that the Leptospirillum
+spp. represented 85% of the community  The discrepancy between FISH
+and genome-sequencing data suggests that there may be a cloning bias, which
+is advantageous for this application because it led to high representation in the
+library of minor members of the community. In the Sargasso Sea study 
+the genomes of ﬁve species were represented with more than 3x coverage in the
+libraries, but the seawater contains an estimated 1800 species, suggesting that at
+least ﬁve of the species are far more abundant than others, illustrating the limitation
+of metagenomics in providing access to rare community members..
+
+As with any genomics study, gene product toxicity is a concern in metagenomic
+analyses. However, a high-copy vector was used to construct the AMD metage-
+nomic library  and the small number of gaps suggests little impact on the
+composition of the library. High-copy vectors are useful because it is easier to ob-
+tain sufﬁcient DNA for further analysis, and for this reason, several plasmids that.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+have copy number that can be modulated from 1 to 50 per cell have been developed
+ These plasmids can be maintained at low copy during clone isolation to avoid
+toxicity and then can be ampliﬁed for screening or plasmid isolation..
+
+SEQUENCE-BASED SCREENING Screening libraries for genes of interest using
+primers or probes based on conserved sequences identiﬁes homologues of known
+genes. This has proved effective to identify phylogenetic anchors and genes en-
+coding enzymes with highly conserved domains  A challenge associated with
+screening libraries for clones carrying phylogenetic anchors is detecting the an-
+chor on the cloned DNA without detecting the homologue in the chromosome of
+the host cell. This can be circumvented by using a vector with high or inducible
+copy number  When the cloned gene is in 50-fold excess to the chromosomal
+copy, the signal is sufﬁcient to detect. Alternatively, “terminator PCR” can be used
+to block ampliﬁcation of the host cell’s homologue. Terminator PCR was used to
+identify clones carrying 16S rRNA genes, and terminator oligonucleotides speciﬁc
+for the E. coli 16S rRNA gene prevented detection of the host cell genes 
+Finally, libraries can be screened with taxon-speciﬁc oligonucleotide probes and.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+PCR primers for 16S rRNA genes of interest that will not detect the E. coli genes.
+
+
+New approaches are directed toward identifying sequences that are unique to un-
+cultured microorganisms or those speciﬁc to a particular environment. These meth-
+ods involve proﬁling clones with microarrays that identify previously unknown
+genes in environmental samples  subtractive hybridization to eliminate all
+sequences that hybridize with another environment, or subtractive hybridization
+to identify differentially expressed genes 
+These methods will enhance the efﬁciency of screening and aid in identifying
+minor components in communities and genes that deﬁne community uniqueness..
+
+Metagenomics complements direct observation of microorganisms in situ with
+FISH  Fluorescent in situ hybridiza-
+tion (FISH) is commonly used in microbial ecology studies to visualize microor-
+ganisms that contain rRNA that hybridizes with a ﬂuorescently labeled probe, most
+often directed toward the 16S rRNA gene. Until recently, FISH has been limited
+to detection of highly expressed genes, such as the 16S rRNA genes, because
+it detects abundant RNA and not single-copy genes. To overcome this limita-
+tion, Zwirglmaier et al. described an adaptation of FISH called RING-FISH
+(recognition of individual genes-FISH) that facilitates visualization of plasmid
+or chromosomal genes in situ by increasing the sensitivity of detection. Another
+variation on FISH is to link it with microautoradiography to identify taxons that
+utilize particular substrates in natural microbial communities  Further
+augmentation of metagenomics with microscopy that can monitor genes, gene ex-
+pression, and environmental conditions on a microscale will provide new insights
+into the workings of microbial communities..
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+∗
+Acidobacteria
+Actinobacteria .
+
+Coprothermobacter
+Cyanobacteria .
+
+Deferribacteres
+Deinococcus-Thermus .
+
+OP11
+OS-K
+SBR1093
+SC3
+SC4
+Termite Group 1
+TM6
+TM7
+VadinBE97
+WS2
+WS3 .
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+isotopes into their DNA. Building metagenomic libraries from such communities
+can be used either to determine which community members are metabolically ac-
+tive (using a labeled substrate such as glucose, which can be metabolized by many
+organisms) or which utilize the labeled substrate (using a specialized substrate,
+such as an environmental pollutant). The DNA from the fraction of the community
+that used the labeled substrate will contain DNA with the stable isotope, making it
+separable from unlabeled DNA by density centrifugation. Metagenomic libraries
+and 16S rRNA gene libraries can be constructed with the labeled DNA to enrich
+for genes associated with the active species  Innovative
+approaches such as these will advance metagenomic analysis to the next level,
+linking phylogeny and function more precisely..
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+42. Gruber TM, Bryant DA. 1998. Charac-
+terization of the group 1 and group 2
+sigma factors of the green sulfur bac-
+terium Chlorobium tepidum and the green
+non-sulfur bacterium Chloroﬂexus auran-
+tiacus. Arch. Microbiol. 170:285–96
+43. Hallam SJ, Girguis PR, Preston CM,
+Richardson PM, DeLong EF. 2003. Iden-
+tiﬁcation of methyl coenzyme M reduc-
+tase A (mcr A) genes associated with
+methane-oxidizing archaea. Appl. Envi-
+ron. Microbiol. 69:5483–91.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+83. Preston CM, Wu KY, Molinski TF, De-
+Long EF. 1996. A psychrophilic crenar-
+chaeon inhabits a marine sponge: Cenar-
+chaeum symbiosum gen. nov., sp. nov.
+Proc. Natl. Acad. Sci. USA 93:6241–46
+84. Quaiser A, Ochsenreiter T, Klenk HP,
+Kletzin A, Treusch AH, et al. 2002. First
+insight into the genome of an uncultivated
+crenarchaeote from soil. Environ. Micro-
+biol. 4:603–11.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.20 Oct 2004 18:0.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.P1: JRX
+October 18, 2004.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.P1: JRX
+October 18, 2004.
+
+Annu. Rev. Genet. 2004.38:525-552. Downloaded from  Georgetown University on 03/22/13. For personal use only.

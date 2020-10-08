@@ -1,0 +1,501 @@
+Almost 30 years ago, it was proposed that prenatal and 
+postnatal environmental factors interact with genetics to 
+program health and disease in adulthood [6, 7]. Building 
+on Barker’s hypothesis, it was recently proposed that the 
+microbiota could play an important role in programming 
+adult brain health and disease [8]. Whether diet or other 
+factors, such as stress and drugs, interact with the micro-
+biota in early life to program brain health is currently be-
+ing  addressed  by  clinical  and  preclinical  studies.  This 
+chapter reviews the natural trajectory of the composition 
+of  the  microbiota  during  pregnancy  and  early  life  and 
+outlines  the  current  knowledge  on  the  interaction  be-
+tween the microbiota and neurodevelopment. 
+Early-Life Neurodevelopmental Plasticity and the 
+Microbiota
+Dramatic  structural  and  functional  changes  in  the 
+brain are characteristic of the first years of life. This neu-
+rodevelopmental plasticity requires timely and adequate 
+migration, division and differentiation of neuronal and 
+glial  precursors  [9].  Neuronal  migration  and  axonal 
+guidance  establish  short-  and  long-range  connections 
+that enable the recruitment of multiple brain areas for 
+the execution of complex behaviours [10, 11]. Differen-
+tiated oligodendrocytes insulate neuronal axons with a 
+myelin sheath to guarantee proper conductance of neu-
+ronal signals [12]. A growing emphasis is now placed on 
+the role of astrocytes and microglia in facilitating synap-
+tic pruning during early life through adolescence, allow-
+ing later in life the fine tuning of complex circuits [13]. 
+Plasticity is a key feature of the standard neurodevelop-
+mental trajectory and modulates the dynamics of synap-
+tic connections and neural circuitry formation. Devia-
+tions  from  the  neurodevelopmental  trajectory  can  ac-
+count for increased susceptibility to brain diseases later 
+in life.
+There is a growing appreciation of the link between 
+neurodevelopment and intestinal microbiota. Studies in 
+germ-free  mice  have  shown  abnormal  brain  develop-
+ment, especially in male mice [14–16]. More recent stud-
+ies  in  these  microbiota-deficient  mice  have  shown  al-
+tered expression of genes implicated in neurophysiology 
+processes, such as neurotransmission, neuronal plastic-
+ity,  metabolism  and  morphology  in  the  amygdala  [17] 
+and  hippocampus  [18].  Hypermyelination  in  the  pre-
+frontal cortex and abnormal microglia maturation char-
+acterize the glia profile of these animals [19–23]. Further-
+more, they showed increased blood-brain barrier perme-
+ability  [24].  Functionally,  such  changes  translate  to 
+increased stress response [14, 16], changes in anxiety [25] 
+and fear recall [26], cognitive deficits [27], social changes 
+[21, 28] and visceral pain responses [29]. Thus, the com-
+plete absence of microbial colonization in early life has 
+dramatic  effects  on  offspring’s  brain  development  and 
+function. 
+Microbiota and Neurodevelopmental Trajectories Ann Nutr Metab 2019;74(suppl 2):16–27DOI: 10.1159/000499144Dynamics of the Maternal Microbiota during 
+Pregnancy
+Pregnancy is a unique period in human life, and both 
+the gut and vaginal microbiome have evolved to follow an 
+optimum trajectory to support the mother and the devel-
+oping fetus and allow for the ideal handover of microbi-
+ome at birth, informing maternal and child health out-
+comes. 
+The human female gut microbiota undergoes dynam-
+ic  compositional  changes  across  gestation  [30–32].  As 
+pregnancy progresses, a reduction in the diversity of the 
+intestinal microbiota takes place, characterized by an en-
+richment in Proteobacteria [30]. This natural shift in the 
+bacterial populations is functional to the increased meta-
+bolic demands by the developing fetus. The Proteobacte-
+ria expansion can help the body with the increased ener-
+getic  requirement  that  is  characteristic  of  the  third  tri-
+mester [33]. Interestingly, when gut microbiota from this 
+time period was transferred to microbiota-depleted rats, 
+they showed increased adiposity, reduced glucose toler-
+ance  and  inflammation,  signs  of  metabolic  syndrome 
+[30].  This  suggests  that  the  changes  in  gut  microbiota 
+composition during pregnancy have an adaptive role for 
+maternal and newborn health. 
+The vaginal microbiota composition also changes dur-
+ing pregnancy towards a less diverse configuration [34, 35]. 
+As with gastrointestinal microbiota, the change in vaginal 
+microbiota  has  a  specific  role  during  pregnancy.  An  in-
+crease in the presence of Lactobacilli helps maintain a low 
+pH, limiting bacterial growth opportunity for other bacte-
+ria [35]. Furthermore, vaginal microbiota composition is 
+critical in the context of vertical transmission of microbial 
+populations [36]. Whether interventions in the physiologi-
+cal trajectory of maternal microbiota could alter the prena-
+tal environment and, in turn, deviate normal brain devel-
+opment is a key question in neuroscience that is starting to 
+be addressed both in preclinical and clinical areas.
+Preclinical Models of Early-Life Microbiota Trajectory
+Similar to humans, mice and rat intestinal and vaginal 
+microbiota  go  through  compositional  changes  during 
+pregnancy,  providing  a  robust  preclinical  model  for 
+studying the link between maternal gut environment and 
+offspring brain development [37–40]. Early gestation is 
+characterized  by  a  transitional  increase  in  the  relative 
+abundance of Akkermansia and Bifidobacterium, which 
+in late pregnancy decrease to levels seen in non-pregnant 
+mice. In contrast, Bacteroides remain relatively elevated 
+throughout  pregnancy  [37].  Interestingly,  microbiota 
+compositional changes also occur post-partum. The rela-
+tive  abundance  of  Actinobacteria  increases  early  post-
+partum, while the one of Bacteroidetes decreases [38]. 
+The vaginal microbiota has its own trajectory in preg-
+nant mice. After the first week of pregnancy, there is an 
+increase in bacterial diversity characterized by a growth 
+of the Firmicutes and Bacteroidetes phyla [40, 41]. The 
+changes seen in mice gut microbiota during pregnancy 
+and post-partum make it a solid approach to the study of 
+interventions in the maternal microbiota and the impact 
+on offspring’s neurodevelopment. 
+External Challenges to Maternal Microbiota 
+Dynamics
+Given the importance of early-life microbiota in neu-
+rodevelopment,  any  factor  that  affects  its  composition 
+has the potential to influence brain health. Indeed, a va-
+riety of exogenous factors affect the trajectory of micro-
+biota composition during pregnancy. Diet, drugs, infec-
+tion,  hospitalization,  prematurity  and  stress  are  among 
+the  influences  that  divert  maternal  microbiota  from  its 
+natural course and impact on offspring’s brain, immune 
+system  and  the  hypothalamic-pituitary-adrenal  axis 
+(HPA) development. 
+.........................................................................................................................
+Inadequate intake of macronutrients  
+or micronutrients during pregnancy  
+has been related to altered maternal  
+microbiota and offspring’s poor  
+neurocognitive outcome
+.........................................................................................................................
+Diet and Maternal Microbiota
+Diet is one of the major sculptors of the diversity and 
+abundance of the intestinal microbiota [42]. Inadequate 
+intake of macronutrients or micronutrients during preg-
+nancy  has  been  related  to  altered  maternal  microbiota 
+[43] and offspring’s poor neurocognitive outcome (Table 
+2) [44]. This association suggests a role for the maternal 
+microbiota in brain prenatal programming. 
+One of the most common macronutrient consumption 
+imbalances during pregnancy is the consumption of high-
+fat diets. Maternal overweight has been associated in hu-
+mans with increased risk of poor neurodevelopmental out-
+comes [45]. In rodents, consumption of a high-fat or West-
+ern diet prior and during pregnancy impairs the trajectory 
+of maternal and offspring’s microbiota  [37, 46]. This al-
+Formula feeding is associated with a distinctive fingerprint in the 
+intestinal microbiota 
+teration was associated with a neuroinflammatory profile 
+in the hippocampus and amygdala of the offspring, result-
+ing in juvenile impaired social behaviour and anxiety-like 
+phenotype [47]. Interestingly, a high-fat diet prior to and 
+during  pregnancy  impairs  maternal  HPA  axis  plasticity 
+and the offspring’s hypothalamic gene response to stress 
+[48, 49]. However, caution is required when interpreting 
+the literature on the neurobiological changes induced by 
+diets rich in fat and sugar in rodents as the content of the 
+control diets regarding fibre and other nutrients needs to 
+be  taken  into  account  [50,  51].  Nevertheless,  preclinical 
+studies on maternal high-fat and Western diets (see [8] for 
+an extensive review) support the idea of a role for diet-in-
+duced microbiota changes in brain programming. 
+During  fetal  development,  micronutrients  are  re-
+quired for neurological development. Deficiency in B vi-
+tamins, folate or ions, such as iron and zinc, exerts detri-
+mental effects on neurocognitive development in humans 
+and rodents [52, 53]. Folate deficiency is paradigmatic of 
+the impact of micronutrient deficit on offspring neurode-
+velopment. Mammalian cells are unable to synthetize this 
+vitamin; thus, humans depend on food or supplements to 
+compensate for their requirement [54]. Failure to achieve 
+normal serum folate levels during pregnancy has been as-
+sociated  with  increased  neural  tube  defects  in  the  off-
+spring [55]. Conveniently, bacteria residing in our colon 
+can produce many vitamins of the B group, including fo-
+late. In mice, a loss-of-function mutation in an intestinal 
+folate transporter can account for folate malabsorption, 
+suggesting  that  bacterial  produced  folate  plays  a  major 
+role in host metabolism [56]. In humans, consumption of 
+a vegetarian diet during early pregnancy was associated 
+with a distinctive microbial composition rich in biosyn-
+thesis pathways for fatty acids, lipids and folate [57]. 
+Prebiotics and Probiotics
+Research on the effect of prebiotic and probiotic ad-
+ministration during pregnancy is at an early stage (Table 
+3).  Current  reports  indicate  that  the  administration  of 
+prebiotics or probiotics to pregnant women is not associ-
+ated with an increase or decrease in the risk of preterm 
+birth  or  other  infant  and  maternal  adverse  pregnancy 
+outcomes [58]. Researchers are beginning to shed light on 
+their  effects  on  offspring’s  brain  and  immune  develop-
+ment [58]. 
+Prebiotics  promote  the  growth  of  beneficial  bacteria 
+and include indigestible fibres that are fermented by co-
+lonic bacteria to produce short-chain fatty acids and pro-
+vide a health benefit [59]. In humans, the effects of mater-
+nal  intake  of  prebiotics  on  neurodevelopment  have  not 
+been well studied, and there is uncertainty about their ef-
+fects  on  allergy  risk  [60,  61].  Galacto-oligosaccharide 
+(GOS) and inulin administration to pregnant mice modu-
+lated the gut microbiota and prevented immune activation 
+and  intestinal  permeability  in  the  offspring  [62].  More-
+over, it has recently been shown that the addition of inulin 
+to a mouse maternal high-fat diet abrogated the negative 
+metabolic effect of the high-fat diet on offspring [63]. 
+Probiotics are beneficial strains of bacteria that confer 
+a health benefit to the host [64]. There is lack of research 
+on  the  prenatal  impact  of  probiotics  on  neurodevelop-
+ment in humans and rodents. Administration of probiot-
+ics to pregnant women impact on immunity, reducing the 
+risk of atopy but not of asthma [65, 66]. More preclinical 
+and clinical research must be conducted to determine the 
+impact  of  prenatal  probiotics  on  the  maternal  and  off-
+spring microbiota. 
+Drugs
+Antibiotics
+Antibiotics are widely used during pregnancy, but lit-
+tle is known about their effects on the trajectory of the 
+maternal microbiome [67]. Preclinical models are start-
+ing to shed light on the effect of antibiotic exposure on 
+offspring  neurodevelopment.  Administration  of  antibi-
+otics to pregnant rats caused impairments in social be-
+haviour and pre-pulse inhibition of the offspring [68]. In 
+mice, administration of non-absorbable antibiotics dur-
+ing pregnancy reduced the exploratory behaviour in the 
+offspring [69]. These results warrant further research on 
+the effect of microbiota. 
+Psychotropics
+Recently, Maier et al. [70] showed that a large amount 
+of non-antibiotic human-targeted drugs have antimicro-
+bial  properties.  Among  them,  drugs  that  can  be  pre-
+scribed during pregnancy, such as proton pump inhibi-
+tors, were found to disturb the growth of commensal bac-
+teria  (Table  2).  Interestingly,  psychotropic  medications 
+also influence the composition of gut bacteria in rodents 
+[70,  71].  Selective  serotonin  uptake  inhibitors,  tricyclic 
+antidepressants  and  antipsychotics  negatively  impact 
+bacterial growth [71–73]. Looking at the effects on post-
+natal  development,  prenatal  exposure  to  fluoxetine  in-
+duces an anxiety-like phenotype in rats [74]. Also, in ro-
+dents,  valproic  acid  administration  during  pregnancy 
+disturbs the microbiome of the offspring and results in 
+impairment of the social behaviour of the offspring [75, 
+76]. Owing to the prevalence of psychotropic administra-
+tion during pregnancy, it is crucial to characterize the in-
+teraction  between  maternal  health,  microbiota  and  off-
+spring neurodevelopment. 
+Stress and the Maternal Microbiota 
+In humans, prenatal and postnatal maternal stress has 
+been associated with young adult offspring behavioural 
+and depressive symptoms [77] and aberrant infant intes-
+tinal microbiota development (Table 2) [78, 79]. In ro-
+dents, prenatal stress shifts maternal gut and vaginal bac-
+terial community and induces long-lasting alterations in 
+the gut microbiota composition of the offspring [40, 80]. 
+Moreover,  this  alteration  was  shown  to  occur  in  a  sex-
+specific manner, and it correlates with hyper-reactivity of 
+the HPA axis [40].
+The Microbiota in Transition: from Prenatal to 
+Postnatal 
+When the first contact with the microbiota occurs re-
+mains  controversial.  The  sterility  of  the  uterus  during 
+pregnancy is one of the paradigms that research on the 
+microbiome is revisiting. Bacteria have been found in the 
+placenta  [81,  82],  amniotic  fluid  and  meconium  of  hu-
+mans [83, 84]. Moreover, the presence of specific bacteria 
+in utero has been associated with pregnancy risks, includ-
+ing  higher  rates  of  preterm  delivery  [85].  Nevertheless, 
+the reliability of these findings is widely debated in the 
+context of whether it is contamination or not [86, 87]. The 
+existence of germ-free mice models further dismisses the 
+idea of a prenatal microbiome [86]. It is generally accept-
+ed that the moment of birth is the first opportunity for 
+large-scale bacterial colonization of the newborn. Thus, 
+the mode of delivery has a tremendous impact on the es-
+tablishment of the microbiota of infants.
+Codagnone/Stanton/O’Mahony/Dinan/CryanAnn Nutr Metab 2019;74(suppl 2):16–27DOI: 10.1159/000499144Early-Life Microbiota and Birth Mode
+A large number of studies associate the mode of deliv-
+ery to a distinctive trajectory of microbiota development 
+in  the  newborn  [35,  36,  66,  88–99].  Unexposed  to  the 
+birth  canal,  Caesarean  section  (C-section)-born  babies 
+elude  mother-neonate  vertical  vaginal  transmission  of 
+bacteria and viruses [36, 89, 100]. In turn, the microbiota 
+resembles skin and environment microbiota, suggesting 
+that C-section first colonizers come from diverse sources 
+(Table 2) [35, 89]. 
+That said it is worth reinforcing that mode of delivery-
+induced  changes  in  microbiota  composition  are  transi-
+tory. Vaginally delivered infants have significantly higher 
+.........................................................................................................................
+Mode of delivery-induced changes  
+in microbiota composition are  
+transitory
+.........................................................................................................................
+microbiota  richness  and  diversity  than  C-section-born 
+infants as early as 3 days after birth [88, 100–102]. Never-
+theless,  the  early  decline  in  Proteobacteria  and  the  late 
+Firmicutes expansion occur timely over the first year of 
+life of C-section-born infants [101].
+The time course of these microbiota alterations over-
+laps with a critical period for neuro- and immune devel-
+opment (see [103] for extensive review). It has been sug-
+gested that C-section-distinctive microbiota composition 
+plays a functional role in predisposing these infants to a 
+greater relative risk of neonatal infections, allergy, asth-
+ma, obesity and type 1 diabetes [35, 101, 104–108]. Pre-
+clinical models of C-section suggest that the mode of de-
+livery could impact on early neuronal maturation [109, 
+110]. Whether modifying the initial colonizing microbi-
+ota induces directly or indirectly different trajectories in 
+brain development has yet to be deciphered.
+Various  strategies  have  been  designed  to  restore  the 
+normal trajectory of the microbiota [113]. Although con-
+troversial, artificial vaginal microbiota transference was 
+performed  to  C-section-born  infants  to  mimic  vertical 
+transmission [114]. Other interventions, including sup-
+plementation  with  probiotics  and  prebiotics,  were  pro-
+posed to decrease the impact of delivery mode on the mi-
+crobiota. 
+Early Postnatal Perturbations of the Microbiota
+Early postnatal life entails an intrinsic sensitivity to en-
+vironmental factors. As with the maternal microbiome, 
+infant exposure to differences in diet, drugs and stress can 
+interfere with the trajectory of the microbiota and neuro-
+development in a manner that is characteristic of this de-
+velopmental period. 
+Mode of Nutritional Provision in Early Life
+The stability and composition of the early-life gut mi-
+crobiota community is also dependent on diet [115]. Ac-
+cumulating evidence suggests that breastfeeding and for-
+mula-based nutrition leave a distinctive fingerprint in the 
+intestinal  microbiota  (Table  2).  Gut  bacterial  composi-
+tion  of  infants  exclusively  breastfed  is  characterized  by 
+higher relative abundance of Bacteroides and Bifidobacte-
+rium compared to the one from formula-fed infants [108, 
+116]. Furthermore, breastfeeding had a positive effect on 
+myelination and increased general, verbal and non-verbal 
+cognitive abilities during childhood [117]. The implica-
+tions of these findings are still unclear, but longitudinal 
+studies are starting to shed light on the effect of early-life 
+nutrition on the temporal course of microbiota matura-
+tion. 
+Human breast milk has a unique composition that in-
+teracts with the developing gut microbiota. Culture-de-
+pendent and -independent techniques revealed that it is 
+a source of bacteria [118]. Interestingly, the human milk 
+microbiome can be influenced by maternal body mass in-
+dex and mode of delivery [119]. The other main compo-
+nents  of  breast  milk  are  human  milk  oligosaccharides, 
+which  act  as  prebiotics  [120,  121].  Supplementation  of 
+infant formula with GOS increases the abundance of Bi-
+fidobacteria and Lactobacilli to levels reported in breast-
+fed infants [122, 123]. Both breast milk microbes and pre-
+biotics play a role in the standard gut microbial develop-
+mental trajectory. 
+Later  in  life,  feeding  transitions  drive  important 
+changes in composition and functionality of the intesti-
+nal microbiota [36, 89, 124]. From breastfeeding to sol-
+id  food,  the  microbiome  transitions  from  being  en-
+riched in genes associated with digestion of sugars from 
+breast milk, vitamin production and iron transport to 
+degradation  of  starch  and  high  sugars  [36].  Further-
+more, the microbiota continues to undergo change; at 
+7–12 years of age, the composition and function of the 
+microbiota remains significantly different from the one 
+of adults [125], suggesting a role of the microbiome in 
+the neurodevelopmental changes associated with ado-
+lescence. 
+Fig. 1. Factors that determine the trajectory 
+of the microbiota during early life. The gut 
+and  vaginal  microbiome  of  the  mother  is 
+altered by diet, drugs and stress. The mode 
+of delivery determines the first colonizers 
+of  the  newborn’s  gut.  Early  in  life,  diet, 
+drugs and stress can also affect the infant 
+microbiota composition. 
+Probiotics and Prebiotics
+Most of the evidence available on the effect of early-life 
+exposure to pre- and probiotics comes from preclinical 
+studies. Early-life prebiotic administration in humans has 
+shown effects on reducing the risk of atopy, an autoim-
+mune disease [126], but neurodevelopmental outcomes 
+have not been studied yet. In preclinical studies, oligosac-
+charides have been shown to modulate the gut-brain axis, 
+highlighting  the  role  of  breastfeeding  in  neurodevelop-
+ment.  Administration  of  the  human  milk  oligosaccha-
+rides 3’Sialyllactose (3’SL) or 6’Sialyllactose (6’SL) to mice 
+exposed  to  social  disruption  prevented  stress-induced  
+colonic  microbial  disruption  and  anxiety-like  behavior 
+[127].  Furthermore,  fructo-oligosaccharide  (FOS)  and 
+GOS administration attenuated corticosterone release in 
+response to an acute stressor and protected the mice from 
+the impact of chronic stress on the microbiota [128]. 
+Preliminary  clinical  trials  of  probiotic  interventions 
+have  yielded  promising  results  with  regard  to  reducing 
+the risk for gastrointestinal problems, sepsis, allergies and 
+even autism spectrum disorder and attention deficit hy-
+peractivity disorder [129–134]. Several groups have now 
+shown that early probiotic interventions mitigate the ef-
+fects of early-life stress, maternal high-fat diet and mater-
+nal immune activation on infant outcomes [47, 135–138]. 
+Oral administration at weaning of Bifidobacterium fragi-
+lis ameliorates the abnormal stereotyped and anxiety-like 
+behaviours  of  the  maternal  immune  activation  mouse 
+model of autism [136]. Probiotic administration during 
+adolescence  restores  social  interaction-induced  long-
+term potentiation in an animal model of social impair-
+ment by maternal high-fat diet exposure [47]. In mater-
+nally separated rat pups, a combination of Lactobacillus 
+rhamnosus and Lactobacillus helveticus reduced pup cor-
+ticosterone  responses  to  stress  and  normalized  fear  be-
+haviour [135, 137, 138]. Another probiotic, Bifidobacte-
+rium  infantis,  normalized  behavioural  deficits  in  adult 
+rats exposed to maternal separation [139]. 
+Although clinical evidence on the role of pre- and pro-
+biotics for neurodevelopment is still lacking, preclinical 
+research gives cause for a focus on early-life microbiota 
+interventions. 
+Drugs: Antibiotics and Beyond in a Paediatric Setting
+Antibiotics are commonly prescribed during the first 
+years of life, yet the effect on brain health programming is 
+unknown. Longitudinal clinical studies support the idea 
+that early-life exposure to antibiotics perturbs the natural 
+trajectory of the microbial communities by altering their 
+stability [140]. Furthermore, neonatal exposure to antibi-
+otics in rodents not only altered the microbiota but also 
+induced  increased  visceral  sensitivity  and  long-lasting 
+changes in brain cytokines and behaviour [141, 142]. 
+The interaction between early-life exposure to psycho-
+tropics,  neurodevelopment  and  the  microbiota  is  cur-
+rently unknown. Not only exposure to psychotropics me-
+diated by breastfeeding but direct administration of these 
+drugs early in life could impact the developing microbio-
+ta. Serotonin uptake inhibitors and atypical antipsychot-
+ics indicated for the treatment of paediatric psychiatric 
+disorders are among the non-antibiotic drugs known to 
+change  the  microbiome  composition  [70,  71].  Atypical 
+Codagnone/Stanton/O’Mahony/Dinan/CryanAnn Nutr Metab 2019;74(suppl 2):16–27DOI: 10.1159/000499144antipsychotics indicated for the treatment of the irritabil-
+ity associated with autism spectrum disorders have been 
+shown to inhibit gut bacteria [70]. At the same time, the 
+composition  of  the  microbiota  of  autistic  patients  was 
+shown to be altered [143–147]. Whether there is an inter-
+action  between  microbiota  populations,  psychotropic 
+drugs and behaviour has yet to be determined. 
+Early-Life Stress
+The impact of stress on the development of the HPA 
+axis has been shown to contribute to the programming of 
+brain  health  in  later  life  [148].  Interestingly,  evidence 
+from preclinical studies shows that early-life stress also 
+alters  the  microbiota.  Maternal  separation  during  early 
+life  disrupted  the  microbiota  of  the  offspring  of  rhesus 
+monkeys and rats [149, 150]. Interestingly, a diet contain-
+ing  prebiotics  in  combination  with  live  Lactobacillus 
+rhamnosus GG attenuated the effects of early-life mater-
+nal separation on anxiety-like behaviour and hippocam-
+pal-dependent learning [151]. Germ-free mice were more 
+vulnerable to restraint stress, resulting in higher adreno-
+corticotropic hormone and corticosterone in plasma [14, 
+16], a reduction in glucocorticoid receptor mRNA and an 
+increased stress response [14]. Remarkably, these effects 
+were rescued with microbiota transplantation during ad-
+olescence but not adulthood [14].
+Future Perspectives
+Pregnancy and the first years of life are unique stages 
+of plasticity for the intestinal microbiota. In both cases, 
+there is a dynamic trajectory of the intestinal microbiota 
+composition that is functional to the requirements of the 
+host.  Although  plasticity  represents  an  opportunity  for 
+adaptation, it is also a vulnerable stage. As we have re-
+viewed, clinical and preclinical studies suggest that diet, 
+stress and drugs can interact with the natural trajectory of 
+the  microbiota  and  play  a  part  in  programming  brain 
+health (Fig. 1). However, the evidence is still scarce, and 
+further research is needed to understand the functional 
+implications of these interactions. 
+The nervous system and the microbiota show concur-
+rent developmental trajectories, offering a unique oppor-
+tunity for intervention. There is potential for the develop-
+ment of early-life-targeted interventions of the microbi-
+ome,  aiming  to  reduce  the  risk  of  disease  later  in  life. 
+Further research is needed on the characterization of crit-
+ical windows to modulate the microbiota and the conse-
+quences of early intervention. 
+The writing of this article was supported by Nestlé Nutrition 
+Institute.  The  APC  Microbiome  Institute  is  funded  by  Science 
+Foundation  Ireland  (SFI),  through  the  Irish  Government’s  Na-
+tional Development Plan. The APC Microbiome Institute has con-
+ducted research funded by many Pharmaceutical and Food Com-
+panies. M.G.C. is funded by the European Union’s Horizon 2020 
+research and innovation programme under the Marie Sklodows-
+ka-Curie grant agreement No. 754535. J.F.C., T.G.D. and C.S. are 
+supported by SFI (Grant 12/RC/2273). T.G.D. has been an invited 
+speaker at meetings organized by Servier, Lundbeck, Janssen and 
+AstraZeneca and has received research funding from Mead John-
+son, Cremo, Suntory Wellness, Nutricia and 4D Pharma. J.F.C. has 
+been an invited speaker at meetings organized by Mead Johnson, 
+Yakult, Alkermes and Janssen and has received research funding 
+from Mead Johnson, Cremo, Suntory Wellness, Nutricia, Dupont 
+and 4D Pharma. M.G.C., S.M.O. and C.S. have no other conflicts 
+of interest to declare. 

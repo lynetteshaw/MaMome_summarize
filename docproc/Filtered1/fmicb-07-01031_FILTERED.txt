@@ -1,0 +1,657 @@
+108_PARAGRAPHS
+
+In this review, we describe the pronounced microbial
+changes
+female, as well as
+in the pregnant
+provide an overview of the initial exposure of the fetus to
+microbiota—from the placenta,
+through birth and infancy.
+We hypothesize that an appropriate microbiota is essential
+for healthy early development, pregnancy maintenance, and
+the ﬁrst years of childhood. Moreover, we suggest that the
+changes in the human microbiome are deeply connected to
+the host’s physiological status, and that
+these associations
+have developed throughout co-evolution of microbiome and
+host
+to ensure improved ﬁtness. Therefore, understanding
+the role of the microbiome throughout pregnancy and early
+development, as well as its role in health and disease, is of
+great importance for opening new research avenues, establishing
+developmental concepts, and perhaps even suggesting new
+therapeutic approaches..
+
+During gestation,
+the female body undergoes hormonal,
+immunological, and metabolic changes to support fetal growth
+and development (Kumar and Magon, 2012). During this
+period, levels of secreted hormones (especially progesterone and
+estrogens) rise dramatically, and there are major alterations in
+the immune response (Kumar and Magon, 2012). The immune
+changes are complex, and may be referred to as immune
+modulation, as on the one hand, some degree of immune
+suppression is needed to accept the growing fetus bearing its
+own developing immune system, whereas on the other hand,
+strict immunity must remain in order to protect the mother and
+fetus from infections. While many consider pregnancy to be an
+anti-inﬂammatory state, others consider pregnancy to be a multi-
+stage process including inﬂammatory stages at implantation
+and parturition, and anti-inﬂammatory stages in mid-pregnancy,
+when the fetus grows rapidly (Mor and Cardenas, 2010)..
+
+July 2016 | Volume 7 | Article 1031.
+
+FIGURE 1 | Microbiome changes during pregnancy. Text and arrows refer to: general changes (pink), changes in speciﬁc taxonomy (green) and community
+diversity (orange)..
+
+the ﬁrst to the third trimester, the gut microbiota composition
+changes dramatically. These changes are characterized by
+increased abundance of members of the Actinobacteria and
+Proteobacteria phyla, as well as a reduction in individual richness
+(alpha diversity; Koren et al., 2012). In addition,
+levels of
+Faecalibacterium, a butyrate-producing bacterium with anti-
+inﬂammatory activities, which is depleted in metabolic syndrome
+patients (Haro et al., 2015), are signiﬁcantly decreased in the.
+
+July 2016 | Volume 7 | Article 1031.
+
+The gut microbiota during pregnancy is inﬂuenced not only
+by internal cues, but also by environmental factors, primarily by
+diet. In a recent study in mice, Gohir et al. demonstrated
+that the maternal diet prior to and during pregnancy had an
+eﬀect on gut microbiota. Female mice fed a high-fat diet in
+the periconceptional period and during gestation demonstrated
+changes in the gut microbiota later in pregnancy, in contrast to
+those fed on a normal chow diet (Gohir et al., 2015). An obese
+state was also correlated to microbial composition during human
+gestation (Collado et al., 2008). Bacteroides and Staphylococcus
+were shown to be signiﬁcantly higher in the feces of overweight
+pregnant women, compared to those of normal weight (Collado
+et al., 2008). Additionally, in overweight and obese pregnant
+women, speciﬁc metabolic hormones including insulin, gastric
+inhibitory polypeptide (GIP), and adipokines were found to be
+correlated with alterations in bacterial abundance, reinforcing
+a connection between the microbiota and metabolic hormones
+in pregnancy (Gomez-Arango et al., 2016). Interestingly, it was
+shown that pre-pregnancy maternal body mass index (BMI)
+correlated to neonatal gut microbiota composition in vaginally
+delivered, but not C-section delivered oﬀspring (Mueller et al.,
+2016). Overall, most studies showed signiﬁcant alterations in gut
+microbiota during pregnancy, with correlations to initial weight
+and diet, weight gain, inﬂammation, and metabolic parameters.
+An exception is a recent longitudinal study of 49 women sampled
+weekly, during gestation and monthly post-partum. This study
+found no dramatic changes during gestation or upon delivery in
+gut microbiota composition or richness indexes (DiGiulio et al.,
+2015). This strengthens the fact that more studies are needed to
+understand the eﬀects of pregnancy on the gut microbiota..
+
+The eﬀects of antibiotics administered during pregnancy on
+the microbiome have been studied in rats (Khan et al., 2016).
+Use of category B antibiotics (azithromycin, amoxicillin, and
+cefaclor) during pregnancy was shown to increase the fecal
+relative abundance of Proteobacteria and Enterobacter, while
+reducing the relative abundance of Firmicutes and Lactobacillus.
+Moreover, antibiotics during pregnancy signiﬁcantly reduced
+bacterial diversity, and promoted weight gain. Another study
+found that maternal antibiotic treatment during pregnancy and
+lactation in mice reduced adaptive antiviral immune responses
+in the infant mice, suggesting a broad immune eﬀect on
+the oﬀspring (Gonzalez-Perez et al., 2016). Most strikingly,
+non-absorbable antibiotics given to pregnant mice altered
+oﬀspring behavior in a manner by which they exhibited low
+locomotor activity at 4 weeks of age, and less exploratory
+behavior in central regions at both 4 and 8 weeks of age.
+However, these behavioral phenotypes were reversed when pups
+were fostered by control mothers starting at postnatal day 1
+(Tochitani et al., 2016)..
+
+July 2016 | Volume 7 | Article 1031.
+
+1 month after birth the mothers’ microbiotas do not yet return
+to their baseline (Koren et al., 2012). Only a few studies have
+studied this timeframe, and it would therefore be of interest
+to investigate how long the postpartum transition period lasts,
+and whether a return to baseline microbial populations ever
+occurs. Since the postpartum period is also associated with
+dramatic hormonal changes including a signiﬁcant decrease
+in progesterone and estrogen levels, it would be interesting
+to test the direct eﬀects of the hormonal changes on the
+microbiome..
+
+As in the gut, the vaginal microbiome undergoes signiﬁcant
+changes during pregnancy, including a signiﬁcant decrease in
+overall diversity, increased stability (the community composition
+changes over time), and enrichment with Lactobacillus species
+(Aagaard et al., 2012). These correlate with a decrease in the
+vaginal pH and an increase in vaginal secretions (Prince et al.,
+2014a). Vaginal microbial compositions were found to diﬀer
+according to gestational age, while the communities at the later
+stages of pregnancy resembled those of the non-pregnant state
+(Aagaard et al., 2012). The dominant Lactobacillus species in
+pregnancy varies according to ethnic group; while L. jensenii
+is predominantly observed in women of Asian and Caucasian
+ethnicity, L. gasseri is absent in samples from Black women
+(MacIntyre et al., 2015)..
+
+vaginal communities were more similar to the gut microbiota
+communities, with Lactobacillus being replaced by various
+including Peptoniphilus, Prevotella, and
+anaerobic bacteria,
+Anaerococcus. These various alterations may persist
+for as
+long as a year after delivery (DiGiulio et al., 2015). The
+postpartum vaginal microbiome was also characterized by
+gradual depletion of Lactobacillus species,
+increased alpha-
+diversity, and enrichment of bacteria associated with vaginosis,
+such as Actinobacteria, in 40% of the subjects at 6 weeks after
+birth (as opposed to only 2% of the subjects during pregnancy;
+MacIntyre et al., 2015)..
+
+The placenta is one of the most poorly understood human organs,
+particularly with regard to the presence of microbes within it.
+Until recently, the dogma was that the fetus and the placenta
+are germ free, and that such a sterile environment is essential
+to protect the fetus from infections. It was believed that cases.
+
+July 2016 | Volume 7 | Article 1031.
+
+In 1982, Kovalovszki et al. were the ﬁrst to describe the
+presence of aerobic bacteria in 16% of tested placenta samples
+using a culture-dependent approach, and concluded that bacteria
+can be detected in the placenta without any histological evidence
+of chorioamnionitis (Kovalovszki et al., 1982). Since then,
+several additional reports described bacteria in the placenta
+(Goldenberg et al., 2000; Dominguez-Bello et al., 2010; Hyman
+et al., 2014; Romero et al., 2014a; MacIntyre et al., 2015).
+Using whole genome shotgun sequencing (WGS) of samples
+from 320 subjects, Aagaard et al. reported that the placenta
+contains a unique microbiome (Aagaard et al., 2014). When
+characterizing the placental microbial community, the major
+phylum was Proteobacteria, and compared to all other organs, the
+composition was most similar to the oral microbiota, including
+species such as Prevotella tannerae and Neisseria (Aagaard
+et al., 2014). The similarity between the oral and placental
+microbiota suggests that bacteria may pass from the oral cavity
+to the placenta, possibly explaining the many observations of
+women with periodontal disease that have an increased risk of
+pregnancy complications (Gibbs et al., 1992; Jeﬀerson, 2012;
+Mysorekar and Cao, 2014; Prince et al., 2014b). Additionally,
+several studies (Figure 1), using cultivation and PCR techniques,
+found microbes in amniotic ﬂuid and umbilical cord blood in
+healthy asymptomatic women, as well as in those with pregnancy
+complications (DiGiulio et al., 2010a,b; Romero et al., 2014b).
+It is important to note that the microbial density present in
+the placenta is very low, requiring precise veriﬁcation in all
+cases that research results are not due to contamination. This is
+especially true with samples in which the placenta was collected
+after vaginal delivery and is therefore prone to contaminations
+from the birth canal, as opposed to samples in which the placenta
+was collected during C-section in a sterile manner..
+
+and pregnancy
+complications have been shown in various studies (Zi et al.,
+2014). Maternal periodontal disease has been shown to increase
+risk of preterm birth (Oﬀenbacher et al., 2006). While at ﬁrst, the
+connection between oral infections and pregnancy complications
+may sound farfetched; there are several mechanisms by which
+such a link may occur. One theory posits that lipopolysaccharides
+(LPS) from Gram-negative periodontopathic bacteria such as
+Porphyromonas gingivalis may increase inﬂammatory mediators
+and prostaglandin production, leading to preterm birth (ElAttar,
+1976; Kim and Amar, 2006). Alternatively, it was suggested that
+hematogenous spread of oral microbes to the placenta might be
+a driver of preterm birth (Aagaard et al., 2014)..
+
+July 2016 | Volume 7 | Article 1031.
+
+EARLY BACTERIAL COLONIZATION OF
+THE FETUS.
+
+Until recently, it was assumed that newborns are born completely
+germ free, and that the initial colonization of the newborn gut
+occurs during birth. However, several studies suggest that the
+colonization of the fetus begins prior to birth. In 2008, Jimenez
+et al. orally inoculated pregnant mice with a genetically labeled
+Enterococcus faecium strain and, afterward, were able to isolate
+this bacterium from the meconium (ﬁrst stool) of oﬀspring
+delivered by C-section (no labeled bacteria were found in the
+uninoculated control group; Jimenez et al., 2008). This ﬁnding
+implies that maternal bacteria can enter the GI tract of the
+fetus. However, direct proof for microbial colonization of the
+fetus, as well as the potential mechanisms by which bacteria pass
+from the mother to the fetus are still unknown. In a human
+study in which pregnant mothers received probiotics compared
+to placebo controls, bacterial alterations were detected in the
+infant meconium, and placenta (Rautava et al., 2012b) once
+again alluding to a prenatal eﬀect on microbial composition.
+The notion of early microbial colonization of the fetus suggests
+that from the very beginning of development, there are dual
+interactions between the developing host and microbiota, and
+that there is some type of early inheritance of the maternal
+microbial components..
+
+Interestingly, the mode of delivery has an eﬀect on the infant’s
+oral microbiome, as well (Lif Holgerson et al., 2011). Immediately
+after delivery, the oral microbial communities of C-section and
+vaginally delivered newborns resemble that of the mother’s skin
+or vagina, respectively (Dominguez-Bello et al., 2010). It was
+further shown that the oral bacterial populations diﬀer at 3
+months of age between C-section and vaginally delivered infants.
+Generally, more bacterial taxa were detected in the infants
+delivered vaginally compared with infants delivered by C-section,
+with Slackia exigua detected only in infants delivered by C-
+section. In a diﬀerent study of infants infected with S. mutans,
+involved in dental caries, those delivered by C-section acquired
+infection almost 1 year earlier than did vaginally delivered
+infants, and the genotype of these bacteria, was similar to that
+of their mothers (Li et al., 2005)..
+
+It has been suggested that disruption of vaginal bacteria
+transmission via C-section can have
+long-term medical
+implications: a few studies reported that C-section delivery
+increases
+the incidence of celiac disease (Decker et al.,
+2010; Marild et al., 2012), obesity and asthma (Kero et al.,
+2002). Moreover, the administration of probiotics (including
+Lactobacillus sp.) from birth until age 6 months reduced the
+incidence of allergy at 5 years of age in C-section, but not
+vaginally delivered children (Kuitunen et al., 2009). However,
+none of
+these studies directly tested the role of bacteria
+colonizing the newborn in the development of disease. The
+mode of delivery may also have an eﬀect on the maturation
+of the immune system. Jakobsson et al. found lower levels of
+the T helper cell-related chemokines CXCL10 and CXCL11
+in the blood of
+infants delivered by C-section compared
+with vaginally born infants. Moreover, bacteria from the
+genus Bacteroides (which are more abundant after vaginal.
+
+July 2016 | Volume 7 | Article 1031.
+
+Maternal weight was found to be a major inﬂuencing factor in
+shaping milk bacterial composition. In obese pregnant women,
+higher abundance of the genus Staphylococcus, namely S. aureus
+was reported over the ﬁrst 6 months of lactation, as well as
+higher abundance of Lactobacillus in the ﬁrst month, compared
+with samples from mothers of normal weight (Cabrera-Rubio
+et al., 2012). Interestingly, high levels of S. aureus are also
+found in the gut microbiota of overweight children; however,
+the source of this bacterium is, as yet, unclear (Kalliomaki et al.,
+2008). Future research is needed to determine whether the milk
+microbial populations associated with maternal obesity may have
+implications on the oﬀspring’s weight..
+
+July 2016 | Volume 7 | Article 1031.
+
+in Figure 2B). Breast milk contains oligosaccharides, complex
+carbohydrates that cannot be digested by the infant. However,
+infant’s bacteria including Biﬁdobacterium,
+some of
+Lactobacillus, and Bacteroides have the ability to degrade these
+oligosaccharides into small sugars that may be utilized as an
+energy source (e.g., lactose), giving them an advantage over
+competing bacteria (Sela et al., 2011; Manthey et al., 2014). The
+remaining small sugars can be further metabolized by glycolytic
+microbes present in the infant,
+including lactate-producing
+bacteria such as Streptococcus, Staphylococcus, and Enterococcus..
+
+July 2016 | Volume 7 | Article 1031.
+
+July 2016 | Volume 7 | Article 1031.
+
+The work by MO and OK was supported by the Marie
+Curie International Reintegration Grant (FP7-PEOPLE-2013-
+CIG-630956) and the Ministry of Health, State of Israel (3-0000-
+10451). HN was supported by Ministry of Science, Technology &
+Space, State of Israel. .
+
+Abrahamsson, T. R., Wu, R. Y., and Jenmalm, M. C.  Gut microbiota and
+allergy: the importance of the pregnancy period. Pediatr. Res. 77, 214–219. doi:
+10.1038/pr.2014.165.
+
+Ardissone, A. N., de la Cruz, D. M., Davis-Richardson, A. G., Rechcigl,
+K. T., Li, N., Drew, J. C., et al.  Meconium microbiome analysis
+identiﬁes bacteria correlated with premature birth. PLoS ONE 9:e90784. doi:
+10.1371/journal.pone.0090784.
+
+Balmer, S. E., and Wharton, B. A.  Diet and faecal ﬂora in the newborn:
+formula. Arch. Dis. Child. 64, 1672–1677. doi:.
+
+ Microbiota
+proﬁle
+and formula-fed newborns by using
+ﬂuorescence in situ hybridization (FISH). Anaerobe 17, 478–482. doi:
+10.1016/j.anaerobe.2011.03.009.
+
+Bode, L.  Human milk oligosaccharides: every baby needs a sugar mama..
+
+Cabrera-Rubio, R., Collado, M. C., Laitinen, K., Salminen, S., Isolauri, E., and Mira,
+A.  The human milk microbiome changes over lactation and is shaped
+by maternal weight and mode of delivery. Am. J. Clin. Nutr. 96, 544–551. doi:
+10.3945/ajcn.112.037382.
+
+Centers for Disease and Prevention  Community-associated methicillin-
+resistant Staphylococcus aureus infection among healthy newborns–Chicago
+and Los Angeles County, 2004. MMWR Morb. Mortal Wkly. Rep. 55, 329–332.
+doi: 10.1097/01.inf.0000226977.41367.58.
+
+Collado, M. C., Isolauri, E., Laitinen, K., and Salminen, S.  Distinct
+composition of gut microbiota during pregnancy in overweight and normal-
+weight women. Am. J. Clin. Nutr. 88, 894–899..
+
+Dewhirst, F. E., Chen, T., Izard, J., Paster, B. J., Tanner, A. C., Yu, W. H.,
+et al.  The human oral microbiome. J. Bacteriol. 192, 5002–5017. doi:
+10.1128/jb.00542-10.
+
+DiGiulio, D. B., Callahan, B. J., McMurdie, P. J., Costello, E. K., Lyell, D. J.,
+Robaczewska, A., et al.  Temporal and spatial variation of the human
+microbiota during pregnancy. Proc. Natl. Acad. Sci. U.S.A. 112, 11060–11065.
+doi: 10.1073/pnas.1502875112.
+
+DiGiulio, D. B., Gervasi, M., Romero, R., Mazaki-Tovi, S., Vaisbuch, E., Kusanovic,
+J. P., et al.  Microbial invasion of the amniotic cavity in preeclampsia.
+
+DiGiulio, D. B., Romero, R., Kusanovic, J. P., Gomez, R., Kim, C. J., Seok, K. S.,
+et al.  Prevalence and diversity of microbes in the amniotic ﬂuid, the
+fetal inﬂammatory response, and pregnancy outcome in women with preterm
+pre-labor rupture of membranes. Am. J. Reprod. Immunol. 64, 38–57. doi:
+10.1111/j.1600-0897.2010.00830.x.
+
+Dominguez-Bello, M. G., Costello, E. K., Contreras, M., Magris, M., Hidalgo, G.,
+Fierer, N., et al.  Delivery mode shapes the acquisition and structure of
+the initial microbiota across multiple body habitats in newborns. Proc. Natl.
+Acad. Sci. U.S.A. 107, 11971–11975. doi: 10.1073/pnas.1002601107.
+
+Dominguez-Bello, M. G., De Jesus-Laboy, K. M., Shen, N., Cox, L. M., Amir, A.,
+Gonzalez, A., et al.  Partial restoration of the microbiota of cesarean-
+born infants via vaginal microbial transfer. Nat. Med. 22, 250–253. doi:
+10.1038/nm.4039.
+
+Dunlop, A. L., Mulle, J. G., Ferranti, E. P., Edwards, S., Dunn, A. B., and
+Corwin, E. J.  Maternal microbiome and pregnancy outcomes that
+impact
+infant health: a review. Adv. Neonatal Care 15, 377–385. doi:
+10.1097/ANC.0000000000000218.
+
+ElAttar, T. M.  Prostaglandin E2 in human gingiva in health and disease
+and its stimulation by female sex steroids. Prostaglandins 11, 331–341. doi:
+10.1016/0090-69800155-6.
+
+Emanuela, F., Grazia, M., Marco de, R., Maria Paola, L., Giorgio, F., and Marco,
+B.  Inﬂammation as a link between obesity and metabolic syndrome. J.
+Nutr. Metab. 2012:476380. doi: 10.1155/2012/476380.
+
+Fuglsang, J.  Ghrelin in pregnancy and lactation. Vitam. Horm. 77, 259–284..
+
+Gohir, W., Whelan, F. J., Surette, M. G., Moore, C., Schertzer, J. D., and Sloboda,
+D. M.  Pregnancy-related changes in the maternal gut microbiota are
+dependent upon the mother’s periconceptional diet. Gut Microbes 6, 310–320.
+doi: 10.1080/19490976.2015.1086056.
+
+Goldenberg, R. L., Hauth, J. C., and Andrews, W. W.  Intrauterine
+J. Med. 342, 1500–1507. doi:.
+
+Gomez-Arango, L. F., Barrett, H. L., McIntyre, H. D., Callaway, L. K., Morrison,
+M., Nitert, M. D., and group, S. T.  Connections between the gut
+microbiome and metabolic hormones in early pregnancy in overweight and
+obese women. Diabetes. doi: 10.2337/db16-0278. [Epub ahead of print]..
+
+Gonzalez-Perez, G., Hicks, A. L., Tekieli, T. M., Radens, C. M., Williams, B.
+L., and Lamouse-Smith, E. S.  Maternal antibiotic treatment impacts
+development of the neonatal intestinal microbiome and antiviral immunity. J.
+Immunol. 196, 3768–3779. doi: 10.4049/jimmunol.1502322.
+
+July 2016 | Volume 7 | Article 1031.
+
+Hansen, R., Scott, K. P., Khan, S., Martin, J. C., Berry, S. H., Stevenson, M.,
+et al.  First-pass meconium samples from healthy term vaginally-
+delivered neonates: an analysis of the microbiota. PLoS ONE 10:e0133320. doi:
+10.1371/journal.pone.0133320.
+
+Harley, I. T., and Karp, C. L.  Obesity and the gut microbiome: striving for.
+
+Haro, C., Garcia-Carpintero, S., Alcala-Diaz, J. F., Gomez-Delgado, F., Delgado-
+Lista, J., Perez-Martinez, P., et al.  The gut microbial community
+in metabolic syndrome patients is modiﬁed by diet. J. Nutr. Biochem. doi:
+10.1016/j.jnutbio.2015.08.011.
+
+Heikkila, M. P., and Saris, P. E.  Inhibition of Staphylococcus aureus by
+the commensal bacteria of human milk. J. Appl. Microbiol. 95, 471–478. doi:
+10.1046/j.1365-2672.2003.02002.x.
+
+Holgerson, P. L., Vestman, N. R., Claesson, R., Ohman, C., Domellof, M.,
+Tanner, A. C., et al.  Oral microbial proﬁle discriminates breast-fed
+from formula-fed infants. J. Pediatr. Gastroenterol. Nutr. 56, 127–136. doi:
+10.1097/MPG.0b013e31826f2bc6.
+
+J., Schutte, U. M., Beck, D. L.,
+the diversity and temporal
+Abdo, Z., et al.  Characterization of
+stability of bacterial communities in human milk. PLoS ONE 6:e21313. doi:
+10.1371/journal.pone.0021313.
+
+Jeﬀerson, K. K.  The bacterial etiology of preterm birth. Adv. Appl..
+
+Jeurink, P. V., van Bergenhenegouwen, J., Jimenez, E., Knippels, L. M., Fernandez,
+L., Garssen, J., et al.  Human milk: a source of more life than we imagine.
+Benef. Microbes 4, 17–30. doi: 10.3920/BM2012.0040.
+
+Kalliomaki, M., Collado, M. C., Salminen, S., and Isolauri, E.  Early
+diﬀerences in fecal microbiota composition in children may predict overweight.
+Am. J. Clin. Nutr. 87, 534–538..
+
+Kelly, D., Campbell, J. I., King, T. P., Grant, G., Jansson, E. A., Coutts, A.
+G., et al.  Commensal anaerobic gut bacteria attenuate inﬂammation
+by regulating nuclear-cytoplasmic shuttling of PPAR-gamma and RelA. Nat.
+Immunol. 5, 104–112. doi: 10.1038/ni1018.
+
+Khan, I., Azhar, E. I., Abbas, A. T., Kumosani, T., Barbour, E. K., Raoult,
+D., et al.  Metagenomic analysis of antibiotic-induced changes in
+gut microbiota in a pregnant rat model. Front. Pharmacol. 7:104. doi:
+10.3389/fphar.2016.00104.
+
+Kim, J., and Amar, S.  Periodontal disease and systemic conditions: a
+bidirectional relationship. Odontology 94, 10–21. doi: 10.1007/s10266-006-
+0060-6.
+
+Koenig, J. E., Spor, A., Scalfone, N., Fricker, A. D., Stombaugh, J., Knight, R.,
+et al.  Succession of microbial consortia in the developing infant gut
+microbiome. Proc. Natl. Acad. Sci. U.S.A. 108(Suppl. 1), 4578–4585. doi:
+10.1073/pnas.1000081107.
+
+Koleva, P. T., Kim, J. S., Scott, J. A., and Kozyrskyj, A. L.  Microbial
+programming of health and disease starts during fetal life. Birth Defects Res.
+C Embryo Today 105, 265–277. doi: 10.1002/bdrc.21117.
+
+Koren, O., Goodrich, J. K., Cullender, T. C., Spor, A., Laitinen, K., Backhed,
+H. K., et al.  Host remodeling of the gut microbiome and metabolic
+changes during pregnancy. Cell 150, 470–480. doi: 10.1016/j.cell.2012.
+07.008.
+
+Kuitunen, M., Kukkonen, K., Juntunen-Backman, K., Korpela, R., Poussa, T.,
+Tuure, T., et al.  Probiotics prevent IgE-associated allergy until age 5
+years in cesarean-delivered children but not in the total cohort. J. Allergy Clin.
+Immunol. 123, 335–341. doi: 10.1016/j.jaci.2008.11.019.
+
+Kujovich, J. L.  Thrombophilia and pregnancy complications. Am. J. Obstet..
+
+Kumar, P. S.  Sex and the subgingival microbiome: do female sex steroids
+aﬀect periodontal bacteria? Periodontol. 2000 61, 103–124. doi: 10.1111/j.1600-
+0757.2011.00398.x.
+
+Kumar, P., and Magon, N.  Hormones in pregnancy. Niger. Med. J. 53,.
+
+Kunz, C., Rudloﬀ, S., Baier, W., Klein, N., and Strobel, S.  Oligosaccharides
+in human milk: structural, functional, and metabolic aspects. Annu. Rev. Nutr.
+20, 699–722. doi: 10.1146/annurev.nutr.20.1.699.
+
+Lajos, G. J., Passini Junior, R., Nomura, M. L., Amaral, E., Pereira, B. G., Milanez,
+H., et al.  [Cervical bacterial colonization in women with preterm labor
+or premature rupture of membranes]. Rev. Bras. Ginecol. Obstet. 30, 393–399.
+doi: 10.1590/S0100-72032008000800004.
+
+Li, Y., Cauﬁeld, P. W., Dasanayake, A. P., Wiener, H. W., and Vermund,
+S. H.  Mode of delivery and other maternal factors inﬂuence the
+acquisition of Streptococcus mutans in infants. J. Dent. Res. 84, 806–811. doi:
+10.1177/154405910508400905.
+
+MacIntyre, D. A., Chandiramani, M., Lee, Y. S., Kindinger, L., Smith, A.,
+Angelopoulos, N., et al.  The vaginal microbiome during pregnancy
+and the postpartum period in a European population. Sci. Rep. 5:8988. doi:
+10.1038/srep08988.
+
+Mackie, R. I., Sghir, A., and Gaskins, H. R.  Developmental microbial
+ecology of the neonatal gastrointestinal tract. Am. J. Clin. Nutr. 69, 1035S-
+1045S..
+
+Manthey, C. F., Autran, C. A., Eckmann, L., and Bode, L.  Human milk
+oligosaccharides protect against enteropathogenic Escherichia coli attachment
+in vitro and EPEC colonization in suckling mice. J. Pediatr. Gastroenterol. Nutr.
+58, 165–168. doi: 10.1097/MPG.0000000000000172.
+
+Marild, K., Stephansson, O., Montgomery, S., Murray, J. A., and Ludvigsson,
+J. F.  Pregnancy outcome and risk of celiac disease in oﬀspring:
+a nationwide case-control study. Gastroenterology 142, 39.e3–45.e3. doi:
+10.1053/j.gastro.2011.09.047.
+
+Martin, H. L., Richardson, B. A., Nyange, P. M., Lavreys, L., Hillier, S. L., Chohan,
+B., et al.  Vaginal
+lactobacilli, microbial ﬂora, and risk of human
+immunodeﬁciency virus type 1 and sexually transmitted disease acquisition. J.
+Infect. Dis. 180, 1863–1868. doi: 10.1086/315127.
+
+Martin, R., Heilig, H. G., Zoetendal, E. G., Jimenez, E., Fernandez, L., Smidt,
+H., et al.  Cultivation-independent assessment of the bacterial diversity
+of breast milk among healthy women. Res. Microbiol. 158, 31–37. doi:
+10.1016/j.resmic.2006.11.004.
+
+Martin, R., Jimenez, E., Heilig, H., Fernandez, L., Marin, M. L., Zoetendal, E. G.,
+et al.  Isolation of biﬁdobacteria from breast milk and assessment of
+the biﬁdobacterial population by PCR-denaturing gradient gel electrophoresis
+and quantitative real-time PCR. Appl. Environ. Microbiol. 75, 965–969. doi:
+10.1128/AEM.02063-08.
+
+McLean, N. W., and Rosenstein, I. J.  Characterisation and selection of
+a Lactobacillus species to re-colonise the vagina of women with recurrent
+bacterial vaginosis. J. Med. Microbiol. 49, 543–552. doi: 10.1099/0022-1317-49-
+6-543.
+
+Mor, G., and Cardenas, I.  The immune system in pregnancy: a unique
+complexity. Am. J. Reprod. Immunol. 63, 425–433. doi: 10.1111/j.1600-
+0897.2010.00836.x.
+
+July 2016 | Volume 7 | Article 1031.
+
+Mysorekar, I. U., and Cao, B.  Microbiome in parturition and preterm birth..
+
+Naik, S., Bouladoux, N., Wilhelm, C., Molloy, M. J., Salcedo, R., Kastenmuller,
+W., et al.  Compartmentalized control of skin immunity by resident
+commensals. Science 337, 1115–1119. doi: 10.1126/science.1225152.
+
+Neuman, H., Debelius, J. W., Knight, R., and Koren, O.  Microbial
+endocrinology: the interplay between the microbiota and the endocrine system.
+FEMS Microbiol. Rev. 39, 509–521. doi: 10.1093/femsre/fuu010.
+
+Newbern, D., and Freemark, M.  Placental hormones and the control of
+maternal metabolism and fetal growth. Curr. Opin. Endocrinol. Diabetes Obes.
+18, 409–416. doi: 10.1097/MED.0b013e32834c800d.
+
+Oﬀenbacher, S., Boggess, K. A., Murtha, A. P., Jared, H. L., Lieﬀ, S., McKaig,
+R. G., et al.  Progressive periodontal disease and risk of very preterm
+delivery. Obstet. Gynecol. 107, 29–36. doi: 10.1097/01.AOG.0000190212.87
+012.96.
+
+Park, J. S., Park, C. W., Lockwood, C. J., and Norwitz, E. R.  Role of cytokines.
+
+Paul, H. A., Bomhof, M. R., Vogel, H. J., and Reimer, R. A.  Diet-
+induced changes in maternal gut microbiota and metabolomic proﬁles
+inﬂuence programming of oﬀspring obesity risk in rats. Sci. Rep. 6:20683. doi:
+10.1038/srep20683.
+
+Prince, A. L., Antony, K. M., Chu, D. M., and Aagaard, K. M.  The
+microbiome, parturition, and timing of birth: more questions than answers. J.
+Reprod. Immunol. 104–105, 12–19. doi: 10.1016/j.jri.2014.03.006.
+
+Prince, A. L., Antony, K. M., Ma, J., and Aagaard, K. M.  The microbiome
+and development: a mother’s perspective. Semin. Reprod. Med. 32, 14–22. doi:
+10.1055/s-0033-1361818.
+
+Rajilic-Stojanovic, M., Heilig, H. G., Molenaar, D., Kajander, K., Surakka, A., Smidt,
+H., et al.  Development and application of the human intestinal tract
+chip, a phylogenetic microarray: analysis of universally conserved phylotypes
+in the abundant microbiota of young and elderly adults. Environ. Microbiol. 11,
+1736–1751. doi: 10.1111/j.1462-2920.2009.01900.x.
+
+Rautava, S., Collado, M. C., Salminen, S., and Isolauri, E.  Probiotics
+modulate host-microbe interaction in the placenta and fetal gut: a
+randomized, double-blind, placebo-controlled trial. Neonatology 102, 178–184.
+doi: 10.1159/000339182.
+
+Rautava, S., Kainonen, E., Salminen, S., and Isolauri, E.  Maternal
+probiotic supplementation during pregnancy and breast-feeding reduces the
+risk of eczema in the infant. J. Allergy Clin. Immunol. 130, 1355–1360. doi:
+10.1016/j.jaci.2012.09.003.
+
+Smith, M. I., Yatsunenko, T., Manary, M. J., Trehan, I., Mkakosya, R., Cheng,
+J., et al.  Gut microbiomes of Malawian twin pairs discordant for
+kwashiorkor. Science 339, 548–554. doi: 10.1126/science.1229000.
+
+Spor, A., Koren, O., and Ley, R.  Unravelling the eﬀects of the environment
+and host genotype on the gut microbiome. Nat. Rev. Microbiol. 9, 279–290. doi:
+10.1038/nrmicro2540.
+
+Spurbeck, R. R., and Arvidson, C. G.  Lactobacillus jensenii surface-
+associated proteins inhibit Neisseria gonorrhoeae adherence to epithelial cells.
+Infect. Immun. 78, 3103–3111. doi: 10.1128/iai.01200-09.
+
+Tissier, H.  Recherches Sur La Flore Intestinale Des Nourrissons (État Normal.
+
+Turnbaugh, P. J., Ley, R. E., Mahowald, M. A., Magrini, V., Mardis, E. R., and
+Gordon, J. I.  An obesity-associated gut microbiome with increased
+capacity for energy harvest. Nature 444, 1027–1031. doi: 10.1038/nature05414
+Turovskiy, Y., Sutyak Noll, K., and Chikindas, M. L.  The aetiology of
+bacterial vaginosis. J. Appl. Microbiol. 110, 1105–1128. doi: 10.1111/j.1365-
+2672.2011.04977.x.
+
+Ursell, L. K., Clemente, J. C., Rideout, J. R., Gevers, D., Caporaso, J. G., and Knight,
+R.  The interpersonal and intrapersonal diversity of human-associated
+microbiota in key body sites. J. Allergy Clin. Immunol. 129, 1204–1208. doi:
+10.1016/j.jaci.2012.03.010.
+
+Valles, Y., Artacho, A., Pascual-Garcia, A., Ferrus, M. L., Gosalbes, M. J., Abellan, J.
+J., et al.  Microbial succession in the gut: directional trends of taxonomic
+and functional change in a birth cohort of Spanish infants. PLoS Genet.
+10:e1004406. doi: 10.1371/journal.pgen.1004406.
+
+Vestman, N. R., Timby, N., Holgerson, P. L., Kressirer, C. A., Claesson, R.,
+Domellof, M., et al.  Characterization and in vitro properties of oral
+lactobacilli in breastfed infants. BMC Microbiol. 13:193. doi: 10.1186/1471-
+2180-13-193.
+
+Zhang, D., Huang, Y., and Ye, D.  Intestinal dysbiosis: an emerging
+cause of pregnancy complications? Med. Hypotheses 84, 223–226. doi:
+10.1016/j.mehy.2014.12.029.
+
+Rizzo, G., and Arduini, D.  Intrauterine growth restriction: diagnosis and.
+
+Romero, R., Miranda, J., Chaiworapongsa, T., Chaemsaithong, P., Gotsch, F.,
+Dong, Z., et al.  Sterile intra-amniotic inﬂammation in asymptomatic
+patients with a sonographic short cervix: prevalence and clinical signiﬁcance. J.
+Matern. Fetal Neonatal Med. 28, 1–17. doi: 10.3109/14767058.2014.954243
+Sela, D. A., Li, Y., Lerno, L., Wu, S., Marcobal, A. M., German, J. B.,
+ An infant-associated bacterial commensal utilizes breast
+11909–11918. doi:
+sialyloligosaccharides..
+
+Zi, M. Y., Longo, P. L., Bueno-Silva, B., and Mayer, M. P.  Mechanisms
+involved in the association between periodontitis and complications in
+pregnancy. Front. Public Health 2:290. doi: 10.3389/fpubh.2014.00290.
+
+July 2016 | Volume 7 | Article 1031

@@ -1,0 +1,489 @@
+Development of the premature infant gut microbiota
+has recently been shown to evolve in a patterned pro-
+gression associated with postmenstrual age (PMA; gesta-
+tional age at birth plus week of
+life), dominated by
+Bacilli at early PMA, followed by Gammaproteobacteria
+and then Clostridia [5]. In our study, we introduce two
+models to identify associations between the microbiota,
+nutritional intake, medication, and preterm infant growth:
+a categorical model based on three quantitatively defined
+“phases” (P1, P2, and P3) that corresponds to three states
+of the microbiota and a PMA-based model with the three
+composition-based phases replaced by two constant time
+periods identified as early (< 34 weeks PMA; n = 362 data
+points) and late (≥ 34 weeks PMA; n = 343 data points).
+Our analyses identified more significant associations with
+phase, which led us to use the phase-based framework to
+explore potential functional relationships between the pre-
+term microbiota, nutrition, and growth.
+We first defined the phases and phase transition points
+in longitudinal gut microbiota samples from two cohorts
+of preterm and full-term infants from the multicenter
+Prematurity and Respiratory Outcomes Program (PROP)
+and Respiratory Pathogens Research Center (RPRC) at the
+University of Rochester School of Medicine. The distin-
+guishing composition and putative functional capacity of
+each phase was assessed, along with the properties of tran-
+sitions between phases. Our data suggest phase-specific
+microbiota functions and demonstrate the effect of nutri-
+tional intake and clinical factors on phase and period-
+specific microbiota development. Furthermore, our results
+in-
+indicate significant associations between nutritional
+take, the phase of the microbiota, and preterm infant
+growth. Finally, we demonstrate that transition out of
+phase 1 (P1) occurs simultaneously with transition from
+meconium to normal postnatal stool, a milestone that can
+be unambiguously identified at the bedside.
+development in a cohort of 95 preterm and 2 full-term in-
+fants from PROP and 23 full-term infants from RPRC at
+the University of Rochester School of Medicine. A total of
+719 rectal swab samples were collected weekly from the
+PROP preterm infants while in the NICU, spanning PMA
+from 24 to 46 weeks with a good representation across ges-
+tational ages. A total of 2 rectal swabs were collected from
+the 2 PROP full-term infants, and 46 rectal swabs from the
+23 RPRC full-term infants: one near birth (≤ 20 day of life
+[DOL]) and—for the RPRC subjects only—a second at
+1 month of age (20 < DOL ≤ 50) (Table 1). The longitudinal
+analyses included 719 samples from preterm and 48
+samples from full-term infants. Relevant available age
+metrics were gestational age at birth, day of
+life
+(DOL), and PMA. To select the age metric for our
+analyses, we used functional data analysis to fit nutri-
+tion and growth variables, as well as the abundance of
+operational taxonomic units (OTUs)
+in the micro-
+biota, first using PMA and then DOL as the age vari-
+able [21]. The overall fitting variance using PMA was
+lower for OTU abundance and, for most metrics of
+growth and nutrition, consistent with previous findings
+that the temporal dynamics of the preterm infant gut
+microbiota correspond better to PMA than to DOL [5].
+Table 1 Demographic and clinical variables
+Variables (N = 120)
+Necrotizing enterocolitis diagnosis
+(medical, surgical, N)b
+Received antimicrobials (any, ≥ 7 days, N)c
+Received diuretics (any, N)c
+Received postnatal corticosteroids (any, N)c
+Received proton pump inhibitors (any, N)c
+Received H2 receptor antagonist (any, N)c
+Received motility agents (any, N)c
+aOther race includes those unknown
+bNecrotizing enterocolitis diagnosis (medical, surgical) diagnosis for one baby
+is unknown because of early withdrawal from study
+c Medication received within 1 week prior to microbiome sample collection.
+Sample collection occurred approximately weekly throughout the majority of
+the hospitalization as clinically permitted. If the interval between samples was
+greater than 7 days apart, then short portions of the hospital stay are not
+covered by this analysis. Therefore, subjects who had the respective
+medication, but not within 1 week prior to sample collection, are not counted
+in this summary table
+We quantified the pattern of progression of the gut
+microbiota with respect to the order of phase transition
+events using the sequence of phases observed in the
+consecutive samples from each individual infant to com-
+pute the transition probabilities between the phases. For
+each phase, the probability that the subsequent sample
+from the same individual will be in the same phase is
+higher than the probability of transitioning to a different
+phase (Fig. 1d). Transition from one phase to the next
+consecutive phase is more likely than the transition from
+a higher phase to a lower phase (e.g., P2 to P1) or from
+P1 to P3 directly. Accordingly, we found a strong rela-
+tionship between PMA and microbiota phases (Fig. 1e).
+For this preterm cohort, 70% of all P1 samples were
+observed at PMA of 29 weeks or less; 84% of all P2
+samples were observed from 28 weeks to 36 weeks
+PMA; and 78% of all P3 samples at 33 weeks or later.
+Eighty six percent of all samples from 37 weeks PMA
+and later were in P3, suggesting that preterm infant
+24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+Post Menstrual Age In Weeks
+Fig. 1 Overview of the preterm infant gut microbiota phases and properties. a The decision tree for classifying a microbiota sample into one of
+the three phases. b A composition bar chart with each sample grouped by phases 1–3 (P1–P3) from left to right. Green, gray, orange, and blue
+represent Bacilli, Gammaproteobacteria, Clostridia, and Bacteroidia, respectively. c Bar charts representing the average weighted UniFrac distance
+between consecutive samples of each individual infant. The bars are grouped into three major categories from left to right according to the
+initial phase of the consecutive samples being assessed. Each bar within a category corresponds to the phase of the second consecutive sample.
+The height of the bar indicates the average dissimilarity between consecutive samples of the corresponding phases, with exact values included in
+the table below the graph. d Bar charts indicating the transition probability between consecutive samples within an individual. The groupings
+and bars within each group indicate the phases of the first and second sample of a pair of consecutive samples, respectively, and are ordered as
+described in c. Transition probabilities are included in the table below the graph. e The distribution of samples over corrected gestational age in
+weeks. The dashed line separates the samples into early (< 34 weeks PMA) and late period (≥ 34 weeks PMA), based on functional variance of
+microbiota composition across all 81 individuals. f Bar charts showing the average composition of the samples in each phase at the genus level,
+with prominent genera labeled. For two Enterobacteriacaea and one Clostridiacaeae, the genus could not be determined and the family is indicated
+instead (See Additional file 2: Comment on Figure 3F). Lines connecting segments between phases indicate that the segment represents the same
+genus in each bar. A complete list of the genera represented here and their relative abundances can be found in Additional file 4: Table S3
+The longitudinal patterns of rectal microbiota phase
+transitions for 95 preterm and 25 full-term subjects are
+shown in Fig. 3a relative to gestational age at birth.
+Growth of the subjects is shown as change in weight Z-
+score from birth to NICU discharge for preterms and
+birth to 1 month for full terms. Comparison of preterm
+infants in P1 (N = 42; mean birth GA (gestational age) =
+27.43 weeks) with those in P2 or P3 (N = 55; mean birth
+GA = 30.29 weeks) at the time of their first microbiota
+sample showed significant difference (p < 0.0001)
+in
+mean birth GA between these two groups. Furthermore,
+the most premature subjects (< 29 weeks birth GA) were
+significantly more likely to be in P1 than the full-term
+subjects at their first sample (61.8 vs 32.0%, p = 0.025).
+The change in weight Z-score is associated with length
+of time in each phase, with the lowest change (at the red
+end of the spectrum in Fig. 3a) in subjects (i.e., JE573,
+J5028, J1B12) who remain in phase 1 or 2 for prolonged
+periods. The largest negative change in weight Z-scores
+was associated with delays in transition to a P3 gut
+microbiota (p = 0.0023). Delayed achievement of P3 was
+also associated with prematurity, with full-term subjects
+reaching P3 by 1 month of age much more frequently
+than preterm subjects (100 vs 53.4%, p = 0.0001).
+Similarly, greater PMA-adjusted growth by discharge
+(preterms) or 1 month (full terms) was observed in
+the full-term subjects than in the preterm subjects
+(mean change in weight Z-score − 0.033 vs − 1.269,
+p ≈ 0.0). Eleven infants were treated for necrotizing
+enterocolitis (NEC) and two of these died of the dis-
+In those who survived, NEC was frequently
+ease.
+followed by more than 2 weeks in P2 (J6B6F, J900B,
+J00F9, J2B52, and J8648). One infant who required a
+jejunal ostomy remained in P1 for an extended period
+of time (J0BE5). Thus, prolonged periods in P1 and P2
+may represent the effects of lengthy antibiotic treat-
+ment and/or lack of enteral nutrition. Although the
+number of cases is insufficient for statistical assess-
+ment, our data suggest an association between delayed
+transition to P3 and a long-standing feeding intoler-
+ance in the NICU that results in administration of
+elemental amino acid-based formula (maroon ‘E’
+in
+the right-hand margin of Fig. 3a).
+Early and late periods of the preterm infant microbiome
+To demonstrate the utility of modeling the microbiome
+as three compositionally defined phases, we compared
+gut microbiota development using two constant time pe-
+riods based solely on PMA. Specifically, all preterm longi-
+tudinal samples (n = 705) were divided into two groups or
+periods of equal functional variance based on fitted micro-
+biota taxa abundance, an early period (< 34 weeks PMA;
+n = 362) and a late period (≥ 34 weeks PMA; n = 343)
+(Fig. 1e and Additional file 2: Figure S5). This separ-
+ation into early and late periods was used as an un-
+biased point of comparison to assess the utility of the
+phase-based approach relative to a purely temporal
+approach in the context of a nutrition-medication-
+microbiota-growth model. Using linear mixed-effects re-
+gression models as described for the phase-based nutrition
+analysis (Methods-Model A) with the weight Z-score as
+proportion of calories from enteral feeding are signifi-
+cantly associated with the phase of the microbiota in both
+periods. A higher proportion of nutritional lipids is con-
+sistently positively associated with the infant gut micro-
+biota being in P2 and negatively associated with P1, while
+a higher proportion of proteins is positively associated
+with a P1 microbiota at an earlier PMA, negatively associ-
+ated with being in P1 at later PMA, and negatively associ-
+ated with being in P2 irrespective of PMA. Antibiotics are
+positively associated with a P2 gut microbiota, significant
+in the later PMA period (p = 0.0015), and nearly
+significant in the earlier period (p = 0.0778). The vari-
+ables used in these analyses, as well as their p values
+and beta estimates, are provided in Table 3A–B and
+Additional file 9: Table S8A–B.
+aResults of mixed-effects logistic regression analysis between nutrition/medication and microbiome phases during the EARLY period (< 34 weeks PMA). Phases 1
+and 2 are considered as binary outcome variables (yes/no) and are analyzed separately. Beta values are the estimated regression coefficients and p values are
+computed from the likelihood ratio tests. For clarity, only significant associations are reported in this table. Full results are reported in Additional file 9: Table S8A
+bResults of mixed-effects logistic regression analysis between nutrition/medication and microbiome phases during the LATE period (≥ 34 weeks PMA). Phases 1
+and 2 are considered as binary outcome variables (yes/no) and are analyzed separately. Beta values are the estimated regression coefficients and p values are
+computed from the likelihood ratio tests. For clarity, only significant associations are reported in this table. Full results are reported in Additional file 9: Table S8B
+sought to identify dynamic aspects of host biology that
+correspond to phase transition. Emerging evidence sug-
+gests that the initial newborn infant gut microbiota is
+partially acquired by maternal transmission from the
+amniotic fluid and placenta before birth [10–13]. In
+utero, the fetus swallows large quantities of amniotic
+fluid that is colonized with bacteria in those mothers
+who deliver prematurely [11, 33]. Genera in common
+between amniotic fluid and the meconium, the earliest
+fecal material passed by infants, suggests that pioneer
+colonizers of
+the infant gut are from this maternal
+source. In addition to amniotic fluid that has been con-
+sumed, meconium is formed from sloughed off gastro-
+intestinal epithelial cells which are generated as debris
+during periods of rapid digestive tract development and
+convolution of the intestinal epithelial surface. It has
+in preterm infants, passage of
+been established that
+meconium as stool is both delayed and prolonged and is
+observed well beyond the first stool, with final clearance
+occurring up to several weeks after birth [34].
+To identify potential associations between the presence
+of meconium and P1 of the microbiota, we examined the
+relationship between clearance of the meconium from the
+stool and the initial transition of the microbiota out of P1
+(Fig. 3b). Two infants remained in P1 (J7F5C and J8560),
+but did not survive beyond the first weeks in the NICU.
+Two infants cleared their meconium by discharge but
+their last microbiota sample was still in P1 (J0BE5 and
+J5633). The remaining 38 infants that were observed to be
+in P1 at their first rectal sample were included in a linear
+regression model using gestational age at birth and the
+DOL of their last P1 sample before their initial transition
+to another phase as explanatory variables, with the DOL
+of meconium clearance as the dependent variable. This
+model explained approximately half of the variation in the
+day of life of stool transition from meconium to normal
+infant stool (R-square = 0.51). Phase transition was found
+to be highly significant in this model (p < 0.0001), while
+gestational age at birth and the intercept did not exhibit
+significant associations (p values = 0.35 and 0.23, respect-
+ively), indicating that the time of stool transition was not
+associated with prematurity or PMA once microbiota
+phase transition was controlled for. On average, the last
+P1 sample before the initial phase transition occurred
+4.7 days before stool transition was observed (Fig. 3b). To
+assess the similarity between the meconium and P1
+microbiota samples, we first categorized all 721 samples
+as meconium or not, depending on whether the sample
+was collected from an infant that had not transitioned to
+normal stool, and as P1 or not, according to the decision
+tree. A majority of meconium samples were in P1 (59.8%)
+and P1 samples in meconium (64.4%) (Additional file 2:
+Figure S6A). We next used linear regression analysis to
+identify the taxa significantly associated with meconium
+The succession of gut microbiota in our preterm co-
+horts revealed a low level of initial diversity in P1, which
+is dominated by facultative anaerobes, followed by in-
+creasing diversity and abundance of obligate anaerobes
+and a shift to fermentation based metabolism in P3.
+Consistent with other studies, we determined that this
+programmed, non-random developmental succession of
+microbiota is largely determined by PMA [5, 6]. What
+drives this patterned succession toward a homeostatic
+relationship between the infant and colonizing microbiota
+is not known, but likely involves complex interactions be-
+tween the mucosal immune system as well as metabolic
+interactions within the gut microbial community and the
+surrounding tissue and microenvironment, which remain
+dynamic during periods of gastrointestinal development in
+early life. Antimicrobial peptides (AMPs) produced by
+Paneth cells (PCs) in the epithelium of the small intestine
+establish a feedback loop between the host and com-
+mensal bacteria that is essential for intestinal homeostasis
+and microbiota colonization [39]. Although the number of
+immune-competent PCs are significantly higher after
+37 weeks of gestation when compared to preterm infants,
+the number of immune-competent PCs are higher in in-
+fants with GA above 29 weeks compared to infants with
+GA under 29 weeks [42]. This period around PMA
+29 weeks corresponds to the PMA ~ 30 weeks where we
+observed the transition from P2 to P3 in our preterm co-
+horts, suggesting that PC AMPs are one factor that modu-
+lates the shift toward a community dominated by obligate
+anaerobes. Streptococcus and Veillonella in P3, which fre-
+quently co-occur and interact metabolically in microbial
+communities, through the production of lactic acid by
+Streptococcus which is used as a carbon source by Veillo-
+nella [43]. Similar metabolic interactions that contribute
+Methods
+Clinical methods
+All study procedures were approved by the University of
+Rochester School of Medicine Internal Review Board (IRB)
+(Protocol # 37933). Infants included in the study were from
+the multicenter Prematurity and Respiratory Outcomes
+Program (PROP) and the Respiratory Pathogens Research
+Center (RPRC) at the University of Rochester School of
+Medicine and were cared for in a single-center Newborn
+Intensive Care Unit (NICU). Clinical care in terms of type
+and duration of antibiotic treatment, corticosteroids, di-
+uretics, motility agents, and H2 receptor agonists as well as
+the timing and volume of feeds was at the discretion of
+treating physicians. Rectal swabs were used to collect fecal
+material from consented infants from 24 PMA until dis-
+charge and again at 6 months and 1 year for preterms and
+birth and 1 month for full terms. Each sample was collected
+by inserting a sterile Copan flocked nylon swab (Copan
+Diagnostics, Murrieta, CA) moistened with normal saline
+beyond the sphincters into the rectum and then twirled.
+Each sample was immediately placed into sterile buffered
+saline and stored at 4 °C for no more than 4 h. Samples
+were processed daily, which involved extraction of the fecal
+material from the swab in a sterile environment and imme-
+diately frozen at − 80 °C until DNA extraction. All sampling
+swabs, plasticware, buffers, and reagents used for sample
+collection and extraction of nucleic acids were sterile and
+UV-irradiated to insure no contamination from sources
+outside of the infant and sample.
+is the sum of total calories per kilogram per day for the
+7 days prior to sampling. The proportion of enteral calo-
+ries computed as the ratio of (grams of lipids/protein
+per kilogram) divided by (total calories per kilogram) for
+each day, summed over the 7 days prior to sampling.
+“Enteral calorie ratio past week” was computed as the
+total calories per kilogram consumed enterally in the
+week prior to sampling divided by the total calories per
+kilogram consumed (enterally and parenterally) in the
+same period.
+Genomic DNA extraction
+Total genomic DNA was extracted with a modified
+method using the QIAGEN Fecal DNA kit and FastPrep
+mechanical
+lysis (MPBio, Solon, OH). 16S ribosomal
+RNA (rRNA) was amplified with Phusion High-Fidelity
+polymerase (Thermo Scientific, Waltham, MA) and
+dual indexed primers specific to the V3-V4 hypervari-
+able regions (319F: 5′ ACTCCTACGGGAGGCAGCAG
+3′; 806R: 3′ ACTCCTACGGGAGGCAGCAG 5′) [57].
+Amplicons were pooled and paired-end sequenced on
+an Illumina MiSeq (Illumina, San Diego, CA) in the
+University of Rochester Genomics Research Center.
+Each sequencing run included (1) positive controls con-
+sisting of a 1:5 mixture of Staphylococcus aureus, Lacto-
+coccus lactis, Porphyromonas gingivalis, Streptococcus
+mutans, and Escherichia coli and (2) negative controls
+consisting of sterile saline.
+16S rRNA microbiota data pre-processing
+To ensure the quality of statistical analysis, microbiome
+samples with < 12,000 total reads were excluded from the
+subsequent data analyses. Microbiota abundance data
+were
+(level 2:
+PHYLUM–level 7: SPECIES). For characterization of the
+microbiota phases and within phase abundance analyses,
+raw relative abundance values were used. For beta diver-
+sity calculations, normalization by rarefaction at a depth
+of 12,000 reads was performed. For longitudinal abun-
+dance analyses, at each taxonomic level we excluded OTU
+units (taxa) with equal or more than 98% of exactly zero
+reads among the 705 samples. In total, 140 genera and
+198 species are used for these statistical analyses. The
+abundance data were log2 transformed (log2(x + 1)) fol-
+lowing normalization by cumulative sum scaling [64].
+assessed at each taxonomic level using the metagen-
+omicsSeq zero-inflated Gaussian test [64], and the re-
+sults are summarized in Additional file 5: Tables S4A–C.
+Testing for differential functional capacity between the
+phases was performed using LEfSe [67] with per-sample
+normalization to 1 M total counts, minimum effect size
+of 2.0, alpha of 0.1, an all-against-all strategy, and other-
+wise default parameters. The results are summarized in
+Additional file 6: Table S5. An exploratory test of the
+equality of the median of the week-to-week differences
+of samples within individual subjects between the cases
+where the phase remains the same and the cases where the
+phase changes was performed using the Wilcoxon rank-
+sum test. The p value reported for this test is approximate
+due to the paired nature of beta-diversity and the presence
+of repeated measures from the same subjects.
+Here, x⋅;v tð Þ represents the sample mean abundance
+function calculated from all subjects. V tð Þ represents the
+overall temporal variance at the species level. The max-
+imum of V tð Þ occurred at PMA = 34 weeks (rounded to
+integers), which is illustrated in Additional file 2: Figure S5.
+Based on this cutoff, we define the EARLY period of PMA
+to be (0,34) and the LATE period to be [34,∞). The EARLY
+interval has 362 data points; the LATE interval has 343
+data points.
+Here, NutriMed(i,k) (tj) is the kth clinical covariate for
+the ith subject measured at the jth time point. βk is the
+corresponding linear coefficient (fixed effect); αi
+is a
+random-effect term that quantifies the within-subject
+dependence; and ϵij is the i.i.d. measurement error. In
+summary, model A associates weight Z-score to the
+time periods (EARLY versus LATE), nutrition and
+medication variables, and their interactions. Model B is
+much like model A except
+it uses microbiota
+phases to quantify the developmental stages of micro-
+bial community instead. For model A, LATE is consid-
+ered as the baseline phase (coded as 0) and EARLY is
+coded as 1. For model B, phase 3 is considered as the
+baseline phase (coded as 0); phases 1 and 2 are coded
+as 1 in two separate binary variables. The interactions
+included in both models are defined as the products of
+the nutrition/medication variables and period/phase-re-
+lated covariates. The significance of associations is de-
+test with Satterthwaite’s
+termined by regression t
+approximation. Due to the use of large number of co-
+variates in these models, stepwise model selection
+based on the Akaike information criterion (AIC) was
+used to reduce model complexity. The results of model
+B for weight Z-score are summarized in Table 2 of the
+main text. As an example, the linear associations of P2
+and percent lipids * P2 with the weight z-score are both
+significant (beta = − 0.7766 for P2 and 5.658 for lipids *
+P2); meaning that while P2 is correlated with a smaller
+weight z-score as compared with the baseline (P3), a
+higher percent of lipid intake for P2 subjects increases
+the weight Z-scores for subjects in P2. Analyses were
+performed in R 3.2.0 (R Foundation for Statistical Com-
+puting, Vienna, Austria).
+Additional file 1: Table S1. Number of significant associations
+identified in the initial linear mixed-effects regression analysis. Specifically,
+for each covariate listed in this table, we performed linear mixed-effects
+regression analyses in which the response variables are microbial taxa
+abundance and the regressors are as follows: (1) gestational age at birth,
+(2) post-menstral age, (3) this covariate (main), and (4) the interation
+between the main covariate and PMA. Regression t tests were used to
+assess the statistical significance of associations. Benjamini-Hochberg multiple
+testing procedure was used to control false discovery rate at 0.05 level. Listed
+in this table are the numbers of taxa that are significantly associated with
+each regressors in these initial regression analyses. (DOCX 17 kb)
+Additional file 2: Figure S1. Composition bar charts by subject and
+sampling method. Figure S2. Alpha diversity by subject and sampling
+method observed OTUs. Figure S3. Number of Dirichlet components vs.
+model fit. Figure S4. Weighted UniFrac Principal Coordinate Analyses of
+phase and Dirichlet component. (A) Weighted UniFrac Principal
+Coordinate Analysis plot colored by phase. (B) Weighted UniFrac Principal
+Coordinate Analysis plot colored by Dirichlet Component. Figure S5.
+Total functional variance based on the fitted microbiome abundance at
+the species level relative to postmenstrual age (PMA). Figure S6. Linear
+regression analysis of meconium samples and Phase 1 rectal samples.
+Comment on Figure 3F. (DOCX 1141 kb)
+Additional file 3: Table S2. Confusion table of phases vs. Dirichlet
+multinomial mixture components. Each sample was classified as
+representing a specific phase based on the ratios of Bacilli,
+Gammaproteobacteria, and Clostridia, as described. Independently, each
+sample was classified as representing a Dirichlet multinomial mixture
+(DMM) component based on the abundances of all classes of bacteria
+present. Each row of the table above indicates the number of samples
+classified as a given phase, and each column indicates the number of
+samples classified as a given DMM component. Row/column
+intersections indicate the number of samples classified as the
+corresponding phase (row) and DMM component (column). DMM
+components are numbered automatically from the most common to the
+least common, while phases are numbered according to their order in a
+model of temporal progression. Phase 1 is equivalent to DMM
+component 3; phase 2 corresponds to DMM component 2; and phase 3
+corresponds to both DMM components 1 and 4. Colors on the row and
+column labels indicate these correspondence relationships, and colors
+internal to the table identify sets of samples where the phase-based and
+DMM component classifications are in agreement. (DOCX 18 kb)
+Additional file 5: Table S4. A. Results of differential abundance tests
+(metagenomeSeq zero-inflated Gaussian) of all bacterial taxa between
+microbiome phases 1 and 2. B. Results of differential abundance tests
+(metagenomeSeq zero-inflated Gaussian) of all bacterial taxa between
+microbiome phases 2 and 3. C. Results of differential abundance tests
+(metagenomeSeq zero-inflated Gaussian) of all bacterial taxa between
+microbiome phases 1 and 3. (ZIP 536 kb)
+Additional file 7: Table S6. Significant associations between bacterial
+taxa and nutrition, medications, and other clinical factors, within each of
+the three phases of the microbiome. (XLSX 34 kb)
+Availability of data and materials
+All phenotypic data, 16S rRNA sequence reads and generated datasets is
+publically available through dbGaP accessions phs001297.v1.p1 (PROP
+rectal samples n = 721, n = 97 subjects) and phs001347.v2.p1 (RPRC/PROP
+fullterm samples n = 46 samples, n = 23 subjects, meconium and stool
+samples, n = 10 samples, n = 5 subjects) through url  
+nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs00001297.v1.p1 and
+url  
+phs00001347.v2.p1.
+Received: 18 April 2017 Accepted: 23 November 2017

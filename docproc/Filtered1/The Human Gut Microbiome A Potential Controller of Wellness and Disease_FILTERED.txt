@@ -1,0 +1,1403 @@
+181_PARAGRAPHS
+
+The human microbiome comprises of collective genomes of
+microbiota inhabiting us, namely protozoa, archaea, eukaryotes,
+viruses and predominantly bacteria that live symbiotically on and
+within various sites of the human body. Examples of occupied
+habitats include our oral cavity, genital organs, respiratory tract,
+skin and gastrointestinal system (Lloyd-Price et al., 2016). The
+human microbiota is estimated to be ∼1013–1014 microbial
+cells, with around 1:1 microbial cells to human cells ratio
+(Sender et al., 2016). These numbers are derived from the
+total bacterial cells in colon  the organ
+that harbors the densest number of microbes (Sender et al.,
+2016). The diverse gastrointestinal microbiota is predominantly
+composed of bacteria from three major phyla, namely Firmicutes,
+Bacteroidetes, and Actinobacteria (Tap et al., 2009). This diverse
+and complex microbiome serves as a functional expansion of
+host genomes, and is estimated to harbor 50- to 100-fold
+more genes, compared to the host. These extra genes have
+added various types of enzymatic proteins which were non-
+encoded by the host, and play a critical role in facilitating
+host metabolism, thus contributing to the regulation of host
+physiology (Hooper and Gordon, 2001). Until recent decades, the
+properties of the human microbiome and the host–microbiota
+interactions have been largely unknown due to technology
+limitations especially in examining non-cultivable microbes
+of interest, and lack of population-scale data depicting the
+microbiota compositions and functions. However, advances in
+sequencing technologies and subsequent large-scale sequence-
+based microbiome projects such as the Human Microbiome.
+
+Abbreviations: ACC-1, acetyl-CoA carboxylase; APC, adenomatous polyposis
+coli; Arg1, arginase 1; ASD, autism spectrum disorder; ASF, altered Schaedler ﬂora;
+ATP, adenosine triphosphate; BFT, Bacteroides fragilis enterotoxin; BMI, body
+mass index; c-AMP, cyclic adenosine monophosphate; CD, Crohn’s disease; CD14,
+cluster of diﬀerentiation 14; CDI, Clostridium diﬃcile infection; chAT, choline
+acetyltransferase; CLA, conjugated linoleic acid; CNS, central nervous system;
+CoA, coenzyme A; CRC, colorectal cancer; CTLA-4, cytotoxic T lymphocyte
+protein 4; DCA, deoxycholic acid; DNL, de novo lipogenesis; EGC, enteric glial
+cell; ENS, enteric nervous system; ETBF, enterotoxigenic Bacteroides fragilis; FAS,
+fatty acid synthase; Fiaf, fasting-induced adipose factor; FMT, fecal microbiota
+transplant; FOXP3,
+farnesoid X receptor; GABA,
+γ-aminobutyric acid; GF, germ free; GIT, gastrointestinal tract; GLP, glucagon-
+like peptide; GPCR, G protein-coupled receptor; GST, glutathione S-transferase;
+HDAC, histone deacetylase; HDL, high-density lipoprotein; IBD, inﬂammatory
+bowel disease; IBS, irritable bowel syndrome; IFN-γ, interferon gamma; IgA,
+immunoglobulin A; IL, interleukin; IPA, indole-3-propionic acid; LCA, lithocholic
+acid; LPS, lipopolysaccharide; MET, mesenchymal epithelial transition; MHC,
+major histocompatibility complex; MS, maternal separation; mTg, microbial
+transglutaminase; NF-κB, nuclear factor-kappa B; NKG2D, natural-killer group 2,
+member D; NLR, nod-like receptor; NO, nitric oxide; NOS, nitric oxide synthase;
+OF-IN, oligofructose-enriched inulin; OmpC, Escherichia coli outer membrane
+protein; PD, Parkinson’s disease; PD-L1, programmed cell death protein 1 ligand 1;
+PPA, propionic acid; PRR, pattern recognition receptor; PTMP, post-translational
+modiﬁcation of proteins; PXR, pregnane X receptor; RA, rheumatoid arthritis;
+RNA, ribonucleic acid; RNS, reactive nitrogen species; ROS, reactive oxygen
+species; SCFA, short-chain fatty acid; SFB, segmented ﬁlamentous bacteria; SLE,
+systemic lupus erythematosus; SOCS3, suppressor of cytokine signaling 3; sp,
+species; SPF, speciﬁc-pathogen free; TcdA, Clostridium diﬃcile toxin A; TcdB,
+Clostridium diﬃcile toxin B; Tg, transglutaminase; TH, helper T-cell; TLR, toll-
+like receptor; TMAO, trimethylamine N-oxide; TNF, tumor necrosis factor; Treg,
+regulatory T cell; tTg, tissue transglutaminase; UC, ulcerative colitis; WGS, whole
+genome sequencing; WHO, World Health Organization; Wnt, Wingless Int; ZO-1,
+zonula occludens-1..
+
+Besides SCFA, gut microbiota-synthesized micronutrients
+such as vitamins exhibit beneﬁcial value for both microbial
+and host metabolisms. Vitamin-K-producing gut bacteria
+namely Bacteroides fragilis, Eubacterium lentum, Enterobacter
+agglomerans, Serratia marcescens, and Enterococcus faecium
+(Fernandez and Collins, 1987; Cooke et al., 2006) anaerobically
+synthesize vitamin K2 (menaquinone) which is essential
+in
+decreasing vascular calciﬁcation, elevating HDL and lowering
+cholesterol levels, contributing to lower risk of cardiovascular
+disorders such as atherosclerosis and coronary heart disease
+(Kawashima et al., 1997; Geleijnse et al., 2004). Gut microbiota
+also serves as an important source of vitamins B for the host
+(Salminen et al., 1998; Degnan et al., 2014). Among them,
+vitamins B5 and B12, which are exclusively synthesized by
+intestinal microbiota, act as coenzyme for extensive range of host
+biochemical processes including production of acetylcholine and
+cortisol which are required for normal functioning of the nervous
+system. Deﬁciency of vitamins B5 and B12 have been linked to
+several disorders such as gastrointestinal discomfort, insomnia,
+neuropsychological and hematological disorders (Andres et al.,
+2004; Gominak, 2016). However, the possible link between loss of
+vitamin-producing gut microbiota and disease onset has not yet
+been elucidated..
+
+such as Clostridium perfringens.
+
+TABLE 1 | Metabolites contributed by gut microbiota and their respective functions..
+
+energy homeostasis; synthesis of
+glucagon-like peptide 1 (GLP-1);
+increase leptin production.
+(cid:114).
+
+disruptive eﬀects of proinﬂammatory cytokines resulted by
+aberrant immune-inﬂammatory axis (Peng et al., 2007; Chen
+et al., 2017), whereby the mechanism remains unclear. On the
+other hand, commensal SFB was shown to induce intestinal
+TH17 cells and production of pro-inﬂammatory IL-17 and IL-
+22, enhancing antimicrobial defense and mucosal
+immunity
+in against of
+intestinal pathogen Citrobacter rodentium in
+gnotobiotic mice model (Ivanov et al., 2009). Besides, according
+to Atarashi et al.  ATP which can be contributed
+by gut microbiota,
+is capable to activate diﬀerentiation of
+lamina propria cells (CD70 and CD11c) into TH17. In short,
+tight regulation of Treg/TH17 balance by healthy host-gut
+microbiota interactions are critical to prevent aberrant immune-
+inﬂammatory response..
+
+On the other hand, the emerging modulatory role of gut
+microbiota in the ENS had been documented in various studies.
+The ENS is crucial for life and is capable in autonomously
+the GIT, and
+regulating the physiology and function of
+bidirectionally communicate with the CNS via vagal pathways,
+forming the “gut-brain axis.” The major component of ENS
+is the EGC which resembles astrocyte in the CNS. EGCs
+form the enteric glial network that critically regulates a variety
+of GI functions including exocrine/endocrine secretions, gut
+motility, blood ﬂow, and immune-inﬂammatory reactions, via
+a complex repertoire of calcium-dependent signaling (Ochoa-
+Cortes et al., 2015). Dysfunctions in ENS and EGC have
+been implicated in various gastrointestinal disorders (such
+as IBD, IBS, postoperative ileus), motility disorder (such as
+constipation), neurodegenerative disorder (such as PD) and
+infection-induced gut inﬂammation. Given the close proximity
+of gut microbiota and the ENS that located throughout the
+GIT,
+it is not surprised that gut microbiota can aﬀect and
+modulate the development and function of ENS. In a study
+by Collins et al.  region-speciﬁc signiﬁcant reduction
+of myenteric nerve ﬁber density was observed in jejunum
+and ileum, but not duodenum of early postnatal GF mice
+compared to the SPF mice and ASF colonized mice. In addition,
+notably decrease in gut motility of GF mice compared with
+SPF and ASF counterparts was observed as well, reﬂecting the
+importance of gut microbiota in postnatal development of ENS
+in mid-to-distal small intestine, however, the reason underlies
+the region-speciﬁc myenteric ganglia reduction remains unclear.
+Another study by Kabouridis et al. had demonstrated
+marked reduction in mean number and density of mucosal
+EGCs in 8-week old GF mice compared to the conventionally-
+raised (CONV-R) counterparts, indicating the requirement of
+gut microbiota in normal development of mucosal enteric glial
+network. The same study also showed that gut microbiota-
+dependent EGC normal development does not restricted to
+critical early postnatal period as conventionalization of 4-
+week old GF mice demonstrated restoration of enteric glial
+network..
+
+Improved understanding on antibiotic-induced microbiome
+dysbiosis in pathogenesis of CDI and its recurrence has given
+rise to development of new promising therapeutic approach
+that
+involves restoration of gut microbiota, such as FMT.
+This therapy has successfully restored gut homeostasis via
+re-introduction of gut microbiota from healthy donor feces.
+Patients received FMT showed long-lasting elevation of fecal
+microbial diversity and a high recovery rate compared
+to vancomycin (narrow-spectrum antibiotic) therapy (recovery
+rate = 60%) (van Nood et al., 2013). Besides, elevation in gut
+Bacteroidetes and Clostridium cluster IV and XIVa (Firmicutes),
+and reduction in Proteobacteria were observed post-FMT (van
+Nood et al., 2013),
+indicating the importance of dominant
+microbes such as Bacteroidetes and non-pathogenic Clostridia
+member in suppressing C. diﬃcile outgrowth. Similar study by
+Konturek et al. also had demonstrated a high healing
+rate of CDI post FMT treatment, with no recurrent
+CDI observed across 16 months follow-up. Besides, marked
+reduction of proinﬂammatory cytokines (such as TNF-α, IL-
+1β, IL-6, IL-8, and IL-12), signiﬁcant elevation in plasma level
+of human antimicrobial peptide LL-37, along with increase in
+beneﬁcial bacteria (such as Lactobacillaceae, Ruminococcaceae,
+Desulfovibrionaceae, Sutterellaceae, and Porphyromonadaceae)
+were observed in successfully treated patients post FMT.
+Although the exact beneﬁcial
+strains and the underlying
+mechanisms of FMT in conferring high cure rate of CDI have not
+yet been clariﬁed, these studies undoubtedly demonstrate a strong
+association between gut microbiome and development of CDI,
+and shed a light on the potential widespread use of microbiota
+displacement therapy in targeting CDI..
+
+Conversely, Nagao-Kitamoto et al. suggested that
+gut dysbiosis potentially contributes to IBD pathogenesis. In
+this study, elevated pro-inﬂammatory gene expression was
+observed in GF mice colonized by gut microbiota isolated
+from IBD patients. Colitis-prone genetically predisposed GF
+mice colonized by IBD-associated-microbiota developed severe
+colitis compared to those that were colonized by healthy
+human microbiota. Together these ﬁndings strongly indicate
+bidirectional relationship between such disease and gut dysbiosis,
+in which dysbiosis potentially contributes to the onset of
+IBD and also serves as a secondary consequence of gut
+inﬂammation. Example of
+the dysbiotic features that are
+commonly observed in IBD patients is the reduction in gut
+Firmicutes such as Faecalibacterium prausnitzii and Roseburia
+sp. (Sokol et al., 2008; Willing et al., 2010; Machiels et al.,
+2014). These bacteria play an important anti-inﬂammatory role
+in reducing pro-inﬂammatory cytokines (IL-12, IFN-γ) and
+increasing anti-inﬂammatory IL-10 (Sokol et al., 2008). Besides,
+Firmicutes is important producer of butyrate, the primary energy
+substrates for colonocytes. Therefore, reduction in Firmicutes
+could elicit or heighten local inﬂammation by decreasing anti-
+inﬂammatory cytokine, an important regulator of mucosal
+immunity, and/or by SCFA-deﬁciency-induced impairment in
+colonic barrier function (Peng et al., 2007; Machiels et al.,
+2014). As such, it may be interesting to explore the therapeutic
+use of probiotic F. prausnitzii
+in managing IBD. Another
+dysbiotic feature observed in IBD patients is the elevation of
+virulent gut microbes such as Enterobacteriaceae species and
+Bacteroides fragilis with both having high endotoxic LPS in their
+outer membranes (Ruseler-van Embden and Both-Patoir, 1983;
+Darfeuille-Michaud et al., 1998). High endotoxic LPS expressed.
+
+FIGURE 1 | Secondary bile acids synthesized by members of gut microbiota (such as C. scindens) inhibit outgrowth of C. difﬁcile, whilst broad spectrum
+antibiotic-induced dysbiosis favors C. difﬁcile growth..
+
+layer and
+inﬂammatory response. Gastrointestinal mucus
+antimicrobial peptides (such as human defensins) secreted
+from epithelium work together as a barrier in preventing direct
+contact of luminal gut microbiota with gastrointestinal epithelial
+cells and inhibit aberrant inﬂammation (Johansson et al., 2008;
+Salzman et al., 2010). Colon biopsy samples of patients with
+UC showed reduced mucus layer, defective epithelium and
+deep microbe- and leukocyte-inﬁltration in colon mucosa
+(Swidsinski et al., 2007). Moreover, reduction in antimicrobial
+peptides such as Paneth cells alpha-defensins in patients
+with ileal CD was reported (Wehkamp et al., 2005). These
+ﬁndings propose that the impaired host antimicrobial defense
+in mucus barrier reduces the initial suppression of certain
+commensal microbiota such as mucolytic bacteria. This is further
+supported by Png et al. where they observed a signiﬁcant
+elevation of mucolytic Ruminococcus sp. in gut microbiome
+of IBDs patients. Decrease in microbial growth inhibition by
+human defensins could enable outgrowth of mucolytic species,
+resulting in increased mucolytic species that feast on the mucus
+leading to deeper penetration of the inner mucosa
+glycans,
+layer and microbial
+inﬂammation
+inﬁltration, consequently,
+ensues..
+
+Since IBD involves heightened host inﬂammatory response,
+current therapeutic approaches generally target the aberrant
+intestinal mucosa.
+pro-inﬂammatory immune response at
+Anti-inﬂammation therapies
+targeting
+proinﬂammatory cytokines (anti-TNF-alpha, anti-IL12, anti-
+IL23) and employing α4β7-integrin antagonist
+to inhibit
+traﬃcking of T-lymphocytes to gut tissue (Feagan et al., 2013;
+Christensen et al., 2015). However, IBD tends to recur in
+long-term, and chronic treatment with immuno-suppressive
+agents will develop neurotoxic side eﬀects (Hyde et al., 1998;
+Croft et al., 2013). Therefore, development of a safer and more
+eﬀective novel treatment is in great need. Given the association of
+IBD patients with decreased anti-inﬂammatory cytokines IL-10,
+administration of genetically modiﬁed probiotic (beneﬁcial
+microorganism) such as Lactococcus lactis to express IL-10 had
+demonstrated a signiﬁcant remission of disease activity in CD
+patients during trial (Braat et al., 2006). In this study, 80% CD
+patients demonstrated clinical improvements, with 50% showing
+complete remission, and no severe side eﬀect was observed, thus,
+indicating a promising and safer maintenance treatment strategy
+for chronic intestinal disease, as compared to sole administration
+of inﬂammatory cytokines. However, 40% patients developed
+CD relapse upon discontinuation of such therapy, indicating
+the need of long-term prescription of this medication, which in
+turn will impact its economic viability. Besides, administration
+of prebiotics (fermentable polysaccharides) to stimulate growth
+and metabolic activity of beneﬁcial protective gut microbes
+such as butyrate-synthesizing bacteria might be an attractive
+concept to treat gastrointestinal inﬂammation in IBD (Joossens
+et al., 2012; De Preter et al., 2013). Positive outcome had been
+reported in a randomized controlled trial by De Preter et al.
+ whereby around 40–50% of CD patients with mild to
+moderately active disease achieved remission post treatment
+with prebiotic OF-IN. OF-IN intake induced a signiﬁcant
+reduction in mucolytic Ruminococcus gnavus and a marked.
+
+Celiac Disease
+Furthermore, evidence has pointed to dysbiosis as the possible
+risk factor of autoimmune disorders, such as celiac disease.
+Other examples of gut microbiome-associated autoimmune
+disorders such as Type 1 diabetes, SLE and RA are depicted
+in Table 3. Celiac disease is a multifactorial chronic immune-
+mediated disorder in small intestine characterized by permanent
+intolerance to dietary gluten (such as gliadin peptides) and
+prolamines in genetically predisposed individuals expressing
+human leukocyte antigen (HLA)-DQ2 and/or HLA-DQ8 (Sanz
+the most
+et al., 2011). Celiac disease serves as one of
+prevalent lifelong disease in Europe, aﬀecting 1% of the general
+population of all ages (Mustalahti et al., 2010), contributing
+to absolute mortality rate of 10.4 per 1000 person-years in
+celiac disease (Ludvigsson et al., 2009). In celiac patients,
+gluten triggers the activation of adaptive immune response
+in mucosa,
+inducing TH1 and TH17 mediated production
+of pro-inﬂammatory cytokines [for example IL-21, interferon
+(IFN)-gamma, TNF-alpha]; as well as innate immune response
+through stimulation of IL-15 synthesis, consequently leading
+to NKG2D-mediated enterocyte killing (Stepniak and Koning,
+2006). Gliadin-mediated zonulin (a type of
+junction
+protein) signaling activation also had been reported, whereby
+it causes cytoskeleton rearrangement, reduced occludin – ZO-
+1 protein–protein interaction and increased gut permeability,
+allowing traﬃcking of luminal antigens to the submucosa (Drago
+et al., 2006). The etiology of celiac disease remains to be fully
+elucidated, with several factors including genetic predisposition,
+immunological factors (mucosal IgA), and environmental factors
+including gluten consumption, breast-feeding duration as well
+as gut infections (for example rotavirus infection), have been
+postulated to serve a concerted eﬀort
+in contributing the
+(Akobeng et al.,
+risk and timing of celiac disease onset
+2006; Mulder and Mulder-Bos, 2006; Stene et al., 2006).
+These factors also play a critical role in shaping and altering
+gut microbiota composition, therefore potentially modulating
+gut microbiota roles in gut barrier function and immunity
+development..
+
+Decrease in Clostridium leptum group of
+bacteria and Biﬁdobacterium.
+(cid:114)
+(cid:114).
+
+Besides the aforementioned mTgs-mediated PTMP of dietary
+gluten by Firmicutes, PTMP-catalyzing ability had been reported
+in other commensal microbes,
+including those potentially
+virulent strains associated in the dysbiotic feature of celiac
+disease. Bacteroides fragilis of Bacteroidetes phylum was found
+to encode protein-modiﬁer ubiquitin,
+suggesting potential
+aberrant ubiquitin especially in a dysbiotic conﬁguration (such
+as over-representation of Bacteroides in celiac disease) might
+cross-react and interfere human ubiquitin activity, and its
+downstream signaling, as well as induce inappropriate activation
+of host immune (Patrick et al., 2011). Gram-negative bacteria,
+especially those pathogenic strains exhibit secretion systems to
+synthesize eﬀector proteins with several enzymatic properties to
+manipulate host cellular signaling, for example via modiﬁcation
+of host phosphoproteome to facilitate microbial survival and
+niche establishment in host (Grishin et al., 2015). Linking
+the dysbiotic features, microbial-mediated PTMP activities
+with the aberrant
+immune-inﬂammatory response in celiac
+disease, it is hypothesized that dysbiosis-mediated dysregulated
+PTMP activities causing both functional and conformational
+transformations of dietary and host proteins, generating novel
+aberrant epitopes which are potentially immunogenic and
+capable to interfere critical host cellular signaling, hence,
+triggering manifestation of autoimmune disease such as celiac
+disease (Lerner et al., 2016)..
+
+Alteration in SCFAs compositions and the SCFA total
+abundance in celiac children were also been documented by
+Tjellström et al.  Signiﬁcant increase in acetic, i-butyrate,
+i-valeric acid and the total SCFAs level were observed in
+celiac disease patients compared to that of healthy controls.
+Intriguingly, no signiﬁcant diﬀerence of SCFAs composition and
+the total SCFAs was observed in the untreated celiac patient.
+
+Gluten-free diet has been largely employed to ameliorate
+the deleterious disease symptoms in celiac patient. However,
+gluten-free diet exhibits therapeutic limitation which it allows
+only a partial recovery of gut microbiota in celiac disease
+patients, both microbiologically (for example reduction in
+certain potentially pathogenic strains, incomplete restoration
+of beneﬁcial Biﬁdobacteria) and metabolically (for example
+indiﬀerent SCFA pattern in treated and non-treated patient),
+possibly due to the genetic factor of the patient, or the selective-
+enumeration of gut microbiota mediated by the absence of
+dietary gluten, which the underlying reason remains unclear.
+Strict adherence to total gluten-free diet appears challenging
+to the patient as well due to the vast application of gluten in
+processed food, hence alternative measures using microbiome-
+based therapy such as probiotic might be a promising option
+to manage celiac disease. Several in vivo, animal studies as
+well as human studies had demonstrated various beneﬁcial
+eﬀects of probiotics Biﬁdobacterium and Lactobacillus strains
+in ameliorating epithelial-gliadin induced deleterious eﬀects.
+For example, Biﬁdobacterium lactis exerts inhibitory eﬀect on
+the increased gut permeability induced by gliadin, and it
+protects the healthy curvy appearance of epithelial tight junctions
+from the unfavorable gliadin-induced “straightening” eﬀect on
+tight junction in human colon Caco-2 cells (Lindfors et al.,
+2008). B. longum was shown to be capable in enhancing anti-
+inﬂammatory response by stimulating markedly high Treg cell
+mediated production of IL-10, suppressing pro-inﬂammatory
+TH1 cytokine IFN-gamma induced by fecal microbiota of celiac
+patient in a cell culture-based study (Medina et al., 2008).
+longum and Lactobacillus casei also have been reported
+B.
+to exert protective eﬀect on animal model
+from gliadin-
+induced enteropathy, whereby B. longum can downregulate the
+production of pro-inﬂammatory TNF-alpha and reduce CD4+
+T-cell mediated immune reactions (Laparra et al., 2012); whilst
+L. casei can induce complete recovery of gliadin-induced villus
+blunting, recover the basal TNF-alpha level, rescue homeostasis
+of GALT (gut-associated lymphoid tissue) (D’arienzo et al.,
+2011). Administration of probiotics Biﬁdobacterium in children
+with newly diagnosed celiac disease together with gluten-
+free diet had signiﬁcantly reduced the potentially harmful
+Bacteroides fragilis abundance, decreased peripheral CD3+ T
+cells, and improved the disease symptoms (Olivares et al., 2014).
+Together, despite complete disease remission is not observed
+thus far, these studies demonstrate great therapeutic value of
+probiotics Biﬁdobacterium and Lactobacillus in ameliorating
+gliadin-induced toxic eﬀects and improving celiac disease.
+
+Since obesity-related metabolic disorder has been associated
+with gut microbiota dysbiosis, selective modulation of microbial
+composition via dietary intervention such as administration
+of prebiotics or probiotics might be a promising therapeutic
+approach. Administration of bacterial-synthesized CLA or
+CLA-producing bacteria such as Lactobacillus rhamnosus has
+shown a signiﬁcant decrease in plasma cholesterol,
+triacyl
+glycerides and white adipose tissue in animal models (Koba
+et al., 2002; Lee H.Y. et al., 2006). Prebiotics
+such as
+inulin-type fructans that selectively nourish Roseburia and
+Clostridium cluster XIVa, and arabinoxylan that increases the
+abundance of Biﬁdobacterium, Roseburia, and Bacteroides, have
+demonstrated anti-adipogenic eﬀect in high-fat-induced obese
+mice (Dewulf et al., 2011; Neyrinck et al., 2011). These
+ﬁndings demonstrate promising application of prebiotics and
+probiotics in obesity management, however, more supportive
+data from human models and clinical trials are required to
+justify these treatment strategies and their respective success
+rates..
+
+16S rRNA sequencing study of fecal microbiota of CRC
+patients has revealed a signiﬁcant enrichment of Bacteroides
+fragilis (Wang et al., 2012; Wu et al., 2013). Despite the low
+detection limit of some metagenomics studies in providing
+strain-level
+it is suspected that possible bloom
+of enterotoxigenic strains of B. fragilis (ETBF) contributes to
+CRC through enhanced production of oncogenic B.
+fragilis
+enterotoxin (BFT). This speculation is consistent with the
+ﬁndings of Ulger Toprak et al. in which the bft
+gene expression was signiﬁcantly higher in CRC patients than
+healthy controls. Wu et al. had demonstrated that
+colonization of tumor-prone mice with ETBF strains can trigger
+TH17-dependent colon tumorigenesis, possibly facilitated by its
+major virulence factor – BFT. BFT is cytopathic to intestinal
+epithelial cells and can cause colitis and colonic tumor, owing
+to its capability of catalyzing proteolytic degradation of tight-
+junction proteins ZO-1 and E-cadherin, leading to disruption
+of intestinal paracellular barriers (Moncrief et al., 1998; Wu
+et al., 1998). Moreover, BFT-mediated loss of membrane-
+associated E-cadherin could in turn activate T-cell
+factor–
+dependent Wnt (Wingless-Int)/β-catenin nuclear signaling in
+intestinal epithelial cells, stimulating oncogene c-Myc expression
+that results in persistent cellular proliferation (Wu et al.,
+2003). Furthermore, combined action of BFT and IL-17 on
+colonic epithelial cell can induce myeloid diﬀerentiation into
+pro-tumoral monocytic-myeloid-derived suppressor cells (MO-
+MDSCs),
+leading to selective upregulation of Arg1 and NO
+synthase 2 (Nos2) thereby stimulating NO synthesis that could
+promote vascular endothelial growth factor (VEGF)-mediated
+tumor angiogenesis (Cianchi et al., 2003), and suppression of
+anti-tumor immunity (e.g., inhibit CD8+ T-cell proliferation)
+(Orberg et al., 2017)..
+
+On the other hand, non-colitogenic Fusobacterium nucleatum
+which is markedly enriched in CRC patients,
+is capable in
+inducing intestinal tumorigenesis in murine models, suggesting
+overrepresentation of the gut microbiota may be the driver
+for CRC that is non-associated with colitis or IBD (Castellarin
+et al., 2012; Wang et al., 2012; Wu et al., 2013). Although
+remain to be
+the causality and underlying mechanisms
+elucidated,
+it has been demonstrated that FadA adhesin of
+F. nucleatum could promote bacterial attachment and invasion
+into E-cadherin expressing CRC cells, subsequently activating
+β-catenin-regulated transcriptions, as shown by upregulation of
+lymphoid enhancer factor/T cell factor, host NF-κB, oncogene
+c-Myc and cyclin D1, consequently promoting CRC cell
+proliferation and inﬂammation (Rubinstein et al., 2013).
+Besides, F. nucleatum outer membrane protein, Fap2 also has.
+
+been shown to mediate speciﬁc Fusobacterial attachment to
+Gal-GalNAc overexpressed in CRC, facilitating F. nucleatum
+invasion and colonization of CRC cells (Abed et al., 2016). In
+addition,
+involvement of TLR4/phosphorylated-p21-activated
+kinase 1/phosphorylated-β-catenin S675 cascade was found
+to be employed by invasive F. nucleatum as well (Wu et al.,
+2018). Brieﬂy, both oncogenic ETBF and F. nucleatum along
+with their respective unique molecular signatures serve as
+potential biomarkers in identifying the risk of developing ETBF-
+and F. nucleatum-related CRC, and predicting malignancy
+progression. Antibiotics speciﬁcally targeting these pathobionts
+as well as
+inhibitors
+the application of pharmacological
+for pathogenic signaling pathways may be a promising
+approach to be ventured in. Further longitudinal studies
+are therefore recommended to assess the feasibility of such
+applications..
+
+Autism Spectrum Disorder (ASD)
+In recent years, increasing number of studies have explored a
+possible link between the gut microbiome and brain- or neuro-
+developmental disorders, such as ASD, with symptoms like
+mood disorder (depression), neurodegenerative Alzheimer’s and
+PDs (Table 3). ASD is a multifarious group of neurobiological
+disorders aﬀecting 1 in 68, 8-year-old children in America
+(Christensen et al., 2016) and 1 in 160 children globally (World
+Health Organization [WHO], 2017). It
+is characterized by
+social and communication deﬁcits, and repetitive, stereotyped
+behaviors (Constantino et al., 2000; Kim and Lord, 2012).
+Despite the poorly understood causative factor of ASD, several
+studies had observed a signiﬁcant association between ASD,
+gastrointestinal dysfunction and dysbiosis in gut microbiota.
+Comorbidity analysis of ASD patients revealed high occurrence
+symptoms, with the severity positively
+of gastrointestinal
+associated with that of ASD (Wang L.W. et al., 2011). This co-
+occurrence is speculated to be implicated by impaired tyrosine
+kinase MET signaling which is important in brain development,.
+
+During the investigation of microbiota composition in
+ASD patients, dysbiotic features such as increased Clostridium
+sp., Bacteroidetes, Lactobacillus, Desulfovibrio, and reduced
+Biﬁdobacteria were reported (Song et al., 2004; Adams et al.,
+2011), suggesting a possible link between dysbiosis and ASD.
+In a study by Shultz et al.  mice treated with PPA
+via intra-cerebroventricular injection had shown to develop
+brain abnormalities and ASD-like symptoms. PPA is a type of
+SCFA, synthesized by enteric bacteria include the aforementioned
+Clostridium, Bacteroidetes, and Desulfovibrio species, but PPA
+level usually exist at low levels in normal healthy individuals.
+that possible bloom in PPA-producing gut
+This
+microbes leads to elevated neurotoxic PPA concentration in
+blood, contributing to neuropsychiatric disorders. However, to
+date, dysbiosis-associated elevation in microbial-synthesized PPA
+in plasma of ASD patients has not been reported. Future
+studies in examining plasma PPA level in ASD patients are
+required. Surprisingly,
+targeting gut microbiome
+has demonstrated beneﬁcial eﬀects in alleviating ASD-like
+symptoms in murine model. Desbonnet et al. reported
+that probiotic Biﬁdobacterium infantis improved the behavioral
+abnormalities and stress-associated gastrointestinal dysfunction
+which were initially induced in mice suﬀering MS. Reduction in
+Biﬁdobacterium is commonly observed in ASD patients, positive
+outcome post-probiotic treatment indicates a potential protective
+role of Biﬁdobacterium in neuro-immune aspects, suggesting
+probiotic B.
+infantis as a potential ASD therapy. Despite
+the unclear underlying mechanisms, antioxidant properties of
+Biﬁdobacterium are suggested to have a neutralizing neurotoxic
+eﬀect, induced by excess NO in ASD (Yui et al., 2016). Further
+studies that mimic the human physiological environment are very
+much required to assess the therapeutic success and underlying
+mechanism of probiotic B. infantis in managing ASD..
+
+dysregulation or alteration of gut microbiome. Perturbation of
+such delicate equilibrium will
+in turn contribute to disease
+manifestation. However, the causal or correlation link remains
+debatable due to lack of direct evidence and mechanistic
+details. Our understanding on gut microbiome is still at a
+very preliminary stage, whereby there are several limitations
+and research gaps that are worth further exploration to better
+justify the link. For instance, large-scale longitudinal studies
+that account for subject-speciﬁc variations in characterizing the
+human microbiome are strongly required. On the other hand,
+another important component of human microbiome – the
+human virome that is dominated by bacteriophage (viruses that
+infect bacteria), is relatively less established compared to that
+of commensal bacteriome research. Only recently the presence
+of bacteriophage (or phage) in the human microbiome has
+been highlighted. Their potential role in modulating immune
+homeostasis has been suggested via indirect mechanisms
+such as through regulating bacterial microbiome composition
+(phage-mediated lytic killing of host bacteria) and function
+(phage-mediated introduction of novel
+functional genes to
+lysogenic host such as production of endotoxin and antibiotic
+resistance), and direct interference with human immune-
+inﬂammatory responses such as downregulation of the pro-
+inﬂammatory NF-κB pathway,
+inhibition of excessive ROS
+synthesis,
+induction of anti-inﬂammatory IL-10 production,
+and T4 phage adhesin gp12 - mediated counteraction to
+LPS-induced inﬂammation, as evidenced by downregulation
+inﬂammation markers IL-1α and IL-6, and diminished
+of
+leukocyte inﬁltration (Górski et al., 2016; Miernikiewicz et al.,
+2016). In addition, simultaneous increase in pro-inﬂammatory
+markers such as IL-1β, IL-1α, along with upregulation in anti-
+inﬂammatory IL-1 receptor antagonist and SOCS3 have been
+observed in P. aeruginosa and S. aureus phages treated cells,
+and the authors postulate that at
+least some phages have
+evolved anti-inﬂammatory properties to aid their survival and
+propagation, while retaining some pro-inﬂammatory properties
+(Van Belleghem et al., 2017). On the contrary to the largely
+reported anti-inﬂammatory properties of phage, signiﬁcantly
+increased abundance of bacteriophages and changes in phage
+communities composition in CD patients compared to healthy
+controls have indicated a possible contributory role of phage
+in aberrant immune response (Lepage et al., 2008; Wagner
+et al., 2013). Undeniably, integrating human virome studies
+into the existing human bacterial microbiome will provide
+a bigger and clearer picture on how such transkingdom
+interactions could impact human health, thus, facilitating disease
+etiology studies. However, overcoming the obstacles such as
+limitations in virome sequencing techniques, uninformative
+database for characterization of novel viral genomes and the
+diﬃculties in identifying origin of virus from patient sample
+followed by deciphering the underlying mechanisms are urgently
+required..
+
+Abed, J., Emgård, J. E., Zamir, G., Faroja, M., Almogy, G., Grenov, A., et al.
+ Fap2 mediates Fusobacterium nucleatum colorectal adenocarcinoma
+enrichment by binding to tumor-expressed Gal-GalNAc. Cell Host Microbe 20,
+215–225. doi: 10.1016/j.chom.2016.07.006.
+
+Abrahamse, S. L., Pool-Zobel, B. L., and Rechkemmer, G.  Potential of short
+chain fatty acids to modulate the induction of DNA damage and changes in
+the intracellular calcium concentration by oxidative stress in isolated rat distal
+colon cells. Carcinogenesis 20, 629–634. doi: 10.1093/carcin/20.4.629.
+
+Braat, H., Rottiers, P., Hommes, D. W., Huyghebaert, N., Remaut, E., Remon, J. P.,
+et al.  A phase I trial with transgenic bacteria expressing interleukin-10
+in Crohn’s disease. Clin. Gastroenterol. Hepatol. 4, 754–759. doi: 10.1016/j.cgh.
+2006.03.028.
+
+Britton, R. A., and Young, V. B.  Interaction between the intestinal
+microbiota and host in Clostridium diﬃcile colonization resistance. Trends
+Microbiol. 20, 313–319. doi: 10.1016/j.tim.2012.04.001.
+
+Campbell, D. B., Buie, T. M., Winter, H., Bauman, M., Sutcliﬀe, J. S., Perrin, J. M.,
+et al.  Distinct genetic risk based on association of MET in families with
+co-occurring autism and gastrointestinal conditions. Pediatrics 123, 1018–1024.
+doi: 10.1542/peds.2008-0819.
+
+Ajouz, H., Mukherji, D., and Shamseddine, A.  Secondary bile acids:
+an underrecognized cause of colon cancer. World J. Surg. Oncol. 12:164.
+doi: 10.1186/1477-7819-12-164.
+
+Carr, E. G., and Owen-Deschryver, J. S.  Physical illness, pain, and problem
+behavior in minimally verbal people with developmental disabilities. J. Autism.
+Dev. Disord. 37, 413–424. doi: 10.1007/s10803-006-0176-0.
+
+Akobeng, A. K., Ramanan, A. V., Buchan, I., and Heller, R. F.  Eﬀect of breast
+feeding on risk of coeliac disease: a systematic review and meta-analysis of
+observational studies. Arch. Dis. Child. 91, 39–43. doi: 10.1136/adc.2005.082016
+Andres, E., Loukili, N. H., Noel, E., Kaltenbach, G., Abdelgheni, M. B., Perrin, A. E.,
+et al. deﬁciency in elderly patients. Can. Med.
+Assoc. J. 171, 251–259. doi: 10.1503/cmaj.1031155.
+
+Antonopoulos, D. A., Huse, S. M., Morrison, H. G., Schmidt, T. M., Sogin,
+M. L., and Young, V. B.  Reproducible community dynamics of the
+gastrointestinal microbiota following antibiotic perturbation. Infect. Immun.
+77, 2367–2375. doi: 10.1128/iai.01520-08.
+
+Atarashi, K., Nishimura, J., Shima, T., Umesaki, Y., Yamamoto, M., Onoue, M.,
+et al.  ATP drives lamina propria TH17 cell diﬀerentiation. Nature 455,
+808–812. doi: 10.1038/nature07240.
+
+Barnaba, V., and Sinigaglia, F.  Molecular mimicry and T cell–mediated
+autoimmune disease. J. Exp. Med. 185, 1529–1532. doi: 10.1084/jem.185.9.1529
+Bartlett, J. G.  Antimicrobial agents implicated in Clostridium diﬃcile
+toxin-associated diarrhea or colitis. Obstet. Gynecol. Surv. 37:46. doi: 10.1097/
+00006254-198201000-00019.
+
+Bartlett, J. G.  Clinical practice. Antibiotic-associated diarrhea. N. Engl. J..
+
+Blottière, H. M., Buecher, B., Galmiche, J. P., and Cherbut, C.  Molecular
+analysis of the eﬀect of short-chain fatty acids on intestinal cell proliferation.
+Proc. Nutr. Soc. 62, 101–106. doi: 10.1079/PNS2002215.
+
+Castellarin, M., Warren, R. L., Freeman, J. D., Dreolini, L., Krzywinski, M.,
+Strauss, J., et al.  Fusobacterium nucleatum infection is prevalent in
+human colorectal carcinoma. Genome Res. 22, 299–306. doi: 10.1101/gr.126516.
+111.
+
+Cherrington, C. A., Hinton, M., Pearson, G. R., and Chopra, I.  Short-chain
+organic acids at pH 5.0 kill Escherichia coli and Salmonella spp. without causing
+membrane perturbation. J. Appl. Microbiol. 70, 161–165..
+
+Christensen, D. L., Baio, J., Braun, K. V., Bilder, D., Charles, J., Constantino, J. N.,
+et al.  Prevalence and characteristics of autism spectrum disorder among
+children aged 8 years - autism and developmental disabilities monitoring
+network, 11 sites, United States, 2012. MMWR Surveill. Summ. 65, 1–23.
+doi: 10.15585/mmwr.ss6503a1.
+
+Christensen, K. R., Steenholdt, C., Buhl, S. S., Ainsworth, M. A., Thomsen, O. Ø,
+and Brynskov, J.  Systematic information to health-care professionals
+about vaccination guidelines improves adherence in patients with inﬂammatory
+bowel disease in anti-tnfα therapy. Am. J. Gastroenterol. 110, 1526–1532. doi:
+10.1038/ajg.2015.162.
+
+Cianchi, F., Cortesini, C., Fantappiè, O., Messerini, L., Schiavone, N., Vannacci, A.,
+et al.  Inducible nitric oxide synthase expression in human colorectal
+cancer: correlation with tumor angiogenesis. Am. J. Pathol. 162, 793–801.
+doi: 10.1016/S0002-94403876-X.
+
+Collins, J., Borojevic, R., Verdu, E. F., Huizinga, J. D., and Ratcliﬀe, E. M. 
+Intestinal microbiota inﬂuence the early postnatal development of the enteric
+nervous system. Neurogastroenterol. Motil. 26, 98–107. doi: 10.1111/nmo.12236
+Constantino, J. N., Przybeck, T., Friesen, D., and Todd, R. D.  Reciprocal
+social behavior in children with and without pervasive developmental disorders.
+J. Dev. Behav. Pediatr. 21, 2–11. doi: 10.1097/00004703-200002000-00002.
+
+J., and Costello, M.  Newly identiﬁed vitamin
+K-producing bacteria isolated from the neonatal faecal ﬂora. Microb. Ecol.
+Health Dis. 18, 133–138. doi: 10.3402/mehd.v18i3-4.7681.
+
+Darfeuille-Michaud, A., Neut, C., Barnich, N., Lederman, E., Martino, P. D.,
+Desreumaux, P., et al.  Presence of adherent Escherichia coli strains in
+ileal mucosa of patients with Crohns disease. Gastroenterol. 115, 1405–1413.
+doi: 10.1016/s0016-50850019-8.
+
+D’arienzo, R., Stefanile, R., Maurano, F., Mazzarella, G., Ricca, E., Troncone, R.,
+et al.  Immunomodulatory eﬀects of Lactobacillus casei administration
+in a mouse model of gliadin-sensitive enteropathy. Scand. J. Immunol. 74,
+335–341. doi: 10.1111/j.1365-3083.2011.02582.x.
+
+De Palma, G., Nadal, I., Medina, M., Donat, E., Ribes-Koninckx, C., Calabuig, M.,
+et al.  Intestinal dysbiosis and reduced immunoglobulin-coated bacteria
+associated with coeliac disease in children. BMC Microbiol. 10:63. doi: 10.1186/
+1471-2180-10-63.
+
+De Vadder, F., Kovatcheva-Datchary, P., Goncalves, D., Vinera, J., Zitoun, C.,
+Duchampt, A., et al.  Microbiota-generated metabolites promote
+metabolic beneﬁts via gut-brain neural circuits. Cell 156, 84–96. doi: 10.1016/
+j.cell.2013.12.016.
+
+Degnan, P. H., Taga, M. E., and Goodman, A. L.  Vitamin B12 as a modulator
+of gut microbial ecology. Cell Metab. 20, 769–778. doi: 10.1016/j.cmet.2014.10.
+002.
+
+Deguchi, T., Ohtsuki, S., Otagiri, M., Takanaga, H., Asaba, H., Mori, S., et al. 
+Major role of organic anion transporter 3 in the transport of indoxyl sulfate in
+the kidney. Kidney Int. 61, 1760–1768. doi: 10.1046/j.1523-1755.2002.00318.x
+Desbonnet, L., Garrett, L., Clarke, G., Kiely, B., Cryan, J., and Dinan, T. 
+Eﬀects of the probiotic Biﬁdobacterium infantis in the maternal separation
+model of depression. Neuroscience 170, 1179–1188. doi: 10.1016/j.neuroscience.
+2010.08.005.
+
+Dewulf, E. M., Cani, P. D., Neyrinck, A. M., Possemiers, S., Holle, A. V., Muccioli,
+G. G., et al.  Inulin-type fructans with prebiotic properties counteract
+GPR43 overexpression and PPARγ-related adipogenesis in the white adipose
+tissue of high-fat diet-fed mice. J. Nutr. Biochem. 22, 712–722. doi: 10.1016/j.
+jnutbio.2010.05.009.
+
+Donnelly, K. L., Smith, C. I., Schwarzenberg, S. J., Jessurun, J., Boldt, M. D.,
+and Parks, E. J.  Sources of fatty acids stored in liver and secreted via
+lipoproteins in patients with nonalcoholic fatty liver disease. J. Clin. Invest. 115,
+1343–1351. doi: 10.1172/jci200523621.
+
+Donohoe, D. R., Garge, N., Zhang, X., Sun, W., Oconnell, T. M., Bunger, M. K.,
+et al.  The microbiome and butyrate regulate energy metabolism and
+autophagy in the mammalian colon. Cell Metab. 13, 517–526. doi: 10.1016/j.
+cmet.2011.02.018.
+
+Drago, S., El Asmar, R., Di Pierro, M., Grazia Clemente, M., Sapone, A. T. A.,
+Thakar, M., et al.  Gliadin, zonulin and gut permeability: eﬀects on
+celiac and non-celiac intestinal mucosa and intestinal cell lines. Scand. J.
+Gastroenterol. 41, 408–419. doi: 10.1080/00365520500235334.
+
+Duchmann, R., May, E., Heike, M., Knolle, P., Neurath, M., and zum Büschenfelde,
+K. M.  T cell speciﬁcity and cross reactivity towards Enterobacteria,
+Bacteroides, Biﬁdobacterium, and antigens from resident intestinal ﬂora in
+humans. Gut 44, 812–818. doi: 10.1136/gut.44.6.812.
+
+Dumas, M. E., Barton, R. H., Toye, A., Cloarec, O., Blancher, C., Rothwell, A.,
+et al.  Metabolic proﬁling reveals a contribution of gut microbiota to
+fatty liver phenotype in insulin-resistant mice. Proc. Natl. Acad. Sci. U.S.A. 103,
+12511–12516. doi: 10.1073/pnas.0601056103.
+
+El Aidy, S., van Baarlen, P., Derrien, M., Lindenbergh-Kortleve, D. J., Hooiveld, G.,
+interplay of microbiota
+Levenez, F., et al.  Temporal and spatial
+and intestinal mucosa drive establishment of
+immune homeostasis in
+conventionalized mice. Mucosal Immunol. 5, 567–579. doi: 10.1038/mi.2012.32.
+
+Erny, D., de Angelis, A. L. H., Jaitin, D., Wieghofer, P., Staszewski, O., David, E.,
+et al.  Host microbiota constantly control maturation and function of
+microglia in the CNS. Nat. Neurosci. 18, 965–977. doi: 10.1038/nn.4030.
+
+Faith, J. J., Rey, F. E., O’donnell, D., Karlsson, M., McNulty, N. P., Kallstrom, G.,
+et al.  Creating and characterizing communities of human gut microbes
+in gnotobiotic mice. ISME J. 4, 1094–1098. doi: 10.1038/ismej.2010.110.
+
+Feagan, B. G., Rutgeerts, P., Sands, B. E., Hanauer, S., Colombel, J. F., Sandborn,
+W. J., et al.  Vedolizumab as induction and maintenance therapy for
+ulcerative colitis. N. Engl. J. Med. 369, 699–710. doi: 10.1056/NEJMoa1215734
+Femia, A. P., Luceri, C., Dolara, P., Giannini, A., Biggeri, A., Salvadori, M.,
+et al.  Antitumorigenic activity of the prebiotic inulin enriched with
+oligofructose in combination with the probiotics Lactobacillus rhamnosus and
+Biﬁdobacterium lactis on azoxymethane-induced colon carcinogenesis in rats.
+Carcinogenesis 23, 1953–1960. doi: 10.1093/carcin/23.11.1953.
+
+Fernandez, F., and Collins, M. D.  Vitamin K composition of anaerobic
+gut bacteria. FEMS Microbiol. Lett. 41, 175–180. doi: 10.1016/0378-10970
+233-3.
+
+Forster, V. J., McDonnell, A., Theobald, R., and McKay, J. A.  Eﬀect
+of methotrexate/vitamin B12 on DNA methylation as a potential factor
+in leukemia treatment-related neurotoxicity. Epigenomics 9, 1205–1218.
+doi: 10.2217/epi-2016-0165.
+
+Geleijnse, J. M., Vermeer, C., Grobbee, D. E., Schurgers, L. J., Knapen, M. H., van
+der Meer, I. M., et al.  Dietary intake of menaquinone is associated with
+a reduced risk of coronary heart disease: the rotterdam study. J. Nutr. 134,
+3100–3105. doi: 10.1093/jn/134.11.3100.
+
+Goldin, B. R., Gualtieri, L. J., and Moore, R. P.  The eﬀect of Lactobacillus
+GG on the initiation and promotion of DMH-induced intestinal tumors in the
+rat. Nutr. Cancer 25, 197–204. doi: 10.1080/01635589609514442.
+
+Gominak, S.  Vitamin D deﬁciency changes the intestinal microbiome
+reducing B vitamin production in the gut. The resulting lack of pantothenic
+acid adversely aﬀects the immune system, producing a “pro-inﬂammatory”
+state associated with atherosclerosis and autoimmunity. Med. Hypotheses 94,
+103–107. doi: 10.1016/j.mehy.2016.07.007.
+
+Gopal-Srivastava, R., and Hylemon, P. B.  Puriﬁcation and characterization
+J. Lipid Res. 29,.
+
+Górski, A., Mie¸dzybrodzki, R., Weber-D ˛abrowska, B., Fortuna, W., Letkiewicz, S.,
+Rogó˙z, P., et al.  Phage therapy: combating infections with potential for
+evolving from merely a treatment for complications to targeting diseases. Front.
+Microbiol. 7:1515. doi: 10.3389/fmicb.2016.01515.
+
+Griﬃths, E. A., Duﬀy, L. C., Schanbacher, F. L., Qiao, H., Dryja, D., Leavens, A.,
+et al.  In vivo eﬀects of Biﬁdobacteria and lactoferrin on gut endotoxin
+concentration and mucosal immunity in balb/c mice. Dig. Dis. Sci. 49, 579–589.
+doi: 10.1023/b:ddas.0000026302.92898.ae.
+
+Grishin, A. M., Beyrakhova, K. A., and Cygler, M.  Structural insight
+into eﬀector proteins of Gram-negative bacterial pathogens that modulate the
+phosphoproteome of their host. Protein Sci. 24, 604–620. doi: 10.1002/pro.2636
+Gronbach, K., Flade, I., Holst, O., Lindner, B., Ruscheweyh, H. J., Wittmann, A.,
+et al.  Endotoxicity of lipopolysaccharide as a determinant of T-cell-
+mediated colitis induction in mice. Gastroenterology 146, 765–775. doi: 10.1053/
+j.gastro.2013.11.033.
+
+Hassig, C. A., Tong, J. K., and Schreiber, S. L.  Fiber-derived butyrate and
+the prevention of colon cancer. Chem. Biol. 4, 783–789. doi: 10.1016/S1074-
+55210111-3.
+
+Hooper, L. V., and Gordon, J. I.  Commensal host-bacterial relationships in.
+
+Hyde, G. M., Thillainayagam, A. V., and Jewell, D. P.  Intravenous
+cyclosporin as rescue therapy in severe ulcerative colitis. Eur. J. Gastroenterol.
+Hepatol. 10, 411–414. doi: 10.1097/00042737-199805000-00010.
+
+Ieraci, A., Forni, P. E., and Ponzetto, C.  Viable hypomorphic signaling
+mutant of the met receptor reveals a role for hepatocyte growth factor in
+postnatal cerebellar development. Proc. Natl. Acad. Sci. U.S.A. 99, 15200–15205.
+doi: 10.1073/pnas.222362099.
+
+Keshavarzian, A., Green, S. J., Engen, P. A., Voigt, R. M., Naqib, A., Forsyth, C. B.,
+et al.  Colonic bacterial composition in Parkinson’s disease. Mov. Disord.
+30, 1351–1360. doi: 10.1002/mds.26307.
+
+Kim, S. H., and Lord, C.  New autism diagnostic interview-revised
+algorithms for toddlers and young preschoolers from 12 to 47 months of age.
+J. Autism Dev. Disord. 42, 82–93. doi: 10.1007/s10803-011-1213-1.
+
+Syzenko, G., Moseiko, V., Budovska, L., Puchkov, K.,
+Perederiy, V., et al.  Association between body mass index and
+Firmicutes/Bacteroidetes ratio in an adult Ukrainian population. BMC
+Microbiol. 17:120. doi: 10.1186/s12866-017-1027-1.
+
+Laparra, J. M., Olivares, M., Gallina, O., and Sanz, Y.  Biﬁdobacterium
+longum CECT 7347 modulates immune responses in a gliadin-induced
+enteropathy animal model. PLoS One 7:e30744. doi: 10.1371/journal.pone.
+0030744.
+
+Larrosa, M., González-Sarrías, A., García-Conesa, M. T., Tomás-Barberán, F. A.,
+and Espín, J. C.  Urolithins, ellagic acid-derived metabolites produced
+by human colonic microﬂora, exhibit estrogenic and antiestrogenic activities.
+J. Agric. Food Chem. 54, 1611–1620. doi: 10.1021/jf0527403.
+
+Johanesen, P. A., Mackin, K. E., Hutton, M. L., Awad, M. M., Larcombe, S.,
+Amy, J. M., et al.  Disruption of the gut microbiome: Clostridium
+diﬃcile infection and the threat of antibiotic resistance. Genes 6, 1347–1360.
+doi: 10.3390/genes6041347.
+
+Johansson, M. E. V., Phillipson, M., Petersson, J., Velcich, A., Holm, L., and
+Hansson, G. C.  The inner of the two Muc2 mucin-dependent mucus
+layers in colon is devoid of bacteria. Proc. Natl. Acad. Sci. U.S.A. 105, 15064–
+15069. doi: 10.1073/pnas.0803124105.
+
+Johnson, C. H., Dejea, C. M., Edler, D., Hoang, L. T., Santidrian, A. F.,
+Felding, B. H., et al.  Metabolism links bacterial bioﬁlms and colon
+carcinogenesis. Cell Metab. 21, 891–897. doi: 10.1016/j.cmet.2015.04.011.
+
+Kabouridis, P. S., Lasrado, R., McCallum, S., Chng, S. H., Snippert, H. J.,
+Clevers, H., et al.  Microbiota controls the homeostasis of glial cells in
+the gut lamina propria. Neuron 85, 289–295. doi: 10.1016/j.neuron.2014.12.037
+Kalliomäki, M., Kirjavainen, P., Eerola, E., Kero, P., Salminen, S., and Isolauri, E.
+ Distinct patterns of neonatal gut microﬂora in infants in whom
+atopy was and was not developing. J. Allergy Clin. Immunol. 107, 129–134.
+doi: 10.1067/mai.2001.111237.
+
+Kamada, N., Chen, G. Y., Inohara, N., and Núñez, G.  Control of
+pathogens and pathobionts by the gut microbiota. Nat. Immunol. 14, 685–690.
+doi: 10.1038/ni.2608.
+
+Larrosa, M., González-Sarrías, A., Yáñez-Gascón, M. J., Selma, M. V., Azorín-
+Ortuño, M., Toti, S., et al.  Anti-inﬂammatory properties of a
+pomegranate extract and its metabolite urolithin-A in a colitis rat model and
+the eﬀect of colon inﬂammation on phenolic metabolism. J. Nutr. Biochem. 21,
+717–725. doi: 10.1016/j.jnutbio.2009.04.012.
+
+Lawley, T. D., and Walker, A. W.  Intestinal colonization resistance..
+
+LeBlanc, J. G., Laiño, J. E., del Valle, M. J., Vannini, V., Van Sinderen, D., Taranto,
+M. P., etal.  B-Group vitamin production by lactic acid bacteria–current
+knowledge and potential applications. J. Appl. Microbiol. 111, 1297–1309. doi:
+10.1111/j.1365-2672.2011.05157.x.
+
+Lee, H. C., Jenner, A. M., Low, C. S., and Lee, Y. K.  Eﬀect of tea
+phenolics and their aromatic fecal bacterial metabolites on intestinal
+microbiota. Res. Microbiol. 157, 876–884. doi: 10.1016/j.resmic.2006.
+07.004.
+
+Lee, H. Y., Park, J.-H., Seok, S.-H., Baek, M.-W., Kim, D.-J., Lee, K.-E., et al. 
+Human originated bacteria, Lactobacillus rhamnosus PL60, produce conjugated
+linoleic acid and show anti-obesity eﬀects in diet-induced obese mice. Biochim.
+Biophys. Acta 1761, 736–744. doi: 10.1016/j.bbalip.2006.05.007.
+
+Lee, J. W., Kim, E. H., Yim, I. B., and Joo, H. G.  Immunomodulatory and
+antitumor eﬀects in vivo by the cytoplasmic fraction of Lactobacillus casei and
+Biﬁdobacterium longum. J. Vet. Sci. 5, 41–48..
+
+Lennard-Jones, J. E.  Classiﬁcation of inﬂammatory bowel disease. Scand. J..
+
+Lerner, A., Aminov, R., and Matthias, T.  Dysbiosis may trigger autoimmune
+diseases via inappropriate post-translational modiﬁcation of host proteins.
+Front. Microbiol. 7:84. doi: 10.3389/fmicb.2016.00084.
+
+Lerner, A., and Matthias, T.  Changes in intestinal.
+
+Lerner, A., Aminov, R., and Matthias, T.  Transglutaminases in dysbiosis
+as potential environmental drivers of autoimmunity. Front. Microbiol. 8:66.
+doi: 10.3389/fmicb.2017.00066.
+
+Lerner, A., Neidhöfer, S., and Matthias, T.  The gut microbiome feelings
+of the brain: a perspective for non-microbiologists. Microorganisms 5:E66. doi:
+10.3390/microorganisms5040066.
+
+Lessa, F. C., Mu, Y., Bamberg, W. M., Beldavs, Z. G., Dumyati, G. K., Dunn,
+J. R., et al.  Burden of Clostridium diﬃcile infection in the United States.
+N. Engl. J. Med. 372, 825–834. doi: 10.1056/NEJMoa1408913.
+
+Ley, R. E., Bäckhed, F., Turnbaugh, P., Lozupone, C. A., Knight, R. D., and Gordon,
+J. I.  Obesity alters gut microbial ecology. Proc. Natl. Acad. Sci. U.S.A.
+102, 11070–11075. doi: 10.1073/pnas.0504978102.
+
+Ley, R. E., Turnbaugh, P. J., Klein, S., and Gordon, J. I.  Microbial ecology:
+human gut microbes associated with obesity. Nature 444, 1022–1023. doi: 10.
+1038/4441022a.
+
+Li, Y., Kundu, P., Seow, S. W., de Matos, C. T., Aronsson, L., Chin, K. C.,
+et al.  Gut microbiota accelerate tumor growth via c-jun and STAT3
+phosphorylation in APC Min/+ mice. Carcinogenesis 33, 1231–1238. doi: 10.
+1093/carcin/bgs137.
+
+Lindfors, K., Blomqvist, T., Juuti-Uusitalo, K., Stenman, S., Venäläinen, J.,
+ Live probiotic Biﬁdobacterium lactis bacteria
+Mäki, M., et al.
+inhibit
+induced by wheat gliadin in epithelial cell
+culture. Clin. Exp. Immunol. 152, 552–558. doi: 10.1111/j.1365-2249.2008.03
+635.x.
+
+Liu, X., Zou, Q., Zeng, B., Fang, Y., and Wei, H.  Analysis of fecal
+Lactobacillus community structure in patients with early rheumatoid arthritis.
+Curr. Microbiol. 67, 170–176. doi: 10.1007/s00284-013-0338-1.
+
+Lloyd-Price, J., Abu-Ali, G., and Huttenhower, C.  The healthy human.
+
+Loftus, E. V.  Clinical epidemiology of inﬂammatory bowel disease:
+incidence, prevalence, and environmental inﬂuences. Gastroenterology 126,
+1504–1517. doi: 10.1053/j.gastro.2004.01.063.
+
+Luo, X. M., Edwards, M. R., Mu, Q., Yu, Y., Vieson, M. D., Reilly, C. M., et al. 
+Gut microbiota in human systemic lupus erythematosus and a mouse model of
+lupus. Appl. Environ. Microbiol. 84:e2288-17. doi: 10.1128/AEM.02288-17
+Machiels, K., Joossens, M., Sabino, J., De Preter, V., Arijs, I., Eeckhaut, V., et al.
+ A decrease of the butyrate-producing species Roseburia hominis and
+Faecalibacterium prausnitzii deﬁnes dysbiosis in patients with ulcerative colitis.
+Gut 63, 1275–1283. doi: 10.1136/gutjnl-2013-304833.
+
+Mahe, S., Corthier, G., and Dubos, F.  Eﬀect of various diets on toxin
+production by two strains of Clostridium diﬃcile in gnotobiotic mice. Infect.
+Immun. 55, 1801–1805..
+
+Marasco, G., Di Biase, A. R., Schiumerini, R., Eusebi, L. H., Iughetti, L., Ravaioli, F.,
+et al.  Gut microbiota and celiac disease. Dig. Dis. Sci. 61, 1461–1472.
+doi: 10.1007/s10620-015-4020-2.
+
+McNally, L., and Brown, S. P.  Building the microbiome in health and
+disease: niche construction and social conﬂict in bacteria. Philos. Trans. R. Soc.
+Lond. B Biol. Sci. 370:20140298. doi: 10.1098/rstb.2014.0298.
+
+Miernikiewicz, P., Kłopot, A., Soluch, R., Szkuta, P., Ke¸ska, W., Hodyra-
+Stefaniak, K., et al.  T4 phage tail adhesin gp12 counteracts LPS-induced
+inﬂammation in vivo. Front. Microbiol. 7:1112. doi: 10.3389/fmicb.2016.01112
+Moncrief, J. S., Duncan, A. J., Wright, R. L., Barroso, L. A., and Wilkins,
+T. D.  Molecular characterization of the fragilysin pathogenicity islet of
+enterotoxigenic Bacteroides fragilis. Infect. Immun. 66, 1735–1739..
+
+Mulder, S. J., and Mulder-Bos, G. C.  Most probable origin of coeliac
+disease is low immune globulin A in the intestine caused by malfunction
+of Peyer’s patches. Med. Hypotheses 66, 757–762. doi: 10.1016/j.mehy.2005.
+09.050.
+
+Murri, M., Leiva, I., Gomez-Zumaquero, J. M., Tinahones, F. J., Cardona, F.,
+Soriguer, F., et al.  Gut microbiota in children with type 1 diabetes
+diﬀers from that in healthy children: a case-control study. BMC Med. 11:46.
+doi: 10.1186/1741-7015-11-46.
+
+Nadal, I., Donant, E., Ribes-Koninckx, C., Calabuig, M., and Sanz, Y. 
+Imbalance in the composition of the duodenal microbiota of children with
+coeliac disease. J. Med. Microbiol. 56, 1669–1674. doi: 10.1099/jmm.0.47410-0
+Nagao-Kitamoto, H., Shreiner, A. B., Gilliland, M. G. I. I. I., Kitamoto, S., Ishii, C.,
+Hirayama, A., et al.  Functional characterization of inﬂammatory bowel
+disease–associated gut dysbiosis in gnotobiotic mice. Cell. Mol. Gastroenterol.
+Hepatol. 2, 468–481..
+
+Neyrinck, A. M., Possemiers, S., Druart, C., Wiele, T. V. D., Backer, F. D., Cani,
+P. D., et al.  Prebiotic eﬀects of wheat arabinoxylan related to the increase
+in Biﬁdobacteria, Roseburia and Bacteroides/Prevotella in diet-induced obese
+mice. PLoS One 6:e20944. doi: 10.1371/journal.pone.0020944.
+
+Nie, Y. F., Hu, J., and Yan, X.-H.  Cross-talk between bile acids and intestinal
+microbiota in host metabolism and health. J. Zhejiang Univ. Sci. B 16, 436–446.
+doi: 10.1631/jzus.b1400327.
+
+Okunishi, K., Dohi, M., Nakagome, K., Tanaka, R., Mizuno, S., Matsumoto, K.,
+et al.  A novel role of hepatocyte growth factor as an immune regulator
+through suppressing dendritic cell function. J. Immunol. 175, 4745–4753.
+doi: 10.4049/jimmunol.175.7.4745.
+
+Olivares, M., Castillejo, G., Varea, V., and Sanz, Y.  Double-blind,
+randomised, placebo-controlled intervention trial to evaluate the eﬀects of
+Biﬁdobacterium longum CECT 7347 in children with newly diagnosed coeliac
+disease. Br. J. Nutr. 112, 30–40. doi: 10.1017/S0007114514000609.
+
+Orberg, E. T., Fan, H., Tam, A. J., Dejea, C. M., Shields, C. D., Wu, S., et al. 
+The myeloid immune signature of enterotoxigenic Bacteroides fragilis-induced
+murine colon tumorigenesis. Mucosal Immunol. 10, 421–433. doi: 10.1038/mi.
+2016.53.
+
+Patrick, S., Jobling, K. L., O’Connor, D., Thacker, Z., Dryden, D. T., and Blakely,
+G. W.  A unique homologue of the eukaryotic protein-modiﬁer ubiquitin
+present in the bacterium Bacteroides fragilis, a predominant resident of the
+human gastrointestinal tract. Microbiology 157, 3071–3078. doi: 10.1099/mic.
+0.049940-0.
+
+Paust, S., Lu, L., Mccarty, N., and Cantor, H.  Engagement of B7 on eﬀector
+T cells by regulatory T cells prevents autoimmune disease. Proc. Natl. Acad. Sci.
+U.S.A. 101, 10398–10403. doi: 10.1073/pnas.0403342101.
+
+Payne, A. N., Chassard, C., Banz, Y., and Lacroix, C.  The composition and
+metabolic activity of child gut microbiota demonstrate diﬀerential adaptation
+to varied nutrient loads in an in vitro model of colonic fermentation. FEMS
+Microbiol. Ecol. 80, 608–623. doi: 10.1111/j.1574-6941.2012.01330.x.
+
+Peng, L., He, Z., Chen, W., Holzman, I. R., and Lin, J.  Eﬀects of butyrate on
+intestinal barrier function in a caco-2 cell monolayer model of intestinal barrier.
+Pediatr. Res. 61, 37–41. doi: 10.1203/01.pdr.0000250014.92242.f3.
+
+Pépin, J., Saheb, N., Coulombe, M.-A., Alary, M.-E., Corriveau, M.-P., Authier, S.,
+et al.  Emergence of ﬂuoroquinolones as the predominant risk factor for
+Clostridium diﬃcile-associated diarrhea: a cohort study during an epidemic in
+Quebec. Clin. Infect. Dis. 41, 1254–1260. doi: 10.1086/496986.
+
+Shi, L., Zhang, Z., Angela, M. Y., Wang, W., Wei, Z., Akhter, E., et al.  The
+SLE transcriptome exhibits evidence of chronic endotoxin exposure and has
+widespread dysregulation of non-coding and coding RNAs. PLoS One 9:e93846.
+doi: 10.1371/journal.pone.0093846.
+
+Pistollato, F., Sumalla Cano, S., Elio, I., Masias Vergara, M., Giampieri, F., and
+Battino, M.  Role of gut microbiota and nutrients in amyloid formation
+and pathogenesis of Alzheimer disease. Nutr. Rev. 74, 624–634. doi: 10.1093/
+nutrit/nuw023.
+
+Png, C. W., Lindén, S. K., Gilshenan, K. S., Zoetendal, E. G., Mcsweeney, C. S., Sly,
+L. I., et al.  Mucolytic bacteria with increased prevalence in IBD mucosa
+augment in vitro utilization of mucin by other bacteria. Am. J. Gastroenterol.
+105, 2420–2428. doi: 10.1038/ajg.2010.281.
+
+Pool-Zobel, B. L., Neudecker, C., Domizlaﬀ, I., Ji, S., Schillinger, U., Rumney, C.,
+et al.  Lactobacillus-and Biﬁdobacterium-mediated antigenotoxicity in
+the colon of rats. Nutr. Cancer 26, 365–380. doi: 10.1080/0163558960951
+4492.
+
+Pruitt, R. N., Chumbler, N. M., Rutherford, S. A., Farrow, M. A., Friedman, D. B.,
+Spiller, B., et al.  Structural determinants of Clostridium diﬃcile toxin
+a glucosyltransferase activity. J. Biol. Chem. 287, 8013–8020. doi: 10.1074/jbc.
+M111.298414.
+
+Qin, J., Li, Y., Cai, Z., Li, S., Zhu, J., Zhang, F., et al.  A metagenome-
+wide association study of gut microbiota in type 2 diabetes. Nature 490, 55–60.
+doi: 10.1038/nature11450.
+
+Rakoﬀ-Nahoum, S., Paglino, J., Eslami-Varzaneh, F., Edberg, S., and Medzhitov, R.
+ Recognition of commensal microﬂora by toll-like receptors is required
+for intestinal homeostasis. Cell 118, 229–241. doi: 10.1016/j.cell.2004.07.002
+Rooks, M. G., and Garrett, W. S.  Gut microbiota, metabolites and host.
+
+Rubinstein, M. R., Wang, X., Liu, W., Hao, Y., Cai, G., and Han, Y. W. 
+Fusobacterium nucleatum promotes colorectal carcinogenesis by modulating
+E-cadherin/β-catenin signaling via its FadA adhesin. Cell Host Microbe 14,
+195–206. doi: 10.1016/j.chom.2013.07.012.
+
+Ruseler-van Embden, J. G. H., and Both-Patoir, H. C.  Anaerobic gram-
+negative faecal ﬂora in patients with Crohn’s disease and healthy subjects.
+Antonie Van Leeuwenhoek 49, 125–132. doi: 10.1007/BF00393670.
+
+Salminen, S., Bouley, C., Boutron, M.-C., Cummings, J. H., Franck, A., Gibson,
+G. R., et al.  Functional food science and gastrointestinal physiology and
+function. Br. J. Nutr. 80, 147–171. doi: 10.1079/bjn19980108.
+
+Shultz, S. R., Aziz, N. A., Yang, L., Sun, M., Macfabe, D. F., and O’Brien,
+T. J.  Intracerebroventricular injection of propionic acid, an enteric
+metabolite implicated in autism, induces social abnormalities that do not diﬀer
+between seizure-prone (FAST) and seizure-resistant (SLOW) rats. Behav. Brain
+Res. 278, 542–548. doi: 10.1016/j.bbr.2014.10.050.
+
+Silva, A. M., Bambirra, E. A., Oliveira, A. L., Souza, P. P., Gomes, D. A., Vieira,
+E. C., et al.  Protective eﬀect of biﬁdus milk on the experimental infection
+with Salmonella enteritidis subsp. typhimurium in conventional and gnotobiotic
+mice.
+J. Appl. Microbiol. 86, 331–336. doi: 10.1046/j.1365-2672.1999.00
+674.x.
+
+Sivan, A., Corrales, L., Hubert, N., Williams, J. B., Aquino-Michaels, K., Earley,
+Z. M., et al.  Commensal Biﬁdobacterium promotes antitumor immunity
+and facilitates anti–PD-L1 eﬃcacy. Science 350, 1084–1089. doi: 10.1126/
+science.aac4255.
+
+Sokol, H., Pigneur, B., Watterlot, L., Lakhdari, O., Bermúdez-Humarán, L. G.,
+Gratadoux,
+is an anti-
+J., et al.  Faecalibacterium prausnitzii
+inﬂammatory commensal bacterium identiﬁed by gut microbiota analysis of
+Crohn disease patients. Proc. Natl. Acad. Sci. U.S.A. 105, 16731–16736. doi:
+10.1073/pnas.0804812105.
+
+J. P.,
+Seydoux, J., et al.  Corticotropin-releasing hormone directly stimulates
+thermogenesis in skeletal muscle possibly through substrate cycling between de
+novo lipogenesis and lipid oxidation. Endocrinology 147, 31–38. doi: 10.1210/
+en.2005-1033.
+
+Song, Y., Liu, C., and Finegold, S. M.  Real-time PCR quantitation of
+Clostridia in feces of autistic children. Appl. Environ. Microbiol. 70, 6459–6465.
+doi: 10.1128/aem.70.11.6459-6465.2004.
+
+Soret, R., Chevalier, J., De Coppet, P., Poupeau, G., Derkinderen, P., Segain, J. P.,
+et al.  Short-chain fatty acids regulate the enteric neurons and control
+gastrointestinal motility in rats. Gastroenterology 138, 1772–1782. doi: 10.1053/
+j.gastro.2010.01.053.
+
+Salzman, N. H., Hung, K., Haribhai, D., Chu, H., Karlsson-Sjöberg, J., Amir, E.,
+et al.  Enteric defensins are essential regulators of intestinal microbial
+ecology. Nat. Immunol. 11, 76–83. doi: 10.1038/ni.1825.
+
+Sorg, J. A., and Sonenshein, A. L.  Bile salts and glycine as cogerminants for
+Clostridium diﬃcile spores. J. Bacteriol. 190, 2505–2512. doi: 10.1128/jb.01765-
+07.
+
+Samuel, P., Holtzman, C. M., Meilman, E., and Sekowski, I.  Eﬀect
+of neomycin and other antibiotics on serum cholesterol
+levels and on
+7α-dehydroxylation of bile acids by the fecal bacterial ﬂora in man. Circ. Res.
+33, 393–402. doi: 10.1161/01.res.33.4.393.
+
+Sanz, Y., Palma, G. D., and Laparra, M.  Unraveling the ties between celiac
+disease and intestinal microbiota. Int. Rev. Immunol. 30, 207–218. doi: 10.3109/
+08830185.2011.599084.
+
+Staels, B., and Fonseca, V. A.  Bile acids and metabolic regulation:
+mechanisms and clinical responses to bile acid sequestration. Diabetes Care
+32(Suppl. 2), S237–S245. doi: 10.2337/dc09-s355.
+
+Stedtfeld, R. D., Chai, B., Crawford, R. B., Stedtfeld, T. M., Williams, M. R.,
+Xiangwen, S., et al.  Modulatory inﬂuence of segmented ﬁlamentous
+bacteria on transcriptomic response of gnotobiotic mice exposed to TCDD.
+Front. Microbiol. 8:1708. doi: 10.3389/fmicb.2017.01708.
+
+Stene, L. C., Honeyman, M. C., Hoﬀenberg, E. J., Haas, J. E., Sokol, R. J.,
+Emery, L., et al.  Rotavirus infection frequency and risk of celiac disease
+autoimmunity in early childhood: a longitudinal study. Am. J. Gastroenterol.
+101, 2333–2340. doi: 10.1111/j.1572-0241.2006.00741.x.
+
+Sato, J., Kanazawa, A., Ikeda, F., Yoshihara, T., Goto, H., Abe, H., et al.  Gut
+dysbiosis and detection of “live gut bacteria” in blood of Japanese patients with
+type 2 diabetes. Diabetes Care 37, 2343–2350. doi: 10.2337/dc13-2817.
+
+Stepniak, D., and Koning, F.  Celiac disease—sandwiched between innate
+and adaptive immunity. Hum. Immunol. 67, 460–468. doi: 10.1016/j.humimm.
+2006.03.011.
+
+Scher, J. U., Sczesnak, A., Longman, R. S., Segata, N., Ubeda, C., Bielski, C.,
+et al.
+intestinal Prevotella copri correlates with
+enhanced susceptibility to arthritis. eLife 2:e01202. doi: 10.7554/eLife.
+01202.
+
+Selma, M. V., Espin, J. C., and Tomas-Barberan, F. A.  Interaction between
+phenolics and gut microbiota: role in human health. J. Agric. Food Chem. 57,
+6485–6501. doi: 10.1021/jf902107d.
+
+Sender, R., Fuchs, S., and Milo, R.  Revised estimates for the number of
+human and bacteria cells in the body. PLoS Biol. 14:e1002533. doi: 10.1371/
+journal.pbio.1002533.
+
+Swidsinski, A., Loening-Baucke, V., Theissig, F., Engelhardt, H., Bengmark, S.,
+Koch, S., et al.  Comparative study of the intestinal mucus barrier in
+normal and inﬂamed colon. Gut 56, 343–350. doi: 10.1136/gut.2006.098160
+Tap, J., Mondot, S., Levenez, F., Pelletier, E., Caron, C., Furet, J. P., et al.
+ Towards the human intestinal microbiota phylogenetic core. Environ.
+Microbiol. 11, 2574–2584. doi: 10.1111/j.1462-2920.2009.01982.x.
+
+Thangaraju, M., Cresci, G. A., Liu, K., Ananth, S., Gnanaprakasam, J. P., Browning,
+D. D., et al.  GPR109A is a G-protein–coupled receptor for the bacterial
+fermentation product butyrate and functions as a tumor suppressor in colon.
+Cancer Res. 69, 2826–2832. doi: 10.1158/0008-5472.CAN-08-4466.
+
+The Human Microbiome Project Consortium.  A framework for human.
+
+Theriot, C. M., Koenigsknecht, M. J., Carlson, P. E., Hatton, G. E., Nelson, A. M.,
+Li, B., et al.  Antibiotic-induced shifts in the mouse gut microbiome
+and metabolome increase susceptibility to Clostridium diﬃcile infection. Nat.
+Commun. 5:3114. doi: 10.1038/ncomms4114.
+
+Tjellström, B., Stenhammar, L., Högberg, L., Fälth-Magnusson, K., Magnusson,
+K. E., Midtvedt, T., et al.  Gut microﬂora associated characteristics in
+children with celiac disease. Am. J. Gastroenterol. 100, 2784–2788. doi: 10.1111/
+j.1572-0241.2005.00313.x.
+
+Tolhurst, G., Heﬀron, H., Lam, Y. S., Parker, H. E., Habib, A. M., Diakogiannaki, E.,
+et al.  Short-chain fatty acids stimulate glucagon-like peptide-1 secretion
+via the G-protein–coupled receptor FFAR2. Diabetes Metab. Res. Rev. 61,
+364–371. doi: 10.2337/db11-1019.
+
+Turnbaugh, P. J., Hamady, M., Yatsunenko, T., Cantarel, B. L., Duncan, A., Ley,
+R. E., et al.  A core gut microbiome in obese and lean twins. Nature 457,
+480–484. doi: 10.1038/nature07540.
+
+Wei, W., Sun, W., Yu, S., Yang, Y., and Ai, L.  Butyrate production
+from high-ﬁber diet protects against lymphoma tumor. Leuk. Lymphoma 57,
+2401–2408. doi: 10.3109/10428194.2016.1144879.
+
+Wiedermann, C. J., Kiechl, S., Dunzendorfer, S., Schratzberger, P., Egger, G.,
+Oberhollenzer, F., et al.  Association of endotoxemia with carotid
+atherosclerosis and cardiovascular disease: prospective results from the Bruneck
+Study. J. Am. Coll. Cardiol. 34, 1975–1981. doi: 10.1016/S0735-1097
+00448-9.
+
+Wikoﬀ, W. R., Anfora, A. T., Liu, J., Schultz, P. G., Lesley, S. A., Peters, E. C.,
+et al.  Metabolomics analysis reveals large eﬀects of gut microﬂora on
+mammalian blood metabolites. Proc. Natl. Acad. Sci. U.S.A. 106, 3698–3703.
+doi: 10.1073/pnas.0812874106.
+
+J., Andersson, A. F., Lucio, M.,
+Zheng, Z., et al.  A pyrosequencing study in twins shows that
+gastrointestinal microbial proﬁles vary with inﬂammatory bowel disease
+phenotypes. Gastroenterology 139, 1844.e1–1854.e1. doi: 10.1053/j.gastro.2010.
+08.049.
+
+Turnbaugh, P. J., Ridaura, V. K., Faith, J. J., Rey, F. E., Knight, R., and Gordon,
+J. I.  The eﬀect of diet on the human gut microbiome: a metagenomic
+analysis in humanized gnotobiotic mice. Sci. Transl. Med. 1:6ra14. doi: 10.1126/
+scitranslmed.3000322.
+
+Turnbaugh, P. J., Ley, R. E., Mahowald, M. A., Magrini, V., Mardis, E. R., and
+Gordon, J. I.  An obesity-associated gut microbiome with increased
+capacity for energy harvest. Nature 444, 1027–1031. doi: 10.1038/nature0
+5414.
+
+World Health Organization [WHO]  Obesity and Overweight. Available at:
+http:// [accessed 1 Jul. 2017].
+World Health Organization [WHO]  Autism Spectrum Disorders. Available
+http://.
+
+Ulger Toprak, N., Yagci, A., Gulluoglu, B. M., Akin, M. L., Demirkalem, P.,
+Celenk, T., et al.  A possible role of Bacteroides fragilis enterotoxin in
+the aetiology of colorectal cancer. Clin. Microbiol. Infect. 12, 782–786. doi:
+10.1111/j.1469-0691.2006.01494.x.
+
+J. D., Clement, F., Merabishvili, M., Lavigne, R., and
+Vaneechoutte, M.  Pro-and anti-inﬂammatory responses of peripheral
+blood mononuclear cells induced by Staphylococcus aureus and Pseudomonas
+aeruginosa phages. Sci. Rep. 7:8004. doi: 10.1038/s41598-017-08336-9.
+
+van Nood, E., Vrieze, A., Nieuwdorp, M., Fuentes, S., Zoetendal, E. G., De
+Vos, W. M. D., et al.  Duodenal infusion of donor feces for recurrent
+Clostridium diﬃcile. N. Engl. J. Med. 368, 407–415. doi: 10.1056/nejmoa1205037
+Vasiliauskas, E. A., Kam, L. Y., Karp, L. C., Gaiennie, J., Yang, H., and Targan,
+S. R.  Marker antibody expression stratiﬁes Crohns disease into
+immunologically homogeneous subgroups with distinct clinical characteristics.
+Gut 47, 487–496. doi: 10.1136/gut.47.4.487.
+
+Venkatesh, M., Mukherjee, S., Wang, H., Li, H., Sun, K., Benechet, A. P.,
+et al.  Symbiotic bacterial metabolites regulate gastrointestinal barrier
+function via the xenobiotic sensor PXR and Toll-like receptor 4. Immunity 41,
+296–310. doi: 10.1016/j.immuni.2014.06.014.
+
+Vétizou, M., Pitt, J. M., Daillère, R., Lepage, P., Waldschmitt, N., Flament, C.,
+et al.  Anticancer immunotherapy by CTLA-4 blockade relies on the gut
+microbiota. Science 350, 1079–1084. doi: 10.1126/science.aad1329.
+
+Wagner, J., Maksimovic, J., Farries, G., Sim, W. H., Bishop, R. F., Cameron, D. J.,
+et al.  Bacteriophages in gut samples from pediatric Crohn’s disease
+patients: metagenomic analysis using 454 pyrosequencing. Inﬂamm. Bowel Dis.
+19, 1598–1608. doi: 10.1097/MIB.0b013e318292477c.
+
+Wang, L. W., Tancredi, D. J., and Thomas, D. W.  The prevalence of
+gastrointestinal problems in children across the United States with autism
+spectrum disorders from families with multiple aﬀected members. J. Dev. Behav.
+Pediatr. 32, 351–360. doi: 10.1097/dbp.0b013e31821bd06a.
+
+Wang, T., Cai, G., Qiu, Y., Fei, N., Zhang, M., Pang, X., et al.  Structural
+segregation of gut microbiota between colorectal cancer patients and healthy
+volunteers. ISME J. 6, 320–329. doi: 10.1038/ismej.2011.109.
+
+Wehkamp, J., Salzman, N. H., Porter, E., Nuding, S., Weichenthal, M., Petras, R. E.,
+et al.  Reduced paneth cell α-defensins in ileal Crohns disease. Proc. Natl.
+Acad. Sci. U.S.A. 102, 18129–18134. doi: 10.1073/pnas.0505256102.
+
+at:
+en/ [accessed 1 Jul. 2017]..
+
+Wu, N., Yang, X., Zhang, R., Li, J., Xiao, X., Hu, Y., et al.  Dysbiosis signature
+of fecal microbiota in colorectal cancer patients. Microb. Ecol. 66, 462–470.
+doi: 10.1007/s00248-013-0245-9.
+
+Wu, S., Lim, K. C., Huang, J., Saidi, R. F., and Sears, C. L.  Bacteroides fragilis
+enterotoxin cleaves the zonula adherens protein, E-cadherin. Proc. Natl. Acad.
+Sci. U.S.A. 95, 14979–14984. doi: 10.1073/pnas.95.25.14979.
+
+ Bacteroides
+fragilis enterotoxin induces c-Myc expression and cellular proliferation.
+Gastroenterology 124, 392–400. doi: 10.1053/gast.2003.50047.
+
+Wu, S., Rhee, K. J., Albesiano, E., Rabizadeh, S., Wu, X., Yen, H. R., et al. 
+A human colonic commensal promotes colon tumorigenesis via activation of T
+helper type 17 T cell responses. Nat. Med. 15, 1016–1022. doi: 10.1038/nm.2015
+Wu, Y., Wu, J., Chen, T., Li, Q., Peng, W., Li, H., et al.  Fusobacterium
+nucleatum potentiates intestinal tumorigenesis in mice via a toll-like receptor
+4/p21-activated kinase 1 cascade. Dig. Dis. Sci. 63, 1210–1218. doi: 10.1007/
+s10620-018-4999-2.
+
+Xiong, Y., Miyamoto, N., Shibata, K., Valasek, M. A., Motoike, T., Kedzierski, R. M.,
+et al.  Short-chain fatty acids stimulate leptin production in adipocytes
+through the G protein-coupled receptor GPR41. Proc. Natl. Acad. Sci. U.S.A.
+101, 1045–1050. doi: 10.1073/pnas.2637002100.
+
+Yiu, J. H., Dorweiler, B., and Woo, C. W.  Interaction between gut
+microbiota and toll-like receptor: from immunity to metabolism. J. Mol. Med.
+95, 13–20. doi: 10.1007/s00109-016-1474-4.
+
+Yui, K., Kawasaki, Y., Yamada, H., and Ogawa, S.  Oxidative stress
+and nitric oxide in autism spectrum disorder and other neuropsychiatric
+disorders. CNS Neurol. Disord. Drug Targets 15, 587–596. doi: 10.2174/
+1871527315666160413121751

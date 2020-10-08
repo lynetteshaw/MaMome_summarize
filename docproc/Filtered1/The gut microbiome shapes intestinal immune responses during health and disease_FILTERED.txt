@@ -1,0 +1,247 @@
+23_PARAGRAPHS
+
+rates of cell turnover in germ-free animals compared with wild-type animals13. Gut bacteria
+have been shown to direct the glycosylation of lumenally-exposed surface proteins of the
+epithelium14. IECs have many immunological functions (Table 1): they can secrete and
+respond to various cytokines and express molecules (such as major histocompatibility
+molecules) that directly interact with lymphocytes. Expression and localization of pattern-
+recognition receptors (e.g., Toll-like receptors; TLRs) by the epithelium is influenced by
+bacterial colonization of the gut, and expression of defensins and other antimicrobial
+proteins are deficient in germ-free animals (Table 1). Consistent with this notion, the Gram-
+negative commensal organism Bacteroides thetaiotaomicron, but not the Gram-positive
+microbe, Bifidobacterium longum, induces the expression of the antimicrobial peptide,
+RegIIIγ, by specialized IECs known as Paneth cells15, 16. Intriguingly, the specificity of
+RegIIIγ is directed toward specific Gram-positive bacteria. It is therefore tempting to
+speculate that symbiotic bacteria direct innate immune responses of the gut in an effort to
+protect their environment. Collectively, these observations of developmental defects in
+germ-free mice at the tissue, cellular and molecular levels suggest that ‘normal’ immune
+function may be impaired in the absence of the microbiota..
+
+Germ-free animals are more susceptible to infection by certain bacterial, viral and parasitic
+pathogens. When challenged with the Gram-negative enteric pathogen Shigella flexneri,
+germ-free animals showed decreased immune resistance to infection and increased mortality
+compared with conventionally colonized animals17. Prior colonization with specific
+commensal bacteria antagonized S. flexneri infections, whereas colonization with control
+species such as E.coli did not, implying that some members of the microbiota provide
+protection against intestinal bacterial pathogens18. Infection by the Gram-positive
+intracellular pathogen Listeria monocytogenes results in decreased bacterial clearance in
+germ-free compared with colonized animals19.The mechanism for this increased
+susceptibility has been attributed to a T cell trafficking defect in germ-free animals to the
+site of Listeria infection. L-selectin and CD44 are known to be involved in homing of
+lymphocytes to sites of inflammation. Listeria infected germ-free mice have decreased
+accumulation of CD44+L-selectin+ T cells resulting in increased bacterial burden compared
+to SPF animals20. Salmonella typhimurium is known to cause a more severe acute
+gastroenteritis in germ-free animals21, however the reasons for this remain unclear.
+Establishing an infection requires the initial task of colonizing the host. For intestinal
+pathogens this can pose a difficult problem as all mammals are stably colonized by a
+consortium of bacteria that can act as a barrier to infection (“colonization resistance”).
+Recent studies suggest that inflammation induced in response to S. typhimurium changes the
+composition of the microbiota and suppresses its regrowth. Moreover, S. typhimurium
+exploits this deficiency in “colonization resistance” to establish infection and cause
+disease22. While important for maintaining a barrier to the colonization of potentially
+pathogenic organisms, it appears that the microbiota may also provide the host immune
+benefits. Supporting this, germ-free animals show reduced antigen-specific systemic
+immune responses to S. typhimuirum23. These studies support the idea that enteric pathogens
+such as S. typhimurium may have developed strategies to counter both the immune system
+and the microbiota during the infectious process..
+
+The impact of the microbiota on human health is best exemplified by studies in IBD, such as
+Crohn's disease and ulcerative colitis24-26. Both represent serious medical disorders marked
+by aberrant inflammation within the human gastrointestinal (GI) tract, resulting in severe
+clinical outcomes in affected patients. The causes for these diseases are complex, and
+include the contributions of genetic, geographic and habitual factors27. IBD (particularly
+Crohn's disease) is generally thought to be driven by T lymphocytes. The disease has
+classically been characterized by increases in pro-inflammatory cytokines such as tumour-
+necrosis factor (TNF) and interferon-γ (IFNγ). Recently, a new population of inflammatory
+T cells, termed T helper 17 (TH17) cells, have been implicated in the pathogenesis of human
+and experimental colitis28-33These cells are characterized by their expression of the pro-
+inflammatory cytokine interleukin-17 (IL-17), and require IL-23 for their maintenance and
+function. Specialized T cells, known as regulatory T (TReg) cells act to counter-balance these
+pro-inflammatory responses. FOXP3 is a transcription factor believed to be the ‘master
+regulator’ of TReg cells, and its absence results in massive multi-organ lymphoproliferative
+disease34. The mechanisms by which Tregs are able to suppress inflammation are quite
+diverse. These include the expression of inhibitory cytokines such as IL-10, TGF-β, and
+IL-35; disruption of cellular metabolism by expression of the IL-2 receptor, CD25;
+cytolysis, and targeting the maturation of DCs through surface expression of molecules such
+as CTLA-4 and LAG-335. A population of intestinal dendritic cells expressing the surface
+antigen CD103 have recently been demonstrated to be instrumental in the development and
+function of intestinal Foxp3+ Tregs. CD103+ DCs, but not CD103− DCs are able to
+‘convert’ CD4+Foxp3− T cells into CD4+Foxp3+ Tregs cells in a TGF-β and retinoic acid
+dependent manner36, demonstrating that specialized mechanisms exist within the intestine to
+promote induction and maintenance of Tregs..
+
+studies have now begun to show evidence that the composition of the microbiota alone (and
+not genetics or environment) may be important to the induction of disease. T-bet (tbx21) is a
+T-box transcription factor that controls the type 1 pro-inflammatory response in both
+adaptive and innate immune cells67. Loss of T-bet in mice lacking an adaptive immune
+system (Rag−/−) develop spontaneous and penetrate intestinal inflammation that resembles
+ulcerative colitis68. Treatment of these mice with broad spectrum antibiotics cured the
+intestinal disease, demonstrating that inflammation was driven by the microbiota. Finally,
+when wild-type animals are co-housed with T-bet−/−Rag−/− colitic mice, they develop a
+comparable colitis like disease68. Therefore, the transfer of colitigenic microbes alone (the
+identity of which is still uncertain) was sufficient to induce experimental ulcerative colitis.
+The second study addressing the sufficiency of dysbiosis have come from metagenomic
+analysis of the microbiota during obesity. Ob/ob mice display symptoms of obesity and are
+used as a model system of human disease. Remarkably, transfer of the microbiota from
+ob/ob animals into germ-free wild-type animals results in an increase in the mean body fat
+of recipient animals69,70. Moreover, the proportion of Bacteroidetes is decreased in obese
+people when compared to lean people, demonstrating the possibility that alterations in the
+human microbiota may affect disease. Much like IBD, obesity appears to have a strong
+genetic component71. The complex interplay between host genotype and its effects on the
+microbiota are an area very worthy of further investigation. However, studies such as these,
+where bacterial transfer into wild-type animals induces , argue for a prominent role for
+dysbiosis..
+
+In the early 1900s, Ilya Mechnikov was the first to propose the use of live microorganisms
+to maintain bowel health and prolong life. Now, the term ‘probiotic’ is used to describe
+dietary microbes that are able to confer a health benefit on the host76. As shown in Table 2,
+many individual or combinations of bacterial species have been shown to ameliorate the
+symptoms of IBD in humans and mouse models. Although many of these probiotic strains
+decrease toxic microbial metabolic activities, more recent evidence demonstrates the
+capacity of these organisms to modulate intestinal immune responses. The common feature
+of almost all bacterial species used as probiotics is the ability of these organisms to control
+inflammation. Bacterial species can act on several cell types (epithelial cells, dendritic cells
+(DCs) and T cells), but recent evidence suggests that induction of regulatory T cells by these
+organisms is crucial to limiting inflammation and disease. Treatment of colitic mice with the
+probiotic cocktail, VSL#3, increased the production of IL-10 and the percentage of TGFβ-
+expressing T cells77. More importantly, transfer of lamina propria mononuclear cells from
+VSL#3-treated mice was able to prevent colitis in recipient mice, indicating the ability of the
+VSL#3 cocktail to initiate the generation of a protective population of cells. Depletion of
+TGFβ-bearing CD4+ T cells from probiotic treated mice before the transfer of lamina
+propria cells abolished the protective capacity of these cells77. More recently, in a model of
+pathogen-induced inflammation, treatment of mice with Bifidobacteria infantis led to a
+downregulation of intestinal inflammation and increases in the number of CD4+CD25+ TReg
+cells78. Adoptive transfer of the CD4+CD25+ TReg-cell population from mice fed with B.
+infantis inhibited inflammation-induced activation of nuclear factor-κB (NF-κB) in recipient
+mice..
+
+The first demonstration that a single molecule made by a commensal microorganism could
+shape beneficial immune responses was provided by the identification of polysaccharide A
+(PSA) produced by the human symbiont Bacteroides fragilis (Figure 1). Colonization of
+germ-free mice with B. fragilis or treatment with purified PSA directs the cellular and.
+
+physical development of the immune system, including expansion and differentiation of
+splenic CD4+ T cells81. The novel immunomodulatory activities of PSA during B. fragilis
+colonization of germ-free mice include correcting systemic T-cell deficiencies, T-helper cell
+imbalances and directing lymphoid organogenesis. The importance of B. fragilis in
+maintenance of a healthy immune response was recently illustrated by the finding that
+colonization by B. fragilis or treatment with purified PSA can protect from the induction of
+experimental IBD66. Moreover, mice that are colonized by a mutant form of this
+microorganism that lacks expression of PSA (B. fragilis ΔPSA) are no longer protected from
+disease. Oral treatment of mice with purified PSA protects recipients from weight loss,
+decreases levels of the pro-inflammatory cytokines TNFα, IL-17 and IL-23, and inhibits
+epithelial hyperplasia and neutrophil infiltration to the gut associated with disease induction
+in these models66. To provide insight into the mechanistic basis for PSA-mediated
+protection, it was shown that increases in local induction of IL-10 were required for the anti-
+inflammatory properties of PSA. PSA is unable to protect from induction of colitis in IL-10-
+deficient mice, demonstrating that PSA functions by inducing the production of IL-10..
+Based on this observation, we tested the ability of PSA to induce IL-10 in CD4+ T cells.
+Indeed, CD4+ T cells purified from MLNs during PSA-mediated protection of colitis
+showed increased levels of IL-10 compared with PBS treated control mice. Finally, transfer
+of IL-10-deficient CD4+ T cells into Rag−/− recipient mice abolished the ability of PSA to
+protect from experimental colitis66. These data have identified a single molecule made by a
+symbiotic microorganism that stimulates CD4+ T cells to make IL-10, required for the
+suppression of the inflammatory process during colitis, and suggest that other beneficial
+bacteria may produce factors that can positively shape the host immune response during
+IBD..
+
+Does harboring certain strains of bacteria predispose an individual to disease or protect from
+it? B. fragilis has been shown to protect its host from inflammatory disease caused by H.
+hepaticus in an animal model of experimental colitis66. As symbiotic bacteria seem to have
+evolved mechanisms to promote protection from pathobionts found in the same microbiota,
+does disease result from the absence of specific organisms and their beneficial molecules? In.
+
+If improvements in hygiene and health care have altered the process by which a healthy
+microbiota is assembled and maintained, then patients with these diseases in developed
+countries should display signs of dysbiosis. This indeed appears to be the case, at least
+according to a growing number of studies which are now linking ‘Western’ diseases to
+alterations in the microbiota. The intestinal bacterial composition of IBD patients differs
+greatly from that of healthy controls74. However, over many years, research to identify the
+pathogenic organism(s) that elicit inflammation has repeatedly identified reactions only to
+intestinal bacteria shared by all humans—healthy and ill. No infectious organisms have ever
+been conclusively demonstrated to be involved in IBD, though various studies are still
+ongoing. So, perhaps the targets of inflammation in IBD are not pathogens, but pathobionts
+that are overrepresented during dysbiosis (Figure 2). When intestinal bacterial species were
+analyzed as a factor in asthma development, reports concluded that allergic children from
+both an industrialized nation (Sweden) and a developing country (Estonia) had lower levels
+of colonization by Bacteroides spp. and higher levels of colonization by aerobic
+microorganisms than did non-allergic children from either region85. Epidemiological studies
+have linked an altered intestinal microbiota to other allergic disorders, such as atopic eczema
+and rheumatoid arthritis86-88. Though cause or effect relationships still remain unresolved, it
+seems that deviations in the composition of the gut microbiota may be an influencing
+environmental factor underlying the development of disease in genetically predisposed
+individuals..
+
+Recent studies have launched a revolution in biology aimed at understanding how (and,
+more importantly, why) mammals harbour multitudes of symbiotic bacteria. As discussed
+above, the effects of the microbiota on the immune system are becoming increasingly
+evident. Astonishingly, the immune disorders for which incidences have increased in
+‘Western’ countries all seem to involve reduced TReg-cell activity. It has been shown in
+animal models and some human studies that deficiencies in TReg-cell populations or
+function underlie asthma, IBD, rheumatoid arthritis, type 1 diabetes and multiple sclerosis89.
+CD4+CD25+FOXP3+ TReg cells can prevent, and in some cases, treat these disorders in
+laboratory animals. The antagonism between pro-inflammatory TH17 cells and FOXP3+
+TReg cells is well documented90. Most remarkably, the numbers and function of certain
+TReg-cell populations are reduced in germ-free animals45,43. As mentioned above, germ-free.
+
+From the Greek, pathos, meaning ‘suffering’. An opportunistic
+organism that rarely comes in contact with the host, but causes acute
+or chronic disease upon infection..
+
+A chronic disease characterized by inflammation of the mucosa and
+sub-mucosa of the large intestine.
+
+A mixture of bacteria consisting of four strains of Lactobacillus (L.
+casei, L. plantarum, L. acidophilus, and L. delbrueckii subsp.
+bulgaricus), and three strains of Bifidobacterium (B. longum, B.
+breve, and B.infantis), and one strain of Streptococcus salivarius
+subsp. thermophilus..
+
+Escherichia coli and Shigella flexneri. Am J Pathol. 1961; 39:681–95. [PubMed: 13915950]
+18. Maier BR, Hentges DJ. Experimental Shigella infections in laboratory animals. I. Antagonism by
+human normal flora components in gnotobiotic mice. Infect Immun. 1972; 6:168–73. [PubMed:
+4631914].
+
+20. Inagaki H, Suzuki T, Nomoto K, Yoshikai Y. Increased susceptibility to primary infection with
+Listeria monocytogenes in germfree mice may be due to lack of accumulation of L-selectin+
+CD44+ T cells in sites of inflammation. Infect Immun. 1996; 64:3280–7. [PubMed: 8757865]
+21. Nardi RM, Silva ME, Vieira EC, Bambirra EA, Nicoli JR. Intragastric infection of germfree and
+conventional mice with Salmonella typhimurium. Braz J Med Biol Res. 1989; 22:1389–92.
+[PubMed: 2700668].
+
+22. Stecher B, et al. Salmonella enterica Serovar Typhimurium Exploits Inflammation to Compete.
+
+39. Ivanov II, et al. Specific microbiota direct the differentiation of IL-17-producing T-helper cells in
+the mucosa of the small intestine. Cell Host Microbe. 2008; 4:337–49. [PubMed: 18854238]
+40. Atarashi K, et al. ATP drives lamina propria T(H)17 cell differentiation. Nature. 2008; 455:808–.
+
+49. Elson CO, et al. Monoclonal anti-interleukin 23 reverses active colitis in a T cell-mediated model.
+
+mucosa colonization in Crohn disease. J Clin Invest. 2007; 117:1566–74. [PubMed: 17525800].
+
+80. Sokol H, et al. Faecalibacterium prausnitzii is an anti-inflammatory commensal bacterium.
+
+identified by gut microbiota analysis of Crohn disease patients. Proc Natl Acad Sci U S A. 2008;
+105:16731–6. [PubMed: 18936492] [These authors identify that the bacterium F. prausnitzii is
+specifically reduced within the intestine of Crohns patients. They further demonstrate that this
+bacterium has an anti-inflammatory capacity and can protect animals from disease when orally
+administered, suggesting that symbiotic microbes may be directly mediating health.]
+81. Mazmanian SK, Liu CH, Tzianabos AO, Kasper DL. An immunomodulatory molecule of
+symbiotic bacteria directs maturation of the host immune system. Cell. 2005; 122:107–18.
+[PubMed: 16009137].
+
+100. Macpherson AJ, Geuking MB, McCoy KD. Immune responses that adapt the intestinal mucosa to.
+
+Figure 1. Model for Bacteroides fragilis-mediated protection from disease induced by
+Helicobacter hepaticus
+B. fragilis produces an immunomodulatory polysaccharide (PSA) that induces an
+immunoregulatory programme that provides protection from inflammation induced by H.
+hepaticus. PSA is taken up by intestinal dendritic cells (DCs), which presumably migrate to
+the local mesenteric lymph nodes (MLNs) where they initiate T-cell responses by presenting
+PSA on MHC class II molecules to CD4+ T cells. This process helps to restore a balanced T
+helper (TH) and regulatory T (TReg) cell profile. Subsequently, naive TH cells adopt anti-
+inflammatory functions that include expression of interleukin-10 (IL-10). IL-10 is required
+to suppress the production of pro-inflammatory cytokines (such as IL-17, IL-23 and tumour-
+necrosis factor (TNF) induced by H. hepaticus during experimental colitis. It is this balance
+of the pro-inflammatory responses to H. hepaticus by regulation induced by B. fragilis that
+results in the control of intestinal inflammation.

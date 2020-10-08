@@ -1,0 +1,216 @@
+26_PARAGRAPHS
+
+Male Kunming mice were obtained from Shanghai Slac Labo-
+ratory Animal, Co., Ltd. (Shanghai, China), which were kept in
+an environmentally controlled breeding room (temperature:
+23 (cid:2) 2 (cid:3)C, humidity: 60 (cid:2) 5%, 12 hour light–dark cycle) and fed
+(cid:4)1, 10% calories in fat) or
+a normal diet (total calories 3.25 kcal g
+(cid:4)1, 50% calories in
+a high-fat diet (HF) (total calories 3.68 kcal g
+fat), or a high-fat diet supplemented with resveratrol (HF-RES)
+(n ¼ 8) at a concentration of 200 mg per kg per day for 12
+weeks.19 Resveratrol (>99%) was purchased from Sigma-Aldrich
+(China) and mixed to homogeneity during preparation of the
+diets. The study was carried out in strict accordance with the
+recommendations of the Guide for the Care and Use of Labo-
+ratory Animals of
+the Institutional Animal Care and Use
+Committee of Jiangnan University. Mice were killed by cervical
+dislocation aer a 6 h period of fasting. The ileum, liver, and
+visceral adipose tissues were dissected, immersed in liquid
+nitrogen and stored at (cid:4)80 (cid:3)C. The colonic contents were
+collected for further analysis..
+
+Biochemical analysis
+Aer a 6 h fasting period, blood samples were collected and
+were isolated by centrifugation at 1500 (cid:5) g at 4 (cid:3)C for 10 min.
+Blood glucose and insulin were assayed using commercial kits
+(Jingmei BioTech Co. Ltd, Shenzhen, China). Blood glucose was
+estimated by the glucose oxidase method.20 Concentrations of
+total cholesterol (TC), triglycerides, high density lipoprotein
+cholesterol (HDL-C), and low density lipoprotein cholesterol
+(LDL-C) in serum were determined by enzymatic colorimetric
+methods using commercial kits (Shanghai Rongsheng Biotech
+Co., Ltd., Shanghai, China)..
+
+The group- or genus-specic oligonucleotide probes targeted
+the bacterial 16S rRNA, including the Bacteroides–Prevotella
+group (Bac303, 50-CCAATGTGGGGGACCTT), the Clostridium
+I & II group (Chis150, 50-TTATGCGGTATTAATC-
+cluster
+the Enterobacteriaceae group (Enter1432, 50-
+TYCCTTT),
+the Lactobacillus group (Lab158, 50-
+GTTTTGCAACCCACT),
+GGTATTAGCA(C/T)CTGTTTCCA), the Eubacterium rectale group
+(Mib724, 50-GCTTCTTAGTCARGTACCG), the Atopobium group
+(Ato291, 50-GGTCGGTCTCTCAACCC), the Bidobacterium group
+(Bif164, 50-CATCCGGCATTACCACCC), the Enterococcus faecalis
+(Enf191, 50-GAAAGCGCCTTTCACTCTTATGC), and the Clos-
+tridium coccoides–Eubacterium rectale cluster group (Erec482, 50-
+GCTTCTTAGTCA- GGTACCG) were used for enumeration of
+dominant members of the gut microbiota. The EUB338 probe
+used to determine total counts was labeled with uorescein
+isothiocyanate (FITC), while the group- or genus-specic probes
+were labeled at the 50-end with indocyanine (Cy3; Sangon
+Biotech, Shanghai, China)..
+
+Randomly selected epididymal fat and liver tissues obtained from
+mice were washed with PBS and xed in 4% formaldehyde for 1 h
+at 4 (cid:3)C. Paraﬃn-embedded epididymal fat tissue was sectioned at
+3–5 mm thickness and stained with hematoxylin–eosin (HE).
+Ornithine carbamoyl-transferase frozen liver tissue was sectioned
+at 3–5 mm thickness and stained with oil red O. Histological
+assessment of the tissue morphology was performed using an
+Olympus light microscope (Olympus, Tokyo, Japan)..
+
+Table 1 Gene-speciﬁc primers used in qRT-PCR assaysa.
+
+Peroxisome proliferator activated
+receptor g
+Acetyl-CoA carboxylase 1.
+
+method.24 The total RNA was reverse transcribed (RT) and PCR
+amplied using the AccuPower® Greenstar qPCR kit (Bioneer).
+QRT-PCR assays were performed for each 10 ml reaction con-
+taining cDNA corresponding to 1 ng of total RNA and 900 nM
+gene-specic primers (Table 1) with the following parameters: 1
+cycle of 95 (cid:3)C for 5 min; 45 cycles of 95 (cid:3)C for 20 s, 60 (cid:3)C for 30 s
+and 72 (cid:3)C for 20 s; and 1 cycle of 72 (cid:3)C for 5 min. b-Actin was
+chosen as the housekeeping gene. Each assay was performed in
+duplicate in the same run. All assays were performed in tripli-
+cate with an ABI PRISM 7900HT Sequence Detection System
+(Applied Biosystems). Gene expression was calculated as DCT
+using b-actin as a reference, and was expressed relative to the
+control group normalised to a value of 1..
+
+FISH analysis, as a quantitative molecular-based technique, was
+applied to assess the microbiota composition. The relative
+abundance of the major bacterial groups indicated that, even
+when considering a degree of interindividual variation, the HF
+diet induced the gut microbiota dysbiosis . The results
+of principal coordinate analysis showed that HF microbiomes
+were clearly diﬀerent from those in CT and HF-RES mice
+. Moreover, the principal coordinate analysis scores plot
+in Fig. 2B supports the presence of overlapping clusters between
+HF-RES and CT groups, which illustrated the relative similarity
+of CT and RES treated mice in microbiotal proles. Lactobacillus
+was reduced by 1.8-fold in HF mice and Bidobacterium was
+decreased by 1.9-fold, whereas Enterococcus
+faecalis was
+increased by 1.8-fold in the HF group compared with CT mice
+. Aer RES treatment, Lactobacillus and Bidobacterium
+were signicantly increased, whereas Enterococcus faecalis was
+signicantly decreased to that of control levels . In.
+
+Fig. 1 Phenotypes of mice groups fed on diﬀerent diets. (A) Average body weight, (B) liver weight (percentage of body weight) and (C) visceral
+and subcutaneous adipose tissue weight (percentage of body weight). Values are means with their standard errors (n ¼ 8). Mean values were
+signiﬁcantly diﬀerent compared with those of the CT group: * P < 0.05. Mean values were signiﬁcantly diﬀerent compared with those of the HF
+group: † P < 0.05. CT, normal chow diet-fed mice; HF, high-fat diet-fed mice; HF-RES, mice fed with HF supplemented with RES..
+
+The correlations between body weight and the colonic bacterial
+content were calculated . Body weight was positively and
+signicantly correlated with Enterococcus faecalis (P < 0.05)
+, and body weight was negatively correlated with
+Lactobacillus and Bidobacterium . In addition, a
+negative correlation was found between the body weight and the
+ratios of Bacteroidetes-to-Firmicutes (r ¼ (cid:4)0.805, P ¼ 0.002)
+..
+
+Fig. 3 Correlation between the body weight and the colonic bacterial content of (A) the Lactobacillus group, (B) the Biﬁdobacterium group, (C)
+Enterococcus faecalis, and (D) the ratios of Bacteroidetes-to-Firmicutes. Mice were fed either a control diet (CT) or a high-fat diet (HF), or a high-
+fat diet supplemented with resveratrol (HF-RES). Bacterial quantities are expressed as relative abundance (%). Body weight values (g) are pre-
+sented as means (n ¼ 8 animals per group), with standard errors represented by vertical bars..
+
+and the Bacteroides phylum. These ndings are consistent with
+previous studies. For instance, Vendrame et al.39 described that
+wild blueberries, a rich source of polyphenols, signicantly
+increased the number of Bidobacterium spp. and Lactobacillus
+acidophilus, and Neyrinck et al.40 demonstrated that a poly-
+phenol-rich extract of pomegranate peel increased the caecal
+content weight and caecal pool of Bidobacteria spp. and
+Lactobacillus spp. The antimicrobial activity of resveratrol could
+not explain these results. Therefore,
+there are additional
+mechanisms, by which resveratrol mediates the composition of
+gut microbiota, which should be further elucidated..
+
+Fig. 4 Eﬀects of high-fat diet and RES supplementation on Fiaf (A) and
+Lpl (B) mRNA expressions in ileum tissue (n ¼ 6 per group). Each
+sample was assayed in triplicate; values are means, with their standard
+errors represented by vertical bars; mean values were signiﬁcantly
+diﬀerent compared with those of the CT group: * P < 0.05. Mean
+values were signiﬁcantly diﬀerent compared with those of the HF
+group: † P < 0.05. CT, normal chow diet-fed mice; HF, high-fat diet-
+fed mice; HF-RES, mice fed with HF supplemented with RES..
+
+activity, exerting their inhibitory eﬀect on certain bacterial
+groups by binding to bacterial membranes.35,36 Diﬀerences in
+cell surface structures could explain why Gram-positive bacteria
+are more sensitive to the bactericidal eﬀects of
+these
+compounds than are Gram-negative species.37 On one hand, in
+our study, resveratrol has an inhibitory eﬀect on the growth of
+these bacteria, which includes Enterococcus faecalis and the
+Enterobacteriaceae group—an important pathogen closely
+related to obesity and insulin resistance on a high-fat diet but
+not on a normal chow diet.38 However, on the other hand, this
+study showed that resveratrol intake positively aﬀected the
+growth of the Lactobacillus group, the Bidobacterium group,.
+
+Fig. 6 Eﬀects of high-fat diet and RES supplementation on adipocyte hypertrophy through the PPAR signaling pathway in OP mice. (A) The
+corresponding hematoxylin- and eosin-stained epididymal fat sections are shown. (B) qRT-PCR assays for gene expression of the PPAR signaling
+pathway in epididymal fat pads. Values are means, with their standard errors represented by vertical bars (n ¼ 6). Mean values were signiﬁcantly
+diﬀerent compared with those of the CT group: * P < 0.05. Mean values were signiﬁcantly diﬀerent compared with those of the HF group: † P <
+0.05. CT, normal chow diet-fed mice; HF, high-fat diet-fed mice; HF-RES, mice fed with HF supplemented with RES..
+
+adipocyte triglyceride accumulation. The stearoyl-CoA desatur-
+ase 1 (Scd1) gene is involved in the synthesis and regulation of
+unsaturated fatty acids from saturated fatty acids.42 The Cyp7a1
+gene encodes the enzyme cholesterol 7a-hydroxylase, which
+catalyzes the initial step in cholesterol catabolism subsequent.
+
+1 B. Rokholm, et al., The levelling oﬀ of the obesity epidemic
+since the year 1999–a review of evidence and perspectives,
+Obes. Rev., 2010, 11 835–846..
+
+6 F. Backhed, et al., Mechanisms underlying the resistance to
+diet-induced obesity in germ-free mice, Proc. Natl. Acad. Sci.
+U. S. A., 2007, 104 979–984..
+
+7 B. S. Samuel and J. I. Gordon, A humanized gnotobiotic
+mouse model of host-archaeal-bacterial mutualism, Proc.
+Natl. Acad. Sci. U. S. A., 2006, 103 10011–10016..
+
+8 F. Backhed, et al., The gut microbiota as an environmental
+factor that regulates fat storage, Proc. Natl. Acad. Sci. U. S.
+A., 2004, 101 15718–15723..
+
+12 X. H. Zhang, et al., Anti-obesity eﬀect of resveratrol-amplied
+grape skin extracts on 3T3-L1 adipocytes diﬀerentiation,
+Nutr. Res. Pract., 2012, 6 286–293..
+
+23 A. H. Franks, et al., Variations of bacterial populations in
+human feces measured by uorescent in situ hybridization
+with group-specic 16S rRNA-targeted oligonucleotide
+probes, Appl. Environ. Microbiol., 1998, 64 3336–3345.
+24 N. Kruse, et al., Quantication of cytokine mRNA expression
+by RT PCR in samples of previously frozen blood, J. Immunol.
+Methods, 1997, 210 195–203..
+
+29 P. D. Cani, et al., Selective increases of bidobacteria in gut
+microora improve high-fat-diet-induced diabetes in mice
+through a mechanism associated with endotoxaemia,
+Diabetologia, 2007, 50 2374–2383..
+
+31 M. Larrosa, et al., Eﬀect of a low dose of dietary resveratrol
+on colon microbiota, inammation and tissue damage in a
+DSS-induced colitis rat model, J. Agric. Food Chem., 2009,
+57 2211–2220..
+
+34 R. E. Ley, et al., Obesity alters gut microbial ecology, Proc..
+
+38 N. Fei and L. Zhao, An opportunistic pathogen isolated from
+the gut of an obese human causes obesity in germfree mice,
+ISME J., 2012, 7 880–884.

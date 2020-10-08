@@ -1,0 +1,206 @@
+19_PARAGRAPHS
+
+For taxa with greater than ﬁve sequences assigned, the standard two-popula-
+tion proportions test is used to estimate the probability of the observed differ-
+ences  The P value is estimated from the Z critical value, where.
+
+(cid:1)(cid:6)(cid:7)1 (cid:3) (cid:6)(cid:8)(cid:2) 1.
+
+and where N1 and N2 are the total number of sequences for library 1 and 2,
+respectively, x and y are the number of sequences assigned to taxon T from
+library 1 and 2, respectively, and (cid:6) equals (x (cid:1) y)/(N1.
+
+SeqMatch k-NN classiﬁer. The RDP SeqMatch tool is a k-nearest-neighbor
+(k-NN) classiﬁer  It uses a word-matching strategy not requiring alignment to
+determine the percentage of shared seven-character words between a query and
+members of a database of sequences. This tool assigns queries to the lowest taxon
+shared by the highest-scoring k database sequences. For the tests described here,
+the Bergey corpus was used as the database, and a query was assigned to the
+same genus as the closest-matching sequence from the Bergey corpus (effec-
+tively, k (cid:2) 1). Setting k to 1 ensured that all queries were classiﬁed at all
+taxonomic ranks for comparison with the RDP Classiﬁer..
+
+Phylogenetic analysis. Aligned 16S rRNA sequences were selected at the RDP
+website and analyzed using the RDP Tree Builder tool. This tool utilizes Weigh-
+bor  which uses the weighted neighbor-joining algorithm of phylogenetic
+reconstruction. Weighbor parameters were set to alphabet size 4 and effective
+sequence length 1,000, and the Jukes-Cantor distance correction was employed.
+Tree Builder incorporates branch-order conﬁdence estimation using 100 boot-
+strap samples. The resultant tree was downloaded in PostScript format and
+embellished with Adobe Illustrator..
+
+Implementation and availability. The Classiﬁer engine and related software
+were written in Java (API v1.4.1) and have been tested on the Solaris  Linux
+ and Microsoft Windows XP operating systems
+using Java virtual machines from Sun and Apple. The online version of Classiﬁer
+and Library Compare are built on Java technology, including Java Server Page
+and Java Servlet Technology (Sun Microsystems)..
+
+Type sequences with Bergey’s taxonomy. Small-subunit rRNA sequences con-
+sisting of 5,014 bacterial species type strain sequences in 988 genera (Table 1),
+along with associated taxonomic assignment information, were obtained from
+Bergey’s Taxonomic Outline of the Prokaryotes (release 5.0   The
+sequences averaged 1,460 bases in length and had a range of 1,200 to 1,833 bases.
+These sequences formed the Bergey corpus. Each sequence was labeled with
+a set of taxa from domain to genus. From the highest rank to the lowest, the
+major formal taxonomic ranks are domain, phylum, class, order, family,
+genus, and species. There are occasional intermediate ranks such as “sub-
+class” and “suborder”..
+
+Complete rRNA database sequences with NCBI’s taxonomy. All available
+16S rRNA sequences were obtained
+from the January 2004 release of the RDP. Taxonomic information for these
+sequences was obtained from the January 2004 release of GenBank. These
+sequences are classiﬁed into 1,187 genera in the NCBI taxonomy  Initial
+placement into the NCBI taxonomy is based on information provided by the
+sequence submitter, with modiﬁcations by the NCBI staff. The sequences aver-
+aged 1,454 bases in length. These sequences formed the NCBI corpus..
+
+Algorithm. The Classiﬁer uses a feature space consisting of all possible 8-base
+subsequences (words). Word sizes between 6 and 9 bases were tested in prelim-
+inary experiments. Sizes of 8 and 9 bases gave nearly identical results, while sizes
+of 6 and 7 bases were less accurate, especially with shorter test sequences (not
+shown). As there are fewer possible words of size 8 than size 9, size 8 was chosen
+for all further work to reduce memory requirements. The position of a word in
+a sequence is ignored. As with text-based Bayesian classiﬁers, only those words
+occurring in the query contribute to the score  A similar word-based clas-
+siﬁcation scheme has been used to search for horizontal gene transfer events in
+whole-genome sequences .
+
+Using the RDP 9 alignment  we extracted segments cor-
+responding to 100-base regions of the Escherichia coli refer-
+ence sequence J01695 at 25-base intervals and used each re-
+gion independently for exhaustive leave-one-out
+testing,
+removing the corresponding full-length sequence from training
+for each test. In general, accuracy was greater for regions
+mapping to the 16S hypervariable regions . The av-
+erage bootstrap conﬁdence estimate was similarly higher in the
+hypervariable regions ..
+
+165 
+154 
+31 
+27 
+6 
+4 
+2 
+2 
+2 
+0 
+393 .
+
+80 
+115 
+23 
+20 
+6 
+2 
+1 
+2 
+1 
+0 
+250 .
+
+Naı¨ve Bayesian classiﬁers are one example of supervised
+classiﬁcation methods. The k-NN method is another super-
+vised classiﬁcation method that is arguably simpler and often
+works well in practice  We compared the RDP naı¨ve
+Bayesian Classiﬁer with the RDP SeqMatch k-NN classiﬁer..
+
+crepancies between the underlying phylogeny and
+Bergey’s taxonomy. Over 60% of misclassiﬁed sequences were
+actually more similar to sequences in other genera than to
+sequences in their own genera, strong evidence that these
+genera may not be monophyletic. These misclassiﬁcations are
+not evenly distributed among the taxa. Of the three most rep-
+resented phyla (Firmicutes, Proteobacteria, and Actinobacteria),
+the Actinobacteria had the fewest errors (3%, or 31 in 1,220
+trials), while the misclassiﬁcation rate for the Firmicutes was
+about ﬁve times as high  Within
+the Firmicutes, more than two-thirds of the errors occurred in
+the class Clostridia  and within that class, the
+genus Eubacterium stood out, with 30 misclassiﬁcations in 41
+trials (see the supplemental material)..
+
+Pyrosequencing can now produce up to 100 Mb in less than
+8 h (Roche product literature). Sogin and colleagues recently
+used the ﬁrst version of pyrosequencing, which provided up-
+to-100-bp reads, to rapidly analyze large numbers of 16S rRNA
+V6 variable regions from environmental samples  In that
+study, taxonomic diversity was assessed through alignment to
+members of a reference database of vetted V6 sequences. The
+classiﬁcation accuracy of the RDP Classiﬁer for 100-base frag-
+ments varied greatly by region along the 16S rRNA molecule
+. Variable regions were, in general, more accurately.
+
+FIG. 3. Phylogenetic analysis of the Alicyclobacillaceae, including
+the genera Sulfobacillus and Alicyclobacillus. Sequences for each of the
+11 species type strains of Alicyclobacillaceae available in release 5.0 of
+Bergey’s taxonomic outline, along with additional sequences for four
+Alicyclobacillaceae species type strains that became available after the
+release of the outline (marked with an asterisk), and two Bacillus
+species type strains were analyzed using the weighted neighbor-joining
+method  The tree is rooted using Escherichia coli sequence J01695
+as the outgroup. Bootstrap conﬁdence estimates above 85% are
+shown. Three misclassiﬁcations made by the RDP Classiﬁer are high-
+lighted, with the original (release 5.0) description appended with a
+corrected description. S. disulﬁdooxidansT became A. disulﬁdooxi-
+dansT. In 2005, S. disulﬁdooxidans was formally reclassiﬁed as a new
+combination, A. disulﬁdooxidans  S. thermosulﬁdooxidans VKM
+1269T became “A. tolerans K1.” In release 5, sequence Z21979 was
+listed as coming from the type strain (VKM 1269) of S. thermosulﬁ-
+dooxidans. This agrees with the original publication for the sequence
+ The same group later reported that the sequence was probably
+from S. thermosulﬁdooxidans strain K1, not VKM 1269  Two
+independent sequences (X91080 and AB089844) for the type strain of
+S. thermosulﬁdooxidans are available. They are nearly identical to each
+other and 19% different from Z21979. In 2005, S.
+thermosulﬁdooxidans strain K1 was reclassiﬁed as the type strain of a
+new species, A. tolerans  In our analysis, however, the sequence for
+K1 given in the naming paper (accession number AF137502) is 8%
+different from that for Z21979. Although still listed in the GenBank
+record as from A. tolerans strain K1, Z21979 is most probably not from
+strain K1 and not even from a member of the species A. tolerans. A.
+acidoterrestrisT became Bacillus sp. Sequence X60602 was published
+in 1991 as from the type strain (DSM 3922) for A. acidoterrestris 
+The GenBank record also lists this as from strain DSM 3922, but a
+strain mix-up in the culture supplied by the DSMZ was reported in
+1992  The type strain (ATCC 49025, listed by the DSMZ as
+equivalent to DSM 3922) was resequenced in 2005 (AY573797 .
+These two sequences are 14% different, and X60602 is now de-
+scribed by GenBank as from a Bacillus sp..
+
+We chose to use SeqMatch for the comparison, because it, like
+the RDP Classiﬁer, is offered through the RDP. Also, Seq-
+Match has been shown to be more accurate than BLAST in
+ﬁnding the most similar rRNA sequence as deﬁned by pairwise
+aligned distance  The RDP Classiﬁer and RDP SeqMatch
+had nearly identical overall error rates. However, only about
+two-thirds of these errors were in common (not shown). For
+both classiﬁers, many of these misclassiﬁcations appeared to
+result from errors in the underlying taxonomy (not shown);
+however, the two classiﬁers often responded differently to spe-
+ciﬁc taxonomic anomalies..
+
+classiﬁed than more-conserved regions. Variable regions V2
+and V4 were classiﬁed correctly at rates as high as 82%
+and 90% at the genus and family levels, respectively (at all
+levels of conﬁdence), while accuracy for fragments containing
+the V6 region were less reliably classiﬁed (73% at the genus
+level). The V6 region is rather small and ﬂanked by
+highly conserved regions  In contrast, the V2 region is
+ﬂanked on both sides and the V4 region is ﬂanked on the 3(cid:10)
+side by semiconserved regions. These regions likely account for
+both the increased accuracy for and the broadened peaks
+around these variable regions. These regions may make good
+targets as the read length of pyrosequencing technology in-
+creases..
+
+14. Karavaiko, G. I., T. I. Bogdanova, T. P. Tourova, T. F. Kondrat(cid:1)eva, I. A.
+Tsaplina, M. A. Egorova, E. N. Krasil’nikova, and L. M. Zakharchuk. 2005.
+Reclassiﬁcation of ‘Sulfobacillus thermosulﬁdooxidans subsp. thermotolerans’
+strain K1 as Alicyclobacillus tolerans sp. nov. and Sulfobacillus disulﬁdooxi-
+dans Dufresne et al. 1996 as Alicyclobacillus disulﬁdooxidans comb. nov., and
+emended description of the genus Alicyclobacillus. Int. J. Syst. Evol. Micro-
+biol. 55:941–947.

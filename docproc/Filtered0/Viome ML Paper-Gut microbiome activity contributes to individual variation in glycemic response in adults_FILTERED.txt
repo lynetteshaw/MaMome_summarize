@@ -1,0 +1,499 @@
+bioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+The following exclusion criteria were used: 
+age<18; dietary restrictions that would prevent 
+adherence to any of the study diets; antibiot-
+ic use 1 month prior to or during study; skin 
+disease (e.g. contact dermatitis) that precludes 
+proper attachment of the CGM; pregnancy; ac-
+tive neoplastic disease; active neuropsychiatric 
+disorder; myocardial infarction or cerebrovas-
+cular accident in the 6 months prior; pre-diag-
+nosed type I or type II diabetes mellitus; HbA1c 
+>= 6.5; or unwilling / incapable of following 
+instructions.
+150 participants, 37% were Asian, 33% were Hispanic, and 30% were 
+Black  or  Other.  The  study’s  Research  Protocol  was  approved  by  an 
+accredited  IRB  committee  and  all  study  participants  consented  to 
+participating in the study. All study participants were at least 18 years 
+old. We obtained a stool sample at participation enrollment, as well as 
+a comprehensive questionnaire describing their lifestyle, preferences, 
+and health history. We collected blood glucose measurements every 
+15  minutes  using  a  Continuous  Glucose  Monitor  (CGM)  sensor  that 
+measures glucose levels within the range of 40 to 500 mg/dL [Abbott 
+2016]. 
+Study Meals
+As  described  in  Figure  2,  participants  were  provided  pre-designed 
+breakfasts,  snacks,  and  lunches  (“provided  meals”)  over  14  days 
+(“day  0”  to  “day  13”).  After  lunch,  participants  were  allowed  to  eat 
+whatever they wanted (“free meals”) without further guidance on the 
+composition, and day 0 consisted of only free meals. Provided meals 
+Both  provided  and  free  meals  were  recorded  by  all  participants 
+during  the  entire  study  period,  using  a  smartphone  app  (Bitesnap). 
+We  obtained  macronutrient  and  micronutrient  information  from  the 
+smartphone  app  platform  for  further  analysis.  Provided  meals  were 
+pre-loaded  into  the  app.  Free  meals  were  loaded  by  users  through 
+selection of custom dishes, ingredients, and quantities.
+We  asked  the  participants  to  not  perform  intense  exercise  2.5 
+hours before or 2.5 hours after meals, to not start probiotics or pre-
+biotics, to not take vitamins or supplements during the study (with a 
+specific detail to avoid interfering substances as defined in [Abbott 
+2016]),  to  not  take  over-the-counter  medication,  and  to  inform  the 
+study coordinator if they are prescribed antibiotics during the study.
+In order to test our methodology across a range of diets and to 
+support  a  range  of  participant  preferences,  we  provided  two  diet 
+types – omnivore and vegetarian/gluten-free – in different phases of 
+the study. We provided 104 unique pre-designed meals — 71 unique 
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+pre-designed meals in the omnivore diet in two separate waves, and 
+33  unique  pre-designed  meals  in  the  vegetarian/gluten-free  diet  in 
+one wave. 140 participants signed up for the omnivore diet and 410 
+signed up for the vegetarian/gluten-free diet.
+To  distribute  macronutrients  across  all  the  meals,  we  designed 
+the provided meals using a high (H) / low (L) determination of each 
+of the 4 macronutrients – carbs, fiber, protein, and fat – as shown in 
+Figure 2A. In this paper, we use the terms carbs and carbohydrates 
+interchangeably to mean net carbohydrates, i.e. excluding fiber. High 
+(H) and Low (L) were thresholded based on the proportion of each 
+macronutrient and their daily recommended allowance. For example, 
+day 1 breakfast was high (H), low (L), high (H), low (L), respectively, 
+in  carbs,  fiber,  protein,  and  fat.    An  example  meal  plan  is  shown  in 
+Figure 2B; over the 14 day period (day 0 consisted of only free meals), 
+participants were provided with 39 meals, including one glucose drink. 
+The  distribution  of  macronutrients  (Figure  2C)  shows  the  coverage 
+of the provided meals within the space of macronutrient proportions.
+Figure 2B includes 3 distinct meals that were repeated on days 1 
+and 8. A total of 9 distinct meals shown in Figure 2D were repeated 
+over the course of the 14 day diet schedules (omnivore and vegetar-
+ian/gluten-free)  to  collect  information  regarding  intra-person  vari-
+ability; each repeat meal was consumed twice by study participants. 
+By design, these repeat meals were generally high in just one or two 
+macronutrients. 
+Meal  data  was  pre-processed  as  follows.  After  discarding  meals 
+that were clearly from malfunctioning CGMs or from erroneous data 
+capture,  we  ended  up  with  27630  total  meals,  with  18208  provided 
+meals and 9422 free meals. All provided meals were at least 2.5 hours 
+apart (participants were instructed). Free meals that were within 30 
+mins  were  merged,  and  those  within  90  minutes  of  each  other  dis-
+carded. After all of this pre-processing, each participant provided an 
+average of approximately 50 meals. 
+Microbiome Features
+Stool  samples  from  participants  were  processed  using  our  meta-
+transcriptomic  method  [Hatch  2019]  to  yield  raw  microbiome  data 
+features  including  KEGG  gene  orthologs  (or  “KOs”)  [KEGG]  and 
+microbial taxonomy. Our cloud-based bioinformatic pipeline performs 
+read QC/trimming, host read filtering, and taxonomic classification at 
+three taxonomic ranks (strain, species and genus) through sequence 
+alignment to a custom database of more than 110,000 genomes. Func-
+tional assignments (KOs) are obtained through alignment to the IGC 
+[Li 2014] and KEGG databases. For the samples provided by the 550 
+participants in this study, 6587 unique microbial KOs were detected, a 
+mean of 2941.9 per sample (s.d. 541.9); and 1047 unique species were 
+detected, with a mean of 122.7 (s.d. 40.5).  
+Collections of these raw microbiome data features were aggregat-
+ed into custom microbiome scores designed to capture the collective 
+functional characteristics as described in the literature. For example, 
+the score microbiome balance, is an aggregate assessment of overall 
+ratios of active beneficial and harmful microbes, as well as some di-
+versity metrics. This score is binary with a value of “Low” or “Normal”. 
+All  microbiome  scores  are  generated  by  taking  expression  data  as 
+input, and applying an expert-designed scoring algorithm developed 
+at Viome [Perlina et al, in prep.] to derive an overall activity level.
+Metabolic  and  signaling  pathway  activities  are  scored  using  ex-
+pression levels of genes encoding specific protein functions (KEGG 
+mappings  are  used  primarily),  compared  with  a  reference  cohort  of 
+samples supplied by Viome customers. Scores measure the quantity 
+and expression levels of specific KEGG gene orthologs (KOs) selected 
+due to their specific directional enzymatic roles, pathway topology, or 
+significance in the functional literature. The more key genes expressed, 
+and the higher their expression levels, the higher the resulting score.
+RESULTS
+Meal Effects
+For the remainder of our analyses we look at incremental area under 
+the  curve  (iAUC),  a  standard  assessment  of  PPGR  ([Cheng  2018]; 
+[Wolever 1986]). We define this as the integrated area under the CGM 
+curve over 120 minutes, relative to the baseline CGM measured at the 
+time of the meal, i.e., the difference between the area above baseline 
+and area below baseline. Note that this measurement can be negative 
+due to decline in blood sugar level below the baseline over time, es-
+pecially after activity, and due to noise from the measurement device. 
+The actual iAUC values for all meals, the repeated meals from Figure 
+2D, and the glucose drink are shown in Figure 3A. 
+Predictive Model Development and Evaluation
+In this section we first present a linear multilevel mixed-effects or hier-
+archical model [Gelman 2007] of PPGRs based on the data described 
+above.  The  linear  model  allows  us  to  provide  a  concise  description 
+of the relationships between nutrients, anthropometrics, microbiome 
+activity,  and  PPGR.  Additionally,  it  allows  us  to  derive  significance 
+statistics testing the hypotheses that each predictor is relevant in the 
+determination of the PPGR.
+Importantly,  the  inclusion  of  random  effects  captures  individual 
+variation  in  PPGR  due  to  unobserved  factors  (unknown  properties 
+of the individual, meal, or measurement devices) that may affect the 
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+2B. In this omnivore diet example, 
+meals are shown for several of the 
+provided macronutrient groups 
+(carbs - fiber - protein - fat).   Meals 
+with similar composition “types” 
+were distributed across the sched-
+ule, and schedule days 1 and 8 were 
+repeated meal days. 
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+outcome. Including random effects is essential in order to derive con-
+servative hypothesis tests of both the relevance and magnitude of our 
+fixed  effects,  especially  in  a  repeated-measures  design  where  each 
+person and each meal provide many data points. Our experimental de-
+sign calls for a multilevel model because of this repetition; each PPGR 
+observation is at a lower level nested within one person and within one 
+meal (higher levels), in a crossed or fully factorial experimental design 
+(see Figure 4A). For example, without the multilevel model we could 
+not conclusively test the importance of any variable that is constant 
+across all data taken from one person, such as microbiome features.
+Model  development  was  performed  using  the  lme4  package  in 
+R [Bates 2015]. The model was built incrementally. In the first pass, 
+we  determined  appropriate  transformations  for  the  nutritional  and 
+anthropometric  variables  by  visualizing  the  relationship  between 
+each predictor and the iAUC. The effect of carbohydrates appeared 
+to be well-described by the square root transformation, while other 
+predictors were left untransformed. We then fitted a model of these 
+nutritional  and  anthropometric  predictors  as  fixed  effects,  and  ran-
+dom intercepts and slopes allowing the nutritional effects to vary be-
+tween people and the anthropometric effects to vary between meals. 
+Likelihood  ratio  tests  showed  no  evidence  for  any  random  slopes 
+of anthropometrics by meal (i.e., responses to all meals are similarly 
+influenced by the participant’s age, BMI, etc).
+As the largest effects were associated with carbs, in the second 
+pass we introduced interactions between that and all other nutrients 
+as  fixed  effects,  and  with  random  slopes  by  participant.  Based  on 
+visual inspection of their relationship with iAUC, we also introduced 
+fixed effects of two response-level “context” measurements, minutes 
+of activity during the 2 hours following the meal and minutes of sleep 
+during the 3 hours before the meal. We removed effects not significant 
+by likelihood ratio test at p<.05.
+In the third pass, we introduced fixed effects of our microbiome 
+features, a number of expert-designed scores measuring the activity 
+of crucial metabolic pathways and functions (see discussion section 
+below). We determined a candidate set of scores to add to the model 
+by predicting participants’ average iAUC from each score using t-test 
+(binary)  or  regression  (continuous).  15  scores  showed  a  significant 
+association taken alone and were tested in the full model. After con-
+trolling for all other predictors, 6 remained significant or marginally 
+significant.
+The final model fixed-effect coefficients are displayed in Figure 4B. 
+Positive coefficients indicate a greater predicted glycemic response. 
+All predictors were significant by likelihood-ratio test at p<.05, except 
+for  glutamine  production  pathways  (p=.08)  and  the  interaction  be-
+tween tyrosine metabolizers and carbs (p=.06) which are kept in this 
+model as suggestive, and do not substantially affect the estimation of 
+other coefficients.
+Several of the significant predictors were microbiome scores. One 
+of the scores, named microbiome balance, is an aggregate assessment 
+of  microbiome  balance  quantifying  overall  beneficial  and  harmful 
+activities (based on the literature), as well as some diversity metrics. 
+This score, when “Low,” showed a negative association with glycemic 
+response. Two other scores are quantified pathway activities repre-
+sentative of overall activity levels of a given set of microbial pathways.
+The fucose metabolism pathways activity score considers expres-
+sion levels of all the genes that encode enzymes known to carry out 
+The  indoleacetate  production  pathways  activity  score  considers 
+expression levels of all the genes that encode enzymes known to carry 
+out biochemical reactions that result in production of indole-acetate 
+(or indole acetic acid, IAA). This binary score, when “High,” showed a 
+negative association with glycemic response.
+The marginally significant score of glutamine production pathways 
+implies  higher  glycemic  response  when  “Low.”  The  score  is  derived 
+with the same approach as the indoleacetate score, and assess the 
+levels of activity of various pathway axes leading to microbial produc-
+tion of glutamate (or glutamic acid).
+Microbial scores for tyrosine and fructose metabolizers are based 
+on functional groups of active microbes known to metabolize tyrosine 
+and  fructose,  respectively.  Tyrosine  metabolizers,  when  “Low,”  are 
+directly related to elevated PPGR. Fructose metabolizers, when “Low,” 
+show inverse relationship to glycemic response.
+Figure  4C  compares  different  approaches  to  predicting  iAUC. 
+The first two plots show single predictor models (calories or carbs). 
+We also present predictions from the fixed-effect part of our model 
+after  zeroing  out  certain  components.  Using  all  nutrient  predictors 
+achieves  a  similar  fit  to  using  the  square  root  of  carbs  alone  (both 
+R=.41, not pictured). Including the microbiome features yields a small 
+but significant improvement in fit (R=.42, not pictured), and adding 
+the other fixed effect predictors (age, BMI, sleep, activity, microbiome) 
+improves the fit further (R=.45, Fig. 4C bottom-left). Finally, the full 
+model including random effects (best linear unbiased predictions) fits 
+the data very well (R=.77, Fig. 4C bottom-right).
+Figure 4D (left) shows the influence of age on the modelled re-
+lationship  between  carbs  and  glycemic  response.  Figure  4D  (right) 
+illustrates the extent of modeled individual differences in this relation-
+ship, taking into account all predictors.  Two hypothetical meals A and 
+B (similar to repeat meals from Figure 2D with carbs approximately 
+25g and 50g respectively) are shown to illustrate that two users (blue 
+and red lines) have the opposite glycemic responses (iAUC of 14 & 20 
+vs iAUC of 37 & 27 respectively) due to the crossover of their iAUC 
+response  lines  between  the  two  meals  —  this  effect  was  shown  in 
+Figure 3D using the raw data. 
+A model optimized for prediction accuracy over explanation
+As described above, mixed effects linear models are valuable because 
+they are easily interpreted and allow statements about the statistical 
+significance of predictors. In this section we present another model for 
+the same data which does not offer these benefits but achieves great-
+er predictive accuracy due to its richer modeling framework. This is a 
+gradient boosting machine [Chen 2016] built on the same predictors 
+already discussed as well as a number of additional features. These 
+encompass  the  microbiome  (activity  of  individual  organisms  and 
+genes), nutrients (weight of meal; subtypes of carbs and fats; micro-
+nutrients; specific compounds like caffeine and alcohol), and context 
+(more detailed representations of sleep and activity). Following [Zeevi 
+2015] we also add two further predictors encoding prior blood glucose 
+levels: the CGM reading immediately before the meal, and the slope 
+of the linear change in CGM readings over the previous 90 minutes. 
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+3D. Examples of individual variation in glycemic response. Ingestion of two of the repeated meals (blue and green lines) result in opposite blood glucose 
+response in two participants (top).  Ingestion of two free meals results in opposite blood glucose response in two participants (bottom). 
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+However,  in  our  analysis  there  is  no  significant  effect  of  HbA1c  on 
+iAUC after controlling for other predictors. This may be because the 
+study population was selected for HbA1c in the normal range (< 6.5).
+Data from 82% of users was used to train, with the data from the 
+remaining  18%  held  out  for  evaluation.  Hyperparameters  controlling 
+learning rate, number of trees and tree depth were estimated using 
+cross validation on the training set. 
+Averaging across 5 such random train/test splits of the data, 
+DISCUSSION
+We set out to study the variation of glycemic response based on in-
+dividual differences, especially differences in gut microbiome activity 
+obtained  via  the  metatranscriptomic  method  for  the  first  time.  We 
+made  a  few  key  design  choices  for  the  study,  including  (a)  14  days 
+of  monitoring,  (b)  multiple  diet  types  –  omnivore  and  vegetarian/
+gluten-free, and (c) a large proportion (66%) of “provided” (pre-de-
+signed) meals.
+The  number  of  provided  meals  (104)  is  considerably  larger  in 
+our study compared to previous studies (e.g. [Zeevi 2015]; [Mendes-
+Soares 2019] had only 4 standardized meals). This design allowed us 
+to get more precise readings of consumed meals rather than entirely 
+depending on the smartphone diet tracking app. This choice also en-
+sures that our data allows us to quantify individual PPGR differences 
+between people in response to the same food, reducing the risk that 
+observed differences reflect differences between participants’ diets. 
+Secondly, as shown in Figure 2A, we wanted to design a diet plan that 
+provided broad coverage of the space of macronutrient proportions 
+(carbs, fiber, protein, fat) with the intention of teasing out the inde-
+pendent and interacting effects of the macronutrients. And finally, we 
+needed more control of meals since we also wanted to study the effect 
+of  multiple  diet  types:  omnivore  and  vegetarian/gluten-free  (this  is 
+ongoing work, not reported here).
+It  is  evident  from  our  data  that  accounting  for  individual  differ-
+ences is crucial in providing a full description of PPGRs. We designed 
+9  specific  meals,  each  of  which  was  a  combination  of  food  staples 
+(Figure 2D), that were consumed twice by all participants. While in-
+tra-person variability for a given meal is substantial (Figure 3C, green), 
+this variability is small relative to the inter-person variability for the 
+same meals (blue). We can conclude that while many factors affect 
+PPGRs, some of these factors are individual differences which must 
+be accounted for by differences between people and their lifestyles, 
+not properties of the meal alone. The two meals where intra-person 
+variability  is  close  to  inter-person  variability  are  meals  that  contain 
+little to no carbohydrates.
+Relationships between iAUC and phenotype and food features
+We see the expected relationship between age and iAUC in Figure 3E, 
+first panel. The relationship between iAUC and BMI / waist-to-hip ratio 
+(Figure 3E second and third panels) is the opposite of that previously 
+reported  in  studies  such  as  [Zeevi  2015].  We  hypothesize  that  this 
+may  reflect  the  self-reported  good  health  and  high  exercise  rate 
+within this study population. We see the expected increase in average 
+iAUC  with  HbA1c  in  our  study  population  (Figure  3E,  fourth  panel). 
+As expected, the bulk of variation in the response is explained by 
+the amount of carbs ingested, and by interactions with fat content in 
+food and other factors that modulate the effect of carbs. Increased 
+fiber resulted in overall lower PPGRs, and while increased fat had little 
+marginal effect by itself, it interacts with carbs to suppress the effect 
+of  ingested  carbs  on  the  PPGR.  The  plot  of  the  time-course  of  this 
+effect in Figure 3B suggests this may happen because fat and protein 
+flatten and delay the digestion of carbs, pushing some of the PPGR 
+out  of  the  2  hour  window  considered  here  ([Franz  1997];  [Wakhloo 
+1984]). Protein has a numerically negative effect on iAUC but is not 
+significant  after  controlling  for  other  predictors,  so  was  removed 
+from the final model. Older people had higher PPGRs, and also higher 
+PPGRs per unit of carbs ingested (Figure 4D). Activity after meal con-
+sumption as well as sleep immediately before eating both resulted in 
+lower PPGR to carbs, which is consistent with literature on metabolic 
+effects of circadian rhythms [Van Cauter 1997].
+The fact that the PPGR is better predicted by the square root of 
+carbs than untransformed carbs is reminiscent of a standard model 
+of  gastric  emptying  in  which  the  volume  of  food  passing  from  the 
+stomach  per  unit  of  time  is  linear  in  the  square  root  of  its  volume 
+[Hopkins 1966]. 
+Relationships between iAUC and microbiome features
+The significant microbiome features related to prediction of postpran-
+dial glycemic response were microbiome balance, fucose metabolism 
+pathways,  fructose  metabolizers,  tyrosine  metabolizers  (marginal), 
+indoleacetate  production  pathways,  and  glutamine  production 
+pathways  (marginal).  Of  these,  fucose,  indoleacetate,  and  tyrosine 
+(marginal) scores interact with carbs, indicating that the microbiome 
+or  properties  correlated  with  the  microbiome  affect  the  processing 
+of carbs as well as leading to an overall difference in baseline blood 
+sugar.
+The microbiome balance score was one of the significant features 
+in  predicting  glycemic  response.    Low  microbiome  balance  scores 
+usually result from either an imbalance of relative activities of ben-
+eficial  vs.  harmful  microbes  or  from  lower  quantity  and  diversity  of 
+microbial organisms. The relationship of suboptimal overall gut micro-
+biome and higher PPGR is in line with the current literature [Karlsson 
+2013; Larsen 2010; Vrieze 2012] implicating the role of gut health in 
+glycemic regulation.
+The fucose metabolism pathway score showed a direct relation-
+ship  with  PPGR.  Fucose  is  a  sugar  molecule  that  various  microbial 
+organisms  can  use  as  an  energy  source  [Chen  1987].  When  other 
+carbohydrate sources are not available, gut microbiota can switch to 
+using  the  fucose  that  can  be  obtained  from  the  host’s  gut  mucosal 
+lining. This process is often carried out by microbes known as mucin 
+degraders,  such  as  certain  species  of  genus  Ruminococcus  [Crost 
+2016].  We  therefore  hypothesize  that  higher  fucose  consumption 
+activity,  as  reflected  by  the  microbiome  pathway  score,  may  be  as-
+sociated with microbiomes of those individuals who are either more 
+likely  to  fast  or  whose  internal  ecosystem  and  overall  body  state 
+resembles the conditions of fasting or calorie deprivation. This may 
+explain its association with higher PPGR. More research is needed to 
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+4A. Nesting of predictors in our repeated-measures crossed 
+experimental design. Plates (boxes) indicate repetition: e.g., 
+there is one measurement of carbs, protein, fiber, fat for each 
+meal.  Arrows indicate the possibility of dependence: here, 
+PPGR is estimated as a function of all other variables.
+4E. Actual vs predicted iAUC for a gradient boosting machine 
+(GBM) model.  Performance shown is on the best test fold 
+across 5 random splits, with data from 82% of the users used 
+to train and 18% held out for evaluation.
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+establish  relationships  between  microbial  metabolism  of  gut  sugars 
+and the host’s tendency to show higher glucose spikes in the blood 
+after meals.
+The  indoleacetate  production  pathways  score  incorporates  the 
+role and significance of expressed genes in the context of microbial 
+indoleacetate production. The algorithm takes all the known pathway 
+axes  that  ultimately  lead  to  microbial  production  of  compounds  of 
+type indole acetic acids (IAAs) and scores them using gene expres-
+sion as input data. In the case of indole acetate production, the result 
+shows that when such pathways score “High” in activity, the glycemic 
+response  to  the  given  food  is  lower.  This  is  consistent  with  known 
+anti-inflammatory properties of IAA [Krishnan 2018 ; Whitfield-Cargile 
+2016]. Inflammatory activities in the gut and their consequential po-
+tential to cause systemic low-grade inflammation are implicated in the 
+development of Type 2 Diabetes and other metabolic disorders [Gon-
+zalez 2018; Tuomainen 2018]. Moreover, there are direct implications 
+of IAAs in glycemic response, and some findings suggest hypoglyce-
+mic action of indole-3-acetic acid in diabetes mellitus [Mirsky 1956].
+Indoles  and  indoleacetate  are  beneficial  products  of  protein 
+fermentation,  and  tryptophan  metabolism  pathway  products  partic-
+ularly  [Russell  2013].  In  one  study,  intraperitoneal  administration  of 
+indole-3-propionic  acid,  indole-3-butyric  acid,  and  indole-3-acetic 
+acid were shown to be associated with hypogIycemia in normal and 
+alloxandiabetic mice, while L-tryptophan and kynurenic acid had no 
+effect [Silverstein 1966].
+The interpretation we offer here is dependent on the individual’s 
+microbiome  function.  If  a  given  person’s  microbiota  mainly  shows 
+ability to convert tryptophan to beneficial indoles and indole-actetate 
+molecules capable of reducing inflammation and glycemic effects of 
+foods,  then  it  may  be  of  benefit  to  recommend  tryptophan  sources 
+(in  the  form  of  food  or  supplement)  to  such  people.  On  the  other 
+hand, if tryptophan is used by the microbiota to produce more of the 
+pro-inflammatory triggers, then such action may not be suitable for 
+mitigating glycemic response or inflammation in general.
+Tyrosine and fructose metabolizer scores group active microbes 
+by  functional  characteristics.  In  our  studies  we  have  observed  that 
+active  functional  microbial  groups  reflect  the  host’s  habitual  diet. 
+Hence,  “Low”  tyrosine  metabolizers  may  suggest  a  diet  that  is  low 
+on protein sources of tyrosine. We also hypothesize that the inverse 
+relationship between the fructose metabolizers score and PPGR may 
+be due to a diet that is low in fructose, or other carbohydrates that 
+serve as metabolic precursors of fructose. It is not yet clear how a diet 
+that is rich in fructose or deficient in tyrosine may influence glycemic 
+response, and more studies are needed.
+Glutamine  production  pathways  score,  when  “Low,”  showed  a 
+direct relationship with higher PPGR. Microbial glutamine production 
+has not been directly linked to glycemic response in humans. Howev-
+er, glutamine is considered an important nutrient for gut health and 
+has been included in various supplements used by clinical healthcare 
+practitioners to prevent or heal “leaky gut” [Kim 2017, Rao 2012].  More 
+research is needed to understand the molecular mechanisms that may 
+be  responsible  for  higher  glycemic  response  to  food  in  individuals 
+with low microbial glutamine production activity in the gut.
+The microbiome features revealed by our glycemic response mod-
+el may influence PPGR directly or indirectly. Although it is challenging 
+to  delineate  causal  mechanisms,  there  may  be  functional  patterns 
+that connect the significant scores with gut health, intestinal barrier 
+integrity,  and  inflammation.  Inflammation  and  stress  response  may 
+be  implicated  in  elevation  of  blood  glucose  (either  due  to  cortisol 
+pathway  or  other  mechanisms).  Knowing  which  foods  may  elicit 
+higher personal PPGR can offer valuable guidance in diet selection. 
+However, to intervene on the root cause of glycemic response, spe-
+cific mechanisms connecting nutrients to the gut microbiome and to 
+inflammatory and glycemic response need to be taken into account. 
+We seek to confirm and validate these mechanisms. An understanding 
+of  which  microbiome  features  are  significant  will  pave  the  path  to 
+precise personalization of food and supplement recommendations.
+Modeling methods and model evolution
+The  multilevel  mixed  effects  model  presented  first  in  the  previous 
+section was deliberately chosen to better understand the incremental 
+effects  of  the  significant  features,  especially  the  functional  gut  mi-
+crobiome  activity  features.  We  are  not  aware  of  any  prior  literature 
+that  demonstrates  the  statistical  significance  of  the  microbiome  in 
+the context of a predictive model of PPGR. Prior studies [Zeevi 2015] 
+using  only  ensemble  methods  such  as  gradient  boosting  machines 
+represent the state of the art in accurate prediction of PPGR (which 
+we  also  show  in  Figure  4E).  These  models  suffer  from  difficulty  of 
+interpretation, including determination of which features significantly 
+contribute to the predicted outcome.
+We are in the process of increasing the generalizability of our find-
+ings by collecting further data from underrepresented subpopulations 
+such as pre-diabetics, people reporting poor overall health, and older 
+participants. With the goal of continuous improvement, we will rebuild 
+and  revalidate  our  model  based  on  this  new  expanded  data.  The 
+current paper provides a first snapshot of the collected data, and we 
+will use the additional data to consolidate the current model, as well 
+as potentially surface new relevant predictors.  Finally, we also plan on 
+validating the model on an unseen cohort, and performing a blinded 
+randomized controlled dietary intervention based on this predictive 
+model to look for improvements in the glycemic response as well as 
+alterations to the gut microbiota. 
+•  Demonstrates for the first time that metatranscriptomic activity of 
+the gut microbiome contributes to individual variation in glycemic 
+response among adults.
+•  Suggests new microbial features that may help uncover molecular 
+•  Demonstrates  the  statistical  significance  of  all  features  using  a 
+multilevel  mixed-effects  regression  model  where  fixed  effects 
+represent  measured  properties  and  random  effects  account  for 
+further variation. We also present a gradient boosting machine for 
+maximizing predictive accuracy.
+•  Demonstrates that glycemic response is driven by the properties 
+of  an  individual  in  addition  to  the  food’s  macronutrient  content, 
+measured  with  104  unique  pre-designed  meals  within  omnivore 
+and  vegetarian/gluten-free  diet  types  and  within  a  multi-ethnic 
+population.
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity.
+All rights reserved. No reuse allowed without permission. 
+Acknowledgements
+We  are  grateful  to  the  Viome  study  team  –  (alphabetically)  Ashleigh  Winter,  Barry 
+Zhao,  Braidon  Waggoner,  Brendan  Zapp,  Calita  Quesada,  Erica  Castillo,  Gabby 
+Hands, James Horne, Kelly Nebgen, Marcela Walker, Miranda Intrator, Pete Lichtman, 
+Ryan  Toma,  Sabria  Hankins,  Tristen  Hill,  and  YehShen  McShan  –  for  handling  the 
+considerable  logistics  during  the  data  collection  and  annotation  phases.  We  thank 
+Matteo  Rinaldi  and  Sha  Yu  Han  for  initial  data  exploration  and  analyses;  Subha 
+Krishnan  for  curating  the  microbiome  pathway  literature  and  features;  and  Debra 
+Heald and Samika Savanur for their clinical input.

@@ -1,0 +1,476 @@
+43_PARAGRAPHS
+
+It has been known for decades that intestinal bacteria make important contributions to
+human metabolism and physiology. Perhaps the example best known to clinicians is the
+microbial synthesis of the essential nutrient vitamin B12 — the enzymes required for B12
+synthesis are possessed by bacteria but not by plants or animals  However, research from
+the past decade has conclusively established that the host-microbe relationship in humans is
+far more complex than previously appreciated. The implications of this research for
+assessing and meeting the nutritional needs of critically ill patients are substantial..
+
+An understanding of the complex relationship between humans and our microbes dates back
+at least to Pasteur. However, until very recently, the ability of microbiologists and clinicians
+to characterize and dissect this relationship was hampered by the reality that only a minority
+of microbes on the planet (and in the human body) can be cultured, isolated, and
+systematically studied in the laboratory  As a result, most clinical focus on bacteria and
+viruses has been directed toward the statistical minority of organisms that cause clinical
+disease and can be easily isolated in culture..
+
+Over 25 years ago, microbial ecologists conclusively demonstrated that bacterial DNA can
+be used to identify which organisms are present in a complex biological sample without
+dependence on cultivating those organisms in the laboratory  Until recently, these
+culture-independent techniques to characterize microbial diversity were relatively restricted
+to studies of ocean and soil samples. Over the past decade, concerted efforts have been made
+to use these techniques to undertake comprehensive molecular surveys of the organisms
+associated with humans. These efforts have benefited from remarkable advances in DNA
+sequencing technologies, as well as from well-funded initiatives such as the NIH Human
+Microbiome Project .
+
+Perhaps the foremost lesson of these recent efforts has been that all humans, both healthy
+and critically ill, are intimately associated with a vast population of microbial organisms.
+Uncertainty remains regarding the precise number of bacteria in the human body, but it is
+generally agreed that there at least 10 bacterial cells for every 1 human cell  This has led
+authorities in the field to describe humans as “superorganisms” composed of both human
+and microbial cells  Although clinicians have not historically thought about their patients
+in this way, it is easy to recognize the evolutionary logic of a symbiotic relationship between
+humans and microbes. By supporting lifelong colonization by organisms that possess a
+diverse set of metabolic capabilities, the host effectively augments its own genome; this is a
+much more efficient arrangement than waiting for humans to evolve new metabolic
+capacities on their own  In return for their contributions, microbes associated with the
+body are rewarded with a relatively safe, predictable, and nutrient-rich niche for
+colonization. As will be discussed in subsequent sections, the impact of critical illness on
+this symbiotic relationship remains poorly understood..
+
+All epithelial surfaces that interface with the external world harbor microbes, but the most
+dense microbial communities are those in the distal intestinal tract. Recent estimates suggest
+that 10 to 100 trillion microbes (including up to 1000 species) reside in this location 
+Remarkably, although more than 70 bacterial divisions (deep evolutionary lineages) are
+known to exist on the planet, human gut microbial communities are dominated by just four
+lineages. Two dominant divisions, the Bacteroidetes and the Firmicutes, comprise over 95%
+of the total community; most of these organisms are strict anaerobes such as the Bacteroides
+and Clostridium species  The remainder of human gut microbes are often from two
+other divisions: Actinobacteria (e.g., Bifidobacterium species) and Proteobacteria. The
+phylum Proteobacteria contains the gram-negative enterics that despite being well known to
+clinicians, represent only a fraction of the gut microbial community  The dominance of
+these four bacterial phyla and the relative absence of all other phyla suggests that, under
+normal circumstances, the human-microbe relationship is highly selective and highly stable.
+Throughout most of a person’s life, this relationship is either symbiotic (mutually beneficial)
+or commensal (providing benefit to one member without harming the other); pathogenic
+host-microbe interactions are indeed the exception rather than the rule .
+
+There is currently enormous interest in characterizing the clinical relevance of the human
+microbiome (defined as the collective set of microbial genomes associated with the human
+body). In addition to the GI tract, important sites of colonization also under study include the
+skin, oropharynx, respiratory tract, and genitourinary tract. A primary objective of current
+research is to better define the basic features of the human microbiome, e.g., how do
+microbial communities change over time in a given individual and how much interindividual
+variability is observed in various microbial communities? An equally important objective is
+to identify associations between the microbiome and human health and disease .
+
+A particularly compelling example of the importance of the gut microbiota to host
+metabolism is provided by comparing the nutritional status of germ-free (GF) and
+conventionally raised laboratory animals. Numerous investigators have demonstrated that
+conventionally raised animals require up to 30% less caloric intake to maintain their body
+weight  This remarkable observation is not only surprising; it is also counterintuitive
+since one might reasonably expect that bacteria and their human host may compete for a
+limited supply of ingested nutrients. In this section, we summarize what is known about how
+microbes directly impact human nutrition..
+
+The sophisticated relationship that has evolved between the human GI tract and gut
+microbiota allows for efficient utilization of dietary carbohydrates. In the proximal GI tract,
+simple sugars such as glucose are absorbed, and disaccharides (e.g., lactose) are hydrolyzed
+into their corresponding monosaccharide components such that they too can be absorbed 
+However, a significant portion of dietary carbohydrates, including complex plant-derived
+polysaccharides and unhydrolyzed starch, normally passes undigested through to the distal
+GI tract  Here, dense microbial populations (up to 1011 cells per gram of colonic
+matter) are present that are well-equipped to hydrolyze complex carbohydrates. Many of the
+enzymes required to utilize these dietary substrates are not encoded in the human genome;
+by contrast, the microbiome, which contains approximately 100x more genes than the
+human genome, is highly enriched in such enzymes .
+
+Utilization of complex polysaccharides via fermentation by anaerobic bacteria in the large
+intestine results in the accumulation of short chain fatty acids (SCFA)  The principal
+SCFAs seen in the colon, acetate, propionate, and butyrate, have inherent nutritional value,
+but also impact gut epithelial physiology in other ways. They are absorbed by passive
+diffusion across the colonic epithelium, and are subsequently utilized by different organs.
+Acetate, the SCFA produced in highest concentration, is used by skeletal and cardiac muscle
+and can be used by adipocytes for lipogenesis. Butyrate is metabolized primarily in the gut
+epithelium to yield ketone bodies or CO2  Interestingly, the colonic epithelium derives
+up to 70% of its energy needs directly from butyrate. Propionate metabolism is poorly
+understood but appears to involve transport to the liver by the portal circulation. It is
+believed that SCFAs also impact water absorption, local blood flow, and epithelial
+proliferation in the large intestine .
+
+Genomic analysis of gut bacteria offers vivid examples of the role of microbes in nutrient
+utilization. For example, in 2003, Xu, et al. published the complete genome sequence of the
+gram-negative anaerobe Bacteroides thetaiotaomicron, a prominent member of the normal
+intestinal microbiota  Annotation and analysis of the genome revealed a sophisticated
+apparatus for acquiring and digesting otherwise unusable dietary polysaccharides. This
+apparatus, including a complex, multi-component, multi-enzyme complex starch utilization
+system (SUS), consists of over 230 glycoside hydrolase and 15 polysaccharide lyase genes
+ The genomic analysis demonstrated that B. thetaiotaomicron has evolved the
+remarkable capacity to sense the availability of carbohydrates in its microenvironment, and
+that it also has the ability to forage and utilize host-derived glycans (e.g., mucin and
+heparin). Mechanistic studies in gnotobiotic animals further demonstrated that, when B.
+thetaiotaomicron senses a scarcity of fucose in the intestinal lumen, it actually induces the
+gut epithelium to upregulate expression of fucosylated glycans that can be used by the
+bacteria as an energy source without harming the host  This body of work illustrates
+how the remarkable host-microbe symbiosis can be teased apart by pairing genomic
+sequencing efforts with creative in vivo laboratory studies..
+
+In contrast to carbohydrates, relatively little attention has been paid to the relationship
+between the intestinal microbiota and nitrogen balance in humans. This is partly because
+conventional wisdom states that all essential amino acid requirements in humans must be
+supplied by the diet  however, emerging evidence indicates that gut microbes can
+impact nitrogen balance by de novo synthesis of amino acids and intestinal urea recycling.
+These contributions are most pronounced in ruminant animals that, amazingly, can live on a
+protein-free diet because their microbiota is capable of synthesizing most or all amino acids
+required for survival..
+
+Microbial synthesis of essential amino acids has been notoriously difficult to measure in
+humans, but studies with radiolabelled tracers, e.g., 13C and 15N, indicate that the intestinal
+microbiota makes a measurable contribution to the pool of essential amino acids. A series of
+experiments involving labeled inorganic nitrogen suggests that up to 20% of circulating
+lysine and threonine in nonruminant mammals, including adult humans, is synthesized by
+gut microbes  Similarly, Raj, et al. demonstrated that gut microbial synthesis of
+leucine in adult men was approximately 20% of the dietary amount  Interestingly,
+another study demonstrated that several substrates required for microbial synthesis of
+essential amino acids are derived from dietary carbohydrates  Taken together, these
+studies provide compelling evidence that gut microbes contribute to the circulating pool of
+essential amino acids. More work is needed to define these contributions in both healthy and
+undernourished humans..
+
+The intestinal microbiota also contributes to nitrogen balance by participating in urea
+nitrogen salvaging (UNS)  Elevated urease expression in gut microbes results in
+metabolism of urea in the GI tract into ammonia and carbon dioxide. Some of the ammonia
+can be utilized for microbial synthesis of amino acids. Perhaps more importantly, the
+nitrogen generated during this process (urea nitrogen) can re-enter the host circulation and
+serve as a substrate for synthetic processes  Interestingly, reduced urea recycling has
+been reported in GF animals 
+Furthermore, several reports indicate that regulation of UNS is important in settings of low
+N intake and high N demand (e.g., during pregnancy and during periods of rapid somatic
+growth in infancy)  While still relatively preliminary, these studies underscore the
+relationship between gut microbes and protein metabolism that will likely be further
+described through on-going characterization of the human microbiome..
+
+Until recently, few studies of the association between lipid metabolism and the microbiome
+existed. However, important research by Jeffrey Gordon, Fredrick Backhed, and colleagues
+suggests that the body’s supply of triglycerides, a prominent source of energy during critical
+illness  is tightly linked to the intestinal microbiota. These findings have enormous
+potential relevance for research in a wide range of disease states, including metabolic
+disorders such as obesity (see below) and cardiovascular disease..
+
+This line of inquiry began with comparisons of lipid metabolism in GF and conventionally-
+raised adult mice. By use of x-ray absorptiometry and epididymal fat pad weight analysis, it
+was demonstrated that wild-type (WT) animals contained 42% more total body fat than GF
+animals, despite a higher metabolic rate and a reduced daily consumption of standard chow
+ To mechanistically evaluate this finding, the authors transferred the microbiota of WT
+animals to GF animals. A rapid increase (within 10 days) of total body fat content and
+epididymal fat weight was noted despite no significant difference in total body weight.
+Intriguingly, colonization of GF mice with just a single gut microbe (B. thetaiotaocmicron,
+discussed above) also yielded a significant increase in total body fat content, although the
+increase in fat content was less than that seen with transfer of the complete mouse
+microbiota. Further work in this model suggested that the microbiota stimulates increased
+hepatic triglyceride production and promotes storage of adipocyte triglycerides by
+suppressing the activity of a circulating inhibitor of lipoprotein lipase .
+
+These pioneering studies have led to a sustained effort to understand the relationship
+between the microbiota and adiposity. In one interesting experiment, GF mice were
+colonized with gut bacteria from humans fed with a typical Western diet (high fat, high
+carbohydrate), and a similar increase in adiposity was seen in the GF mice  Other
+experiments that analyzed the lipids present in the serum and adipose tissue of WT and GF
+mice show that WT animals had elevated levels of 18 phosphatidylcholine species and
+decreased levels of nine triglyceride species relative to GF animals  Alternatively, in the
+adipose tissue the concentration of most phosphatidylcholine compounds was similar
+between the two groups, but an increased concentration of triglycerides was detected in WT
+animals. Even more between group differences were detected in the liver lipid profiles. For
+example, in addition to numerous differences in cholesteryl ester and phosphatidylcholine
+species, WT mice had a significant increase in 95 types of liver triglycerides. The
+translational relevance of these findings must still be defined, but these results provide clues
+to the role of microbes in lipid metabolism..
+
+It has been known for nearly a century that ruminants have no dietary requirement for water-
+soluble vitamins as a consequence of the dense microbial populations in the rumen, and that
+GF laboratory animals require dietary supplements of vitamins that are not needed by their
+WT counterparts  Several bacterial genera that are common in the distal intestine (e.g.,
+Bacteroides, Bifidobacterium, and Enterococcus) are known to synthesize vitamins.
+Thiamine, folate, biotin, riboflavin, and panthothenic acid are water-soluble vitamins that
+are plentiful in the diet, but that are also synthesized by gut bacteria. Likewise, it has been
+estimated that up to half of the daily Vitamin K requirement is provided by gut bacteria 
+Interestingly, the molecular structure of bacterially synthesized vitamins is not always
+identical to the dietary forms of the vitamins. In fact, several specialized epithelial
+transporters have been recognized to participate specifically in the absorption of vitamins
+derived from gut bacteria  Perhaps the relative ease in replenishing vitamin stores in
+ICU patients has minimized enthusiasm for aggressive investigation of how bacterial
+vitamin biosynthesis is altered in hospitalized patients..
+
+Studies of energy balance in conventional and GF animals led to the hypothesis that the
+microbial ecology of the GI tract contributes to the pathogenesis of obesity  Although it
+is widely acknowledged that excessive caloric intake is the root cause of obesity, it is
+reasonable to question whether an individual’s metabolic response to caloric excess might
+vary according to the gut microbiota. Much of the work in this area has relied upon a rodent
+model of obesity in which animals homozygous for a mutation in the leptin gene (ob/ob)
+harbor a fully penetrant obese phenotype  Early studies utilizing 16S ribosomal RNA
+based genetic sequencing identified that obese animals have a markedly decreased
+abundance of Bacteroidetes organisms (such as B. thetaiotaomicron) and a corresponding
+increase in Firmicutes  Obese mice also possessed an abundance of methanogenic
+organisms from the domain Archaea, and it is believed that these organisms can aid in
+bacterial fermentation in the gut via removal of H2  The microbial differences observed
+in these experiments were division wide, i.e., not skewed by the presence or absence of a
+single species. Further, the differences could not be explained by differences in food
+consumption. Of central importance, corresponding studies have shown similar features of
+the gut microbes in obese humans .
+
+Why would a microbial community enriched in Firmicutes promote obesity? Recent work
+has suggested that the microbiota of obese individuals has an increased capacity to harvest
+energy from the diet  Landmark papers, utilizing high-throughput metagenomic
+sequencing platforms to identify as many genes as possible from all members of a mixed
+population of bacteria, from Gordon, Turnbaugh, Ley and colleagues, have conclusively
+demonstrated that the metabolic potential of the gut microbiome varies according to the.
+
+microbial community composition. Molecular analysis of the microbiota of lean and obese
+mice demonstrated that the obese microbiome is markedly enriched in genes enabling
+breakdown of dietary polysaccharides, e.g., glucosidases, galactosidases, and amylases, and
+genes encoding proteins that transport and metabolize the products of polysaccharide
+metabolism  Biochemical and bomb calorimetry analyses in the same experiments
+demonstrated increased concentrations of SCFA’s (indicating a higher degree of bacterial
+fermentation) and significantly less energy remaining in the feces of obese mice relative to
+their lean counterparts  Finally, these phenotypic traits were transmissible; colonization
+of GF animals with the microbiota of obese animals led to higher weight gain than
+colonization with microbiota from lean WT mice..
+
+Turnbaugh, et al. have advanced these ideas even further by demonstrating that the
+microbiome associated with diet-induced obesity (DIO) (in contrast to the ob/ob mutant
+model) is also rich in Firmicutes species and is similarly efficient at extracting energy from
+the diet  This set of experiments utilized a mouse model of DIO in which conversion to
+a high fat/high sugar (Western) diet reliably produces increased total body weight and
+increased epididymal fat content. The authors demonstrated that DIO alters gut microbial
+ecology by supporting the growth of Firmicutes species, and, in this case, they detected a
+specific association between obesity and the abundance of a class of organisms (Mollicutes)
+from the Firmicutes division that has also been identified in humans. Transplantation of
+cecal contents from DIO mice, similar to experiments with the ob/ob mice, yielded higher
+increases in body weight and fat than when cecal contents were transplanted from lean, WT
+animals. Here, again, metagenomic analyses were used to prove that the gut microbiome of
+animals fed a Western diet is enriched in genes encoding proteins related to energy harvest,
+including phosphotransferase proteins that enable the transport of simple sugars such as
+glucose and fructose..
+
+A critical lesson from this body of work is that alterations in the microbiome of obese
+individuals are reversible. Early on, Ley, et al. demonstrated that the ratio of Firmicutes to
+Bacteroidetes species decreases over time in humans on either a fat-restricted or
+carbohydrate-restricted diet  This was subsequently supported by Turnbaugh’s findings
+that the bloom in Mollicutes seen in DIO was reversible with dietary manipulation 
+Additional studies monitoring changes in the microbiota after surgical and non-surgical
+weight loss interventions have produced similar findings .
+
+In 1968, Tennant, et al. demonstrated that GF mice do not survive as long as WT mice
+during starvation despite similar patterns of starvation-induced weight loss. However, this
+group did not characterize the microbiota of the WT animals  In 1974, Tannock and
+Savage used a culture-based approach to characterize the intestinal bacteria of mice exposed
+to a stress model that included deprivation of food, water, and bedding for 48 hours
+They concluded that stressed animals had a reduction in Lactobacilli and total mucosal-
+associated bacteria relative to control animals, but maintained a similar number of colonic
+anaerobes. In 1989, Deitch, et al. similarly reported that starvation induced a decrease in
+Lactobacilli in the murine GI tract, however they noted a bloom of gram-negative enteric
+organisms. Subsequently, several studies have contrasted gut microbes in newborn animals.
+
+receiving either enteral or parenteral nutrition. These studies suggest that TPN-fed animals
+have an increased relative abundance of potential pathogens, such as Clostridium
+perfringens, that can forage on glycans lining the gut epithelium  However, it is not
+known if these findings can be extended to critically ill adults that have shifted abruptly
+from the fed to the fasting state..
+
+Two recent studies harnessed the power of high-throughput DNA sequencing to profile
+changes in microbial ecology during fasting in animal models. Crawford, et al. performed a
+fascinating study of myocardial ketone body metabolism by the intestinal microbiota during
+nutrient deprivation  After a 24 hour fast, the authors observed a significant increase in
+the abundance of Bacteroidetes species and a corresponding decrease in Firmicutes; this is
+the converse of what was observed in models of caloric excess. They proceeded to provide
+convincing evidence that the microbiota plays an integral role in fasting-induced hepatic
+ketogenesis, an important energy source during stress and starvation. In GF animals,
+ketogenesis was markedly reduced, and it was shown that myocardial metabolism was
+redirected towards glucose utilization. To understand further how microbial ecology is
+altered during fasting, Costello, et al. performed an innovative study in which they studied
+the Burmese python, a vertebrate that consumes large meals between long intervals of
+fasting  These authors also demonstrated an abundance of Bacteroidetes during fasting
+that shifted towards a post-prandial abundance of Firmicutes. Species that were enriched in
+the post-prandial state included Clostridium and Lactobacillus. These innovative studies
+serve as a foundation to study gut microbes in hospitalized patients that are not candidates
+for enteral nutrition..
+
+To date, evaluations of the microbial ecology of the ICU have largely been restricted to
+culture-based studies. Not surprisingly, studies frequently demonstrate that patients admitted
+to the ICU are rapidly colonized with opportunistic pathogens  It has also been
+shown that pathogens detected by routine surveillance of the airways or the GI tract can
+serve as harbingers of an ensuing clinical infection by that organism  Frequently
+encountered organisms in skin, oropharyngeal, endotracheal, and fecal samples from
+critically ill patients include the gram-negative enterics as well as species of Candida,
+Pseudomonas, and Staphylococcus. However, it is critical to emphasize that the fate of
+commensal organisms, many of which serve beneficial purposes, in the ICU is poorly
+understood. For this reason, a trial with prospective monitoring of the microbiome in ICU
+patients with comprehensive culture-independent techniques is needed..
+
+hypoxia, are also known to perturb the microbiota and encourage the overgrowth of
+pathogens  Some of the most commonly used pharmaceutical agents in the ICU,
+including acid suppression therapies, vasopressors, and opioids, are known to impact the
+human microbiota  Finally, our group was the first to demonstrate that the use of
+total parenteral nutrition or enteral nutrition with processed liquid diets dramatically alters
+the intestinal microbiota such that bacterial translocation to extraintestinal sites is promoted.
+As the effects of artificial nutrition, polypharmacy, and the selective pressures of extreme
+physiologic stress and injury accumulate over the course of critical illness, their impact on
+the ecologic health of the intestinal microbiota is likely to have a major untoward effect on
+recovery. Clinical interventions that can preserve gut microbial communities such that a
+benefit in overall recovery is realized will require more in-depth analysis of the direct
+impact of these interventions on the gut flora..
+
+If one accepts that a “healthy” intestinal microbiota serves important biological functions,
+then it is reasonable to hypothesize that gut microbial communities can be manipulated or
+“optimized” during critical illness to increase the chances of achieving desired clinical
+outcomes. In theory, manipulation of the gut microbiota could be used to improve energy
+balance and decrease the incidence of infectious complications. A fundamental problem
+with clinical application of this theory has been that we lack a detailed understanding of if
+and how the microbiome is altered during critical illness. As a result, interventions in this
+field have been introduced with a limited scientific foundation. Nonetheless, several
+strategies to optimize the microbiome have now been evaluated clinically. Some, such as the
+recent description of fecal transplantation for Clostridium difficile colitis  will not be
+discussed here. Others with obvious relevance to nutrition are discussed..
+
+Over the past two decades, several clinical trials have documented that selective
+decontamination of the gastrointestinal tract and/or the oropharynx improves outcomes in
+critically ill patients while simultaneously promoting the growth of antibiotic resistant
+bacteria  Accepted approaches to decontamination consist of administering a regimen
+of broad-spectrum nonabsorbable antibiotics that theoretically spares the colonic anaerobes,
+and instead targets yeast, gram-negative pathogens ( e.g., the Enterobacteriaceae and
+Pseudomonas aeruginosa), and gram-positive pathogens (e.g., Staphylococcus aureus) in
+the oral cavity or the GI tract. These protocols drastically alter the ICU microbiota  and
+by extension decrease both mortality and the incidence of infectious complications such as
+ventilator-associated pneumonia  Importantly, although these landmark studies
+serve as proof of principle that the intestinal microbiota can be manipulated in the ICU to
+achieve desirable outcomes, no studies utilized molecular techniques to profile the ICU
+microbiome before, during, or after decontamination. As a result, a precise understanding of
+how decontamination protocols work is lacking. Nevertheless, enthusiasm for
+decontamination protocols has diminished due to unacceptable increases in drug-resistant
+bacterial strains within the ICU..
+
+The administration of probiotics and prebiotics represents an increasingly popular
+alternative to gut decontamination protocols. Probiotics are defined as live microorganisms
+that confer health benefits upon humans and animals that ingest them in adequate amounts
+ prebiotics are nondigestible food ingredients that confer health benefits by selectively
+inducing the growth of probiotic species  Commonly, probiotics and prebiotics are
+administered together as a food or dietary supplement known as a synbiotic  Although.
+
+trials in a wide range of clinical settings have demonstrated great promise regarding the
+safety and efficacy of these supplements , many critical issues pertaining to their usage
+remain unresolved. Interestingly, despite the fact that they are often used to treat patients
+with disease, probiotics and prebiotics are viewed by regulatory agencies as nutritional
+supplements rather than as pharmaceutical agents or biohazards. This definition has allowed
+for lax oversight in the field which has resulted in the commercial use of the terms
+probiotics and prebiotics even when scientific criteria for the terms have not been met .
+
+The practice of administering live microbes with putative health benefits to unhealthy
+patients dates back to the early twentieth century. Much of the early work in the field was
+performed at the Pasteur Institute in Paris, where Nobel laureate Eli Metchnikoff and others
+advanced the notion of a differential gut microbiota in health and disease  These
+scientists hypothesized that the protective effects of specific diets in some regions of Europe
+could be attributed to the diet-induced growth of beneficial microbes. Interestingly, this led
+almost instantly to commercial attempts to capitalize upon these ideas, hence the
+development of probiotics. The most commonly used probiotic species are nonpathogenic
+yeasts and organisms from the genera Lactobacillus and Bifidobacterium  The most
+commonly used prebiotics are the naturally occurring oligosaccharides known as fructans
+that are normally found in foods such as garlic, artichokes, and bananas  Another well-
+studied class of prebiotics is resistant starches, such as those found in unripe bananas and
+raw potatoes. As knowledge of the intestinal microbiome expands, it is likely that many
+more potential probiotic species and prebiotic supplements will be identified..
+
+The long list of clinical diagnoses that have been treated with probiotics and/or prebiotics
+ranges from intestinal infections (e.g., rotavirus infection) to extraintestinal infections (e.g.,
+urinary infections) (cite) to allergic disorders (e.g., asthma); in other cases, these agents have
+been used prophylactically, e.g., to prevent colon cancer The strongest clinical data
+comes from trials of probiotics and prebiotics in the treatment of intestinal infections,
+inflammatory bowel disease, and irritable bowel syndrome  Despite their widespread
+usage, knowledge of the putative mechanism of action of probiotics and prebiotics is
+limited. Most mechanistic studies in this area have centered upon production of
+antimicrobial substances to inhibit colonization by pathogens, enhance the mucosal barrier
+function, and downregulate mucosal inflammation  It is particularly interesting that,
+despite the growing awareness of how gut microbes contribute to energy balance and despite
+the administration of probiotics/prebiotics as nutritional supplements, little research on this
+topic has focused on how these agents specifically impact nutrition, metabolism, or energy
+balance..
+
+Several studies have been conducted to test the hypothesis that outcomes in critically ill
+patients can be improved by administering probiotics and prebiotics. These studies,
+including a randomized trial comparing the effects of early enteral nutrition with and
+without prebiotic supplementation, indicate that the incidence of sepsis and multi-organ
+dysfunction syndrome among patients with severe pancreatitis is lower after treatment with
+probiotics/prebiotics  However, in 2008, the Dutch Acute Pancreatitis Study Group
+released results of a well-publicized multicenter, randomized, controlled study
+demonstrating increased mortality among patients with severe acute pancreatitis that
+received probiotic prophylaxis. The increased mortality was attributed to a high incidence of
+intestinal ischemia, although a direct link between the probiotic and bowel ischemia was not
+proven  A subsequent meta-analysis concluded that probiotics do not influence
+mortality in the treatment of acute pancreatitis  however, the results of the Dutch study
+have raised important questions about the whether and how probiotics should be
+administered to vulnerable populations. Nonetheless, several other studies conducted in.
+
+surgical and medical ICUs, document improved outcomes after probiotic administration
+following trauma, liver transplant, and ICU admission for severe sepsis .
+
+As noted, data regarding the safety and efficacy of probiotic and prebiotic administration are
+limited. Potential safety issues involved with manipulation of the microbiota with probiotics/
+prebiotics include probiotic-induced disease and antibiotic resistance  Even if questions
+remain about efficacy and optimal route of delivery, it is generally accepted that probiotic
+administration in healthy individuals is safe. However, there is little understanding of how to
+approach these issues in the ICU. While probiotics have indeed been safely administered to
+vulnerable hospitalized populations such as neonates and transplant recipients, the
+significance of the results of the Dutch pancreatitis study cannot be overemphasized. They
+serve as a powerful reminder of the seemingly obvious fact that administering live microbial
+organisms to unhealthy patients might be dangerous, particularly when so little is known
+about the putative mechanism of action. The importance of exercising caution is further
+underscored by the scant federal regulation of commercial interests in this area..
+
+Another possible approach to improve outcomes for critically ill patients is to manipulate the
+intestinal microenvironment to maintain the local microbial ecology of the GI tract
+indirectly. It is well established that the use of vasoactive pressors, antibiotics, and highly
+processed nutrients will change not only the local microbiota, but also pH, oxygen tension,
+SCFA production, and various critical micronutrients that maintain the health of normal
+intestinal microbes. Our group and others have shown that maintenance of a more acidic
+intestinal pH through the course of surgical injury and administration of oral pH solutions
+enhance local intestinal immunity and prevent lethal gut-derived sepsis . Most recently
+we have shown that surgical injury causes a rapid depletion of mucus phosphate, thereby
+inducing certain strains of pathogenic bacteria to upregulate their virulence against the
+intestinal epithelial barrier  Most bacteria that cause serious infections in ICU patients
+are equipped with exquisite sensory mechanisms to detect the level of local phosphate
+concentration. Phosphate concentration is a key trigger by which bacteria activate their
+virulence machinery to, in some cases, cause lethal sepsis. When phosphate levels are high
+at sites of local microbial colonization, such as the intestinal mucus, microbes use the PhoB
+phosphosensory/phosphoregulatory system to repress virulence activation. However, during
+phosphate depletion, the PhoB system is derepressed and virulence is activated even to the
+point of tissue invasion, immune activation, and organ failure  The PhoB and analogous
+systems are highly conserved among microbes and offer an opportunity for clinicians to
+understand the precise host signals that trigger microbes to transform from indolent
+colonizers to lethal pathogens rapidly. We have shown in animal studies that maintenance of
+local phosphate concentration can suppress virulence activation among highly pathogenic
+bacteria such as P. aeruginosa even during periods of severe physiologic stress  This
+also appears to be the case for other pathogens such as C. albicans and E. faecalis
+(unpublished observations). Therefore, providing therapies at the microenvironmental level
+could be a novel approach to create molecular diplomacy between pathogen and host
+through the course of severe physiologic stress such as that which occurs during human
+critical illness..
+
+10. Xu J, Bjursell MK, Himrod J, et al. A genomic view of the human-bacteroides thetaiotaomicron.
+
+33. Hill MJ. Intestinal flora and endogenous vitamin synthesis. Eur J Cancer Prev. 1997; 6 (Suppl.
+
+40. Nadal I, Santacruz A, Marcos A, et al. Shifts in clostridia, bacteroides and immunoglobulin-coating
+fecal bacteria associated with weight loss in obese adolescents. Int J Obes. 2008; 33758–767.
+41. Zhang H, DiBaise JK, Zuccolo A, et al. Human gut microbiota in obesity and after gastric bypass..
+
+and E. coli monocontaminated mice to starvation. J Nutr. 1968; 94151–60. [PubMed: 4866341]
+44. Tannock GW, Savage DC. Influences of dietary and environmental stress on microbial populations.
+
+46. Deplancke B, Vidal O, Ganessunker D, et al. Selective growth of mucolytic bacteria including
+clostridium perfringens in a neonatal piglet model of total parenteral nutrition. Am J Clin Nutr.
+2002; 761117–1125. [PubMed: 12399288].
+
+operative injury activates the virulence of P aeruginosa causing lethal gut-derived sepsis. Surgery.
+2008; 144189–97. [PubMed: 18656625]
