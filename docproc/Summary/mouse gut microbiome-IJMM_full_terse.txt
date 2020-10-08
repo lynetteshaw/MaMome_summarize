@@ -1,24 +1,17 @@
-/  International  Journal  of  Medical  Microbiology  306  (2016)  316–327 
+/  International  Journal  of  Medical  Microbiology  306   316–327 
 
 317
 
-given  ecosystem. The  community  was  stable  over  time,  was  vertically
-transmitted  to  the  offspring,  and  has  also  been  used  as  a  back-
-ground  microbiota  in  gnotobiotic  mice  to  investigate  the  role  of
-mucin-degrading  Akkermanisa  muciniphila  in  Salmonella  enterica
-Typhimurium  infection-driven  inﬂammation  (Ganesh  et  al., As  discussed  above,  gnotobiotic  models  col-
-onized  by  human  gut  bacteria  are  suitable  for  testing  clinical
-relevance,  but  they  may   be  problematic  for  establishment  of  mouse
-models  with  deﬁned  microbiota  in  terms  of  colonization  efﬁcacy
-and  regulation  of  host  physiology  (Chung  et  al., A  high  resolution  view  of
-the  mouse  gut  microbiome  combined  with  well-curated  strains
-and  genomes  collections  will  offer  unprecedented  opportunities
-towards  the  establishment  of  standardized  mouse  models  and
-towards  the  study  of  speciﬁc  bacterial  functions  based  on  the  asso-
-ciation  of  mice  colonized  by  a  model  microbiota  with  one  strain
-carrying  the  given  function,  which  is  less  artiﬁcial  than  mono-
-colonization  of  germ-free  mice. Martz,  S.L.,  McDonald,  J.A.,  Sun,  J.,  Zhang,  Y.G.,  Gloor,  G.B.,  Noordhof,  C.,  He,  S.M.,
+given  ecosystem. 2015),  and  mouse  strains  can  be  relatively
+easily  re-derived  germ-free  (Macpherson  and  McCoy,  2015),  which
+has  set  the  stage  for  the  establishment  of  gnotobiotic  models  (i.e.
+mice  colonized  with  deﬁned  bacterial  strains  or  mixtures). B.  theta  was   shown  to  adapt  to  the  presence  of  Eubac-
+terium  rectale  or  the  probiotic  strains  Biﬁdobacterium  longum  and
+Lactobacillus  casei  by  expanding  the  breadth  of  its  carbohydrate
+utilization  (Mahowald  et  al., Nevertheless,  they  allow  mining  the  human  micro-
+biome  for  speciﬁc  functions  and  address  microbiota-speciﬁc  effects
+on  the  immune  system  and  metabolome  and  study  inter-individual
+differences  (Ahern  et  al., /  International  Journal  of  Medical  Microbiology  306   316–327
 
-Gerbaba,  T.K.,  Blennerhassett,  M.,   Hurlbut,  D.J.,  Allen-Vercoe,  E.,  Claud,  E.C.,
-Petrof,  E.O.,  2015. Sayin,  S.I.,  Wahlstrom,  A.,  Felin,  J.,  Jantti,  S.,  Marschall,  H.U.,  Bamberg,  K.,  Angelin,
-B.,  Hyotylainen,  T.,  Oresic,  M.,   Backhed,  F.,  2013.
+Table  1
+Examples  of  human-  and  mouse-derived  bacterial  species  and  consortia  use  in  gnotobiotic  mice.

@@ -1,25 +1,3 @@
-r e s o u r c e
+0_PARAGRAPHS
 
-(Online  Methods  and  Supplementary  Note  1)  to  ensure  that  the 
-reconstructions meet the quality standards set by Thiele and Palsson 
-(2010)9. When comparing eight AGORA reconstructions with the published 
-genome-scale metabolic reconstructions for the same species, we found 
-that the main differences in reaction content were in lipopolysaccha-
-ride biosynthesis and transport pathways (Supplementary Tables 7  
-and  8). The AGORA models have been curated for carbon source utilization 
-and fermentation product secretion; they outperformed the published 
-models for those functions, as measured by a sensitivity analysis of 
-the carbon source uptake and fermentation product secretion of both 
-seven published models and AGORA models (Supplementary Fig. Validation of AGORA model predictions
-We demonstrated the predictive capability of AGORA models using 
-two  models,  Bacteroides  caccae  ATCC  34185  (a  fiber-degrading 
-symbiont common in microbiomes of Western individuals29,30) and 
-Lactobacillus  rhamnosus  GG  (LGG),  a  common  human  probiotic 
-strain31. Shafquat,  A.,  Joice,  R.,  Simmons,  S.L.  &  Huttenhower,  C.  Functional  and 
-phylogenetic assembly of microbial communities in the human microbiome. Based on the genomic predictions and available experimental data, 
-
-nature biotechnology
-
-doi:10.1038/nbt.3703
-
-© 2017 Nature America, Inc., part of Springer Nature.
+UNABLE TO PROCESS FILE: Generation of genome-scale metabolic reconstructions for 773 members of the human gut microbiota

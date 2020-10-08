@@ -28,7 +28,7 @@ tract microbial ecosystem hampers
 
 Finally, the third turning point in the gastrointestinal
 microbiota research can be ascribed to the incorporation
-of molecular techniques about a dozen years ago (Fig. 1).
+of molecular techniques about a dozen years ago .
 These include global and culture-independent
 studies
 based on the sequence analysis of the small subunit ribo-
@@ -130,9 +130,9 @@ Fig. 1. Graphical
 the cumulative number of
 cultured species from Bacteria, Archaea and Eukarya from the human
 gastrointestinal tract as a function of time. The arrows indicate the
-turning points of the gastrointestinal microbiota research: (1) Isolation
-of the ﬁrst gastrointestinal bacterial species, (2) Introduction of strictly
-anaerobic techniques, and (3) Introduction of molecular techniques in
+turning points of the gastrointestinal microbiota research: Isolation
+of the ﬁrst gastrointestinal bacterial species, Introduction of strictly
+anaerobic techniques, and Introduction of molecular techniques in
 the ﬁeld of the gastrointestinal microbiota research.
 
 in the human gastrointestinal
@@ -159,22 +159,22 @@ known to be strict anaerobes, and this was for the ﬁrst
 time shown in 1931 (Sanborn, 1931). Therefore, the early
 cultivation studies provided only a partial view of the gas-
 trointestinal microbiota and it enabled isolation of only a
-minority (10–25%) of the gastrointestinal microorganisms
+minority of the gastrointestinal microorganisms
 (Finegold, 1969).
 
 The improvements of anaerobic cultivation techniques
-by Hungate (1969) marked the second turning point in
+by Hungate marked the second turning point in
 the gastrointestinal microbiota research, approximately
-50 years ago (Fig. 1). In this second period of the gastro-
+50 years ago . In this second period of the gastro-
 intestinal microbiota research that lasted from the early
 seventies till the molecular revolution in the beginning of
-this century (Fig. 1), it was recognized that the microbi-
+this century , it was recognized that the microbi-
 ota in the gastrointestinal tract is dominated by bacterial
 species that belong to the following genera: Bacteroides,
 Clostridium, Eubacterium, Veillonella, Ruminococcus, Biﬁ-
 dobacterium, Fusobacterium, Lactobacillus, Peptostreptococ-
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -252,9 +252,9 @@ knowledge of
 the gastrointestinal microbiota that has
 accumulated since its discovery, we have performed a
 search of the publications covering more than a century
-(Fig. 1). We found references that link the human gastro-
+. We found references that link the human gastro-
 intestinal microbiota with a total of 1057 intestinal spe-
-cies belonging to the Eukarya (92), Archaea (8) and
+cies belonging to the Eukarya and
 Bacteria (957; Fig. 2, Supporting information, Tables S1–
 S3). These species were analyzed in ARB software-based
 the SSU rRNA sequences (Pruesse et al.,
@@ -267,7 +267,7 @@ literature analysis,
 it is clear that bacteria that cluster
 within the phyla Actinobacteria, Bacteroidetes, Firmicutes
 and Proteobacteria, are the most diverse and abundant
-microorganisms in the adult gastrointestinal tract (Fig. 2).
+microorganisms in the adult gastrointestinal tract .
 The gastrointestinal microbiota also contains members of
 the less diverse, although in some cases still abundant,
 bacterial phyla, including the Verrucomicrobia, Lentisphae-
@@ -278,7 +278,7 @@ not yet cultured bacteria that cluster within the TM7 can-
 didate phylum, Melainabacteria and Gemmatimonacetes,
 can be detected in the human gastrointestinal
 tract
-(Fig. 2). Several archaeal species that cluster within two
+. Several archaeal species that cluster within two
 phyla have been detected in the human gastrointestinal
 tract. The Euryarchaeota include the methanogens that
 are relatively abundant. Among the Eukarya there are
@@ -314,7 +314,7 @@ development of speciﬁc media and culturing approaches
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -351,42 +351,42 @@ FEMS Microbiol Rev 38 (2014) 996–1047
 
 57
 
-Actinobacteria (164)
+Actinobacteria 
 
 73
 
 81
 
-Fungi-Ascomycota (49)
+Fungi-Ascomycota 
 
-Euryarchaeota (6)
+Euryarchaeota 
 
 1
 52
 
-Crenarchaeota (2)
+Crenarchaeota 
 
 47
 
-Fungi-Basidiomycota (15)
-Stramenopiles (1)
-Amoebozoa (7)
+Fungi-Basidiomycota 
+Stramenopiles 
+Amoebozoa 
 
 9
 
 21
 
-Apicomplexa (8)
+Apicomplexa 
 
-Ciliophora (1)
+Ciliophora 
 
-Metamonada (4)
+Metamonada 
 
-Microsporidia (3)
+Microsporidia 
 
-Fornicata (2)
+Fornicata 
 
-Synergistetes (2)
+Synergistetes 
 
 Melainabacteria
 
@@ -394,30 +394,30 @@ TM7
 
 Chloroflexi
 
-Deinococcus-Thermus (1)
+Deinococcus-Thermus 
 
 100%
 
-Firmicutes (450)
+Firmicutes 
 
 102
 
-Proteobacteria (214)
+Proteobacteria 
 
-Spirochaetes (3)
+Spirochaetes 
 
-Fusobacteria (13)
+Fusobacteria 
 
 Gemmatimonadetes
 
-Firmicutes/Halanaerobiales (1)
+Firmicutes/Halanaerobiales 
 
-Lentisphaerae (1)
-Verrucomicrobia (2)
+Lentisphaerae 
+Verrucomicrobia 
 
-Planctomycetes (1)
+Planctomycetes 
 
-Bacteroidetes (99)
+Bacteroidetes 
 
 182
 
@@ -501,7 +501,7 @@ orders Biﬁdobacteriales (in particular Biﬁdobacterium spp.)
 and Coriobacteriales (mainly Collinsella spp.) are highly
 prevalent already since early life, while members of the
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -536,7 +536,7 @@ age (Scardovi & Trovatelli, 1974), an intestinal origin can
 be suspected, showing the high adaption of this genus to
 the gastrointestinal tract. Phylogenetically, Biﬁdobacterium
 spp. form a homogenous group, with 20 cultured species
-linked to the human gastrointestinal tract (Fig. 3). The
+linked to the human gastrointestinal tract . The
 ﬁrst Biﬁdobacterium spp. was recovered from infant feces
 in 1900 by Henri Tissier, as a part of his PhD thesis work
 (Tissier, 1900). It was named Bacillus biﬁdus-communis.
@@ -633,7 +633,7 @@ Accession Numbers of the SSU rRNA gene sequence are provided for each species an
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -688,7 +688,7 @@ Actinobacteria-Coriobacteriales
 
 Coriobacteriales species constitute a frequently detected
 group of the gastrointestinal microbiota composed of rep-
-resentatives of 12 different genera (Fig. 3). Collinsella is
+resentatives of 12 different genera . Collinsella is
 the most dominant among other members of the order,
 and a representative of these rod-shaped, nonmotile obli-
 gate anaerobes was for the ﬁrst time detected in human
@@ -775,7 +775,7 @@ major products of protein fermentation, suggesting that
 
 to species
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -831,7 +831,7 @@ quently
 human
 Actinomycetales
 gastrointestinal tract include Propionibacterium spp. and
-Corynebacterium spp. (Fig. 4). These bacteria typically
+Corynebacterium spp. . These bacteria typically
 colonize the human skin and are found in high abun-
 dance in infants that are born using Caesarean section
 
@@ -941,7 +941,7 @@ species that cluster within the Actinomycetales see Fig. 5.
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -1093,7 +1093,7 @@ Fig. 5. Phylogenetic tree of a fraction of the human gastrointestinal species th
 Numbers of the SSU rRNA gene sequence are provided for each species and the family names are indicated. For the other human gastrointestinal
 species that cluster within the Actinomycetales see Fig. 4.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -1217,7 +1217,7 @@ the Bacteroides genus, but in recent years many earlier
 designed Bacteroides spp. were assigned to other genera
 within the Bacteroidetes phylum. Currently, only four gas-
 trointestinal Bacteroides spp. form deep branches in the
-phylogenetic tree (Fig. 6), suggesting that these bacteria
+phylogenetic tree , suggesting that these bacteria
 and
 (B. ureolyticus, B. galacturonicus, B. pectinophilus,
 B. coagulans) still should be reclassiﬁed to other phyloge-
@@ -1231,7 +1231,7 @@ majority of the gastrointestinal Bacteroidetes spp. belongs
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -1399,7 +1399,7 @@ Fig. 6. Phylogenetic tree of the human gastrointestinal species that belong to t
 SSU rRNA gene sequence are provided for each species and the family names are indicated. Deeply rooted Bacteroides spp., which based on the
 SSU rRNA gene sequence cluster within distant phylogenetic groups are depicted in the gray area.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -1411,7 +1411,7 @@ M. Rajili(cid:1)c-Stojanovi(cid:1)c & W.M. de Vos
 the major
 
 to the following bacterial families: Bacteroidaceae, Prevo-
-tellaceae, Rikenellaceae, and Porphyromonadaceae (Fig. 6).
+tellaceae, Rikenellaceae, and Porphyromonadaceae .
 These bacterial species share the common feature that
 they produce succinic acid, acetic acid, and in some cases
 end-products. Species
@@ -1465,7 +1465,7 @@ et al., 2013).
 
 Bacteroidetes species that belong to classes Flavobacteri-
 ales and Sphingobacteriales are only occasionally detected
-in the gastrointestinal tract (Fig. 7, Table S1). With an
+in the gastrointestinal tract . With an
 exception of Capnocytophaga spp. and Sphingobacterium
 spp. that can be detected in the human oral cavity, the
 other bacteria of this group are typically associated with
@@ -1528,7 +1528,7 @@ Accession Numbers of the SSU rRNA gene sequence are provided for each species an
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -1590,7 +1590,7 @@ uoka, 1992). Lactobacilli comprise a group of gastrointes-
 inhabitants that has received particular scientiﬁc
 tinal
 attention (Tannock, 2004), mainly because of the health
-claims proposed by Metchnikoff (1908) in the beginning
+claims proposed by Metchnikoff in the beginning
 of the nineteenth century and their later application as
 probiotics. Although highly important for the health, Lac-
 tobacilli are rarely detected as markers of the gastrointes-
@@ -1623,7 +1623,7 @@ enabled the isolation of numerous Lactobacillus spp. Nev-
 ertheless, new Lactobacillus spp. from human gastrointes-
 tinal tract are still being reported (Roos et al., 2005; Oki
 et al., 2012), indicating that even the 38 known gastroin-
-testinal Lactobacillus sp. (Fig. 8) are not covering the
+testinal Lactobacillus sp.  are not covering the
 group’s full diversity. Several previously misclassiﬁed Lac-
 tobacillus spp. have now been reclassiﬁed into novel gen-
 and
@@ -1635,7 +1635,7 @@ rogosae is strongly outgrouping from the remaining Lacto-
 bacillus spp., although even after exclusion of the strongly
 outgrouping species, the species show a large degree of
 the SSU rRNA gene variation and form several groups in
-the phylogenetic tree (Fig. 8) As Lactobacillus spp. pro-
+the phylogenetic tree  As Lactobacillus spp. pro-
 duce lactic acid as the major fermentation production
 that can be accompanied with ethanol and carbon dioxide
 in some species and under some conditions, traditionally
@@ -1657,7 +1657,7 @@ abundant (representing up to 24% of
 total microbial
 community) and widely distributed in colonic mucosa
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -1800,7 +1800,7 @@ dominant bacterial
 fractions in the upper part of the
 small intestine (Simon & Gorbach, 1986; Reuter, 2001).
 Forty-six species of these two genera are known to be gas-
-trointestinal inhabitants (Fig. 9). In addition, Streptococ-
+trointestinal inhabitants . In addition, Streptococ-
 the
 cus pleomorphus, which also can be part of
 gastrointestinal microbiota, forms a deep branch in the
@@ -1818,7 +1818,7 @@ this
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -1943,7 +1943,7 @@ of a Streptococcus species is decreased in mucosal biopsies
 in Crohn’s disease patients (Li et al., 2012), while Strepto-
 coccus and Enterococcus phylotypes are found to be
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -1976,7 +1976,7 @@ them, a large number of Staphylococcus spp., which typi-
 early colonization with Staphylococcus
 
 cally are associated with the human skin, can be detected
-in the human gastrointestinal tract (Fig. 11). These bacte-
+in the human gastrointestinal tract . These bacte-
 ria are one of the earliest colonizers of the gastrointestinal
 tract, particularly in infants that were delivered by cesar-
 ean section (Dominguez-Bello et al., 2010). The predomi-
@@ -2074,7 +2074,7 @@ For the other gastrointestinal species that belong to the order of the Bacillale
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -2205,7 +2205,7 @@ Fig. 11. Phylogenetic tree of a fraction of the human gastrointestinal species t
 Numbers of the SSU rRNA gene sequence are provided for each species and the family names are indicated. For the other gastrointestinal species
 that belong to the order of the Bacillales order see Fig. 10.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -2307,7 +2307,7 @@ which is a commensal gastrointestinal bacterium that can
 cause bacteraemia (Petit et al., 1999). Up to now, 72
 Clostridium spp. have been detected in the human gastro-
 intestinal samples, of which 30 belong to the Clostridium
-sensu stricto (Fig. 12). The other Clostridium spp. belong
+sensu stricto . The other Clostridium spp. belong
 to different families within the Firmicutes phylum, while
 Clostridium rectum belongs to the Fusobacteria phylum.
 Members of the Clostridium sensu stricto are generally
@@ -2333,7 +2333,7 @@ genera, most of which can be detected in the human gas-
 trointestinal tract. In addition, a number of species that
 are ofﬁcially classiﬁed into the genera Clostridium, Eubac-
 terium, and Ruminococcus, cluster within the Lachnospira-
-ceae based on their SSU rRNA gene sequence (Fig. 13).
+ceae based on their SSU rRNA gene sequence .
 Members of the Lachnospiraceae are also among the ﬁrst
 to be established in the gastrointestinal tract. A recent
 study showed that Ruminococcus gnavus is an exclusive
@@ -2349,7 +2349,7 @@ et al., 2013).
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -2489,7 +2489,7 @@ irritable bowel
 
 and adult
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -2628,7 +2628,7 @@ SSU rRNA gene sequence clustering within the families that are designated on the
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -2699,7 +2699,7 @@ Blautia is a recently described bacterial genus that
 groups
 several abundant gastrointestinal bacteria that
 were previously assigned to the Ruminococcus genus –
-notably those related to Ruminococcus obeum (Fig. 14).
+notably those related to Ruminococcus obeum .
 The common feature of Blautia spp. is the utilization of
 hydrogen and carbon dioxide to form acetate (Bernalier
 et al., 1996). Blautia spp. are among the most abundant
@@ -2757,7 +2757,7 @@ Ruminococcus
 R. callidus, R. champanellensis, and R. ﬂavefaciens. Several
 other frequently detected gastrointestinal genera that are
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -2770,7 +2770,7 @@ studying rumen anaerobes
 
 recognized members of the Clostridium cluster IV (Clos-
 tridium leptum group) are either members or are closely
-related to this family (Fig. 14). The true Ruminococcus
+related to this family . The true Ruminococcus
 spp. are an abundant fraction of the human gastrointesti-
 can reach densities of up to
 nal microbiota that
@@ -2866,7 +2866,7 @@ intestinal microbiota (Willems & Collins, 1996; Kageyama
 et al., 1999a, b; Nakazawa et al., 2000; Taras et al., 2002;
 Carlier et al., 2010). Further reclassiﬁcation of the genus
 can be expected, as only four gastrointestinal Eubacterium
-spp. belong to the Eubacterium sensu stricto (Fig. 15). In
+spp. belong to the Eubacterium sensu stricto . In
 a recent study of the gastrointestinal microbiota of cente-
 narians, Eubacterium spp. (notably those related to Eubac-
 terium limosum) were reported as signature bacteria of
@@ -2888,7 +2888,7 @@ about this group of bacteria belonging to Clostridium
 Family XIII Incertae Sedis (Chen et al., 2012).
 
 Prior to the molecular revolution of the gastrointestinal
-microbiota research (Fig. 1), Peptococcus spp. and Pepto-
+microbiota research , Peptococcus spp. and Pepto-
 streptococcus spp. were considered as the dominant and
 abundant in the human gastrointestinal tract (Holdeman
 et al., 1976). However, the latter research has shown that
@@ -2900,7 +2900,7 @@ Peptoniphilus (Murdoch & Shah, 1999; Ezaki et al., 2001;
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -2961,7 +2961,7 @@ the ﬁrst
 Tindall & Euzeby, 2006; Liu et al., 2008). All these genera,
 with exception of Blautia that is a genus in the Lachno-
 spiraceae family, belong to the Clostridiales Family XI
-Incertae Sedis (Fig. 16). Among this group of bacteria,
+Incertae Sedis . Among this group of bacteria,
 the most
 Peptoniphilus asaccharolyticus
 frequently
@@ -2972,7 +2972,7 @@ streptococcus spp. have been recognized as gastrointestinal
 inhabitants, although a number of other species that are
 ofﬁcially classiﬁed within different genera (predominantly
 Clostridium) belong to the Peptostreptococcaceae family
-according to their SSU rRNA gene sequence (Fig. 16).
+according to their SSU rRNA gene sequence .
 Members of the Peptostreptococcaceae family are, in prin-
 ciple, associated with compromised health, and the most
 convincing
@@ -3004,7 +3004,7 @@ In addition to the already mentioned species, ﬁve other
 gastrointestinal bacteria that ofﬁcially belong to the Clo-
 
 stridia class, form distinct branches in the phylogenetic
-tree (Fig. 17). Two of
+tree . Two of
 these gastrointestinal bacteria,
 namely Catabacter hongkongensis and C. minuta, form a
 the
@@ -3016,7 +3016,7 @@ designated as uncultured Clostridiales II (Rajili(cid:1)c-Stojano-
 vi(cid:1)c et al., 2007). These two species are ofﬁcially assigned
 to two different families (Catabacteriaceae and Christense-
 nellaceae), although based on the SSU rRNA gene
-sequence similarity (96.5%), they should be grouped in
+sequence similarity  they should be grouped in
 the same family, and, most likely,
 in the same genus.
 Catabacter hongkongensis was isolated in 2007 from a
@@ -3030,7 +3030,7 @@ et al., 2012). Not much is known about the role of this
 group of strictly anaerobic bacteria in the human gastro-
 intestinal tract, but it is noteworthy that bacteria that
 belong to the Christensenella/Catabacter group were
-reported to be dramatically (20-fold) depleted in fecal
+reported to be dramatically depleted in fecal
 samples of ulcerative patients relative to controls (Rajili(cid:1)c-
 Stojanovi(cid:1)c
 (ﬁvefold)
@@ -3049,7 +3049,7 @@ and signiﬁcantly
 
 et al., 2013a)
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -3193,13 +3193,13 @@ to the Firmicutes phylum on which ﬁve species
 that cluster within the three families with low
 diversity are indicated.
 
-microbiota (Fig. 17). These bacteria are ofﬁcially classiﬁed
+microbiota . These bacteria are ofﬁcially classiﬁed
 and Clostridiales order,
 within the Clostridia class
 although based on the SSU rRNA gene sequence they are
 closely related to the members of the Selenomonadales
 
-order within the Negativicutes class (Fig. 18). Based on
+order within the Negativicutes class . Based on
 their SSU rRNA gene sequence, gastrointestinal members
 of the Peptococcaceae family will be reclassiﬁed either the
 Negativicutes class or into another novel class, different
@@ -3207,7 +3207,7 @@ Negativicutes class or into another novel class, different
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -3314,7 +3314,7 @@ lowing genera: Acidamoinococcus, Dialister, Megamonas,
 Megasphaera,
 Veillonella
 this group used to be classiﬁed
-(Fig. 18). Bacteria of
+. Bacteria of
 within the order Clostridiales, although based on their
 SSU rRNA gene sequence, they are distant from other
 Clostridiales. Therefore,
@@ -3345,7 +3345,7 @@ reclassiﬁed as Veillonella parvula,
 
 feces
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -3381,7 +3381,7 @@ lower part of the gastrointestinal tract.
 
 ria that based on their SSU rRNA gene sequence cluster
 within the Erysipelotrichi class are still ofﬁcially classiﬁed
-within other groups of the Firmicutes (Fig. 19). This indi-
+within other groups of the Firmicutes . This indi-
 cates that a major revision of this group can be expected
 in the future. There are several studies that link Erysipelo-
 trichi with compromised health. An increased abundance
@@ -3489,7 +3489,7 @@ indicated in bold are based on the SSU rRNA gene sequence clustering within the 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Kandleria vitulina, AB210825
 Catenibacter mitsuokai, AB030226
@@ -3508,7 +3508,7 @@ currently uncultured species
 
 on the SSU rRNA gene sequence, they are interrelated
 with the members of the Erysipelotrichi class of the Firmi-
-cutes (Fig. 19). The majority of the gastrointestinal Ten-
+cutes . The majority of the gastrointestinal Ten-
 ericutes
 are
 frequently detected in the molecular surveys. Their detec-
@@ -3560,7 +3560,7 @@ with ulcerative colitis (Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2013a)
 and colorectal cancer (Castellarin et al., 2012; Kostic
 et al., 2012). The human gastrointestinal tract-associated
 Fusobacteria also include representatives of the Leptotri-
-chia genus and the misclassiﬁed C. rectum (Fig. 20).
+chia genus and the misclassiﬁed C. rectum .
 
 Proteobacteria
 
@@ -3584,7 +3584,7 @@ Fusobacteria are
 frequently
 another phylum of
 detected gastrointestinal bacteria, the majority of which
-belong to the genus Fusobacterium (Fig. 20). These bacte-
+belong to the genus Fusobacterium . These bacte-
 
 the
 
@@ -3631,7 +3631,7 @@ Fig. 20. Phylogenetic tree the human gastrointestinal species that belong to the
 the SSU rRNA gene sequence are provided for each species and the family names are indicated. The species indicated in bold are based on the
 SSU rRNA gene sequence clustering within the families that are designated on the ﬁgure in contrast to their ofﬁcial classiﬁcation.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -3667,7 +3667,7 @@ other members of
 retrieving SSU rRNA gene sequences identical to previ-
 ously cultured bacteria from gastrointestinal
 samples
-(Fig. 21, Table S1). AlphapProteobacteria seem to be char-
+. AlphapProteobacteria seem to be char-
 acteristic for the upper part of the gastrointestinal tract as
 sequences of these bacteria were detected only in studies
 where samples from the upper intestine were included
@@ -3803,7 +3803,7 @@ Numbers of the SSU rRNA gene sequence are provided for each species and the fami
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -3813,7 +3813,7 @@ quently been detected in later studies of the gastrointesti-
 nal microbiota. A number of other bacteria within this
 class have been detected in recent years, showing that
 Betaproteobacteria are diverse and ubiquitous members of
-the gastrointestinal microbiota (Fig. 22). Among them,
+the gastrointestinal microbiota . Among them,
 Sutterella and Parrasutterella are the most
 frequently
 encountered and the abundant gastrointestinal microor-
@@ -3870,7 +3870,7 @@ based studies (Gray & Shiner, 1967; Bhat et al., 1980). The
 presence of speciﬁc Neisseria spp. in the gastrointestinal
 tract was only recently reported in a high-throughput cul-
 turing study (Lagier et al., 2012a) and emerged from SSU
-rRNA gene sequencing-based studies (Fig. 22, Table S1).
+rRNA gene sequencing-based studies .
 Nonpathogenic Neisseria spp. do not catabolize many car-
 bohydrates, while some species are even asaccharolytic, but
 they can reduce nitrate. It is known that Neisseria spp. are
@@ -3960,7 +3960,7 @@ Neisseriaceae
 
 10%
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -3970,7 +3970,7 @@ published by John Wiley & Sons Ltd on behalf of Federation of European Microbiol
 M. Rajili(cid:1)c-Stojanovi(cid:1)c & W.M. de Vos
 
 which are occasionally reported as members of the gastro-
-intestinal microbiota (Fig. 22). Among them, Acidovorax
+intestinal microbiota . Among them, Acidovorax
 spp. were found to be ubiquitously present in the colonic
 mucosa (Hong et al., 2011), Burkholderia spp. were found
 in an increased abundance in hepatic encephalopathy and
@@ -3995,7 +3995,7 @@ teria characterized from human gastrointestinal samples in
 1885 (Shulman et al., 2007). Escherichia coli belongs to the
 Enterobacteriaceae family, which is the most diverse, pre-
 valent and abundant of all gastrointestinal Proteobacteria
-(Fig. 23). Most of Enterobacteriaceae members are associ-
+. Most of Enterobacteriaceae members are associ-
 ated with diarrhea (Thielman & Guerrant, 2004), although
 representatives of this family are not necessarily causing
 any symptoms and are actually one of the ﬁrst to be found
@@ -4033,7 +4033,7 @@ testinal tract of human and animal models (Negroni et al.,
 bacteriaceae is a diverse group and while some genera
 form separate clusters (e.g., Yersinia), species of other
 genera are mixed up in the SSU rRNA phylogenetic tree
-(Fig. 23). The absence of genus-speciﬁc SSU rRNA gene
+. The absence of genus-speciﬁc SSU rRNA gene
 sequences for these genera, could explain a recent the
 sequences assigned to E. coli, Salmonella
 ﬁnding that
@@ -4043,7 +4043,7 @@ appear together (Lozupone et al., 2012).
 In addition to the Enterobacteriaceae, representatives of
 eight other bacterial families with the Gammaproteobac-
 teria class can be detected in the human gastrointestinal
-tract (Fig. 24). Among these, members of the Moraxella-
+tract . Among these, members of the Moraxella-
 ceae are relatively frequently detected using both cultiva-
 tion-based and molecular studies. Within this family,
 Acinetobacter spp. are the most diverse and are frequently
@@ -4089,7 +4089,7 @@ healthy humans (Table S1).
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -4277,7 +4277,7 @@ trointestinal tract has been linked to ulcerative colitis and
 colon cancer. Although some cultivation, studies showed
 an association between the presence of sulfate-reducing
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -4397,7 +4397,7 @@ low abundance, of approximately 106–107 cells g
 et al., 2004), and although at least three different genera
 of this group of bacteria can be found in the human gas-
 trointestinal tract, only Desulfovibrio spp. are character-
-ized below the genus level (Fig. 25). In addition, Bilophila
+ized below the genus level . In addition, Bilophila
 wadsworthia is another member of Deltaproteobacteria
 
 is present
@@ -4422,7 +4422,7 @@ main genera in the human gastrointestinal tract: Campylo-
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -4540,11 +4540,11 @@ Lentisphaerae
 
 Victivallis vadensis is the only species within the phylum
 of Lentisphaerae that has been isolated from the gastroin-
-testinal tract (Fig. 26). This species was isolated in 2003,
+testinal tract . This species was isolated in 2003,
 liquid
 as a bacterium that was able to grow in basal
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -4624,7 +4624,7 @@ are established pathogens in veterinary medicine and their
 pathogenicity in humans has been debated for a long per-
 iod of time. Two species of the phylum Spirochetes can be
 detected in the human gastrointestinal samples: Brachyspira
-pilosicoli and Brachyspira aalborgi (Fig. 26). Their presence
+pilosicoli and Brachyspira aalborgi . Their presence
 in the gastrointestinal tract is termed intestinal spirochet-
 osis, which in clinical cases is associated with abdominal
 pain and diarrhea. However, a retrospective review of cases
@@ -4683,7 +4683,7 @@ and its members can be present in abundance of about
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -4806,7 +4806,7 @@ There are a few gastrointestinal bacterial phyla with low
 diversity that have not yet been discussed, including the
 Deinococcus-Thermus bacteria,
 the Melainabacteria the
-Gemmatimonadetes and the Planctomycetes (Fig. 26). The
+Gemmatimonadetes and the Planctomycetes . The
 Deinococcus-Thermus bacteria were for the ﬁrst time asso-
 ciated with the human gastrointestinal microbiota in
 2006, when uncultured phylotypes within this phylum
@@ -4835,7 +4835,7 @@ are active in the distal part of the human gastrointestinal
 tract (Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2008; Peris-Bondia et al.,
 2011), which indicates their wide distribution along the
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -4892,7 +4892,7 @@ an uncultured Plantomycetes bacterium (Wilson & Blitch-
 ington, 1996). However, the detected SSU rRNA gene
 sequence was probably retrieved from a representative of
 a new genus within the Lentisphaerae phylum, since it has
-the highest similarity (88%) with V. vadensis (that was
+the highest similarity with V. vadensis (that was
 isolated and described after publication of the molecular
 study). Nevertheless, Plantomycetes might be a part of the
 human gastrointestinal microbiota, as a recent review
@@ -4900,7 +4900,7 @@ indicated the detection of a diverse community of the
 Planctomycetes in the human gastrointestinal tract (Lagier
 et al., 2012b). When analyzing the publicly available data,
 we found that only one (JQ287572) had high similarity
-(98%) to the SSU rRNA gene sequence of a cultured bac-
+to the SSU rRNA gene sequence of a cultured bac-
 terium—Schlesneria paludicola. However, based on the
 it grows in the
 characteristics of this bacterium (e.g.,
@@ -4922,7 +4922,7 @@ densities of up to 1010 cells g
 feces (Bond et al.,
 1971; Miller & Wolin, 1986). In total, eight archaeal spe-
 cies have been associated with the human gastrointestinal
-tract (Fig. 26, Table S2). In an early cultivation study,
+tract . In an early cultivation study,
 which dates from 1968, a single methanogenic species,
 isolated from four of ﬁve individuals, was identiﬁed as
 Methanobrevibacter ruminantium (Nottingham & Hun-
@@ -4975,7 +4975,7 @@ relative
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -5026,7 +5026,7 @@ Fungi
 The most prevalent Eukarya in the human gastrointestinal
 tract are yeast-like fungi and in total 57 intestinal species
 distributed between the two phyla, Ascomycota and Basidi-
-omycota, have been detected (Fig. 27). The ﬁrst report of
+omycota, have been detected . The ﬁrst report of
 yeasts in the human gastrointestinal tract dates from 1901
 when Candida albicans was isolated from feces of patients
 infected with tropical sprue (Kohlbrugge, 1901). A thor-
@@ -5106,7 +5106,7 @@ Aspergillus spp. and Penicillium spp. have been identiﬁed
 
 1986).
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -5244,7 +5244,7 @@ a number of different micro-eukaryotes
 
 to the phyla: Apicomplexa, Amoebozoa, Ciliophora,
 Metamonada, Micosporidia, Parabasalia, and Stramenopiles
-(Fig. 28). Some of these organisms are pathogenic infec-
+. Some of these organisms are pathogenic infec-
 tious agents, which after ingestion (through contaminated
 water or food) can cause gastrointestinal symptoms, most
 frequently diarrhea. Because of their clinical signiﬁcance,
@@ -5275,7 +5275,7 @@ intestinal spore-forming protozoa that cause intracellular
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -5439,7 +5439,7 @@ The Amoebozoa that can be detected in the human gas-
 trointestinal tract include Endolimax nana and Iodamoeba
 b€utschlii and six Entamoeba spp. (Table S3). The SSU rRNA
 gene sequence is available only for ﬁve Entamoeba spp.
-(Fig. 28). While most of the intestinal Amoebozoa are non-
+. While most of the intestinal Amoebozoa are non-
 pathogenic, there is sufﬁcient evidence that Entamoeba his-
 tolytica is pathogenic for humans and causes amebiasis —
 dysentery or amebic colitis with a high mortality rate (Fote-
@@ -5448,7 +5448,7 @@ dar et al., 2007). Entamoeba histolytica was
 described 1875, although the species name Entamoeba
 histolytica was assigned later, in 1903 by Fritz Schaudinn
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
@@ -5626,7 +5626,7 @@ the
 ª 2014 The Authors. FEMS Microbiology Reviews
 published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
 
-FEMS Microbiol Rev 38 (2014) 996–1047
+FEMS Microbiol Rev 38 996–1047
 
 Cultured human gastrointestinal microbiota
 
@@ -5650,2078 +5650,3 @@ and Gravity Grant of the Netherlands Organization of
 Scientiﬁc Research and the ERC Advanced Grant 250172
 (Microbes Inside) of the European Research Council to
 WMdV. The authors declare no conﬂict of interests.
-
-References
-
-Alexieff A (1911) Sur la nature des formations dites ‘Kystes de
-
-Trichomonas intestinalis’. CR Soc Biol 71: 296–298.
-Allison MJ, Dawson KA, Mayberry WR & Foss JG (1985)
-
-Oxalobacter formigenes gen. nov., sp. nov.: oxalate-degrading
-anaerobes that inhabit the gastrointestinal tract. Arch
-Microbiol 141: 1–7.
-
-Anderson HW (1917) Yeast-like fungi of the human intestinal
-
-tract. J Infect Dis 21: 341–386.
-
-Anderson IC, Poth M, Homstead J & Burdige D (1993) A
-
-comparison of NO and N2O production by the autotrophic
-nitriﬁer Nitrosomonas europaea and the heterotrophic
-nitriﬁer Alcaligenes faecalis. Appl Environ Microbiol 59:
-3525–3533.
-
-Andersson AF, Lindberg M, Jakobsson H, B€ackhed F, Nyr(cid:1)en P
-& Engstrand L (2008) Comparative analysis of human gut
-microbiota by barcoded pyrosequencing. PLoS One 3: e2836.
-Andrewes FW & Horder TJ (1906) A study of the streptococci
-
-pathogenic for man. Lancet 2: 708–713.
-
-Apisarnthanarak A, Fraser VJ, Dunne WM, Little JR,
-Hoppe-Bauer J, Mayﬁeld JL & Polish LB (2003)
-Stenotrophomonas maltophilia intestinal colonization in
-hospitalized oncology patients with diarrhea. Clin Infect Dis
-37: 1131–1135.
-
-Arisue N, Hashimoto T & Yoshikawa H (2003) Sequence
-
-heterogeneity of the small subunit ribosomal RNA genes
-among blastocystis isolates. Parasitology 161: 1–9.
-
-Arumugam M, Raes J, Pelletier E et al. (2011) Enterotypes of
-
-the human gut microbiome. Nature 474: 666.
-
-Aslam M, Batten JJ, Florin TH, Sidebotham RL & Baron JH
-(1992) Hydrogen sulphide induced damage to the colonic
-mucosal barrier in the rat. Gut 33: S69.
-
-Attene-Ramos MS, Wagner ED, Plewa MJ & Gaskins HR
-
-(2006) Evidence that hydrogen sulﬁde is a genotoxic agent.
-Mol Cancer Res 4: 9–14.
-
-B€ackhed F, Ley RE, Sonnenburg JL, Peterson DA & Gordon JI
-(2005) Host-bacterial mutualism in the human intestine.
-Science 307: 1915–1920.
-
-Bajaj JS, Hylemon PB, Ridlon JM et al. (2012) Colonic
-
-mucosal microbiome differs from stool microbiome in
-cirrhosis and hepatic encephalopathy and is linked to
-cognition and inﬂammation. Am J Physiol Gastrointest Liver
-Physiol 303: G675–G685.
-
-Baron EJ (1997) Bilophila wadsworthia: a unique
-
-Gram-negative anaerobic rod. Anaerobe 3: 83–86.
-Baron E, Curren M, Henderson G et al. (1992) Bilophila
-wadsworthia isolates from clinical specimens. J Clin
-Microbiol 30: 1882–1884.
-
-Batchelor MD (1919) Aerobic spore-bearing bacteria in the
-
-intestinal tract of children. J Bacteriol 4: 23–3415.
-
-Belzer C & de Vos WM (2012) Microbes inside – from diversity
-to function: the case of Akkermansia. ISME J 6: 1449–1458.
-
-Benno Y, Sawada K & Mitsuoka T (1984) The intestinal
-microﬂora of infants: composition of fecal ﬂora in
-breast-fed and bottle-fed infants. Microbiol Immunol 28:
-975–986.
-
-Benno Y, Sawada K & Mitsuoka T (1985) The intestinal
-
-microﬂora of infants: fecal ﬂora of infants with vitamin K
-deﬁciency. Microbiol Immunol 29: 243–250.
-
-Benno Y, Sawada K & Mitsuoka T (1986) Comparison of the
-fecal microﬂora in rural Japanese and urban Canadians.
-Microbiol Immunol 30: 521–532.
-
-Benno Y, Endo K, Takeo M, Namba Y, Komori T & Mitsuoka
-T (1989) Comparison of fecal microﬂora of elderly persons
-in rural and urban areas of Japan. Appl Environ Microbiol
-55: 1100–1105.
-
-Bernalier A, Willems A, Leclerc M, Rochet V & Collins MD
-
-(1996) Ruminococcus hydrogenotrophicus sp. nov., a new H2/
-CO2-utilizing acetogenic bacterium isolated from human
-feces. Arch Microbiol 166: 176–183.
-
-Bhat P, Boulter EA, Rajan D, Shanthakumari S, Kapadia CR &
-Baker SJ (1973) Mycoplasma in the upper gastrointestinal
-tracts of Southern Indian control subjects and patients with
-tropical sprue. Am J Clin Pathol 59: 825–828.
-
-Bhat P, Albert MJ, Rajan D, Ponniah J, Mathan VI & Baker SJ
-
-(1980) Bacterial ﬂora of the jejunum: a comparison of
-luminal aspirate and mucosal biopsy. J Med Microbiol 13:
-247–256.
-
-Biagi E, Nylund L, Candela M et al. (2010) Through ageing,
-and beyond: gut microbiota and inﬂammatory status in
-seniors and centenarians. PLoS One 5: e10667.
-Biavati B, Vescovo M, Torriani S & Bottazzi V (2000)
-
-Biﬁdobacteria: history, ecology, physiology and applications.
-Ann Microbiol 50: 117–131.
-
-Bik EM, Eckburg PB, Gill SR, Nelson KE, Purdom EA,
-
-Francois F, Perez-Perez G, Blaser MJ & Relman DA (2006)
-Molecular analysis of the bacterial microbiota in the human
-stomach. P Natl Acad Sci USA 103: 732–737.
-
-Bjorkroth KJ, Schillinger U, Geisen R, Weiss N, Hoste B,
-Holzapfel WH, Korkeala HJ & Vandamme P (2002)
-Taxonomic study of Weissella confusa and description of
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-1036
-
-M. Rajili(cid:1)c-Stojanovi(cid:1)c & W.M. de Vos
-
-Weissella cibaria sp. nov., detected in food and clinical
-samples. Int J Syst Evol Microbiol 52: 141–148.
-
-Bond JH Jr, Engel RR & Levitt MD (1971) Factors inﬂuencing
-
-pulmonary methane excretion in man: an indirect method of
-studying the in situ metabolism of the methane-producing
-colonic bacteria. J Exp Med 133: 572–588.
-
-Booijink CCGM (2009). Analysis of diversity and function of
-the human small intestinal microbiota. PhD, Wageningen
-University, Wageningen, the Netherlands.
-
-Booijink CCGM, El-Aidy S, Rajili(cid:1)c-Stojanovi(cid:1)c M, Heilig HG,
-
-Troost FJ, Smidt H, Kleerebezem M, de Vos WM &
-Zoetendal EG (2010) High temporal and inter-individual
-variation detected in the human ileal microbiota. Environ
-Microbiol 12: 3213–3227.
-
-Bouhnik Y, Alain S, Attar A, Flourie B, Raskine L, Sanson-Le
-Pors MJ & Rambaud J-C (1999) Bacterial populations
-contaminating the upper gut in patients with small intestinal
-bacterial overgrowth syndrome. Am J Gastroenterol 94: 1327–
-1331.
-
-Brown J, de Vos WM, DiStefano PS, Dore J, Huttenhower C,
-
-Knight R, Lawley TD, Raes J & Turnbaugh P (2013)
-Translating the human microbiome. Nat Biotechnol 31:
-304–308.
-
-Bucher C & von Graevenitz A (1982) Evaluation of three
-
-differential media for detection of Enterobacter agglomerans
-(Erwinia herbicola). J Clin Microbiol 15: 1164–1166.
-Candela M, Rampelli S, Turroni S et al. (2012) Unbalance of
-intestinal microbiota in atopic children. BMC Microbiol 12:
-95.
-
-Carlier J-P, Bedora-Faure M, K’ouas G, Alauzet C & Mory F
-(2010) Proposal to unify Clostridium orbiscindens Winter
-et al. 1991 and Eubacterium plautii (S(cid:1)eguin 1928) Hofstad
-and Aasjord 1982, with description of Flavonifractor plautii
-gen. nov., comb. nov., and reassignment of Bacteroides
-capillosus to Pseudoﬂavonifractor capillosus gen. nov., comb.
-nov. Int J Syst Evol Microbiol 60: 585–590.
-
-Carr NJ, Mahajan H, Tan KL & Sharma R (2010) The
-
-histological features of intestinal spirochetosis in a series of
-113 patients. Int J Surg Pathol 18: 144–148.
-Castellarin M, Warren R, Freeman JD et al. (2012)
-
-Fusobacterium nucleatum infection is prevalent in human
-colorectal carcinoma. Genome Res 22: 299–306.
-Ceelen L, Decostere A, Verschraegen G, Ducatelle R &
-
-Haesebrouck F (2005) Prevalence of Helicobacter pullorum
-among patients with gastrointestinal disease and clinically
-healthy persons. J Clin Microbiol 43: 2984–2986.
-
-Cegielski JP, Ortega YR, McKee S et al. (1999)
-
-Cryptosporidium, Enterocytozoon, and Cyclospora infections
-in pediatric and adult patients with diarrhea in Tanzania.
-Clin Infect Dis 28: 314–321.
-
-Cekin A, Cekin Y, Adakan Y, Tasdemir E, Koclar F &
-Yolcular B (2012) Blastocystosis in patients with
-gastrointestinal symptoms: a case–control study. BMC
-Gastroenterol 12: 122.
-
-Chang JY, Shin SM, Chun J, Lee J-H & Seo J-K (2011)
-Pyrosequencing-based molecular monitoring of the
-
-intestinal bacterial colonization in preterm infants. J Pediatr
-Gastroenterol Nutr 53: 512–519.
-
-Chassaing B, Koren O, Carvalho FA, Ley RE & Gewirtz AT
-(2014) AIEC pathobiont instigates chronic colitis in
-susceptible hosts by altering microbiota composition. Gut.
-63: 1069–1080.
-
-Checkley W, Gilman RH, Epstein LD, Suarez M, Diaz JF, Cabrera
-
-L, Black RE & Sterling CR (1997) Asymptomatic and
-symptomatic cryptosporidiosis: their acute effect on weight
-gain in Peruvian children. Am J Epidemiol 145: 156–163.
-
-Chen W, Li D, Paulus B, Wilson I & Chadwick V (2001) High
-prevalence of Mycoplasma pneumoniae in intestinal mucosal
-biopsies from patients with inﬂammatory bowel disease and
-controls. Dig Dis Sci 46: 2529–2535.
-
-Chen W, Liu F, Ling Z, Tong X & Xiang C (2012) Human
-intestinal lumen and mucosa-associated microbiota in
-patients with colorectal cancer. PLoS One 7: e39743.
-
-Claesson MJ, Jeffery IB, Conde S et al. (2012) Gut microbiota
-composition correlates with diet and health in the elderly.
-Nature 488: 178–184.
-
-Clavel T, Henderson G, Engst W, Dor(cid:1)e J & Blaut M (2006)
-Phylogeny of human intestinal bacteria that activate the
-dietary lignan secoisolariciresinol diglucoside. FEMS
-Microbiol Ecol 55: 471–478.
-
-Collado MC, Derrien M, Isolauri E, de Vos WM & Salminen S
-(2007) Intestinal integrity and Akkermansia muciniphila, a
-mucin-degrading member of the intestinal microbiota
-present in infants, adults, and the elderly. Appl Environ
-Microbiol 73: 7767–7770.
-
-Collado MC, Donat E, Ribes-Koninckx C, Calabuig M & Sanz
-
-Y (2009) Speciﬁc duodenal and faecal bacterial groups
-associated with paediatric coeliac disease. J Clin Pathol 62:
-264–269.
-
-Collins MD & Wallbanks S (1992) Comparative sequence
-
-analyses of the 16S rRNA genes of Lactobacillus minutus,
-Lactobacillus rimae and Streptococcus parvulus: proposal for
-the creation of a new genus Atopobium. FEMS Microbiol Lett
-74: 235–240.
-
-Collins M, Lawson P, Willems A, Cordoba J,
-
-Fernandez-Garayzabal J, Garcia P, Cai J, Hippe H & Farrow
-J (1994) The phylogeny of the genus Clostridium: proposal
-of ﬁve new genera and eleven new species combinations. Int
-J Syst Bacteriol 44: 812–826.
-
-Crociani F, Alessandrini A, Mucci MM & Biavati B (1994)
-
-Degradation of complex carbohydrates by Biﬁdobacterium
-spp. Int J Food Microbiol 24: 199–210.
-
-Cryan JF & Dinan TG (2012) Mind-altering microorganisms:
-the impact of the gut microbiota on brain and behaviour.
-Nat Rev Neurosci 13: 701–712.
-
-Culotta E & Koshland DE (1992) NO news is good news.
-
-Science 258: 1862–1865.
-
-David LA, Maurice CF, Carmody RN et al. (2014) Diet rapidly
-and reproducibly alters the human gut microbiome. Nature.
-505: 559–563.
-
-De Filippo C, Cavalieri D, Di Paola M, Ramazzotti M, Poullet
-JB, Massart S, Collini S, Pieraccini G & Lionetti P (2010)
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-Cultured human gastrointestinal microbiota
-
-1037
-
-Impact of diet in shaping gut microbiota revealed by a
-comparative study in children from Europe and rural
-Africa. P Natl Acad Sci USA 107: 14691–14696.
-
-De Vadder F, Kovatcheva-Datchary P, Goncalves D, Vinera J,
-Zitoun C, Duchampt A, B€ackhed F & Mithieux G (2014)
-Microbiota-generated metabolites promote metabolic
-beneﬁts via gut-brain neural circuits. Cell 156: 84–96.
-de Weerth C, Fuentes S, Puylaert P & de Vos WM (2013)
-
-Intestinal microbiota of infants with colic: development and
-speciﬁc signatures. Pediatrics 131: 550–558.
-
-Denault LJ, Cleverdon RC & Kulp WL (1953) Nitrogen
-
-compounds utilized by Alcaligenes faecalis. J Bacteriol 66:
-465–467.
-
-Deplancke B & Gaskins HR (2003) Hydrogen sulﬁde induces
-serum-independent cell cycle entry in nontransformed rat
-intestinal epithelial cells. FASEB J 17: 1310–1312.
-
-Deplancke B, Finster K, Graham WV, Collier CT, Thurmond
-JE & Gaskins HR (2003) Gastrointestinal and microbial
-responses to sulfate-supplemented drinking water in mice.
-Exp Biol Med 228: 424–433.
-
-Derrien M, Vaughan EE, Plugge CM & de Vos WM (2004)
-Akkermansia muciniphila gen. nov., sp. nov., a human
-intestinal mucin-degrading bacterium. Int J Syst Evol
-Microbiol 54: 1469–1476.
-
-Desportes I, Charpentier YL, Galian A, Bernard F,
-
-Cochand-Priollet B, Lavergne A, Ravisse P & Modigliani R
-(1985) Occurrence of a new microsporidan: Enterocytozoon
-bieneusi n. g., n. sp., in the enterocytes of a human patient
-with AIDS. J Protozool 32: 250–254.
-
-Devkota S, Wang Y, Musch MW, Leone V, Fehlner-Peach H,
-Nadimpalli A, Antonopoulos DA, Jabri B & Chang EB
-(2012) Dietary-fat-induced taurocholic acid promotes
-pathobiont expansion and colitis in Il10-/- mice. Nature
-487: 104–108.
-
-Di Rienzi SC, Sharon I, Wrighton KC et al. (2013) The human
-gut and groundwater harbor non-photosynthetic bacteria
-belonging to a new candidate phylum sibling to
-Cyanobacteria. eLife 2: e01102.
-
-Distaso A (1911) Sur les microbes prot(cid:1)eolytiques de la ﬂore
-
-intestinale de l’homme et des animaux. Zbl Bakt Parasit 59:
-97–103.
-
-Dobell C (1932). Antony Van Leeuwenhoek and His Little
-Animals. Harcourt, Brace & Company, New York.
-
-Dogruman-Al F, Kustimur S, Yoshikawa H, Tuncer C, Simsek
-Z, Tanyukse M, ArazI E & Boorom K (2008) Blastocystis
-subtypes in irritable bowel syndrome and inﬂammatory
-bowel disease in Ankara, Turkey. Mem Inst Oswaldo Cruz
-104: 724–727.
-
-Dominguez-Bello MG, Costello EK, Contreras M, Magris M,
-Hidalgo G, Fierer N & Knight R (2010) Delivery mode
-shapes the acquisition and structure of the initial microbiota
-across multiple body habitats in newborns. P Natl Acad Sci
-USA 107: 11971–11975.
-
-Dridi B, Henry M, El Kh(cid:1)echine A, Raoult D & Drancourt M
-(2009) High prevalence of Methanobrevibacter smithii and
-Methanosphaera stadtmanae detected in the human gut
-
-using an improved DNA detection protocol. PLoS One 4:
-e7063.
-
-Dridi B, Raoult D & Drancourt M (2011) Archaea as emerging
-organisms in complex human microbiomes. Anaerobe 17:
-56–63.
-
-Dridi B, Fardeau M-L, Ollivier B, Raoult D & Drancourt M
-
-(2012) Methanomassiliicoccus luminyensis gen. nov., sp. nov.,
-a methanogenic archaeon isolated from human faeces. Int J
-Syst Evol Microbiol 62: 1902–1907.
-
-Dubourg G, Lagier JC, Armougom F, Robert C, Hamad I,
-Brouqui P & Raoult D (2013) The gut microbiota of a
-patient with resistant tuberculosis is more comprehensively
-studied by culturomics than by metagenomics. Eur J Clin
-Microbiol Infect Dis 32: 637–645.
-
-Duc LH, Hong HA, Barbosa TM, Henriques AO & Cutting
-
-SM (2004) Characterization of Bacillus probiotics available
-for human use. Appl Environ Microbiol 70: 2161–2171.
-Duncan SH, Hold GL, Harmsen H, Stewart CS & Flint HJ
-
-(2002a) Growth requirements and fermentation products of
-Fusobacterium prausnitzii, and a proposal to reclassify it as
-Faecalibacterium prausnitzii gen. nov., comb. nov. Int J Syst
-Evol Microbiol 52: 2141–2146.
-
-Duncan SH, Richardson AJ, Kaul P, Holmes RP, Allison MJ &
-Stewart CS (2002b) Oxalobacter formigenes and its potential
-role in human health. Appl Environ Microbiol 68: 3841–
-3847.
-
-Eckburg PB, Bik EM, Bernstein CN, Purdom E, Dethlefsen L,
-
-Sargent M, Gill SR, Nelson KE & Relman DA (2005)
-Diversity of the human intestinal microbial ﬂora. Science
-308: 1635–1638.
-
-Eeckhaut V, Machiels K, Perrier C et al. (2013) Butyricicoccus
-pullicaecorum in inﬂammatory bowel disease. Gut 62: 1745–
-1752.
-
-Eggerth AH (1935) The Gram-positive non-spore-bearing
-
-anaerobic bacilli of human feces. J Bacteriol 30: 277–299.
-Eggerth AH & Gagnon BH (1933) The bacteroides of human
-
-feces. J Bacteriol 25: 389–413.
-
-Engberg J, On SLW, Harrington CS & Gerner-Smidt P (2000)
-Prevalence of Campylobacter, Arcobacter, Helicobacter, and
-Sutterella spp. in human fecal samples as estimated by a
-reevaluation of isolation methods for campylobacters. J Clin
-Microbiol 38: 286–291.
-
-Everard A, Belzer C, Geurts L et al. (2013) Cross-talk between
-Akkermansia muciniphila and intestinal epithelium controls
-diet-induced obesity. P Natl Acad Sci USA 110: 9066–9071.
-Ezaki T, Li N, Hashimoto Y, Miura H & Yamamoto H (1994)
-
-16S ribosomal DNA sequences of anaerobic cocci and
-proposal of Ruminococcus hansenii comb. nov. and
-Ruminococcus productus comb. nov. Int J Syst Bacteriol 44:
-130–136.
-
-Ezaki T, Kawamura Y, Li N, Li ZY, Zhao L & Shu S (2001)
-
-Proposal of the genera Anaerococcus gen. nov., Peptoniphilus
-gen. nov. and Gallicola gen. nov. for members of the genus
-Peptostreptococcus. Int J Syst Evol Microbiol 51: 1521–1528.
-Fallani M, Amarri S, Uusijarvi A et al. (2011) Determinants of
-
-the human infant intestinal microbiota after the
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-1038
-
-M. Rajili(cid:1)c-Stojanovi(cid:1)c & W.M. de Vos
-
-introduction of ﬁrst complementary foods in infant samples
-from ﬁve European centres. Microbiology 157: 1385–1392.
-Farmer JJ 3rd, Fanning GR, Davis BR, O’Hara CM, Riddle C,
-Hickman-Brenner FW, Asbury MA, Lowery VA & Brenner
-DJ (1985) Escherichia fergusonii and Enterobacter taylorae,
-two new species of Enterobacteriaceae isolated from clinical
-specimens. J Clin Microbiol 21: 77–81.
-
-Farthing MJG (2006) Treatment options for the eradication of
-intestinal protozoa. Nat Clin Pract Gastroenterol Hepatol 3:
-436–445.
-
-Favier CF, Vaughan EE, de Vos WM & Akkermans ADL (2002)
-Molecular monitoring of succession of bacterial communities
-in human neonates. Appl Environ Microbiol 68: 219–226.
-Finegold SM (1969) Intestinal bacteria. The role they play in
-normal physiology, pathologic physiology, and infection.
-Calif Med 110: 455–459.
-
-Finegold SM, Howard RA & Vera LS (1974) Effect of diet on
-human intestinal fecal ﬂora: comparison of Japanese and
-American diets. Am J Clin Nutr 27: 1456–1469.
-
-Finegold SM, Vera LS, Paul TS, Harvey AE, Shirley ML &
-Ronald LP (1977) Fecal microbial ﬂora in Seventh Day
-Adventist populations and control subjects. Am J Clin Nutr
-30: 1781–1792.
-
-Finegold SM, Lawson PA, Vaisanen ML, Molitoris DR, Song
-Y, Liu C & Collins MD (2004) Anaerofustis stercorihominis
-gen. nov., sp. nov., from human faeces. Anaerobe 10: 41–45.
-Fite A, Macfarlane GT, Cummings JH, Hopkins MJ, Kong SC,
-
-Furrie E & Macfarlane S (2004) Identiﬁcation and
-quantitation of mucosal and faecal desulfovibrios using real
-time polymerase chain reaction. Gut 53: 523–529.
-Fitzsimons MS, Novotny M, Lo C-C et al. (2013) Nearly
-
-ﬁnished genomes produced using gel microdroplet culturing
-reveal substantial intraspecies genomic diversity within the
-human microbiome. Genome Res 23: 878–888.
-
-Fleissner CK, Huebel N, Abd El-Bary MM, Loh G, Klaus S & Blaut
-M (2010) Absence of intestinal microbiota does not protect
-mice from diet-induced obesity. Br J Nutr 104: 919–929.
-
-Fl€ugge C (1886). Die Mikroorganismen. Vogel, Leipzig.
-Fock KM, Graham DY & Malfertheiner P (2013) Helicobacter
-pylori research: historical insights and future directions. Nat
-Rev Gastroenterol Hepatol 10: 495–500.
-
-Fotedar R, Stark D, Beebe N, Marriott D, Ellis J & Harkness J
-(2007) Laboratory diagnostic techniques for Entamoeba
-species. Clin Microbiol Rev 20: 511–532.
-
-Frank DN, St Amand AL, Feldman RA, Boedeker EC, Harpaz
-
-N & Pace NR (2007) Molecular-phylogenetic
-characterization of microbial community imbalances in
-human inﬂammatory bowel diseases. P Natl Acad Sci USA
-104: 13780–13785.
-
-Franzen C, Schwartz DA, Visvesvara GS et al. (1995)
-
-Immunologically conﬁrmed disseminated, asymptomatic
-Encephalitozoon cuniculi infection of the gastrointestinal
-tract in a patient with AIDS. Clin Infect Dis 21: 1480–1484.
-Funke G, von Graevenitz A, Clarridge JE & Bernard KA (1997)
-Clinical microbiology of coryneform bacteria. Clin Microbiol
-Rev 10: 125–159.
-
-Gad A, Will(cid:1)en R, Furug(cid:3)ard K, Fors B & Hradsky M (1977)
-
-Intestinal spirochaetosis as a cause of longstanding
-diarrhoea. Ups J Med Sci 82: 49–54.
-
-Ganesan A, Chaussonnerie S, Tarrade A, Dauga C, Bouchez T,
-Pelletier E, Le Paslier D & Sghir A (2008) Cloacibacillus
-evryensis gen. nov., sp. nov., a novel asaccharolytic,
-mesophilic, amino-acid-degrading bacterium within the
-phylum ‘Synergistetes’, isolated from an anaerobic sludge
-digester. Int J Syst Evol Microbiol 58: 2003–2012.
-
-Garrity GM, Bell JA & Lilburn T (2005). The revised road
-
-map to the manual. Bergey’s Manual of Systematic
-Bacteriology, 2nd edn, Part A, Introductory Essays, Vol. 2
-(Brenner K, Staley JT & Garrity GM, eds), pp. 159–220.
-Springer, New York.
-
-Giacani L & Lukehart SA (2014) The endemic treponematoses.
-
-Clin Microbiol Rev 27: 89–115.
-
-Gibson GR, Cummings JH & Macfarlane GT (1988) Use of a
-three-stage continuous culture system to study the effect of
-mucin on dissimilatory sulfate reduction and
-methanogenesis by mixed populations of human gut
-bacteria. Appl Environ Microbiol 54: 2750–2755.
-
-Goodman AL, Kallstrom G, Faith JJ, Reyes A, Moore A, Dantas
-
-G & Gordon JI (2011) Extensive personal human gut
-microbiota culture collections characterized and manipulated
-in gnotobiotic mice. P Natl Acad Sci USA 108: 6252–6257.
-Goodwin CS, Armstrong JA, Chilvers T, Peters M, Collins
-
-MD, Sly L, McConnell M & Harper WES (1989) Transfer of
-Campylobacter pylori and Campylobacter mustelae to
-Helicobacter gen. nov. as Helicobacter pylori comb. nov, and
-Helicobacter mustelae comb. nov., respectively. Int J Syst
-Bacteriol 39: 397–405.
-
-Gosalbes MJ, Llop S, Vall(cid:4)es Y, Moya A, Ballester F & Francino
-MP (2013) Meconium microbiota types dominated by lactic
-acid or enteric bacteria are differentially associated with
-maternal eczema and respiratory problems in infants. Clin
-Exp Allergy 43: 198–211.
-
-Gouba N, Raoult D & Drancourt M (2013) Plant and fungal
-diversity in gut microbiota as revealed by molecular and
-culture Investigations. PLoS One 8: e59474.
-
-Gray JD & Shiner M (1967) Inﬂuence of gastric pH on gastric
-
-and jejunal ﬂora. Gut 8: 574–581.
-
-Grimont PA, Grimont F, Farmer JJ 3rd & Asbury MA (1981)
-Cedecea davisae gen. nov., sp. nov. and Cedecea lapagei sp.
-nov., new Enterobacteriaceae from clinical specimens. Int J
-Syst Bacteriol 31: 317–326.
-
-Haenel H (1970) Human normal and abnormal
-
-gastrointestinal ﬂora. Am J Clin Nutr 23: 1433–1439.
-Hamad I, Sokhna C, Raoult D & Bittar F (2013) Molecular
-
-detection of Eukaryotes in a single human stool sample from
-Senegal. PLoS One 7: e40888.
-
-Hamer HM, Jonkers D, Venema K, Vanhoutvin S, Troost FJ &
-Brummer RJ (2008) Review article: the role of butyrate on
-colonic function. Aliment Pharmacol Ther 27: 104–119.
-Hanevik K, Dizdar V, Langeland N & Hausken T (2009)
-
-Development of functional gastrointestinal disorders after
-Giardia lamblia infection. BMC Gastroenterol 9: 27.
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-Cultured human gastrointestinal microbiota
-
-1039
-
-Hansen R, Berry SH, Mukhopadhya I et al. (2013) The
-microaerophilic microbiota of de-novo paediatric
-inﬂammatory bowel disease: the BISCUIT study. PLoS One
-8: e58825.
-
-Harland WA & Lee FD (1967) Intestinal spirochaetosis. Br
-
-Med J 3: 718–719.
-
-Harmsen HJM, Wildeboer-Veloo ACM, Grijpstra J, Knol J,
-Degener JE & Welling GW (2000) Development of 16S
-rRNA-Based probes for the Coriobacterium group and the
-Atopobium cluster and their application for enumeration of
-Coriobacteriaceae in human feces from volunteers of
-different age groups. Appl Environ Microbiol 66: 4523–4527.
-Hatta M (1995) Antitumor mechanisms of Eubacterium lentum
-and its components. Asian Pac J Allergy Immunol 13: 129–
-137.
-
-Hayashi H, Sakamoto M & Benno Y (2003) Molecular analysis
-of fecal microbiota in elderly individuals using 16S rDNA
-library and T-RFLP. Microbiol Immunol 47: 557–570.
-Hedi A, Fardeau M-L, Sadﬁ N, Boudabous A, Ollivier B &
-Cayol J-L (2009) Characterization of Halanaerobaculum
-tunisiense gen. nov., sp. nov., a new halophilic fermentative,
-strictly anaerobic bacterium isolated from a hypersaline lake
-in Tunisia. Extremophiles 13: 313–319.
-
-Hemmeter JC (1902) Diseases of the Intestines, Their Special
-Pathology. Diagnosis and Treatment. P. Blakiston’s Son &
-Co., Philadelphia.
-
-Hickman-Brenner FW, Huntley-Carter GP, Saitoh Y,
-
-Steigerwalt AG, Farmer JJ 3rd & Brenner DJ (1984)
-Moellerella wisconsensis, a new genus and species of
-Enterobacteriaceae found in human stool specimens. J Clin
-Microbiol 19: 460–463.
-
-Hickman-Brenner FW, Huntley-Carter GP, Fanning GR,
-
-Brenner DJ & Farmer JJ 3rd (1985a) Koserella trabulsii, a
-new genus and species of Enterobacteriaceae formerly known
-as Enteric Group 45. J Clin Microbiol 21: 39–42.
-Hickman-Brenner FW, Vohra MP, Huntley-Carter GP,
-
-Fanning GR, Lowery VA, Brenner DJ & Farmer JJ 3rd
-(1985b) Leminorella, a new genus of Enterobacteriaceae:
-identiﬁcation of Leminorella grimontii sp. nov. and
-Leminorella richardii sp. nov. found in clinical specimens. J
-Clin Microbiol 21: 234–239.
-
-Higgins JA & Brown IL (2013) Resistant starch: a promising
-
-dietary agent for the prevention/treatment of inﬂammatory
-bowel disease and bowel cancer. Curr Opin Gastroenterol 29:
-190–194.
-
-Hogue MJ (1933) A new variety of Retortamonas
-
-(Embadomonas) intestinalis from man. Am J Epidemiol 18:
-433–441.
-
-Holdeman LV & Moore WEC (1974) New Genus, Coprococcus,
-
-twelve new species, and emended description of four
-previously described species of bacteria from human feces.
-Int J Syst Bacteriol 24: 260–277.
-
-Holdeman LV, Good IJ & Moore WEC (1976) Human fecal
-ﬂora: variation in bacterial composition within individuals
-and a possible effect of emotional stress. Appl Environ
-Microbiol 31: 359–375.
-
-Hong P-Y, Croix JA, Greenberg E, Gaskins HR & Mackie RI
-
-(2011) Pyrosequencing-based analysis of the mucosal
-microbiota in healthy individuals reveals ubiquitous
-bacterial groups and micro-heterogeneity. PLoS One 6:
-e25042.
-
-Honigberg BM (1990) Trichomonad found outside the
-urogenital tract of humans. Trichomonads Parasitic in
-Humans (Honigberg BM, ed.), pp. 342–393.
-Springer-Verlag, New York.
-
-Hooper LV, Littman DR & Macpherson AJ (2012) Interactions
-between the microbiota and the immune system. Science
-336: 1268–1273.
-
-Hopkins MJ, Sharp R & Macfarlane GT (2001) Age and
-
-disease related changes in intestinal bacterial populations
-assessed by cell culture, 16S rRNA abundance, and
-community cellular fatty acid proﬁles. Gut 48: 198–205.
-Horz H-P, Citron DM, Warren YA, Goldstein EJC & Conrads
-G (2006) Synergistes group organisms of human origin. J
-Clin Microbiol 44: 2914–2920.
-
-Hoskins LC, Agustines M, McKee WB, Boulding ET, Kriaris M
-
-& Niedermeyer G (1985) Mucin degradation in human
-colon ecosystems. Isolation and properties of fecal strains
-that degrade ABH blood group antigens and
-oligosaccharides from mucin glycoproteins. J Clin Invest 75:
-944–953.
-
-Hou CC, Lai CC, Liu WL, Chao CM, Chiu YH & Hsueh PR
-(2011) Clinical manifestation and prognostic factors of
-non-cholerae Vibrio infections. Eur J Clin Microbiol Infect
-Dis 30: 819–824.
-
-Hoyles L, Honda H, Logan NA, Halket G, La Ragione RM &
-McCartney AL (2012) Recognition of greater diversity of
-Bacillus species and related bacteria in human faeces. Res
-Microbiol 163: 3–13.
-
-Hoyles L, Clear JA & McCartney AL (2013) Use of denaturing
-
-gradient gel electrophoresis to detect Actinobacteria
-associated with the human faecal microbiota. Anaerobe 22:
-90–96.
-
-Hugenholtz P, Tyson GW, Webb RI, Wagner AM & Blackall
-LL (2001) Investigation of candidate division TM7, a
-recently recognized major lineage of the domain bacteria
-with no known pure-culture representatives. Appl Environ
-Microbiol 67: 411–419.
-
-Hung W-L, Wade W, Boden R, Kelly D & Wood A (2011)
-
-Facultative methylotrophs from the human oral cavity and
-methylotrophy in strains of Gordonia, Leifsonia, and
-Microbacterium. Arch Microbiol 193: 407–417.
-
-Hungate RE (1947) Studies on cellulose fermentation. The
-
-culture and isolation of cellulose decomposing bacteria from
-the rumen of cattle. J Bacteriol 53: 631–645.
-
-Hungate RE (1969) Methods in Microbiology. Academic Press,
-
-London.
-
-Ingham CJ, Sprenkels A, Bomer J, Molenaar D, van den Berg
-A, van Hylckama Vlieg JET & de Vos WM (2007) The
-micro-Petri dish, a million-well growth chip for the culture
-and high-throughput screening of microorganisms. P Natl
-Acad Sci USA 104: 18217–18222.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-1040
-
-M. Rajili(cid:1)c-Stojanovi(cid:1)c & W.M. de Vos
-
-Jalanka-Tuovinen J, Salonen A, Nikkil€a J, Immonen O,
-Kekkonen R, Lahti L, Palva A & de Vos WM (2011)
-Intestinal microbiota in healthy adults: temporal analysis
-reveals individual and common core and relation to
-intestinal symptoms. PLoS One 6: e23035.
-
-Jalanka-Tuovinen J, Saloj€arvi J & Salonen A et al. (2013).
-
-Faecal microbiota composition and host-microbe
-cross-talk following gastroenteritis and in postinfectious
-irritable bowel syndrome. Gut doi: 10.1136/
-gutjnl-2013-305994.
-
-Jan G, Belzacq AS, Haouzi D, Rouault A, M(cid:1)etivier D, Kroemer
-G & Brenner C (2002) Propionibacteria induce apoptosis of
-colorectal carcinoma cells via short-chain fatty acids acting
-on mitochondria. Cell Death Differ 9: 179–188.
-
-Janda JM & Abbott SL (1998) Evolving concepts regarding the
-
-genus Aeromonas: an expanding panorama of species,
-disease presentations, and unanswered questions. Clin Infect
-Dis 27: 332–344.
-
-Jin J-S, Kitahara M, Sakamoto M, Hattori M & Benno Y
-
-(2010) Slackia equolifaciens sp. nov., a human intestinal
-bacterium capable of producing equol. Int J Syst Evol
-Microbiol 60: 1721–1724.
-
-Johansson MA, Saghaﬁan-Hedengren S, Haileselassie Y, Roos
-S, Troye-Blomberg M, Nilsson C & Sverremark-Ekstr€om E
-(2012) Early-life gut bacteria associate with IL-4(cid:1), IL-10(cid:1)
-and IFN-c production at two years of age. PLoS One 7:
-e49315.
-
-Johnson JA & Clark CG (2000) Cryptic genetic diversity in
-Dientamoeba fragilis. J Clin Microbiol 38: 4653–4654.
-Johnson EH, Windsor JJ & Clark CG (2004) Emerging from
-obscurity: biological, clinical, and diagnostic aspects of
-Dientamoeba fragilis. Clin Microbiol Rev 17: 553–570.
-
-Jones-Engel L, Engel GA, Schillaci MA, Froehlich J,
-
-Paputungan U & Kyes RC (2004) Prevalence of enteric
-parasites in pet macaques in Sulawesi, Indonesia. Am J
-Primatol 62: 71–82.
-
-Justesen T, Nielsen OH & Krasilnikoff PA (1984) Normal
-cultivable microﬂora in upper jejunal ﬂuid in children
-without gastrointestinal disorders. J Pediatr Gastroenterol
-Nutr 3: 683–686.
-
-Kabeerdoss J, Shobana Devi R, Regina Mary R & Ramakrishna
-BS (2012) Faecal microbiota composition in vegetarians:
-comparison with omnivores in a cohort of young women in
-southern India. Br J Nutr 108: 953–957.
-
-Kageyama A & Benno Y (2000) Emendation of genus
-
-Collinsella and proposal of Collinsella stercoris sp. nov. and
-Collinsella intestinalis sp. nov. Int J Syst Evol Microbiol 50:
-1767–1774.
-
-Kageyama A, Benno Y & Nakase T (1999a) Phylogenetic and
-
-phenotypic evidence for the transfer of Eubacterium
-aerofaciens to the genus Collinsella as Collinsella aerofaciens
-gen. nov., comb. nov. Int J Syst Bacteriol 49: 557–565.
-Kageyama A, Benno Y & Nakase T (1999b) Phylogenetic
-
-evidence for the transfer of Eubacterium lentum to the genus
-Eggerthella as Eggerthella lenta gen. nov., comb. nov. Int J
-Syst Bacteriol 49: 1725–1732.
-
-Kageyama A, Sakamoto M & Benno Y (2000) Rapid
-
-identiﬁcation and quantiﬁcation of Collinsella aerofaciens
-using PCR. FEMS Microbiol Lett 183: 43–47.
-
-Kalliomaki M, Kirjavainen P, Eerola E, Kero P, Salminen S &
-
-Isolauri E (2001) Distinct patterns of neonatal gut
-microﬂora in infants in whom atopy was and was not
-developing. J Allergy Clin Immunol 107: 129–134.
-
-Kanauchi O, Matsumoto Y, Matsumura M, Fukuoka M &
-Bamba T (2005) The beneﬁcial effects of microﬂora,
-especially obligate anaerobes, and their products on the
-colonic environment in inﬂammatory bowel disease. Curr
-Pharm Des 11: 1047–1053.
-
-Kang S, Denman SE, Morrison M, Yu Z, Dore J, Leclerc M
-& McSweeney CS (2010) Dysbiosis of fecal microbiota in
-Crohn’s disease patients as revealed by a custom
-phylogenetic microarray. Inﬂamm Bowel Dis 16: 2034–
-2042.
-
-Karlsson CLJ, €Onnerf€alt J, Xu J, Molin G, Ahrn(cid:1)e S &
-
-Thorngren-Jerneck K (2012) The microbiota of the gut in
-preschool children with normal and excessive body weight.
-Obesity 20: 2257–2261.
-
-Kassinen A, Krogius-Kurikka L, M€akivuokko H, Rinttil€a T,
-Pulin L, Corander J, Malinen E, Apajalahti J & Palva A
-(2007) The fecal microbiota of irritable bowel syndrome
-patients differs signiﬁcantly from that of healthy subjects.
-Gastroenterology 133: 24–33.
-
-Katz M, Despommier DD & Gwadz RW (1982) Parasitic
-
-Diseases. Springer-Verlag, New York.
-
-Keighley MR, Arabi Y, Dimock F, Burdon DW, Allan RN &
-Alexander-Williams J (1978) Inﬂuence of inﬂammatory
-bowel disease on intestinal microﬂora. Gut 19: 1099–1104.
-Kerckhoffs APM, Samsom M, van der Rest ME, de Vogel J,
-Knol J, Ben-Amor K & Akkermans LM (2009) Lower
-Biﬁdobacteria counts in both duodenal mucosa-associated
-and fecal microbiota in irritable bowel syndrome patients.
-World J Gastroenterol 15: 2887–2892.
-
-Knorr M (1922) €Uber die fusispirillare Symbiose, die Gattung
-Fusobacterium (K. B. Lehman) und Spirillum sputigenum.
-Die Gattung Fusobacterium. Zbl Bakt Parasit 87: 536–545.
-
-Koeth RA, Wang Z, Levison BS et al. (2013) Intestinal
-
-microbiota metabolism of l-carnitine, a nutrient in red
-meat, promotes atherosclerosis. Nat Med 19: 576–585.
-Kohlbrugge JHI (1901). Die Atiologie der Aphthae tropicae.
-Archiv f€ur Schiffs- und Tropen-Hygiene, Vol. 5 (Cassel CM,
-ed.), pp. 394–397. Johann Amrosius Barth, Leipzig.
-Kostic AD, Gevers D, Pedamallu CS et al. (2012) Genomic
-analysis identiﬁes association of Fusobacterium with
-colorectal carcinoma. Genome Res 22: 292–298.
-
-Kovatcheva-Datchary P (2010). Analyzing the functionality of
-the human intestinal microbiota by stable isotope probing.
-PhD, University of Wageningen, Wageningen, the
-Netherlands.
-
-Kovatcheva-Datchary P, Egert M, Maathuis A,
-
-Rajili(cid:1)c-Stojanovi(cid:1)c M, de Graaf AA, Smidt H, de Vos WM &
-Venema K (2009) Linking phylogenetic identities of bacteria
-to starch fermentation in an in vitro model of the large
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-Cultured human gastrointestinal microbiota
-
-1041
-
-intestine by RNA-based stable isotope probing. Environ
-Microbiol 11: 914–926.
-
-Krienitz W (1906) €Uber das auftreten von spirochaeten
-
-verschiedener form im magenihalt bei carcinoma ventriculi.
-Dtsch Med Wochenschr 32: 872.
-
-Krogius-Kurikka L, Lyra A, Malinen E, Aarnikunnas J,
-
-Tuimala J, Paulin L, Makivuokko H, Kajander K & Palva A
-(2009) Microbial community analysis reveals high level
-phylogenetic alterations in the overall gastrointestinal
-microbiota of diarrhoea-predominant irritable bowel
-syndrome sufferers. BMC Gastroenterol 9: 95.
-
-Kruis W, Fri(cid:5)c P, Pokrotnieks J et al. (2004) Maintaining
-
-remission of ulcerative colitis with the probiotic Escherichia
-coli Nissle 1917 is as effective as with standard mesalazine.
-Gut 53: 1617–1623.
-
-Kuehbacher T, Rehman A, Lepage P, Hellmig S, F€olsch UR,
-Schreiber S & Ott SJ (2008) Intestinal TM7 bacterial
-phylogenies in active inﬂammatory bowel disease. J Med
-Microbiol 57: 1569–1576.
-
-Kumamoto CA & Vinces MD (2005) Alternative Candida
-
-albicans lifestyles: growth on surfaces. Annu Rev Microbiol
-49: 113–133.
-
-Lagier JC, Armougom F, Million M et al. (2012a) Microbial
-culturomics: paradigm shift in the human gut microbiome
-study. Clin Microbiol Infect 18: 1185–1193.
-
-Lagier JC, Million M, Hugon P, Armougom F & Raoult D
-
-(2012b) Human gut microbiota: repertoire and variations.
-Front Cell Infect Microbiol 2: 136.
-
-Lahti L, Salonen A, Kekkonen RA, Saloj€arvi J,
-
-Jalanka-Tuovinen J, Palva A, Ore(cid:5)si(cid:5)c M & de Vos WM
-(2013) Associations between the human intestinal
-microbiota, Lactobacillus rhamnosus GG and serum lipids
-indicated by integrated analysis of high-throughput proﬁling
-data. PeerJ 1: e32.
-
-Lakshminarayanan B, Harris HMB, Coakley M et al. (2013)
-Prevalence and characterization of Clostridium perfringens
-from the faecal microbiota of elderly Irish subjects. J Med
-Microbiol 62: 457–466.
-
-Lang E, Swiderski J, Stackebrandt E, Schumann P, Sproer C &
-Sahin N (2008) Description of Ancylobacter oerskovii sp.
-nov. and two additional strains of Ancylobacter polymorphus.
-Int J Syst Evol Microbiol 58: 1997–2002.
-
-Larsen N, Vogensen FK, van den Berg FW et al. (2010) Gut
-microbiota in human adults with type 2 diabetes differs
-from non-diabetic adults. PLoS One 5: e9085.
-
-Lau SK, McNabb A, Woo GK, Hoang L, Fung AM, Chung
-
-LM, Woo PC & Yuen K-Y (2007) Catabacter
-hongkongensis gen. nov., sp. nov., isolated from blood
-cultures of patients from Hong Kong and Canada. J Clin
-Microbiol 45: 395–401.
-
-Lau SK, Fan RY, Lo H-W et al. (2012) High mortality
-
-associated with Catabacter hongkongensis bacteremia. J Clin
-Microbiol 50: 2239–2243.
-
-Lawson AJ, On SLW, Logan JMJ & Stanley J (2001)
-Campylobacter hominis sp. nov., from the human
-gastrointestinal tract. Int J Syst Evol Microbiol 51: 651–660.
-
-Le Chatelier E, Nielsen T, Qin J et al. (2013) Richness of
-
-human gut microbiome correlates with metabolic markers.
-Nature 500: 541–546.
-
-Leitch EC, Walker AW, Duncan SH, Holtrop G & Flint HJ
-(2007) Selective colonization of insoluble substrates by
-human faecal bacteria. Environ Microbiol 9: 667–679.
-Lepage P, H€asler R, Spehlmann ME et al. (2011) Twin study
-
-indicates loss of interaction between microbiota and mucosa
-of patients with ulcerative colitis. Gastroenterology 141: 227–
-236.
-
-Levy AJ (1946) A gastroenteritis outbreak probably due to a
-bovine strain of Vibrio. Yale J Biol Med 18: 243–247.
-
-Ley RE (2010) Obesity and the human microbiome. Curr Opin
-
-Gastroenterol 26: 5–11.
-
-Ley RE, B€ackhed F, Turnbaugh P, Lozupone CA, Knight RD &
-Gordon JI (2005) Obesity alters gut microbial ecology. P
-Natl Acad Sci USA 102: 11070–11075.
-Li Q, Wang C, Tang C, Li N & Li J (2012)
-
-Molecular-phylogenetic characterization of the microbiota
-in ulcerated and non-ulcerated regions in the patients with
-Crohn’s disease. PLoS One 7: e34939.
-
-Liu C, Finegold SM, Song Y & Lawson PA (2008)
-
-Reclassiﬁcation of Clostridium coccoides, Ruminococcus
-hansenii, Ruminococcus hydrogenotrophicus, Ruminococcus
-luti, Ruminococcus productus and Ruminococcus schinkii as
-Blautia coccoides gen. nov., comb. nov., Blautia hansenii
-comb. nov., Blautia hydrogenotrophica comb. nov., Blautia
-luti comb. nov., Blautia producta comb. nov., Blautia
-schinkii comb. nov. and description of Blautia wexlerae sp.
-nov., isolated from human faeces. Int J Syst Evol Microbiol
-58: 1896–1902.
-
-Looft T, Levine UY & Stanton TB (2013) Cloacibacillus
-
-porcorum sp. nov., a mucin-degrading bacterium from the
-swine intestinal tract and emended description of the genus
-Cloacibacillus. Int J Syst Evol Microbiol 63: 1960–1966.
-
-Lopez-Dupla M, Creus C, Navarro O & Raga X (1996)
-Association of Gemella morbillorum endocarditis with
-adenomatous polyps and carcinoma of the colon: case
-report and review. Clin Infect Dis 22: 379–380.
-Lopez-Siles M, Khan TM, Duncan SH, Harmsen HJM,
-
-Garcia-Gil LJ & Flint HJ (2012) Cultured representatives of
-two major phylogroups of human colonic
-Faecalibacterium prausnitzii can utilize pectin, uronic acids,
-and host-derived substrates for growth. Appl Environ
-Microbiol 78: 420–428.
-
-Lozupone CA, Stombaugh JI, Gordon JI, Jansson JK & Knight
-R (2012) Diversity, stability and resilience of the human gut
-microbiota. Nature 489: 220–230.
-
-Ludwig W, Schleifer K-H & Whitman WB (2009) Revised
-road map to the phylum Firmicutes. Bergey’s Manual of
-Systematic Bacteriology, Vol. 3 (The Firmicutes) (De Vos P,
-dGarrity G, Jones D et al., eds), pp. 1–13. Springer-Verlag,
-New York.
-
-Lyra A, Krogius-Kurikka L, Nikkila J, Malinen E, Kajander K,
-
-Kurikka K, Korpela R & Palva A (2010) Effect of a
-multispecies probiotic supplement on quantity of irritable
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-1042
-
-M. Rajili(cid:1)c-Stojanovi(cid:1)c & W.M. de Vos
-
-bowel syndrome-related intestinal microbial phylotypes.
-BMC Gastroenterol 10: 110.
-
-emended description of the genus Eggerthella. Int J Syst Evol
-Microbiol 58: 1221–1227.
-
-MacCallum WG & Hastings TW (1899) A case of acute
-
-Matthies A, Blaut M & Braune A (2009) Isolation of a human
-
-endocarditis caused by Micrococcus zymogenes (nov. spec.), with
-a description of the microorganism. J Exp Med 4: 521–534.
-Macfarlane GT, Cummings JH & Allison C (1986) Protein
-
-intestinal bacterium capable of daidzein and genistein
-conversion. Appl Environ Microbiol 75: 1740–1744.
-
-McDonald IJ & Johnson KG (1975) Nutritional requirements
-
-degradation by human intestinal bacteria. J Gen Microbiol
-132: 1647–1656.
-
-of some non-pathogenic Neisseria grown in simple synthetic
-media. Can J Microbiol 21: 1198–1204.
-
-Macfarlane GT, Allison C, Gibson SA & Cummings JH (1988)
-Contribution of the microﬂora to proteolysis in the human
-large intestine. J Appl Bacteriol 64: 37–46.
-
-Macfarlane S, Furrie E, Cummings JH & Macfarlane GT
-
-(2004) Chemotaxonomic analysis of bacterial populations
-colonizing the rectal mucosa in patients with ulcerative
-colitis. Clin Infect Dis 38: 1690–1699.
-
-MacKay WG, Williams CL, McMillan M, Ndip RN, Shepherd
-AJ & Weaver LT (2003) Evaluation of protocol using gene
-capture and PCR for detection of Helicobacter pylori DNA
-in feces. J Clin Microbiol 41: 4589–4593.
-
-Madan JC, Salari RC, Saxena D et al. (2012) Gut microbial
-
-colonisation in premature neonates predicts neonatal sepsis.
-Arch Dis Child Fetal Neonatal Ed 97: F456–F462.
-
-Magee EA, Richardson CJ, Hughes R & Cummings JH (2000)
-Contribution of dietary protein to sulﬁde production in the
-large intestine: an in vitro and a controlled feeding study in
-humans. Am J Clin Nutr 72: 1488–1494.
-
-Malinen E, Rinttil€a T, Kajander K, M€att€o J, Kassinen A,
-
-Krogius L, Saarela M, Korpela R & Palva A (2005) Analysis
-of the fecal microbiota of irritable bowel syndrome patients
-and healthy controls with real-time PCR. Am J Gastroenterol
-100: 373–382.
-
-Malinen E, Krogius-Kurikka L, Lyra A, Nikkil€a J, J€a€askel€ainen
-A, Rinttil€a T, Vilpponen-Salmela T, von Wright AJ & Palva
-A (2010) Association of symptoms with gastrointestinal
-microbiota in irritable bowel syndrome. World J
-Gastroenterol 16: 4532–4540.
-
-Malnick H (1997) Anaerobiospirillum thomasii sp. nov., an
-anaerobic spiral bacterium isolated from the feces of cats
-and dogs and from diarrheal feces of humans, and
-emendation of the genus Anaerobiospirillum. Int J Syst
-Bacteriol 47: 381–384.
-
-Marchandin H, Teyssier C, Campos J, Jean-Pierre H, Roger F,
-Gay B, Carlier J-P & Jumas-Bilak E (2010) Negativicoccus
-succinicivorans gen. nov., sp. nov., isolated from human
-clinical samples, emended description of the family
-Veillonellaceae and description of Negativicutes classis nov.,
-Selenomonadales ord. nov. and Acidaminococcaceae fam. nov.
-in the bacterial phylum Firmicutes. Int J Syst Evol Microbiol
-60: 1271–1279.
-
-Marcobal A, Barboza M, Erica D, Sonnenburg, et al. (2011)
-
-Bacteroides in the infant gut consume milk oligosaccharides
-via mucus-utilization pathways. Cell Host Microbe 10: 507–
-514.
-
-McLaughlin SD, Walker AW, Churcher C et al. (2010) The
-
-bacteriology of pouchitis: a molecular phylogenetic analysis
-using 16S rRNA gene cloning and sequencing. Ann Surg
-252: 90–98.
-
-M(cid:1)egraud F, B(cid:1)eb(cid:1)ear C, Dabernat H & Delmas C (1988)
-
-Haemophilus species in the human gastrointestinal tract. Eur
-J Clin Microbiol Infect Dis 7: 437–438.
-
-Metchnikoff E (1908) Etude sur la ﬂore intestinale. Ann Inst
-
-Pasteur 22: 929–955.
-
-Mevissen-Verhage EA, Marcelis JH, de Vos MN, Harmsen-van
-
-Amerongen WC & Verhoef J (1987) Biﬁdobacterium,
-Bacteroides, and Clostridium spp. in fecal samples from
-breast-fed and bottle-fed infants with and without iron
-supplement. J Clin Microbiol 25: 285–289.
-
-Miller TL & Wolin MJ (1985) Methanosphaera stadtmanae
-gen. nov., sp. nov.: a species that forms methane by
-reducing methanol with hydrogen. Arch Microbiol 141:
-116–122.
-
-Miller TL & Wolin MJ (1986) Methanogens in human and
-
-animal tracts. Syst Appl Microbiol 7: 223–229.
-
-Mitsuoka T (1990) Biﬁdobacteria and their role in human
-
-health. J Ind Microbiol Biotechnol 6: 263–267.
-
-Mitsuoka T (1992) The human gastrointestinal tract. The
-
-Lactic Acid Bacteria in Health and Disease, Vol. 1 (Wood
-BJB, ed.). pp. 69–114. Elsevier Science Publishers, Ltd.,
-Essex.
-
-Moore WEC & Holdeman LV (1974a) Human fecal ﬂora: the
-normal ﬂora of 20 Japanese-Hawaiians. Appl Microbiol 27:
-961–979.
-
-Moore WEC & Holdeman LV (1974b) Special problems
-
-associated with the isolation and identiﬁcation of intestinal
-bacteria in fecal ﬂora studies. Am J Clin Nutr 27: 1450–1455.
-
-Moore WEC & Moore LH (1995) Intestinal ﬂoras of
-
-populations that have a high risk of colon cancer. Appl
-Environ Microbiol 61: 3202–3207.
-
-Moore WEC, Cato EP & Holdeman LV (1972) Ruminococcus
-
-bromii sp. n. and emendation of the description of
-Ruminococcus Sijpestein. Int J Syst Bacteriol 22: 78–80.
-Moro E (1900) Ueber den Bacillus acidophilus. Jahrb Kinderh
-
-52: 38–55.
-
-Morotomi M, Nagai F, Sakon H & Tanaka R (2009)
-
-Paraprevotella clara gen. nov., sp. nov. and Paraprevotella
-xylaniphila sp. nov., members of the family ‘Prevotellaceae’
-isolated from human faeces. Int J Syst Evol Microbiol 59:
-1895–1900.
-
-Maruo T, Sakamoto M, Ito C, Toda T & Benno Y (2008)
-
-Adlercreutzia equolifaciens gen. nov., sp. nov., an
-equol-producing bacterium isolated from human faeces, and
-
-Morotomi M, Nagai F & Watanabe Y (2012) Description of
-Christensenella minuta gen. nov., sp. nov., isolated from
-human faeces, which forms a distinct branch in the order
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-Cultured human gastrointestinal microbiota
-
-1043
-
-Clostridiales, and proposal of Christensenellaceae fam. nov.
-Int J Syst Evol Microbiol 62: 144–149.
-
-Mukhopadhya I, Hansen R, Nicholl CE et al. (2011) A
-
-comprehensive evaluation of colonic mucosal isolates of
-Sutterella wadsworthensis from inﬂammatory bowel disease.
-PLoS One 6: e27076.
-
-M€uller HE (1986) Occurrence and pathogenic role of
-
-Morganella–Proteus–Providencia group bacteria in human
-feces. J Clin Microbiol 23: 404–405.
-
-Munday PE, Furr PM & Taylor-Robinson D (1981) The
-
-prevalence of Ureaplasma urealyticum and Mycoplasma hominis
-in the cervix and anal canal of women. J Infect 3: 253–257.
-Mungthin M, Subrungruang I, Naaglor T, Aimpun P, Areekul
-
-W & Leelayoova S (2005) Spore shedding pattern of
-Enterocytozoon bieneusi in asymptomatic children. J Med
-Microbiol 54: 473–476.
-
-Murdoch DA & Shah HN (1999) Reclassiﬁcation of
-
-Peptostreptococcus magnus (Prevot 1933) Holdeman and
-Moore 1972 as Finegoldia magna comb. nov. and
-Peptostreptococcus micros (Prevot 1933) Smith 1957 as
-Micromonas micros comb. nov. Anaerobe 5: 555–559.
-Murri M, Leiva I, Gomez-Zumaquero JM, Tinahones F,
-
-Cardona F, Soriguer F & Queipo-Ortuno MI (2013) Gut
-microbiota in children with type 1 diabetes differs from
-that in healthy children: a case–control study. BMC Med
-11: 46.
-
-Nagai F, Morotomi M, Sakon H & Tanaka R (2009)
-
-Parasutterella excrementihominis gen. nov., sp. nov., a
-member of the family Alcaligenaceae isolated from human
-faeces. Int J Syst Evol Microbiol 59: 1793–1797.
-
-Nakayama J, Kobayashi T, Tanaka S, Korenori Y, Tateyama A,
-
-Sakamoto N, Kiyohara C, Shirakawa T & Sonomoto K
-(2011) Aberrant structures of fecal bacterial community in
-allergic infants proﬁled by 16S rRNA gene pyrosequencing.
-FEMS Immunol Med Microbiol 63: 397–406.
-
-S, Sundqvist G & Hoshino E (2000) Description of
-Mogibacterium pumilum gen. nov., sp. nov. and
-Mogibacterium vescum gen. nov., sp. nov., and
-reclassiﬁcation of Eubacterium timidum (Holdeman et al.
-1980) as Mogibacterium timidum gen. nov., comb. nov. Int J
-Syst Evol Microbiol 50: 679–688.
-
-Nam Y-D, Chang H-W, Kim K-H et al. (2008) Bacterial,
-
-archaeal, and eukaryal diversity in the intestines of Korean
-people. J Microbiol 46: 491–501.
-
-Narushima S, Itoh K, Miyamoto Y, Park S-H, Nagata K,
-
-Kuruma K & Uchida K (2006) Deoxycholic acid formation
-in gnotobiotic mice associated with human intestinal
-bacteria. Lipids 41: 835–843.
-
-Negroni A, Costanzo M, Vitali R et al. (2012) Characterization
-of adherent-invasive Escherichia coli isolated from pediatric
-patients with inﬂammatory bowel disease. Inﬂamm Bowel
-Dis 18: 913–924.
-
-Nelson KE, Weinstock GM, Highlander SK et al. (2010) A
-
-catalog of reference genomes from the human microbiome.
-Science 328: 994–999.
-
-Nottingham PM & Hungate RE (1968) Isolation of
-
-methanogenic bacteria from feces of man. J Bacteriol 96:
-2178–2179.
-
-(cid:1)
-O Cu(cid:1)ıv P, Klaassens ES, Smith WJ et al. (2013) Draft genome
-
-sequence of Enterococcus faecalis PC1.1, a candidate
-probiotic strain isolated from human feces. Genome
-Announc 1: e00160–00112.
-
-Obata T, Goto Y, Kunisawa J et al. (2010) Indigenous
-
-opportunistic bacteria inhabit mammalian gut-associated
-lymphoid tissues and share a mucosal antibody-mediated
-symbiosis. P Natl Acad Sci USA 107: 7419–7424.
-
-Oki K, Kudo Y & Watanabe K (2012) Lactobacillus saniviri sp.
-nov. and Lactobacillus senioris sp. nov., isolated from human
-faeces. Int J Syst Evol Microbiol 62: 601–607.
-
-Ott SJ, Musfeldt M, Wenderoth DF, Hampe J, Brant O, Folsch
-
-UR, Timmis KN & Schreiber S (2004) Reduction in
-diversity of the colonic mucosa associated bacterial
-microﬂora in patients with active inﬂammatory bowel
-disease. Gut 53: 685–693.
-
-Ott SJ, K€uhbacher T, Musfeldt M et al. (2008) Fungi and
-
-inﬂammatory bowel diseases: alterations of composition and
-diversity. Scand J Gastroenterol 43: 831–841.
-
-Ou G, Hedberg M, H€orstedt P et al. (2009) Proximal small
-intestinal microbiota and identiﬁcation of rod-shaped
-bacteria associated with childhood celiac disease. Am J
-Gastroenterol 104: 3058–3067.
-
-Ou J, Carbonero F, Zoetendal EG, DeLany JP, Wang M,
-Newton K, Gaskins HR & O’Keefe SJ (2013) Diet,
-microbiota, and microbial metabolites in colon cancer risk
-in rural Africans and African Americans. Am J Clin Nutr 98:
-111–120.
-
-Oxley AP, Lanfranconi MP, W€urdemann D, Ott S, Schreiber S,
-McGenity TJ, Timmis KN & Nogales B (2010) Halophilic
-archaea in the human intestinal mucosa. Environ Microbiol
-12: 2398–2410.
-
-colonization in healthy adults: transient colonization and
-correlation with enterococcal colonization. J Med Microbiol
-53: 167–172.
-
-Paliy O, Kenche H, Abernathy F & Michail S (2009)
-
-High-throughput quantitative analysis of the human
-intestinal microbiota with a phylogenetic microarray. Appl
-Environ Microbiol 75: 3572–3579.
-
-Palmer C, Bik EM, Digiulio DB, Relman DA & Brown PO
-(2007) Development of the human infant intestinal
-microbiota. PLoS Biol 5: e177.
-
-Pandey PK, Verma P, Kumar H, Bavdekar A, Patole MS &
-
-Shouche YS (2012) Comparative analysis of fecal microﬂora
-of healthy full-term Indian infants born with different
-methods of delivery (vaginal vs cesarean): Acinetobacter sp.
-prevalence in vaginally born infants. J Biosci 37: 989–998.
-Parr LE (1923) Intestinal spirochetosis. J Infect Dis 33: 369–
-
-383.
-
-Passini F (1905) Studien uber faulnisserregende anaerobe
-Bakterien des normalen menschlichen Darmes und ihre
-Bedeutung. Z Hyg Infektionskr 49: 135.
-
-Nakazawa F, Sato M, Poco SE, Hashimura T, Ikeda T, Kalfas
-
-Ozaki E, Kato H, Kita H et al. (2004) Clostridium difﬁcile
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-1044
-
-M. Rajili(cid:1)c-Stojanovi(cid:1)c & W.M. de Vos
-
-Qin J, Li Y, Cai Z et al. (2012) A metagenome-wide
-
-Round JL, Lee SM, Li J, Tran G, Jabri B, Chatila TA &
-
-Peris-Bondia F, Latorre A, Artacho A, Moya A & D’Auria G
-(2011) The active human gut microbiota differs from the
-total microbiota. PLoS One 6: e22448.
-
-Petit L, Gibert M & Popoff MR (1999) Clostridium perfringens:
-
-toxinotype and genotype. Trends Microbiol 7: 104.
-
-Petruschky J (1896) Bacillus faecalis alcaligenes (n.sp.). Zentbl
-Bakteriol Parasitenk Infektionskr Hyg Abt I 19: 187–191.
-Pﬂeiderer A, Lagier JC, Armougom F, Robert C, Vialettes B &
-Raoult D (2013) Culturomics identiﬁed 11 new bacterial
-species from a single anorexia nervosa stool sample. Eur J
-Clin Microbiol Infect Dis 32: 1471–1481.
-
-Pitarangsi C, Echeverria P, Whitmire R, Tirapat C, Formal S,
-Dammin GJ & Tingtalapong M (1982) Enteropathogenicity
-of Aeromonas hydrophila and Plesiomonas shigelloides:
-prevalence among individuals with and without diarrhea in
-Thailand. Infect Immun 35: 666–673.
-
-Possemiers S & Verstraete W (2009) Oestrogenicity of
-
-prenylﬂavonoids from hops: activation of pro-oestrogens by
-intestinal bacteria. Environ Microbiol Rep 1: 100–109.
-
-Pruesse E, Quast C, Knittel K, Fuchs BM, Ludwig W, Peplies J
-
-& Gl€ockner FO (2007) SILVA: a comprehensive online
-resource for quality checked and aligned ribosomal RNA
-sequence data compatible with ARB. Nucleic Acids Res 35:
-7188–7196.
-
-Qin J, Li R, Raes J et al. (2010) A human gut microbial gene
-catalogue established by metagenomic sequencing. Nature
-464: 59–65.
-
-association study of gut microbiota in type 2 diabetes.
-Nature 490: 55–60.
-
-Rajili(cid:1)c-Stojanovi(cid:1)c M (2013) Function of the microbiota. Best
-
-Pract Res Clin Gastroenterol 27: 5–16.
-
-Rajili(cid:1)c-Stojanovi(cid:1)c M, Smidt H & de Vos WM (2007) Diversity
-of the human gastrointestinal tract microbiota revisited.
-Environ Microbiol 9: 2125–2136.
-
-Rajili(cid:1)c-Stojanovi(cid:1)c M, de Vos WM & Zoetendal EG (2008) The
-human intestinal microbiota and its impact on human
-health. Accessing Uncultivated Microorganisms: From the
-Environment to Organisms and Genomes and Back (Zengler
-K, ed.), pp. 11–32. ASM Press, Herndon, VA.
-Rajili(cid:1)c-Stojanovi(cid:1)c M, Biagi E, Heilig HG, Kajander K,
-
-Kekkonen RA, Tims S & de Vos WM (2011) Global and
-deep molecular analysis of microbiota signatures in fecal
-samples from patients with irritable bowel syndrome.
-Gastroenterology 141: 1792–1801.
-
-Rajili(cid:1)c-Stojanovi(cid:1)c M, Guarner F, Shanahan F & de Vos WM
-(2013a) Phylogenetic analysis of dysbiosis in ulcerative
-colitis during remission. Inﬂamm Bowel Dis 19: 481–488.
-Rajili(cid:1)c-Stojanovi(cid:1)c M, Heilig HG, Tims S, Zoetendal EG & de
-Vos WM (2013b) Long-term monitoring of the human
-intestinal microbiota composition. Environ Microbiol 15:
-1146–1159.
-
-Rakoff-Nahoum S, Paglino J, Eslami-Varzaneh F, Edberg S &
-Medzhitov R (2004) Recognition of commensal microﬂora
-by toll-like receptors is required for intestinal homeostasis.
-Cell 118: 229–241.
-
-Reuter G (2001) The Lactobacillus and Biﬁdobacterium
-microﬂora of the human intestine: composition and
-succession. Curr Issues Intest Microbiol 2: 43–53.
-
-Rieu-Lesme F, Delb(cid:4)es C & Sollelis L (2005) Recovery of partial
-16S rDNA sequences suggests the presence of Crenarchaeota
-in the human digestive ecosystem. Curr Microbiol 51: 317–
-321.
-
-Ringel-Kulka T, Cheng J, Ringel Y, Saloj€arvi J, Carroll I, Palva
-A, de Vos WM & Satokari R (2013) Intestinal microbiota in
-healthy U.S. young children and adults – a high throughput
-microarray analysis. PLoS One 8: e64315.
-
-Roediger WEW & Macfarlane GT (2002) A role for intestinal
-mycoplasmas in the aetiology of Crohn’s disease? J Appl
-Microbiol 92: 377–381.
-
-Rogosa M (1965) The Genus Veillonella IV. Serological
-
-groupings, and genus and species emendations. J Bacteriol
-90: 704–709.
-
-Rogosa M, Mitchell JA & Wiseman RF (1951) A selective
-
-medium for the isolation and enumeration of oral and fecal
-lactobacilli. J Bacteroil 62: 132–133.
-
-Ron EZ (2006) Host speciﬁcity of septicemic Escherichia coli:
-human and avian pathogens. Curr Opin Microbiol 9: 28.
-
-Roos S, Engstrand L & Jonsson H (2005) Lactobacillus
-
-gastricus sp. nov., Lactobacillus antri sp. nov., Lactobacillus
-kalixensis sp. nov. and Lactobacillus ultunensis sp. nov.,
-isolated from human stomach mucosa. Int J Syst Evol
-Microbiol 55: 77–82.
-
-Mazmanian SK (2011) The toll-like receptor 2 pathway
-establishes colonization by a commensal of the human
-microbiota. Science 332: 974–977.
-
-Sakamoto M, Ohkuma M (2012) Reclassiﬁcation of
-
-Xylanibacter oryzae Ueki et al. 2006 as Prevotella oryzae
-comb. nov., with an emended description of the genus
-Prevotella. Int J Syst Evol Microbiol 62: 2637–2642.
-
-Saklatvala T (1993) Milestones in parasitology. Parasitol Today
-
-9: 347–348.
-
-Salvetti E, Felis GE, Dellaglio F, Castioni A, Torriani S &
-Lawson PA (2011) Reclassiﬁcation of Lactobacillus
-catenaformis (Eggerth 1935) Moore and Holdeman 1970 and
-Lactobacillus vitulinus Sharpe et al. 1973 as Eggerthia
-catenaformis gen. nov., comb. nov. and Kandleria vitulina
-gen. nov., comb. nov., respectively. Int J Syst Evol Microbiol
-61: 2520–2524.
-
-Sanborn AG (1931) The faecal ﬂora of adults, with particular
-attention to individual differences and their relationship to
-the effects of various diets. J Infect Dis 48: 541–569.
-
-Santelmann H & Howard JM (2005) Yeast metabolic products,
-yeast antigens and yeasts as possible triggers for irritable
-bowel syndrome. Eur J Gastroenterol Hapatol 17: 21–26.
-Satokari RM, Vaughan EE, Akkermans ADL, Saarela M & de
-Vos WM (2001) Biﬁdobacterial diversity in human feces
-detected by genus-speciﬁc PCR and denaturing gradient gel
-electrophoresis. Appl Environ Microbiol 67: 504–513.
-
-Saulnier DM, Riehle K, Mistretta T-A et al. (2011)
-
-Gastrointestinal microbiome signatures of pediatric patients
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-Cultured human gastrointestinal microbiota
-
-1045
-
-with irritable bowel syndrome. Gastroenterology 141: 1782–
-1791.
-
-Savini V, Catavitello C, Masciarelli G, Astolﬁ D, Balbinot A,
-Bianco A, Febbo F, D’Amario C & D’Antonio D (2010)
-Drug sensitivity and clinical impact of members of the
-genus Kocuria. J Med Microbiol 59: 1395–1402.
-
-Scanlan PD & Marchesi JR (2008) Micro-eukaryotic diversity
-of the human distal gut microbiota: qualitative assessment
-using culture-dependent and -independent analysis of faeces.
-ISME J 2: 1183–1193.
-
-Scardovi V & Trovatelli LD (1974) Biﬁdobacterium animalis
-(Mitsuoka) comb. nov. and the ‘minimum’ and ‘subtile’
-groups of new biﬁdobacteria found in sewage. Int J Syst Evol
-Microbiol 24: 21–28.
-
-Schnorr SL, Candela M, Rampelli S et al. (2014) Gut microbiome
-
-of the Hadza hunter-gatherers. Nat Commun 5: 3654.
-Schulze J & Sonnenborn U (2009) Yeasts in the gut: from
-commensals to infectious agents. Dtsch Arztebl Int 106:
-837–842.
-
-Shen Q, Chen YA & Tuohy KM (2010) A comparative in vitro
-investigation into the effects of cooked meats on the human
-faecal microbiota. Anaerobe 16: 572–577.
-
-Sherman JM (1938) The enterococci and related streptococci. J
-
-Bacteriol 35: 81–93.
-
-Shulman ST, Friedmann HC & Sims RH (2007) Theodor
-
-Escherich: the ﬁrst pediatric infectious diseases physician?
-Clin Infect Dis 45: 1025–1029.
-
-Sibartie S, Scully P, Keohane J, O’Neill S, O’Mahony J,
-
-O’Hanlon D, Kirwan WO, O’Mahony L & Shanahan F
-(2010) Mycobacterium avium subsp. paratuberculosis (MAP)
-as a modifying factor in Crohn’s disease. Inﬂamm Bowel Dis
-16: 296–304.
-
-Simon GL & Gorbach SL (1984) Intestinal ﬂora in health and
-
-disease. Gastroenterology 86: 174–193.
-
-Simon GL & Gorbach SL (1986) The human intestinal
-
-microﬂora. Dig Dis Sci 31: 147S–162S.
-
-Smidt H & de Vos WM (2004) Anaerobic microbial
-dehalogenation. Annu Rev Microbiol 58: 43–73.
-Sokol H, Seksik P, Rigottier-Gois L, Lay C, Lepage P,
-
-Podglajen I, Marteau P & Dor(cid:1)e J (2006) Speciﬁcities of the
-fecal microbiota in inﬂammatory bowel disease. Inﬂamm
-Bowel Dis 12: 106–111.
-
-Sokol H, Pigneur B, Watterlot L et al. (2008) Faecalibacterium
-prausnitzii is an anti-inﬂammatory commensal bacterium
-identiﬁed by gut microbiota analysis of Crohn disease
-patients. P Natl Acad Sci USA 105: 16731–16736.
-
-Sol(cid:1)ıs G, de los Reyes-Gavilan CG, Fern(cid:1)andez N, Margolles A &
-Gueimonde M (2010) Establishment and development of
-lactic acid bacteria and biﬁdobacteria microbiota in
-breast-milk and the infant gut. Anaerobe 16: 307–310.
-Song KB, Atkinson C, Frankenfeld CL, Jokela T, W€ah€al€a K,
-Thomas WK & Lampe JW (2006) Prevalence of daidzein-
-metabolizing phenotypes differs between Caucasian and
-Korean American women and girls. J Nutr 136: 1347–1351.
-
-Spencer MD, Hamp TJ, Reid RW, Fischer LM, Zeisel SH &
-Fodor AA (2011) Association between composition of the
-
-human gastrointestinal microbiome and development of
-fatty liver with choline deﬁciency. Gastroenterology 140:
-976–986.
-
-Spiller R & Garsed K (2009) Postinfectious irritable bowel
-
-syndrome. Gastroenterology 136: 1979–1988.
-
-Stackebrandt E, Kramer I, Swiderski J & Hippe H (1999)
-
-Phylogenetic basis for a taxonomic dissection of the genus
-Clostridium. FEMS Immunol Med Microbiol 24: 253–258.
-Standaert-Vitse A, Sendi B, Joossens M et al. (2009) Candida
-albicans colonization and ASCA in familial Crohn’s disease.
-Am J Gastroenterol 104: 1745–1753.
-
-Stearns JC, Lynch MDJ, Senadheera DB, Tenenbaum HC,
-
-Goldberg MB, Cvitkovitch DG, Croitoru K,
-Moreno-Hagelsieb G & Neufelda JD (2011) Bacterial
-biogeography of the human digestive tract. Sci Rep 1: 170.
-Suau A, Bonnet R, Sutren M, Godon J-J, Gibson GR, Collins
-MD & Dor(cid:1)e J (1999) Direct analysis of genes encoding 16S
-rRNA from complex communities reveals many novel
-molecular species within the human gut. Appl Environ
-Microbiol 65: 4799–4807.
-
-Swidsinski A, D€orffel Y, Loening-Baucke V et al. (2011) Acute
-
-appendicitis is characterised by local invasion with
-Fusobacterium nucleatum/necrophorum. Gut 60: 34–40.
-Tamura H, Yamashita S, Kusano N, Suzuki C, Yamaguchi Y,
-Tanigawa K, Masuhara M, Okita K & Murakami F (1988)
-Fulminant hepatitis complicated by small intestine infection
-and massive hemorrhage. J Gastroenterol 33: 412–418.
-Tana C, Umesaki Y, Imaoka A, Handa T, Kanazawa M &
-
-Fukudo S (2010) Altered proﬁles of intestinal microbiota
-and organic acids may be the origin of symptoms in
-irritable bowel syndrome. Neurogastroenterol Motil 22: 512–
-519.
-
-Tandon BN, Tandon RK, Satpathy BK & Shriniwas (1977)
-Mechanism of malabsorption in giardiasis: a study of
-bacterial ﬂora and bile salt deconjugation in upper jejunum.
-Gut 18: 176–181.
-
-Tannock GW (1995) Normal Microﬂora: An Introduction to
-Microbes Inhabiting the Human Body. Charpman & Hill,
-London.
-
-Tannock GW (1999) Analysis of the intestinal microﬂora: a
-renaissance. Antonie Van Leeuwenhoek 76: 265–278.
-
-Tannock GW (2004) A special fondness for lactobacilli. Appl
-
-Environ Microbiol 70: 3189–3194.
-
-Tannock GW, Lawley B, Munro K et al. (2013) Comparison of
-the compositions of the stool microbiotas of infants fed
-goat milk formula, cow milk-based formula, or breast milk.
-Appl Environ Microbiol 79: 3040–3048.
-
-Tap J, Mondot S, Levenez F et al. (2009) Towards the human
-intestinal microbiota phylogenetic core. Environ Microbiol
-11: 2574–2584.
-
-Taras D, Simmering R, Collins MD, Lawson PA & Blaut M
-(2002) Reclassiﬁcation of Eubacterium formicigenerans
-Holdeman and Moore 1974 as Dorea formicigenerans gen.
-nov., comb. nov., and description of Dorea longicatena sp.
-nov., isolated from human faeces. Int J Syst Evol Microbiol
-52: 423–428.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-1046
-
-M. Rajili(cid:1)c-Stojanovi(cid:1)c & W.M. de Vos
-
-Tito RY, Knights D, Metcalf J et al. (2012) Insights from
-
-Walker AW, Ince J, Duncan SH et al. (2011) Dominant and
-
-Taylor GR, Kropp KD & Molina TC (1985) Nine-year
-
-microﬂora study of an isolator-maintained immunodeﬁcient
-child. Appl Environ Microbiol 50: 1349–1356.
-
-Thielman NM & Guerrant RL (2004) Clinical practice: acute
-
-infectious diarrhea. N Engl J Med 350: 38–47.
-
-Thompson-Chagoyan OC, Fallani M, Maldonado J, Vieites JM,
-
-Khanna S, Edwards C, Dor(cid:1)e J & Gil A (2011) Faecal
-microbiota and short-chain fatty acid levels in faeces from
-infants with cow’s milk protein allergy. Int Arch Allergy
-Immunol 156: 325–332.
-
-Tindall BJ & Euzeby JP (2006) Proposal of Parvimonas gen.
-
-nov. and Quatrionicoccus gen. nov. as replacements for the
-illegitimate, prokaryotic, generic names Micromonas
-Murdoch and Shah 2000 and Quadricoccus Maszenan et al.
-2002, respectively. Int J Syst Evol Microbiol 56: 2711–2713.
-Tissier MH (1900) Recherches sur la ﬂore intestinale normale et
-pathologique du nourrisson. Medicine. Universit(cid:1)e de Paris,
-Paris.
-
-Tissier MH (1908) Recherches sur la ﬂore intestinale normale
-des enfants ages d(cid:1)un an a cin. ans. Ann Inst Pasteur 22:
-189–207.
-
-characterizing extinct human gut microbiomes. PLoS One 7:
-e51146.
-
-Turnbaugh PJ, Ley RE, Mahowald MA, Magrini V, Mardis ER
-& Gordon JI (2006) An obesity-associated gut microbiome
-with increased capacity for energy harvest. Nature 444:
-1027–1031.
-
-Turnbaugh PJ, Ridaura VK, Faith JJ, Rey FE, Knight R &
-Gordon JI (2009) The effect of diet on the human gut
-microbiome: a metagenomic analysis in humanized
-gnotobiotic mice. Sci Transl Med 1: 6ra14.
-
-van Baarlen P, Troost FJ, van Hemert S, van der Meer C, de
-Vos WM, de Groot PJ, Hooiveld GJ, Brummer R-JM &
-Kleerebezem M (2009) Differential NF-jB pathways
-induction by Lactobacillus plantarum in the duodenum of
-healthy humans correlating with immune tolerance. P Natl
-Acad Sci USA 106: 2371–2376.
-
-van de Pas BA, Harmsen HJ, Raangs GC, de Vos WM, Schraa
-G & Stams AJ (2001) A Desulﬁtobacterium strain isolated
-from human feces that does not dechlorinate chloroethenes
-or chlorophenols. Arch Microbiol 176: 391–392.
-
-van den Bogert B, de Vos WM, Zoetendal EG & Kleerebezem
-M (2011) Microarray analysis and barcoded pyrosequencing
-provide consistent microbial proﬁles depending on the
-source of human intestinal samples. Appl Environ Microbiol
-77: 2071–2080.
-
-Van Eldere JR, De Pauw G & Eyssen HJ (1987) Steroid
-
-sulfatase activity in a Peptococcus niger strain from the
-human intestinal microﬂora. Appl Environ Microbiol 53:
-1655–1660.
-
-van Passel MWJ, Kant R, Palva A et al. (2011) Genome
-sequence of Victivallis vadensis ATCC BAA-548, an
-anaerobic bacterium from the phylum Lentisphaerae,
-isolated from the human gastrointestinal tract. J Bacteriol
-193: 2373–2374.
-
-Vandamme P, Falsen E, Rossau R, Hoste B, Segers P, Tytgat R
-& De Ley J (1991) Revision of Campylobacter, Helicobacter,
-and Wolinella taxonomy: emendation of generic descriptions
-and proposal of Arcobacter gen. nov. Int J Syst Bacteriol 41:
-88–103.
-
-Veillon A & Zuber A (1898) Recherches sur quelques microbes
-strictement anaerobies et leur role en pathologie. Arch Med
-Exp Anat Pathol 10: 517–545.
-
-Veron M & Chatelain R (1973) Taxonomic study of the genus
-Campylobacter Sebald and Veron and designation of the
-neotype strain for the type species Campylobacter fetus
-(Smith and Taylor) Sebald and Veron. Int J Syst Bacteriol
-23: 122–134.
-
-Vigsnæs LK, Brynskov J, Steenholdt C, Wilcks A & Licht
-TR (2012) Gram-negative bacteria account for main
-differences between faecal microbiota from patients with
-ulcerative colitis and healthy controls. Benef Microbes 3:
-287–297.
-
-Vipperla K & O’Keefe SJ (2012) The microbiota and its
-
-metabolites in colonic mucosal health and cancer risk. Nutr
-Clin Pract 27: 624–635.
-
-diet-responsive groups of bacteria within the human colonic
-microbiota. ISME J 5: 220–230.
-
-Wang M, Ahrne S, Jeppsson B & Molin G (2005) Comparison
-of bacterial diversity along the human intestinal tract by
-direct cloning and sequencing of 16S rRNA genes. FEMS
-Microbiol Ecol 54: 219–231.
-
-Wang L, Christophersen CT, Sorich MJ, Gerber JP, Angley MT
-
-& Conlon MA (2011a) Low relative abundances of the
-mucolytic bacterium Akkermansia muciniphila and
-Biﬁdobacterium spp. in feces of children with autism. Appl
-Environ Microbiol 77: 6718–6721.
-
-Wang Z, Klipfell E, Bennett BJ et al. (2011b) Gut ﬂora
-
-metabolism of phosphatidylcholine promotes cardiovascular
-disease. Nature 472: 57–63.
-
-Wang T, Cai G, Qiu Y, Fei N, Zhang M, Pang X, Jia W, Cai S
-& Zhao L (2012) Structural segregation of gut microbiota
-between colorectal cancer patients and healthy volunteers.
-ISME J 6: 320–329.
-
-Weber R, Sauer B, Spycher MA, Deplazes P, Keller R,
-
-Ammann R, Briner J & L€uthy R (1994) Detection of Septata
-intestinalis in stool specimens and coprodiagnostic
-monitoring of successful treatment with albendazole. Clin
-Infect Dis 19: 342–345.
-
-Wei B, Huang T, Dalwadi H, Sutton CL, Bruckner D & Braun
-
-J (2002) Pseudomonas ﬂuorescens encodes the Crohn’s
-disease-associated I2 sequence and T-Cell superantigen.
-Infect Immun 70: 6567–6575.
-
-Welch WH & Nuttall GHF (1892) A gas producing bacillus
-(Bacillus aerogenes capsulatus, nov. spec.) capable of rapid
-development in the blood vessels after death. Bull Johns
-Hopkins Hosp, 3: 81.
-
-Werner JJ, Koren O, Hugenholtz P, DeSantis TZ, Walters
-WA, Caporaso JG, Angenent LT, Knight R & Ley RE
-(2012) Impact of training sets on classiﬁcation of
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-Cultured human gastrointestinal microbiota
-
-1047
-
-high-throughput bacterial 16s rRNA gene surveys. ISME J
-6: 94–103.
-
-Westerman LJ, Stel HV, Schipper MEI et al. (2012)
-
-Development of a real-time PCR for identiﬁcation of
-Brachyspira species in human colonic biopsies. PLoS One 7:
-e52281.
-
-Wichro E, Hoelzl D, Krause R, Bertha G, Reinthaler F &
-Wenisch C (2005) Microsporidiosis in travel-associated
-chronic diarrhea in immune-competent patients. Am J Trop
-Med Hyg 73: 285–287.
-
-Wilkins TD, Moore WEC, West SEH & Holdeman LV (1975)
-
-Peptococcus niger (Hall) Kluyver and van Niel 1936:
-emendation of description and designation of neotype
-strain. Int J Syst Bacteriol 25: 47–49.
-
-Willems A & Collins MD (1996) Phylogenetic relationships of
-the genera Acetobacterium and Eubacterium sensu stricto and
-reclassiﬁcation of Eubacterium alactolyticum as
-Pseudoramibacter alactolyticus gen. nov., comb. nov. Int J
-Syst Bacteriol 46: 1083–1087.
-
-Williams BL, Hornig M, Parekh T & Lipkin WI (2012)
-
-Application of novel PCR-based methods for detection,
-quantitation, and phylogenetic characterization of Sutterella
-species in intestinal biopsy samples from children with autism
-and gastrointestinal disturbances. mBio 3: e00261–00211.
-Wilson KH & Blitchington RB (1996) Human colonic biota
-
-studied by ribosomal DNA sequence analysis. Appl Environ
-Microbiol 62: 2273–2278.
-
-Wingender G, Stepniak D, Krebs P, Lin L, McBride S, Wei B,
-Braun J, Mazmanian SK & Kronenberg M (2012) Intestinal
-microbes affect phenotypes and functions of invariant
-natural killer T cells in mice. Gastroenterology 143: 418–428.
-
-Woese CR, Kandler O & Wheelis ML (1990) Towards a natural
-system of organisms: proposal for the domains Archaea,
-Bacteria, and Eucarya. P Natl Acad Sci USA 87: 4576–4579.
-Wolfe MS (1992) Giardiasis. Clin Microbiol Rev 5: 93–100.
-Wu C-C, Johnson JL, Moore WEC & Moore LVH (1992)
-Emended descriptions of Prevotella denticola, Prevotella
-loescheii, Prevotella veroralis, and Prevotella melaninogenica.
-Int J Syst Bacteriol 42: 536–541.
-
-Wu L, Estrada O, Zaborina O et al. (2005) Recognition of
-
-host immune activation by Pseudomonas aeruginosa. Science
-309: 774–777.
-
-Yarza P, Richter M, Peplies J, Euzeby J, Amann R, Schleifer
-K-H, Ludwig W, Gl€ockner FO & Rossell(cid:1)o-M(cid:1)ora R (2008)
-The all-species living tree project: a 16S rRNA-based
-phylogenetic tree of all sequenced type strains. Syst Appl
-Microbiol 31: 241–250.
-
-Yatsunenko T, Rey FE, Manary MJ et al. (2012) Human gut
-microbiome viewed across age and geography. Nature 486:
-222–227.
-
-Yokoyama S & Suzuki T (2008) Isolation and characterization
-of a novel equol-producing bacterium from human feces.
-Biosci Biotechnol Biochem 72: 2660–2666.
-
-Yuan J-P, Wang J-H & Liu X (2007) Metabolism of dietary
-soy isoﬂavones to equol by human intestinal microﬂora –
-implications for health. Mol Nutr Food Res 51: 765–781.
-
-Zaborina O, Kohler J, Wang Y, Bethel C, Shevchenko O, Wu
-L, Turner J & Alverdy J (2006) Identiﬁcation of multi-drug
-resistant Pseudomonas aeruginosa clinical isolates that are
-highly disruptive to the intestinal epithelial barrier. Ann Clin
-Microbiol Antimicrob 5: 14.
-
-Zamakhchari M, Wei G, Dewhirst F, Lee J, Schuppan D,
-Oppenheim FG & Helmerhorst EJ (2011) Identiﬁcation
-of Rothia bacteria as gluten-degrading natural colonizers
-ofthe upper gastro-intestinal tract. PLoS One 6: e24455.
-Zierdt CH (1991) Blastocystis hominis–past and future. Clin
-
-Microbiol Rev 4: 61–79.
-
-Zoetendal EG, Akkermans AD & de Vos WM (1998)
-
-Temperature gradient gel electrophoresis analysis of 16S
-rRNA from human fecal samples reveals stable and
-host-speciﬁc communities of active bacteria. Appl Environ
-Microbiol 64: 3854–3859.
-
-Zoetendal EG, Akkermans AD, Akkermans-van Vliet WM,
-
-de Visser AJGM & de Vos WM (2001) The host
-genotype affects the bacterial community in the
-human gastrointestinal tract. Microb Ecol Health Dis 13:
-129–134.
-
-Zoetendal EG, Ben-Amor K, Harmsen HJM, Schut F,
-
-Akkermans ADL & de Vos WM (2002) Quantiﬁcation of
-uncultured Ruminococcus obeum-like bacteria in human
-fecal samples by ﬂuorescent In situ hybridization and ﬂow
-cytometry using 16S rRNA-targeted probes. Appl Environ
-Microbiol 68: 4225–4232.
-
-Zoetendal EG, Plugge CM, Akkermans ADL & de Vos WM
-
-(2003) Victivallis vadensis gen. nov., sp. nov., a
-sugar-fermenting anaerobe from human faeces. Int J Syst
-Evol Microbiol 53: 211–215.
-
-Zoetendal EG, Rajili(cid:1)c-Stojanovi(cid:1)c M, de Vos M (2008)
-
-High-throughput diversity and functionality analysis of the
-gastrointestinal tract microbiota. Gut 57: 1605–1615.
-
-Zoetendal EG, Raes J, van den Bogert B et al. (2012) The human
-small intestinal microbiota is driven by rapid uptake and
-conversion of simple carbohydrates. ISME J 6: 1415–1426.
-
-Supporting Information
-
-Additional Supporting Information may be found in the
-online version of this article:
-
-Table S1. List of bacterial species that can be members of
-the human gastrointestinal microbiota, with a reference
-that provides the link between the species and gastroin-
-testinal tract as ecological niche.
-Table S2. List of archaeal species that can be members of
-the human gastrointestinal microbiota, with a reference
-that provides the link between the species and gastroin-
-testinal tract as ecological niche.
-Table S3. List of eukaryal species that can be members of
-the human gastrointestinal microbiota, with a reference
-that provides the link between the species and gastroin-
-testinal tract as ecological niche.
-
-FEMS Microbiol Rev 38 (2014) 996–1047
-
-ª 2014 The Authors. FEMS Microbiology Reviews
-published by John Wiley & Sons Ltd on behalf of Federation of European Microbiological Societies.
-
-

@@ -16,7 +16,7 @@ Yes
 
 SPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 Table 1. Similarities and differences in the anatomy of the mouse and human gastrointestinal tract  
 
@@ -131,7 +131,7 @@ intestine:colon  is  only  18  in  mice  compared  to  400  in  humans
 (Casteleyn et al., 2010). The mouse cecum is also large relative to
 its total gastrointestinal (GI) tract and is an important site for the
 fermentation  of  plant  materials  as  well  as  for  the  production  of
-vitamin K and B, which mice reabsorb through coprophagy (Fig. 1).
+vitamin K and B, which mice reabsorb through coprophagy .
 By  contrast,  the  human  cecum  is  relatively  small,  with  an
 anatomical structure similar to that of the colon and does not hold a
 clear function (Treuting and Dintzis, 2012). These morphological
@@ -140,7 +140,7 @@ cecum  capacity,  allowing  them  to  extract  nutrients  from  the
 relatively larger proportion of indigestible food components in their
 diet, as compared with humans. Humans also have an appendix,
 which  is  absent  in  mice.  The  appendix  is  a  vermiform  organ
-attached to the cecum (Fig. 1) and was hypothesized to be a remnant
+attached to the cecum  and was hypothesized to be a remnant
 of the cecum under selective pressure of diet. However, the organ
 has  recently  been  shown  to  have  evolved  under  multiple
 environmental  factors  beyond  diet  (Smith  et  al.,  2013b).  The
@@ -148,7 +148,7 @@ appendix has also been suggested to act as a repository for beneficial
 bacteria to replenish the gut microbiota after disturbances (Smith et
 al., 2013b).
 
-Mouse intestinal villi are taller than those of human (Fig. 2). This
+Mouse intestinal villi are taller than those of human . This
 morphological difference increases the surface area of the mouse
 
 2
@@ -179,7 +179,7 @@ mucosal wall. Another difference is the presence of transverse folds
 along the length of the colonic mucosa in humans, whereas these
 folds are restricted to the cecum and proximal colon in mice. These
 
-Disease Models & MechanismsDisease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & MechanismsDisease Models & Mechanisms 
 
 Human
 
@@ -212,7 +212,7 @@ MM
 C
 
 Fig. 2. Anatomical structures of the intestinal wall in mice and in
-humans. A and B are taken at the same magnification (20×) and show a
+humans. A and B are taken at the same magnification and show a
 section of the small intestinal wall in mice (A) and humans (B), illustrating that
 mouse intestinal villi (A) are taller than those in humans (B). C, intestinal
 crypts; G, goblet cells; L, lamina propria; MM, muscularis mucosae; P,
@@ -234,7 +234,7 @@ cecum and colon and relatively longer small intestine as compared
 to the murine system. In mice, fermentation of indigestible food
 components  is  compartmentalized  in  the  cecum,  whereas,  in
 humans, fermentation takes place in the colon, and the cecum is
-vestigial (Fig. 1). The morphology of mouse and human colons also
+vestigial . The morphology of mouse and human colons also
 differs: the human colon is divided into haustra, whereas the mouse
 colon is rather smooth. Cells that are essential to intestinal integrity
 and host-microbiota equilibrium, such as goblet and Paneth cells,
@@ -352,7 +352,7 @@ were  also  reported  to  be  different  between  mice  and  humans
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 Box 1. Glossary of scientific terms
 Adiponectin: a protein involved in regulating glucose level and fatty-acid
@@ -403,7 +403,7 @@ et  al.,  2013;  Ward  et  al.,  2012;  Zenewicz  et  al.,  2013),  although
 metagenomic analysis has also begun to be used in mouse studies
 (Wang et al., 2014). Here, we compare the composition of mouse
 and  human  gut  microbiota  based  on  all  currently  available  16S
-rDNA sequenced data from fecal samples of healthy adults (Fig. 3).
+rDNA sequenced data from fecal samples of healthy adults .
 Considering the restrictions referred to previously, the analysis is
 based on a limited number of samples: five murine fecal 16S rDNA
 studies  (Nagy-Szakal  et  al.,  2012;  Riboulet-Bisson  et  al.,  2012;
@@ -444,7 +444,7 @@ are always present in each individual gut microbiota (intersection set
 of genera across samples). The comparative analysis of six mouse gut
 microbiota  datasets  (Cho  et  al.,  2012;  Nagy-Szakal  et  al.,  2012;
 Riboulet-Bisson et al., 2012; Ubeda et al., 2013; Ward et al., 2012;
-Zenewicz et al., 2013) (Fig. 3B; supplementary material Table S2)
+Zenewicz et al., 2013) 
 shows  that  the  core  mouse  gut  microbiota  plateaus  down  to  four
 genera [note that this number increases to 13 genera if we exclude the
 limited Zenewicz’s dataset (Zenewicz et al., 2013), which overlaps
@@ -467,7 +467,7 @@ sequencing depth in these first datasets.
 
 The total set of genera found across the six mouse gut microbiota
 datasets  previously  referred  to  (pan-gut  microbiota:  union  set  of
-genera across samples) cumulates to 352 genera (Fig. 3B), of which
+genera across samples) cumulates to 352 genera , of which
 only 44 are found in more than three mouse gut microbiota datasets.
 This number is higher than the one observed in humans: the overall
 stool microbiota richness (i.e. the number of different genera in the
@@ -490,7 +490,7 @@ from Ward (Ward et al., 2012), Riboulet-Bisson (Riboulet-Bisson et
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 Increased in mouse GM
 
@@ -666,7 +666,7 @@ observed at the level of specific genus/species abundances between
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 the murine and human gut microbiota. The observed differences
 might  be  caused  by  intrinsic  differences  between  these  two
@@ -802,7 +802,7 @@ shown to produce a higher level of monosaccharides and SCFAs,
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 which  supply  the  host  with  extra  energy  from  indigestible  food
 components,  as  compared  with 
@@ -869,7 +869,7 @@ which  cause  the  initial  damage  that  leads  to  chronic  intestinal
 inflammation  (Peloquin  and  Nguyen,  2013;  Wirtz  et  al.,  2007).
 However, most mouse models of colitis do not fully recapitulate the
 pathophysiology of human IBD and generally only cause colonic
-inflammation (Fig. 4), which is more similar to ulcerative colitis
+inflammation , which is more similar to ulcerative colitis
 (reviewed in Wirtz and Neurath, 2007 and discussed further below).
 Despite this, the major gut microbiota shifts that have been observed
 in  different  colitis  mouse  models  are  similar  to  those  found  in
@@ -980,7 +980,7 @@ propria; ME, muscularis externa; MM, muscularis mucosae; MT: muscularis tunics; 
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 (Escherichia), Bacteroidaceae (Bacteroides) and Ruminococcaceae
 (Berry et al., 2012; Lupp et al., 2007; Wohlgemuth et al., 2009).
@@ -1114,7 +1114,7 @@ composition  have  been  found  to  follow  changes  in  the  estrogen
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 Box 2. Advantages and limitations of mouse models used in gut microbiota research
 
@@ -1254,7 +1254,7 @@ wild  mice,  or  genetically  modified  models  from  multiple  mouse
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 strains, in order to partially mimic the genetic diversity of the human
 population. Another advantage of this approach is that the maternal
@@ -1456,7 +1456,7 @@ Farooqi et al., 1999
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 most of the models show inflammation/lesions in the large, instead of
 the small, intestine, which more closely resembles ulcerative colitis
@@ -1590,7 +1590,7 @@ closely reflect the gut microbiota of human donors (Wos-Oxley et
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 al., 2012). Specifically, humanized rat models have a more similar
 Firmicutes:Bacteroidetes ratio to human donors and could represent
@@ -1622,7 +1622,7 @@ period.  More  recently,  another  study  employed  metagenomic
 approaches to compare the gut microbiota composition of humans
 and guinea pigs (Hildebrand et al., 2012). The study revealed that
 humans  and  guinea  pigs  share  dominant  bacterial  phyla,  but  the
-abundance  of  these  common  phyla  (22  out  of  26  phyla)  is
+abundance  of  these  common  phyla   is
 significantly  higher  in  guinea  pigs  as  compared  to  humans.  In
 addition, significant differences in abundance were found across 320
 out of 376 genera. Functional categories, such as metabolism or cell
@@ -1727,7 +1727,7 @@ well-set-up standardized mouse house facilities throughout labs in
 
 Disease Models & MechanismsSPECIAL ARTICLE
 
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
+Disease Models & Mechanisms 
 
 the world, conducting experiments on mouse models, even germ-
 free ones, can be more easily achieved than with other models.
@@ -1781,712 +1781,4 @@ and Technology (IWT), and the FP7 MetaCardis project (HEALTH-F4-2012-
 
 Supplementary material
 Supplementary material available online at
-http://dmm.biologists.org/lookup/suppl/doi:10.1242/dmm.017400/-/DC1
-
-References
-Akaza, H. (2012).  Prostate  cancer  chemoprevention  by  soy  isoflavones:  role  of
-
-intestinal bacteria as the “second human genome”. Cancer Sci. 103, 969-975. 
-
-Alpert, C., Sczesny, S., Gruhl, B. and Blaut, M. (2008).  Long-term  stability  of  the
-human gut microbiota in two different rat strains. Curr. Issues Mol. Biol. 10, 17-24.
-Andoh, A., Kuzuoka, H., Tsujikawa, T., Nakamura, S., Hirai, F., Suzuki, Y., Matsui,
-T., Fujiyama, Y. and Matsumoto, T. (2012). Multicenter analysis of fecal microbiota
-profiles in Japanese patients with Crohn’s disease. J. Gastroenterol. 47, 1298-1307. 
-Arumugam, M., Raes, J., Pelletier, E., Le  Paslier, D., Yamada, T., Mende, D.  R.,
-Fernandes, G.  R., Tap, J., Bruls, T., Batto, J.-M. et  al.; MetaHIT  Consortium
-(2011). Enterotypes of the human gut microbiome. Nature 473, 174-180. 
-
-Bäckhed, F., Manchester, J.  K., Semenkovich, C.  F. and Gordon, J.  I. (2007).
-Mechanisms  underlying  the  resistance  to  diet-induced  obesity  in  germ-free  mice.
-Proc. Natl. Acad. Sci. USA 104, 979-984. 
-
-Barnett, M. and Fraser, A. (2011). Animal models of colitis: lessons learned, and their
-relevance  to  the  clinic.  In  Ulcerative  Colitis  –  Treatments,  Special  Populations  and
-the Future (ed. Dr M. O’Connor). Rijeka, Croatia: InTech. 
-
-Benson, A. K., Kelly, S. A., Legge, R., Ma, F., Low, S. J., Kim, J., Zhang, M., Oh, P.
-L., Nehrenberg, D., Hua, K. et al. (2010). Individuality in gut microbiota composition
-is  a  complex  polygenic  trait  shaped  by  multiple  environmental  and  host  genetic
-factors. Proc. Natl. Acad. Sci. USA 107, 18933-18938. 
-
-Bercik, P., Collins, S.  M. and Verdu, E.  F. (2012).  Microbes  and  the  gut-brain  axis.
-
-Neurogastroenterol. Motil. 24, 405-413. 
-
-Berry, D., Schwab, C., Milinovich, G., Reichert, J., Ben Mahfoudh, K., Decker, T.,
-Engel, M., Hai, B., Hainzl, E., Heider, S. et  al. (2012).  Phylotype-level  16S  rRNA
-analysis reveals new bacterial indicators of health state in acute murine colitis. ISME
-J. 6, 2091-2106. 
-
-Blanchard, R. J., Blanchard, D. C., Agullana, R. and Weiss, S. M. (1991). Twenty-
-two kHz alarm cries to presentation of a predator, by laboratory rats living in visible
-burrow systems. Physiol. Behav. 50, 967-972. 
-
-Boismenu, R. and Chen, Y. (2000). Insights from mouse models of colitis. J. Leukoc.
-
-Biol. 67, 267-278.
-
-Brinkman, B.  M., Hildebrand, F., Kubica, M., Goosens, D., Del  Favero, J.,
-Declercq, W., Raes, J. and Vandenabeele, P. (2011). Caspase deficiency alters the
-murine gut microbiome. Cell Death Dis. 2, e220. 
-
-Brinkman, B. M., Becker, A., Ayiseh, R. B., Hildebrand, F., Raes, J., Huys, G. and
-Vandenabeele, P. (2013).  Gut  microbiota  affects  sensitivity  to  acute  DSS-induced
-colitis independently of host genotype. Inflamm. Bowel Dis. 19, 2560-2567. 
-
-Büchler, G., Wos-Oxley, M.  L., Smoczek, A., Zschemisch, N.-H., Neumann, D.,
-Pieper, D.  H., Hedrich, H.  J. and Bleich, A.
-(2012).  Strain-specific  colitis
-susceptibility  in  IL10-deficient  mice  depends  on  complex  gut  microbiota-host
-interactions. Inflamm. Bowel Dis. 18, 943-954. 
-
-Burisch, J., Jess, T., Martinato, M., Lakatos, P.  L.; ECCO  -EpiCom (2013).  The
-
-burden of inflammatory bowel disease in Europe. J. Crohn’s Colitis 7, 322-337. 
-
-Casteleyn, C., Rekecki, A., Van der Aa, A., Simoens, P. and Van den Broeck, W.
-(2010). Surface area assessment of the murine intestinal tract as a prerequisite for
-oral dose translation from mouse to man. Lab. Anim. 44, 176-183. 
-
-Catrysse, L., Vereecke, L., Beyaert, R. and van Loo, G. (2014). A20 in inflammation
-
-and autoimmunity. Trends Immunol. 35, 22-31. 
-
-Cho, I., Yamanishi, S., Cox, L., Methé, B. A., Zavadil, J., Li, K., Gao, Z., Mahana,
-D., Raju, K., Teitler, I. et al. (2012). Antibiotics in early life alter the murine colonic
-microbiome and adiposity. Nature 488, 621-626. 
-
-Chung, H., Pamp, S.  J., Hill, J.  A., Surana, N.  K., Edelman, S.  M., Troy, E.  B.,
-Reading, N. C., Villablanca, E. J., Wang, S., Mora, J. R. et al. (2012). Gut immune
-maturation depends on colonization with a host-specific microbiota. Cell 149, 1578-
-1593. 
-
-Cotillard, A., Kennedy, S.  P., Kong, L.  C., Prifti, E., Pons, N., Le  Chatelier, E.,
-Almeida, M., Quinquis, B., Levenez, F., Galleron, N. et  al.; ANR  MicroObes
-consortium (2013).  Dietary  intervention  impact  on  gut  microbial  gene  richness.
-Nature 500, 585-588. 
-
-Cryan, J. F. and O’Mahony, S. M. (2011). The microbiome-gut-brain axis: from bowel
-
-to behavior. Neurogastroenterol. Motil. 23, 187-192. 
-
-Cunliffe, R. N., Rose, F. R., Keyte, J., Abberley, L., Chan, W. C. and Mahida, Y. R.
-(2001). Human defensin 5 is stored in precursor form in normal Paneth cells and is
-expressed  by  some  villous  epithelial  cells  and  by  metaplastic  Paneth  cells  in  the
-colon in inflammatory bowel disease. Gut 48, 176-185. 
-
-De  Angelis, M., Piccolo, M., Vannini, L., Siragusa, S., De  Giacomo, A.,
-Serrazzanetti, D. I., Cristofori, F., Guerzoni, M. E., Gobbetti, M. and Francavilla,
-R. (2013). Fecal microbiota and metabolome of children with autism and pervasive
-developmental disorder not otherwise specified. PLoS ONE 8, e76993. 
-
-De Filippo, C., Cavalieri, D., Di Paola, M., Ramazzotti, M., Poullet, J. B., Massart,
-S., Collini, S., Pieraccini, G. and Lionetti, P. (2010). Impact of diet in shaping gut
-microbiota revealed by a comparative study in children from Europe and rural Africa.
-Proc. Natl. Acad. Sci. USA 107, 14691-14696. 
-
-Degen, G. H., Janning, P., Diel, P. and Bolt, H. M. (2002). Estrogenic isoflavones in
-
-rodent diets. Toxicol. Lett. 128, 145-157. 
-
-DeVries, A.  C., Craft, T.  K.  S., Glasper, E.  R., Neigh, G.  N. and Alexander, J.  K.
-(2007).  2006  Curt  P.  Richter  award  winner:  Social  influences  on  stress  responses
-and health. Psychoneuroendocrinology 32, 587-603. 
-
-Ding, T. and Schloss, P.  D.
-
-(2014).  Dynamics  and  associations  of  microbial
-
-community types across the human body. Nature 509, 357-360. 
-
-Duboc, H., Rajca, S., Rainteau, D., Benarous, D., Maubert, M.-A., Quervain, E.,
-Thomas, G., Barbu, V., Humbert, L., Despras, G. et  al. (2013).  Connecting
-dysbiosis,  bile-acid  dysmetabolism  and  gut  inflammation  in  inflammatory  bowel
-diseases. Gut 62, 531-539. 
-
-Duncan, S. H., Lobley, G. E., Holtrop, G., Ince, J., Johnstone, A. M., Louis, P. and
-Flint, H.  J. (2008).  Human  colonic  microbiota  associated  with  diet,  obesity  and
-weight loss. Int. J. Obes. 32, 1720-1724. 
-
-Eckburg, P. B., Bik, E. M., Bernstein, C. N., Purdom, E., Dethlefsen, L., Sargent,
-M., Gill, S.  R., Nelson, K.  E. and Relman, D.  A. (2005).  Diversity  of  the  human
-intestinal microbial flora. Science 308, 1635-1638. 
-
-Elinav, E., Strowig, T., Kau, A.  L., Henao-Mejia, J., Thaiss, C.  A., Booth, C.  J.,
-Peaper, D.  R., Bertin, J., Eisenbarth, S.  C., Gordon, J.  I. et  al. (2011).  NLRP6
-inflammasome regulates colonic microbial ecology and risk for colitis. Cell 145, 745-
-757. 
-
-Eun,  C.  S.,  Mishima,  Y.,  Wohlgemuth,  S.,  Liu,  B.,  Bower,  M.,  Carroll,  I.  M.  and
-Sartor,  R.  B. (2014).  Induction  of  bacterial  antigen-specific  colitis  by  a  simplified
-human microbiota consortium in gnotobiotic interleukin-10-/- mice. Infect. Immun. 82,
-2239-2246.
-
-Faith, J. J., McNulty, N. P., Rey, F. E. and Gordon, J. I. (2011). Predicting a human
-
-gut microbiota’s response to diet in gnotobiotic mice. Science 333, 101-104. 
-
-13
-
-Disease Models & MechanismsSPECIAL ARTICLE
-
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
-
-Farooqi, I. S., Jebb, S. A., Langmack, G., Lawrence, E., Cheetham, C. H., Prentice,
-A.  M.,  Hughes,  I.  A.,  McCamish,  M.  A.  and  O’Rahilly,  S. (1999).  Effects  of
-Recombinant Leptin Therapy in a Child with Congenital Leptin Deficiency. N. Engl. J.
-Med. 341, 879-884.
-
-Faust, K. and Raes, J. (2012). Microbial interactions: from networks to models.  Nat.
-
-Rev. Microbiol. 10, 538-550. 
-
-Fayad, R., Pini, M., Sennello, J. A., Cabay, R. J., Chan, L., Xu, A. and Fantuzzi, G.
-(2007).  Adiponectin  deficiency  protects  mice  from  chemically  induced  colonic
-inflammation. Gastroenterology 132, 601-614. 
-
-Fedorak, R.  N., Gangl, A., Elson, C.  O., Rutgeerts, P., Schreiber, S., Wild, G.,
-Hanauer, S.  B., Kilian, A., Cohard, M., LeBeaut, A. et  al. (2000).  Recombinant
-human  interleukin  10  in  the  treatment  of  patients  with  mild  to  moderately  active
-Crohn’s disease. The Interleukin 10 Inflammatory Bowel Disease Cooperative Study
-Group. Gastroenterology 119, 1473-1482. 
-
-Fernandez-Raudales, D., Hoeflinger, J. L., Bringe, N. A., Cox, S. B., Dowd, S. E.,
-Miller, M.  J. and Gonzalez  de  Mejia, E. (2012).  Consumption  of  different  soymilk
-formulations differentially affects the gut microbiomes of overweight and obese men.
-Gut Microbes 3, 490-500. 
-
-Friswell, M.  K., Gika, H., Stratford, I.  J., Theodoridis, G., Telfer, B., Wilson, I.  D.
-and McBain, A. J. (2010). Site and strain-specific variation in gut microbiota profiles
-and metabolism in experimental mice. PLoS ONE 5, e8584. 
-
-Galley, J. D., Nelson, M. C., Yu, Z., Dowd, S. E., Walter, J., Kumar, P. S., Lyte, M.
-and Bailey, M.  T. (2014).  Exposure  to  a  social  stressor  disrupts  the  community
-structure of the colonic mucosa-associated microbiota. BMC Microbiol. 14, 189. 
-
-Ghosh, D., Porter, E., Shen, B., Lee, S. K., Wilk, D., Drazba, J., Yadav, S. P., Crabb,
-J.  W., Ganz, T. and Bevins, C.  L. (2002).  Paneth  cell  trypsin  is  the  processing
-enzyme for human defensin-5. Nat. Immunol. 3, 583-590. 
-
-Goodman, A. L., Kallstrom, G., Faith, J. J., Reyes, A., Moore, A., Dantas, G. and
-Gordon, J.  I. (2011).  Extensive  personal  human  gut  microbiota  culture  collections
-characterized and manipulated in gnotobiotic mice. Proc. Natl. Acad. Sci. USA 108,
-6252-6257. 
-
-Hildebrand, F., Ebersbach, T., Nielsen, H.  B., Li, X., Sonne, S.  B., Bertalan, M.,
-Dimitrov, P., Madsen, L., Qin, J., Wang, J. et al. (2012). A comparative analysis of
-the  intestinal  metagenomes  present  in  guinea  pigs  (Cavia  porcellus)  and  humans
-(Homo sapiens). BMC Genomics 13, 514. 
-
-Hildebrand, F., Nguyen, T.  L., Brinkman, B., Yunta, R.  G., Cauwe, B.,
-Vandenabeele, P., Liston, A. and Raes, J.
-(2013).  Inflammation-associated
-enterotypes,  host  genotype,  cage  and  inter-individual  effects  drive  gut  microbiota
-variation in common laboratory mice. Genome Biol. 14, R4. 
-
-Hooper, L. V., Littman, D. R. and Macpherson, A. J. (2012). Interactions between the
-
-microbiota and the immune system. Science 336, 1268-1273. 
-
-Hudcovic, T., Stĕpánková, R., Cebra, J. and Tlaskalová-Hogenová, H. (2001). The
-role  of  microflora  in  the  development  of  intestinal  inflammation:  acute  and  chronic
-colitis 
-in  germ-free  and  conventionally  reared
-immunocompetent and immunodeficient mice. Folia Microbiol. (Praha) 46, 565-572. 
-Human Microbiome Project Consortium (2012). Structure, function and diversity of
-
-induced  by  dextran  sulfate 
-
-the healthy human microbiome. Nature 486, 207-214. 
-
-Ivanov, I. I., Atarashi, K., Manel, N., Brodie, E. L., Shima, T., Karaoz, U., Wei, D.,
-Goldfarb, K.  C., Santee, C.  A., Lynch, S.  V. et  al. (2009).  Induction  of  intestinal
-Th17 cells by segmented filamentous bacteria. Cell 139, 485-498. 
-
-Jacoby, R. O. and Lindsey, J. R. (1998). Risks of infection among laboratory rats and
-
-mice at major biomedical research institutions. ILAR J. 39, 266-271. 
-
-Joossens, M., Huys, G., Cnockaert, M., De  Preter, V., Verbeke, K., Rutgeerts, P.,
-Vandamme, P. and Vermeire, S. (2011).  Dysbiosis  of  the  faecal  microbiota  in
-patients with Crohn’s disease and their unaffected relatives. Gut 60, 631-637. 
-
-Jostins, L., Ripke, S., Weersma, R.  K., Duerr, R.  H., McGovern, D.  P., Hui, K.  Y.,
-Lee, J. C., Schumm, L. P., Sharma, Y., Anderson, C. A. et al.; International IBD
-Genetics Consortium (IIBDGC) (2012). Host-microbe interactions have shaped the
-genetic architecture of inflammatory bowel disease. Nature 491, 119-124. 
-
-Jurjus,  A.  R.,  Khoury,  N.  N.  and  Reimund,  J.-M.
-
-(2004).  Animal  models  of
-
-inflammatory bowel disease. J. Pharmacol. Toxicol. Methods 50, 81-92.
-
-Kang, D.-W., Park, J. G., Ilhan, Z. E., Wallstrom, G., Labaer, J., Adams, J. B. and
-incidence  of  Prevotella  and  other
-
-Krajmalnik-Brown, R.
-fermenters in intestinal microflora of autistic children. PLoS ONE 8, e68322. 
-
-(2013).  Reduced 
-
-Kellermayer, R., Dowd, S. E., Harris, R. A., Balasa, A., Schaible, T. D., Wolcott, R.
-D., Tatevian, N., Szigeti, R., Li, Z., Versalovic, J. et  al. (2011).  Colonic  mucosal
-DNA methylation, immune response, and microbiome patterns in Toll-like receptor 2-
-knockout mice. FASEB J. 25, 1449-1460. 
-
-Khor, B., Gardet, A. and Xavier, R.  J. (2011).  Genetics  and  pathogenesis  of
-
-inflammatory bowel disease. Nature 474, 307-317. 
-
-Kim, H. B., Borewicz, K., White, B. A., Singer, R. S., Sreevatsan, S., Tu, Z. J. and
-Isaacson, R.  E. (2012).  Microbial  shifts  in  the  swine  distal  gut  in  response  to  the
-treatment  with  antimicrobial  growth  promoter,  tylosin.  Proc.  Natl.  Acad.  Sci.  USA
-109, 15485-15490. 
-
-Kitajima, S., Morimoto, M. and Sagara, E. (2002). A model for dextran sodium sulfate
-(DSS)-induced  mouse  colitis:  bacterial  degradation  of  DSS  does  not  occur  after
-incubation with mouse cecal contents. Exp. Anim. 51, 203-206. 
-
-Koren, O., Knights, D., Gonzalez, A., Waldron, L., Segata, N., Knight, R.,
-Huttenhower, C. and Ley, R. E. (2013). A guide to enterotypes across the human
-body:  meta-analysis  of  microbial  community  structures  in  human  microbiome
-datasets. PLOS Comput. Biol. 9, e1002863. 
-
-Kovacs, A., Ben-Jacob, N., Tayem, H., Halperin, E., Iraqi, F.  A. and Gophna, U.
-(2011).  Genotype  is  a  stronger  determinant  than  sex  of  the  mouse  gut  microbiota.
-Microb. Ecol. 61, 423-428. 
-
-14
-
-Krych, L., Hansen, C. H. F., Hansen, A. K., van den Berg, F. W. J. and Nielsen, D.
-S. (2013).  Quantitatively  different,  yet  qualitatively  alike:  a  meta-analysis  of  the
-mouse core gut microbiome with a view towards the human gut microbiome. PLoS
-ONE 8, e62578. 
-
-Kuehbacher, T., Rehman, A., Lepage, P., Hellmig, S., Fölsch, U. R., Schreiber, S.
-and Ott, S.  J. (2008).  Intestinal  TM7  bacterial  phylogenies  in  active  inflammatory
-bowel disease. J. Med. Microbiol. 57, 1569-1576. 
-
-Lamendella, R., Domingo, J.  W.  S., Ghosh, S., Martinson, J. and Oerther, D.  B.
-(2011).  Comparative  fecal  metagenomics  unveils  unique  functional  capacity  of  the
-swine gut. BMC Microbiol. 11, 103. 
-
-Le Chatelier, E., Nielsen, T., Qin, J., Prifti, E., Hildebrand, F., Falony, G., Almeida,
-M., Arumugam, M., Batto, J.-M., Kennedy, S. et al.; MetaHIT consortium (2013).
-Richness of human gut microbiome correlates with metabolic markers. Nature 500,
-541-546. 
-
-Lee, S.-Y., Yu, J., Ahn, K.-M., Kim, K. W., Shin, Y. H., Lee, K.-S., Hong, S. A., Jung,
-Y.-H., Lee, E., Yang, S.-I. et al. (2014). Additive effect between IL-13 polymorphism
-and  cesarean  section  delivery/prenatal  antibiotics  use  on  atopic  dermatitis:  a  birth
-cohort study (COCOA). PLoS ONE 9, e96603. 
-
-Ley, R. E., Bäckhed, F., Turnbaugh, P., Lozupone, C. A., Knight, R. D. and Gordon,
-J.  I. (2005).  Obesity  alters  gut  microbial  ecology.  Proc.  Natl.  Acad.  Sci.  USA 102,
-11070-11075. 
-
-Ley, R.  E., Turnbaugh, P.  J., Klein, S. and Gordon, J.  I. (2006).  Microbial  ecology:
-
-human gut microbes associated with obesity. Nature 444, 1022-1023. 
-
-Li, K., Bihan, M. and Methé, B.  A. (2013).  Analyses  of  the  stability  and  core
-
-taxonomic memberships of the human microbiome. PLoS ONE 8, e63139. 
-
-Linnenbrink, M., Wang, J., Hardouin, E. A., Künzel, S., Metzler, D. and Baines, J.
-F. (2013). The role of biogeography in shaping diversity of the intestinal microbiota in
-house mice. Mol. Ecol. 22, 1904-1916. 
-
-Liou, A.  P., Paziuk, M., Luevano, J.-M., Machineni, S., Turnbaugh, P.  J. and
-Kaplan, L. M. (2013). Conserved shifts in the gut microbiota due to gastric bypass
-reduce host weight and adiposity. Sci. Transl. Med. 5, 178ra41-178ra41. 
-
-Litten-Brown, J.  C., Corson, A.  M. and Clarke, L. (2010).  Porcine  models  for  the
-metabolic  syndrome,  digestive  and  bone  disorders:  a  general  overview.  Animal 4,
-899-920. 
-
-Liu, T., Hougen, H., Vollmer, A. C. and Hiebert, S. M. (2012). Gut bacteria profiles of
-Mus musculus at the phylum and family levels are influenced by saturation of dietary
-fatty acids. Anaerobe 18, 331-337. 
-
-Lupp, C., Robertson, M. L., Wickham, M. E., Sekirov, I., Champion, O. L., Gaynor,
-E.  C. and Finlay, B.  B. (2007).  Host-mediated  inflammation  disrupts  the  intestinal
-microbiota and promotes the overgrowth of Enterobacteriaceae. Cell Host Microbe 2,
-204. 
-
-Ma, Q. and Lu, A.  Y.  H.
-
-(2011).  Pharmacogenetics,  pharmacogenomics,  and
-
-individualized medicine. Pharmacol. Rev. 63, 437-459. 
-
-Ma, A. and Malynn, B. A. (2012). A20: linking a complex regulator of ubiquitylation to
-
-immunity and human disease. Nat. Rev. Immunol. 12, 774-785. 
-
-Ma, B. W., Bokulich, N. A., Castillo, P. A., Kananurak, A., Underwood, M. A., Mills,
-D. A. and Bevins, C. L. (2012). Routine habitat change: a source of unrecognized
-transient alteration of intestinal microbiota in laboratory mice. PLoS ONE 7, e47416.
-Manichanh, C., Borruel, N., Casellas, F. and Guarner, F. (2012). The gut microbiota
-
-in IBD. Nat. Rev. Gastroenterol. Hepatol. 9, 599-608. 
-
-Mariat, D., Firmesse, O., Levenez, F., Guimarăes, V., Sokol, H., Doré, J., Corthier,
-G. and Furet, J.-P. (2009).  The  Firmicutes/Bacteroidetes  ratio  of  the  human
-microbiota changes with age. BMC Microbiol. 9, 123. 
-
-Martínez, I., Muller, C. E. and Walter, J. (2013). Long-term temporal analysis of the
-human fecal microbiota revealed a stable core of dominant bacterial species. PLoS
-ONE 8, e69621. 
-
-Maurice, C.  F., Haiser, H.  J. and Turnbaugh, P.  J. (2013).  Xenobiotics  shape  the
-physiology and gene expression of the active human gut microbiome. Cell 152, 39-50. 
-McCafferty, J., Mühlbauer, M., Gharaibeh, R. Z., Arthur, J. C., Perez-Chanona, E.,
-Sha, W., Jobin, C. and Fodor, A. A. (2013). Stochastic changes over time and not
-founder  effects  drive  cage  effects  in  microbial  community  assembly  in  a  mouse
-model. ISME J. 7, 2116-2125. 
-
-McKenna, P., Hoffmann, C., Minkah, N., Aye, P. P., Lackner, A., Liu, Z., Lozupone,
-C.  A., Hamady, M., Knight, R. and Bushman, F.  D. (2008).  The  macaque  gut
-microbiome in health, lentiviral infection, and chronic enterocolitis. PLoS Pathog. 4,
-e20. 
-
-McNulty, N. P., Yatsunenko, T., Hsiao, A., Faith, J. J., Muegge, B. D., Goodman, A.
-L., Henrissat, B., Oozeer, R., Cools-Portier, S., Gobert, G. et  al. (2011).  The
-impact  of  a  consortium  of  fermented  milk  strains  on  the  gut  microbiome  of
-gnotobiotic mice and monozygotic twins. Sci. Transl. Med. 3, 106ra106. 
-
-Meng, Y.-Y., Pickett, M.  C., Babey, S.  H., Davis, A.  C. and Goldstein, H. (2014).
-Diabetes  Tied  to  a  Third  of  California  Hospital  Stays,  Driving  Health  Care  Costs
-Higher,  pp.  1-7,  PB2014-3.  Los  Angeles,  CA:  The  UCLA  Center  for  Health  Policy
-Research. PubMed
-
-Menon, R., Watson, S. E., Thomas, L. N., Allred, C. D., Dabney, A., Azcarate-Peril,
-M.  A. and Sturino, J.  M. (2013).  Diet  complexity  and  estrogen  receptor  β  status
-affect  the  composition  of  the  murine  intestinal  microbiota.  Appl.  Environ.  Microbiol.
-79, 5763-5773. 
-
-Middelbos, I.  S., Vester  Boler, B.  M., Qu, A., White, B.  A., Swanson, K.  S. and
-Fahey, G.  C., Jr
-fecal  microbial
-communities of dogs fed diets with or without supplemental dietary fiber using 454
-pyrosequencing. PLoS ONE 5, e9768. 
-
-(2010).  Phylogenetic  characterization  of 
-
-Moeller, A.  H. and Ochman, H. (2014).  Microbiomes  are  true  to  type.  Proc.  Natl.
-
-Acad. Sci. USA 111, 9372-9373. 
-
-Disease Models & MechanismsSPECIAL ARTICLE
-
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
-
-Moeller, A. H., Degnan, P. H., Pusey, A. E., Wilson, M. L., Hahn, B. H. and Ochman,
-(2012).  Chimpanzees  and  humans  harbour  compositionally  similar  gut
-
-H.
-enterotypes. Nat. Commun. 3, 1179. 
-
-Murphy, E.  F., Cotter, P.  D., Healy, S., Marques, T.  M., O’Sullivan, O., Fouhy, F.,
-Clarke, S. F., O’Toole, P. W., Quigley, E. M., Stanton, C. et al. (2010). Composition
-and energy harvesting capacity of the gut microbiota: relationship to diet, obesity and
-time in mouse models. Gut 59, 1635-1642. 
-
-Nagalingam, N.  A., Kao, J.  Y. and Young, V.  B. (2011).  Microbial  ecology  of  the
-murine  gut  associated  with  the  development  of  dextran  sodium  sulfate-induced
-colitis. Inflamm. Bowel Dis. 17, 917-926. 
-
-Nagy-Szakal, D., Ross, M. C., Dowd, S. E., Mir, S. A. V., Schaible, T. D., Petrosino,
-J.  F. and Kellermayer, R. (2012).  Maternal  micronutrients  can  modify  colonic
-mucosal microbiota maturation in murine offspring. Gut Microbes 3, 426-433. 
-
-Neeb, Z. P., Edwards, J. M., Alloosh, M., Long, X., Mokelke, E. A. and Sturek, M.
-(2010). Metabolic syndrome and coronary artery disease in Ossabaw compared with
-Yucatan swine. Comp. Med. 60, 300-315.
-
-Nell, S., Suerbaum, S. and Josenhans, C. (2010).  The  impact  of  the  microbiota  on
-the pathogenesis of IBD: lessons from mouse infection models. Nat. Rev. Microbiol.
-8, 564-577. 
-
-Nemoto, H., Kataoka, K., Ishikawa, H., Ikata, K., Arimochi, H., Iwasaki, T., Ohnishi,
-Y., Kuwahara, T. and Yasutomo, K. (2012).  Reduced  diversity  and  imbalance  of
-fecal microbiota in patients with ulcerative colitis. Dig. Dis. Sci. 57, 2955-2964. 
-
-Neufeld, K.-A.  M., Kang, N., Bienenstock, J. and Foster, J.  A. (2011).  Effects  of
-
-intestinal microbiota on anxiety-like behavior. Commun. Integr. Biol. 4, 492-494. 
-
-Neyrinck, A. M., Possemiers, S., Druart, C., Van de Wiele, T., De Backer, F., Cani,
-P.  D., Larondelle, Y. and Delzenne, N.  M. (2011).  Prebiotic  effects  of  wheat
-arabinoxylan 
-in  bifidobacteria,  Roseburia  and
-Bacteroides/Prevotella in diet-induced obese mice. PLoS ONE 6, e20944. 
-
-increase 
-
-related 
-
-the 
-
-to 
-
-Nishihara, T., Matsuda, M., Araki, H., Oshima, K., Kihara, S., Funahashi, T. and
-Shimomura, I. (2006).  Effect  of  adiponectin  on  murine  colitis  induced  by  dextran
-sulfate sodium. Gastroenterology 131, 853-861. 
-
-Ouellette, A. J. and Selsted, M. E. (1996). Paneth cell defensins: endogenous peptide
-
-components of intestinal host defense. FASEB J. 10, 1280-1289.
-
-Parks, B. W., Nam, E., Org, E., Kostem, E., Norheim, F., Hui, S. T., Pan, C., Civelek,
-M., Rau, C.  D., Bennett, B.  J. et  al. (2013).  Genetic  control  of  obesity  and  gut
-microbiota  composition  in  response  to  high-fat,  high-sucrose  diet  in  mice.  Cell
-Metab. 17, 141-152. 
-
-Pedersen, R., Ingerslev, H.-C., Sturek, M., Alloosh, M., Cirera, S., Christoffersen,
-B. Ø., Moesgaard, S. G., Larsen, N. and Boye, M. (2013). Characterisation of gut
-microbiota in Ossabaw and Göttingen minipigs as models of obesity and metabolic
-syndrome. PLoS ONE 8, e56612. 
-
-Peloquin, J.  M. and Nguyen, D.  D. (2013).  The  microbiota  and  inflammatory  bowel
-
-disease: insights from animal models. Anaerobe 24, 102-106. 
-
-Pritchett-Corning, K.  R., Cosentino, J. and Clifford, C.  B. (2009).  Contemporary
-prevalence of infectious agents in laboratory mice and rats. Lab. Anim. 43, 165-173. 
-Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K. S., Manichanh, C., Nielsen, T.,
-Pons, N., Levenez, F., Yamada, T. et  al.; MetaHIT  Consortium (2010).  A  human
-gut microbial gene catalogue established by metagenomic sequencing. Nature 464,
-59-65. 
-
-Qin, J., Li, Y., Cai, Z., Li, S., Zhu, J., Zhang, F., Liang, S., Zhang, W., Guan, Y.,
-Shen, D. et  al. (2012).  A  metagenome-wide  association  study  of  gut  microbiota  in
-type 2 diabetes. Nature 490, 55-60. 
-
-Riboulet-Bisson, E., Sturme, M. H. J., Jeffery, I. B., O’Donnell, M. M., Neville, B. A.,
-Forde, B.  M., Claesson, M.  J., Harris, H., Gardiner, G.  E., Casey, P.  G. et  al.
-(2012).  Effect  of  Lactobacillus  salivarius  bacteriocin  Abp118  on  the  mouse  and  pig
-intestinal microbiota. PLoS ONE 7, e31113. 
-
-Ridaura, V. K., Faith, J. J., Rey, F. E., Cheng, J., Duncan, A. E., Kau, A. L., Griffin,
-N.  W., Lombard, V., Henrissat, B., Bain, J.  R. et  al. (2013).  Gut  microbiota  from
-twins discordant for obesity modulate metabolism in mice. Science 341, 1241214. 
-Russell, S.  L., Gold, M.  J., Hartmann, M., Willing, B.  P., Thorson, L., Wlodarska,
-M., Gill, N., Blanchet, M.-R., Mohn, W. W., McNagny, K. M. et al. (2012). Early life
-antibiotic-driven  changes  in  microbiota  enhance  susceptibility  to  allergic  asthma.
-EMBO Rep. 13, 440-447. 
-
-Schreiber, S., Fedorak, R. N., Nielsen, O. H., Wild, G., Williams, C. N., Nikolaus, S.,
-Jacyna, M., Lashner, B.  A., Gangl, A., Rutgeerts, P. et  al. (2000).  Safety  and
-efficacy  of  recombinant  human  interleukin  10  in  chronic  active  Crohn’s  disease.
-Gastroenterology 119, 1461-1472. 
-
-Schumann, S., Alpert, C., Engst, W., Loh, G. and Blaut, M. (2012). Dextran sodium
-sulfate-induced 
-intestinal
-Escherichia coli strains in a gnotobiotic mouse model. Appl. Environ. Microbiol. 78,
-1513-1522. 
-
-the  expression  of  proteins  by 
-
-inflammation  alters 
-
-Schwiertz, A., Taras, D., Schäfer, K., Beijer, S., Bos, N. A., Donus, C. and Hardt, P.
-D. (2010).  Microbiota  and  SCFA  in  lean  and  overweight  healthy  subjects.  Obesity
-(Silver Spring) 18, 190-195. 
-
-Serino, M., Luche, E., Gres, S., Baylac, A., Bergé, M., Cenac, C., Waget, A., Klopp,
-P., Iacovoni, J., Klopp, C. et  al. (2012).  Metabolic  adaptation  to  a  high-fat  diet  is
-associated with a change in the gut microbiota. Gut 61, 543-553. 
-
-Smith, M.  I., Yatsunenko, T., Manary, M.  J., Trehan, I., Mkakosya, R., Cheng, J.,
-Kau, A.  L., Rich, S.  S., Concannon, P., Mychaleckyj, J.  C. et  al. (2013a).  Gut
-microbiomes  of  Malawian  twin  pairs  discordant  for  kwashiorkor.  Science 339,  548-
-554. 
-
-Smith, H. F., Parker, W., Kotzé, S. H. and Laurin, M. (2013b). Multiple independent
-appearances of the cecal appendix in mammalian evolution and an investigation of
-related ecological and anatomical factors. C. R. Palevol 12, 339-354. 
-
-Soave, O. and Brand, C. D. (1991). Coprophagy in animals: a review. Cornell Vet. 81,
-
-357-364.
-
-Sokol, H., Seksik, P., Rigottier-Gois, L., Lay, C., Lepage, P., Podglajen, I., Marteau,
-P. and Doré, J. (2006).  Specificities  of  the  fecal  microbiota  in  inflammatory  bowel
-disease. Inflamm. Bowel Dis. 12, 106-111. 
-
-Sokol, H., Pigneur, B., Watterlot, L., Lakhdari, O., Bermúdez-Humarán, L.  G.,
-Gratadoux, J.-J., Blugeon, S., Bridonneau, C., Furet, J.-P., Corthier, G. et  al.
-(2008).  Faecalibacterium  prausnitzii  is  an  anti-inflammatory  commensal  bacterium
-identified by gut microbiota analysis of Crohn disease patients. Proc. Natl. Acad. Sci.
-USA 105, 16731-16736. 
-
-Sokol, H., Seksik, P., Furet, J. P., Firmesse, O., Nion-Larmurier, I., Beaugerie, L.,
-Cosnes, J., Corthier, G., Marteau, P. and Doré, J.
-(2009).  Low  counts  of
-Faecalibacterium prausnitzii in colitis microbiota. Inflamm. Bowel Dis. 15, 1183-1189. 
-Spor, A., Koren, O. and Ley, R. (2011). Unravelling the effects of the environment and
-
-host genotype on the gut microbiome. Nat. Rev. Microbiol. 9, 279-290. 
-
-Suchodolski, J.  S., Camacho, J. and Steiner, J.  M. (2008).  Analysis  of  bacterial
-diversity  in  the  canine  duodenum,  jejunum,  ileum,  and  colon  by  comparative  16S
-rRNA gene analysis. FEMS Microbiol. Ecol. 66, 567-578. 
-
-Suchodolski, J.  S., Dowd, S.  E., Westermarck, E., Steiner, J.  M., Wolcott, R.  D.,
-Spillmann, T. and Harmoinen, J.  A. (2009).  The  effect  of  the  macrolide  antibiotic
-tylosin  on  microbial  diversity  in  the  canine  small  intestine  as  demonstrated  by
-massive parallel 16S rRNA gene sequencing. BMC Microbiol. 9, 210. 
-
-Swanson, K.  S., Dowd, S.  E., Suchodolski, J.  S., Middelbos, I.  S., Vester, B.  M.,
-Barry, K.  A., Nelson, K.  E., Torralba, M., Henrissat, B., Coutinho, P.  M. et  al.
-(2011).  Phylogenetic  and  gene-centric  metagenomics  of  the  canine  intestinal
-microbiome reveals similarities with humans and mice. ISME J. 5, 639-649. 
-
-Tap, J., Mondot, S., Levenez, F., Pelletier, E., Caron, C., Furet, J.  P., Ugarte, E.,
-Muñoz-Tamayo, R., Paslier, D.  L., Nalin, R. et  al. (2009).  Towards  the  human
-intestinal microbiota phylogenetic core. Environ. Microbiol. 11, 2574-2584. 
-Taylor, N.  S., Xu, S., Nambiar, P., Dewhirst, F.  E. and Fox, J.  G.
-
-(2007).
-Enterohepatic  Helicobacter  species  are  prevalent  in  mice  from  commercial  and
-academic  institutions  in  Asia,  Europe,  and  North  America.  J.  Clin.  Microbiol. 45,
-2166-2172. 
-
-Treuting, P.  M. and Dintzis, S.  M.
-
-(2012).  Lower  Gastrointestinal  Tract,  In
-Comparative Anatomy and Histology – a Mouse and Human Atlas, 1st edn (ed. S.
-M. Dintzis, C. W. Frevert, H. D. Liggitt, K. S. Montine and P. M. Treuting), Chapter
-12. Amsterdam: Elsevier Inc.
-
-Turnbaugh, P.  J., Ley, R.  E., Mahowald, M.  A., Magrini, V., Mardis, E.  R. and
-Gordon, J. I. (2006). An obesity-associated gut microbiome with increased capacity
-for energy harvest. Nature 444, 1027-1031. 
-
-Turnbaugh, P. J., Hamady, M., Yatsunenko, T., Cantarel, B. L., Duncan, A., Ley, R.
-E., Sogin, M. L., Jones, W. J., Roe, B. A., Affourtit, J. P. et al. (2009a). A core gut
-microbiome in obese and lean twins. Nature 457, 480-484. 
-
-Turnbaugh, P. J., Ridaura, V. K., Faith, J. J., Rey, F. E., Knight, R. and Gordon, J. I.
-(2009b). The effect of diet on the human gut microbiome: a metagenomic analysis in
-humanized gnotobiotic mice. Sci. Transl. Med. 1, 6ra14. 
-
-Ubeda, C., Bucci, V., Caballero, S., Djukovic, A., Toussaint, N.  C., Equinda, M.,
-Lipuma, L., Ling, L., Gobourne, A., No, D. et  al. (2013).  Intestinal  microbiota
-containing  Barnesiella  species  cures  vancomycin-resistant  Enterococcus  faecium
-colonization. Infect. Immun. 81, 965-973. 
-
-Uhlig, H. H. and Powrie, F. (2009). Mouse models of intestinal inflammation as tools
-to understand the pathogenesis of inflammatory bowel disease. Eur. J. Immunol. 39,
-2021-2026. 
-
-Vaahtovuo, J., Munukka, E., Korkeamäki, M., Luukkainen, R. and Toivanen, P.
-(2008). Fecal microbiota in early rheumatoid arthritis. J. Rheumatol. 35, 1500-1505.
-Velcich, A., Yang, W., Heyer, J., Fragale, A., Nicholas, C., Viani, S., Kucherlapati,
-R., Lipkin, M., Yang, K. and Augenlicht, L. (2002).  Colorectal  cancer  in  mice
-genetically deficient in the mucin Muc2. Science 295, 1726-1729. 
-
-Vereecke, L., Vieira-Silva, S., Billiet, T., van Es, J. H., Mc Guire, C., Slowicka, K.,
-Sze, M., van den Born, M., De Hertogh, G., Clevers, H. et al. (2014). A20 controls
-intestinal homeostasis through cell-specific activities. Nat. Commun. 5, 5103.
-
-Vigsnæs, L.  K., Brynskov, J., Steenholdt, C., Wilcks, A. and Licht, T.  R. (2012).
-Gram-negative bacteria account for main differences between faecal microbiota from
-patients with ulcerative colitis and healthy controls. Benef. Microbes 3, 287-297. 
-Walker, A.  W., Sanderson, J.  D., Churcher, C., Parkes, G.  C., Hudspith, B.  N.,
-Rayment, N., Brostoff, J., Parkhill, J., Dougan, G. and Petrovska, L. (2011).
-High-throughput clone library analysis of the mucosa-associated microbiota reveals
-dysbiosis  and  differences  between  inflamed  and  non-inflamed  regions  of  the
-intestine in inflammatory bowel disease. BMC Microbiol. 11, 7. 
-
-Wang, L., Christophersen, C.  T., Sorich, M.  J., Gerber, J.  P., Angley, M.  T. and
-Conlon, M.  A. (2013).  Increased  abundance  of  Sutterella  spp.  and  Ruminococcus
-torques in feces of children with autism spectrum disorder. Mol. Autism 4, 42. 
-
-Wang, J., Linnenbrink, M., Künzel, S., Fernandes, R., Nadeau, M.-J., Rosenstiel, P.
-and Baines, J. F. (2014). Dietary history contributes to enterotype-like clustering and
-functional metagenomic content in the intestinal microbiome of wild mice. Proc. Natl.
-Acad. Sci. USA 111, E2703-E2710. 
-
-Ward, N.  L., Pieretti, A., Dowd, S.  E., Cox, S.  B. and Goldstein, A.  M. (2012).
-Intestinal  aganglionosis  is  associated  with  early  and  sustained  disruption  of  the
-colonic microbiome. Neurogastroenterol. Motil. 24, 874-e400. 
-
-Werner, T., Wagner, S. J., Martínez, I., Walter, J., Chang, J.-S., Clavel, T., Kisling,
-S., Schuemann, K. and Haller, D. (2011).  Depletion  of  luminal  iron  alters  the  gut
-microbiota and prevents Crohn’s disease-like ileitis. Gut 60, 325-333. 
-
-Wirtz,  S.  and  Neurath,  M.  F. (2007).  Mouse  models  of  inflammatory  bowel  disease.
-
-Adv. Drug Deliv. Rev. 59, 1073-1083.
-
-15
-
-Disease Models & MechanismsSPECIAL ARTICLE
-
-Disease Models & Mechanisms (2015) doi:10.1242/dmm.017400
-
-Willing, B., Halfvarson, J., Dicksved, J., Rosenquist, M., Järnerot, G., Engstrand,
-L., Tysk, C. and Jansson, J. K. (2009). Twin studies reveal specific imbalances in
-the  mucosa-associated  microbiota  of  patients  with  ileal  Crohn’s  disease.  Inflamm.
-Bowel Dis. 15, 653-660. 
-
-Willing, B. P., Dicksved, J., Halfvarson, J., Andersson, A. F., Lucio, M., Zheng, Z.,
-Järnerot, G., Tysk, C., Jansson, J.  K. and Engstrand, L.
-(2010).  A
-pyrosequencing  study  in  twins  shows  that  gastrointestinal  microbial  profiles  vary 
-with  inflammatory  bowel  disease  phenotypes.  Gastroenterology 139,  1844-1854.
-e1. 
-
-Wu, G.  D., Chen, J., Hoffmann, C., Bittinger, K., Chen, Y.  Y., Keilbaugh, S.  A.,
-Bewtra, M., Knights, D., Walters, W. A., Knight, R. et al. (2011). Linking long-term
-dietary patterns with gut microbial enterotypes. Science 334, 105-108. 
-
-Würbel, H. (2000). Behaviour and the standardization fallacy. Nat. Genet. 26, 263. 
-Yanabe, M., Shibuya, M., Gonda, T., Asai, H., Tanaka, T., Sudou, K., Narita, T.,
-Matsui, T. and Itoh, K. (2001).  Establishment  of  specific  pathogen-free  guinea-pig
-colonies  using  limited-flora  guinea-pigs  associated  with  conventional  guinea-pig
-flora, and monitoring of their cecal flora. Exp. Anim. 50, 105-113. 
-
-Yang, Z. and Zhang, N. (2014).  The  burden  of  overweight  and  obesity  on  long-term
-
-Wirtz, S. and Neurath, M.  F. (2007).  Mouse  models  of  inflammatory  bowel  disease.
-
-care and Medicaid financing. Med. Care 52, 658-663. 
-
-Adv. Drug Deliv. Rev. 59, 1073-1083. 
-
-Wirtz, S., Neufert, C., Weigmann, B. and Neurath, M. F. (2007). Chemically induced
-
-mouse models of intestinal inflammation. Nat. Protoc. 2, 541-546. 
-
-Wohlgemuth, S., Haller, D., Blaut, M. and Loh, G. (2009).  Reduced  microbial
-diversity  and  high  numbers  of  one  single  Escherichia  coli  strain  in  the  intestine  of
-colitic mice. Environ. Microbiol. 11, 1562-1571. 
-
-Wos-Oxley, M., Bleich, A., Oxley, A.  P.  A., Kahl, S., Janus, L.  M., Smoczek, A.,
-Nahrstedt, H., Pils, M.  C., Taudien, S., Platzer, M. et  al. (2012).  Comparative
-evaluation  of  establishing  a  human  gut  microbial  community  within  rodent  models.
-Gut Microbes 3, 234-249. 
-
-Yatsunenko, T., Rey, F.  E., Manary, M.  J., Trehan, I., Dominguez-Bello, M.  G.,
-Contreras, M., Magris, M., Hidalgo, G., Baldassano, R. N., Anokhin, A. P. et al.
-(2012). Human gut microbiome viewed across age and geography. Nature 486, 222-
-227.
-
-Zenewicz, L. A., Yin, X., Wang, G., Elinav, E., Hao, L., Zhao, L. and Flavell, R. A.
-(2013). IL-22 deficiency alters colonic microbiota to be transmissible and colitogenic.
-J. Immunol. 190, 5306-5312. 
-
-Zhang, C., Zhang, M., Pang, X., Zhao, Y., Wang, L. and Zhao, L. (2012). Structural
-resilience  of  the  gut  microbiota  in  adult  mice  under  high-fat  dietary  perturbations.
-ISME J. 6, 1848-1857. 
-
-16
-
-Disease Models & Mechanisms
+http://dmm.biologists.org/lookup/suppl/

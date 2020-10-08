@@ -1,0 +1,19 @@
+There are several recent reviews on sequencing and anal-
+ysis  of  the  microbiome,  although  a  full  discussion  of  these 
+methods  is  beyond  the  scope  of  this  review.28-31  In  brief,  com-
+monly  used  methods  to  study  the  microbiome  use  either 
+amplicon sequencing methods that analyze the partial genome 
+or whole-genome shotgun metagenomic sequencing. In contrast, 
+quantitative profiling of absolute counts of absolute microbial 
+abundances may be as or more relevant to defining the role of 
+microbiome  in  human  disease.32  A  small  study  of  29  patients 
+with CD revealed microbial counts that were 3 times lower than 
+those of healthy control patients and differences in defining an 
+association between Bacteroides (noted only in relative profiling) 
+and Prevotella (only in quantitative microbial profiling) in CD.32. Fecal  samples  were  obtained  at  therapy  cessation,  2  months, 
+6 months, and the end of follow-up. Interestingly, although all patients were 
+in clinical remission at study entry, a lower baseline abundance 
+of F. prausnitzii (P = 0.014) and Bacteroides (P = 0.030) pre-
+dicted relapse after therapy cessation in addition to biochem-
+ical markers such as an elevated serum C-reactive protein. . Two OTUs affiliated with Faecalibacterium and Bacteroides were more abundant at . A total of 35% of the cohort remained in remission 
+at week 54.

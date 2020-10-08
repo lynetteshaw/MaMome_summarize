@@ -1,7 +1,7 @@
 378
 
-Turk J Urol 2018; 44(5): 377-83
-DOI:10.5152/tud.2018.48742
+Turk J Urol 2018; 44 377-83
+
 
 Among  these  treatment  approaches,  probiotic  applications  are 
 among the promising alternatives. In parallel with the introduc-
@@ -12,7 +12,7 @@ ined in more detail.
 Urinary microbiota
 
 The  structure  of  microbiome  in  humans  has  been  a  topic  of 
-immense  interest  in  recent  years.[9,10]  Various  studies  have  been 
+immense  interest  in  recent  years. Various  studies  have  been 
 performed  concerning  the  potential  roles  performed  by  compex 
 microbial  structures  in  many  different  diseases.  Although  there 
 are sufficient studies in the literature on microbiota of skin, mouth, 
@@ -27,7 +27,7 @@ to  study  UM.  In  general,  Lactobacillus  and  Streptococcus  are
 the  most  frequently  observed  species  and  many  studies  have 
 been performed on them. Both microorganisms are lactic acid 
 bacteria and have protective roles against pathogens colonized 
-in the urogenital region.[13] Other less frequently found bacterial 
+in the urogenital region.Other less frequently found bacterial 
 strains are Alloscardovia, Burkholderia, Jonquetella, Klebsiella, 
 Saccharofermentans,  Rhodanobacter  and  Veillonella.  It  has 
 been reported that the urine collection method (midstream urine 
@@ -35,14 +35,14 @@ specimen,  first  voided  urine  specimen,  suprapubic  aspiration,
 transurethral  catheterization)  and  the  technique  to  identify  the 
 UM  are  the  factors  that  could  lead  to  formation  of  different 
 UM profiles. UM reported in healthy women is summarized in 
-Table 1.[12-15] 
+Table 1.
 
 Thanks  to  16S  rRNA  sequencing  and  advanced  quantitative 
 urine  culture  (EQUC)  techniques  developed  in  recent  years, 
 aerobic and anaerobic bacteria colonized in normal flora in the 
-urinary system have been detected.[11,12] Bacterial isolation can 
+urinary system have been detected.Bacterial isolation can 
 be performed using EQUC method in 80% of the cases reported 
-as  ‘no  growth’  in  standard  cultures  of  urine  samples.[13] These 
+as  ‘no  growth’  in  standard  cultures  of  urine  samples.These 
 bacteria  in  the  urinary  system  have  an  important  role  in  the 
 health and balance of the urinary system.
 
@@ -53,7 +53,7 @@ found in the environment and at the same time virulence factors
 that  may  cause  infection  in  most  organisms  may  be  detected. 
 Stapleton explained this condition by suggesting that unchange-
 able host factors play a role in the colonization of these organ-
-isms.[16]  So,  in  a  sense,  hosts  are  choosing,  and  containing 
+isms. So,  in  a  sense,  hosts  are  choosing,  and  containing 
 
 Table 1. Studies demonstrating components of urinary microbiomes in healthy women, and their characteristic features
 
@@ -156,13 +156,13 @@ They should be able to form clusters so as to produce normal-balanced flora
 microorganisms that will not harm them. Are the host and the 
 bacteria  developing  all  together?  It  is  known  that  frequently 
 recurrent UTIs develop in children of the women who experi-
-ence  clinically  recurrent  episodes  of  UTIs.[17]  It  is  debatable 
+ence  clinically  recurrent  episodes  of  UTIs. It  is  debatable 
 whether  this  condition  arises  from  a  genetic  predisposition  or 
 from a bacterial transfer which occurs in childhood or perhaps 
 even at birth. 
 
 Even  though  the  studies  were  limited  in  number,  significant 
-differences  were  detected  between  male  and  female  UM.[18,19] 
+differences  were  detected  between  male  and  female  UM.
 This  difference  may  be  thought  to  be  related  to  differences  in 
 anatomical structures, hormones and local defense mechanisms. 
 This difference, however, is thought to play a role in susceptibil-
@@ -173,21 +173,21 @@ isms of Lactobacillus spp. are dominant bacteria and form UM
 which demonstrates antimicrobial activity. Inadequate treatment 
 of  genitourinary  infections  and  recurrence  lead  to  the  shift  of 
 Lactobacillus  dominancy  in  the  normal  flora  to  the  coliform 
-uropathogens.[20]
+uropathogens.
 
 There  is  a  clear,  and  established  relationship  between  vaginal 
 flora  and  urogenital  infections.  Most  of  the  microorganisms 
 in  the  vagina  stem  from  the  gastrointestinal  tract  apart  from 
-the  personal  hygiene.[21]  In  a  healthy  vagina  dominancy  of 
-Lactobacillus spp. is observed.[22,23] Many scientific studies have 
+the  personal  hygiene. In  a  healthy  vagina  dominancy  of 
+Lactobacillus spp. is observed.Many scientific studies have 
 shown  that  regulation  of  the  gastrointestinal  and  vaginal  flora 
-with probiotic support may prevent genitourinary infections.[23]
+with probiotic support may prevent genitourinary infections.
 
 sule, tablet and powder forms). The bacteria may be present from 
 the beginning in probiotic foods and supportive treatment agents, 
 or may be added during the preparation of the product. Probiotics 
 must  be  resistant  to  gastric  and  bile  acids  in  order  to  reach  the 
-intestinal system and produce beneficial effects on the body.[26]
+intestinal system and produce beneficial effects on the body.
 
 Since  the  vaginal  microflora  is  intended  to  be  corrected,  pro-
 biotics  that  prevent  and  treat  genitourinary  infections  should 
@@ -195,23 +195,23 @@ contain Lactobacillus species. The mechanism of action of pro-
 biotics may involve acidification of the mucosal surface, inhibi-
 tion of adhesion of pathogens, production of substances such as 
 vitamins and immunomodulators, and synergistic activity with 
-the host’s immune system.[27]
+the host’s immune system.
 
 Some  Lactobacillus  species  produce  hydrogen  peroxide  and 
 biosurfactants that acidify the vaginal mucosa. These properties 
 as  well  as  their  microbiomimetic  regulatory  effects  have  been 
-demonstrated.[28]  All  these  properties  make  Lactobacillus  the 
+demonstrated. All  these  properties  make  Lactobacillus  the 
 preferred  probiotic  agent  for  the  prophylaxis  and  treatment  of 
 urogynecologic infections.
 
 Relationship between antibiotics, and probiotics
 
 Lactobacilli  can  prevent  the  adherence,  growth  and  coloniza-
-tion of uropathogenic bacteria.[29] It has been shown that healthy 
+tion of uropathogenic bacteria.It has been shown that healthy 
 microbial  populations  of  Lactobacillus  species  have  a  strong 
-inhibitory effect on E. coli[30] Infections treated using antibiotics 
+inhibitory effect on E. coliInfections treated using antibiotics 
 reduce drug abuse, leading to drug resistance and render the nat-
-ural barrier of the urinary system vulnerable to infections.[31-33]
+ural barrier of the urinary system vulnerable to infections.
 
 Definition and characteristics of probiotics
 The  term  probiotic  consists  of  the  words  “pro”  in  Latin  and 
@@ -219,21 +219,21 @@ The  term  probiotic  consists  of  the  words  “pro”  in  Latin  and
 first  introduced  by  Elie  Metchnikoff,  the  Russian  Nobel  Prize 
 winner  in  1907.  Metchnikoff  notes  that  the  microbes  in  the 
 digestive  system  can  provide  positive  contributions,  espe-
-cially  in  the  digestive  system  diseases.[24]  The  World  Health 
+cially  in  the  digestive  system  diseases. The  World  Health 
 Organization has defined probiotics as “useful living microor-
 ganisms that have a positive effect on the health and physiology 
-of a person when taken in sufficient quantities.”[25] The proper-
-ties that a good probiotic should have are indicated in Table 2.[25]
+of a person when taken in sufficient quantities.”The proper-
+ties that a good probiotic should have are indicated in Table 2.
 Probiotics can be found in foods and food supplements (in cap-
 
-Stewardson et al.[34] compared ciprofloxacin and nitrofurantoin 
+Stewardson et al.compared ciprofloxacin and nitrofurantoin 
 treatments in their study and found that the ciprofloxacin group 
 had a significant effect on intestinal microbiome which mostly 
 contain  healthy  Lactobacillus  spp.  In  the  group  of  nitrofuran-
 toin, microbiota structure demonstrated relatively lower degree 
 of variations.
 
-Modena et al.[35] investigated the effect of prophylactic antibiot-
+Modena et al.investigated the effect of prophylactic antibiot-
 ic use on UM. UMs of prophylactic trimethoprim-sulfamethox-
 azole treatment, and healthy control group were compared and it 
 was shown that the the number of pathogenic species in the anti-
@@ -241,8 +241,8 @@ biotic group significantly increased while microbial diversities
 
 380
 
-Turk J Urol 2018; 44(5): 377-83
-DOI:10.5152/tud.2018.48742
+Turk J Urol 2018; 44 377-83
+
 
 decreased  relative  to  the  healthy  control  group These  findings 
 support  the  necessity  of  demonstrating  sensitivity  in  selecting 
@@ -253,7 +253,7 @@ Although proposals for the use of only probiotics in the prophy-
 laxis  of  recurrent  UTI  are  limited  it  is  thought  that  probiotics 
 may be effective when they are part of an alternative therapy or 
 multi-drug  treatment  and  prophylaxis  of  urogenital  infections.
-[36] Another important issue is that no serious adverse effects is 
+Another important issue is that no serious adverse effects is 
 seen in any of the probiotic applications.
 
 When considered as a part of multiple treatment, antibiotics and 
@@ -268,7 +268,7 @@ tem and may cause antibiotic resistance in the following period
 and  destroy  the  existing  natural  barrier  of  the  urinary  system 
 formed against infections.
 
-In their study, Zucotti et al.[37] stated that probiotics could be a 
+In their study, Zucotti et al.stated that probiotics could be a 
 good alternative to antibiotic therapy because of their ability to 
 bind  to  uroepithelial  cells  and  inhibit  pathogenic  growth,  and 
 biosurfactant  secretion.  The  same  investigators  have  empha-
@@ -282,7 +282,7 @@ to  the  vagina  and  the  mesentery.  If  pathogenic  bacteria  can
 achieve this, then why Lactobacillus, an important component 
 of  vaginal  colonization,  can  not  do  it?  Clinical  studies  have 
 demonstrated  that  oral  administration  of  Lactobacillus  can 
-demonstrate  its  effects  after  reaching  the  vagina.[38-41]  In  these 
+demonstrate  its  effects  after  reaching  the  vagina. In  these 
 studies, probiotic capsules containing L. rhamnosus and L. fer-
 mentes were administered orally at a dose of 109 CFU once or 
 twice daily. In these studies the authors reported that probiotic 
@@ -294,7 +294,7 @@ treatment may be better.
 
 Prevention of UTIs in women
 A  meta-analysis  on  the  application  of  Lactobacillus  was  pub-
-lished.[42] A  total  of  294  patients  from  5  published  studies  were 
+lished.A  total  of  294  patients  from  5  published  studies  were 
 evaluated  and  as  a  result  vaginally  administered  Lactobacillus 
 
 probiotic chain was shown to be safe and effective in preventing 
@@ -320,27 +320,27 @@ conclusion, they found evidence that Lactobacillus species (par-
 ticularly L. rhamnosus GR-1 and L. reuteri) may be useful in the 
 prevention and treatment of recurrent UTIs. It is also stated that 
 additional studies are needed to clearly define the optimal dose 
-and duration of application.[43] 
+and duration of application.
 
 Recently,  two  double-blind,  placebo-controlled,  randomized 
 clinical  trials  investigating  the  effects  of  probiotics  in  inhibit-
-ing  recurrent  UTIs  have  been  published.[16,44]  In  a  double-blind 
-study, Beerepoot et al.[44] demonstrated that supplementation with 
+ing  recurrent  UTIs  have  been  published. In  a  double-blind 
+study, Beerepoot et al.demonstrated that supplementation with 
 480  mg  L.  rhamnosus  GR-1  and  L.  reuteri  RC-14  significantly 
 though incompletely decreased the mean number of recurrences 
 in  patients  with  uncomplicated  UTI  relative  to  the  control.  In 
 addition,  antibiotic  resistance  was  significantly  reduced  in  the 
 probiotic  group  compared  to  the  control  group.  In  a  recent 
-double-blind, placebo-controlled phase 2 study, Stapleton et al.[16] 
+double-blind, placebo-controlled phase 2 study, Stapleton et al.
 investigated 100 premenopausal women who had undergone cys-
 titis at least once within the last 12 months . These patients were 
 divided into two groups and for 10 weeks following an episode 
 of cystitis placebo treatment was given to 48 patients, and other 
 48  patients  received  intravaginal  probiotics  (Lactin-V)  contain-
-ing  Lactobacillus  crispatus  (108  CFUs/mL).  The  results  of  this 
+ing  Lactobacillus  crispatus    The  results  of  this 
 study showed that the incidence of recurrent UTIs in patients who 
 received  intravaginal  Lactobacillus  treatment  decreased  signifi-
-cantly compared to the placebo group.[16]  
+cantly compared to the placebo group. 
 
 Relationship between premenopausal UTI and probiotics
 Most  studies  on  probiotic  application  in  recurrent  UTI  in  the 
@@ -390,7 +390,7 @@ Akgül and Karakan. The role of probiotics in women with recurrent urinary tract
 
 381
 
-Table 3. Some studies that evaluated probiotics used in the treatment of UTIs[42]
+Table 3. Some studies that evaluated probiotics used in the treatment of UTIs
 
 Agents used
 
@@ -420,10 +420,10 @@ Efficacy in conditions of UTI
 
 Reference
 
-RR (95% CI) 
+RR 
 p
 
-0.45 (0.15-1.40)
+0.45 
 p=0.2682
 
 47
@@ -471,21 +471,21 @@ controlled, double-blind
 study including 100 
 premenopausal women
 
-1.11 (0.70-1.76) 
+1.11 
 p=0.8320
 
 49
 
-0.54 (0.24-1.23) 
+0.54 
 p=0.2089
 
 16
 
-tivariate analysis, Scholes et al.[45] reported that frequent sexual 
+tivariate analysis, Scholes et al.reported that frequent sexual 
 intercourse is the most important risk factor for UTI. Other risk 
 factors can be described as factors that cause vaginal coloniza-
 tion of uropathogens and decrease in the number of Lactobacilli 
-which pass through ascending route into the urinary system.[46]
+which pass through ascending route into the urinary system.
 
 Though  sufficient  number  of  studies  on  the  efficacy  of  probiotic 
 applications containing especially Lactobacillus spp. in UTIs devel-
@@ -497,7 +497,7 @@ In  UTI  use  of  mono-,  and  combination  treatments  with  probiot-
 ics  has  been  published  (Table  3).  These  combinations  have  been 
 applied with different microorganism strains and different routes of 
 administration (vaginal, oral) and effective results have been report-
-ed.[47-49] In a recent prospective study, Montorsi et al.[50] administered 
+ed.administered 
 a combination of 120 mg cranberry, 109/CFU L. rhamnosus SGL 06 
 and 75 mg vitamin C for 3 months in female patients with recurrent 
 UTI. In the 3rd and 6th month controls, the response rates to treat-
@@ -508,7 +508,7 @@ Dose and formulations of probiotics
 In literature studies on probiotic use in UTI, duration of probiot-
 ic use ranges from 5 days to 12 months, and doses vary between 
 104 CFU and 1010 CFU. Oral, vaginal, and liquid formulations 
-are being used.[32]
+are being used.
 
 In  conclusion,  recurrent  UTIs  impair  quality  of  life  signifi-
 cantly  and  antibiotic  prophylaxis  may  increase  resistance  to 
@@ -519,8 +519,8 @@ area has increased over the years.
 
 382
 
-Turk J Urol 2018; 44(5): 377-83
-DOI:10.5152/tud.2018.48742
+Turk J Urol 2018; 44 377-83
+
 
 The  reason  for  this  interest  is  the  desire  of  the  patients  to  be 
 treated  with  natural  products  while  the  physicians  are  con-
@@ -558,229 +558,3 @@ Conflict of Interest: Authors have no conflicts of interest to declare.
 
 Financial  Disclosure:  The  authors  declared  that  this  study  has 
 received no financial support.
-
-References
-
-1.  Foxman  B,  Brown  P.  Epidemiology  of  urinary  tract  infections: 
-transmission and risk factors, incidence, and costs. Infect Dis Clin 
-North Am 2003;17:227-41. [CrossRef]
-
-2.  Foxman B, Gillespie B, Koopman J, Zhang L, Palin K, Tallman P, 
-et al. Risk factors for second urinary tract infection among college 
-women. Am J Epidemiol 2000;151:1194-205. [CrossRef]
-
-3.  Albert X, Huertas I, Pereiro II. Antibiotics for preventing recurrent 
-urinary tract infection in nonpregnant women. Cochrane Database 
-Syst Rev 2004;CD001209.
-
-4.  Schito GC, Naber KG, Botto H, Palou J, Mazzei T, Gualco L, et 
-al. The ARESC study: an international survey on the antimicrobial 
-resistance  of  pathogens  involved  in  uncomplicated  urinary  tract 
-infections. Int J Antimicrob Agents 2009;34:407-13. [CrossRef]
-5.  Moreira JR, Siqueira IC, Alcantara AP, Guereiro De Moura CG, 
-De Carvalho WA, Riley L. Antimicrobial resistance of Escherichia 
-
-coli  strains  causing  communityacquired  urinary  tract  infections 
-among insured and uninsured populations in a large urban center. J 
-Chemother 2006;18:255-60. [CrossRef]
-
-6.  Zhanel GG, Hisanaga TL, Laing NM, DeCorby MR, Nichol KA, 
-Palatnik LP, et al. Antibiotic resistance in outpatient urinary iso-
-lates: final results from the North American Urinary Tract Infec-
-tion Collaborative Alliance (NAUTICA). Int J Antimicrob Agents 
-2005;26:380-8. [CrossRef]
-
-7.  Alos  JI,  Serrano  MG,  Gomez-Garces  JL,  Perianes  J.  Antibiotic 
-resistance  of  Escherichia  coli  from  community-acquired  urinary 
-tract infections in relation to demographic and clinical data. Clin 
-Microbiol Infect 2005;11:199-203. [CrossRef]
-
-8.  Karlowsky  JA,  Kelly  LJ,  Thornsberry  C,  Jones  ME,  Sahm  DF. 
-Trends  in  antimicrobial  resistance  among  urinary  tract  infection 
-isolates  of  Escherichia  coli  from  female  outpatients  in  the  United 
-States. Antimicrob Agents Chemother 2002;46:2540-5. [CrossRef]
-
-9.  Cho  I,  Blaser  MJ.  The  human  microbiome:  at  the  interface  of 
-health and disease. Nat Rev Genet 2012;13:260-70. [CrossRef]
-10.  Shreiner AB, Kao JY, Young VB. The gut microbiome in health and 
-in disease. Curr Opin Gastroenterol 2015;31:69-75. [CrossRef]
-11.  Wolfe AJ, Toh E, Shibata N, Rong R, Kenton K, Fitzgerald M, et 
-al. Evidence of uncultivated bacteria in the adult female bladder. J 
-Clin Microbiol 2012;50:1376-83. [CrossRef]
-
-12.  Siddiqui  H,  Nederbragt  AJ,  Lagesen  K,  Jeansson  SL,  Jakobsen 
-KS. Assessing  diversity  of  the  female  urine  microbiota  by  high 
-throughput sequencing of 16S rDNA amplicons. BMC Microbiol 
-2011;11:244. [CrossRef]
-
-13.  Pearce  MM,  Hilt  EE,  Rosenfeld AB,  Zilliox  MJ, Thomas-White 
-K,  Fok  C,  et  al.  The  female  urinary  microbiome:  a  comparison 
-of women with and without urgency urinary incontinence. MBio 
-2014;5:e01283-14.
-
-14.  Thomas-White  KJ,  Hilt  EE,  Fok  C,  Pearce  MM,  Mueller  ER, 
-Kliethermes S, et al. Incontinence medication response relates to the fe-
-male urinary microbiota. Int Urogynecol J 2016;27:723-30. [CrossRef]
-15.  Hilt  EE,  McKinley  K,  Pearce  MM,  Rosenfeld  AB,  Zilliox  MJ, 
-Mueller ER, et al. Urine is not sterile: use of enhanced urine cul-
-ture techniques to detect resident bacterial flora in the adult female 
-bladder. J Clin Microbiol 2014;52:871-6. [CrossRef]
-
-16.  Stapleton AE, Au-Yeung M, Hooton TM, Fredricks DN, Roberts 
-PL, Czaja CA, et al. Randomized, placebo controlled Phase 2 tri-
-al  of  a  Lactobacillus  crispatus  probiotic  given  intravaginally  for 
-the prevention of recurrent urinary tract infection. Clin Infect Dis 
-2011;52:1212-7. [CrossRef]
-
-17.  Kuitunen  M,  Kukkonen  K,  Juntunen-Backman  K,  Korpela  R, 
-Poussa T, Tuure T et al. Probiotics prevent IgE-associated allergy 
-until age 5 years in cesarean-delivered children but not in the total 
-cohort. J Allergy Clin Immunol 2009;123:335-41. [CrossRef]
-18.  Fouts DE, Pieper R, Szpakowski S, Pohl H, Knoblach S, Suh MJ, 
-et  al.  Integrated  next-generation  sequencing  of  16S  rDNA  and 
-metaproteomics  differentiate  the  healthy  urine  microbiome  from 
-asymptomatic  bacteriuria  in  neuropathic  bladder  associated  with 
-spinal cord injury. J Transl Med 2012;10:174. [CrossRef]
-
-19.  Lewis  DA,  Brown  R,  Williams  J,  White  P,  Jacobson  SK,  Mar-
-chesi JR, et al. The human urinary microbiome; bacterial DNA in 
-voided urine of asymptomatic adults. Front Cell Infect Microbiol 
-2013;3:41. [CrossRef]
-
-Akgül and Karakan. The role of probiotics in women with recurrent urinary tract infections
-
-383
-
-20.  Pometto A, Shetty K, Paliyath G, Levin RE. Food biotechnology. 
-
-Ed 2. Boca Raton, FL: CRC Press; 2005.
-
-21.  Aragón  IM,  Herrera-Imbroda  B,  Queipo-Ortuño  MI,  Castillo  E, 
-Del  Moral  JS,  Gómez-Millán  J,  et  al. The  Urinary Tract  Micro-
-biome  in  Health  and  Disease.  Eur  Urol  Focus  2018;4:128-38. 
-[CrossRef]
-
-22.  Barrons  R,  Tassone  D.  Use  of  Lactobacillus  probiotics  for  bac-
-terial  genitourinary  infections  in  women:  a  review.  Clin  Ther 
-2008;30:453-68. [CrossRef]
-
-23.  Bolton M, Van Der Straten A, Cohen CR. Probiotics: potential to 
-prevent  HIV  and  sexually  transmitted  infections  in  women.  Sex 
-Transm Infect 2008;35:214-25. [CrossRef]
-
-24.  Donders  GG.  Microscopy  of  the  bacterial  flora  on  fresh  vaginal 
-smears. Infect Dis Obstet Gynecol 1999;7:177-9. [CrossRef]
-25.  Reid G, Dols J, Miller W. Targeting the vaginal microbiota with 
-probiotics as a means to counteract infections. Curr Opin Clin Nutr 
-Metab Care 2009;12:583-7. [CrossRef]
-
-26.  Preidis  Geoffrey A,  Versalovic  J.  Targeting  the  human  Microbi-
-ome with antibiotics, probiotics, and prebiotics: gastroenterology 
-enters the metagenomics era. Gastroenterology 2009;136:2015-31. 
-[CrossRef]
-
-tubular atrophy documented in early surveillance biopsies. Am J 
-Transplant 2017;17:712-23. [CrossRef]
-
-36.  Hiergeist A, Gessner A. Clinical implications of the microbiome in 
-urinary tract diseases. Curr Opin Urol 2017;27:93-8. [CrossRef]
-37.  Zuccotti  GV,  Meneghin  F,  Raimondi  C,  Dilillo  D,  Agostoni  C, 
-Riva E, et al. Probiotics in clinical practise: an overview. J Int Med 
-Res 2008;36(Suppl 1):1A-53A.
-
-38.  Reid  G,  Beuerman  D,  Heinemann  C,  Bruce AW.  Probiotic  Lac-
-tobacillus dose required to restore and maintain a normal vaginal 
-flora. FEMS Immunol Med Microbiol 2001;32:37-41. [CrossRef]
-39.  Reid G, Bruce AW, Fraser N, Heinemann C, Owen J, Henning B. 
-Oral probiotics can resolve urogenital infections. FEMS Immunol 
-Med Microbiol 2001;30:49-52. [CrossRef]
-
-40.  Reid  G,  Charbonneau  D,  Erb  J,  Kochanowski  B,  Beuerman  D, 
-Poehner R, Bruce AW. Oral use of Lactobacillus rhamnosus GR-1 
-and  L.  fermentum  RC-14  significantly  alters  vaginal  flora:  ran-
-domized,  placebo-controlled  trial  in  64  healthy  women.  FEMS 
-Immunol Med Microbiol 2003;35:131-4. [CrossRef]
-
-41.  Morelli L, Zonenenschain D, Del Piano M, Cognein P. Utilization 
-of the intestinal tract as a delivery system for urogenital probiotics. 
-J Clin Gastroenterol 2004;38:S107-10.
-
-27.  Iannitti T, Palmieri B. Therapeutical use of probiotic formulations 
-in clinical practice. Clinical Nutrition 2010;29:701-25. [CrossRef]
-28.  Kaur IP, Chopra K, Saini A. Probiotics: potential pharmaceutical 
-
-42.  Grin  PM,  Kowalewska  PM,  Alhazzan  W,  Fox-Robichaud  AE. 
-Lactobacillus  for  preventing  recurrent  urinary  tract  infections  in 
-women: meta-analysis. Can J Urol 2013;20:6607-14.
-
-applications. Eur J Pharm Sci 2002;15:1-9. [CrossRef]
-
-29.  Hanson  L,  VandeVusse  L,  Jerm´e  M, Abad  CL,  Safdar  N.  Pro-
-biotics  for  Treatment  and  Prevention  of  Urogenital  Infections 
-in  Women:  A  Systematic  Review.  J  Midwifery  Womens  Health 
-2016;61:339-55. [CrossRef]
-
-30.  Beerepoot MAJ, Geerlings SE, van Haarst EP, Mensing van Charan-
-te N, ter Riet G. Nonantibiotic Prophylaxis for Recurrent Urinary 
-Tract Infections: A Systematic Review and Meta-Analysis of Ran-
-domized Controlled Trials. J Urol 2013;190:1981-9. [CrossRef]
-31.  Ghartey JP, Smith BC, Chen Z, Buckley N, Lo Y, Ratner AJ, et al. 
-Lactobacillus crispatus dominant vaginal microbiome is associat-
-ed with inhibitory activity of female genital tract secretions against 
-Escherichia coli. PLoS One 2014;9:e96659. 
-
-32.  Falagas ME, Betsi GI, Tokas T. Probiotics for prevention of recur-
-rent  urinary  tract  infections  in  women:  a  review  of  the  evidence 
-from  microbiological  and  clinical  studies.  Drugs  2006;66:1253-
-61. [CrossRef]
-
-33.  Costantini  E,  Giannitsas  K,  Illiano  E.  The  role  of  nonantibiotic 
-treatment  of  community-acquired  urinary  tract  infections.  Curr 
-Opin Urol 2017;27:120-6. [CrossRef]
-
-34.  Stewardson AJ, Gaïa N, François P, Malhotra-Kumar S, Delémont 
-C, Martinez de Tejada B, et al. Collateral damage from oral cipro-
-floxacin versus nitrofurantoin in outpatients with urinary tract in-
-fections: a culture-free analysis of gut microbiota. Clin Microbiol 
-Infect 2015;21:344.e1-11.
-
-35.  Modena  BD,  Milam  R,  Harrison  F,  Cheeseman  JA,  Abecassis 
-MM, Friedewald JJ, et al. Changes in urinary microbiome popula-
-tions  correlate  in  kidney  transplants  with  interstitial  fibrosis  and 
-
-43.  Abad  CL,  Safdar  N.  The  role  of  Lactobacillus  probiotics  in  the 
-treatment or prevention of urogenital infections: A systematic re-
-view. J Chemother 2009;21:243-52. [CrossRef]
-
-44.  Beerepoot  MA,  ter  Riet  G,  Nys  S,  van  der Wal WM,  de  Borgie 
-CA, de Reijke TM, et al. Lactobacilli versus antibiotics to prevent 
-urinary tract infections: a randomized, double-blind, noninferiority 
-trial in postmenopausal women. Arch Intern Med 2012;172:704-
-12. [CrossRef]
-
-45.    Scholes  D,  Hooton  TM,  Roberts  PL,  Stapleton  AE,  Gupta  K, 
-Stamm  WE.  Risk  factors  for  recurrent  urinary  tract  infection  in 
-young women. J Infect Dis 2000;182:1177-82. [CrossRef]
-
-46.    Gupta  K,  Stapleton AE,  Hooton  TM,  Roberts  PL,  Fennell  CL, 
-Stamm  WE.  Inverse  association  of  H2O2-producing  lactobacilli 
-and vaginal Escherichia coli colonization in women with recurrent 
-urinary tract infections. J Infect Dis 1998;178:446-50. [CrossRef]
-47.  Reid G, Bruce AW, Taylor M. Influence of three-day antimicrobial 
-therapy  and  lactobacillus  vaginal  suppositories  on  recurrence  of 
-urinary tract infections. Clin Ther 1992;14:11-6.
-
-48.  Reid  G,  Bruce  AW,  Taylor  M.  Instillation  of  Lactobacillus  and 
-stimulation of indigenous organisms to prevent recurrence of uri-
-nary tract infections. Microecol Ther 1995;23:32-45.
-
-49.  Kontiokari T, Laitinen J, Jarvi L, Pokka T, Sundqvist K, Uhari M. 
-Dietary factors protecting women from urinary tract infection. Am 
-J Clin Nutr 2003;77:600-4. [CrossRef]
-
-50.  Montorsi F, Gandaglia G, Salonia A. Effectiveness of a combina-
-tion of cranberries, Lactobacillus rhamnosus, and vitamin C for the 
-management of recurrent urinary tract infections in women: results 
-of a pilot study. Eur Urol 2016;70:912-5. [CrossRef]
-
-

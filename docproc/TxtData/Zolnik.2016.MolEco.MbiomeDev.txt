@@ -256,7 +256,7 @@ Tissue kit (Qiagen) according to the manufacturer’s pro-
 tocol, with the addition of an overnight incubation at
 56 °C in ATL buffer and proteinase K, and a ﬁnal elu-
 tion in 100 lL of ddH2O after a 5 min, room tempera-
-ture (18–22 °C) incubation step.
+ture incubation step.
 
 16S rRNA PCR ampliﬁcation
 
@@ -265,7 +265,7 @@ and V4 of the bacterial 16S rRNA gene using primers
 Bakt_341F and Bakt_805R,
 following Illumina’s 16S
 Metagenomic Sequencing Library Preparation protocol
-(Illumina) and a review by Klindworth et al. (2013).
+(Illumina) and a review by Klindworth et al. 
 This primer set, resulting in a 450- to 550-bp PCR pro-
 duct, was determined to be the best candidate among
 512 sets tested in terms of domain and phylum cover-
@@ -331,7 +331,7 @@ Nextera XT Index 1 Primer, 5 lL Nextera XT Index 2
 Primer and 5 lL puriﬁed PCR product as suggested by
 Illumina. The thermal cycling conditions for the index-
 ing PCR consisted of an initial denaturation at 95 °C for
-3 min, followed by the optimal number of cycles (8) of
+3 min, followed by the optimal number of cycles of
 98 °C for 30 s, 55 °C for 30 s and 72 °C for 30 s on a
 Techne Prime Elite Thermal Cycler. Indexed amplicons
 were puriﬁed with Agencourt AMPure XP beads (Beck-
@@ -351,7 +351,7 @@ a
 concentration of 5.5 pM. High-throughput amplicon
 sequencing was conducted on a MiSeq instrument (Illu-
 mina) using the v3 Reagent Kit 600-cycle format and
-2 9 300 bp paired-end (300PE) reads at
+2 9 300 bp paired-end reads at
 the Epige-
 nomics Core Facility of Weill Cornell Medicine (New
 York, NY, USA).
@@ -396,7 +396,7 @@ Representative sequences were aligned and ﬁltered
 using PYNAST (Caporaso et al. 2010a), and a phylogenetic
 tree was estimated from the alignment with FASTTREE
 (Price et al. 2009). OTU tables in BIOM format were
-accessioned to Dryad (doi:10.5061/dryad.mt6m0).
+accessioned to Dryad (
 
 taxonomic
 
@@ -545,7 +545,7 @@ OTUs were assigned to 332 taxa (Table S3, Supporting
 information).
 
 Proteobacteria represented the phylum with the high-
-est relative abundances (90–99.7%) across all develop-
+est relative abundances across all develop-
 mental stage sample pools. The remaining OTUs were
 
 Larvae  
@@ -666,24 +666,24 @@ Planctomycetes, Spirochaetae, Verrucomicrobia, the can-
 didate phyla BRC1, FBP, GN02, OD1, TM6, TM7, WPS-
 2 and Thermi, or were unassigned at the phylum level.
 At the genus level, Rickettsia had the highest relative
-abundance (55–99.5%) across all developmental stage
+abundance across all developmental stage
 samples. In all, 13 genera (and one family-level taxon)
 were present with a relative abundance of 1% or greater
-in at least one sample (Fig. 2). The relative abundance
+in at least one sample . The relative abundance
 of non-Rickettsia taxa increased along developmental
 stages (i.e. larvae to nymphs to adults) with the excep-
 tion of adult females, which displayed the highest rela-
 tive abundance of Rickettsia of all ﬁeld-collected life
-stages (Fig. 2). Freshly hatched larvae also had a high
-relative abundance of Rickettsia (Fig. 2). Seven taxa were
+stages . Freshly hatched larvae also had a high
+relative abundance of Rickettsia . Seven taxa were
 found in all female and all freshly hatched larvae sam-
 ples (matching to the genera Rickettsia, Phyllobacterium,
 Burkholderia, Sphingomonas, Pseudomonas and the families
 Comamonadaceae
 and Oxalobacteraceae); however,
 females harboured more observed OTUs than freshly
-hatched larvae (Fig. 1). Adult males had the lowest pro-
-portion of Rickettsia (55–83%) and thus had more genera
+hatched larvae . Adult males had the lowest pro-
+portion of Rickettsia and thus had more genera
 with a relative abundance of ≥1% of any developmental
 stage. Wolbachia was the genus with the second highest
 
@@ -717,11 +717,11 @@ unweighted UniFrac (which does not account for abun-
 dance data) PCoA explained 41.78% (Axis 1) and
 12.03% (Axis 2) of the variation among developmental
 stages and showed clustering separation for lab-raised
-larvae and females (Fig. 3A). The weighted UniFrac
+larvae and females . The weighted UniFrac
 PCoA explained 82.36% (Axis 1) and 9.55% (Axis 2) of
 the variation, with two male
 clustering
-together (Fig. 3B).
+together .
 
 samples
 
@@ -862,11 +862,11 @@ female salivary glands and female midguts. At a rar-
 efaction depth of 200 000 sequences, whole females
 exhibited the highest a-diversity for observed number
 of OTUs and phylogenetic diversity, with female mid-
-guts exhibiting the lowest measures (Fig. 4). However,
+guts exhibiting the lowest measures . However,
 female salivary glands exhibited the highest a-diversity
 
 out of all three categories for both Shannon’s and Simp-
-son’s indices (Fig. 4).
+son’s indices .
 
 Rickettsia was the most abundant genus found in
 whole females and their organs. Other than that, no
@@ -888,7 +888,7 @@ R2 = 0.41, P = 0.001) according to a PERMANOVA. Distinct
 clustering was observed for each organ and the whole
 tick when abundance data were not considered (un-
 weighted UniFrac PCoA) explaining 39.53% (Axis 1)
-and 22.35% (Axis 2) of the variation (Fig. 5A). Cluster-
+and 22.35% (Axis 2) of the variation . Cluster-
 ing of whole females and midguts away from salivary
 abundance
 gland
@@ -997,7 +997,7 @@ around samples display degree of variation. [Colour ﬁgure can be viewed at wil
 
 information was considered in a weighted UniFrac
 PCoA, which explained 93.1% (Axis 1) and 5.14% (Axis
-2) of the variation (Fig. 5B).
+2) of the variation .
 
 Discussion
 
@@ -1072,7 +1072,7 @@ community. More
 
 We found similar a-diversity for ﬁeld-collected larvae
 and nymphs, compared to freshly hatched larvae, for
-all a-diversity measures (Fig. 1). This implies that expo-
+all a-diversity measures . This implies that expo-
 sure to the natural environment has a strong effect on
 the microbiome, as the lab-raised larvae with no expo-
 sure to the tick’s natural habitat contained a much less
@@ -1095,7 +1095,7 @@ source on tick bacterial communities is warranted,
 given the role that reservoir hosts play in maintaining
 and transmitting tick-borne pathogens to feeding ticks.
 
-(2015)
+
 
 than males
 
@@ -1116,7 +1116,7 @@ adult male and female blacklegged ticks exhibited
 markedly divergent bacterial communities from one
 another. Female ticks harboured more homogeneous
 bacterial
-(Fig. 2). A less
+. A less
 diverse microbiome in females has also been recently
 documented in both the blacklegged tick (Van Treuren
 et al. 2015) and the lone star tick, Amblyomma ameri-
@@ -1142,7 +1142,7 @@ and dimorphism in the adult stage may be driving
 these sex-speciﬁc differences in bacterial community
 diversity.
 
-Although a recent study by Narasimhan et al. (2014)
+Although a recent study by Narasimhan et al. 
 explored the microbiome of two different cohorts of lar-
 vae hatched and reared in the lab (reared in sterile con-
 ditions or so-called ‘normal’ containers), our study is
@@ -1154,7 +1154,7 @@ presumably contain only bacteria that were transovari-
 ally transmitted. The high relative abundance of Rick-
 ettsia observed in females (mean = 97.8%) was observed
 at an even higher relative abundance in the lab-raised
-larvae (99.5%), potentially due to certain bacteria found
+larvae  potentially due to certain bacteria found
 in females that are not transferred to their offspring.
 Transovarial transmission of Rickettsia has been detected
 in a number of tick species (Macaluso et al. 2001, 2002;
@@ -1180,7 +1180,7 @@ example, were
 
 In addition to Rickettsia, 12 bacterial genera and one
 family-level taxon were found in at least 1% of ﬁeld-
-collected developmental stages (Fig. 2). Borrelia and
+collected developmental stages . Borrelia and
 Anaplasma
 found in
 nymphs and adults. Within blacklegged ticks, known
@@ -1238,11 +1238,11 @@ ria. Furthermore,
 clustering of adult
 females and freshly hatched larvae in the unweighted
 UniFrac PCoA is likely due to the lower number of
-OTUs present in these life stages (Fig. 3A), while the
+OTUs present in these life stages , while the
 more divergent cluster of males in the weighted Uni-
 Frac PCoA is most likely due to the higher relative
 abundance of non-Rickettsia genera compared to the
-other life stages (Fig. 3B).
+other life stages .
 
 the distinct
 
@@ -1253,11 +1253,11 @@ whole females,
 female salivary glands and female
 midguts. Both organs displayed lower a-diversity than
 the entire female for measures of observed number of
-(Fig. 4), while
+, while
 OTUs
 female salivary glands displayed a higher a-diversity
 than midguts or even the entire tick for Shannon’s
-and Simpson’s index (Fig. 4). This is due to these lat-
+and Simpson’s index . This is due to these lat-
 ter measures taking evenness into account and the
 increased relative abundance of Borrelia and Ana-
 plasma,
@@ -1265,16 +1265,16 @@ in the salivary gland samples. Furthermore,
 the unique clustering displayed by all
 three sample
 the differences in taxa
-types (Fig. 5A) suggests that
+types  suggests that
 for each of these samples represent unique signatures.
 When abundance was taken into account with the
-weighted UniFrac distances (Fig. 5B), the midguts and
+weighted UniFrac distances , the midguts and
 whole female ticks tended to cluster together, away
 from the more divergent salivary gland samples, pre-
 sumably due to the >98% relative abundance of Rick-
 ettsia species in these two sample types. The higher
-average relative abundance of Anaplasma (12.5%) and
-Borrelia (7.2%) found in the salivary glands compared
+average relative abundance of Anaplasma and
+Borrelia found in the salivary glands compared
 to the midguts (<1% average relative abundance for
 both bacterial genera) may be due to differences in
 tissue tropism of known pathogens within these two
@@ -1358,522 +1358,3 @@ script represents contribution #261 of the Louis Calder Center
 – Biological Field Station, Fordham University. We thank the
 editor and three anonymous reviewers for constructive com-
 ments that improved our manuscript.
-
-References
-
-Ahantarig A, Trinachartvanit W, Baimai V, Grubhoffer L (2013)
-Hard ticks and their bacterial endosymbionts (or would be
-pathogens). Folia Microbiologica, 58, 419–428.
-
-Ammazzalorso AD, Zolnik CP, Daniels TJ, Kolokotronis SO
-(2015) To beat or not to beat a tick: comparison of DNA
-extraction methods from ticks (Ixodes scapularis). PeerJ, 3,
-e1147.
-
-Andreotti R, de Le(cid:1)on AAP, Dowd SE et al. (2011) Assessment
-of bacterial diversity in the cattle tick Rhipicephalus (Boophi-
-lus) microplus through tag-encoded pyrosequencing. BMC
-Microbiology, 11, 6.
-
-Azad AF, Beard CB (1998) Rickettsial pathogens and their
-
-arthropod vectors. Emerging Infectious Diseases, 4, 179.
-
-Barbour AG, Bunikis J, Travinsky B et al. (2009) Niche parti-
-tioning of Borrelia burgdorferi and Borrelia miyamotoi in the
-same tick vector and mammalian reservoir species. American
-Journal of Tropical Medicine and Hygiene, 81, 1120–1131.
-
-Benson MJ, Gawronski JD, Eveleigh DE, Benson DR (2004)
-Intracellular symbionts and other bacteria associated with
-deer ticks (Ixodes scapularis) from Nantucket and Wellﬂeet,
-Cape Cod, Massachusetts. Applied and Environmental Microbi-
-ology, 70, 616–620.
-
-Berger SA, Stamatakis A (2011) Aligning short reads to refer-
-
-ence alignments and trees. Bioinformatics, 27, 2068–2075.
-
-Budachetri K, Browning RE, Adamson SW et al. (2014) An
-insight into the microbiome of the Amblyomma maculatum
-(Acari: Ixodidae). Journal of Medical Entomology, 51, 119–129.
-Caporaso JG, Bittinger K, Bushman FD et al. (2010a) PyNAST:
-a ﬂexible tool for aligning sequences to a template align-
-ment. Bioinformatics, 26, 266–267.
-
-Caporaso JG, Kuczynski J, Stombaugh J et al. (2010b) QIIME
-allows analysis of high-throughput community sequencing
-data. Nature Methods, 7, 335–336.
-
-Carpi G, Cagnacci F, Wittekindt NE et al. (2011) Metagenomic
-proﬁle of the bacterial communities associated with Ixodes
-ricinus ticks. PLoS ONE, 6, e25604.
-
-CDC (2015) Reported cases of Lyme disease by state or locality,
-
-2004–2013. http://www.cdc.gov/lyme/stats.
-
-Clay K, Fuqua C (2010) The tick microbiome: diversity, distri-
-bution and inﬂuence of the internal microbial community for
-a blood-feeding disease vector. Critical Needs and Gaps in
-Understanding Prevention, Amelioration, and Resolution of
-Lyme and Other Tick-Borne Diseases: The Short-Term and
-Long-Term Outcomes – Workshop Report. The National
-Academies of Sciences, Engineering, and Medicine, Washing-
-ton, DC.
-
-Clay K, Klyachko O, Grindle N et al. (2008) Microbial commu-
-nities and interactions in the lone star tick, Amblyomma ameri-
-canum. Molecular Ecology, 17, 4371–4381.
-
-Conn H (1948) The most abundant groups of bacteria in soil.
-
-Bacteriological Reviews, 12, 257.
-
-Costello EK, Stagaman K, Dethlefsen L, Bohannan BJ, Relman DA
-(2012) The application of ecological theory toward an under-
-standing of the human microbiome. Science, 336, 1255–1262.
-De Silva AM, Fikrig E (1995) Growth and migration of Borrelia
-in Ixodes ticks during blood feeding. American
-
-burgdorferi
-Journal of Tropical Medicine and Hygiene, 53, 397–404.
-
-Diuk-Wasser M, Gatewood A, Cortinas MR et al. (2006) Spa-
-tiotemporal patterns of host-seeking Ixodes scapularis nymphs
-(Acari: Ixodidae) in the United States. Journal of Medical Ento-
-mology, 43, 166–176.
-
-Diuk-Wasser MA, Hoen AG, Cislo P et al. (2012) Human risk
-of infection with Borrelia burgdorferi, the Lyme disease agent,
-in eastern United States. American Journal of Tropical Medicine
-and Hygiene, 86, 320–327.
-
-Edgar RC (2010) Search and clustering orders of magnitude
-
-faster than BLAST. Bioinformatics, 26, 2460–2461.
-
-Edgar RC (2013) UPARSE: highly accurate OTU sequences
-from microbial amplicon reads. Nature Methods, 10, 996–998.
-Faith DP (1992) Conservation evaluation and phylogenetic
-
-diversity. Biological Conservation, 61, 1–10.
-
-Fish D (1993) Population ecology of Ixodes dammini. In: Ecology and
-(ed Ginsberg HS)
-
-Environmental Management of Lyme Disease,
-pp. 25–42. Rutgers University Press, New Brunswick, NJ.
-
-Gillespie JJ, Joardar V, Williams KP et al. (2012) A Rickettsia
-genome overrun by mobile genetic elements provides insight
-into the acquisition of genes characteristic of an obligate
-intracellular lifestyle. Journal of Bacteriology, 194, 376–394.
-
-Gordon
-
-A
-
-(2011)
-
-FASTX-Toolkit.
-
-http://hannon-
-
-lab.cshl.edu/fastx_toolkit/ (accessed 06 January 2015).
-
-Hawlena H, Rynkiewicz E, Toh E et al. (2013) The arthropod,
-but not the vertebrate host or its environment, dictates bacte-
-rial community composition of ﬂeas and ticks. ISME Journal,
-7, 221–223.
-
-Hayes SF, Burgdorfer W (1979) Ultrastructure of Rickettsia
-rhipicephali, a new member of the spotted fever group rick-
-ettsiae in tissues of the host vector Rhipicephalus sanguineus.
-Journal of Bacteriology, 137, 605–613.
-
-Heise SR, Elshahed M, Little S (2010) Bacterial diversity in
-Amblyomma americanum (Acari: Ixodidae) with a focus on
-members of the genus Rickettsia. Journal of Medical Entomol-
-ogy, 47, 258–268.
-
-Hill TC, Walsh KA, Harris JA, Moffett BF (2003) Using ecologi-
-cal diversity measures with bacterial communities. FEMS
-Microbiology Ecology, 43, 1–11.
-
-Hodzic E, Fish D, Maretzki CM et al. (1998) Acquisition and
-transmission of the agent of human granulocytic ehrlichiosis
-by Ixodes scapularis ticks. Journal of Clinical Microbiology, 36,
-3574–3578.
-
-Horta MC, Pinter A, Schumaker TT, Labruna MB (2006) Natu-
-ral infection, transovarial transmission, and transstadial sur-
-vival of Rickettsia bellii
-in the tick Ixodes loricatus (Acari:
-Ixodidae) from Brazil. Annals of the New York Academy of
-Sciences, 1078, 285–290.
-
-Hosokawa T, Koga R, Kikuchi Y, Meng XY, Fukatsu T (2010)
-Wolbachia as a bacteriocyte-associated nutritional mutualist.
-Proceedings of the National Academy of Sciences of the United
-States of America, 107, 769–774.
-
-Hovatter SR, Dejelo C, Case AL, Blackwood CB (2011) Meta-
-community organization of soil microorganisms depends on
-habitat deﬁned by presence of Lobelia siphilitica plants. Ecol-
-ogy, 92, 57–65.
-
-© 2016 John Wiley & Sons Ltd
-
-Huse SM, Welch DM, Morrison HG, Sogin ML (2010) Ironing
-out the wrinkles in the rare biosphere through improved
-OTU clustering. Environmental Microbiology, 12, 1889–1898.
-Janssen PH (2006) Identifying the dominant soil bacterial taxa
-in libraries of 16S rRNA and 16S rRNA genes. Applied and
-Environmental Microbiology, 72, 1719–1728.
-
-Katoh K, Standley DM (2013) MAFFT multiple sequence align-
-ment software version 7: improvements in performance and
-usability. Molecular Biology and Evolution, 30, 772–780.
-
-Keenan SW, Engel AS, Elsey RM (2013) The alligator gut
-microbiome and implications for archosaur symbioses. Scien-
-tiﬁc Reports, 3, 1–7.
-
-Klindworth A, Pruesse E, Schweer T et al. (2013) Evaluation of
-general 16S ribosomal RNA gene PCR primers for classical
-and next-generation sequencing-based diversity studies.
-Nucleic Acids Research, 41, e1.
-
-Krause PJ, Narasimhan S, Wormser GP et al. (2013) Human
-Borrelia miyamotoi infection in the United States. New England
-Journal of Medicine, 368, 291–293.
-
-Kuczynski J, Lauber CL, Walters WA et al. (2012) Experimental
-and analytical tools for studying the human microbiome.
-Nature Reviews Genetics, 13, 47–58.
-
-Kueneman JG, Parfrey LW, Woodhams DC et al. (2014) The
-amphibian skin-associated microbiome across species, space
-and life history stages. Molecular Ecology, 23, 1238–1250.
-
-Kunin V, Engelbrektson A, Ochman H, Hugenholtz P (2010)
-Wrinkles in the rare biosphere: pyrosequencing errors can
-lead to artiﬁcial inﬂation of diversity estimates. Environmental
-Microbiology, 12, 118–123.
-
-Kurtti TJ, Felsheim RF, Burkhardt NY et al. (2015) Rickettsia
-buchneri sp. nov., a rickettsial endosymbiont of the black-
-legged tick Ixodes scapularis. International Journal of Systematic
-and Evolutionary Microbiology, 65, 965–970.
-
-Lalzar I, Harrus S, Mumcuoglu KY, Gottlieb Y (2012) Composi-
-tion and seasonal variation of Rhipicephalus turanicus and
-Rhipicephalus sanguineus bacterial communities. Applied and
-Environmental Microbiology, 78, 4110–4116.
-
-Lefcort H, Durden L (1996) The effect of infection with Lyme
-disease spirochetes (Borrelia burgdorferi) on the phototaxis,
-activity, and questing height of the tick vector Ixodes scapu-
-laris. Parasitology, 113, 97–103.
-
-Letunic I, Bork P (2016) Interactive tree of life (iTOL) v3:
-an online
-the display and annotation of
-phylogenetic and other trees. Nucleic Acids Research, 44,
-W242–W245.
-
-tool
-
-for
-
-Liu L, Narasimhan S, Dai J et al. (2011) Ixodes scapularis salivary
-gland protein P11 facilitates migration of Anaplasma phagocy-
-tophilum from the tick gut to salivary glands. EMBO Reports,
-12, 1196–1203.
-
-Lozupone C, Knight R (2005) UniFrac: a new phylogenetic
-method for comparing microbial communities. Applied and
-Environmental Microbiology, 71, 8228–8235.
-
-Macaluso KR, Sonenshine DE, Ceraul SM, Azad AF (2001)
-Infection and transovarial transmission of rickettsiae in Der-
-macentor variabilis ticks acquired by artiﬁcial feeding. Vector
-Borne and Zoonotic Diseases, 1, 45–53.
-
-Macaluso KR, Sonenshine DE, Ceraul SM, Azad AF (2002)
-Rickettsial infection in Dermacentor variabilis (Acari: Ixodidae)
-inhibits transovarial transmission of a second Rickettsia. Jour-
-nal of Medical Entomology, 39, 809–813.
-
-© 2016 John Wiley & Sons Ltd
-
-M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4975
-
-McDonald D, Price MN, Goodrich J et al. (2012) An improved
-Greengenes taxonomy with explicit ranks for ecological and
-evolutionary analyses of bacteria and archaea. ISME Journal,
-6, 610–618.
-
-Menchaca AC, Visi DK, Strey OF et al. (2013) Preliminary
-assessment of microbiome changes following blood-feeding
-and survivorship in the Amblyomma americanum nymph-to-
-adult transition using semiconductor sequencing. PLoS ONE,
-8, e67129.
-
-Menke S, Wasimuddin MM, Melzheimer J et al. (2014) Oligo-
-typing reveals differences between gut microbiomes of free-
-ranging sympatric Namibian carnivores (Acinonyx jubatus,
-Canis mesomelas) on a bacterial species-like level. Frontiers in
-Microbiology, 5, 526.
-
-Moreno CX, Moy F, Daniels TJ, Godfrey HP, Cabello FC (2006)
-Molecular analysis of microbial communities identiﬁed in
-different developmental stages of Ixodes scapularis ticks from
-Westchester and Dutchess Counties, New York. Environmen-
-tal Microbiology, 8, 761–772.
-
-Narasimhan S, Rajeevan N, Liu L et al. (2014) Gut microbiota
-of the tick vector Ixodes scapularis modulate colonization of
-the Lyme disease spirochete. Cell Host & Microbe, 15, 58–71.
-Needham GR, Teel PD (1991) Off-host physiological ecology of
-
-ixodid ticks. Annual Review of Entomology, 36, 659–681.
-
-Neelakanta G, Sultana H, Fish D, Anderson JF, Fikrig E (2010)
-Anaplasma phagocytophilum induces Ixodes scapularis ticks to
-express an antifreeze glycoprotein gene that enhances their
-survival in the cold. Journal of Clinical Investigation, 120, 3179.
-Nikoh N, Hosokawa T, Moriyama M et al. (2014) Evolutionary
-origin of insect–Wolbachia nutritional mutualism. Proceedings
-of the National Academy of Sciences of the United States of Amer-
-ica, 111, 10257–10262.
-
-Noda H, Munderloh UG, Kurtti TJ (1997) Endosymbionts of
-ticks and their relationship to Wolbachia spp. and tick-borne
-pathogens of humans and animals. Applied and Environmental
-Microbiology, 63, 3926–3932.
-
-Pancholi P, Kolbert CP, Mitchell PD et al. (1995) Ixodes dammini
-as a potential vector of human granulocytic ehrlichiosis. Jour-
-nal of Infectious Diseases, 172, 1007–1012.
-
-Parola P, Socolovschi C, Raoult D (2009) Deciphering the rela-
-tionships between Rickettsia conorii conorii and Rhipicephalus
-sanguineus in the ecology and epidemiology of Mediter-
-ranean spotted fever. Annals of the New York Academy of
-Sciences, 1166, 49–54.
-
-Perlman SJ, Hunter MS, Zchori-Fein E (2006) The emerging
-diversity of Rickettsia. Proceedings of the Royal Society of Lon-
-don B: Biological Sciences, 273, 2097–2106.
-
-Piesman J, Gage KL (2004) Bacterial and rickettsial diseases. In:
-Medical Entomology: A Textbook on Public Health and Veterinary
-Problems Caused by Arthropods (eds Eldridge BF, Edman J).
-Kluwer Academic Publishers, Dordrecht, The Netherlands.
-Piesman J, Schneider BS, Zeidner NS (2001) Use of quantitative
-PCR to measure density of Borrelia burgdorferi in the midgut
-and salivary glands of feeding tick vectors. Journal of Clinical
-Microbiology, 39, 4145–4148.
-
-Platonov AE, Karan LS, Kolyasnikova NM et al. (2011) Humans
-infected with relapsing fever spirochete Borrelia miyamotoi,
-Russia. Emerging Infectious Diseases, 17, 1816.
-
-Ponnusamy L, Gonzalez A, Van Treuren W et al. (2014) Diver-
-sity of Rickettsiales in the microbiome of the lone star tick,
-
-4976 C . P . Z O L N I K E T A L .
-
-Amblyomma americanum. Applied and Environmental Microbiol-
-ogy, 80, 354–359.
-
-Price MN, Dehal PS, Arkin AP (2009) FastTree: computing
-large minimum evolution trees with proﬁles instead of a dis-
-tance matrix. Molecular Biology and Evolution, 26, 1641–1650.
-Qiu Y, Nakao R, Ohnuma A, Kawamori F, Sugimoto C (2014)
-Microbial population analysis of the salivary glands of ticks;
-a possible strategy for the surveillance of bacterial patho-
-gens. PLoS ONE, 9, e103961.
-
-R Core Team (2014) R: A Language and Environment for Statisti-
-cal Computing. R Foundation for Statistical Computing,
-Vienna, Austria. URL http://www.R-project.org.
-
-Reddy T, Thomas AD, Stamatis D et al. (2014) The Genomes
-OnLine Database (GOLD) v. 5: a metadata management sys-
-tem based on a four level (meta)genome project classiﬁca-
-tion. Nucleic Acids Research, 43, D1099–D1106.
-
-Rees H (2004) Hormonal control of
-
-tick development and
-
-reproduction. Parasitology, 129, S127–S143.
-
-Roggenbuck M, Schnell IB, Blom N et al. (2014) The microbiome of
-
-New World vultures. Nature Communications, 5, 5498.
-
-Rollend L, Fish D, Childs JE (2013) Transovarial transmission
-of Borrelia spirochetes by Ixodes scapularis: a summary of the
-literature and recent observations. Ticks and Tick-Borne Dis-
-eases, 4, 46–51.
-
-Rynkiewicz EC, Hemmerich C, Rusch DB, Fuqua C, Clay K
-(2015) Concordance of bacterial communities of two tick spe-
-cies and blood of their shared rodent host. Molecular Ecology,
-24, 2566–2579.
-
-Sanchez LM, Wong WR, Riener RM, Schulze CJ, Linington RG
-(2012) Examining the ﬁsh microbiome: vertebrate-derived
-bacteria as an environmental niche for the discovery of
-unique marine natural products. PLoS ONE, 7, e35398.
-
-Schabereiter-Gurtner C, Lubitz W, R€olleke S (2003) Application
-of broad-range 16S rRNA PCR ampliﬁcation and DGGE ﬁn-
-gerprinting for detection of tick-infecting bacteria. Journal of
-Microbiological Methods, 52, 251–260.
-
-Scoles GA, Papero M, Beati L, Fish D (2001) A relapsing fever
-group spirochete transmitted by Ixodes scapularis ticks. Vector
-Borne and Zoonotic Diseases, 1, 21–34.
-
-Simser JA, Palmer AT, Fingerle V, Wilske B, Kurtti TJ, Munderloh
-UG (2002) Rickettsia monacensis sp. nov., a spotted fever group
-Rickettsia, from ticks (Ixodes ricinus) collected in a European city
-park. Applied Environmental Microbiology, 68, 4559–4566.
-
-Spielman A (1976) Human babesiosis on Nantucket Island:
-transmission by nymphal Ixodes ticks. American Journal of
-Tropical Medicine and Hygiene, 25, 784–787.
-
-Spielman A, Clifford CM, Piesman J, Corwin MD (1979)
-Human babesiosis on Nantucket Island, USA: description of
-the vector, Ixodes dammini, n. sp. (Acarina: Ixodidae). Journal
-of Medical Entomology, 15, 218–234.
-
-Spielman A, Ribeiro J, Mather TN, Piesman J (1987) Dissemina-
-tion and salivary delivery of Lyme disease spirochetes in
-vector ticks (Acari: Ixodidae). Journal of Medical Entomology,
-24, 201–205.
-
-Stackebrandt E, Goebel B (1994) Taxonomic note: A place for
-DNA-DNA reassociation and 16S rRNA sequence analysis in
-the present species deﬁnition in bacteriology. International
-Journal of Systematic Bacteriology, 44, 846–849.
-
-Stamatakis A (2014) RAxML version 8: a tool for phylogenetic
-analysis and post-analysis of large phylogenies. Bioinformat-
-ics, 30, 1312–1313.
-
-Steere AC, Broderick TF, Malawista SE (1978) Erythema chron-
-icum migrans and Lyme arthritis: epidemiologic evidence for a
-tick vector. American Journal of Epidemiology, 108, 312–321.
-
-Stromdahl EY, Vince MA, Billingsley PM, Dobbs NA, Williamson
-infecting Amblyomma ameri-
-
-PC (2008) Rickettsia amblyommii
-canum larvae. Vector Borne and Zoonotic Diseases, 8, 15–24.
-
-Telford SR, Dawson JE, Katavolos P et al. (1996) Perpetuation
-of the agent of human granulocytic ehrlichiosis in a deer
-tick-rodent cycle. Proceedings of
-the National Academy of
-Sciences of the United States of America, 93, 6209–6214.
-
-Tokarz R, Jain K, Bennett A, Briese T, Lipkin WI (2010) Assess-
-ment of polymicrobial infections in ticks in New York State.
-Vector-Borne and Zoonotic Diseases, 10, 217–221.
-
-The Human Microbiome Project Consortium (2012) Structure,
-function and diversity of the healthy human microbiome.
-Nature, 486, 207–214.
-
-Van Overbeek L, Gassner F, van der Plas CL et al. (2008) Diversity
-of Ixodes ricinus tick-associated bacterial communities from dif-
-ferent forests. FEMS Microbiology Ecology, 66, 72–84.
-
-Van Treuren W, Ponnusamy L, Brinkerhoff RJ et al. (2015)
-Variation in the microbiota of Ixodes ticks with regard to
-geography, species, and sex. Applied and Environmental Micro-
-biology, 81, 6200–6209.
-
-Vayssier-Taussat M, Moutailler S, Michelet L et al. (2013) Next
-generation sequencing uncovers unexpected bacterial patho-
-gens in ticks in western Europe. PLoS ONE, 8, e81439.
-
-Wang Q, Garrity GM, Tiedje JM, Cole JR (2007) Naive Bayesian
-classiﬁer for rapid assignment of rRNA sequences into the
-new bacterial taxonomy. Applied and Environmental Microbiol-
-ogy, 73, 5261–5267.
-
-Weiss B, Aksoy S (2011) Microbiome inﬂuences on insect host
-
-vector competence. Trends in Parasitology, 27, 514–522.
-
-Werner JJ, Koren O, Hugenholtz P et al. (2012) Impact of train-
-ing sets on classiﬁcation of high-throughput bacterial 16s
-rRNA gene surveys. ISME Journal, 6, 94–103.
-
-Yang Z (1994) Maximum likelihood phylogenetic estimation
-from DNA sequences with variable rates over sites: approxi-
-mate methods. Journal of Molecular Evolution, 39, 306–314.
-
-Yuan DT (2010) A metagenomic study of the tick midgut. MS The-
-
-sis, University of Texas, Houston, Texas.
-
-Zhang X-C, Yang Z-N, Lu B et al. (2014) The composition and
-transmission of microbiome in hard tick, Ixodes persulcatus,
-during blood meal. Ticks and Tick-Borne Diseases, 5, 864–870.
-
-C.P.Z. designed the
-experiments, performed the
-research, analysed data and wrote the manuscript;
-R.J.P. contributed new reagents; R.C.F and T.J.D. con-
-tributed new reagents and edited the manuscript; and
-S.O.K. designed the experiments,
-contributed new
-reagents and analytic tools, analysed data and cowrote
-the manuscript.
-
-Data accessibility
-
-DNA sequences: NCBI SRA: SUB1534507
-
-© 2016 John Wiley & Sons Ltd
-
-BIOM OTU tables, Rickettsia PAPARA alignment, Rickettsia
-10.5061/dryad.
-
-JPLACE tree ﬁle: Dryad doi:
-mt6m0
-
-Supporting information
-
-Additional supporting information may be found in the online ver-
-sion of this article.
-
-M I C R O B I O M E O F B L A C K L E G G E D T I C K S 4977
-
-Fig. S2 Rarefaction curves based on the observed number of
-OTUs.
-
-Fig. S3 Average relative abundance of genera occurring in
-whole female ticks and associated organs.
-
-Table S1 Sequence read throughput per sample and life stage.
-
-Table S2 Measures of a-diversity for each developmental stage
-pool.
-
-Fig. S1 Bioinformatics workﬂow.
-
-Table S3 OTU table with taxonomy assignment.
-
-© 2016 John Wiley & Sons Ltd
-
-

@@ -1,0 +1,600 @@
+Diseases 2018, 6, 56
+
+2 of 10
+
+between the gut microbiome and CVDs to promote an understanding of the latest perspectives of the
+role of the gut microbiome in CVDs. Moreover, we have raised several issues that should be considered
+when interpreting previous evidence.
+
+2. Trimethylamine-N-oxide and CVDs
+
+A close relationship between the gut microbe-dependent production of trimethylamine-N-oxide
+(TMAO), derived from speciﬁc dietary nutrients such as choline and carnitine, and future
+cardiovascular events has been widely recognized [10]. Trimethylamine (TMA), which is produced by
+the gut microbial enzymes TMA lyases, is a precursor of TMAO. TMAO can be measured by liquid
+chromatography-mass spectrometry. Elevated blood TMAO levels have been directly linked to poor
+outcomes in patients with CVDs, such as coronary artery disease and acute and chronic heart failure
+(Table 1) [11–16]. Tang et al., investigated the relationship between the fasting plasma levels of TMAO
+and the incidence of major adverse cardiovascular events (death, myocardial infarction, or stroke)
+during three years of follow-up in 4007 patients undergoing elective cardiac catheterization [13].
+They found that the patients in the highest quartile for circulating TMAO levels had a 2.5-fold
+increased risk of major adverse cardiovascular events, compared with the patients with values in
+the lowest quartile. Of note, even after adjustment for traditional risk factors, an elevated TMAO
+level could predict an increased risk of major adverse cardiovascular events [13]. Additionally, high
+TMAO levels were observed in patients with stable heart failure compared to healthy subjects [11].
+This result suggests that the gut microbiome may play a role in the development and progression of
+heart failure. They also showed that elevated TMAO levels were associated with a 2.2-fold increase in
+the risk of mortality, after an adjustment for traditional risk factors and the brain natriuretic peptide.
+Moreover, the blood TMAO levels were associated with coronary plaque vulnerability, as assessed by
+optical coherence tomography, and the long-term risks of cardiovascular events in patients with acute
+coronary syndrome [14]. The latest metagenome-wide association study demonstrated the microbial
+characterization of coronary artery disease (CAD) patients and showed that the gut microbial enzymes
+that produce TMA were enriched in the patients with CAD compared to the healthy controls [17].
+
+As different gut microbial compositions generate different levels of TMAO [18], higher blood
+TMAO levels and an increased CVD risk can be attributed to a TMA-producing microbiome harboring
+TMA lyases. These ﬁndings support the idea that prevention of CVD is feasible through gut microbial
+modulation. However, the area under the receiver operating characteristic curve, based on TMA lyases,
+was not sufﬁcient to predict the incidence of CAD (Area Under the Curve = 0.63). Moreover, a recent
+clinical trial has shown that ﬁsh consumption increases the circulating TMAO levels, highlighting
+the substantial limitations in our current understanding of the relationship between diet and gut
+microbial TMAO production [18]. Moreover, all available clinical studies are cross-sectional studies
+or cohort studies, not interventional studies. Further research is needed to elucidate whether TMAO
+contributes directly to the progression of CVD or reﬂects the presence of a deleterious colonic microbial
+metabolism, dietary habits, or renal tubular dysfunction. In addition, the distribution of TMAO levels
+in the general population is unknown, and standard reference values are not currently available [19].
+A detailed understanding of the biological role of TMAO in CVD patients is crucial for evaluating
+the feasibility of developing drugs that affect the TMAO levels or the possibility of using TMAO as a
+marker of CVD.
+
+Diseases 2018, 6, 56
+
+3 of 10
+
+Table 1. Major clinical reports demonstrating the impact of circulating trimethylamine-N-oxide (TMAO) levels on cardiovascular diseases (CVD).
+
+Year
+
+Study Population
+
+Main Outcome
+
+Results
+
+Number of
+Subjects
+
+4007 in USA
+
+Major cardiovascular events (myocardial
+infarction, stroke), or death
+
+720 in USA
+
+All-cause mortality (death)
+
+N. Engl. J. Med.
+
+2013
+
+2014
+
+J. Am. Coll. Cardiol.
+
+2015 J. Card Fail
+
+Patients who were undergoing elective
+diagnostic cardiac catheterization
+
+Stable heart failure patients underwent
+elective coronary angiographic evaluation
+
+Chronic systolic heart failure with
+comprehensive echocardiographic evaluation
+
+112 in USA
+
+Adverse clinical events
+(death/transplantation)
+
+2016 Heart
+
+Acute heart failure
+
+972 in UK
+
+All-cause mortality (death) and a
+composite of death or re-hospitalization
+due to heart failure (death/HF)
+
+2016
+
+Am. J. Cardiol.
+
+Coronary artery disease
+
+26 in China
+
+Coronary plaque vulnerability assessed by
+optical coherence tomography
+
+-
+
+Follow-
+Up Period
+
+3 years
+
+5 years
+
+5 years
+
+1 year
+
+Increased TMAO levels were associated
+with an increased risk of major adverse
+cardiovascular events or death
+
+Elevated TMAO levels portended higher
+long-term mortality risk
+
+Higher TMAO levels were associated with a
+higher incidence of death/transplantation
+
+Elevated levels were associated with a higher
+incidence of death/HF
+
+Plasma TMAO level was signiﬁcantly higher in
+patients with plaque rupture than in those
+without plaque rupture
+
+2017 Clin. Chem.
+
+Acute myocardial infarction
+
+1079 in UK
+
+2 years
+
+TMAO levels were associated with death/MI
+
+Composite of all-cause mortality and
+re-infarction (death/myocardial infarction)
+
+Diseases 2018, 6, 56
+
+4 of 10
+
+3. Other Gut Microbial Metabolites and CVD
+
+There are a number of other gut microbial metabolites in addition to TMA. These metabolites have
+also been reported to have a link to CVDs. Indoxyl sulfate is produced by gut microbial tryptophanases
+that convert dietary tryptophan into indole, which is then converted to indoxyl and indoxyl sulfate in the
+liver by the sequential actions of cytochrome P450 enzymes and sulfotransferase 1A1. Indoxyl sulfate has
+been shown to have pro-inflammatory and pro-oxidant effects in cardiomyocytes and cardiac fibroblasts.
+Furthermore, recent reports have shown that indole and indoxyl sulfate affect the arterial blood pressure
+via peripheral and central mechanisms that depend on serotonin signaling in rats [20].
+
+Short chain fatty acids (SCFAs), produced by the colonic bacterial fermentation of dietary ﬁber,
+contribute a signiﬁcant proportion of the daily energy requirement [21]. SCFAs, especially butyrate
+and propionate, play an important role in regulatory T cell differentiation and intestinal tract immune
+regulation. The increased production of acetate by the gut microbiota of rodents leads to the activation
+of the parasympathetic nervous system, which promotes increased glucose-stimulated insulin secretion,
+hyperphagia, and obesity. However, no reports have described the direct impact of SCFAs on the
+incidence and progression of cardiovascular diseases [22].
+
+The gut microbiome utilizes sulfur-containing compounds to produce hydrogen sulﬁde.
+Hydrogen sulﬁde is an important biological mediator that is involved in various physiological
+processes, including the regulation of arterial blood pressure [23]. Moreover, phenylacetylglutamine
+is a product that is formed by the conjugation of phenylacetate and glutamine. High serum levels
+of phenylacetylglutamine have been observed in patients with advanced chronic kidney disease,
+and as a strong and independent risk factor for overall mortality and cardiovascular diseases [24].
+P-cresyl sulfate, a secondary metabolism of p-cresol, is also a microbial metabolite. Increased levels of
+p-cresyl sulfate are associated with worse outcomes in patients with chronic kidney disease [25].
+
+These results suggest that gut microbial metabolites may play an important role in the
+development of CVD. Further studies are warranted to elucidate the causal relationship between these
+metabolites and CVD.
+
+4. Alterations of the Gut Microbial Structure Associated with CVD
+
+Several studies have been conducted to elucidate which gut bacterial species are involved in the
+incidence and progression of CVD (Table 2) [17,26–28]. We were the ﬁrst to report that the incidence
+of CAD was linked to an alteration of the gut microbial composition [28,29]. We have reported a
+lower abundance of the phylum Bacteroidetes and a higher abundance of the order Lactobacillales
+in patients with CAD compared to non-CAD patients with coronary risk factors, such as diabetes,
+hypertension, or dyslipidemia, and healthy volunteers using terminal restriction fragment length
+polymorphism analysis, which is one of the most well-established and reliable 16S rRNA-based
+methods. The Firmicutes/Bacteroidetes ratio, an indicator of dysbiosis, increased in the CAD patients
+compared with the non-CAD controls. Interestingly, our data revealed that the CAD patients were
+signiﬁcantly more likely to be categorized as enterotype III, which is characterized by low levels
+of Bacteroides, compared with the non-CAD controls. Last year, a metagenome-wide association
+study of fecal samples from 218 CAD patients and 187 healthy subjects from China was reported [17].
+The abundance of Enterobacteriaceae was signiﬁcantly higher in the CAD patients compared to the
+healthy subjects. The abundance of Streptococcus spp. was also signiﬁcantly higher in the patients
+with CAD than in the healthy subjects. This may be due to the use of proton pump inhibitors in
+CAD patients [30]. Consistent with our results, Bacteroides spp. were signiﬁcantly depleted in the
+CAD patients. Given that Bacteroides spp. are known to have an important role in maintaining a
+healthy gut ecosystem [31], and that the abundance of Bacteroides spp. was found to decrease in
+patients with atherosclerotic ischemic stroke and transient ischemic attack [27], Bacteroides spp. may
+have the potential to regulate atherosclerosis progression. Furthermore, Faecalibacterium prausnitzii,
+which exhibits anti-inﬂammatory effects [32], was also signiﬁcantly depleted in the CAD patients.
+Of note, the co-abundance network structure differed between the two groups. The negative
+
+Diseases 2018, 6, 56
+
+5 of 10
+
+correlations between Streptococcus spp. and Bacteroides spp. were observed only in the CAD patients.
+On the other hand, the positive correlation between Bacteroides spp. and Erysipelotrichaceae bacterium
+was seen only in the healthy subjects. These results implied that a peculiar inter-species relationship in
+the gut microbiome may exist in CAD patients compared to healthy subjects.
+
+Additionally, there are some studies that have demonstrated the relationship between the
+gut microbiome and heart failure (HF). Kamo et al., ﬁrst reported the gut microbial difference in
+Japanese heart failure patients [33]. They performed a 16S rRNA gene sequencing analysis of fecal
+samples from 12 HF patients and 12 age-matched healthy subjects. They further compared the gut
+microbiome in HF patients according to age; the gut microbiome in the 12 HF patients younger than
+60 years of age were compared with those of the 10 HF patients 60 years of age or older. Although
+the richness and diversity of the gut microbiota were not signiﬁcantly different between the HF
+patients and healthy subjects, Dorea and Clostridium were less abundant in the HF patients than
+in the healthy subjects. Moreover, older HF patients had a lower abundance of Bacteroidetes and
+a higher abundance of Proteobacteria compared to the younger HF patients. There is also a report
+from China that shows a metagenomic analysis of fecal samples from patients with chronic HF [34].
+They enrolled 53 HF patients and 41 controls with risk factors and compared the compositions of
+their gut microbiomes. Ruminococcus, Acinetobacter, and Veillonella increased in the HF patients,
+whereas Alistipes, Faecalibacterium, and Oscillibacter decreased.
+In line with the previous report,
+Faecalibacterium prausnitzii decreased in the HF patients compared to the controls. The results of
+these studies suggest that an altered gut microbiome may have an impact on the development and
+progression of heart failure. This evidence paves the way for further studies investigating the gut
+microbiome in the prevention and management of CVD.
+
+Diseases 2018, 6, 56
+
+6 of 10
+
+Table 2. Clinical reports demonstrating the gut microbiome in patients with CVD.
+
+Year
+
+Study Population
+
+Country
+
+Analysis
+
+Results
+
+2012 Nat. Commun.
+
+12 patients with symptomatic atherosclerosis
+(myocardial infarction or cerebrovascular events)
+and 13 age- and sex-matched healthy individuals.
+
+Sweden
+
+Gut metagenome
+
+Collinsella ↑, Eubacterium ↓, Roseburia ↓ in patients
+with symptomatic atherosclerosis.
+
+2015 J. Am.
+Heart Assoc.
+
+141 patients with stroke and transient ischemic attack
+(stroke/TIA patients) and 94 asymptomatic controls.
+
+China
+
+16S rRNA V4 region
+
+Enterobacteriaceae ↑, Proteobacteria ↑, Escherichia/Shigella ↑, Bacteroidetes ↓,
+Bacteroidales ↓, Bacteroidaceae ↓, Bacteroides ↓ in stroke/TIA patients.
+
+2016 J.
+Atheroscler. Thromb.
+
+39 coronary artery disease (CAD) patients,
+30 age- and sex-matched no-CAD controls
+with coronary risk factors, and 50 healthy
+volunteers without coronary risk factors.
+
+Japan
+
+Terminal restriction fragment
+length polymorphism
+
+Firmicutes/Bacteroidetes ratio ↑, Lactobacillales ↑, Bacteroides + Prevotella ↓ in CAD.
+
+2017 Nat. Commun.
+
+218 individuals with atherosclerotic cardiovascular
+disease (ACVD) and 187 healthy controls.
+
+China
+
+Gut metagenome
+
+Enterobacteriaceae (Escherichia coli, Klebsiella spp., and Enterobacter aerogenes),
+Streptococcus spp., Lactobacillus salivarius, Solobacterium moorei, Atopobium parvulum,
+Ruminococcus gnavus, Eggerthella lenta ↑, Roseburia intestinalis ↓, Faecalibacterium cf.
+prausnitzii ↓, Bacteroides spp. ↓, Prevotella copri ↓, Alistipes shahii ↓ in ACVD.
+
+Diseases 2018, 6, 56
+
+7 of 10
+
+5. Alternations in Gut Microbial Function Associated with CVD
+
+In addition to the compositional characteristics, the functional characteristics of the gut
+microbiome have been investigated in order to delineate the mechanisms related to the development
+of CVD. Although metagenomic shotgun sequencing analysis is the main method to examine the
+functional characteristics, methods are being developed to predict functional proﬁles from taxonomic
+proﬁles. Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt)
+is a bioinformatics software package designed to predict metagenomic functional content from the
+16S rRNA gene [35]. The Kyoto Encyclopedia of Genes and Genomes (KEGG) modules are usually
+used to construct a functional map of the gut microbiome [36].
+
+The ﬁrst shotgun sequencing of the gut metagenome in patients with symptomatic atherosclerotic
+plaques in their carotid arteries was a study with a small number of samples [27]. They showed
+that genes that encode proteins involved in peptidoglycan synthesis were enriched, and those that
+encode phytoene dehydrogenases were depleted in the patients compared to these genes in healthy
+subjects. Considering that gut bacterial function differs even within the same strain, a metagenomic
+shotgun sequencing study must provide us with further detailed information. Five years later, Jie et al.,
+have reported a metagenomic shotgun sequencing study with 218 CAD patients and 187 healthy
+subjects [30]. They revealed alterations in gut microbial functional modules in CAD patients, such as
+the phosphotransferase system, amino acid transporters, vitamin metabolism, lipopolysaccharide
+biosynthesis, and the activities of SCFAs and TMA lyases.
+
+With regard to HF, Cui et al., have investigated the metabolic patterns of the gut microbiome
+in patients with chronic HF to provide direct evidence and a comprehensive understanding of
+gut microbial dysbiosis [34]. Fifty-three chronic HF patients (ischemic cardiomyopathy, n = 29;
+dilated cardiomyopathy, n = 24) and 41 controls with risk factors were enrolled. They found
+an elevation in the microbial genes for lipopolysaccharide biosynthesis, tryptophan, and TMAO
+generation in the chronic HF patients. This result provides a convincing explanation for the increased
+plasma lipopolysaccharide levels in HF patients [37], because the main source of lipopolysaccharides
+is the gut/gut microbiome. Moreover, increased expression of the genes for phosphotransferase
+systems and decreased gene expression for the synthesis and transport of amino acids, nucleotide
+sugar biosynthesis, and the iron transport system were observed in the HF patients compared with the
+controls. These disease-dependent unique features in the functional capacity may give us clues for
+novel therapeutic approaches.
+
+6. Issues to Be Considered When Interpreting the Studies
+
+Most clinical studies compare the gut microbial composition between patients and healthy controls.
+Administration of medication has a substantial effect on the gut microbiome, and medication-matched
+controls are required to elucidate the impact of the gut microbiome on disease progression. Moreover,
+the studies mentioned above have provided useful characterization of the fecal microbial proﬁle
+in patients with CVD; however, we are still struggling with these descriptive data. A speciﬁc gut
+microbiome-based target to prevent CVD has yet to emerge, which is the greatest challenge that we
+are currently facing. It may take a little more time to conduct a large cohort study or a translational
+study to promote a deeper understanding of how the gut microbiome directly contributes to CVD.
+While we already know that diet, prebiotics, probiotics, a speciﬁc IgA antibody, and enzymes can
+modulate the gut microbiome and its function [38,39], these interventions for patients with CVD are
+constrained by ethical considerations or funding limitations. In such cases, an in vitro fermentation
+system simulating the human intestinal tract may help to evaluate the functionality or safety of these
+interventions under highly reproducible conditions without the ethical issues [40]. Speciﬁcally, we can
+culture feces from patients with prebiotics or probiotics in an in vitro fermentation system and analyze
+how the gut microbiome, and its metabolites and functions, are changed after the intervention. Of note,
+we have observed some discrepancies between the ﬁndings in humans and mice. These may be due to
+
+Diseases 2018, 6, 56
+
+8 of 10
+
+the differences in the natural gut microbiome. It is important to pay attention to the complexities of
+translating the ﬁndings from an animal model to humans.
+
+7. Conclusions
+
+In summary, recent evidence on the potential interaction between the gut microbiome and
+cardiovascular diseases is intriguing. With increasing awareness of the relationship between the
+gut microbiome and CVD, we have high expectations for the clinical application of gut microbiome
+modulation. Further studies, focusing on a more speciﬁc and mechanistic understanding of the gut
+microbiome in the pathogenesis of CVD, are necessary to develop novel diagnostic and therapeutic
+strategies for CVD.
+
+Author Contributions: T.Y. conceived and wrote the manuscript and made critical revisions. N.Y. conceived and
+wrote the manuscript. K.H. searched the bibliography and made critical revisions.
+
+Funding: This research was funded by JSPS KAKENHI Grant Number 24591114, 16K09516 (T.Y.) and 17K09497
+(K.H.), The Japanese Circulation Society Translational Research Foundation (K.H.), Uehara Memorial Foundation
+(K.H.), Takeda Scientiﬁc Foundation (T.Y.), Senshin Medical Research Foundation (T.Y.), Yakult Bioscience Research
+Foundation (T.Y.), Hyogo Science and Technology Association (T.Y. and K.H.), and Kondou Kinen Medical
+Foundation (T.Y.). Article Processing Charges was sponsored by MDPI.
+
+Conﬂicts of Interest: The authors declare no conﬂicts of interest.
+
+References
+
+1.
+
+Turnbaugh, P.J.; Ley, R.E.; Mahowald, M.A.; Magrini, V.; Mardis, E.R.; Gordon, J.I. An obesity-associated gut
+microbiome with increased capacity for energy harvest. Nature 2006, 444, 1027. [CrossRef] [PubMed]
+2. Macpherson, A.J.; Harris, N.L. Interactions between commensal intestinal bacteria and the immune system.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+Nat. Rev. Immunol. 2004, 4, 478–485. [CrossRef] [PubMed]
+Zhao, L. The gut microbiota and obesity: From correlation to causality. Nat. Rev. Microbiol. 2013, 11, 639–647.
+[CrossRef] [PubMed]
+Imajo, K.; Fujita, K.; Yoneda, M.; Nozaki, Y.; Ogawa, Y.; Shinohara, Y.; Kato, S.; Mawatari, H.; Shibata, W.;
+Kitani, H.; et al. Hyperresponsivity to low-dose endotoxin during progression to nonalcoholic steatohepatitis
+is regulated by leptin-mediated signaling. Cell Metab. 2012, 16, 44–54. [CrossRef] [PubMed]
+Gevers, D.; Kugathasan, S.; Denson, L.A.; Vázquez-Baeza, Y.; Van Treuren, W.; Ren, B.; Schwager, E.;
+Knights, D.; Song, S.J.; Yassour, M.; et al. The treatment-naïve microbiome in new-onset Crohn’s disease.
+Cell Host Microbe 2014, 15, 382–392. [CrossRef] [PubMed]
+Tang, W.H.W.; Kitai, T.; Hazen, S.L. Gut Microbiota in Cardiovascular Health and Disease. Circ. Res. 2017,
+120, 1183–1196. [CrossRef] [PubMed]
+Ridker, P.M.; Danielson, E.; Fonseca, F.A.H.; Genest, J.; Gotto, A.M.J.; Kastelein, J.J.P.; Koenig, W.; Libby, P.;
+Lorenzatti, A.J.; MacFadyen, J.G.; et al. Rosuvastatin to Prevent Vascular Events in Men and Women with
+Elevated C-Reactive Protein. N. Engl. J. Med. 2008, 359, 2195–2207. [CrossRef] [PubMed]
+Benjamin, E.J.; Virani, S.S.; Callaway, C.W.; Chang, A.R.; Cheng, S.; Chiuve, S.E.; Cushman, M.; Delling, F.N.;
+Deo, R.; de Ferranti, S.D.; et al. Heart Disease and Stroke Statistics—2018 Update: A Report From the
+American Heart Association. Circulation 2018. [CrossRef] [PubMed]
+Shimokawa, H.; Miura, M.; Nochioka, K.; Sakata, Y. Heart failure as a general pandemic in Asia. Eur. J.
+Heart Fail. 2015, 17, 884–892. [CrossRef] [PubMed]
+
+10. Heidenreich, P.A.; Trogdon, J.G.; Khavjou, O.A.; Butler, J.; Dracup, K.; Ezekowitz, M.D.; Finkelstein, E.A.;
+Hong, Y.; Johnston, S.C.; Khera, A.; et al. Forecasting the Future of Cardiovascular Disease in the
+United States: A Policy Statement From the Am. Heart Association. Circulation 2011, 123, 933–944. [CrossRef]
+[PubMed]
+
+11. Tang, W.H.; Wang, Z.; Fan, Y.; Levison, B.; Hazen, J.E.; Donahue, L.M.; Wu, Y.; Hazen, S.L. Prognostic value
+of elevated levels of intestinal microbe-generated metabolite trimethylamine-N-oxide in patients with heart
+failure: Reﬁning the gut hypothesis. J. Am. Coll. Cardiol. 2014, 64, 1908–1914. [CrossRef] [PubMed]
+Suzuki, T.; Heaney, L.M.; Bhandari, S.S.; Jones, D.J.L.; Ng, L.L. Trimethylamine N-oxide and prognosis in
+acute heart failure. Heart 2016, 102, 841–848. [CrossRef] [PubMed]
+
+12.
+
+Diseases 2018, 6, 56
+
+9 of 10
+
+16.
+
+14.
+
+13. Tang, W.H.; Wang, Z.; Levison, B.S.; Koeth, R.A.; Britt, E.B.; Fu, X.; Wu, Y.; Hazen, S.L. Intestinal microbial
+metabolism of phosphatidylcholine and cardiovascular risk. N. Engl. J. Med. 2013, 368, 1575–1584. [CrossRef]
+[PubMed]
+Fu, Q.; Zhao, M.; Wang, D.; Hu, H.; Guo, C.; Chen, W.; Li, Q.; Zheng, L.; Chen, B. Coronary Plaque
+Characterization Assessed by Optical Coherence Tomography and Plasma Trimethylamine-N-oxide Levels
+in Patients With Coronary Artery Disease. Am. J. Cardiol. 2016, 118, 1311–1315. [CrossRef] [PubMed]
+15. Tang, W.H.W.; Wang, Z.; Shrestha, K.; Borowski, A.G.; Wu, Y.; Troughton, R.W.; Klein, A.L.; Hazen, S.L.
+Intestinal Microbiota-Dependent Phosphatidylcholine Metabolites, Diastolic Dysfunction, and Adverse
+Clinical Outcomes in Chronic Systolic Heart Failure. J. Card. Fail. 2015, 21, 91–96. [CrossRef] [PubMed]
+Suzuki, T.; Heaney, L.M.; Jones, D.J.; Ng, L.L. Trimethylamine N-oxide and Risk Stratiﬁcation after Acute
+Myocardial Infarction. Clin. Chem. 2017, 63, 420–428. [CrossRef] [PubMed]
+Jie, Z.; Xia, H.; Zhong, S.-L.; Feng, Q.; Li, S.; Liang, S.; Zhong, H.; Liu, Z.; Gao, Y.; Zhao, H.; et al. The gut
+microbiome in atherosclerotic cardiovascular disease. Nat. Commun. 2017, 8, 845. [CrossRef] [PubMed]
+18. Cho, C.E.; Taesuwan, S.; Malysheva, O.V.; Bender, E.; Tulchinsky, N.F.; Yan, J.; Sutter, J.L.; Caudill, M.A.
+Trimethylamine-N-oxide (TMAO) response to animal source foods varies among healthy young men and is
+inﬂuenced by their gut microbiota composition: A randomized controlled trial. Mol. Nutr. Food Res. 2017, 61.
+[CrossRef] [PubMed]
+Schiattarella, G.G.; Sannino, A.; Toscano, E.; Giugliano, G.; Gargiulo, G.; Franzone, A.; Trimarco, B.;
+Esposito, G.; Perrino, C. Gut microbe-generated metabolite trimethylamine-N-oxide as cardiovascular
+risk biomarker: A systematic review and dose-response meta-analysis. Eur. Heart J. 2017, 38, 2948–2956.
+[CrossRef] [PubMed]
+
+17.
+
+19.
+
+20. Hu´c, T.; Nowinski, A.; Drapala, A.; Konopelski, P.; Ufnal, M. Indole and indoxyl sulfate, gut bacteria
+metabolites of tryptophan, change arterial blood pressure via peripheral and central mechanisms in rats.
+Pharmacol. Res. 2018, 130, 172–179. [CrossRef] [PubMed]
+
+21. Kimura, I.; Inoue, D.; Maeda, T.; Hara, T.; Ichimura, A.; Miyauchi, S.; Kobayashi, M.; Hirasawa, A.;
+Tsujimoto, G. Short-chain fatty acids and ketones directly regulate sympathetic nervous system via G
+protein-coupled receptor 41 (GPR41). Proc. Natl. Acad. Sci. USA 2011, 108, 8030–8035. [CrossRef] [PubMed]
+22. Ohira, H.; Tsutsui, W.; Fujioka, Y. Are Short Chain Fatty Acids in Gut Microbiota Defensive Players for
+
+Inﬂammation and Atherosclerosis? J. Atheroscler. Thromb. 2017, 24, 660–672. [CrossRef] [PubMed]
+
+23. Tomasova, L.; Dobrowolski, L.; Jurkowska, H.; Wróbel, M.; Huc, T.; Ondrias, K.; Ostaszewski, R.; Ufnal, M.
+[CrossRef]
+
+Intracolonic hydrogen sulﬁde lowers blood pressure in rats. Nitric Oxide 2016, 60, 50–58.
+[PubMed]
+
+24. Poesen, R.; Claes, K.; Evenepoel, P.; de Loor, H.; Augustijns, P.; Kuypers, D.; Meijers, B. Microbiota-Derived
+Phenylacetylglutamine Associates with Overall Mortality and Cardiovascular Disease in Patients with CKD.
+J. Am. Soc. Nephrol.: JASN 2016, 27, 3479–3487. [CrossRef] [PubMed]
+
+25. Gryp, T.; Vanholder, R.; Vaneechoutte, M.; Glorieux, G. p-Cresyl Sulfate. Toxins 2017, 9, 52. [CrossRef]
+
+[PubMed]
+
+26. Karlsson, F.H.; Fåk, F.; Nookaew, I.; Tremaroli, V.; Fagerberg, B.; Petranovic, D.; Bäckhed, F.; Nielsen, J.
+Symptomatic atherosclerosis is associated with an altered gut metagenome. Nat. Commun. 2012, 3, 1245.
+[CrossRef] [PubMed]
+
+27. Yin, J.; Liao, S.X.; He, Y.; Wang, S.; Xia, G.H.; Liu, F.T.; Zhu, J.J.; You, C.; Chen, Q.; Zhou, L.; et al. Dysbiosis of
+Gut Microbiota With Reduced Trimethylamine-N-Oxide Level in Patients With Large-Artery Atherosclerotic
+Stroke or Transient Ischemic Attack. J. Am. Heart Assoc. 2015, 4, e002699. [CrossRef] [PubMed]
+
+28. Emoto, T.; Yamashita, T.; Sasaki, N.; Hirota, Y.; Hayashi, T.; So, A.; Kasahara, K.; Yodoi, K.; Matsumoto, T.;
+Mizoguchi, T.; et al. Analysis of Gut Microbiota in Coronary Artery Disease Patients: A Possible Link
+between Gut Microbiota and Coronary Artery Disease. J. Atheroscler. Thromb. 2016, 23, 908–921. [CrossRef]
+[PubMed]
+
+29. Emoto, T.; Yamashita, T.; Kobayashi, T.; Sasaki, N.; Hirota, Y.; Hayashi, T.; So, A.; Kasahara, K.; Yodoi, K.;
+Matsumoto, T.; et al. Characterization of gut microbiota proﬁles in coronary artery disease patients using
+data mining analysis of terminal restriction fragment length polymorphism: Gut microbiota could be a
+diagnostic marker of coronary artery disease. Heart Vessels 2017, 32, 39–46. [CrossRef] [PubMed]
+
+Diseases 2018, 6, 56
+
+10 of 10
+
+30.
+
+32.
+
+Jackson, M.A.; Goodrich, J.K.; Maxan, M.-E.; Freedberg, D.E.; Abrams, J.A.; Poole, A.C.; Sutter, J.L.; Welter, D.;
+Ley, R.E.; Bell, J.T.; et al. Proton pump inhibitors alter the composition of the gut microbiota. Gut 2016,
+65, 749–756. [CrossRef] [PubMed]
+
+31. Wexler, A.G.; Goodman, A.L. An insider’s perspective: Bacteroides as a window into the microbiome.
+
+Nat. Microbiol. 2017, 2, 17026. [CrossRef] [PubMed]
+Sokol, H.; Pigneur, B.; Watterlot, L.; Lakhdari, O.; Bermúdez-Humarán, L.G.; Gratadoux, J.-J.; Blugeon, S.;
+Bridonneau, C.; Furet, J.-P.; Corthier, G.; et al. Faecalibacterium prausnitzii is an anti-inﬂammatory
+commensal bacterium identiﬁed by gut microbiota analysis of Crohn disease patients. Proc. Natl. Acad.
+Sci. USA 2008, 105, 16731–16736. [CrossRef] [PubMed]
+
+33. Kamo, T.; Akazawa, H.; Suda, W.; Saga-Kamo, A.; Shimizu, Y.; Yagi, H.; Liu, Q.; Nomura, S.; Naito, A.T.;
+Takeda, N.; et al. Dysbiosis and compositional alterations with aging in the gut microbiota of patients with
+heart failure. PLoS ONE 2017, 12, e0174099. [CrossRef] [PubMed]
+
+34. Cui, X.; Ye, L.; Li, J.; Jin, L.; Wang, W.; Li, S.; Bao, M.; Wu, S.; Li, L.; Geng, B.; et al. Metagenomic and
+metabolomic analyses unveil dysbiosis of gut microbiota in chronic heart failure patients. Sci. Rep. 2018,
+8, 635. [CrossRef] [PubMed]
+
+35. Langille, M.G.; Zaneveld, J.; Caporaso, J.G.; McDonald, D.; Knights, D.; Reyes, J.A.; Clemente, J.C.;
+Burkepile, D.E.; Vega Thurber, R.L.; Knight, R.; et al. Predictive functional proﬁling of microbial communities
+using 16S rRNA marker gene sequences. Nat. Biotechnol. 2013, 31, 814–821. [CrossRef] [PubMed]
+
+36. Kanehisa, M.; Furumichi, M.; Tanabe, M.; Sato, Y.; Morishima, K. KEGG: New perspectives on genomes,
+
+37.
+
+pathways, diseases and drugs. Nucleic Acids Res. 2017, 45, D353–D361. [CrossRef] [PubMed]
+Sharma, R.; Haehling, S.; Rauchhaus, M.; Bolger, A.P.; Genth-Zotz, S.; Doehner, W.; Oliver, B.;
+Poole-Wilson, P.A.; Hans-Dieter, V.; Coats, A.J.S.; et al. Whole blood endotoxin responsiveness in patients
+with chronic heart failure: The importance of serum lipoproteins. Eur. J. Heart Fail. 2005, 7, 479–484.
+[CrossRef] [PubMed]
+
+38. Okai, S.; Usui, F.; Yokota, S.; Hori, I.Y.; Hasegawa, M.; Nakamura, T.; Kurosawa, M.; Okada, S.; Yamamoto, K.;
+Nishiyama, E.; et al. High-afﬁnity monoclonal IgA regulates gut microbiota and prevents colitis in mice.
+Nat. Microbiol. 2016, 1, 16103. [CrossRef] [PubMed]
+
+39. Mizoguchi, T.; Kasahara, K.; Yamashita, T.; Sasaki, N.; Yodoi, K.; Matsumoto, T.; Emoto, T.; Hayashi, T.;
+Kitano, N.; Yoshida, N.; et al. Oral administration of the lactic acid bacterium Pediococcus acidilactici
+attenuates atherosclerosis in mice by inducing tolerogenic dendritic cells. Heart Vessels 2017, 32, 768–776.
+[CrossRef] [PubMed]
+
+40. Wilson, B.A.; Takagi, R.; Sasaki, K.; Sasaki, D.; Fukuda, I.; Tanaka, K.; Yoshida, K.-I.; Kondo, A.;
+Osawa, R. A Single-Batch Fermentation System to Simulate Human Colonic Microbiota for High-Throughput
+Evaluation of Prebiotics. PLoS ONE 2016, 11, e0160533.
+
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

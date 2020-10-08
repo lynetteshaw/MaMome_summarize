@@ -49,7 +49,7 @@ could be drawn by chance from a single underlying distribution.
 
 For taxa with greater than ﬁve sequences assigned, the standard two-popula-
 tion proportions test is used to estimate the probability of the observed differ-
-ences (7). The P value is estimated from the Z critical value, where
+ences  The P value is estimated from the Z critical value, where
 
 y N
 
@@ -82,7 +82,7 @@ library 1 and 2, respectively, and (cid:6) equals (x (cid:1) y)/(N1
 (cid:1) N2).
 
 For taxa with fewer than ﬁve sequences assigned, a statistical test ﬁrst developed
-for comparing transcript levels in “digital Northern” analysis (2) is used. The prob-
+for comparing transcript levels in “digital Northern” analysis is used. The prob-
 ability of the observed difference in assignment to taxon T is estimated as follows:
 
 P(cid:7)y|x(cid:8) (cid:2)(cid:2)N2
@@ -104,7 +104,7 @@ interpreted with caution. The taxa (and hence the tests) are nested, and no
 attempt is made to correct for multiple tests.
 
 SeqMatch k-NN classiﬁer. The RDP SeqMatch tool is a k-nearest-neighbor
-(k-NN) classiﬁer (8). It uses a word-matching strategy not requiring alignment to
+(k-NN) classiﬁer  It uses a word-matching strategy not requiring alignment to
 determine the percentage of shared seven-character words between a query and
 members of a database of sequences. This tool assigns queries to the lowest taxon
 shared by the highest-scoring k database sequences. For the tests described here,
@@ -115,7 +115,7 @@ taxonomic ranks for comparison with the RDP Classiﬁer.
 
 Phylogenetic analysis. Aligned 16S rRNA sequences were selected at the RDP
 website and analyzed using the RDP Tree Builder tool. This tool utilizes Weigh-
-bor (5), which uses the weighted neighbor-joining algorithm of phylogenetic
+bor  which uses the weighted neighbor-joining algorithm of phylogenetic
 reconstruction. Weighbor parameters were set to alphabet size 4 and effective
 sequence length 1,000, and the Jukes-Cantor distance correction was employed.
 Tree Builder incorporates branch-order conﬁdence estimation using 100 boot-
@@ -123,8 +123,8 @@ strap samples. The resultant tree was downloaded in PostScript format and
 embellished with Adobe Illustrator.
 
 Implementation and availability. The Classiﬁer engine and related software
-were written in Java (API v1.4.1) and have been tested on the Solaris (2.8), Linux
-(2.4.23), Macintosh (OS 10.4), and Microsoft Windows XP operating systems
+were written in Java (API v1.4.1) and have been tested on the Solaris  Linux
+ and Microsoft Windows XP operating systems
 using Java virtual machines from Sun and Apple. The online version of Classiﬁer
 and Library Compare are built on Java technology, including Java Server Page
 and Java Servlet Technology (Sun Microsystems).
@@ -158,7 +158,7 @@ MATERIALS AND METHODS
 Type sequences with Bergey’s taxonomy. Small-subunit rRNA sequences con-
 sisting of 5,014 bacterial species type strain sequences in 988 genera (Table 1),
 along with associated taxonomic assignment information, were obtained from
-Bergey’s Taxonomic Outline of the Prokaryotes (release 5.0 [2004]) (13). The
+Bergey’s Taxonomic Outline of the Prokaryotes (release 5.0   The
 sequences averaged 1,460 bases in length and had a range of 1,200 to 1,833 bases.
 These sequences formed the Bergey corpus. Each sequence was labeled with
 a set of taxa from domain to genus. From the highest rank to the lowest, the
@@ -167,10 +167,10 @@ genus, and species. There are occasional intermediate ranks such as “sub-
 class” and “suborder”.
 
 Complete rRNA database sequences with NCBI’s taxonomy. All available
-(23,095) near-full-length ((cid:1)1,200 bases) 16S rRNA sequences were obtained
+16S rRNA sequences were obtained
 from the January 2004 release of the RDP. Taxonomic information for these
 sequences was obtained from the January 2004 release of GenBank. These
-sequences are classiﬁed into 1,187 genera in the NCBI taxonomy (3, 26). Initial
+sequences are classiﬁed into 1,187 genera in the NCBI taxonomy  Initial
 placement into the NCBI taxonomy is based on information provided by the
 sequence submitter, with modiﬁcations by the NCBI staff. The sequences aver-
 aged 1,454 bases in length. These sequences formed the NCBI corpus.
@@ -182,9 +182,9 @@ of 6 and 7 bases were less accurate, especially with shorter test sequences (not
 shown). As there are fewer possible words of size 8 than size 9, size 8 was chosen
 for all further work to reduce memory requirements. The position of a word in
 a sequence is ignored. As with text-based Bayesian classiﬁers, only those words
-occurring in the query contribute to the score (16). A similar word-based clas-
+occurring in the query contribute to the score  A similar word-based clas-
 siﬁcation scheme has been used to search for horizontal gene transfer events in
-whole-genome sequences (21).
+whole-genome sequences 
 
 Word-speciﬁc priors. Let W (cid:2) {w1, w2, . . ., wd} be the set of all possible
 eight-character subsequences (words). From the corpus consisting of N se-
@@ -302,16 +302,16 @@ the results for the RDP Classiﬁer: 99.5%, 98.8%, 97.8%,
 95.1%, and 91.9% for the ranks phylum, class, order, family,
 and genus, respectively.
 
-Using the RDP 9 alignment (8), we extracted segments cor-
+Using the RDP 9 alignment  we extracted segments cor-
 responding to 100-base regions of the Escherichia coli refer-
 ence sequence J01695 at 25-base intervals and used each re-
 gion independently for exhaustive leave-one-out
 testing,
 removing the corresponding full-length sequence from training
 for each test. In general, accuracy was greater for regions
-mapping to the 16S hypervariable regions (Fig. 2A). The av-
+mapping to the 16S hypervariable regions . The av-
 erage bootstrap conﬁdence estimate was similarly higher in the
-hypervariable regions (Fig. 2B).
+hypervariable regions .
 
 For each of the 393 near-full-length sequences misclassiﬁed
 at the genus level, we determined the distance to other mem-
@@ -417,7 +417,7 @@ repeated for all sequences in the corpus. The corpus contained
 quences, the (obviously) incorrect genus assignment was not
 considered in the summary statistics, but the results were in-
 cluded for higher ranks containing other genera with valid
-training sets (Fig. 1). In addition to testing the near-full-length
+training sets . In addition to testing the near-full-length
 sequence, we repeated the leave-one-out testing of the RDP
 Classiﬁer on small contiguous regions of 400, 200, 100, and 50
 bases chosen at random from the test sequence. The overall
@@ -441,12 +441,12 @@ the x axis deﬁne the hypervariable regions. The average classiﬁcation accura
 
 misclassiﬁed by SeqMatch. Bergey’s taxonomic placement of
 these three sequences appeared not to be congruent with the
-derived phylogeny (Fig. 3).
+derived phylogeny .
 
 We tested the performance of the Classiﬁer on a more
 diverse corpus consisting of 23,095 16S rRNA sequences as
 classiﬁed by the NCBI in its taxonomy database. We randomly
-chose a test set of 20% (4,619) of these for leave-one-out
+chose a test set of 20% of these for leave-one-out
 testing, as described above. The accuracy using the NCBI tax-
 onomy database and various query lengths was very similar to
 the previous results (Table 5).
@@ -495,29 +495,29 @@ Overall
 92
 4,561
 
-165 (12.7)
-154 (9.4)
-31 (2.5)
-27 (14.1)
-6 (42.9)
-4 (12.1)
-2 (16.7)
-2 (4.0)
-2 (16.7)
-0 (0)
-393 (8.6)
+165 
+154 
+31 
+27 
+6 
+4 
+2 
+2 
+2 
+0 
+393 
 
-80 (6.2)
-115 (7.0)
-23 (1.9)
-20 (10.4)
-6 (42.9)
-2 (6.1)
-1 (8.3)
-2 (4.0)
-1 (8.3)
-0 (0)
-250 (5.5)
+80 
+115 
+23 
+20 
+6 
+2 
+1 
+2 
+1 
+0 
+250 
 
 a Only phyla with at least one misclassiﬁcation are listed.
 b Number of test sequences excluding singletons at the genus level.
@@ -562,7 +562,7 @@ sequencing.
 Naı¨ve Bayesian classiﬁers are one example of supervised
 classiﬁcation methods. The k-NN method is another super-
 vised classiﬁcation method that is arguably simpler and often
-works well in practice (16). We compared the RDP naı¨ve
+works well in practice  We compared the RDP naı¨ve
 Bayesian Classiﬁer with the RDP SeqMatch k-NN classiﬁer.
 
 VOL. 73, 2007
@@ -571,7 +571,7 @@ THE RDP CLASSIFIER
 
 5265
 
-crepancies between the underlying (16S rRNA) phylogeny and
+crepancies between the underlying phylogeny and
 Bergey’s taxonomy. Over 60% of misclassiﬁed sequences were
 actually more similar to sequences in other genera than to
 sequences in their own genera, strong evidence that these
@@ -580,15 +580,15 @@ not evenly distributed among the taxa. Of the three most rep-
 resented phyla (Firmicutes, Proteobacteria, and Actinobacteria),
 the Actinobacteria had the fewest errors (3%, or 31 in 1,220
 trials), while the misclassiﬁcation rate for the Firmicutes was
-about ﬁve times as high (13%, or 165 in 1,295 trials). Within
+about ﬁve times as high  Within
 the Firmicutes, more than two-thirds of the errors occurred in
-the class Clostridia (108 of 449 trials), and within that class, the
+the class Clostridia  and within that class, the
 genus Eubacterium stood out, with 30 misclassiﬁcations in 41
 trials (see the supplemental material).
 
 To identify an example of the sources of errors in the tax-
 onomy, we conducted a phylogenetic analysis of classiﬁcation
-errors in the family Alicyclobacillaceae (Fig. 3). The RDP Clas-
+errors in the family Alicyclobacillaceae . The RDP Clas-
 siﬁer misclassiﬁed three sequences from the Alicyclobacil-
 laceae: Sulfobacillus disulﬁdooxidans and Sulfobacillus thermo-
 sulﬁdooxidans, which were both misclassiﬁed in the genus
@@ -615,12 +615,12 @@ Pyrosequencing can now produce up to 100 Mb in less than
 8 h (Roche product literature). Sogin and colleagues recently
 used the ﬁrst version of pyrosequencing, which provided up-
 to-100-bp reads, to rapidly analyze large numbers of 16S rRNA
-V6 variable regions from environmental samples (23). In that
+V6 variable regions from environmental samples  In that
 study, taxonomic diversity was assessed through alignment to
 members of a reference database of vetted V6 sequences. The
 classiﬁcation accuracy of the RDP Classiﬁer for 100-base frag-
 ments varied greatly by region along the 16S rRNA molecule
-(Fig. 2). Variable regions were, in general, more accurately
+. Variable regions were, in general, more accurately
 
 TABLE 5. Classiﬁer accuracy at various query
 lengths (NCBI’s taxonomy)
@@ -684,33 +684,33 @@ Bergey’s taxonomic outline, along with additional sequences for four
 Alicyclobacillaceae species type strains that became available after the
 release of the outline (marked with an asterisk), and two Bacillus
 species type strains were analyzed using the weighted neighbor-joining
-method (5). The tree is rooted using Escherichia coli sequence J01695
+method  The tree is rooted using Escherichia coli sequence J01695
 as the outgroup. Bootstrap conﬁdence estimates above 85% are
 shown. Three misclassiﬁcations made by the RDP Classiﬁer are high-
 lighted, with the original (release 5.0) description appended with a
 corrected description. S. disulﬁdooxidansT became A. disulﬁdooxi-
 dansT. In 2005, S. disulﬁdooxidans was formally reclassiﬁed as a new
-combination, A. disulﬁdooxidans (14). S. thermosulﬁdooxidans VKM
+combination, A. disulﬁdooxidans  S. thermosulﬁdooxidans VKM
 1269T became “A. tolerans K1.” In release 5, sequence Z21979 was
 listed as coming from the type strain (VKM 1269) of S. thermosulﬁ-
 dooxidans. This agrees with the original publication for the sequence
-(25). The same group later reported that the sequence was probably
-from S. thermosulﬁdooxidans strain K1, not VKM 1269 (15). Two
+ The same group later reported that the sequence was probably
+from S. thermosulﬁdooxidans strain K1, not VKM 1269  Two
 independent sequences (X91080 and AB089844) for the type strain of
 S. thermosulﬁdooxidans are available. They are nearly identical to each
-other (0.2% difference) and 19% different from Z21979. In 2005, S.
+other and 19% different from Z21979. In 2005, S.
 thermosulﬁdooxidans strain K1 was reclassiﬁed as the type strain of a
-new species, A. tolerans (14). In our analysis, however, the sequence for
+new species, A. tolerans  In our analysis, however, the sequence for
 K1 given in the naming paper (accession number AF137502) is 8%
 different from that for Z21979. Although still listed in the GenBank
 record as from A. tolerans strain K1, Z21979 is most probably not from
 strain K1 and not even from a member of the species A. tolerans. A.
 acidoterrestrisT became Bacillus sp. Sequence X60602 was published
-in 1991 as from the type strain (DSM 3922) for A. acidoterrestris (1).
+in 1991 as from the type strain (DSM 3922) for A. acidoterrestris 
 The GenBank record also lists this as from strain DSM 3922, but a
 strain mix-up in the culture supplied by the DSMZ was reported in
-1992 (27). The type strain (ATCC 49025, listed by the DSMZ as
-equivalent to DSM 3922) was resequenced in 2005 (AY573797 [9]).
+1992  The type strain (ATCC 49025, listed by the DSMZ as
+equivalent to DSM 3922) was resequenced in 2005 (AY573797 .
 These two sequences are 14% different, and X60602 is now de-
 scribed by GenBank as from a Bacillus sp.
 
@@ -718,7 +718,7 @@ We chose to use SeqMatch for the comparison, because it, like
 the RDP Classiﬁer, is offered through the RDP. Also, Seq-
 Match has been shown to be more accurate than BLAST in
 ﬁnding the most similar rRNA sequence as deﬁned by pairwise
-aligned distance (8). The RDP Classiﬁer and RDP SeqMatch
+aligned distance  The RDP Classiﬁer and RDP SeqMatch
 had nearly identical overall error rates. However, only about
 two-thirds of these errors were in common (not shown). For
 both classiﬁers, many of these misclassiﬁcations appeared to
@@ -736,12 +736,12 @@ WANG ET AL.
 APPL. ENVIRON. MICROBIOL.
 
 classiﬁed than more-conserved regions. Variable regions V2
-and V4 (20) were classiﬁed correctly at rates as high as 82%
+and V4 were classiﬁed correctly at rates as high as 82%
 and 90% at the genus and family levels, respectively (at all
 levels of conﬁdence), while accuracy for fragments containing
 the V6 region were less reliably classiﬁed (73% at the genus
-level). The V6 region is rather small (46 bases) and ﬂanked by
-highly conserved regions (6). In contrast, the V2 region is
+level). The V6 region is rather small and ﬂanked by
+highly conserved regions  In contrast, the V2 region is
 ﬂanked on both sides and the V4 region is ﬂanked on the 3(cid:10)
 side by semiconserved regions. These regions likely account for
 both the increased accuracy for and the broadened peaks
@@ -753,7 +753,7 @@ In bacteriology, although nomenclature is governed by an
 ofﬁcial code, there is no deﬁnitive or ofﬁcial taxonomy. The
 RDP Classiﬁer is not limited to using the bacterial taxonomy
 proposed in Bergey’s Taxonomic Outline of the Prokaryotes
-(13). We chose Bergey’s taxonomy for use because it is readily
+ We chose Bergey’s taxonomy for use because it is readily
 available and Bergey’s Manual of Systematic Bacteriology is
 widely respected in the microbiological community. The RDP
 Classiﬁer worked equally well when trained on the NCBI tax-
@@ -809,134 +809,3 @@ Science Foundation, grant DBI-0328255.
 We thank Sue Barnes for allowing us access to her unpublished
 
 sequence data and Phillip Neal for constructive suggestions.
-
-REFERENCES
-
-1. Ash, C., J. A. E. Farrow, S. Wallbanks, and M. D. Collins. 1991. Phylogenetic
-heterogeneity of the genus bacillus revealed by comparative analysis of small
-subunit ribosomal RNA sequences. Lett. Appl. Microbiol. 13:202–206.
-2. Audic, S., and J. M. Claverie. 1997. The signiﬁcance of digital gene expres-
-
-sion proﬁles. Genome Res. 7:986–995.
-
-3. Benson, D. A., I. Karsch-Mizrachi, D. J. Lipman, J. Ostell, B. A. Rapp, and
-
-D. L. Wheeler. 2000. GenBank. Nucleic Acids Res. 28:15–18.
-
-4. Brown, M. P. S. 1999. RNA modeling using stochastic context-free gram-
-
-mars. Ph.D. thesis. University of California, Santa Cruz.
-
-5. Bruno, W. J., N. D. Socci, and A. L. Halpern. 2000. Weighted neighbor
-joining: a likelihood-based approach to distance-based phylogeny recon-
-struction. Mol. Biol. Evol. 17:189–197.
-
-6. Cannone, J. J., S. Subramanian, M. N. Schnare, J. R. Collett, L. M. D’Souza,
-Y. Du, B. Feng, N. Lin, L. V. Madabusi, K. M. Muller, N. Pande, Z. Shang,
-N. Yu, and R. R. Gutell. 2002. The comparative RNA web (CRW) site: an
-online database of comparative sequence and structure information for
-ribosomal, intron, and other RNAs. BMC Bioinformatics 3:2.
-
-7. Christensen, H. B. 1992. Introduction to statistics: a calculus-based ap-
-proach, 1st ed., p. 510–512. Harcourt Brace Jovanovich, Inc., Orlando, FL.
-8. Cole, J. R., B. Chai, R. J. Farris, Q. Wang, S. A. Kulam, D. M. McGarrell,
-G. M. Garrity, and J. M. Tiedje. 2005. The Ribosomal Database Project
-(RDP-II): sequences and tools for high-throughput rRNA analysis. Nucleic
-Acids Res. 33:D294–D296.
-
-9. Connor, C. J., H. Luo, B. B. M. Gardener, and H. H. Wang. 2005. Devel-
-opment of a real-time PCR-based system targeting the 16S rRNA gene
-sequence for rapid detection of Alicyclobacillus spp. in juice products. Int. J.
-Food Microbiol. 99:229–235.
-
-10. DeSantis, T. Z., I. Dubosarskiy, S. R. Murray, and G. L. Andersen. 2003.
-Comprehensive aligned sequence construction for automated design of
-effective probes (CASCADE-P) using 16S rDNA. Bioinformatics 19:1461–
-1468.
-
-11. Domingos, P., and M. Pazzani. 1997. On the optimality of the simple Bayes-
-
-ian classiﬁer under zero-one loss. Machine Learning 29:103–130.
-
-12. Garrity, G. M., J. A. Bell, and D. B. Searles. 2001. Taxonomic outline of the
-prokaryotes. Bergey’s manual of systematic bacteriology, 2nd ed., release 1.0.
-Springer-Verlag, New York, NY.
-
-13. Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic outline of the
-procaryotes. Bergey’s manual of systematic bacteriology, 2nd ed., release 5.0.
-Springer-Verlag, New York, NY.
-
-14. Karavaiko, G. I., T. I. Bogdanova, T. P. Tourova, T. F. Kondrat(cid:1)eva, I. A.
-Tsaplina, M. A. Egorova, E. N. Krasil’nikova, and L. M. Zakharchuk. 2005.
-Reclassiﬁcation of ‘Sulfobacillus thermosulﬁdooxidans subsp. thermotolerans’
-strain K1 as Alicyclobacillus tolerans sp. nov. and Sulfobacillus disulﬁdooxi-
-dans Dufresne et al. 1996 as Alicyclobacillus disulﬁdooxidans comb. nov., and
-emended description of the genus Alicyclobacillus. Int. J. Syst. Evol. Micro-
-biol. 55:941–947.
-
-15. Karavaı˘ko, G. I., T. P. Turova, I. A. Tsaplina, and T. I. Bogdanova. 2000. The
-phylogenetic position of aerobic, moderately thermophilic bacteria of the
-Sulfobacillus species, oxidizing Fe2(cid:1), S0 and sulﬁde minerals. Mikrobiologiia
-69:857–860.
-
-16. Li, Y. H., and A. K. Jain. 1998. Classiﬁcation of text documents. Comput. J.
-
-41:537–546.
-
-17. Lozupone, C., and R. Knight. 2005. UniFrac: a new phylogenetic method for
-comparing microbial communities. Appl. Environ. Microbiol. 71:8228–8235.
-18. Maidak, B. L., N. Larsen, M. J. McCaughey, R. Overbeek, G. J. Olsen, K.
-Fogel, J. Blandy, and C. R. Woese. 1994. The Ribosomal Database Project.
-Nucleic Acids Res. 22:3485–3487.
-
-19. Martin, A. P. 2002. Phylogenetic approaches for describing and comparing the
-diversity of microbial communities. Appl. Environ. Microbiol. 68:3673–3682.
-20. Neefs, J. M., Y. Van de Peer, P. De Rijk, S. Chapelle, and R. De Wachter.
-1993. Compilation of small ribosomal subunit RNA structures. Nucleic Acids
-Res. 21:3025–3049.
-
-21. Sandberg, R., G. Winberg, C. I. Branden, A. Kaske, I. Ernberg, and J.
-Coster. 2001. Capturing whole-genome characteristics in short sequences
-using a naive Bayesian classiﬁer. Genome Res. 11:1404–1409.
-
-22. Singleton, D. R., M. A. Furlong, S. L. Rathbun, and W. B. Whitman. 2001.
-Quantitative comparisons of 16S rRNA gene sequence libraries from envi-
-ronmental samples. Appl. Environ. Microbiol. 67:4374–4376.
-
-23. Sogin, M. L., H. G. Morrison, J. A. Huber, D. M. Welch, S. M. Huse, P. R.
-Neal, J. M. Arrieta, and G. J. Herndl. 2006. Microbial diversity in the deep
-sea and the underexplored “rare biosphere.” Proc. Natl. Acad. Sci. USA
-103:12115–12120.
-
-VOL. 73, 2007
-
-THE RDP CLASSIFIER
-
-5267
-
-24. Stackebrandt, E., W. Frederiksen, G. M. Garrity, P. A. D. Grimont, P.
-Ka¨mpfer, M. C. J. Maiden, X. Nesme, R. Rossello´-Mora, J. Swings, H. G.
-Tru¨per, L. Vauterin, A. C. Ward, and W. B. Whitman. 2002. Report of the
-ad hoc committee for the re-evaluation of the species deﬁnition in bacteri-
-ology. Int. J. Syst. Evol. Microbiol. 52:1043–1047.
-
-25. Turova, T. P., A. B. Poltoraus, I. A. Lebedeva, E. S. Bulygina, I. A. Tsaplina,
-T. I. Bogdanova, and G. I. Karavaiko. 1995. Determination of the phyloge-
-netic position of Sulfobacillus thermosulﬁdooxidans on the basis of analysis of
-the 5S and 16S ribosomal RNA. Mikrobiologiia 64:366–374.
-
-26. Wheeler, D. L., C. Chappey, A. E. Lash, D. D. Leipe, T. L. Madden, G. D.
-
-Schuler, T. A. Tatusova, and B. A. Rapp. 2000. Database resources of the
-National Center for Biotechnology Information. Nucleic Acids Res. 28:10–14.
-27. Wisotzkey, J. D., P. Jurtshuk, G. E. Fox, G. Deinhard, and K. Poralla. 1992.
-Comparative sequence analyses on the 16S rRNA (rDNA) of Bacillus
-acidocaldarius, Bacillus acidoterrestris, and Bacillus cycloheptanicus and pro-
-posal for creation of a new genus, Alicyclobacillus gen. nov. Int. J. Syst.
-Bacteriol. 42:263–269.
-
-28. Woese, C. R., O. Kandler, and M. L. Wheelis. 1990. Towards a natural system
-of organisms: proposal for the domains Archaea, Bacteria, and Eucarya.
-Proc. Natl. Acad. Sci. USA 87:4576–4579.
-
-

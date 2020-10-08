@@ -5,8 +5,8 @@ Host Trait Prediction
 levels of taxonomy, with intriguing thoughts about the
 of
 interplay and use of molecular function descriptors vs. taxonomic
-descriptors, the reader is referred to Knights et al. (2011b) and
-Xu et al. (2014). However, many of the principles discussed here
+descriptors, the reader is referred to Knights et al. and
+Xu et al.  However, many of the principles discussed here
 apply regardless of the feature type.
 
 Several features of OTU tables present challenges. First, OTU
@@ -42,21 +42,21 @@ a lack of standard processing and analysis methods (Duvallet
 et al., 2017). Prediction models have sometimes been diﬃcult to
 generalize across studies (Pasolli et al., 2016). One approach to
 resolve these issues is by performing a meta-analysis, combining
-microbiome studies across common traits. Duvallet et al. (2017)
+microbiome studies across common traits. Duvallet et al. 
 have performed a cross-disease meta-analysis of published
 case-control gut microbiome studies spanning 10 diseases.
 They found consistent patterns characterizing disease-associated
 microbiome changes and concluded that many associations
 found in case-control studies are likely not disease-speciﬁc
 but rather part of a non-speciﬁc, shared response to health
-and disease. Pasolli et al. (2016) also performed a meta-
+and disease. Pasolli et al. also performed a meta-
 analysis in a collection of 2,424 publicly available samples from
 eight large-scale studies. The authors remarked that addition
 of healthy (control) samples from other studies to training
 sets improved disease prediction capabilities. Nonetheless, any
 meta- or pooled analysis should rely on a solid foundation
 of eﬀective per-study prediction. The use of multiple studies
-enabled Pasolli et al. (2016) to explore the use of external
+enabled Pasolli et al. to explore the use of external
 validation of models across truly separate datasets. Such
 external validation can in principle result
 in more robust
@@ -124,7 +124,7 @@ prediction rule might explicitly use this information, for example
 by a simple application of Bayes’ rule (Tibshirani et al., 2003),
 with prior probabilities reﬂecting those in the general population.
 Such sampling considerations are beyond our scope, and we
-refer the reader to Chawla (2009). Here we consider our sample
+refer the reader to Chawla  Here we consider our sample
 dataset to be representative of the population of its intended
 downstream use.
 
@@ -147,13 +147,13 @@ to those encountered in expression sequence normalization
 (de Kok et al., 2005), but
 less is currently known about
 sources of potential bias to inform microbiome normalization.
-Normalization methods assessed by Weiss et al. (2017) included
+Normalization methods assessed by Weiss et al. included
 cumulative sum scaling, variance stabilization, and trimmed-
-mean by M-values. Randolph et al. (2018) utilized the centered
+mean by M-values. Randolph et al. utilized the centered
 log-ratio (CLR) transform of the relative abundance vectors,
-based on a method developed by Aitchison (1982), replacing
+based on a method developed by Aitchison  replacing
 zeros with a small positive value. As part of their motivation,
-Randolph et al. (2018) pointed out that standard cumulative
+Randolph et al. pointed out that standard cumulative
 sum scaling places the normalized data vectors in a simplex,
 with potential consequences for kernel-based discovery methods
 (Randolph et al., 2018).
@@ -165,7 +165,7 @@ our context, taxonomy refers to the evolutionary relationship
 among the microbes represented by each OTU, from general
 to speciﬁc: kingdom, phylum, class, order, family, genus and
 species, and OTU (Oudah and Henschel, 2018). For example,
-Kostic et al. (2012) summarized their ﬁndings in the study
+Kostic et al. summarized their ﬁndings in the study
 of microbiota in colorectal cancer using genera and phyla-
 level summaries, illustrating the importance of taxonomy in
 interpretation. Here we are highlighting the use of taxonomy
@@ -259,7 +259,7 @@ cross-validation procedure.
 
 For simplicity, here we focus on the hierarchical feature
 engineering (HFE) algorithm created by Oudah and Henschel
-(2018), which uses correlation and taxonomy information in X to
+ which uses correlation and taxonomy information in X to
 exploit the underlying hierarchical structure of the feature space.
 
 Frontiers in Genetics | www.frontiersin.org
@@ -272,22 +272,22 @@ June 2019 | Volume 10 | Article 579
 
 Host Trait Prediction
 
-The HFE algorithm consists of four steps: (1) feature engineering:
+The HFE algorithm consists of four steps: feature engineering:
 consider the relative abundances of higher taxonomic units as
 potential features by summing up the relative abundances of their
-respective children in a bottom-up tree traversal; (2) correlation-
+respective children in a bottom-up tree traversal; correlation-
 based ﬁltering: calculate the correlation of values for each parent-
 child pair in the taxonomy hierarchy, and if the result is greater
 than a predeﬁned threshold, then the child node is discarded;
-(3) information gain (IG) based ﬁltering, reﬂecting association
+based ﬁltering, reﬂecting association
 of features to the trait: construct all paths from the leaves (OTUs)
 to the root and for each path, calculate the IG of each node with
 respect to the trait values, and then calculate and use the average
 IG as a threshold to discard any node with a lower IG score;
-(4) IG-based leaf ﬁltering: for OTUs with incomplete taxonomic
+IG-based leaf ﬁltering: for OTUs with incomplete taxonomic
 information, discard any leaf with an IG score less than the
 global average IG score of the remaining nodes from the third
-phase. Steps (3) and (4) must be cross-validated, as they use the
+phase. Steps must be cross-validated, as they use the
 trait values. The python code for implementation is on our site
 (https://sites.google.com/ncsu.edu/zhouslab/home/software?).
 
@@ -297,7 +297,7 @@ features, that can be utilized for downstream machine learning
 (Oudah and Henschel, 2018). Standard feature selection
 algorithms, Fizzy and MetAML, which do not capitalize on the
 hierarchical structure of features, were also tested by Oudah
-and Henschel (2018) using several machine learning methods
+and Henschel using several machine learning methods
 on real datasets. Since HFE was reported to outperform other
 methods (Oudah and Henschel, 2018) and resulted in higher
 prediction performance overall, we apply it in the real data
@@ -370,7 +370,7 @@ traits (Zhao and Shojaie, 2016). A closely-related approach is to
 obtained from OTU sample-sample correlation matrices (Zhou
 et al., 2018), and to use these PC scores as trait predictors.
 Kernel-penalized regression, an extension of PCA, was utilized by
-Randolph et al. (2018). in their microbiome data analysis. They
+Randolph et al.  in their microbiome data analysis. They
 applied a signiﬁcance test for their graph-constrained estimation
 method, called Grace (Zhao and Shojaie, 2016), to test for
 association between microbiome species and their trait. However,
@@ -818,31 +818,31 @@ Error rate
 
 Recursive neural network
 (RNN)
-(50)
+
 
 Deep belief network (DBN)
-(500)
+
 
 Deep belief network (DBN)
-(750)
+
 
 Random forest
 
 Multi-layer perceptron
 Neural network (MLPNN)
-(500)
+
 
 Recursive neural network
-(RNN) (250)
+(RNN) 
 
 Recursive neural network
-(RNN) (500)
+(RNN) 
 
 Deep belief network (DBN)
-(250)
+
 
 Deep belief network (DBN)
-(500)
+
 
 Error rate
 
@@ -1147,41 +1147,41 @@ Random forest
 
 Multi-layer perceptron
 neural network (MLPNN)
-(500)
+
 
 Recursive neural network
-(RNN) (250)
+(RNN) 
 
 Recursive neural network
-(RNN) (500)
+(RNN) 
 
 Deep belief network (DBN)
-(250)
+
 
 Deep belief network (DBN)
-(500)
+
 
 Random forest
 
 Multi-layer perceptron
 neural network (MLPNN)
-(500)
+
 
 Recursive neural network
-(RNN) (250)
+(RNN) 
 
 Recursive neural network
-(RNN) (500)
+(RNN) 
 
 Deep belief network (DBN)
-(250)
+
 
 Deep belief network (DBN)
-(500)
+
 
 Multi-layer perceptron
 Neural network (MLPNN)
-(500)
+
 
 Random forest
 
@@ -1405,8 +1405,8 @@ studies used vastly diﬀerent protocols for OTU generation and
 preprocessing, for this main paper we focused on the 17 reported
 datasets that compared at least two competing measures of
 prediction accuracy. All of the datasets were using human hosts,
-except for Rousk et al. (2010) (where pH in soil samples was
-the “trait”) and Moitinho-Silva et al. (2017), where microbial
+except for Rousk et al. (where pH in soil samples was
+the “trait”) and Moitinho-Silva et al.  where microbial
 abundance in sponges was the trait.
 
 evaluated
@@ -1429,7 +1429,7 @@ data from published case-control and other studies and their
 associated patient metadata. The MicrobiomeHD database
 these datasets are
 and original publications
-described in Duvallet et al. (2017). Raw sequencing data
+described in Duvallet et al.  Raw sequencing data
 for each study was downloaded and processed through a
 standardized pipeline.
 
@@ -1450,27 +1450,27 @@ June 2019 | Volume 10 | Article 579
 
 Host Trait Prediction
 
-and initial numbers of OTUs: (1) The Singh et al. (2015) data
+and initial numbers of OTUs: data
 set, containing 201 EDD (enteric diarrheal disease) cases vs.
-82 healthy controls with 1, 325 OTUs. (2) The Vincent et al.
-(2013) data set, with 25 CDI (Clostridium diﬃcile infection)
-cases vs. 25 healthy controls and 763 OTUs. (3a) The Goodrich
-et al. (2014) dataset, which categorized the hosts into 135 obese
+82 healthy controls with 1, 325 OTUs. The Vincent et al.
+
+cases vs. 25 healthy controls and 763 OTUs. The Goodrich
+et al. dataset, which categorized the hosts into 135 obese
 cases vs. 279 controls, based on body mass index (BMI), with
 a total of 11, 225 OTUs. In this dataset, individuals came from
 the TwinsUK population, so we included only one individual
-from each twin-pair. (3b) The same Goodrich et al. (2014)
+from each twin-pair. 
 dataset, but using BMI directly as a continuous phenotype for the
 same 414 individuals. The microbiome samples for each dataset
 were obtained from stool, and we analyzed one sample per
 individual throughout.
 
 Following the ﬁltering recommendations applied by Duvallet
-et al. (2017), we removed samples with fewer than 100 reads
+et al.  we removed samples with fewer than 100 reads
 and OTUs with fewer than 10 reads. We also removed OTUs
 which were present in <1% of samples from the Vincent et al.
-(2013), Ross et al. (2015), and Singh et al. (2015) datasets, and
-<5% of samples from the Goodrich et al. (2014) datasets, since
+datasets, and
+<5% of samples from the Goodrich et al. datasets, since
 
 it contained many more OTUs. Then we scaled the datasets by
 calculating the relative abundance of each OTU, dividing its value
@@ -1482,7 +1482,7 @@ in which OTUs were collapsed to the genus level by summing
 their respective relative abundances, discarding any OTUs which
 were un-annotated at the genus level. Finally, we ran the
 hierarchical feature engineering (HFE) algorithm introduced by
-Oudah and Henschel (2018) which results fewer informative
+Oudah and Henschel which results fewer informative
 features, including individual OTUs and aggregated elements of
 the taxonomy.
 
@@ -1525,7 +1525,7 @@ nrounds=10 and objective= “binary:logistic”
 for the discrete trait. For the decision tree method, aspects,
 such as tree depth used default values. The Lasso, Ridge,
 and Elastic Net approaches used the package and method
-glmnet, with lambda=seq(0,1,by=0.1). The k-NN
+glmnet, with lambda=seq The k-NN
 approach used caret with k = 5 and default (equal) neighbor
 weighting. The neural net used neuralnet with hidden=1,
 linear.output=F. Linear discriminant analysis used the
@@ -1538,13 +1538,13 @@ all instances higher values reﬂect better performance. Although
 not all methods were represented in each study, some general
 conclusions can be made. When random forests were applied,
 they were either the most accurate or competitive [with the
-exception of Nakano (2018)] (Nakano et al., 2018). Various
+exception of Nakano  Various
 forms of neural networks often performed well, although there
 is some question whether the tuning complexity is warranted. An
-exception is Rousk (2010) as analyzed by Ditzler et al. (2015b), in
+exception is Rousk  in
 which some neural networks (perceptions) performed especially
 well, but the sample size was small n = 22. In the datasets
-analyzed by Ditzler et al. (2015b), the complexity and number of
+analyzed by Ditzler et al.  the complexity and number of
 nodes in neural networks showed little consistent relationship to
 performance. Most of the studies used some form of higher-level
 OTU aggregation, sometimes as high as the phylum level.
@@ -1598,10 +1598,10 @@ features (Figure 5).
 
 As an overall summary, collapsing to the genus level brought
 some improvement to the poorer perform prediction methods in
-the Singh et al. (2015) dataset, and few other broad patterns were
+the Singh et al. dataset, and few other broad patterns were
 apparent. In contrast, the use of cross-validated HFE produced
 a great improvement in AUC in most instances (Figure 4). For
-the Goodrich et al. (2014) and Singh et al. (2015) datasets, most
+the Goodrich et al. datasets, most
 methods were improved and brought to similar AUC values.
 For the Vincent dataset, again most prediction methods were
 improved by HFE feature-reduction, but the results were less
@@ -1650,7 +1650,7 @@ regularization, as a separately-handled issue from the penalized
 prediction modeling. Some modern sparse regression and
 kernel modeling methods seek additional predictive ability by
 combining feature regularization and prediction in a single step,
-e.g., Xiao et al. (2018).
+e.g., Xiao et al. 
 
 AUTHOR CONTRIBUTIONS
 
@@ -1681,404 +1681,3 @@ online
 2019.00579/full#supplementary-material
 
 Supplementary Table 1 | Full table of published prediction accuracies.
-
-REFERENCES
-
-Ai, L., Tian, H., Chen, Z., Chen, H., Xu, J., and Fang, J. Y. (2017). Systematic
-evaluation of supervised classiﬁers for fecal microbiota-based prediction of
-colorectal cancer. Oncotarget 8, 9546–9556. doi: 10.18632/oncotarget.14488
-Aitchison, J. (1982). The statistical analysis of compositional data. J. R. Stat. Soc.
-
-44, 139–177.
-
-Asgari, E., Garakani, K., McHardy, A. C., and Mofrad, M. R. K. (2018).
-from 16S
-MicroPheno: predicting environments and host phenotypes
-rRNA gene sequencing using a k-mer based representation of shallow
-sub-samples. Bioinformatics
-10.1093/bioinformatics/
-bty296
-
-i32–i42. doi:
-
-34,
-
-Breiman, L. (2001). Random forests machine learning. Mach. Learn. 45, 5–32.
-
-doi: 10.1023/A:1010933404324
-
-Ananthakrishnan, A. N., Luo, C., Yajnik, V., Khalili, H., Garber, J. J., Stevens,
-B. W., et al. (2017). Gut microbiome function predicts response to anti-
-integrin biologic therapy in inﬂammatory bowel diseases. Cell Host Microbe 21,
-603–610. doi: 10.1016/j.chom.2017.04.010
-
-Brooks, J. P., Buck, G. A., Chen, G., Diao, L., Edwards, D. J., Fettweis,
-J. M., et al. (2017). Changes in vaginal community state types reﬂect
-major shifts in the microbiome. Microb. Ecol. Health Dis. 28:1303265.
-doi: 10.1080/16512235.2017.1303265
-
-Frontiers in Genetics | www.frontiersin.org
-
-12
-
-June 2019 | Volume 10 | Article 579
-
-Zhou and Gallins
-
-Host Trait Prediction
-
-Bucci, V., Tzen, B., Li, N., Simmons, M., Tanoue, T., Bogart, E., et al. (2016).
-Mdsine: microbial dynamical systems inference engine for microbiome time-
-series analyses. Genome Biol. 17:121. doi: 10.1186/s13059-016-0980-6
-J., Han, A. W.,
-
-Johnson,
-A.
-(2016). Dada2: high-resolution sample
-inference from illumina amplicon data. Nat. Methods 13:581. doi: 10.1038/
-nmeth.3869
-
-J. A., and Holmes, S. P.
-
-J., McMurdie, P.
-
-J., Rosen, M.
-
-Callahan, B.
-
-Cani, P. D. (2018). Human gut microbiome: hopes, threats and promises. Gut 67,
-
-1716–1725. doi: 10.1136/gutjnl-2018-316723
-
-Caporaso, J. G., Lauber, C. L., Costello, E. K., Berg-Lyons, D., Gonzalez, A.,
-Stombaugh, J., et al. (2011). Moving pictures of the human microbiome.
-Genome Biol. 12:R50. doi: 10.1186/gb-2011-12-5-r50
-
-Chawla, N. V. (2009). “Data mining for imbalanced datasets: an overview,” in Data
-Mining and Knowledge Discovery Handbook, eds O. Maimon and L. Rokach
-(Boston, MA: Springer), 875–886.
-
-Cortes, C. and Vapnik, V. (1995). Support-vector networks. Mach. Learn. 20,
-
-273–297.
-
-Crookston, N. L. and Finley, A. O. (2008). Yaimpute: an r package for knn
-
-imputation. J. Stat. Softw. 23:16. doi: 10.18637/jss.v023.i10
-
-de Kok, J. B., Roelofs, R. W., Giesendorf, B. A., Pennings, J. L., Waas, E. T., Feuth,
-T., et al. (2005). Normalization of gene expression measurements in tumor
-tissues: comparison of 13 endogenous control genes. Lab. Invest. 85, 154–159.
-doi: 10.1038/labinvest.3700208
-
-Ditzler, G., Morrison,
-
-(2015a). Fizzy:
-feature subset selection for metagenomics. BMC Bioinformatics 16:358.
-doi: 10.1186/s12859-015-0793-8
-
-J. C., Lan, Y., and Rosen, G. L.
-
-Ditzler, G., Polikar, R., and Rosen, G. (2015b). Multi-layer and recursive neural
-networks for metagenomic classiﬁcation. IEEE Trans. Nanobiosci. 14, 608–616.
-doi: 10.1109/TNB.2015.2461219
-
-Duvallet, C., Gibbons, S. M., Gurry, T., Irizarry, R. A., and Alm, E. J. (2017).
-Meta-analysis of gut microbiome studies identiﬁes disease-speciﬁc and shared
-responses. Nat. Commun. 8:1784. doi: 10.1038/s41467-017-01973-8
-
-J., Reinker, S.,
-
-Franzosa, E. A., Sirota-Madi, A., Avila-Pacheco,
-
-J., Fornelos, N., Haiser,
-H.
-and
-metabolic activity in inﬂammatory bowel disease. Nat. Microbiol. 4:293.
-doi: 10.1038/s41564-018-0306-4
-
-(2019). Gut microbiome
-
-structure
-
-al.
-
-et
-
-Friedman, J. H. (2001). Greedy function approximation: a gradient boosting
-
-machine. Ann. Stat. 29, 1189–1232. doi: 10.1214/aos/1013203451
-
-Friedman, J. H. (2002). Stochastic gradient boosting. Comput. Stat. Data Anal. 38,
-
-367–378. doi: 10.1016/S0167-9473(01)00065-2
-
-Gevers, D., Kugathasan, S., Denson, L. A., Vázquez-Baeza, Y., Van Treuren, W.,
-Ren, B., et al. (2014). The treatment-naive microbiome in new-onset Crohn’s
-disease. Cell Host Microbe. 15, 382–392. doi: 10.1016/j.chom.2014.02.005
-
-Gilbert, J. A., Blaser, M. J., Caporaso, J. G., Jansson, J. K., Lynch, S. V., and Knight,
-R. (2018). Current understanding of the human microbiome. Nat. Med. 24:392.
-doi: 10.1038/nm.4517
-
-Goodrich, J. K., Waters, J. L., Poole, A. C., Sutter, J. L., Koren, O., Blekhman, R.,
-et al. (2014). Human genetics shape the gut microbiome. Cell 159, 789–799.
-doi: 10.1016/j.cell.2014.09.053
-
-Ho, T. K. (1995). “Random decision forests,” in Document Analysis and
-the Third International Conference on
-
-Recognition, 1995, Proceedings of
-(Montreal, QC: IEEE), 278–282.
-
-Hoerl, A. E. and Kennard, R. W. (1970). Ridge regression: applications to
-
-nonorthogonal problems. Technometrics 12, 69–82.
-
-Hu, T., Gallins, P., and Zhou, Y.-H. (2018). A zero-inﬂated beta-binomial model
-
-for microbiome data analysis. Stat. 7:e185. doi: 10.1002/sta4.185
-
-Johnson, H. R., Trinidad, D. D., Guzman, S., Khan, Z., Parziale, J. V., DeBruyn,
-J. M., et al. (2016). A machine learning approach for using the postmortem
-skin microbiome to estimate the postmortem interval. PLoS ONE 11:e0167370.
-doi: 10.1371/journal.pone.0167370
-
-Karlsson, F. H., Tremaroli, V., Nookaew, I., Bergström, G., Behre, C. J., Fagerberg,
-B., et al. (2013). Gut metagenome in European women with normal, impaired
-and diabetic glucose control. Nature 498, 99–103. doi: 10.1038/nature12198
-Kinross, J. M., Darzi, A. W., and Nicholson, J. K. (2011). Gut microbiome-host
-interactions in health and disease. Genome Med. 3:14. doi: 10.1186/gm228
-Knight, R., Vrbanac, A., Taylor, B. C., Aksenov, A., Callewaert, C., Debelius, J.,
-et al. (2018). Best practices for analysing microbiomes. Nat. Rev. Microbiol. 16,
-410–422. doi: 10.1038/s41579-018-0029-9
-
-Knights, D., Costello, E. K.,
-
-Supervised
-classiﬁcation of human microbiota. FEMS Microbiol. Rev. 35, 343–359.
-doi: 10.1111/j.1574-6976.2010.00251.x
-
-and Knight, R.
-
-(2011a).
-
-Knights, D., Parfrey, L. W., Zaneveld, J., Lozupone, C., and Knight, R. (2011b).
-Human-associated microbial signatures: examining their predictive value. Cell
-Host Microbe 10, 292–296. doi: 10.1016/j.chom.2011.09.003
-
-Kostic, A. D., Gevers, D., Pedamallu, C. S., Michaud, M., Duke, F., Earl, A. M., et al.
-(2012). Genomic analysis identiﬁes association of fusobacterium with colorectal
-carcinoma. Genome Res. 22, 292–298. doi: 10.1101/gr.126573.111
-
-Lachenbruch, P. A. and Goldstein, M. (1979). Discriminant analysis. Biometrics 35,
-
-69–85. doi: 10.2307/2529937
-
-Le Chatelier, E., Nielsen, T., Qin, J., Prifti, E., Hildebrand, F., Falony, G., et al.
-(2013). Richness of human gut microbiome correlates with metabolic markers.
-Nature 500, 541–546. doi: 10.1038/nature12506
-
-Mallick, H., Ma, S., Franzosa, E. A., Vatanen, T., Morgan, X. C., and Huttenhower,
-C.
-(2017). Experimental design and quantitative analysis of microbial
-community multiomics. Genome Biol. 18:228. doi: 10.1186/s13059-017-1359-z
-Mande, S. S., Mohammed, M. H., and Ghosh, T. S. (2012). Classiﬁcation of
-metagenomic sequences: methods and challenges. Brief. Bioinformatics 13,
-669–681. doi: 10.1093/bib/bbs054
-
-McDonald, D., Price, M. N., Goodrich, J., Nawrocki, E. P., DeSantis, T. Z., Probst,
-A., et al. (2012). An improved greengenes taxonomy with explicit ranks for
-ecological and evolutionary analyses of bacteria and archaea. ISME J. 6:610.
-doi: 10.1038/ismej.2011.139
-
-Moitinho-Silva, L., Steinert, G., Nielsen, S., Hardoim, C. C., Wu, Y.-
-(2017). Predicting the hma-lma status
-8:752.
-
-learning. Front. Microbiol.
-
-sponges by machine
-
-C., McCormack, G. P., et al.
-in marine
-doi: 10.3389/fmicb.2017.00752
-
-Nakano, Y., Suzuki, N., and Kuwata, F. (2018). Predicting oral malodour based
-on the microbiota in saliva samples using a deep learning approach. BMC Oral
-Health 18:128. doi: 10.1186/s12903-018-0591-6
-(2018).
-and Henschel,
-
-feature
-engineering for microbiome classiﬁcation. BMC Bioinformatics 19:227.
-doi: 10.1186/s12859-018-2205-3
-
-Taxonomy-aware
-
-Oudah, M.
-
-A.
-
-Pasolli, E., Truong, D. T., Malik, F., Waldron, L., and Segata, N. (2016).
-Machine learning meta-analysis of large metagenomic datasets: tools and
-biological insights. PLoS Comput. Biol. 12:e1004977. doi: 10.1371/journal.pcbi.
-1004977
-
-Qin, J., Li, R., Raes, J., Arumugam, M., Burgdorf, K. S., Manichanh, C., et al.
-(2010). A human gut microbial gene catalogue established by metagenomic
-sequencing. Nature 464, 59–65. doi: 10.1038/nature08821
-
-Qin, J., Li, Y., Cai, Z., Li, S., Zhu, J., Zhang, F., et al. (2012). A metagenome-
-wide association study of gut microbiota in type 2 diabetes. Nature 490, 55–60.
-doi: 10.1038/nature11450
-
-Qin, N., Yang, F., Li, A., Prifti, E., Chen, Y., Shao, L., et al. (2014). Alterations
-the human gut microbiome in liver cirrhosis. Nature 513, 59–64.
-
-of
-doi: 10.1038/nature13568
-
-Quast, C., Pruesse, E., Yilmaz, P., Gerken, J., Schweer, T., Yarza, P., et al. (2012).
-The silva ribosomal rna gene database project: improved data processing and
-web-based tools. Nucleic Acids Res. 41, D590–D596. doi: 10.1093/nar/gks1219
-Rahman, S. F., Olm, M. R., Morowitz, M. J., and Banﬁeld, J. F. (2018).
-Machine learning leveraging genomes from metagenomes identiﬁes inﬂuential
-antibiotic resistance genes in the infant gut microbiome. MSystems 3:e00123-
-17. doi: 10.1128/mSystems.00123-17
-
-Randolph, T. W., Zhao, S., Copeland, W., Hullar, M., Shojaie, A. (2018). Kernel-
-penalized regression for analysis of microbiome data. Ann. Appl. Stat. 12,
-540–566. doi: 10.1214/17-AOAS1102
-
-Reiman, D., Metwally, A., and Dai, Y. (2017). Using convolutional neural networks
-to explore the microbiome. Conf. Proc. IEEE Eng. Med. Biol. Soc. 2017,
-4269–4272. doi: 10.1109/EMBC.2017.8037799
-
-Robinson, C. M. and Pfeiﬀer, J. K. (2014). Viruses and the microbiota. Annu. Rev.
-
-Virol. 1, 55–69. doi: 10.1146/annurev-virology-031413-085550
-
-Ross, M. C., Muzny, D. M., McCormick, J. B., Gibbs, R. A., Fisher-Hoch, S. P.,
-and Petrosino, J. F. (2015). 16s Gut community of the cameron county hispanic
-cohort. Microbiome 3:7. doi: 10.1186/s40168-015-0072-y
-
-Rothschild, D., Weissbrod, O., Barkan, E., Kurilshikov, A., Korem, T., Zeevi, D.,
-et al. (2018). Environment dominates over host genetics in shaping human gut
-microbiota. Nature 555:210. doi: 10.1038/nature25973
-
-Frontiers in Genetics | www.frontiersin.org
-
-13
-
-June 2019 | Volume 10 | Article 579
-
-Zhou and Gallins
-
-Host Trait Prediction
-
-Rousk, J., Bååth, E., Brookes, P. C., Lauber, C. L., Lozupone, C., Caporaso, J. G.,
-et al. (2010). Soil bacterial and fungal communities across a ph gradient in an
-arable soil. ISME J. 4:1340. doi: 10.1038/ismej.2010.58
-
-Schmitt, S., Tsai, P., Bell, J., Fromont, J., Ilan, M., Lindquist, N., et al.
-(2012). Assessing the complex sponge microbiota: core, variable and
-species-speciﬁc bacterial communities in marine sponges. ISME J. 6:564.
-doi: 10.1038/ismej.2011.116
-
-Sharma, A. K., Jaiswal, S. K., Chaudhary, N., and Sharma, V. K. (2017). A
-novel approach for the prediction of species-speciﬁc biotransformation of
-xenobiotic/drug molecules by the human gut microbiota. Sci. Rep. 7:9751.
-doi: 10.1038/s41598-017-10203-6
-
-Wu, H., Cai, L., Li, D., Wang, X., Zhao, S., Zou, F., et al.
-
-(2018).
-Metagenomics biomarkers selected for prediction of three diﬀerent diseases
-in chinese population. Biomed. Res. Int. 2018:2936257. doi: 10.1155/2018/
-2936257
-
-Xiao, J., Chen, L., Yu, Y., Zhang, X., and Chen, J. (2018). A phylogeny-
-regularized sparse regression model for predictive modeling of microbial
-10.3389/fmicb.2018.
-community data. Front. Microbiol.
-03112
-
-9:3112. doi:
-
-Xu, Z., Malmer, D., Langille, M. G., Way, S. F., and Knight, R. (2014). Which is
-more important for classifying microbial communities: who’s there or what they
-can do? ISME J. 8:2357. doi: 10.1038/ismej.2014.157
-
-Singh, P., Teal, T. K., Marsh, T. L., Tiedje, J. M., Mosci, R., Jernigan, K., et al. (2015).
-Intestinal microbial communities associated with acute enteric infections and
-disease recovery. Microbiome 3:45. doi: 10.1186/s40168-015-0109-2
-
-Zeller, G., Tap, J., Voigt, A. Y., Sunagawa, S., Kultima, J. R., Costea, P. I., et al.
-(2014). Potential of fecal microbiota for early-stage detection of colorectal
-cancer. Mol. Syst. Biol. 10:766. doi: 10.15252/msb.20145645
-
-Statnikov, A., Henaﬀ, M., Narendra, V., Konganti, K., Li, Z., Yang, L., et al.
-(2013). A comprehensive evaluation of multicategory classiﬁcation methods for
-microbiomic data. Microbiome 1:11. doi: 10.1186/2049-2618-1-11
-
-Tarca, A. L., Carey, V. J., Chen, X.-w., Romero, R., and Dr˘aghici, S. (2007).
-Machine learning and its applications to biology. PLoS Comput. Biol. 3:e116.
-doi: 10.1371/journal.pcbi.0030116
-
-Zhao, S. and Shojaie, A. (2016). A signiﬁcance test for graph-constrained
-
-estimation. Biometrics 72, 484–493. doi: 10.1111/biom.12418
-
-Zhou, Y.-H., Marron, J. S., and Wright, F. A. (2018). Computation of ancestry
-scores with mixed families and unrelated individuals. Biometrics 74, 155–164.
-doi: 10.1111/biom.12708
-
-Zou, H., and Hastie, T. (2005). Regularization and variable selection via the elastic
-
-Tibshirani, R. (1996). Regression shrinkage and selection via the lasso. J. R. Stat.
-
-net. J. R. Stat. Soc. 67, 301–320. doi: 10.1111/j.1467-9868.2005.00503.x
-
-Soc. 58, 267–288.
-
-Tibshirani, R., Hastie, T., Narasimhan, B., and Chu, G. (2003). Class prediction by
-nearest shrunken centroids, with applications to dna microarrays. Stat. Sci. 18,
-104–117. doi: 10.1214/ss/1056397488
-
-Turnbaugh, P. J., Ley, R. E., Hamady, M., Fraser-Liggett, C. M., Knight, R.,
-and Gordon, J. I. (2007). The human microbiome project. Nature 449:804.
-doi: 10.1038/nature06244
-
-Vincent, C., Stephens, D. A., Loo, V. G., Edens, T.
-
-J., Behr, M. A.,
-Dewar, K., et al. (2013). Reductions in intestinal clostridiales precede the
-development of nosocomial clostridium diﬃcile infection. Microbiome 1:18.
-doi: 10.1186/2049-2618-1-18
-
-Weiss, S., Xu, Z. Z., Peddada, S., Amir, A., Bittinger, K., Gonzalez, A., et al. (2017).
-Normalization and microbial diﬀerential abundance strategies depend upon
-data characteristics. Microbiome 5:27. doi: 10.1186/s40168-017-0237-y
-
-Conﬂict of Interest Statement: The authors declare that the research was
-conducted in the absence of any commercial or ﬁnancial relationships that could
-be construed as a potential conﬂict of interest.
-
-The handling editor and reviewer HM declared their involvement as co-editors in
-the Research Topic, and conﬁrm the absence of any other collaboration.
-
-Copyright © 2019 Zhou and Gallins. This is an open-access article distributed
-under the terms of the Creative Commons Attribution License (CC BY). The use,
-distribution or reproduction in other forums is permitted, provided the original
-author(s) and the copyright owner(s) are credited and that the original publication
-in this journal is cited, in accordance with accepted academic practice. No use,
-distribution or reproduction is permitted which does not comply with these terms.
-
-Frontiers in Genetics | www.frontiersin.org
-
-14
-
-June 2019 | Volume 10 | Article 579
-
-

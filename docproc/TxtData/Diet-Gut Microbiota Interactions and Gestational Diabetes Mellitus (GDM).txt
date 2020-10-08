@@ -3,8 +3,8 @@ Nutrients 2019, 11, 330
 2 of 13
 
 The crucial role of the intestinal microbiota in modulating insulin resistance and the inﬂammatory
-response in GDM pregnancies has been reported by a few studies [13,14]. It is well known that diet is
-able to modulate the microbiota composition rapidly, within a few days [15,16]. Emerging evidence
+response in GDM pregnancies has been reported by a few studies  It is well known that diet is
+able to modulate the microbiota composition rapidly, within a few days  Emerging evidence
 has shown a differential role of speciﬁc nutrients on metabolic outcomes, based on the individual
 microbial pattern. This is an intriguing and very important ﬁnding, suggesting that a food is not
 necessarily universally healthy per se but instead more suitable for speciﬁc individuals or conditions,
@@ -30,33 +30,33 @@ on the ﬁeld was employed to augment the search strategy.
 3. Microbiota and Host Interactions
 
 The term gut microbiota refers to all the microorganisms colonizing the human gastrointestinal
-tract [17]. Residential microbes have a symbiotic relationship with their host, since they are able
+tract  Residential microbes have a symbiotic relationship with their host, since they are able
 to extract energy from foods that humans cannot digest, producing bioactive compounds, such as
-short-chain fatty acids (SCFAs) with proven beneﬁcial effects on the host metabolism [18]. The gut
+short-chain fatty acids (SCFAs) with proven beneﬁcial effects on the host metabolism  The gut
 microbiota can be considered a big virtual endocrine-metabolic organ, controlling many human
-pathways [19].
+pathways 
 
 Dysbiosis, an altered microbiota composition, has been hypothesized to play a key role in the
 pathogenesis of many acute and chronic conditions, including metabolic diseases, such as obesity,
-insulin resistance, and both type 1 and type 2 diabetes mellitus (T2DM) [20,21]. Several mechanisms
+insulin resistance, and both type 1 and type 2 diabetes mellitus (T2DM)  Several mechanisms
 linking dysbiosis to dysmetabolic conditions have been identiﬁed, such as abnormal gut permeability,
 increasing absorption of lipopolysaccharide (LPS), abnormal SCFA production, aberrant conversion of
 primary bile acids to secondary bile acids, increased production of bacterial toxic substances, such as
-trimethylamine N-oxide (TMAO) [20,21]. These abnormalities lead to the activation of inﬂammatory
+trimethylamine N-oxide (TMAO)  These abnormalities lead to the activation of inﬂammatory
 and autoimmune pathways, autoantigen mimics, stimulation of the endocannabinoid system, aberrant
 gut peptide secretion, impairment of insulin signaling, increased energy extraction, and host fat
-storage [22,23].
+storage 
 
 4. Gut Microbiota Changes during Pregnancy
 
 A variety of factors inﬂuence the gut microbiota composition, such as host genetic factors,
 
-comorbidities, antibiotic/prebiotic/probiotic use, dietary habits, and pregnancy [24].
+comorbidities, antibiotic/prebiotic/probiotic use, dietary habits, and pregnancy 
 
 In healthy pregnancy, the gut microbiota composition undergoes dramatic alterations from the ﬁrst
-to the third trimester [13,25,26]. Increased between-individual diversity (β-diversity) and decreased
+to the third trimester  Increased between-individual diversity (β-diversity) and decreased
 richness (intra-individual or α-diversity) have been reported, and a microbial pattern similar to that
-of non-pregnant adults with metabolic syndrome was found in late pregnancy (Figure 1) [13,26].
+of non-pregnant adults with metabolic syndrome was found in late pregnancy (Figure 1) 
 Indeed, profound hormonal, immunological, and metabolic changes take place above all during the
 third trimester to promote maternal weight gain, increasing circulating pro-inﬂammatory cytokines,
 
@@ -64,118 +64,118 @@ third trimester to promote maternal weight gain, increasing circulating pro-in�
 
 3 of 13
 
-and insulin resistance [14]. The reduced insulin sensitivity of late pregnancy is considered to be
-beneﬁcial to support fetal growth and increased nutrient absorption [13,27]. The pregnancy variations
-in the gut microbial composition may contribute to all these metabolic changes [13,14].
+and insulin resistance  The reduced insulin sensitivity of late pregnancy is considered to be
+beneﬁcial to support fetal growth and increased nutrient absorption  The pregnancy variations
+in the gut microbial composition may contribute to all these metabolic changes 
 
 Figure 1. Gut microbiota changes during the course of normoglycemic pregnancies and GDM
 pregnancies. GDM: gestational diabetes mellitus. upward arrows mean an increased abundance,
 downward arrows mean a decreased abundance.
 
 However, at present, literature on microbiota composition in pregnancy is highly discordant,
-reporting no variations [28], increased Proteobacteria/Actinobacteria abundance, Roseburia intestinalis
-and Faecalibacterium prausnitzii reduction, and α-diversity decrease [13]. Gestational weight gain
-has been associated with higher concentrations of Bacteroides species [29], Staphylococcus [29,30],
-Enterobacteriaceae and Escherichia coli [30], reduced abundance of Biﬁdobacterium and Akkermansia
-muciniphila [30], and lower α-diversity [31]. Many correlations among speciﬁc taxa and gestational
+reporting no variations  increased Proteobacteria/Actinobacteria abundance, Roseburia intestinalis
+and Faecalibacterium prausnitzii reduction, and α-diversity decrease  Gestational weight gain
+has been associated with higher concentrations of Bacteroides species 
+Enterobacteriaceae and Escherichia coli  reduced abundance of Biﬁdobacterium and Akkermansia
+muciniphila  Many correlations among speciﬁc taxa and gestational
 metabolic variables have been found, such as direct relationships between Collinsella and circulating
 triglycerides, and very-low-density lipoproteins; Sutterella and C-reactive
 levels of insulin,
 protein; Ruminococcaceae/Lachnospiraceae and leptin; Bacteroidaceae and ghrelin; Coprococcus
 and gastrointestinal polypeptide (GIP). Moreover, inverse relationships between Blautia and insulin
 values; Faecalibacterium/Fusobacterium ratios and blood glucose; Odoribacter and arterial blood pressure;
-Ruminococcaceae and GIP, and Prevotellaceae and ghrelin have been reported [27,32,33]. Therefore,
+Ruminococcaceae and GIP, and Prevotellaceae and ghrelin have been reported  Therefore,
 gut microbiota might contribute to gestational metabolic changes through different mechanisms,
 although further studies on this topic are necessary.
 
 5. Gut Microbiota in Pregnancies Complicated by GDM
 
 The physiological insulin resistance of late-pregnancy is accentuated in women developing GDM,
-thus their insulin secretion is not sufﬁcient to maintain euglycemia, leading to glucose intolerance [34].
+thus their insulin secretion is not sufﬁcient to maintain euglycemia, leading to glucose intolerance 
 Overall, insulin resistance has been found to be associated with a higher Firmicutes/Bacteroidetes
 
-Nutrients 2019, 11, x FOR PEER REVIEW 3 of 13  to be beneficial to support fetal growth and increased nutrient absorption [13,27]. The pregnancy variations in the gut microbial composition may contribute to all these metabolic changes [13,14].  Figure 1. Gut microbiota changes during the course of normoglycemic pregnancies and GDM pregnancies. GDM: gestational diabetes mellitus. upward arrows mean an increased abundance, downward arrows mean a decreased abundance. However, at present, literature on microbiota composition in pregnancy is highly discordant, reporting no variations [28], increased Proteobacteria/Actinobacteria abundance, Roseburia intestinalis and Faecalibacterium prausnitzii reduction, and α-diversity decrease [13]. Gestational weight gain has been associated with higher concentrations of Bacteroides species [29], Staphylococcus [29,30], Enterobacteriaceae and Escherichia coli [30], reduced abundance of Bifidobacterium and Akkermansia muciniphila [30], and lower α-diversity [31]. Many correlations among specific taxa and gestational metabolic variables have been found, such as direct relationships between Collinsella and circulating levels of insulin, triglycerides, and very-low-density lipoproteins; Sutterella and C-reactive protein; Ruminococcaceae/Lachnospiraceae and leptin; Bacteroidaceae and ghrelin; Coprococcus and gastrointestinal polypeptide (GIP). Moreover, inverse relationships between Blautia and insulin values; Faecalibacterium/Fusobacterium ratios and blood glucose; Odoribacter and arterial blood pressure; Ruminococcaceae and GIP, and Prevotellaceae and ghrelin have been reported [27,32,33]. Therefore, gut microbiota might contribute to gestational metabolic changes through different mechanisms, although further studies on this topic are necessary. 5. Gut Microbiota in Pregnancies Complicated by GDM The physiological insulin resistance of late-pregnancy is accentuated in women developing GDM, thus their insulin secretion is not sufficient to maintain euglycemia, leading to glucose intolerance [34]. Overall, insulin resistance has been found to be associated with a higher Nutrients 2019, 11, 330
+Nutrients 2019, 11, x FOR PEER REVIEW 3 of 13  to be beneficial to support fetal growth and increased nutrient absorption  Overall, insulin resistance has been found to be associated with a higher Nutrients 2019, 11, 330
 
 4 of 13
 
 ratio and a reduced abundance of butyrate-producing bacteria such as Roseburia and Faecalibacterium
-prausnitzii [35–37].
+prausnitzii 
 
 Koren et al., reported a reduced microbial richness in the ﬁrst gestational trimester in women
 who later developed GDM, but no difference in the microbiota composition when compared to
-healthy pregnant women [13]. On the contrary, speciﬁc differences between GDM and normoglycemic
+healthy pregnant women  On the contrary, speciﬁc differences between GDM and normoglycemic
 Increased gut abundance of Parabacteroides distasonis,
 women were reported by a few studies.
-Klebsiella variicola [38], Ruminococcus, Eubacterium, Prevotella [39], Collinsella, Rothia, Desulfovibrio,
-Actinobacteria [26], Firmicutes [33,39] and reduced gut richness of Methanobrevibacter smithii, Alistipes
-species, Biﬁdobacterium species, Eubacterium species [38] Akkermansia, Bacteroides, Parabacteroides,
-Roseburia, and Dialister [39] were reported in GDM patients compared to normoglycemic controls
+Klebsiella variicola  Collinsella, Rothia, Desulfovibrio,
+Actinobacteria and reduced gut richness of Methanobrevibacter smithii, Alistipes
+species, Biﬁdobacterium species, Eubacterium species Akkermansia, Bacteroides, Parabacteroides,
+Roseburia, and Dialister were reported in GDM patients compared to normoglycemic controls
 (Figure 1). Some of the changes in the bacterial species related to GDM have been reported also in
 T2DM patients, such as the reduction in Roseburia and Akkermansia muciniphila, and the increase in
-Proteobacteria [21].
+Proteobacteria 
 
 Functional analyses showed a greater abundance of membrane transport and energy metabolism
 pathways, lipopolysaccharide and phosphotransferase systems, and lower amino acid metabolic
-pathways in the microbiome of GDM patients [38].
+pathways in the microbiome of GDM patients 
 
 If the changes in the gut microbiota contribute to or are a consequence of the development of
 GDM is a debated question. A different microbiota composition was found to precede the onset of
-GDM in early pregnancy, since both reduced microbial richness [13] and increased abundance of
+GDM in early pregnancy, since both reduced microbial richness and increased abundance of
 Ruminococcaceae family with a supposed subsequent increased energy harvest, pro-inﬂammatory
-status, and impaired insulin signaling, have been reported [40].
+status, and impaired insulin signaling, have been reported 
 
 A few studies described a different microbiota within 3–16 months after delivery in women with
 a previous GDM (GDM+) compared to those with a previous normoglycemic pregnancy (GDM−).
 In particular, GDM+ women showed a higher abundance of Prevotellaceae, Collinsella, Olsenella,
 and Clostridium and a reduction in Firmicutes, Fusobacterium and the parent family Fusobacteriaceae,
-and genus Ruminococcus (Ruminococcus from Lachnospiraceae family) [26,41]. Indeed, no gut microbiota
-differences between GDM+ and GDM− women were found 5 years postpartum [42]. Therefore,
+and genus Ruminococcus (Ruminococcus from Lachnospiraceae family)  Indeed, no gut microbiota
+differences between GDM+ and GDM− women were found 5 years postpartum  Therefore,
 the possibility that aberrant microbiota could contribute to the future development of T2DM in the
 GDM+ women becomes less probable.
 
 Finally, the microbiota of GDM patients can be transmitted to the offspring, and colonization
-before birth by speciﬁc taxa associated with GDM occurs [32]. The ﬁnding of microbial inheritance
+before birth by speciﬁc taxa associated with GDM occurs  The ﬁnding of microbial inheritance
 during pregnancy underscores the importance of its early modulation.
 
 6. Diet-Microbiota Interactions in Pregnancy
 
-Diet is one of the most important factors that modulate the intestinal microbiota [16].
+Diet is one of the most important factors that modulate the intestinal microbiota 
 Foods inﬂuence the microbiota composition through direct and indirect mechanisms. Nutrients
 are able to interact directly with microbes by promoting or inhibiting their growth. On the other hand,
 dietary compounds affect the host metabolism and immune system and the subsequent changes shape
-the gut microbiota [43]. The effect of food nutrients on intestinal microbiota is rapid, and changes to the
+the gut microbiota  The effect of food nutrients on intestinal microbiota is rapid, and changes to the
 gut microbiota can occur within days after changing diet. However, the gut microbiota is considered
-to be relatively stable and generally reverts to its original status after short-term dietary changes [16].
+to be relatively stable and generally reverts to its original status after short-term dietary changes 
 Because of its resilience, early colonization of the infant gut by microbes sets the stage for the lifelong
 relatively stable adult microbiome, and pregnancy offers a window of opportunity for the microbiota
 shaping of the newborn.
 
 Only a few studies have evaluated the role of nutrition on maternal gut microbiota
 during pregnancy. A lower ﬁber intake has been reported to be associated with reduced gut
-microbiota diversity and richness [44], greater abundance of Collinsella, a genus associated with
-T2DM [45–47], and greater abundance of Sutterella, a Proteobacteria with known pro-inﬂammatory
-capacity [48]. In pregnancy, vegetarian diets resulted in increased relative abundances of Roseburia and
-Lachnospiraceae, but no difference in α-diversity when compared to omnivorous diets [46]. A lower
+microbiota diversity and richness  greater abundance of Collinsella, a genus associated with
+T2DM  and greater abundance of Sutterella, a Proteobacteria with known pro-inﬂammatory
+capacity  In pregnancy, vegetarian diets resulted in increased relative abundances of Roseburia and
+Lachnospiraceae, but no difference in α-diversity when compared to omnivorous diets  A lower
 
 Nutrients 2019, 11, 330
 
 5 of 13
 
-bacterial richness was found in pregnant women with high-fat, low-ﬁber intakes [44]. Furthermore,
+bacterial richness was found in pregnant women with high-fat, low-ﬁber intakes  Furthermore,
 in overweight/obese women at early pregnancy stages, a high intake of saturated fatty acids (SFAs)
-was associated with the reduction of all indexes of microbiota richness [44], while, early after delivery,
+was associated with the reduction of all indexes of microbiota richness  while, early after delivery,
 an increased SFA consumption was associated with reductions in Proteobacteria and Firmicutes
-abundance relative to the other phyla [48]. Monounsaturated fatty acids (MUFAs) has been associated
-with increase in the abundance of Firmicutes, Proteobacteria, and Bacteroidetes [48]. In pregnant
+abundance relative to the other phyla  Monounsaturated fatty acids (MUFAs) has been associated
+with increase in the abundance of Firmicutes, Proteobacteria, and Bacteroidetes  In pregnant
 women, fat-soluble vitamins seem to act as modulators of gut microbiota. Higher intakes of vitamin
 D were associated with reduced microbial α-diversity. The consumption of retinol and vitamin
 D was associated with a relative increase in abundance of the pro-inﬂammatory Proteobacteria
 phylum. On the contrary, vitamin E intake was associated with a relative decrease in abundance of
-Proteobacteria [48]. In overweight pregnant women, dietary ﬁber and n–3 polyunsaturated fatty acids
-(PUFAs) were associated with higher microbiota richness and lower serum zonulin levels [49], a protein
+Proteobacteria  In overweight pregnant women, dietary ﬁber and n–3 polyunsaturated fatty acids
+(PUFAs) were associated with higher microbiota richness and lower serum zonulin levels  a protein
 that adversely modulates the permeability of gut tight junctions. Indeed, caution should be used in
-the interpretation of these results, since intakes were assessed by food frequency questionnaires [48] or
-food diaries [49], and, owing to the subjective nature of these data, associations between microbiota
+the interpretation of these results, since intakes were assessed by food frequency questionnaires or
+food diaries  and, owing to the subjective nature of these data, associations between microbiota
 and micronutrients might be overestimated.
 
 In pregnancy, different nutrients were found to be related with gut microbiota diversity and
@@ -186,30 +186,30 @@ that microbiota manipulation may improve maternal (and consequently neonatal) he
 7. Diet-Microbiota Interactions in GDM
 
 The impact of diet on the microbiota of GDM patients was recently addressed by an observational
-study [33]. Forty-one overweight women with GDM diagnosed at 24–28 weeks of gestation
+study  Forty-one overweight women with GDM diagnosed at 24–28 weeks of gestation
 received dietary recommendation from a registered dietitian, and their nutritional intakes and
 microbiota were evaluated after the diagnosis of GDM (enrolment) and at the 38th week of gestation.
 Women were considered as adherents to the given dietary recommendations if their intakes of
 rapidly absorbed sugars and ﬁber were respectively <10% of total energy and at least 20 g/day,
 and if they abolished alcohol intake at the end of the pregnancy. Adherents showed a signiﬁcant
-decrease in Bacteroides [33], which is a genus that has been associated with high-fat animal-based
-diets [50]. Moreover, at enrolment, total fat intake was associated with higher abundance of Alistipes
+decrease in Bacteroides  which is a genus that has been associated with high-fat animal-based
+diets  Moreover, at enrolment, total fat intake was associated with higher abundance of Alistipes
 and protein intake with Faecalibacterium genus, while, at the end of the pregnancy, ﬁber intake was
-associated with the genus Roseburia [33]. However, none of these bacteria were associated with the
-changes in metabolic variables occurring during pregnancy in patients with GDM [33].
+associated with the genus Roseburia  However, none of these bacteria were associated with the
+changes in metabolic variables occurring during pregnancy in patients with GDM 
 
 Therefore, the meaning of these associations remains unclear.
 Gut microbes are able to use dietary methylamines (choline, l-carnitine, and phosphatidylcholine)
 and produce trimethylamine (TMA), which is further oxidized to TMAO by the hepatic enzyme
-ﬂavin-containing monooxygenase 3 [51]. Red meat, eggs, dairy products, and salt-water ﬁsh are the
+ﬂavin-containing monooxygenase 3  Red meat, eggs, dairy products, and salt-water ﬁsh are the
 main dietary sources of methylamines. Elevated circulating levels of TMAO have been associated with
-increased risk of T2DM and cardiovascular diseases [52]. Recently, in a large cross-sectional study,
+increased risk of T2DM and cardiovascular diseases  Recently, in a large cross-sectional study,
 TMAO plasma concentrations in early and mid-pregnancy were positively related to increased odds
-of developing GDM [53]. In mice fed with a high-fat/high-sugar diet, TMAO promoted impaired
-glucose tolerance and adipose tissue inﬂammation [54]. At present, the pathogenetic role of plasma
+of developing GDM  In mice fed with a high-fat/high-sugar diet, TMAO promoted impaired
+glucose tolerance and adipose tissue inﬂammation  At present, the pathogenetic role of plasma
 concentrations of TMAO on glucose metabolism is mostly unknown. Moreover, scarce information is
 available about the taxonomic composition of TMA-producing bacteria in humans, which are widely
-distributed across Firmicutes, Actinobacteria, and Proteobacteria phyla [55].
+distributed across Firmicutes, Actinobacteria, and Proteobacteria phyla 
 
 Further studies are needed on this important topic. Randomized controlled trials in which
 strategies of dietary manipulation during pregnancy are employed to shape the gut microbiota
@@ -222,64 +222,64 @@ strongly advisable in order to evaluate the possibility of GDM prevention or con
 
 8. Microbiota: A Novel Potential Therapeutic Target in GDM?
 
-Despite the well-known role of MNT in the treatment of GDM [11], at present, there is no
+Despite the well-known role of MNT in the treatment of GDM  at present, there is no
 consensus about the optimal composition of the diet and about which nutritional scheme should be
-recommended [56,57]. Historically, the main focus of MNT in GDM was carbohydrate restriction,
-in particular simple sugar reduction [58], because this limitation reduces postprandial blood glucose
+recommended  Historically, the main focus of MNT in GDM was carbohydrate restriction,
+in particular simple sugar reduction  because this limitation reduces postprandial blood glucose
 levels, thus leading to a lower glucose exposure for the fetus and consequently a reduced risk for
-neonatal macrosomia [59]. Nevertheless, evidence of the beneﬁts of carbohydrate restriction in GDM
+neonatal macrosomia  Nevertheless, evidence of the beneﬁts of carbohydrate restriction in GDM
 is scarce, and recently this strategy has been questioned due to the unintended consequences of the
 unavoidable increase in fat intake, if protein consumption remains in the recommended levels (15–20%
-total energy) [56,58]. It is well known that the amount and quality of fatty acids play relevant roles in
-the modulation of insulin resistance [60]. High-fat diets, in particular diets rich in SFAs, may promote
-insulin resistance through several mechanisms, such as insulin signaling interfering [60], the promotion
-of inﬂammation through tumor necrosis factor alpha (TNF-α) production [61], and increased oxidative
-stress [62].
+total energy)  It is well known that the amount and quality of fatty acids play relevant roles in
+the modulation of insulin resistance  High-fat diets, in particular diets rich in SFAs, may promote
+insulin resistance through several mechanisms, such as insulin signaling interfering  the promotion
+of inﬂammation through tumor necrosis factor alpha (TNF-α) production  and increased oxidative
+stress 
 
 We do not eat alone, but also feed our microbiota, therefore we should also consider the effects
 of food and nutrients on the composition of our intestinal microorganisms. From a “microbiota
 point of view”, the high fat intake could potentially increase pro-inﬂammatory bacteria, resulting in
 enhanced insulin resistance. High-fat diet has been associated with increased intestinal permeability
-caused by high LPS serum levels, endotoxemia, and low-grade inﬂammation [63,64]. In animal
+caused by high LPS serum levels, endotoxemia, and low-grade inﬂammation  In animal
 studies, the consumption of high-SFA diets was observed to reduce the phylum Bacteroidetes (in
-particular, Bacteroides and Prevotella genera), and the species Lactobacillus and Biﬁdobacterium [65].
+particular, Bacteroides and Prevotella genera), and the species Lactobacillus and Biﬁdobacterium 
 In humans, high-fat diets have been reported to increase total anaerobic microbes, in particular the
 Bacteroides genus, while low-fat diets led to an increase in the abundance of Biﬁdobacterium concomitant
-with fasting glucose and total cholesterol reductions [15,66]. In human pregnancy, a high-fat diet
-determines an unfavorable microbial pattern, with a reduced bacterial richness, as described above [44].
-Furthermore, the association between GDM and SFA intake has been documented [67].
+with fasting glucose and total cholesterol reductions  In human pregnancy, a high-fat diet
+determines an unfavorable microbial pattern, with a reduced bacterial richness, as described above 
+Furthermore, the association between GDM and SFA intake has been documented 
 
 A decade ago, doubts about the effectiveness of low-carbohydrate diets in GDM began to emerge
 and nowadays the focus has moved from carbohydrate restriction to carbohydrate quality; in particular,
 diets with low glycemic index (GI) and/or rich in complex unreﬁned carbohydrates have been studied
-with promising results [68–70]. Different types of complex carbohydrates exert different impacts on
+with promising results  Different types of complex carbohydrates exert different impacts on
 microbiota composition. First of all, the terminology used needs to be clariﬁed. The generic term
 “ﬁber” (i.e., undigestible carbohydrates) in the context of microbiota is misleading. Not all ﬁbers can be
 used by gut microbes, such as cellulose, while other carbohydrates that are not ﬁbers can be fermented
 by our intestinal microorganisms, such as resistant starches. Recently, the term microbiota accessible
-carbohydrates (MACs) has been proposed [71]. Microbial fermentation of MACs produces SCFAs
+carbohydrates (MACs) has been proposed  Microbial fermentation of MACs produces SCFAs
 (acetate, propionate, and butyrate), which are able to activate G-protein-coupled receptors (GPRs),
 such as GPR41 and GPR43, triggering the secretion of gut hormones (glucagon-like peptide 1 -GLP-1,
-and peptide YY -PYY) by intestinal epithelial L-cells, and the secretion of leptin by adipocytes [18],
-resulting in appetite decrease [72,73], and improved insulin sensitivity [18]. SCFAs can suppress
+and peptide YY -PYY) by intestinal epithelial L-cells, and the secretion of leptin by adipocytes 
+resulting in appetite decrease  SCFAs can suppress
 lipolysis, and the release of inﬂammatory mediators, such as nitric oxide (NO), TNF-α, interleukin
-1-beta (IL-1β), and interleukin 6 (IL-6) [73–77]. Butyrate and propionate are generally considered
-beneﬁcial [18], while the role of acetate is still controversial in humans [78]. Indeed, the role of SCFAs in
+1-beta (IL-1β), and interleukin 6 (IL-6)  Butyrate and propionate are generally considered
+beneﬁcial  Indeed, the role of SCFAs in
 energy homeostasis is ambiguous. Fecal SCFAs have been found to be increased in the gut microbiota
-of people with obesity [79] and this might indicate a greater ability to extract energy from undigested
-foods contributing to the development of obesity [18,80].
+of people with obesity and this might indicate a greater ability to extract energy from undigested
+foods contributing to the development of obesity 
 
 The intakes of different MACs were associated with different microbe growth: prebiotic ﬁbers,
 such as fructans, polydextrose, fructooligosaccharides (FOS), and galactooligosaccharides (GOS) were
-linked to the growth of intestinal Biﬁdobacteri and Lactobacilli [81]; resistant starch was reported to
-increase the abundance of Ruminococcus, E. rectale, and Roseburia [15,82]. In animal studies, low-MAC
+linked to the growth of intestinal Biﬁdobacteri and Lactobacilli  resistant starch was reported to
+increase the abundance of Ruminococcus, E. rectale, and Roseburia  In animal studies, low-MAC
 diets resulted in over-grazing the mucus layer by the gut microbiota, potentially compromising the
 
 Nutrients 2019, 11, 330
 
 7 of 13
 
-integrity of the mucosal barrier and increasing inﬂammation and susceptibility to pathogens [83].
+integrity of the mucosal barrier and increasing inﬂammation and susceptibility to pathogens 
 Intriguingly, the selective use of speciﬁc MACs could have a different impact on microbiota composition
 and consequently on host metabolism. Therefore, not only carbohydrate quality but also the type of
 MAC should be considered in the deﬁnition of the optimal diet for GDM patients.
@@ -287,37 +287,37 @@ MAC should be considered in the deﬁnition of the optimal diet for GDM patients
 9. Towards Personalized Nutrition for GDM
 
 The “one-size-ﬁts-all” diet approach has been called into question for most metabolic disorders.
-The individual response to diets is inﬂuenced by genetic, epigenetic, and microbial inﬂuences [84].
+The individual response to diets is inﬂuenced by genetic, epigenetic, and microbial inﬂuences 
 The metabolic response to speciﬁc foods based on the individual gut microbiota composition is
-one of the emerging topics of interest in the ﬁeld of personalized nutrition [85]. Recent studies
-have identiﬁed individual enterotypes with different responses to speciﬁc diets [86]. Based on the
+one of the emerging topics of interest in the ﬁeld of personalized nutrition  Recent studies
+have identiﬁed individual enterotypes with different responses to speciﬁc diets  Based on the
 predominant genus, people can be divided into three different clusters, called “enterotypes”: Bacteroides,
-Prevotella, and Ruminococcus [87], with a high predominance of the ﬁrst two enterotypes around
+Prevotella, and Ruminococcus  with a high predominance of the ﬁrst two enterotypes around
 the world. These clusters appear to be independent from nationality, sex, age, and body mass
-index (BMI), but substantially determined by dietary habits [88]. Prevotella (P-type) enterotype was
+index (BMI), but substantially determined by dietary habits  Prevotella (P-type) enterotype was
 associated with a plant-based diet, rich in carbohydrates, resistant starch, and ﬁbers, whereas Bacteroides
-(B-type) enterotype was associated with high-fat, low-ﬁber Western diets [88–90]. Due to the speciﬁc
+(B-type) enterotype was associated with high-fat, low-ﬁber Western diets  Due to the speciﬁc
 microbial enzymatic capacity, the P-type would have a greater ability to produce propionate from ﬁber
 fermentation (in particular, arabinoxylans and β-glucans), with increased production of the satiating
-PYY and GLP-1 hormones [86]. The P-type subjects have been proven to lose weight with a high-ﬁber
-diet rich in arabinoxylans and β-glucans [91–93], while the B-type individuals do not beneﬁt from
+PYY and GLP-1 hormones  The P-type subjects have been proven to lose weight with a high-ﬁber
+diet rich in arabinoxylans and β-glucans  while the B-type individuals do not beneﬁt from
 these ﬁbers. In a recent study, 3 days of barley kernel-based bread supplementation improved the
-glucose metabolism only in subjects with higher Prevotella/Bacteroides ratios [93], conﬁrming the role
+glucose metabolism only in subjects with higher Prevotella/Bacteroides ratios  conﬁrming the role
 of arabinoxylans and β-glucans in the P-type individuals. On the other hand, the B-type individuals
 could lose weight and improve their glucose metabolism with biﬁdobacteria-increasing interventions,
-including prebiotics, such as inulin and oligosaccharides, or symbiotic treatment [86].
+including prebiotics, such as inulin and oligosaccharides, or symbiotic treatment 
 
 A Prevotellaceae-dominated intestinal microbiome has been observed after 3–16 months
 from delivery in women with previous GDM when compared to women after a normoglycemic
-pregnancy [41]. Other studies conﬁrmed an increased abundance of the genus Prevotella in GDM in
-the second [38] and third [39] trimester of gestation compared to normoglycemic subjects. Therefore,
+pregnancy  Other studies conﬁrmed an increased abundance of the genus Prevotella in GDM in
+the second trimester of gestation compared to normoglycemic subjects. Therefore,
 overall, in GDM patients it could be hypothesized that there is a beneﬁcial effect resulting from the
 increased consumption of foods containing arabinoxylans and β-glucans, such as rye, wheat, barley,
 oats, sorghum, maize, millet, psyllium, and ﬂaxseed. In GDM patients, Bacteroides abundance has
-been found to be either increased [32] or decreased [39]. A reduced abundance of Bacteroides at the
+been found to be either increased  A reduced abundance of Bacteroides at the
 end of pregnancy has been described in women with GDM with a higher intake of total ﬁber and
-oligosaccharides [33]. This reduction in Bacteroides abundance could be considered positive, as this
-genus has been associated with greater gestational weight gain [29]. Therefore, only in the subgroup
+oligosaccharides  This reduction in Bacteroides abundance could be considered positive, as this
+genus has been associated with greater gestational weight gain  Therefore, only in the subgroup
 of GDM patients with a higher relative abundance of Bacteroides, biﬁdogenic prebiotic ﬁbers (FOS,
 GOS and inulin, contained in foods such as legumes, chicory roots, Jerusalem artichokes, onions, garlic,
 asparagus, daikon, and leek) might be beneﬁcial to control the gestational weight gain.
@@ -325,9 +325,9 @@ asparagus, daikon, and leek) might be beneﬁcial to control the gestational wei
 A step towards personalized recommendations based on microbiota composition in a clinical
 setting was the recent production of a tool that is able to predict the individual impact of foods
 on postprandial glycemic responses based on an algorithm integrating clinical variables and gut
-microbiota composition [94]. Furthermore, lower glycemic response after eating different types
+microbiota composition  Furthermore, lower glycemic response after eating different types
 of bread (artisanal sourdough bread and industrially made white bread) can be predicted in each
-person based only on microbiome data [95]. This suggests once again that giving the same dietary
+person based only on microbiome data  This suggests once again that giving the same dietary
 recommendations to all people has limited efﬁcacy.
 
 Nutrients 2019, 11, 330
@@ -343,7 +343,7 @@ pregnancy complicated by GDM is limited. Furthermore, gut microbiota is just one
 that can determine personalized responses to diet therapy; future studies on personalized nutrition
 should take into account and integrate all the possible variables, including genetics and clinical
 parameters. Finally, doubts have recently been raised about the beneﬁt of probiotics in preventing
-GDM, thus questioning the role of microbiota in pregnancy hyperglycemia [96].
+GDM, thus questioning the role of microbiota in pregnancy hyperglycemia 
 
 Table 1. Key points about diet-microbiota interactions in patients with GDM (gestational diabetes
 mellitus).
@@ -442,415 +442,3 @@ study; in the collection, analyses, or interpretation of data; in the writing of
 publish the results.
 
 Nutrients 2019, 11, 330
-
-References
-
-9 of 13
-
-1.
-
-2.
-
-3.
-
-Sacks, D.A.; Hadden, D.R.; Maresh, M.; Deerochanawong, C.; Dyner, A.R.; Metzger, B.E.; Lowe, L.P.;
-Coustan, D.R.; Hod, M.; Oats, J.J.N.; et al. and for the HAPO Study Cooperative Research Group. Frequency
-of gestational diabetes mellitus at collaborating centers based on IADPSG consensus panel-recommended
-criteria: The Hyperglycemia and Adverse Pregnancy Outcome (HAPO) Study. Diabetes Care 2012, 353,
-526–528. [CrossRef] [PubMed]
-Zhu, Y.; Zhang, C. Prevalence of gestational diabetes and risk of progression to type 2 diabetes: A global
-perspective. Curr. Diab. Rep. 2016, 16, 7. [CrossRef] [PubMed]
-American Diabetes Association. Classiﬁcation and Diagnosis of Diabetes: Standards of Medical Care in Diabetes.
-Diabetes Care 2018, 41, S13–S27. [CrossRef]
-
-5.
-
-6.
-
-4. HAPO Study Cooperative Research Group; Metzger, B.E.; Lowe, L.P.; Dyer, A.R.; Trimble, E.R.;
-Chaovarindr, U.; Coustan, D.R.; Hadden, D.R.; McCance, D.R.; Hod, M.; et al. Hyperglycemia and adverse
-pregnancy outcomes. N. Eng. J. Med. 2008, 358, 1991–2002. [CrossRef]
-Schneider, S.; Hoeft, B.; Freerksen, N.; Fischer, B.; Roehrig, S.; Yamamoto, S.; Maul, H. Neonatal complications
-and risk factors among women with gestational diabetes mellitus. Acta Obstet. Gyn. Scan. 2011, 90, 231–237.
-[CrossRef] [PubMed]
-Lauenborg, J.; Hansen, T.; Jensen, D.M. Increasing incidence of diabetes after gestational diabetes:
-A long-term follow-up in a Danish population. Diabetes Care 2004, 27, 1194–1199. [CrossRef] [PubMed]
-Bellamy, L.; Casas, J.P.; Williams, D. Type 2 diabetes mellitus after gestational diabetes: A systematic review
-and meta-analysis. Lancet 2009, 373, 1773–1779. [CrossRef]
-Vohr, B.R.; Boney, C.M. Gestational diabetes: The forerunner for the development of maternal and childhood
-obesity and metabolic syndrome? J. Matern. Fetal. Neonatal. Med. 2008, 21, 149–157. [CrossRef]
-Damm, P.; Houshmand-Oeregaard, A.; Kelstrup, L.; Lauenborg, J.; Mathiesen, E.R.; Clausen, T.D. Gestational
-diabetes mellitus and long-term consequences for mother and offspring: A view from Denmark. Diabetologia
-2016, 59, 1396–1399. [CrossRef]
-
-9.
-
-8.
-
-7.
-
-10. Nguyen, T.H.; Yang, J.W.; Mahone, M.; Godbout, A. Are there beneﬁts for gestational diabetes mellitus in
-treating lower levels of hyperglycemia than standard recommendations? Can. J. Diabetes 2016, 40, 548–554.
-[CrossRef]
-
-11. American Diabetes Association. Management of Diabetes in Pregnancy: Standards of Medical Care in
-
-Diabetes 2018. Diabetes Care 2018, 41, S137–S143. [CrossRef] [PubMed]
-
-12. Wong, V.W.; Jalaludin, B. Gestational Diabetes Mellitus: Who requires insulin therapy? Aust. N. Z. J. Obstet.
-
-Gynaecol. 2011, 51, 432–436. [CrossRef] [PubMed]
-
-13. Koren, O.; Goodrich, J.K.; Cullender, T.C.; Spor, A.; Laitinen, K.; Bäckhed, H.K.; Gonzalez, A.; Werner, J.J.;
-Angenent, L.T.; Knight, R.; et al. Host remodeling of the gut microbiome and metabolic changes during
-pregnancy. Cell 2012, 150, 470–480. [CrossRef] [PubMed]
-
-15.
-
-14. Gohir, W.; Whelan, F.J.; Surette, M.G.; Moore, C.; Schertzer, J.D.; Sloboda, D.M. Pregnancy-related changes in
-the maternal gut microbiota are dependent upon the mother’s periconceptional diet. Gut Microbes. 2015, 6,
-310–320. [CrossRef] [PubMed]
-Singh, R.K.; Chang, H.W.; Yan, D.; Lee, K.M.; Ucmak, D.; Wong, K.; Abrouk, M.; Farahnik, B.; Nakamura, M.;
-Zhu, T.H.; et al. Inﬂuence of diet on the gut microbiome and implications for human health. J. Transl. Med.
-2017, 15, 73. [CrossRef] [PubMed]
-Scott, K.P.; Gratz, S.W.; Sheridan, P.O.; Flint, H.J.; Duncan, S.H. The inﬂuence of diet on the gut microbiota.
-Pharmacol. Res. 2013, 69, 52–60. [CrossRef] [PubMed]
-
-16.
-
-17. Kunz, C.; Kuntz, S.; Rudloff, S. Intestinal ﬂora. Adv. Exp. Med. Biol. 2009, 639, 67–79. [CrossRef]
-18. Canfora, E.E.; Jocken, J.W.; Blaak, E.E. Short-chain fatty acids in control of body weight and insulin sensitivity.
-
-Nat. Rev. Endocrinol. 2015, 11, 577–591. [CrossRef]
-
-19. Clarke, G.; Stilling, R.M.; Kennedy, P.J.; Stanton, C.; Cryan, J.F.; Dinan, T.G. Minireview: Gut microbiota:
-
-The neglected endocrine organ. Mol. Endocrinol. 2014, 28, 1221–1238. [CrossRef]
-
-20. Meijnikman, A.S.; Gerdes, V.E.; Nieuwdorp, M.; Herrema, H. Evaluating Causality of Gut Microbiota in
-
-Obesity and Diabetes in Humans. Endocr. Rev. 2018, 39, 133–153. [CrossRef]
-
-Nutrients 2019, 11, 330
-
-10 of 13
-
-21.
-
-Sircana, A.; Framarin, L.; Leone, N.; Berrutti, M.; Castellino, F.; Parente, R.; De Michieli, F.; Paschetta, E.;
-Musso, G. Altered Gut Microbiota in Type 2 Diabetes: Just a Coincidence? Curr. Diab. Rep. 2018, 18, 98.
-[CrossRef] [PubMed]
-
-22. Hu, C.; Wong, F.S.; Wen, L. Type 1 diabetes and gut microbiota: Friend or foe? Pharmacol. Res. 2015, 98, 9–15.
-
-23. Caricilli, A.M.; Saad, M.J. The Role of Gut Microbiota on Insulin Resistance. Nutrients 2013, 5, 829–851.
-
-[CrossRef] [PubMed]
-
-[CrossRef] [PubMed]
-
-24. Wen, L.; Duffy, A. Factors Inﬂuencing the Gut Microbiota, Inﬂammation, and Type 2 Diabetes. J. Nutr. 2017,
-
-147, S1468–S1475. [CrossRef] [PubMed]
-
-25. Liu, J.; Yang, H.; Yin, Z.; Jiang, X.; Zhong, H.; Qiu, D.; Zhu, F.; Li, R. Remodeling of the gut microbiota and
-structural shifts in preeclampsia patients in South China. Eur. J. Clin. Microbiol. Infect. Dis. 2017, 36, 713–719.
-[CrossRef] [PubMed]
-
-26. Crusell, M.; Hansen, T.H.; Nielsen, T.; Allin, K.H.; Rühlemann, M.C.; Damm, P.; Vestergaard, H.; Rørbye, C.;
-Jørgensen, N.R.; Christiansen, O.B.; et al. Gestational diabetes is associated with change in the gut microbiota
-composition in third trimester of pregnancy and postpartum. Microbiome 2018, 6, 89. [CrossRef] [PubMed]
-27. Gomez-Arango, L.F.; Barrett, H.L.; McIntyre, H.D.; Callaway, L.K.; Morrison, M.; Dekker Nitert, M.; SPRING
-Trial Group. Connections between the gut microbiome and metabolic hormones in early pregnancy in
-overweight and obese women. Diabetes 2016, 65, 2214–2223. [CrossRef]
-
-28. DiGiulio, D.B.; Callahan, B.J.; McMurdie, P.J.; Costello, E.K.; Lyell, D.J.; Robaczewska, A.; Sun, C.L.;
-Goltsman, D.S.; Wong, R.J.; Swah, G.; et al. Temporal and spatial variation of the human microbiota
-during pregnancy. Proc. Natl. Acad. Sci. USA 2015, 112, 11060–11065. [CrossRef]
-
-29. Collado, M.C.; Isolauri, E.; Laitinen, K.; Salminen, S. Distinct composition of gut microbiota during pregnancy
-
-30.
-
-31.
-
-in overweight and normal-weight women. Am. J. Clin. Nutr. 2008, 88, 894–899. [CrossRef]
-Santacruz, A.; García-Valdés, L.; Segura, M.T.; Martín-Lagos, J.A.; Anjos, T.; Martí-Romero, M.; Lopez, R.M.;
-Florido, J.; Campoy, C.; Sanz, Y. Gut microbiota composition is associated with body weight, weight gain
-and biochemical parameters in pregnant women. Br. J. Nutr. 2010, 104, 82–92. [CrossRef]
-Stanislavski, M.A.; Dabelea, D.; Wagner, B.D.; Sontag, M.K.; Lozupone, C.A.; Eggesbø, M. Pre-pregnancy
-weight, gestational weight gain, and the gut microbiota of mothers and their infants. Microbiome 2017, 5, 113.
-[CrossRef] [PubMed]
-
-32. Wang, J.; Zheng, J.M.; Shi, W.; Xu, X.; Zhang, Y.; Ji, P.; Zhang, F.; Jia, Z.; Wang, Y.; Zheng, Z.; et al. Dysbiosis
-of maternal and neonatal microbiota associated with gestational diabetes mellitus. Gut 2018, 67, 1614–1625.
-[CrossRef] [PubMed]
-Ferrocino, I.; Ponzo, V.; Gambino, R.; Zarovska, A.; Leone, F.; Monzeglio, C.; Goitre, I.; Romano, A.; Grassi, G.;
-Broglio, F.; et al. Changes in the gut microbiota composition during pregnancy in patients with gestational
-diabetes mellitus (GDM). Sci. Rep. 2018, 8, 122216. [CrossRef] [PubMed]
-
-33.
-
-34. American Diabetes Association. Classiﬁcation and diagnosis of diabetes. Diabetes Care 2015, 38, S8–S16.
-
-[CrossRef] [PubMed]
-
-35. Ley, R.E.; Backhed, F.; Turnbaugh, P.; Lozupone, C.A.; Knight, R.D.; Gordon, J.I. Obesity alters gut microbial
-
-36.
-
-37.
-
-ecology. Proc. Natl. Acad. Sci. USA 2005, 102, 11070–11075. [CrossRef] [PubMed]
-Serino, M.; Fernández-Real, J.M.; García-Fuentes, E.; Queipo-Ortuño, M.; Moreno-Navarrete, J.M.;
-Sánchez, A.; Burcelin, R.; Tinahones, F. The gut microbiota proﬁle is associated with insulin action in
-humans. Acta Diabetol. 2013, 50, 753–761. [CrossRef] [PubMed]
-Silke, C.; Marie-Christine, S. Microbial Regulation of Glucose Metabolism and Insulin Resistance. Genes 2018,
-9, 10. [CrossRef]
-
-38. Kuang, Y.S.; Lu, J.H.; Li, S.H.; Li, J.H.; Yuan, M.Y.; He, J.R.; Chen, N.N.; Xiao, W.Q.; Shen, S.Y.; Qiu, L.; et al.
-Connections between the human gut microbiome and gestational diabetes mellitus. Gigascience 2017, 6, 1–12.
-[CrossRef]
-
-39. Cortez, R.V.; Taddei, C.R.; Sparvoli, L.G.; Angelo, A.G.S.; Padilha, M.; Mattar, R.; Daher, S. Microbiome and
-
-its relation to gestational diabetes. Endocrine 2018. [CrossRef]
-
-40. Mokkala, K.; Houttu, N.; Vahlberg, T.; Munukka, E.; Rönnemaa, T.; Laitinen, K. Gut microbiota aberrations
-
-precede diagnosis of gestational diabetes mellitus. Acta Diabetol. 2017, 54, 1147–1149. [CrossRef]
-
-Nutrients 2019, 11, 330
-
-11 of 13
-
-41.
-
-Fugmann, M.; Breier, M.; Rottenkolber, M.; Banning, F.; Ferrari, U.; Sacco, V.; Grallert, H.; Parhofer, K.G.;
-Seissler, J.; Clavel, T.; et al. The stool microbiota of insulin resistant women with recent gestational diabetes,
-a high-risk group for type 2 diabetes. Sci. Rep. 2015, 5, 13212. [CrossRef] [PubMed]
-
-42. Hasan, S.; Aho, V.; Pereira, P.; Paulin, L.; Koivusalo, S.B.; Auvinen, P.; Eriksson, J.G. Gut microbiome in
-gestational diabetes: A cross-sectional study of mothers and offspring 5 years postpartum. Acta Obstet.
-Gynecol. Scand. 2018, 97, 38–46. [CrossRef] [PubMed]
-
-43. Zmora, N.; Suez, J.; Elinav, E. You are what you eat: Diet, health and the gut microbiota. Nat. Rev.
-
-Gastroenterol. Hepatol. 2018, 16, 35–56. [CrossRef] [PubMed]
-
-44. Röytiö, H.; Mokkala, K.; Vahlberg, T.; Laitinen, K. Dietary intake of fat and ﬁbre according to reference values
-relates to higher gut microbiota richness in overweight pregnant women. Br. J. Nutr. 2018, 120, 599–600.
-[CrossRef] [PubMed]
-
-45. Gomez-Arango, L.F.; Barrett, H.L.; Wilkinson, S.A.; Callaway, L.K.; McIntyre, H.D.; Morrison, M.;
-Dekker Nitert, M. Low dietary ﬁber intake increases Collinsella abundance in the gut microbiota of
-overweight and obese pregnant women. Gut Microbes. 2018, 9, 189–201. [CrossRef] [PubMed]
-
-46. Barrett, H.L.; Gomez-Arango, L.F.; Wilkinson, S.A.; McIntyre, H.D.; Callaway, L.K.; Morrison, M.;
-Dekker Nitert, M. A Vegetarian Diet Is a Major Determinant of Gut Microbiota Composition in Early
-Pregnancy. Nutrients 2018, 10, 890. [CrossRef]
-
-47. Lambeth, S.M.; Carson, T.; Lowe, J.; Ramaraj, T.; Leff, J.W.; Luo, L.; Bell, C.J.; Shah, V.O. Composition,
-Diversity and Abundance of Gut Microbiome in Prediabetes and Type 2 Diabetes. J. Diabetes Obes. 2015, 2,
-1–7.
-
-48. Mandal, S.; Godfrey, K.M.; McDonald, D.; Treuren, W.V.; Bjørnholt, J.V.; Midtvedt, T.; Moen, B.; Rudi, K.;
-Knight, R.; Brantsæter, A.L.; et al. Fat and vitamin intakes during pregnancy have stronger relations with
-a pro-inﬂammatory maternal microbiota than does carbohydrate intake. Microbiome 2016, 4, 55. [CrossRef]
-49. Mokkala, K.; Röytiö, H.; Munukka, E.; Pietilä, S.; Ekblad, U.; Rönnemaa, T.; Eerola, E.; Laiho, A.; Laitinen, K.
-Gut Microbiota Richness and Composition and Dietary Intake of Overweight Pregnant Women Are Related to
-Serum Zonulin Concentration, a Marker for Intestinal Permeability. J. Nutr. 2016, 146, 1694–1700. [CrossRef]
-50. David, L.A.; Maurice, C.F.; Carmody, R.N.; Gootenberg, D.B.; Button, J.E.; Wolfe, B.E.; Ling, A.V.; Devlin, A.S.;
-Varma, Y.; Fischbach, M.A.; et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature
-2013, 505, 559–563. [CrossRef]
-
-51. Hoyles, L.; Jiménez-Pranteda, M.L.; Chilloux, J.; Brial, F.; Myridakis, A.; Aranias, T.; Magnan, C.; Gibson, G.R.;
-Sanderson, J.D.; Nicholson, J.K.; et al. Metabolic retroconversion of trimethylamine N-oxide and the gut
-microbiota. Microbiome 2018, 6, 73. [CrossRef] [PubMed]
-
-52. Brial, F.; Le Lay, A.; Dumas, M.E.; Gauguier, D. Implication of gut microbiota metabolites in cardiovascular
-
-and metabolic diseases. Cell Mol. Life Sci. 2018, 75, 3977–3990. [CrossRef] [PubMed]
-
-53. Li, P.; Zhong, C.; Li, S.; Sun, T.; Huang, H.; Chen, X.; Zhu, Y.; Hu, X.; Peng, X.; Zhang, X.; et al. Plasma
-concentration of trimethylamine-N-oxide and risk of gestational diabetes mellitus. Am. J. Clin. Nutr. 2018,
-108, 603–610. [CrossRef] [PubMed]
-
-54. Gao, X.; Liu, X.; Xu, J.; Xue, C.; Xue, Y.; Wang, Y.J. Dietary trimethylamine N-oxide exacerbates impaired
-glucose tolerance in mice fed a high fat diet. J. Biosci. Bioeng. 2014, 118, 476–481. [CrossRef] [PubMed]
-55. Rath, S.; Heidrich, B.; Pieper, D.H.; Vital, M. Uncovering the trimethylamine-producing bacteria of the
-
-human gut microbiota. Microbiome 2017, 5, 54. [CrossRef] [PubMed]
-
-56. Moreno-Castilla, C.; Mauricio, D.; Hernandez, M. Role of Medical Nutrition Therapy in the Management of
-
-Gestational Diabetes Mellitus. Curr. Diab. Rep. 2016, 16, 22. [CrossRef] [PubMed]
-
-59.
-
-57. Han, S.; Middleton, P.; Shepherd, E.; Van Ryswyk, E.; Crowther, C.A. Different types of dietary advice for
-women with gestational diabetes mellitus. Cochrane Database Syst. Rev. 2017, 2, CD009275. [CrossRef]
-58. Hernandez, T.L.; Anderson, M.A.; Chartier-Logan, C.; Friedman, J.E.; Barbour, L.A. Strategies in the
-Nutritional Management of Gestational Diabetes. Clin. Obstet. Gynecol. 2013, 56, 803–815. [CrossRef]
-Jovanovic-Peterson, L.; Peterson, C.M. Dietary manipulation as a primary treatment strategy for pregnancies
-complicated by diabetes. J. Am. Coll. Nutr. 1990, 9, 320–325. [CrossRef]
-Sears, B.; Perry, M. The role of fatty acids in insulin resistance. Lipids Health Dis. 2015, 14, 121. [CrossRef]
-
-60.
-61. Cortez, M.; Carmo, L.S.; Rogero, M.M.; Borelli, P.; Fock, R.A. A high-fat diet increases IL-1, IL-6, and TNF-α
-production by increasing NF-κB and attenuating PPAR-γ expression in bone marrow mesenchymal stem
-cells. Inﬂammation 2013, 36, 379–386. [CrossRef] [PubMed]
-
-Nutrients 2019, 11, 330
-
-12 of 13
-
-62. Matsuzawa-Nagata, N.; Takamura, T.; Ando, H.; Nakamura, S.; Kurita, S.; Misu, H.; Ota, T.; Yokoyama, M.;
-Honda, M.; Miyamoto, K.; et al. Increased oxidative stress precedes the onset of high-fat diet-induced insulin
-resistanceand obesity. Metabolism 2008, 57, 1071–1077. [CrossRef] [PubMed]
-
-63. Pendyala, S.; Walker, J.M.; Holt, P.R. A high-fat diet is associated with endotoxemia that originates from the
-
-gut. Gastroenterology 2012, 142, 1100–1101. [CrossRef] [PubMed]
-
-64. Ghanim, H.; Abuaysheh, S.; Sia, C.L.; Korzeniewski, K.; Chaudhuri, A.; Fernandez-Real, J.M.; Dandona, P.
-Increase in plasma endotoxin concentrations and the expression of Toll-Like Receptors and suppressor of
-cytokine signaling-3 in mononuclear cells after a high-fat, high-carbohydrate meal: Implications for insulin
-resistance. Diabetes Care 2009, 32, 2281–2287. [CrossRef] [PubMed]
-
-65. Coelho, O.G.L.; Cândido, F.G.; Alfenas, R.C.G. Dietary fat and gut microbiota: Mechanisms involved in
-
-66.
-
-obesity control. Crit. Rev. Food Sci. Nutr. 2018, 31, 1–9. [CrossRef] [PubMed]
-Fava, F.; Gitau, R.; Grifﬁn, B.A.; Gibson, G.R.; Tuohy, K.M.; Lovegrove, J.A. The type and quantity of dietary
-fat and carbohydrate alter faecal microbiome and short-chain fatty acid excretion in a metabolic syndrome
-“at-risk” population. Int. J. Obes. 2013, 37, 216–223. [CrossRef] [PubMed]
-
-67. Bo, S.; Menato, G.; Lezo, A.; Signorile, A.; Bardelli, C.; De Michieli, F.; Massobrio, M.; Pagano, G. Dietary fat
-
-and gestational hyperglycaemia. Diabetologia 2001, 44, 972–978. [CrossRef]
-
-68. Hernandez, T.L.; van Pelt, R.E.; Anderson, M.A.; Daniels, L.J.; West, N.A.; Donahoo, W.T.; Friedman, J.E.;
-Barbour, L.A. A higher-complex carbohydrate diet in gestational diabetes mellitus achieves glucose targets
-and lowers postprandial lipids: A randomized crossover study. Diabetes Care 2014, 37, 1254–1262. [CrossRef]
-69. Hernandez, T.L.; van Pelt, R.E.; Anderson, M.A.; Reece, M.S.; Reynolds, R.M.; de la Houssaye, B.A.;
-Heerwagen, M.; Donahoo, W.T.; Daniels, L.J.; Chartier-Logan, C.; et al. Women With Gestational Diabetes
-Mellitus Randomized to a Higher-Complex Carbohydrate/Low-Fat Diet Manifest Lower Adipose Tissue
-Insulin Resistance, Inﬂammation, Glucose, and Free Fatty Acids: A Pilot Study. Diabetes Care 2016, 39, 39–42.
-[CrossRef]
-
-70. Zhang, R.; Han, S.; Chen, G.C.; Li, Z.N.; Silva-Zolezzi, I.; Parés, G.V.; Wang, Y.; Qin, L.Q. Effects
-of low-glycemic-index diets in pregnancy on maternal and newborn outcomes in pregnant women:
-A meta-analysis of randomized controlled trials. Eur. J. Nutr. 2018, 57, 167–177. [CrossRef]
-Sonnenburg, E.D.; Sonnenburg, J.L. Starving our microbial self: The deleterious consequences of a diet
-deﬁcient in microbiota-accessible carbohydrates. Cell. Metab. 2014, 20, 779–786. [CrossRef] [PubMed]
-72. Dailey, M.J.; Moran, T.H. Glucagon-like peptide 1 and appetite. Trends Endocrinol. Metab. 2013, 24, 85–91.
-
-71.
-
-[CrossRef] [PubMed]
-
-73. De Silva, A.; Bloom, S.R. Gut hormones and appetite control: A focus on PYY and GLP-1 as therapeutic
-
-targets in obesity. Gut Liver 2012, 6, 10–20. [CrossRef] [PubMed]
-
-74. Vinolo, M.A.; Rodrigues, H.G.; Hatanaka, E.; Sato, F.T.; Sampaio, S.C.; Curi, R. Suppressive effect of
-short-chain fatty acids on production of proinﬂammatory mediators by neutrophils. J. Nutr. Biochem. 2011,
-22, 849–855. [CrossRef] [PubMed]
-
-75. Liu, T.; Li, J.; Liu, Y.; Xiao, N.; Suo, H.; Xie, K.; Yang, C.; Wu, C. Short-chain fatty acids suppress
-lipopolysaccharide-induced production of nitric oxide and proinﬂammatory cytokines through inhibition of
-NF-κB pathway in RAW264.7 cells. Inﬂammation 2012, 35, 1676–1684. [CrossRef] [PubMed]
-
-76. Cox, M.A.; Jackson, J.; Stanton, M.; Rojas-Triana, A.; Bober, L.; Laverty, M.; Yang, X.; Zhu, F.; Liu, J.; Wang, S.;
-et al. Short-chain fatty acids act as antiinﬂammatory mediators by regulating prostaglandin E2 and cytokines.
-World J. Gastroenterol. 2009, 15, 5549–5557. [CrossRef] [PubMed]
-
-77. Ge, H.; Li, X.; Weiszmann, J.; Wang, P.; Baribault, H.; Chen, J.L.; Tian, H.; Li, Y. Activation of G protein-coupled
-receptor 43 in adipocytes leads to inhibition of lipolysis and suppression of plasma free fatty acids.
-Endocrinology 2008, 149, 4519–4526. [CrossRef]
-
-78. Canfora, E.E.; Blaak, E.E. Acetate: A diet-derived key metabolite in energy metabolism: Good or bad in
-context of obesity and glucose homeostasis? Curr. Opin. Clin. Nutr. Metab. Care 2017, 20, 477–483. [CrossRef]
-79. Turnbaugh, P.J.; Ley, R.E.; Mahowald, M.A.; Magrini, V.; Mardis, E.R.; Gordon, J.I. An obesity-associated gut
-
-microbiome with increased capacity for energy harvest. Nature 2006, 444, 1027–1031. [CrossRef]
-
-80. den Besten, G.; van Eunen, K.; Groen, A.K.; Venema, K.; Reijngoud, D.J.; Bakker, B.M. The role of short-chain
-fatty acids in the interplay between diet, gut microbiota, and host energy metabolism. J. Lipid Res. 2013, 54,
-2325–2340. [CrossRef]
-
-Nutrients 2019, 11, 330
-
-13 of 13
-
-81. Gibson, G.R.; Roberfroid, M.B. Dietary modulation of the human colonic microbiota: Introducing the concept
-
-of prebiotics. J. Nutr. 1995, 125, 1401–1412. [CrossRef]
-
-82. Keim, N.L.; Martin, R.J. Dietary whole grain–microbiota interactions: Insights into mechanisms for human
-
-health. Adv. Nutr. 2014, 5, 556–557. [CrossRef] [PubMed]
-
-83. Desai, M.S.; Seekatz, A.M.; Koropatkin, N.M.; Kamada, N.; Hickey, C.A.; Wolter, M.; Pudlo, N.A.; Kitamoto, S.;
-Terrapon, N.; Muller, A.; et al. A dietary ﬁber-deprived gut microbiota degrades the colonic mucus barrier
-and enhances pathogen susceptibility. Cell 2016, 167, 1339–1353. [CrossRef] [PubMed]
-
-84. Bashiardes, S.; Godneva, A.; Elinav, E.; Segal, E. Towards utilization of the human genome and microbiome
-
-for personalized nutrition. Curr. Opin. Biotechnol. 2018, 51, 57–63. [CrossRef]
-
-85. Zmora, N.; Zeevi, D.; Korem, T.; Segal, E.; Elinav, E. Taking it personally: Personalized utilization of the
-
-human microbiome in health and disease. Cell Host Microbe 2016, 19, 12–20. [CrossRef] [PubMed]
-
-86. Christensen, L.; Roager, H.M.; Astrup, A.; Hjorth, M.F. Microbial enterotypes in personalized nutrition and
-
-obesity management. Am. J. Clin. Nutr. 2018, 108, 645–651. [CrossRef] [PubMed]
-
-87. Arumugam, M.; Raes, J.; Pelletier, E.; Le Paslier, D.; Yamada, T.; Mende, D.R.; Fernandes, G.R.; Tap, J.;
-Bruls, T.; Batto, J.M.; et al. Enterotypes of the human gut microbiome. Nature 2011, 473, 174–180. [CrossRef]
-88. Yatsunenko, T.; Rey, F.E.; Manary, M.J.; Trehan, I.; Dominguez-Bello, M.G.; Contreras, M.; Magris, M.;
-Hidalgo, G.; Baldassano, R.N.; Anokhin, A.P.; et al. Human gut microbiome viewed across age and
-geography. Nature 2012, 486, 222–227. [CrossRef]
-
-89. Wu, G.D.; Chen, J.; Hoffmann, C.; Bittinger, K.; Chen, Y.; Sue, A.; Bewtra, M.; Knights, D.; Walters, W.A.;
-Knight, R.; et al. Linking long-term dietary patterns with gut microbial enterotypes. Science 2011, 334,
-105–108. [CrossRef]
-
-90. De Filippo, C.; Cavalieri, D.; Di Paola, M.; Ramazzotti, M.; Poullet, J.B.; Massart, S.; Collini, S.; Pieraccini, G.;
-Lionetti, P. Impact of diet in shaping gut microbiota revealed by a comparative study in children from Europe
-and rural Africa. Proc. Natl. Acad. Sci. USA 2010, 107, 14691–14696. [CrossRef]
-
-91. Hjorth, M.F.; Roager, H.M.; Larsen, T.M.; Poulsen, S.K.; Licht, T.R.; Bahl, M.I.; Zohar, Y.; Astrup, A.
-Pre-treatment microbial Prevotella-to-Bacteroides ratio, determines body fat loss success during a 6-month
-randomized controlled diet intervention. Int. J. Obes. 2017, 42, 580–583. [CrossRef] [PubMed]
-
-92. Hjorth, M.F.; Blædel, T.; Bendtsen, L.Q.; Lorenzen, J.K.; Holm, J.B.; Kiilerich, P.; Roager, H.M.; Kristiansen, K.;
-Larsen, L.H.; Astrup, A. Prevotella-to- Bacteroides ratio predicts body weight and fat loss success on 24-week
-diets varying in macronutrient composition and dietary ﬁber: Results from a post-hoc analysis. Int. J. Obes.
-2018. [CrossRef]
-
-93. Kovatcheva-Datchary, P.; Nilsson, A.; Akrami, R.; Lee, Y.S.; De Vadder, F.; Arora, T.; Hallen, A.; Martens, E.;
-Björck, I.; Bäckhed, F. Dietary ﬁber-induced improvement in glucose metabolism is associated with increased
-abundance of Prevotella. Cell Metab. 2015, 22, 971–982. [CrossRef] [PubMed]
-
-94. Zeevi, D.; Korem, T.; Zmora, N.; Israeli, D.; Rothschild, D.; Weinberger, A.; Ben-Yacov, O.; Lador, D.;
-Avnit-Sagi, T.; Lotan-Pompan, M.; et al. Personalized nutrition by prediction of glycemic responses. Cell
-2015, 163, 1079–1795. [CrossRef] [PubMed]
-
-95. Korem, T.; Zeevi, D.; Zmora, N.; Levy, A.A.; Elinav, E.; Korem, T.; Zeevi, D.; Zmora, N.; Weissbrod, O.;
-Bar, N.; et al. Bread affects clinical parameters and induces gut microbiome-associated personal glycemic
-responses. Cell Metab. 2017, 25, 1243–1253. [CrossRef] [PubMed]
-
-96. Callaway, L.K.; McIntyre, H.D.; Barrett, H.L.; Foxcroft, K.; Tremellen, A.; Lingwood, B.E.; Tobin, J.M.;
-Wilkinson, S.; Kothari, A.; Morrison, M.; et al. Probiotics for the prevention of Gestational Diabetes Mellitus
-in overweight and obese women: Findings from the SPRING double-blind randomized controlled trial.
-Diabetes Care 2019. [CrossRef] [PubMed]
-
-© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
-article distributed under the terms and conditions of the Creative Commons Attribution
-(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
-
-

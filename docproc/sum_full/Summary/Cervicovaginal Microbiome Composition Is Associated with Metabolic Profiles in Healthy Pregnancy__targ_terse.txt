@@ -1,0 +1,23 @@
+The human vaginal microbiome maintains low diversity in low-pH conditions and
+depends on host sugars as carbon sources, with less access to dietary and exogenous
+nutrients than the gut, skin, or oral cavity. In 12 samples from 7 subjects, a Lactobacillus taxon, putatively
+identiﬁed as L. crispatus through metagenomic sequencing , had a
+median relative abundance of 96% and persisted at a relative abundance greater than
+90% in subjects 1088, 1120, and 1191. Most of the reads classiﬁed as L. crispatus or L. iners mapped to a single metagenomic
+assembled genome, with completeness of 95.7% and 97.1% and redundancy of 0% and
+1.4%, respectively..
+
+Highly abundant bacterial taxa were signiﬁcantly associated with community
+composition. In parallel, we found that
+a pathway for mannitol-1-phosphate production is also more abundant in shotgun
+metagenomic data sets of CVF samples dominated by L. crispatus . Detected
+ions by MALDI were compared to those identiﬁed by GC-MS and LC-MS, and we found
+that (cid:4)55% of the metabolites identiﬁed had corresponding ions in the MALDI analysis
+(Table S1)..
+
+Metagenomics and functional potential of communities. Further, metabolomic analysis of
+our CVF samples failed to capture signiﬁcant levels of the mannitol precursor fructose;
+however, previous studies have indicated an appreciable amount of fructose within the
+cervical mucus of humans and the capability of L. crispatus to utilize fructose as a
+carbon source  We speculate that this high extracellular mannitol abundance
+phenotype may underlie the cell’s need to regenerate NAD(cid:5) for use in glycolysis.

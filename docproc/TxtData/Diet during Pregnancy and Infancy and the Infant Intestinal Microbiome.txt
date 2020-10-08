@@ -100,9 +100,9 @@ ing data and known breastfeeding vs formula feeding status
 (Figure 1); 95 infants were exclusively breastfed, and 169 were
 exclusively formula fed at the time of the stool collection. As
 shown in Table I, infants who were breastfed were more likely
-to be delivered vaginally (74% vs 62%), more likely to be His-
-panic (39% vs 25%) or white (37% vs 9%) than African Ameri-
-can (16% vs 62%), and less likely to have had solid food
+to be delivered vaginally  more likely to be His-
+panic than African Ameri-
+can  and less likely to have had solid food
 introduced into their diet by the time of stool collection (33%
 vs 48%) compared with formula-fed infants. Infants who were
 breastfed had mothers with higher educational levels (P < .001)
@@ -179,55 +179,55 @@ $100 000-$149 999
 Over $150 000
 Do not know/refused
 
-214 (66)
-176 (55)
+214 
+176 
 
-137 (42)
-102 (32)
-67 (21)
-17 (5)
-175 (54)
-141 (76-210)
-133 (42)
-177 (55)
+137 
+102 
+67 
+17 
+175 
+141 
+133 
+177 
 
-40 (12)
-98 (30)
-73 (23)
-112 (35)
+40 
+98 
+73 
+112 
 
-99 (31)
-38 (12)
-36 (11)
-35 (11)
-28 (9)
-15 (5)
-72 (22)
+99 
+38 
+36 
+35 
+28 
+15 
+72 
 
-30 (70)
-43 (100)
+30 
+43 
 
-9 (21)
-16 (37)
-15 (35)
-3 (7)
-24 (56)
-139 (93-188)
-20 (48)
-30 (70)
+9 
+16 
+15 
+3 
+24 
+139 
+20 
+30 
 
-4 (9)
-7 (16)
-8 (19)
-24 (56)
+4 
+7 
+8 
+24 
 
-6 (14)
-6 (14)
-8 (19)
-5 (12)
-5 (12)
-3 (7)
-10 (23)
+6 
+6 
+8 
+5 
+5 
+3 
+10 
 
 P value†
 
@@ -244,55 +244,55 @@ P value†
 
 <.001
 
-70 (74)
-95 (100)
+70 
+95 
 
-15 (16)
-37 (39)
-35 (37)
-8 (8)
-54 (57)
-139 (78-206)
-30 (33)
-51 (54)
+15 
+37 
+35 
+8 
+54 
+139 
+30 
+51 
 
-4 (4)
-18 (19)
-11 (12)
-62 (65)
+4 
+18 
+11 
+62 
 
-10 (11)
-16 (17)
-14 (15)
-19 (20)
-18 (19)
-9 (9)
-9 (9)
+10 
+16 
+14 
+19 
+18 
+9 
+9 
 
-104 (62)
-29 (17)
+104 
+29 
 
-105 (62)
-43 (25)
-15 (9)
-6 (4)
-90 (53)
-145 (76-210)
-80 (48)
-87 (51)
+105 
+43 
+15 
+6 
+90 
+145 
+80 
+87 
 
-30 (18)
-64 (38)
-51 (30)
-24 (14)
+30 
+64 
+51 
+24 
 
-75 (44)
-15 (9)
-10 (6)
-10 (6)
-5 (3)
-3 (2)
-51 (30)
+75 
+15 
+10 
+10 
+5 
+3 
+51 
 
 Significant (P <.05) results are in bold.
 *Numbers do not add to 323 because of missing infant diet data.
@@ -380,17 +380,17 @@ microbiome
 
 b adjusted for
 demographic variables*
-(95% CI)
+
 
 b adjusted for demographic
 and dietary variables†
-(95% CI)
+
 
 Maternal diet (PC 1) during pregnancy
 
 Shannon index
 
-2.09 (0.43)
+2.09 
 
 Low
 (n = 129)
@@ -398,37 +398,37 @@ Low
 High
 (n = 151)
 
-2.30 (0.42)
+2.30 
 
 Richness
 
-28.83 (7.34)
+28.83 
 
-34.01 (7.20)
+34.01 
 
 Bacteroides
 
-4 (0-225)
+4 
 
-14 (0-147)
+14 
 
 Bifidobacterium
 
-71 (17-153)
+71 
 
-58 (14-126)
+58 
 
 Lactobacillus
 
-0 (0-5)
+0 
 
 Clostridium
 
-2 (0-17)
+2 
 
-0 (0-1)
+0 
 
-1 (0-8)
+1 
 
 Breastfeeding vs formula feeding
 
@@ -440,50 +440,50 @@ Breastfed
 
 Shannon Index
 
-2.37 (0.36)
+2.37 
 
-1.92 (0.42)
+1.92 
 
 Richness
 
-34.8 (6.40)
+34.8 
 
-26.5 (7.13)
+26.5 
 
 Bacteroides
 
-13 (0-122)
+13 
 
-3 (0-389)
+3 
 
 Bifidobacterium
 
-56 (10-118)
+56 
 
-93 (23-171)
+93 
 
 Lactobacillus
 
-0 (0-0)
+0 
 
-0 (0-26)
+0 
 
 Clostridium
 
-2 (0-8)
+2 
 
-2 (0-18)
+2 
 
 Solid food introduction
 
 Unadjusted b
-(95% CI)
+
 
 0.08
-(0.05, 0.11)
+
 P < .001
 1.56
-(1.05, 2.06)
+
 P < .001
 −0.19
 (−0.35, −0.02)
@@ -499,7 +499,7 @@ P = .81
 P = .03
 
 Unadjusted b
-(95% CI)
+
 
 −0.46
 (−0.55, −0.36)
@@ -508,16 +508,16 @@ P < .001
 (−10.06, −6.69)
 P < .001
 0.60
-(0.03, 1.18)
+
 P = .04
 0.26
 (−0.09, 0.61)
 P = .14
 2.11
-(1.16, 3.06)
+
 P < .001
 0.59
-(0.05, 1.13)
+
 P = .03
 
 0.02
@@ -549,22 +549,22 @@ P < .001
 (−0.85, 0.87)
 P = .98
 0.51
-(0.08, 0.94)
+
 P = .02
 3.87
-(2.72, 5.02)
+
 P < .001
 0.75
-(0.01, 1.50)
+
 P = .05
 
 b adjusted for
 demographic variables*
-(95% CI)
+
 
 b adjusted for demographic
 and dietary variables‡
-(95% CI)
+
 
 No solids introduced
 (n = 161)
@@ -573,45 +573,45 @@ Solids introduced
 (n = 113)
 
 Unadjusted b
-(95% CI)
+
 
 b adjusted for
 demographic variables*
-(95% CI)
+
 
 b adjusted for demographic
 and dietary variables§
-(95% CI)
+
 
 Shannon Index
 
-2.14 (0.43)
+2.14 
 
-2.30 (0.43)
+2.30 
 
 Richness
 
-30.5 (7.40)
+30.5 
 
-33.5 (7.72)
+33.5 
 
 Bacteroides
 
-7 (0-219)
+7 
 
-15 (0-157)
+15 
 
 Bifidobacterium
 
-66 (15-142)
+66 
 
-66 (14-134)
+66 
 
 0.16
-(0.06, 0.27)
+
 P = .002
 3.10
-(1.27, 4.92)
+
 P = .001
 −0.10
 (−0.65, 0.46)
@@ -621,7 +621,7 @@ P = .74
 P = .89
 
 0.13
-(0.004, 0.25)
+
 P = .06
 2.20
 (−0.04, 4.44)
@@ -650,7 +650,7 @@ P = .77
 (−0.15, 0.13)
 P = .89
 0.48
-(0.06, 0.90)
+
 P = .02
 −0.05
 (−0.25, 0.16)
@@ -666,13 +666,13 @@ P < .001
 (−0.83, 0.91)
 P = .93
 0.53
-(0.08, 0.98)
+
 P = .02
 4.28
-(3.06, 5.51)
+
 P < .001
 0.86
-(0.13, 1.61)
+
 P = .02
 
 0.10
@@ -708,18 +708,18 @@ Solids introduced
 
 Lactobacillus
 
-0 (0-1)
+0 
 
 Clostridium
 
-2 (0-9)
+2 
 
-0 (0-1)
+0 
 
-2 (0-11)
+2 
 
 Unadjusted b
-(95% CI)
+
 
 −0.02
 (−0.99, 0.94)
@@ -730,24 +730,24 @@ P = .92
 
 b adjusted for
 demographic variables*
-(95% CI)
+
 
 b adjusted for demographic
 and dietary variables§
-(95% CI)
+
 
 −0.13
 (−1.50, 1.23)
 P = .84
 0.80
-(0.06, 1.55)
+
 P = .03
 
 0.63
 (−0.62, 1.88)
 P = .32
 0.75
-(0.004, 1.49)
+
 P = .05
 
 Significant (P <.05) results are in bold.
@@ -816,42 +816,42 @@ Lactobacillus
 
 b adjusted for demographic
 and dietary variables
-(95% CI)
+
 
 0.56
-(0.12, 1.00)
+
 P = .01
 3.50
-(2.14, 4.86)
+
 P < .001
 
 African American
 (n = 120),
 Adjusted b
-(95% CI)
+
 
 0.38
 (−0.37, 1.13)
 P = .32
 6.35
-(3.99, 8.71)
+
 P < .001
 
 Hispanic
 (n = 80),
 Adjusted b
-(95% CI)
+
 
 0.52
 (−0.14, 1.19)
 P = .12
 2.53
-(0.14, 4.91)
+
 P = .04
 
 White (n = 50),
 Adjusted b
-(95% CI)
+
 
 0.50
 (−0.57, 1.56)
@@ -1090,818 +1090,3 @@ tional interventions. ■
 
 Submitted for publication Apr 16, 2018; last revision received Jun 12, 2018;
 accepted Jul 13, 2018
-
-References
-
-1. De Silva D, Geromi M, Halken S, Host A, Panesar SS, Muraro A, et al.
-Primary prevention of food allergy in children and adults: systematic
-review. Allergy 2014;69:581-9.
-
-2. Bunyavanich S, Rifas-Shiman SL, Platts-Mills T, Workman L, Sordillo J,
-Gillman M, et al. Peanut allergy prevalence among school-age children
-in a US cohort not selected for any disease. J Allergy Clin Immunol
-2014;134:735-55.
-
-3. Guarner F, Malagelada JR. Gut ﬂora in health and disease. Lancet
-
-2003;361:512-9.
-
-4. Arrieta M-C, Stiemsma LT, Dimitriu PA, Thorson L, Russell S, Yurist-
-Doutsch S, et al. Early infancy microbial and metabolic alterations affect
-risk of childhood asthma. Sci Transl Med 2015;7:307ra152.
-
-5. Albenberg LG, Wu GD. Diet and the intestinal microbiome: associa-
-tions, functions, and implications for health and disease. Gastroenterol-
-ogy 2014;146:1564-72.
-
-6. Ly NP, Litonjua AA, Gold DR, Celedón JC. Gut microbiota, probiotics,
-and vitamin D: interrelated exposures inﬂuencing allergy, asthma, and
-obesity? J Allergy Clin Immunol 2011;127:1087-94.
-
-7. Penders J, Thijs C, Vink C, Stelma FF, Snijders B, Kummeling I, et al. Factors
-inﬂuencing the composition of the intestinal microbiota in early infancy.
-Pediatrics 2006;118:511-21.
-
-8. Stark PL, Lee A. The microbial ecology of the large bowel of breast-fed
-and formula-fed infants during the ﬁrst year of life. J Med Microbiol
-1982;15:189-203.
-
-9. Yoshioka H, Iseki K, Fujita K. Development and differences of intestinal
-ﬂora in the neonatal period in breast-fed and bottle-fed infants. Pediatrics
-1983;72:317-21.
-
-10. Thompson AL, Monteagudo-Mera A, Cadenas MB, Lampl ML, Azcarate-
-Peril MA. Milk- and solid-feeding practices and daycare attendance are
-associated with differences in bacterial diversity, predominant commu-
-nities, and metabolic and immune function of the infant gut microbiome.
-Front Cell Infect Microbiol 2015;5:3.
-
-11. Sordillo JE, Zhou Y, McGeachie MJ, Ziniti J, Lange N, Laranjo N, et al.
-Factors inﬂuencing the infant gut microbiome at age 3-6 months:
-ﬁndings from the ethnically diverse Vitamin D Antenatal Asthma
-Reduction Trial (VDAART). J Allergy Clin Immunol 2017;139:482-
-491.e14.
-
-12. Stearns JC, Zulyniak MA, de Souza RJ, Campbell NC, Fontes M, Shaikh
-M, et al. Ethnic and diet-related differences in the healthy infant
-microbiome. Genome Med 2017;9:32.
-
-13. Keet CA, Savage JH, Seopaul S, Peng RD, Wood RA, Matsui EC. Tempo-
-ral trends and racial/ethnic disparity in self-reported pediatric food
-allergy in the United States. Ann Allergy Asthma Immunol 2014;112:222-
-9.
-
-14. Litonjua AA, Lange NE, Carey VJ, Brown S, Laranjo N, Harshﬁeld BJ, et al.
-The Vitamin D Antenatal Asthma Reduction Trial (VDAART): ratio-
-nale, design, and methods of a randomized, controlled trial of vitamin
-D supplementation in pregnancy for the primary prevention of asthma
-and allergies in children. Contemp Clin Trials 2014;38:37-50.
-
-15. Litonjua AA, Carey VJ, Laranjo N, Harshﬁeld BJ, McElrath TF, O’Connor
-GT, et al. Effect of prenatal supplementation with vitamin D on asthma
-or recurrent wheezing in offspring by age 3 years: the VDAART Ran-
-domized Clinical Trial. JAMA 2016;315:362-70.
-
-16. Rifas-Shiman SL, Willett WC, Lobb R, Kotch J, Dart C, Gillman MW.
-PrimeScreen, a brief dietary screening tool: reproducibility and compa-
-rability with both a longer food frequency questionnaire and biomarkers.
-Public Health Nutr 2001;4:249-54.
-
-17. HMP Consortium. A framework for human microbiome research. Nature
-
-2012;486:215-21.
-
-18. Haas BJ, Gevers D, Earl AM, Feldgarden M, Ward DV, Giannoukos G,
-et al. Chimeric 16S rRNA sequence formation and detection in
-Sanger and 454-pyrosequenced PCR amplicons. Genome Res 2011;21:494-
-504.
-
-19. Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD,
-Costello EK, et al. QIIME allows analysis of high-throughput commu-
-nity sequencing data. Nat Methods 2010;7:335-6.
-
-20. Cole JR, Wang Q, Cardenas E, Fish J, Chai B, Farris RJ, et al. The Ribo-
-somal Database Project: improved alignments and new tools for rRNA
-analysis. Nucleic Acids Res 2009;37:D141-5.
-
-21. Claesson MJ, O’Sullivan O, Wang Q, Nikkilä J, Marchesi JR, Smidt H, et al.
-Comparative analysis of pyrosequencing and a phylogenetic microarray
-for exploring microbial community structures in the human distal in-
-testine. PLoS ONE 2009;4:e6669.
-
-22. Mazmanian SK, Round JL, Kasper DL. A microbial symbiosis factor pre-
-
-vents intestinal inﬂammatory disease. Nature 2008;453:620-5.
-
-23. Kalliomäki M, Kirjavainen P, Eerola E, Kero P, Salminen S, Isolauri E.
-Distinct patterns of neonatal gut microﬂora in infants in whom
-atopy was and was not developing. J Allergy Clin Immunol 2001;107:129-
-34.
-
-24. Shida K, Takahashi R, Iwadate E, Takamizawa K, Yasui H, Sato T, et al.
-Lactobacillus casei strain Shirota suppresses serum immunoglobulin E
-and immunoglobulin G1 responses and systemic anaphylaxis in a food
-allergy model. Clin Exp Allergy 2002;32:563-70.
-
-25. Ling Z, Li Z, Liu X, Cheng Y, Luo Y, Tong X, et al. Altered fecal microbiota
-composition associated with food allergy in infants. Appl Environ Microbiol
-2014;80:2546-54.
-
-Diet during Pregnancy and Infancy and the Infant Intestinal Microbiome
-
-7
-
-FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
-
-THE JOURNAL OF PEDIATRICS (cid:129) www.jpeds.com
-
-Volume ■■
-
-26. Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL, Ward D V, et al.
-Dysfunction of the intestinal microbiome in inﬂammatory bowel disease
-and treatment. Genome Biol 2012;13:R79.
-
-27. Marcobal A, Barboza M, Froehlich JW, Block DE, German JB, Lebrilla
-CB, et al. Consumption of human milk oligosaccharides by gut-related
-microbes. J Agric Food Chem 2010;58:5334-40.
-
-28. Hunt KM, Preuss J, Nissan C, Davlin CA, Williams JE, Shaﬁi B, et al.
-Human milk oligosaccharides promote the growth of staphylococci. Appl
-Environ Microbiol 2012;78:4763-70.
-
-29. Soto A, Martín V, Jiménez E, Mader I, Rodríguez JM, Fernández L.
-Lactobacilli and biﬁdobacteria in human breast milk: inﬂuence of
-antibiotherapy and other host and clinical factors. J Pediatr Gastroenterol
-Nutr 2014;59:78-88.
-
-30. Penders J, Vink C, Driessen C, London N, Thijs C, Stobberingh EE.
-Quantiﬁcation of Biﬁdobacterium spp, Escherichia coli and
-Clostridium difﬁcile in faecal samples of breast-fed and formula-
-fed infants by real-time PCR. FEMS Microbiol Lett 2005;243:141-
-7.
-
-8
-
-Savage et al
-
-FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
-
-■■ 2018
-
-ORIGINAL ARTICLES
-
-Appendix
-
-Maternal Diet. Women were asked how often they added salt
-to their food, and how often they ate the following foods or
-food groups:
-
-• Carrots
-• Margarine
-• Eggs
-• Low fat milk products
-• Whole milk food products
-• Deep fried foods
-• Processed meats
-• Beef, pork, or lamb
-• Dark green leafy vegetables
-• Baked products
-• Citrus fruits
-• Pasta, rice or noodles
-• Broccoli, cabbage, cauliﬂower, or brussel sprouts
-• Whole grain foods
-• Seafood
-• Other vegetables
-
-Responses were provided on a ﬁve point scale ranging from
-less than once per week to twice or more per day. The average
-value for the two questionnaires was taken for further analy-
-sis. For cases in which information from one questionnaire was
-missing, only information from the other questionnaire was
-used.
-
-Child Diet. In our previous report of predictors of the infant
-intestinal microbiome11 we had deﬁned breastfeeding as
-breastfeeding for at least 6 months. For this analysis focused
-primarily on the association of nutrition and the intestinal
-microbiome, we attempted to determine what diet the child
-was consuming at the time the stool was collected.
-
-Breastfeeding. We used questionnaire responses obtained at
-6 months to determine whether a child was ingesting breast
-milk at the time of stool collection, accounting for the timing
-of stool collection in relation to the questionnaire responses.
-At the 6 month visit, providers were asked “Since we last spoke
-with you, has your baby been breastfed?” If the answer was yes,
-they were asked if the baby was still being breastfed. If the
-answer was no, they were asked “How old was your baby when
-
-you stopped breastfeeding.” In 21 cases, an age at cessation of
-breastfeeding was not available. In these cases, if the stool sample
-was collected within 30 days of completing the question-
-naire, we assumed the child was on the same diet at the stool
-collection as at questionnaire completion. In 3 cases where the
-6 month information was missing, we were able to deter-
-mine whether a child was on breast milk at the time of the stool
-collection from data obtained at later visits (eg, the child was
-still breastfeeding at age 12 months). In 4 cases, it was not pos-
-sible to determine whether the child was on breast milk at the
-time of the stool collection.
-
-Formula Feeding. Similar to the above, we used question-
-naire responses obtained at 6 months to determine whether
-a child was ingesting formula at the time of stool collection.
-At the 6 month visit, providers were asked, since we last
-spoke with you, have you fed your baby any infant formula.
-If the caretaker answered yes, they were asked “How old was
-your baby when you started infant formula (in months),”
-and “How many days per week in the past month have you
-fed your baby infant formula?” If the child was fed formula 4
-or greater days per week on average, they were considered to
-have formula in their diet. In 4 cases where 6-month data
-was missing, we were able to determine whether a child was
-on formula at the time of the stool collection from data
-obtained at later visits.
-
-Solid Food. We used the 6-month and 18-month question-
-naire data to determine if a child was on solid food at the time
-of stool collection. At the 6-month visit, care providers were
-asked “Since we last spoke, have you fed your baby any food
-other than breast milk or formula?” In those cases where the
-stool sample was collected before the questionnaire and the
-child was not reported to have introduced solid foods (n = 39)
-or the stool sample was collected after the questionnaire and
-the child was reported to have introduced solids (n = 77), the
-6-month questionnaire responses were used to determine child
-diet. At the 18-month visit, the care provider was asked when
-solids were introduced and possible answers included “less than
-4 months,”“4 months,”“5 months,”“6 months,” and “more than
-6 months.” In 3 cases where the 18-month data was missing,
-the 6-month responses were used if stool collection occurred
-within 30 days of the questionnaire. In 7 cases we were unable
-to determine if the child was on solids at the time of the stool
-collection using the available data.
-
-Diet during Pregnancy and Infancy and the Infant Intestinal Microbiome
-
-8.e1
-
-FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
-
-THE JOURNAL OF PEDIATRICS (cid:129) www.jpeds.com
-
-Volume ■■
-
-9268 Pregnant women assessed for eligibility
-
-8387 Excluded
-3317 Not atopic
-1449 <18 or >40y
-1089 Refused participation
-702 Smoked or used drugs
-531 Did not speak English or Spanish  
-503 Fetal anomaly, fetal demise, or abortion
-389 Multiple gestations or pregnancy via IVF 
-160 Moving or changing health care clinician
-128 Clinical decision to exclude
-69 Taking vitamin D supplements >2000 IU/d or 
-
-unwilling to take pills
-
-30 Inmate
-20 Other
-
-881 Women randomized 
-
-5 Excluded
-
-4 Multiple gestation
-1 Medical reason
-
-876 Randomized to receive 4400 or 400 IU/d of Vitamin D
-
-333 Stool samples collected at age 3-6 months
-
-10  Excluded
-
-1 Not analyzed
-1 Identification label mismatch
-8 Poor amplification
-
-323 with stool microbiome data
-
-264 included in analysis
-
-59 Excluded
-
-43 fed a mixture of breast milk and formula
-5 missing breastfeeding vs formula feeding status 
-11 reported neither formula nor breastfeeding
-
-Figure 1. Flow diagram of subjects included in study. A portion of this ﬁgure has been published previously.14
-
-8.e2
-
-Savage et al
-
-FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
-
-■■ 2018
-
-ORIGINAL ARTICLES
-
-Actinobacteria
-Bacteroidetes
-Proteobacteria
-
-Firmicutes
-Verrucomicrobia
-Fusobacterium
-
-A
-
-1.5
-
-African American (n = 120)
-Lactobacillus
-
-Clostridiales
-
-Ruminococcaceae
-
-Lachnospiraceae
-
-Table II. PCs of maternal diet and eigenvalues
-
-Components
-
-Eigenvalue
-
-Proportion
-
-Cumulative
-
-PC 1
-PC 2
-PC 3
-PC 4
-PC 5
-
-3.505
-2.813
-1.211
-1.150
-1.081
-
-0.195
-0.156
-0.067
-0.064
-0.060
-
-0.195
-0.351
-0.418
-0.482
-0.542
-
-PCs analysis using oblique rotation was used to reduce the maternal diet to fewer variables to
-reduce multiple testing, summarize correlated dietary variables, and limit the number of covariates
-included in adjusted analyses of the association of the child diet and microbiome. The top PC
-was used in regression models. The eigenvalue gives a measure of how much variance in the
-data is reflected by each principal component. The proportion of variance explained is given
-for each PC, in addition to the cumulative variance explained.
-
-Table III. PCs and maternal dietary factors
-
-Dietary variables
-
-PC 1
-
-PC 2
-
-PC 3
-
-PC 4
-
-PC 5
-
-Unexplained
-
-Processed meats
-Carrots
-Broccoli,
-
-cauliflower,
-cabbage, brussel
-sprouts
-Low fat milk
-products
-
-Other vegetables
-Beef, pork, or lamb
-Dark green leafy
-vegetables
-Baked products
-Margarine
-Citrus fruits
-Pasta, rice, or
-noodles
-
-Whole milk dairy
-
-foods
-Other fruit
-Seafood
-Whole grain foods
-Deep fried foods
-Whole eggs
-Added salt
-
-−0.39
-0.28
-0.20
-
-0.25 −0.03
-0.12
-0.30
-
-0.06
-0.06
-0.05 −0.08 −0.19
-0.26 −0.01
-0.28
-
-0.31
-
-0.12
-
-0.16 −0.29 −0.05
-
-0.32
-−0.20
-0.29
-
-−0.16
-−0.21
-0.07
-−0.05
-
-0.23
-0.26
-0.22
-
-0.07
-0.04
-0.10
-
-0.01
-0.06
-0.04 −0.09
-0.05
-0.37
-
-0.23 −0.16
-0.27
-0.14
-0.23 −0.68
-0.32
-
-0.03 −0.56
-0.02
-0.26
-0.29
-0.01
-0.05 −0.07 −0.44
-
-−0.14
-
-0.28
-
-0.02 −0.44
-
-0.09
-
-0.27
-−0.01
-0.26
-−0.38
-−0.03
-−0.17
-
-0.23 −0.49
-0.11
-0.06
-0.22
-0.23
-0.33
-0.31
-0.06 −0.08 −0.14
-0.24
-0.19 −0.12
-0.21 −0.13
-0.29
-0.26
-0.19
-0.09
-
-0.15 −0.57
-0.18
-0.20
-
-0.39
-0.64
-0.44
-
-0.49
-
-0.48
-0.66
-0.39
-
-0.38
-0.54
-0.19
-0.49
-
-0.47
-
-0.29
-0.56
-0.57
-0.30
-0.32
-0.74
-
-Diet during Pregnancy and Infancy and the Infant Intestinal Microbiome
-
-8.e3
-
-FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
-
-Hispanic (n = 80)
-
-Staphylococcus
-
-Lachnospiraceae
-
-Blautia
-
-Peptostreptococceceae
-
-Lactobacillus
-
-Ruminococcaceae
-
-White (n = 50)
-
-Eubacterium
-
-Clostridiales
-
-1.0
-
-0.5
-
-0
-
-B
-
-2.5
-
-2.0
-
-1.5
-
-1.0
-
-0.5
-
-0
-
-C
-
-False Discovery Rate (-log10)
-
-False Discovery Rate (-log10)
-
-2.0
-
-1.5
-
-1.0
-
-0.5
-
-0
-
-False Discovery Rate (-log10)
-
-Taxon
-
-Figure 3. Associations between bacterial taxa and breastfeeding
-vs formula, stratiﬁed by race/ethnicity. Results are from ad-
-justed Multivariate Association with Linear Models analyses.
-False discovery rates are plotted for associations with genera
-or lowest identiﬁable taxonomic levels, with the dashed line
-indicating a false discovery rate of 0.05.
-
-THE JOURNAL OF PEDIATRICS (cid:129) www.jpeds.com
-
-Volume ■■
-
-Table VI. Genera (or lowest identiﬁable taxonomic level) identiﬁed as signiﬁcantly different (false discovery rate <.05)
-between breastfed and formula-fed infants, after adjustment for age, mode of delivery, maternal diet, whether the child
-was on solid foods at the time of stool collection, and study treatment, stratiﬁed by child race/ethnicity
-
-Races/ethnicities
-
-African American
-
-Hispanic
-
-White
-
-Phylum
-
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-
-Genus (or lowest identified
-taxonomic level)
-
-b-coefficient*
-
-Lactobacillus
-Clostridiales
-Lachnospiraceae
-Ruminococcaceae
-Staphylococcus
-Lachnospiraceae
-Blautia
-Peptostreptococceceae
-Ruminococcaceae
-Lactobacillus
-Eubacterium
-Clostridiales
-
-0.009573
-−0.03832
-−0.10325
-−0.09866
-0.006749
-−0.10673
-−0.10623
-−0.0237
-−0.04456
-0.011634
-−0.04486
-−0.03179
-
-P value
-
-.0009
-.002
-.002
-.003
-3.80 × 10−05
-4.29 × 10−05
-.0001
-.0002
-.0007
-.0009
-8.67 × 10-05
-.0008
-
-FDR
-
-0.03
-0.04
-0.04
-0.04
-0.002
-0.002
-0.004
-0.005
-0.01
-0.02
-0.008
-0.04
-
-Results shown for negative binomial regression analyses. b-coefficient is reflects the average difference in relative abundance between the breastfed and formula-fed groups after covariate adjustment.
-*Formula fed is reference group.
-
-Table VII. Genera (or lowest identiﬁable taxonomic level) identiﬁed as signiﬁcantly different (FDR <.05) between breastfed
-and formula-fed infants, after adjustment for age, mode of delivery, maternal diet, whether the child was on solid foods
-at the time of stool collection, study treatment and maternal education, stratiﬁed by child race/ethnicity
-
-Races/ethnicities
-
-African American
-
-Hispanic
-
-White
-
-8.e4
-
-Phylum
-
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-Firmicutes
-
-Genus (or lowest identified
-taxonomic level)
-
-b-coefficient*
-
-Lactobacillus
-Clostridiales
-Erysipelotrichaceae
-Lachnospiraceae†
-Ruminococcaceae†
-Staphylococcus
-Lachnospiraceae
-Blautia
-Peptostreptococceceae
-Ruminococcaceae
-Lactobacillus†
-Eubacterium
-Clostridiales
-
-0.009681
-−0.04478
-−0.08022
-−0.10333
-−0.09214
-0.00771
-−0.09245
-−0.12052
-−0.02549
-−0.04891
-0.009499
-−0.04525
-−0.03196
-
-FLA 5.5.0 DTD ■ YMPD10154_proof ■ August 30, 2018
-
-P value
-
-.001
-.0005
-.002
-.004
-.008
-1.46 × 10−05
-.0012
-9.10 × 10−05
-.0002
-.0009
-.01
-.0001
-.001
-
-FDR
-
-0.03
-0.02
-0.04
-0.06
-0.08
-0.002
-0.02
-0.005
-0.008
-0.02
-0.15
-0.01
-0.05
-
-Savage et al
-
-Results shown for negative binomial regression analyses. b-coefficient is reflects the average difference in relative abundance between the breastfed and formula-fed groups after covariate adjustment.
-*Formula fed is reference group.
-†Taxa identified as significantly different in models without maternal education included as a covariate are displayed in Table III and included here for comparison.
-
-

@@ -1,0 +1,703 @@
+Edwards et al.
+
+Page 2
+
+environmental exposures (Brown et al., 2013). Development of the microbiome occurs 
+simultaneously with, and plays a key role in neurologic system maturation (Borre et al., 
+2014). Significant early-life disruptions of the microbiome, such as through major illness or 
+exposure to high dose, broad-spectrum antibiotics, can lead to chronic disease or mental 
+disorders later in life (Borre et al., 2014). While the entire gut begins in the mouth and 
+continues to the anus, the gut microbiome describes the intestinal portion alone, given that 
+the intestine harbors the most diverse and abundant microbial community in the body 
+(Backhed et al., 2012). The focus of this review, therefore, is the gut microbiome as it is 
+commonly defined, limited to the intestines. More specifically, the state of the science will 
+then be presented regarding the maternal gut during pregnancy, related maternal-fetal health 
+implications and evidence-based nursing care strategies to improve delivery of care and 
+optimize health.
+
+The gut microbiome provides a broad range of functions. Most importantly, it collects 
+indigestible particles from food into fecal waste and assimilates nutritional particles, such as 
+vitamins and minerals (Mayer, Savidge, & Shulman, 2014). It acts with the liver to detoxify 
+and excrete xenobiotics, ubiquitous harmful foreign chemicals present in the environment 
+(Mayer, Savidge, et al., 2014). An individual’s systemic and intestinal immune systems 
+depend greatly on the gut microbiome’s function of epithelial cell renewal and management 
+of intestinal integrity (Power et al., 2014). Without a healthy intestinal wall, bacteria migrate 
+across the gut into the general circulation increasing systemic inflammation (Power et al., 
+2014). This migration occurs through a mechanism of intestinal permeability sometimes 
+referred to as “leaky gut” (Power et al., 2014). With leaky gut, junctions, composed of 
+various proteins that link adjacent intestinal epithelial cells, are weak and fail to act as an 
+integral barrier to migrating pathogens (Power et al., 2014). Increased intestinal permeability 
+is hypothesized to be the mechanism by which a dysbiotic gut is linked with low-grade 
+inflammatory disorders like obesity and its associated conditions, insulin-resistance and 
+Type 2 diabetes mellitus (Mokkala et al., 2016). High permeability allows the leakage of 
+bacteria, and/or bacterial components like the lipopolysaccharides (LPS) contained in the 
+cell walls of gram-negative bacteria, thus inducing a deleterious systemic inflammatory 
+condition called metabolic endotoxemia (Cani, Osto, Geurts, & Everard, 2012).
+
+Immunologic Changes of the Gut Microbiome in Pregnancy
+
+During pregnancy, inflammatory states vary from higher inflammation at implantation and 
+in labor to lower levels of inflammation in mid-pregnancy (Trevisanuto et al., 2013). Anti-
+inflammatory properties exist at the placental bed which protects the fetus from rejection, 
+yet the mucosal surfaces of the gut and other tissues experience a low-grade inflammation 
+with rising levels of pro-inflammatory cytokines and white cells as the pregnancy advances 
+(Koren et al., 2012). When conditions like maternal obesity, gestational diabetes or a leaky 
+gut shift the maternal inflammatory state from a physiologic to an excessive level, vascular 
+dysfunction of the placental tissue can develop leading to deleterious effects such as fetal 
+growth restriction and preeclampsia (Kashtanova et al., 2016; Kim, Romero, 
+Chaemsaithong, & Kim, 2015). Gut microbes found in amniotic fluid of women who 
+experienced preterm premature rupture of membranes suggest that the gut microbiome could 
+play a role in intrauterine infections (DiGiulio et al., 2010). Possible mechanisms of 
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 3
+
+microbial translocation have been proposed; either by lipopolysaccharides (LPS) from gram 
+negative bacteria that increase inflammatory mediators and prostaglandin production, via 
+ascending inoculation through the vagina, or hematogenous spread of microbes from a leaky 
+gut to the placenta or uterus (Nuriel-Ohayon, Neuman, & Koren, 2016).
+
+Factors That Can Modify the Gut Microbiome
+
+The gut microbiome is also shaped by diet and genetics. The typical Western diet consists of 
+excessive processed foods, dietary fat and sugars (Morrison & Regnault, 2016). Such a diet 
+promotes excess weight gain and a dysbiotic gut and is associated with adverse maternal and 
+child health outcomes (Dunlop et al., 2015; Morrison & Regnault, 2016). Conversely, certain 
+dietary nutrients, namely low-fat protein (for instance beans, skinless chicken, lean beef), 
+organic proteins and produce (which reduces exposure to dietary antibiotics and pesticides), 
+unsaturated fatty acids (for instance in canola and olive oils, flaxseeds, and salmon), whole 
+grains, and certain strains of probiotics have been found to promote a healthy gut 
+microbiome, enhance intestinal integrity and reduce excessive systemic inflammation 
+(Griffin, 2015; Kashtanova et al., 2016). Short chain fatty acids (SCFA), such as acetate, 
+propionate and butyrate, are byproducts of fiber fermentation called prebiotics and serve as 
+an energy source to intestinal epithelial cells and enhance the connections between these 
+cells (David et al., 2014). SCFA production by the gut microbiota is negatively correlated 
+with body mass index (Gomez-Arango et al., 2016). Increased maternal serum SCFA levels 
+can positively influence metabolic changes seen in pregnancy: maternal weight gain, glucose 
+metabolism and levels of various metabolic hormones (Koren et al., 2012; Priyadarshini et 
+al., 2014). A recent study to evaluate the relationships among maternal weight, gut 
+microbiome, blood pressure and plasminogen activator inhibitor-1 (PAI-1) levels in 
+overweight and obese pregnant women found the abundance of butyrate-producing bacteria 
+to be significantly negatively associated with systolic and diastolic blood pressure and PAI-1 
+levels (Gomez-Arango et al., 2016). These findings suggest increasing butyrate-producing 
+bacteria may contribute to lower BP in overweight and obese pregnant women. Studies of 
+omega-3 long-chain polyunsaturated fatty acids (PUFAs) also suggest protection of the 
+intestinal wall through strengthening of cellular connections (Li et al., 2008). A recent 
+clinical trial examined the effect of 2000 mg omega-3 supplementation versus placebo in 
+overweight and obese pregnant women (Haghiac et al., 2015). While the gut microbiome 
+was not evaluated, the primary finding was a significant reduction in the plasma 
+inflammatory marker CRP among the supplemented group (Haghiac et al., 2015). This could 
+prove to be a strategy to reduce the low grade inflammation and higher obstetric risks 
+suffered by overweight and obese women or those with gestational diabetes.
+
+The Brain-Gut Axis
+
+Animal and human studies support the existence of a significant bidirectional relationship 
+between the gut and the brain, involving multiple neurologic and endocrine signaling 
+systems (Mayer, Knight, Mazmanian, Cryan, & Tillisch, 2014). Normal central nervous 
+system function relies on a healthy gut microbiome or “eubiosis” (Aitken & Gewirtz, 2013). 
+The discovery of two-way signaling between the gut and brain has led to this system being 
+coined, the “Brain-Gut Axis” (Foster & McVey Neufeld, 2013; Gareau, 2014). In a healthy 
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 4
+
+individual, the autonomic nervous system (ANS), the enteric nervous system (ENS), the 
+hypothalamic-pituitary-adrenal (HPA) axis, and the immune system work in synchrony 
+bidirectionally between brain and gut (Cepeda, Katz, & Blacketer, 2016; Foster & McVey 
+Neufeld, 2013). When there is a disruption of any of the components of this system, disease 
+may manifest (Foster & McVey Neufeld, 2013; Gareau, 2014). The bidirectional nature of 
+the brain-gut axis, magnified by gut inflammation, can impact the central nervous system, 
+body weight, immune status and behavior (Cepeda et al., 2016) (see Figure 1).
+
+The impact of stress on the neuroendocrine system, especially when chronic, can result in 
+immunologic dysregulation and heightened risk and virulence of infection (Cepeda, Katz, & 
+Blacketer, 2016). Disproportionate rates of infections have been found in chronically 
+stressed minority populations and are thought to be a source of higher rates of preterm birth 
+in these populations through dysbiotic gut microbe translocation mechanisms previously 
+described (Culhane, Rauh, & Goldenberg, 2006; Mendez, Hogan, & Culhane, 2014).
+
+Hormonal Changes in Pregnancy and the Gut Microbiome
+
+The prenatal period is marked by dramatic hormonal shifts with resultant unique 
+inflammatory and immune changes that alter gut function and bacterial composition 
+(Brantsaeter et al., 2011; Koren et al., 2012). Estrogen and progesterone impact the 
+composition of the gut microbiome through their effect on bacterial metabolism and growth 
+and virulence of pathogenic bacteria (Mulak et al., 2014). An example of this is the 
+susceptibility to Listeria monocytogenes infections in pregnancy partly due to elevated 
+estrogen and progesterone levels, leading to adverse outcomes, including preterm delivery or 
+stillbirth (Garcia-Gomez, Gonzalez-Pedrajo, & Camacho-Arroyo, 2013). Dramatic changes 
+in ovarian hormones during the prenatal and postpartum periods also affect gut contractility 
+and transit (Mayer, Savidge, et al., 2014). It is plausible that the hormone levels involved in 
+increasing gut transit time are an adaptive response to allow greater nutrient and energy 
+harvest, thus promoting weight gain in pregnancy.
+
+Metabolic Changes in Pregnancy and the Gut Microbiome
+
+The consequences of gut dysbiosis that lead to obesity and, likely, to excessive gestational 
+weight gain, have only recently been explored in human pregnancy (Angelakis, Merhej, & 
+Raoult, 2013). Of particular interest is the recognition that the immune and metabolic 
+changes that occur normally in pregnancy are actually comparable to metabolic syndrome 
+outside of pregnancy (Chassaing & Gewirtz, 2014). With no differences in diet, including 
+total energy intake, pregnant women have been found to gain greater adiposity with 
+significantly higher leptin, insulin and insulin resistance measures, cholesterol, and glycated 
+hemoglobin with each trimester of pregnancy compared to their non-pregnant counterparts 
+(Collado, Isolauri, Laitinen, & Salminen, 2008). The microbial diversity in the gut at the 
+start of pregnancy appears to be similar to that of non-pregnant women (Santacruz et al., 
+2010). Yet, as the pregnancy advances, the abundance of gut bacteria associated with 
+inflammatory states increases in nearly 70% of women (Santacruz et al., 2010). The greatest 
+change in the gut microbiota occurs in the ratio of certain key bacteria (Firmicutes: 
+Bacteroidetes), mimicking the higher levels of Firmicutes seen in obesity (Santacruz et al., 
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 5
+
+2010). Levels of proinflammatory cytokines (including IFN-y, IL-2, IL-6 and TNF-a) also 
+rise in serum; adipose and placental tissue later in pregnancy and the mucosal surfaces 
+throughout the gastrointestinal tract reflect a low-grade inflammatory state (Cani et al., 
+2012). Thus, while these same metabolic and immunologic changes in a man or non-
+pregnant woman would be considered abnormal and a sign of a disease state, in the context 
+of a normal pregnancy, they appear to be required, improving energy storage in fat and 
+providing for fetal growth and lactation (Cani et al., 2012; Chassaing & Gewirtz, 2014).
+
+Clinical Implications of the Gut Microbiome in Pregnancy
+
+The gut microbiome and the brain-gut axis are key players in the critical prenatal period 
+when the maternal and fetal microbiome are particularly sensitive and changes can impact 
+fetal brain development (Borre et al., 2014; Mayer, Knight, et al., 2014). Negative 
+interference with the brain-gut axis (depicted on right side of Figure 1) during these times is 
+associated with a higher maternal and child risk for chronic intestinal disorders, conditions 
+which affect weight and growth, and even neuropsychiatric disorders (Mayer, Knight, et al., 
+2014). Health care recommendations that promote the IOM guidelines for maternal weight 
+gain by prepregnant BMI category, high quality diet and gut eubiosis should be considered 
+in the delivery of prenatal care and in client education. Stress, infection and antibiotic use, 
+especially during pregnancy, can lead to dysbiosis and may increase risk of maternal and 
+infant neurodevelopmental disorders (Bilder et al., 2013; Vela et al., 2015). Appropriate 
+type, duration and indication of prebiotic, probiotic and antibiotic use in the prevention and 
+treatment of illness will become an important topic for discussion with clients in the future, 
+since all act on the gut microbiome and may impact overall health and gestational weight 
+gain (Griffin, 2015). There are no current clinical guidelines to facilitate these discussions 
+pending further research.
+
+Dietary and lifestyle patterns that impact the brain-gut axis also need to be assessed. When a 
+mother gains excessive gestational weight or enters pregnancy obese, metabolic changes in 
+pregnancy are magnified, and thus the risk of gestational diabetes, fetal macrosomia, or 
+preeclampsia is elevated (Josefson, Hoffmann, & Metzger, 2013). Identification of food 
+sensitivities (gluten, dairy, and nuts are common) and elimination of those foods from the 
+diet reduce systemic inflammation and improves gut health. Pre- and probiotic use and 
+increasing dietary fiber and fermented foods rich in probiotics and enzymes (such as yogurt, 
+kefir, and miso) promotes eubiosis of the gut, possibly reducing risk of elevated blood 
+pressure and improving metabolic parameters in vulnerable overweight and obese pregnant 
+women. Further, fiber can improve constipation and other gastrointestinal conditions 
+common in pregnancy (Griffin, 2015). Primary care and preconception evaluations should 
+also include dietary and lifestyle assessment and counseling to reach a healthy prepregnant 
+body mass index and optimize overall health (Egan et al., 2014).
+
+In a recent clinical trial, supplementation with specific strains of probiotics, such as 
+Lactobacillus rhamnosus GG and Lactobacillus acidophilus, combined with dietary 
+counseling have been found to improve glucose metabolism in healthy pregnant and 
+lactating women (Brantsaeter et al., 2011). Daily intake of milk-based dietary probiotics has 
+been reported to reduce blood pressure in pregnancy as well as the incidence of 
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 6
+
+preeclampsia among primiparous women (Brantsaeter et al., 2011; Gomez-Arango et al., 
+2016). Lactose intolerance can often be managed by ingestion of lactase enzymes with the 
+dairy or by limiting intake to lactose-free dairy products. Daily yogurt consumption 
+containing L. rhamnosus was found to have a statistically significant protective effect against 
+heavy metal toxicity (mercury and arsenic) in pregnant women with high risk diets (Bisanz 
+et al., 2014). Probiotic milk and other food products may, therefore, be worth consideration 
+for women at greater risk for gestational diabetes, preeclampsia and some environmental 
+toxins.
+
+Conclusion
+
+Diet and lifestyle practices are modifiable factors that can affect the brain-gut axis, and 
+ultimately, the long-term health of women and infants. The degree to which the gut 
+microbiome contributes to the neurodevelopmental, immunological and intestinal health of 
+the pregnant woman and her fetus is only now beginning to be measured. Health practices 
+and novel therapies to promote eubiosis and treat dysbiosis of the maternal gut are still to be 
+discovered but will likely prove fundamental in the care of women in pregnancy.
+
+Acknowledgments
+
+Sources of Funding
+
+References
+
+Funding Sources: NIH F31NR015722, NIH R01-NR014800
+
+Aitken JD, Gewirtz AT. Gut microbiota in 2012: Toward understanding and manipulating the gut 
+microbiota. Nature Reviews Gastroenterology & Hepatology. 2013; 10:72–74. DOI: 10.1038/
+nrgastro.2012.252 [PubMed: 23296245] 
+
+Angelakis E, Merhej V, Raoult D. Related actions of probiotics and antibiotics on gut microbiota and 
+
+weight modification. The Lancet Infectious Diseases. 2013; 13:889–899. DOI: 10.1016/
+s1473-3099(13)70179-8 [PubMed: 24070562] 
+
+Backed F, Fraser CM, Ringel Y, Sanders ME, Sartor RB, Sherman PM, Finlay BB. Defining a healthy 
+human gut microbiome: current concepts, future directions, and clinical applications. Cell Host 
+Microbe. 2012; 12(5):611–622. DOI: 10.1016/j.chom.2012.10.012 [PubMed: 23159051] 
+
+Bilder DA, Bakian AV, Viskochil J, Clark EA, Botts EL, Smith KR, … Coon H. Maternal prenatal 
+weight gain and autism spectrum disorders. Pediatrics. 2013; 132(5):e1276–1283. DOI: 10.1542/
+peds.2013-1188 [PubMed: 24167172] 
+
+Bisanz JE, Enos MK, Mwanga JR, Changalucha J, Burton JP, Gloor GB, Reid G. Randomized open-
+label pilot study of the influence of probiotics and the gut microbiome on toxic metal levels in 
+Tanzanian pregnant women and school children. mBio. 2014; 5(5):e01580–01514. DOI: 10.1128/
+mBio.01580-14 [PubMed: 25293764] 
+
+Borre YE, O’Keeffe GW, Clarke G, Stanton C, Dinan TG, Cryan JF. Microbiota and 
+
+neurodevelopmental windows: Implications for brain disorders. Trends in Molecular Medicine. 
+2014; 20:509–518. DOI: 10.1016/j.molmed.2014.05.002 [PubMed: 24956966] 
+
+Brantsaeter AL, Myhre R, Haugen M, Myking S, Sengpiel V, Magnus P, … Meltzer HM. Intake of 
+
+probiotic food and risk of preeclampsia in primiparous women: The Norwegian Mother and Child 
+Cohort Study. American Journal of Epidemiology. 2011; 174:807–815. DOI: 10.1093/aje/kwr168 
+[PubMed: 21821542] 
+
+Brown J, de Vos WM, DiStefano PS, Dore J, Huttenhower C, Knight R, … Turnbaugh P. Translating 
+
+the human microbiome. Nature Biotechnology. 2013; 31:304–308. DOI: 10.1038/nbt.2543
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 7
+
+Cani PD, Osto M, Geurts L, Everard A. Involvement of gut microbiota in the development of low-
+
+grade inflammation and type 2 diabetes associated with obesity. Gut microbes. 2012; 3:279–288. 
+DOI: 10.4161/gmic.19625 [PubMed: 22572877] 
+
+Cepeda MS, Katz EG, Blacketer C. Microbiome-Gut-Brain axis: probiotics and their association with 
+
+depression. Journal of Neuropsychiatry and Clinical Neurosciences. 2016; Advance online 
+publication. doi: 10.1176/appi.neuropsych.15120410
+
+Culhane JF, Rauh VA, Goldenberg RL. Stress, bacterial vaginosis, and the role of immune processes. 
+Curr Infect Dis Rep. 2006; 8(6):459–464. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/
+17064639. [PubMed: 17064639] 
+
+Chassaing B, Gewirtz AT. Gut microbiota, low-grade inflammation, and metabolic syndrome. 
+
+Toxicologic Pathology. 2014; 42:49–53. DOI: 10.1177/0192623313508481 [PubMed: 24285672] 
+
+Collado MC, Isolauri E, Laitinen K, Salminen S. Distinct composition of gut microbiota during 
+
+pregnancy in overweight and normal-weight women. American Journal of Clinical Nutrition. 
+2008; 88:894–899. [PubMed: 18842773] 
+
+David LA, Maurice CF, Carmody RN, Gootenberg DB, Button JE, Wolfe BE, … Turnbaugh PJ. Diet 
+rapidly and reproducibly alters the human gut microbiome. Nature. 2014; 505:559–563. DOI: 
+10.1038/nature12820 [PubMed: 24336217] 
+
+DiGiulio DB, Romero R, Kusanovic JP, Gomez R, Kim CJ, Seok KS, … Relman DA. Prevalence and 
+diversity of microbes in the amniotic fluid, the fetal inflammatory response, and pregnancy 
+outcome in women with preterm pre-labor rupture of membranes. American Journal of 
+Reproductive Immunology. 2010; 64(1):38–57. DOI: 10.1111/j.1600-0897.2010.00830.x 
+[PubMed: 20331587] 
+
+Dunlop AL, Mulle JG, Ferranti EP, Edwards S, Dunn AB, Corwin EJ. Maternal Microbiome and 
+
+Pregnancy Outcomes That Impact Infant Health: A Review. Adv Neonatal Care. 2015; 15(6):377–
+385. DOI: 10.1097/ANC.0000000000000218 [PubMed: 26317856] 
+
+Egan AM, Dennedy MC, Al-Ramli W, Heerey A, Avalos G, Dunne F. ATLANTIC-DIP: Excessive 
+
+gestational weight gain and pregnancy outcomes in women with gestational or pregestational 
+diabetes mellitus. The Journal of Clinical Endocrinology and Metabolism. 2014; 99:212–219. 
+DOI: 10.1210/jc.2013-2684 [PubMed: 24187402] 
+
+Foster JA, McVey Neufeld KA. Gut-brain axis: How the microbiome influences anxiety and 
+
+depression. Trends in Neurosciences. 2013; 36:305–312. DOI: 10.1016/j.tins.2013.01.005 
+[PubMed: 23384445] 
+
+Garcia-Gomez E, Gonzalez-Pedrajo B, Camacho-Arroyo I. Role of sex steroid hormones in bacterial-
+
+host interactions. Biomed Research International. 2013; 2013:1–10. DOI: 10.1155/2013/928290
+Gareau MG. Microbiota-gut-brain axis and cognitive function. Advances in Experimental Medicine 
+
+and Biology. 2014; 817:357–371. DOI: 10.1007/978-1-4939-0897-4_16 [PubMed: 24997042] 
+
+Gomez-Arango LF, Barrett HL, McIntyre HD, Callaway LK, Morrison M, Dekker Nitert M. 
+
+Connections Between the Gut Microbiome and Metabolic Hormones in Early Pregnancy in 
+Overweight and Obese Women. Diabetes. 2016; 65(8):2214–2223. DOI: 10.2337/db16-0278 
+[PubMed: 27217482] 
+
+Gomez-Arango LF, Barrett HL, McIntyre HD, Callaway LK, Morrison M, Dekker Nitert M. Increased 
+systolic and diastolic blood pressure is associated with altered gut microbiota composition and 
+butyrate production in early pregnancy. Hypertension. 2016; 68:974–981. DOI: 10.1161/
+hypertensionaha.116.07910 [PubMed: 27528065] 
+
+Griffin C. Probiotics in obstetrics and gynaecology. Australian and New Zealand Journal of Obstetrics 
+
+and Gynaecology. 2015; 55:201–209. DOI: 10.1111/ajo.12303 [PubMed: 26052924] 
+
+Haghiac M, Yang XH, Presley L, Smith S, Dettelback S, Minium J, … Hauguel-de Mouzon S. Dietary 
+Omega-3 Fatty Acid Supplementation Reduces Inflammation in Obese Pregnant Women: A 
+Randomized Double-Blind Controlled Clinical Trial. PloS one. 2015; 10(9):e0137309.doi: 
+10.1371/journal.pone.0137309 [PubMed: 26340264] 
+
+Josefson JL, Hoffmann JA, Metzger BE. Excessive weight gain in women with a normal pre-
+
+pregnancy BMI is associated with increased neonatal adiposity. Pediatric Obesity. 2013; 8:e33–36. 
+DOI: 10.1111/j.2047-6310.2012.00132.x [PubMed: 23283756] 
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 8
+
+Kashtanova DA, Popenko AS, Tkacheva ON, Tyakht AB, Alexeev DG, Boytsov SA. Association 
+
+between the gut microbiota and diet: Fetal life, early childhood, and further life. Nutrition. 2016; 
+32:620–627. DOI: 10.1016/j.nut.2015.12.037 [PubMed: 26946974] 
+
+Kim CJ, Romero R, Chaemsaithong P, Kim JS. Chronic inflammation of the placenta: definition, 
+classification, pathogenesis, and clinical significance. American Journal of Obstetrics and 
+Gynecology. 2015; 213:S53–69. DOI: 10.1016/j.ajog.2015.08.041 [PubMed: 26428503] 
+
+Koren O, Goodrich JK, Cullender TC, Spor A, Laitinen K, Backhed HK, … Ley RE. Host remodeling 
+of the gut microbiome and metabolic changes during pregnancy. Cell. 2012; 150:470–480. DOI: 
+10.1016/j.cell.2012.07.008 [PubMed: 22863002] 
+
+Laitinen K, Poussa T, Isolauri E. Probiotics and dietary counselling contribute to glucose regulation 
+
+during and after pregnancy: A randomised controlled trial. The British Journal of Nutrition. 2009; 
+101:1679–1687. DOI: 10.1017/s0007114508111461 [PubMed: 19017418] 
+
+Li Q, Zhang Q, Wang M, Zhao S, Xu G, Li J. n-3 polyunsaturated fatty acids prevent disruption of 
+
+epithelial barrier function induced by proinflammatory cytokines. Molecular Immunology. 2008; 
+45:1356–1365. DOI: 10.1016/j.molimm.2007.09.003 [PubMed: 17936906] 
+
+Luoto R, Laitinen K, Nermes M, Isolauri E. Impact of maternal probiotic-supplemented dietary 
+
+counselling on pregnancy outcome and prenatal and postnatal growth: A double-blind, placebo-
+controlled study. British Journal of Nutrition. 2010; 103:1792–1799. DOI: 10.1017/
+S0007114509993898 [PubMed: 20128938] 
+
+Ma J, Prince AL, Bader D, Hu M, Ganu R, Baquero K, … Aagaard KM. High-fat maternal diet during 
+
+pregnancy persistently alters the offspring microbiome in a primate model. Nature 
+communications. 2014; 5:3889.doi: 10.1038/ncomms4889
+
+Mayer EA, Knight R, Mazmanian SK, Cryan JF, Tillisch K. Gut microbes and the brain: Paradigm 
+
+shift in neuroscience. Journal of Neuroscience. 2014; 34:15490–15496. DOI: 10.1523/
+JNEUROSCI.3299-14.2014 [PubMed: 25392516] 
+
+Mayer EA, Savidge T, Shulman RJ. Brain-gut microbiome interactions and functional bowel disorders. 
+Gastroenterology. 2014; 146:1500–1512. DOI: 10.1053/j.gastro.2014.02.037 [PubMed: 24583088] 
+
+Mendez DD, Hogan VK, Culhane JF. Institutional racism, neighborhood factors, stress, and preterm 
+
+birth. Ethnicity and Health. 2014; 19(5):479–499. DOI: 10.1080/13557858.2013.846300 
+[PubMed: 24134165] 
+
+Morrison JL, Regnault TR. Nutrition in Pregnancy: Optimising Maternal Diet and Fetal Adaptations to 
+
+Altered Nutrient Supply. Nutrients. 2016; 8(6)doi: 10.3390/nu8060342
+
+Mokkala K, Roytio H, Munukka E, Pietila S, Ekblad U, Ronnemaa T, … Laitinen K. Gut microbiota 
+richness and composition and dietary intake of overweight pregnant women are related to serum 
+zonulin concentration, a marker for intestinal permeability. The Journal of Nutrition. 2016; 
+146:1694–1700. DOI: 10.3945/jn.116.235358 [PubMed: 27466607] 
+
+Mulak A, Tache Y, Larauche M. Sex hormones in the modulation of irritable bowel syndrome. World 
+Journal of Gastroenterology. 2014; 20:2433–2448. DOI: 10.3748/wjg.v20.i10.2433 [PubMed: 
+24627581] 
+
+Nuriel-Ohayon M, Neuman H, Koren O. Microbial Changes during Pregnancy, Birth, and Infancy. 
+
+Front Microbiol. 2016; 7:1031.doi: 10.3389/fmicb.2016.01031 [PubMed: 27471494] 
+
+Power SE, O’Toole PW, Stanton C, Ross RP, Fitzgerald GF. Intestinal microbiota, diet and health. The 
+British Journal of Nutrition. 2014; 111:387–402. DOI: 10.1017/s0007114513002560 [PubMed: 
+23931069] 
+
+Priyadarshini M, Thomas A, Reisetter AC, Scholtens DM, Wolever TM, Josefson JL, Layden BT. 
+Maternal short-chain fatty acids are associated with metabolic parameters in mothers and 
+newborns. Translational Research. 2014; 164:153–157. DOI: 10.1016/j.trsl.2014.01.012 [PubMed: 
+24530607] 
+
+Santacruz A, Collado MC, Garcia-Valdes L, Segura MT, Martin-Lagos JA, Anjos T, … Sanz Y. Gut 
+
+microbiota composition is associated with body weight, weight gain and biochemical parameters 
+in pregnant women. The British Journal of Nutrition. 2010; 104:83–92. DOI: 10.1017/
+s0007114510000176 [PubMed: 20205964] 
+
+Sender R, Fuchs S, Milo R. Revised Estimates for the Number of Human and Bacteria Cells in the 
+
+Body. PLoS Biol. 2016; 14(8):e1002533.doi: 10.1371/journal.pbio.1002533 [PubMed: 27541692] 
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 9
+
+Shin GH, Toto EL, Schey R. Pregnancy and postpartum bowel changes: Constipation and fecal 
+
+incontinence. American Journal of Gastroenterology. 2015; 110:521–529. DOI: 10.1038/ajg.
+2015.76 [PubMed: 25803402] 
+
+Trevisanuto D, Peruzzetto C, Cavallin F, Vedovato S, Cosmi E, Visentin S, … Zanardo V. Fetal 
+
+placental inflammation is associated with poor neonatal growth of preterm infants: a case-control 
+study. The journal of maternal-fetal & neonatal medicine: the official journal of the European 
+Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the 
+International Society of Perinatal Obstetricians. 2013; 26(15):1484–1490. DOI: 
+10.3109/14767058.2013.789849
+
+Vela G, Stark P, Socha M, Sauer AK, Hagmeyer S, Grabrucker AM. Zinc in gut-brain interaction in 
+autism and neurological disorders. Neural Plasticity, 2015. 2015; doi: 10.1155/2015/972791
+
+Callouts
+
+Starting in the prenatal period, maternal health and diet play a critical role in the 
+foundation of the child’s gut microbiome with long-lasting health implications.
+
+Promotion of a eubiotic gut through dietary intake of specific probiotics can improve 
+gut health and reduce systemic inflammation.
+
+The rise in estrogen and progesterone during pregnancy alters gut function and 
+microbiome composition, increasing vulnerability to pathogens.
+
+The gut microbiota progressively changes with each trimester of pregnancy; the 
+composition is most commonly dominated by Firmicutes as in obese populations.
+
+Nursing strategies such as the judicious use of antibiotics and personalized education 
+regarding a healthy lifestyle can promote a client’s eubiotic gut.
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 10
+
+Nurses can promote gut health in pregnant patients by:
+
+Clinical Implications
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Conducting a detailed client dietary assessment, individualized education and 
+counseling to follow a diet with 70–90 grams low fat, organic protein daily, 
+unsaturated fatty acids, whole grains, high fiber, low processed sugars that 
+includes daily probiotic dairy or other cultured food products (especially 
+containing L. acidophilus, B. lactis, and L. rhamnosus).
+
+Encouraging omega-3 polyunsaturated fatty acid dietary intake, such as 
+through ground flax seeds, wild-caught salmon and tuna (up to twice weekly) 
+or 2000 mg pharmaceutical grade omega-3 supplementation which can 
+increase intestinal wall integrity, reduce inflammatory markers in serum and 
+tissues and improve glucose metabolism.
+
+Assessing clinical prenatal labs that reflect gut health including normal 
+glucose tolerance test and complete blood count.
+
+Identifying and treating clinical conditions that reflect gut dysbiosis including 
+preexisting eating disorders such as obesity, insufficient or excessive weight 
+gain; gastrointestinal disorders including hyperemesis gravidarum, 
+cholelithiasis, gastroesophageal reflux disease; infectious conditions such as 
+listeriosis or toxoplasmosis; and obstetric complications such as preterm 
+labor, gestational diabetes or preeclampsia.
+
+Evaluating sources and perceived level of stress, mood, pain, sleep, and 
+support systems utilized to help clients in identifying ways to improve the 
+gut-brain axis (consider psychiatric or social work referral, prenatal exercise, 
+nonpharmacologic sleep hygiene aids, or chiropractic care.)
+
+Monitoring gestational weight that follows the IOM guidelines to minimize 
+the risk of metabolic and hypertensive disorders and CNS dysregulation, 
+especially in high-risk groups. Counselling to increase dietary fiber and 
+probiotic foods or supplements can confer additional protection in the 
+overweight and obese woman.
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 11
+
+Figure 1. 
+The bidirectional communication of the brain-gut axis occurs via systemic and neural 
+mechanisms. It contributes to a healthy state with gut eubiosis and normal weight or a 
+disease state with gut dysbiosis and increased risk of obesity.
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Edwards et al.
+
+Page 12
+
+Table 1
+
+Definition of Terms
+
+TERM
+
+Antibiotic
+
+DEFINITION
+
+A type of antimicrobial drug used in the prevention or treatment of bacterial infections; some also have 
+antiprotozoal activity
+
+Brain-Gut Axis (Or Gut-
+Microbiome-Brain Axis)
+
+Bidirectional signaling between the gut microbes and the brain via immunological, endocrine, and neural 
+pathways
+
+Dysbiosis
+
+Eubiosis
+
+Microbial Diversity
+
+Microbiota
+
+Prebiotic
+
+Probiotic
+
+An unhealthy imbalance in microbial composition in a part of the body
+
+A microbial composition that is balanced and associated with health in a part of the body
+
+The range of different kinds of unicellular organisms, bacteria, archaea, protists, and fungi in a particular 
+environment
+
+The microbial community that resides on or within a particular environment, including bacteria, archaea, 
+protists, and fungi
+
+Selectively fermented dietary ingredients that result in specific changes in the consumption and/or activity of 
+the gastrointestinal microbiota
+
+Live microorganisms which when administered in adequate amounts confer a health effect on the host
+
+MCN Am J Matern Child Nurs. Author manuscript; available in PMC 2018 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+

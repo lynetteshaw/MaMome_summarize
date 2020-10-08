@@ -39,6 +39,7 @@ summary_name = article[:-4] + suffix + ".txt"
 with open("../docproc/Summary/" + summary_name, "r") as f:
     summary = f.read()
 
+st.markdown("## Summary")
 st.write(summary)
 
 

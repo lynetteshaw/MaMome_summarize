@@ -8,11 +8,11 @@ the commonality that relates both BV and vaginal pH to HPV
 infection (independent of HIV) is the RA of certain Lactobacil-
 lus species, most notably L. crispatus. Consistent with this, a
 high RA of L. crispatus has been associated with reduced risks
-of BV and STIs in several studies [8, 12–14]. However, data
+of BV and STIs in several studies  However, data
 regarding the cervicovaginal microbiota and its speciﬁc relation
 with HPV infection are limited. In particular, there is a paucity
 of longitudinal studies of the cervicovaginal microbiota and
-HPV [15], and even among cross-sectional studies few have
+HPV  and even among cross-sectional studies few have
 involved HIV-infected women. Last, despite considerable spec-
 ulation that cervicovaginal pH may mediate the effects of the
 microbiota on HPV infection, no studies have, to our knowl-
@@ -31,7 +31,7 @@ METHODS
 WIHS Background
 The WIHS is an ongoing multiinstitutional cohort investigation
 of the natural history and pathogenesis of HIV/AIDS in women
-[16]. Brieﬂy, HIV-infected and at-risk HIV-uninfected women
+ Brieﬂy, HIV-infected and at-risk HIV-uninfected women
 were enrolled through similar sources at 6 sites (Bronx, NY;
 Brooklyn, NY; Chicago, IL; Los Angeles, CA; San Francisco,
 CA; and Washington, DC). Enrollment was conducted in
@@ -45,7 +45,7 @@ ticipants, and the study was approved by each local institutional
 review board.
 
 WIHS Substudy Population
-As described previously [10], women included in the micro-
+As described previously  women included in the micro-
 biome substudy were selected from among premenopausal
 African American participants at the Chicago WIHS site,
 with at least 8 years of observation and a minimum of 6 annual
@@ -59,13 +59,13 @@ response to therapy (<100 cells/mm3 increase over a year) dur-
 ing the observation period (n = 20); and HIV-infected women
 with a stable immune status, deﬁned as a CD4+ T-cell count
 
-1362 (cid:129) JID 2016:214 (1 November) (cid:129) Reimers et al
+1362 (cid:129) JID 2016:214 Reimers et al
 
 of >500 cells/mm3 throughout the observation period, who
 were frequency matched at the index visit to those with rapidly
 progressive immunosuppression (n = 22). Matching was con-
 ducted using MatchIt, based in the R programming language
-and statistical software [17, 18]. The matching criteria included
+and statistical software  The matching criteria included
 age (<40 years, 40–49, and >50 years), cigarette smoking, sexual
 activity (frequency and number of partners), and male condom
 use. The exclusion criteria were current laboratory detection of
@@ -78,7 +78,7 @@ ly, the inﬂuence of HIV on the cervicovaginal microbiota. In a
 separate independently conducted study, the presence of HPV
 DNA in CVLs was longitudinally assessed semiannually in all
 WIHS women with available specimens over a similar period
-of 8–10 years or more [5].
+of 8–10 years or more 
 
 Laboratory Testing
 Vaginal pH and Cervicovaginal Specimens
@@ -99,7 +99,7 @@ HPV DNA was detected with a L1 consensus primer MY09/
 MY11/HMB01 polymerase chain reaction (PCR) assay. Primer
 set PC04/GH20, which ampliﬁes a 268–base pair cellular β-glo-
 bin DNA fragment, was included as an internal control to assess
-the adequacy of ampliﬁcation, as previously described [19–21].
+the adequacy of ampliﬁcation, as previously described 
 Ampliﬁcation products were probed for the presence of any
 HPV DNA with a generic probe mixture and then with ﬁlters
 individually hybridized with type-speciﬁc biotinylated oligonu-
@@ -107,7 +107,7 @@ cleotide probes for HPV 6, 11, 13, 16, 18< 26, 31, 32, 33, 34, 35,
 39, 40, 42, 45, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 64, 66, 67,
 68, 69, 70, 71, 72, 73, 74, 81, 82, 83, 84, 85, and 89. Oncogenic
 HPV types were deﬁned according to the recommendations of
-the International Agency for Research on Cancer [22].
+the International Agency for Research on Cancer 
 
 Characterization of the Cervicovaginal Microbiota
 CVL specimens were thawed and centrifuged to pellet microbes.
@@ -128,19 +128,19 @@ the intraindividual correlation of the repeated observations.
 This approach made it possible to incorporate all the available
 type-speciﬁc HPV data at each person-visit, as well as time-up-
 dated covariates. It is a highly efﬁcient analytic method, widely
-used in HPV research [30, 31]. In addition to CSTs, we conduct-
+used in HPV research  In addition to CSTs, we conduct-
 ed a priori–planned analyses of the RA of lactobacilli (at the
 genus and species level), modeled as both continuous and ordi-
 nal data. Histograms of Lactobacillus species as a group (Fig-
 ure 1) and individual species suggested similar cut points of
-low (<7.5%), medium (7.5%–82.5%), and high (≥82.5%) RA.
+low (<7.5%), medium RA.
 Vaginal pH was also examined as a continuous and an ordinal
 variable (with cut points based on the Amsel criteria for diag-
-nosis of BV [10]). All covariates except study group were time
+nosis of BV . All covariates except study group were time
 dependent. Furthermore, to study temporal associations related
 to changes in CSTs and HPV detection over time, we used
 continuous-time multistate Markov models ﬁt using maximum
-likelihood, as described in an earlier article [15]. All tests were
+likelihood, as described in an earlier article  All tests were
 2-sided, with a P value of .05 used to deﬁne signiﬁcance.
 
 RESULTS
@@ -159,15 +159,15 @@ women were less likely than HIV-infected women to use con-
 doms in the past 6 months (P = .001). Self-report of Trichomo-
 nas vaginalis infection, BV, candidiasis, or STIs within the past
 
-Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 (1 November) (cid:129) 1363
+Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 1363
 
-performed as described previously [8, 10]. Brieﬂy, universal
+performed as described previously  Brieﬂy, universal
 primers 27F and 338R were used for PCR ampliﬁcation of the
 V1-V2 hypervariable regions of 16S rRNA genes from genomic
 DNA extracts. The 338R primer included a unique sequence tag
 to barcode each sample. Barcoded amplicons were pooled in
 equimolar concentration and pyrosequenced on a Roche/454
-Life Sciences FLX instrument. QIIME software [23] was used
+Life Sciences FLX instrument. QIIME software was used
 to bin the sequences based on their barcode, trim the primers
 and barcodes, and remove sequences with homopolymeric runs
 longer than 8 base pairs and those with ambiguous base calls
@@ -176,12 +176,12 @@ quences was performed using the UCHIME component of
 UCLUST, and chimeric sequences were removed. Taxonomic
 assignments were performed using the Ribosomal Database
 Project (RDP) Classiﬁer trained on version 10 of the RDP da-
-tabase [24, 25]. The presence of ampliﬁcation in subject samples
+tabase  The presence of ampliﬁcation in subject samples
 was conﬁrmed by gel electrophoresis, while negative controls
 (no template) were also subjected to PCR and showed no am-
 pliﬁcation. In general, each sample was run once since our pre-
 vious studies indicated that duplicates of the PCR ampliﬁcation
-and pyrosequencing have low variability [8, 10]. Nonetheless,
+and pyrosequencing have low variability  Nonetheless,
 repeat testing of several current samples across batches and
 runs was conducted and showed little variability in results be-
 tween these runs. For the 398 samples in the current study, we
@@ -203,15 +203,15 @@ tion. To cluster pyrosequencing 16S rRNA results into corre-
 sponding community state types (CSTs), we used hierarchical
 clustering based on RA with Euclidean distance and Ward link-
 age. The number of clusters was determined by the Milligan
-point-biserial criterion [26, 27]. The Shannon diversity index
+point-biserial criterion  The Shannon diversity index
 (SDI) was calculated for the microbiome at each patient visit
-in the data set [28].
+in the data set 
 
-The primary outcomes were detection of (1) any HPV and
-(2) any oncogenic HPV. The associations of SDI or CST with
+The primary outcomes were detection of any HPV and
+any oncogenic HPV. The associations of SDI or CST with
 prevalent HPV detection were assessed using generalized esti-
 mating equation (GEE) logistic regression, as previously de-
-scribed [29]. These models address serial testing of women
+scribed  These models address serial testing of women
 over time (ie, repeated cross-sectional measures of association
 with prevalent HPV detection at each visit) and potential
 
@@ -261,63 +261,63 @@ http://jid.oxfordjournals.org/
 
 .52
 
-5 (25)
+5 
 
-12 (60)
+12 
 
-2 (10)
+2 
 
-1 (5)
+1 
 
-6 (30)
+6 
 
-3 (15)
+3 
 
-5 (25)
+5 
 
-6 (30)
+6 
 
-5 (25)
+5 
 
-15 (75)
+15 
 
-8 (40)
+8 
 
-0 (0)
+0 
 
-12 (60)
+12 
 
-14 (82)
+14 
 
-3 (18)
+3 
 
-15 (75)
+15 
 
-5 (25)
+5 
 
-17 (85)
+17 
 
-3 (15)
+3 
 
-8 (40)
+8 
 
-12 (60)
+12 
 
-12 (60)
+12 
 
-2 (10)
+2 
 
-3 (15)
+3 
 
-3 (15)
+3 
 
-7 (35)
+7 
 
-13 (65)
+13 
 
-13 (65)
+13 
 
-7 (35)
+7 
 
 Characteristic
 
@@ -410,121 +410,121 @@ No
 
 Yes
 
-4 (18)
+4 
 
-12 (55)
+12 
 
-4 (18)
+4 
 
-2 (9)
+2 
 
-1 (5)
+1 
 
-6 (27)
+6 
 
-8 (36)
+8 
 
-7 (32)
+7 
 
-14 (64)
+14 
 
-8 (36)
+8 
 
-5 (23)
+5 
 
-3 (14)
+3 
 
-14 (64)
+14 
 
-15 (83)
+15 
 
-3 (17)
+3 
 
-18 (86)
+18 
 
-3 (14)
+3 
 
-20 (91)
+20 
 
-2 (9)
+2 
 
-13 (59)
+13 
 
-9 (41)
+9 
 
-10 (45)
+10 
 
-6 (27)
+6 
 
-4 (18)
+4 
 
-2 (9)
+2 
 
-17 (77)
+17 
 
-5 (23)
+5 
 
-21 (95)
+21 
 
-1 (5)
+1 
 
-3 (14)
+3 
 
-11 (50)
+11 
 
-5 (23)
+5 
 
-3 (14)
+3 
 
-2 (10)
+2 
 
-2 (10)
+2 
 
-9 (43)
+9 
 
-8 (38)
+8 
 
-3 (14)
+3 
 
-19 (86)
+19 
 
-3 (14)
+3 
 
-1 (5)
+1 
 
-18 (82)
+18 
 
-16 (94)
+16 
 
-1 (6)
+1 
 
-16 (73)
+16 
 
-6 (27)
+6 
 
-21 (100)
+21 
 
-0 (0)
+0 
 
-10 (45)
+10 
 
-12 (55)
+12 
 
-12 (55)
+12 
 
-2 (9)
+2 
 
-3 (14)
+3 
 
-5 (23)
+5 
 
-14 (64)
+14 
 
-8 (36)
+8 
 
-18 (82)
+18 
 
-4 (18)
+4 
 
 Table 1. Selected Characteristics of Participants in the Cervicovaginal Microbiota Substudy at their Index Visit, Stratified by Study Group
 
@@ -544,13 +544,13 @@ Between HIV-
 Positive Groups
 
 30.7 ± 9.3
-1150 (902–1428)
+1150 
 
 33.7 ± 6.8
-782 (556–918)
+782 
 
 31.9 ± 4.9
-285 (150–463)
+285 
 
 P Valuea
 
@@ -574,11 +574,11 @@ Lifetime no. of male sex
 
 Vaginal pH, median (IQR)
 
-5.0 (4.7–5.5)
+5.0 
 
-5.0 (4.4–5.5)
+5.0 
 
-5.0 (4.0–6.0)
+5.0 
 
 Data are no. (%) of participants or median value (interquartile range). See “Methods” section for details (substudy population). Briefly, 3 study groups were defined: HIV-uninfected women
 (n = 22); HIV-infected women with stable immune status, defined as a CD4+ T-cell count of >500 cells/mm3 throughout the observation period, individually matched at the index visit to HIV-
@@ -590,7 +590,7 @@ Abbreviations: BV, bacterial vaginosis; HIV, human immunodeficiency virus; HPV, 
 vaginalis.
 a By analysis of variance (for continuous variables with normal distribution), the Kruskal–Wallis test (for continuous variables with nonnormal distribution), or the χ2 test (for categorical data).
 
-1364 (cid:129) JID 2016:214 (1 November) (cid:129) Reimers et al
+1364 (cid:129) JID 2016:214 Reimers et al
 
 Downloaded from 
 
@@ -700,7 +700,7 @@ atus was associated with a change in the risk of incident
 detection of HPV (ie, HPV type[s] not found in any earlier
 CVLs from the same woman). The transition rate ratio
 (TRR), a value that can be thought of as similar to a hazard
-ratio [15], was 0.17 (95% CI, .04–.79; P = .02) after adjustment
+ratio  was 0.17 after adjustment
 for study group, and this effect estimate was little changed
 (TRR, 0.20; 95% CI, .03–1.14; P = .07) by adjustment for addi-
 tional covariates, indicating that the most appropriate model
@@ -715,12 +715,12 @@ even after statistical adjustment for multiple cofactors, includ-
 ing host immune status (as deﬁned by HIV study group) and
 vaginal pH. We predicted these results, because earlier (largely
 cross-sectional) studies had found inverse associations between
-L. crispatus abundance and the risks of several STIs [32–34].
+L. crispatus abundance and the risks of several STIs 
 Further, the one previous longitudinal study of cervicovaginal
 microbiota and HPV, as well as cross-sectional studies in Rwan-
 da and South Africa, each reported inverse associations of HPV
 prevalence with CSTs dominated by L. crispatus or with L. crisp-
-atus RA [15, 32]. To our knowledge, the current study is the ﬁrst
+atus RA  To our knowledge, the current study is the ﬁrst
 investigation involving serially repeated molecular characteriza-
 tion of the vaginal microbiome and its relation with oncogenic
 HPV in HIV-infected women. This allowed us to conduct an
@@ -732,7 +732,7 @@ ed) HPV type. If correct, these data could reﬂect either a reduc-
 tion in the rate of newly acquired (incident) HPV infection or
 reduced recurrence/reactivation of previously acquired HPV.
 
-Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 (1 November) (cid:129) 1365
+Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 1365
 
 Downloaded from 
 
@@ -743,7 +743,7 @@ http://jid.oxfordjournals.org/
 Figure 2. Heat map of microbiome relative abundances and Shannon diversity index. A, Heat map of the relative percent abundance of bacterial taxa, by community state
 type (CST) and the presence of oncogenic human papillomavirus (oncHPV). The results reflect the 25 most abundant bacterial taxa. Each vertical line represents a person-visit,
 with relative abundance indicated by the shade of green as shown in the key. Results for CST (multicolor) and oncHPV (dark gray, present; light gray, absent) are shown across
-the top. The CST categories (CST I–V) used are similar to those in prior reports and ordered in the figure in a similar manner [15]. B, Shannon diversity index calculated for each
+the top. The CST categories (CST I–V) used are similar to those in prior reports and ordered in the figure in a similar manner  B, Shannon diversity index calculated for each
 of the 398 observations.
 
 These ﬁndings have potential clinical implications, since they
@@ -774,7 +774,7 @@ variate models. While there has been considerable discussion in
 the literature regarding the potential antiviral effects of low pH
 and its possible role in explaining the beneﬁcial activity of
 
-1366 (cid:129) JID 2016:214 (1 November) (cid:129) Reimers et al
+1366 (cid:129) JID 2016:214 Reimers et al
 
 Downloaded from 
 
@@ -791,15 +791,15 @@ Model 2 (pH Binary Variable)
 Model 3 (pH Ordinal
 With 3 Levels)
 
-OR (95% CI)
+OR 
 
 P Value
 
-OR (95% CI)
+OR 
 
 P Value
 
-OR (95% CI)
+OR 
 
 P Value
 
@@ -1008,7 +1008,7 @@ median of all pH values >4.5) was considered high.
 
 Lactobacillus species against STIs, most of that research
 preceded widespread use of methods for comprehensively
-assessing the cervicovaginal microbiome [11]. The growing ev-
+assessing the cervicovaginal microbiome  The growing ev-
 idence of species-speciﬁc (eg, L. crispatus–related) relationships
 between the cervicovaginal microbiome and HPV infection ar-
 gues against a signiﬁcant role of pH, since production of lactic
@@ -1023,11 +1023,11 @@ For example, recent data suggest that the 2 isoforms of lactic
 acid, D-lactic acid and L-lactic acid, might differ in their micro-
 bial effects. D-lactic acid (but not L-lactic acid) levels have been
 inversely associated with the ability of HIV to transverse cervi-
-covaginal mucous [35]. An antiviral effect of D-lactic acid would
+covaginal mucous  An antiviral effect of D-lactic acid would
 be consistent with our results for oncogenic HPV, since L. crisp-
 atus produces D and L isoforms of lactic acid, whereas L. iners
 
-produces only L-lactic acid [35, 36]. L. gasseri and L jensenii also
+produces only L-lactic acid  L. gasseri and L jensenii also
 produce D-lactic acid, and their RAs were nonsigniﬁcantly in-
 versely associated with HPV detection in the current study.
 Thus, high D-lactic acid levels but not acidity per se could be
@@ -1037,18 +1037,18 @@ certain viruses, including HPV.
 While production of H2O2 has been observed in the major-
 ity of L. crispatus isolates, prior data from our group suggest
 that the levels of H2O2 produced are likely too limited to great-
-ly affect the risk of STIs [7], especially HPV infection, since
+ly affect the risk of STIs  especially HPV infection, since
 HPV is a nonenveloped virus and, therefore, likely to be resis-
 tant to H2O2. On the other hand, bacteriocins produced by
 L. crispatus may have antiviral effects. Bacteriocins are riboso-
-mally synthesized antimicrobial peptides and proteins [37, 38].
+mally synthesized antimicrobial peptides and proteins 
 Relatively little has been written regarding the bacteriocins
 produced by cervicovaginal Lactobacillus species, with most
 of the bacteriocin literature to date focused on Lactobacillus
 species inhabiting the gut. L. crispatus has additionally been
 noted to have potential immunomodulatory activity. For
 
-Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 (1 November) (cid:129) 1367
+Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 1367
 
 Downloaded from 
 
@@ -1101,15 +1101,15 @@ Model 2 (pH Binary Variable)
 Model 3 (pH Ordinal With 3
 Levels)
 
-OR (95% CI)
+OR 
 
 P Value
 
-OR (95% CI)
+OR 
 
 P Value
 
-OR (95% CI)
+OR 
 
 P Value
 
@@ -1232,7 +1232,7 @@ median of all pH values >4.5) was considered high.
 
 example, Candida albicans growth in vitro was inhibited via
 modulation of Toll-like receptors 2/4 by L. crispatus in epithe-
-lial cell culture [39].
+lial cell culture 
 
 While the current study contributes data suggesting a possi-
 ble protective effect of L. crispatus against cervicovaginal HPV
@@ -1255,7 +1255,7 @@ ously acquired from newly acquired (incident) HPV. The study
 also focused on only premenopausal African American women,
 which was done to reduce the number of factors being studied.
 
-1368 (cid:129) JID 2016:214 (1 November) (cid:129) Reimers et al
+1368 (cid:129) JID 2016:214 Reimers et al
 
 Thus, future studies will need to include women with a broader
 range of age, menopausal status, and race/ethnicity.
@@ -1325,162 +1325,3 @@ has been compensated ﬁnancially by Bristol-Myers Squibb. All other au-
 thors report no potential conﬂicts. All authors have submitted the ICMJE
 Form for Disclosure of Potential Conﬂicts of Interest. Conﬂicts that the ed-
 itors consider relevant to the content of the manuscript have been disclosed.
-
-References
-
-1. Wallin KL, Wiklund F, Angstrom T, et al. Type-speciﬁc persistence of human pap-
-illomavirus DNA before the development of invasive cervical cancer. N Engl J Med
-1999; 341:1633–8.
-
-2. Abraham AG, D’Souza G, Jing Y, et al. Invasive cervical cancer risk among
-HIV-infected women: a North American multicohort collaboration prospective
-study. J Acquir Immune Deﬁc Syndr 2013; 62:405–13.
-
-3. Palefsky JM, Minkoff H, Kalish LA, et al. Cervicovaginal human papillomavirus
-infection in human immunodeﬁciency virus-1 (HIV)-positive and high-risk
-HIV-negative women. J Natl Cancer Inst 1999; 91:226–36.
-
-4. Massad LS, Xie X, Burk R, et al. Long-term cumulative detection of human pap-
-
-illomavirus among HIV seropositive women. AIDS 2014; 28:2601–8.
-
-5. Strickler HD, Burk RD, Fazzari M, et al. Natural history and possible reactivation
-of human papillomavirus in human immunodeﬁciency virus-positive women.
-J Natl Cancer Inst 2005; 97:577–86.
-
-6. Watts DH, Fazzari M, Minkoff H, et al. Effects of bacterial vaginosis and other
-genital infections on the natural history of human papillomavirus infection in
-HIV-1-infected and high-risk HIV-1-uninfected women. J Infect Dis 2005;
-191:1129–39.
-
-7. Mirmonsef P, Hotton AL, Gilbert D, et al. Free glycogen in vaginal ﬂuids is asso-
-ciated with Lactobacillus colonization and low vaginal pH. PLoS One 2014 ; 9:
-e102467.
-
-8. Ravel J, Gajer P, Abdo Z, et al. Vaginal microbiome of reproductive-age women.
-
-Proc Natl Acad Sci U S A 2011; 108(suppl 1):4680–7.
-
-9. Clarke MA, Rodriguez AC, Gage JC, et al. A large, population-based study of age-
-related associations between vaginal pH and human papillomavirus infection.
-BMC Infect Dis 2012; 12:33.
-
-10. Mehta SD, Donovan B, Weber KM, et al. The vaginal microbiota over an 8- to 10-
-year period in a cohort of HIV-infected and HIV-uninfected women. PLoS One
-2015; 10:e0116894.
-
-11. Nardis C, Mosca L, Mastromarino P. Vaginal microbiota and viral sexually trans-
-
-mitted diseases. Ann Ig 2013; 25:443–56.
-
-12. Benning L, Golub ET, Anastos K, et al. Comparison of lower genital tract micro-
-biota in HIV-infected and uninfected women from Rwanda and the US. PLoS One
-2014; 9:e96844.
-
-13. Cohen CR, Lingappa JR, Baeten JM, et al. Bacterial vaginosis associated with in-
-creased risk of female-to-male HIV-1 transmission: a prospective cohort analysis
-among African couples. PLoS Med 2012; 9:e1001251.
-
-14. Jespers V, Menten J, Smet H, et al. Quantiﬁcation of bacterial species of the vaginal
-microbiome in different groups of women, using nucleic acid ampliﬁcation tests.
-BMC Microbiol 2012; 12:83.
-
-15. Brotman RM, Shardell MD, Gajer P, et al. Interplay between the temporal dynam-
-ics of the vaginal microbiota and human papillomavirus detection. J Infect Dis
-2014; 210:1723–33.
-
-16. Barkan SE, Melnick SL, Preston-Martin S, et al. The Women’s Interagency HIV
-
-Study. WIHS Collaborative Study Group. Epidemiology 1998; 9:117–25.
-
-17. Ho DE, Imai K, King G, Stuart EA. Matching as Nonparametric Preprocessing for
-Reducing Model Dependence in Parametric Causal Inference. Polit Analysis 2007;
-15:199–236.
-
-18. Ho DE, Imai K, King G, Stuart EA. MatchIt: Nonparametric Preprocessing for
-
-Parametric Causal Inference. J Stat Softw 2011; 42:1–28.
-
-19. Burk RD, Ho GY, Beardsley L, Lempa M, Peters M, Bierman R. Sexual behavior
-and partner characteristics are the predominant risk factors for genital human
-papillomavirus infection in young women. J Infect Dis 1996; 174:679–89.
-20. Goldberg GL, Vermund SH, Schiffman MH, Ritter DB, Spitzer C, Burk RD. Com-
-parison of Cytobrush and cervicovaginal lavage sampling methods for the detec-
-tion of genital human papillomavirus. Am J Obstet Gynecol 1989; 161:1669–72.
-21. Gravitt PE, van Doorn LJ, Quint W, et al. Human papillomavirus (HPV) genotyp-
-ing using paired exfoliated cervicovaginal cells and parafﬁn-embedded tissues to
-highlight difﬁculties in attributing HPV types to speciﬁc lesions. J Clin Microbiol
-2007; 45:3245–50.
-
-22. IARC. IARC monographs on the evaluation of carcinogenic risks to humans:
-human papillomaviruses. Vol 90. Lyon, France: World Health Organization, 2007.
-23. Caporaso JG, Kuczynski J, Stombaugh J, et al. QIIME allows analysis of high-
-
-throughput community sequencing data. Nat Methods 2010; 7:335–6.
-
-24. Wang Q, Garrity GM, Tiedje JM, Cole JR. Naive Bayesian classiﬁer for rapid as-
-signment of rRNA sequences into the new bacterial taxonomy. Appl Environ Mi-
-crobiol 2007; 73:5261–7.
-
-25. Cole JR, Chai B, Farris RJ, et al. The Ribosomal Database Project (RDP-II): se-
-quences and tools for high-throughput rRNA analysis. Nucleic Acids Res 2005;
-33:D294–6.
-
-26. Milligan GW. An examination of the effect of six types of error perturbation on
-
-ﬁfteen clustering algorithms. Psychometrika 1980; 45:325–42.
-
-27. Milligan GW. A Monte Carlo study of thirty internal criterion measures for cluster
-
-analysis. Psychometrika 1981; 46:187–99.
-
-28. Hill MO. Diversity and evenness: a unifying notation and its consequences. Ecol-
-
-ogy 1973; 54:427–32.
-
-29. Xue X, Gange SJ, Zhong Y, et al. Marginal and mixed-effects models in the analysis
-of human papillomavirus natural history data. Cancer Epidemiol Biomarkers Prev
-2010; 19:159–69.
-
-30. Mooij SH, Boot HJ, Speksnijder AG, et al. Six-month incidence and persistence of
-oral HPV infection in HIV-negative and HIV-infected men who have sex with
-men. PLoS One 2014; 9:e98955.
-
-31. Louvanto K, Rautava J, Syrjanen K, Grenman S, Syrjanen S. The clearance of oral
-high-risk human papillomavirus infection is impaired by long-term persistence of
-cervical human papillomavirus infection. Clin Microbiol Infect 2014; 20:1167–72.
-32. Borgdorff H, Tsivtsivadze E, Verhelst R, et al. Lactobacillus-dominated cervicova-
-ginal microbiota associated with reduced HIV/STI prevalence and genital HIV
-viral load in African women. ISME J 2014; 8:1781–93.
-
-33. Petrova MI, van den Broek M, Balzarini J, Vanderleyden J, Lebeer S. Vaginal mi-
-crobiota and its role in HIV transmission and infection. FEMS Microbiol Rev
-2013; 37:762–92.
-
-34. van de Wijgert JH, Borgdorff H, Verhelst R, et al. The vaginal microbiota: what
-have we learned after a decade of molecular characterization? PLoS One 2014;
-9:e105998.
-
-35. Nunn KL, Wang YY, Harit D, et al. Enhanced Trapping of HIV-1 by Human Cer-
-vicovaginal Mucus Is Associated with Lactobacillus crispatus-Dominant Microbio-
-ta. MBio 2015; 6:e01084–15.
-
-36. Witkin SS. The vaginal microbiome, vaginal anti-microbial defence mechanisms
-and the clinical challenge of reducing infection-related preterm birth. BJOG 2015;
-122:213–8.
-
-37. Cotter PD, Ross RP, Hill C. Bacteriocins—a viable alternative to antibiotics? Nat
-
-Rev Microbiol 2013; 11:95–105.
-
-38. Petrova MI, Lievens E, Malik S, Imholz N, Lebeer S. Lactobacillus species as bio-
-markers and agents that can promote various aspects of vaginal health. Front
-Physiol 2015; 6:81.
-
-39. Rizzo A, Losacco A, Carratelli CR. Lactobacillus crispatus modulates epithelial cell
-defense against Candida albicans through Toll-like receptors 2 and 4, interleukin 8
-and human beta-defensins 2 and 3. Immunol Lett 2013; 156:102–9.
-
-Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 (1 November) (cid:129) 1369
-
-

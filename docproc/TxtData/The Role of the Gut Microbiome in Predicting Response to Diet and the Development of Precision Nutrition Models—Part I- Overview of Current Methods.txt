@@ -8,8 +8,8 @@ modiﬁcation
 The body of research on the human microbiome, and par-
 ticularly the gut microbiome, is growing rapidly. The effects
 of the gut microbiome extend far beyond the gastrointestinal
-system, influencing immunity (3, 4), metabolism (5, 6), and
-brain function (7, 8); in short, everything we require to
+system, influencing immunity  and
+brain function  in short, everything we require to
 function as human beings.
 
 However, it is important to distinguish the role of the
@@ -48,8 +48,8 @@ intervention cohort study. For example, 51 out of the 55
 studies conducted between 2000 and 2019, were intervention
 cohort studies in living organisms (humans or rodents).
 Three studies examined the effect of supplementing nutrients
-to in vitro cultures from human stool (9–11). Just 2 were
-observational, cross-sectional studies (12, 13).
+to in vitro cultures from human stool  Just 2 were
+observational, cross-sectional studies 
 
 Intervention studies allow researchers to standardize
 the dietary stimulus, providing every participant the same
@@ -71,11 +71,11 @@ recommendations, is critical.
 Precision nutrition is a rapidly developing field of research
 incorporating a multitude of disciplines including nutrition,
 microbiology, genetics, epigenetics, metabolomics, and oth-
-ers (1) (Figure 1).
+ers 
 
 Subfields of precision nutrition include nutrigenetics
 and nutrigenomics, which study interactions between the
-human genome and diet (2). These fields examine how
+human genome and diet  These fields examine how
 genetics, epigenetics, and the microbiome influence dietary
 response and requirements whilst also being influenced
 by dietary intake. The result of these interactions is a
@@ -154,7 +154,7 @@ or the assignment of individuals to separate treatments
 (parallel).
 
 Randomized, controlled clinical trials with a standardized
-diet are generally considered the “gold standard” (14) in
+diet are generally considered the “gold standard” in
 dietary intervention trials because the potential for con-
 founding is minimized and the estimated intervention effect
 can be interpreted causally. Identifying the appropriate con-
@@ -187,14 +187,14 @@ intervention (Table 1, Responder Criteria). However, there
 are some general trends. For instance, all 12 studies using
 an energy-restricted or high-energy diet analyzed differences
 in weight gain/loss or changes in body composition (39–
-50). Changes in circulating lipids (39–41, 43, 48, 50), insulin
-sensitivity/resistance (39–41, 43), or inflammatory markers
-(39–41, 48) were also common measured responses. Fiber-
-intervention studies (9, 10, 15–35) measure many of these
+50). Changes in circulating lipids  insulin
+sensitivity/resistance  or inflammatory markers
+were also common measured responses. Fiber-
+intervention studies measure many of these
 same variables but also often include SCFAs (9, 20–24,
 25, 26, 30, 34), which are one of the major metabolites
 produced by the gut microbiota during fermentation of
-dietary carbohydrates and have many biological effects (73).
+dietary carbohydrates and have many biological effects 
 Changes within the gut microbial community as well as
 metabolites and clinical markers produced and/or influenced
 by the gut microbiota have also been used as indicators
@@ -214,11 +214,11 @@ Methods for analyzing precision nutrition data
 Laboratory analytical methods for gut microbiome data.
 The microbiome can be measured using a variety of methods
 (Table 3, Microbiome Measures), which are subject to
-their own inherent limitations and biases (74), making
+their own inherent limitations and biases  making
 comparisons between studies using different methods diffi-
 cult. Additionally, differences in sample collection, sample
 preparation, PCR amplification, and bioinformatics pipeline
-(75) contribute additional variability, further complicating
+contribute additional variability, further complicating
 to make broad
 comparisons. Thus,
 conclusions regarding the effect of the microbiota when
@@ -233,7 +233,7 @@ it can be difficult
 In early studies of the gut microbiome, culturing was the
 primary method used to investigate the growth and activity
 of microbes. However, the majority of gut microbes have not
-been cultured successfully (74) and this technique is labor
+been cultured successfully and this technique is labor
 intensive. Thus, advances in sequencing technology have led
 to rapid adoption of culture-independent techniques.
 
@@ -243,7 +243,7 @@ marker for different bacterial taxa. The 16S rRNA gene is
 ubiquitous among bacterial species with extreme sequence
 conservation, which can be targeted for amplification, as
 well as variable domains that can be used to classify taxa
-(79). Some methods also utilize the recombinant protein A
+ Some methods also utilize the recombinant protein A
 (recA) gene, which has been suggested as a potential marker
 to identify higher taxonomic ranks because of its ubiquity
 
@@ -257,22 +257,22 @@ restriction and excess; and bioactives, fermented products,
 and other dietary components. Many studies investigating
 the effect of the microbiota on metabolic response to
 diet have employed interventions involving dietary fiber
-or other nondigestible dietary components (9, 10, 15–35),
+or other nondigestible dietary components 
 as these compounds cannot be hydrolyzed by endogenous
-human enzymes (36) and are thus able to pass through
+human enzymes and are thus able to pass through
 the upper gastrointestinal tract largely intact and enter the
 large intestine where they can be fermented by the gut
 microbiota. These compounds serve as a primary source of
-fuel for this community (36). As the microbiota has also
+fuel for this community  As the microbiota has also
 been shown to influence energy harvest and predisposition
-to obesity (37, 38), a number of studies have also looked at
+to obesity  a number of studies have also looked at
 the effect of the gut microbiota on response to an energy-
-restricted or high-energy diet (39–51). The effect of the gut
+restricted or high-energy diet  The effect of the gut
 microbiome on metabolic response to macronutrient dis-
-tribution (52), micronutrient content (53), dietary patterns
-(54–57), polyphenols and other plant-based compounds
-(13, 58–61), animal products (62), probiotics (63–68), as
-well as antibiotics and certain drugs (69–72) has also been
+tribution  dietary patterns
+ polyphenols and other plant-based compounds
+ as
+well as antibiotics and certain drugs has also been
 investigated. Dietary interventions may be targeted, such as
 supplementing an isolated nutrient in the participants’ diets
 (e.g. fiber), or broad, such as altering the participants’ entire
@@ -312,7 +312,7 @@ Invitrofermentation(humanstool
 
 Arabinoxylansfromsorghumbran(SAX)
 
-Chenetal.(2017)(9)
+Chenetal.
 
 “Cross-over”
 
@@ -345,24 +345,24 @@ selectedasRorNR)andmice
 
 ﬂourbread(WWB)for3deach
 
-(2015)(21)
+
 Datcharyetal.
 
-guidelines)for84days(3mo)
+guidelines)for84days
 2013ChineseDiabetesSociety
 (standarddietaryrecommendationsof
 medicinalfoods,prebiotics)vs.control
 WTPdiet(high-ﬁber,wholegrains,Chinese
 
-(20)
 
-Zhaoetal.(2018)
+
+Zhaoetal.
 
 DecreaseinHbA1c
 
 Intervention
 
-Humans(43adultswithT2D)
+Humans
 
 LookingatassociationwithchangeinTC
 
@@ -378,11 +378,11 @@ Humans(62adultswithcentral
 
 NNDhighinﬁber/wholegrainvs.ADDfor
 
-Roageretal.(2014)
+Roageretal.
 
 6mo
 
-(19)
+
 
 Lookingatassociationwithfatloss
 P/Bratio:High(>0.01)andlow(<0.01)
@@ -393,7 +393,7 @@ Intervention
 
 NNDhighinﬁber/wholegrainvs.ADDfor
 
-Hjorthetal.(2017)
+Hjorthetal.
 
 metabolicsyndrome)
 obesityandcomponentsof
@@ -406,16 +406,16 @@ Mice(gnotobiotic,colonizedwith
 6mo
 
 10d
-Phase2:FOS-enriched(10%wt/vol)for
+Phase2:FOS-enrichedor
 dietfor4wk
 
-(18)
 
-(17)
+
+
 
 Phase1:Standardizedpolysaccharide-rich
 
-Smitsetal.(2016)
+Smitsetal.
 
 Gut microbiome and precision nutrition: Part I 5
 
@@ -441,23 +441,23 @@ baselineandpostinterventionsamples.
 
 Intervention
 
-Humans(20healthyadults)
+Humans
 
 Sourdoughwhole-grainbreadvs.white
 
-Koremetal.(2017)
+Koremetal.
 
-wheatbread(1wkeach)
+wheatbread
 
-(16)
 
-lossdiet(10wk)
+
+lossdiet
 dietvs.low-carb/fat,high-proweight
 nonstarch-polysaccharide-enriched
 Cohort3:RS-enricheddietvs.
-8goligofructose(12wk)
+8goligofructose
 Cohort2:Dailydoseof8ginulinand
-wheatbread(12wk)
+wheatbread
 whole-grainpastavs.low-ﬁberreﬁned
 Cohort1:High-ﬁberryebreadand
 
@@ -511,7 +511,7 @@ Cohorts1&2:
 
 3cohorts:
 
-Korpelaetal.(2014)
+Korpelaetal.
 
 syndromeand/orobesity)
 Humans(78adultswithmetabolic
@@ -526,7 +526,7 @@ Model
 
 Dietaryintervention
 
-(15)
+
 
 Fiber
 
@@ -544,11 +544,11 @@ Onlymicrobiotaresponse
 
 Intervention
 
-Humans(30healthyadults)
+Humans
 
-(5g/d&8g/d)inulinvs.placebo(8g/d
+nulinvs.placebo(8g/d
 
-Kolidaetal.(2007)
+Kolidaetal.
 
 maltodextrin)for2wkeach
 
@@ -558,11 +558,11 @@ Onlymicrobiotaresponse
 
 Intervention
 
-Humans(10healthyadults)
+Humans
 
 HP-inulinvs.maltodextrinfor2wkeach
 
-Tuohyetal.(2001)
+Tuohyetal.
 
 Bacteroidesandmicrobiotastability
 Associationsfoundwithbaseline
@@ -570,17 +570,17 @@ Associationsfoundwithbaseline
 antiproliferationability
 concentrations,genotoxicity,
 
-Fiberintake:High(18.5g/d)andlow(6g/d)
+Fiberintake:High
 
 SCFAproduction,ammonia
 
 Intervention
 
-Humans(22healthyadults)
+Humans
 
-Palmdates(50g)vs.placebo
+Palmdatess.placebo
 
-Eidetal.(2015)(30)
+Eidetal.
 
 ChangeinBif.abundance(nodiscretecut-oﬀ)
 
@@ -588,11 +588,11 @@ Onlymicrobiotaresponse
 
 Intervention
 
-Humans(31healthyadults)
+Humans
 
 Partiallyhydrolyzedguargum
 
-Tuohyetal.(2007)
+Tuohyetal.
 
 each
 (maltodextrin-dextrose,37.1g)for3wk
@@ -610,15 +610,15 @@ oligosaccharides,
 fructo-oligosaccharides,soybean
 carbohydrates(NDCH)(short-chain
 
-(32)
 
-(31)
 
-(29)
 
-(28)
 
-(27)
+
+
+
+
+
 
 ChangeinBif.abundance(nodiscretecut-oﬀ)
 
@@ -626,27 +626,27 @@ Onlymicrobiotaresponse
 
 Intervention
 
-Humans(200healthyadults)
+Humans
 
 Phase1:1of7nondigestible
 
-Bouhniketal.(2004)
+Bouhniketal.
 
 Onlymicrobiotaresponse
 
 Intervention
 
-Humans(18healthyadults)
+Humans
 
 GOS(increasingdosage:0,2.5,5,10g)for
 
-Davisetal.(2011)
+Davisetal.
 
 FecalSCFAs
 
 Intervention
 
-Humans(20healthyadults)
+Humans
 
 RS2(unmodiﬁedpotatostarch)at
 
@@ -655,18 +655,18 @@ Venkataramaran
 3wkeach
 
 10d
-increasingdoses(12g,24g,48g)for
+increasingdosesor
 
-etal.(2016)(26)
+etal.
 
 TDF)for4wkeach
 mixtureofthe2(BR+WGB,11.5g
 brownrice(BR,4.4gTDF)vs.equal
 Whole-grainbarley(WGB,18.7gTDF)vs.
 
-(25)
 
-Martinezetal.(2013)
+
+Martinezetal.
 
 ChangeinplasmaIL-6:terciles
 
@@ -674,7 +674,7 @@ Bodycomposition,PPGR,lipidproﬁle,
 
 Intervention
 
-Humans(28healthyadults)
+Humans
 
 hsCRP,IL-6,fecalSCFAs
 
@@ -682,15 +682,15 @@ Microbiomeonly
 
 Intervention
 
-Humans(10healthyadults)
+Humans
 
 RS2(Hi-Maize)vs.RS4(wheat)vs.control
 
-Martinezetal.(2010)
+Martinezetal.
 
 (nativestarch)eachfor3wk
 
-(77)
+
 
 discretedeﬁnition)
 
@@ -712,11 +712,11 @@ Cellgenotoxicity,SCFAs
 
 Intervention
 
-Humans(19healthyadults)
+Humans
 
 10gvs.40gdietaryﬁberfor5deach
 
-Tapetal.(2015)(24)
+Tapetal.
 
 coordinates(nodiscretecut-oﬀ)
 
@@ -728,7 +728,7 @@ FecalSCFAs,insulinsensitivity
 
 Intervention
 
-Humans(14obeseadultmales)
+Humans
 
 Respondercriteria
 
@@ -748,11 +748,11 @@ type3)vs.controlleddietw/nonstarch
 controlleddietw/resistantstarch(RS,
 Standardweightmaintenancediet(M)vs.
 
-(2011)(23)
-Walkeretal.
-(22)and
 
-Salonenetal.(2014)
+Walkeretal.
+nd
+
+Salonenetal.
 
 6 Hughes et al.
 
@@ -832,7 +832,7 @@ Humans(13overweight
 
 Longitudinalinterventionincluding
 
-Pieningetal.(2018)
+Pieningetal.
 
 Supplementeddiet
 Controlled
@@ -844,21 +844,21 @@ Standardizeddiet
 Controlled
 Cross-over
 
-Humans(34CRON,198AMER)
+Humans
 of5AMERindividuals)
 humanfecesfrom1of5CRONor1
 
-follow-up(3mopostintervention)
-(7d),calorie-restricteddiet(60d),then
-hypercaloricdiet(30d),Eucaloricdiet
+follow-up
+then
+hypercaloricdietEucaloricdiet
 
 restriction(AMER)
 nutrition(CRON)vs.nodietary
 Chroniccalorierestrictionw/adequate
 
-(43)
 
-(42)
+
+
 
 Valueandchangeincommunityindicator
 
@@ -868,7 +868,7 @@ Intervention
 
 Mice(gnotobiotic,colonizedwith
 
-Griﬃnetal.(2017)
+Griﬃnetal.
 
 periods
 duringenergyrestrictionandstabilization
@@ -885,13 +885,13 @@ Humans(50overweightandobese
 
 Energyrestrictedvs.weightmaintenance
 
-Kongetal.(2013)
+Kongetal.
 
 adults)
 
-(6wkeach)
 
-(41)
+
+
 
 Genecount:High(>480,000)andlow
 
@@ -909,7 +909,7 @@ Energyrestricted,highproteinvs.weight
 
 adults)
 
-maintenance(6wkeach)
+maintenance
 
 Genecount:High(>480,000)andlow
 
@@ -925,13 +925,13 @@ Humans(49overweightandobese
 
 Energyrestricted,highproteinvs.weight
 
-Cotillardetal.(2013)
+Cotillardetal.
 
 adults)
 
-maintenance(6wkeach)
+maintenance
 
-(39)
+
 
 Energyrestrictionandexcess
 
@@ -941,11 +941,11 @@ Allylmercapturicacid(AMA)
 
 Intervention
 
-Humans(12healthyadults)
+Humans
 
-Inulin(10g/d)vs.noinulinfor3wkeach
+Inulins.noinulinfor3wkeach
 
-Fulleretal(2007)
+Fulleretal
 
 ammonia
 
@@ -955,7 +955,7 @@ FecalSCFAs,BCFAs,phenols,indoles,
 
 Intervention
 
-Humans(29healthyadults)
+Humans
 
 Agaveinulinvs.placebofor3wkeach
 
@@ -968,15 +968,15 @@ Inulinmetabolism
 concentrations(nodiscretecut-oﬀs)
 ChangeinBif.abundanceormetabolite
 
-p-cresol,15N,and(3H)-PEG
+p-cresol,15N,andPEG
 
-Humans(50healthyadults)
+Humans
 
-Lactulose(10g)vs.oligofructose-enriched
+Lactuloses.oligofructose-enriched
 
-inulin(10g)for4wk
+inulinor4wk
 
-(2008)(33)
+
 dePreteretal.
 
 Respondercriteria
@@ -1002,7 +1002,7 @@ Invitroculturingofisolatedstrains
 
 Inulin
 
-(2010)(10)
+
 Sonnenburgetal.
 
 supplementsprovided)
@@ -1035,12 +1035,12 @@ Randomized
 
 etal.)
 fromCotillard
-(40)(usingdata
-Shoaieetal.(2015)
+usingdata
+Shoaieetal.
 
-(35)
 
-(2015)(34)
+
+
 Holscheretal.
 
 TABLE1(Continued)
@@ -1070,7 +1070,7 @@ PPGR(nocutoﬀsstated)
 
 PPGR
 
-Humans(327adultswithoutdiabetes)
+Humans
 
 InterventionSupplementeddiet
 Phase2:Standardizeddiet
@@ -1104,7 +1104,7 @@ aboveusingpureedinfantfood(1wk
 Phase3:Randomcombinationsof
 wkperdietx3diets)
 Phase2:Newcombinationsofabove(2
-sugar)(2wkperdietx4diets)
+sugar)
 (polysaccharide)vs.sucrose(simple
 (protein)vs.cornoil(fat)vs.cornstarch
 Phase1:Varyingconcentrationsofcasein
@@ -1125,30 +1125,30 @@ high-plant-polysaccharide(LFPP)
 
 High-fat/high-sugarvs.low-fat,
 
-(2013)(12)
+
 LeChatelieretal.
-(2019)(57)
+
 
 Mendes-Soaresetal
 
-(54)
 
-Zeevietal.(2015)
 
-(2018)(50)
+Zeevietal.
+
+
 
 MuñizPedrogoetal.
 
-Zouetal(2019)(51)
+Zouetal
 
-(2015)(49)
+
 Carmodyetal.
 
-(47)
 
-(46)
 
-(45)
+
+
+
 
 Justlookingatlinearpredictionofchange
 
@@ -1162,9 +1162,9 @@ community)
 
 Bioactives,fermentedproducts,andotherdietarycomponents
 
-(52)
 
-Faithetal.(2011)
+
+Faithetal.
 
 Weightloss≥5%after3months
 
@@ -1188,7 +1188,7 @@ BMI,changeinmicrobiome
 
 InterventionStandardizeddiet
 
-Humans(41nonobeseadults)
+Humans
 
 andpriordietaryexposure
 
@@ -1216,7 +1216,7 @@ Humans(49overweightandobese
 
 Calorie-restricteddietvs.weight
 
-Daoetal.(2016)(48)
+Daoetal.
 
 Weightgain(nodiscretecut-oﬀ)
 
@@ -1226,7 +1226,7 @@ Mice(inbredstrains)
 
 High-fat/high-sucrosevs.controlchow(8
 
-Parksetal.(2013)
+Parksetal.
 
 2metabolicallydivergentstrains)
 phase:Transplantedmicrobiotaof
@@ -1235,7 +1235,7 @@ Mice(1stphase:8diﬀerentstrains,2nd
 phase:22wk,2ndphase:16wk)
 High-fat/high-sucrosevs.control(1st
 
-Kreznaretal.(2017)
+Kreznaretal.
 
 wk)
 
@@ -1255,11 +1255,11 @@ Weightloss,BMI,bodycomposition
 
 Intervention
 
-Humans(52overweightadults)
+Humans
 
 500kcal/ddeﬁcitdietwithhigh(1500mg
 
-Hjorthetal.(2019)
+Hjorthetal.
 
 Weightloss:High(>4kg)andlow(<2kg)
 
@@ -1273,9 +1273,9 @@ Standardizeddietadviceprovided
 
 Intervention
 
-Humans(36overweightadolescents)
+Humans
 
-Calorie-restricteddiet(10–40%)and
+Calorie-restricteddietnd
 
 Studydesign
 
@@ -1288,10 +1288,10 @@ Citation
 calcium/d)indairyproductsfor24wk
 calcium/d)vs.low(≤600mg
 
-(15–23kcal/kgbw/wk)for10wk
+or10wk
 increasedphysicalactivity
 
-(2009)(44)
+
 Santacruzetal.
 
 TABLE1(Continued)
@@ -1352,7 +1352,7 @@ Intervention
 lowestexcretors)
 glucoraphanin(from5highestand
 vivofermentationwith50μM
-Humans(23healthyadults)andex
+Humansndex
 
 urolithinmetabotype,UM)
 
@@ -1366,7 +1366,7 @@ Urolithinmetabotype(UM)andblood
 
 Intervention
 
-Humans(249healthyadults)
+Humans
 
 Trial1:30gwalnutsfor3d
 
@@ -1380,22 +1380,22 @@ Humans(115adult,premenopausal
 
 None
 
-Hullaretal.(2015)
+Hullaretal.
 
 cookedbroccoli
 
 Standardizedmealcontaining200gof
 
-Lietal.(2011)(61)
+Lietal.
 
-extract(1350mg/d)for3d
+extractor3d
 Trial3:3capsulesofpomegranate
-(450mg/d)for3d
+or3d
 Trial2:1capsulepomegranateextract
 
-(2019)(60)
 
-(13)
+
+
 
 women)
 
@@ -1403,11 +1403,11 @@ women)
 
 ENLexcretion:HighestandlowestENLtertiles
 
-8-PN:L(30%),M(55%),H(15%)
-Equol:L(33%),M(25%),H(42%)
-O-DMA:L(23%),M(51%),H(23%)
-ENL:L(61%),M(31%),H(8%)
-END:L(37%),M(51%),H(12%)
+8-PN:L
+Equol:L
+O-DMA:L
+ENL:L
+END:L
 diﬀerentmeans(cut-oﬀvaluesnotstated)
 (M),andlow(L)tercilesw/signiﬁcantly
 Metaboliteproduction:High(H),moderate
@@ -1420,7 +1420,7 @@ days1–4;nodiscretecut-oﬀ)
 dafterNASconsumptioncomparedwith
 Glycemicresponse(signiﬁcantdiﬀerence5–7
 
-(8-PN)
+
 (ENL),and8-prenylnaringenin
 O-DMA,Equol,END,enterolactone
 
@@ -1439,26 +1439,26 @@ Invitrofermentation(humanstool
 isoxanthohumol(IX)fromhops
 Soy(daidzein)andﬂax(SDG)extracts,
 
-(2007)(59)
+
 Possemiersetal.
 
 Intervention
 
-Humans(12healthyadults)
+Humans
 
-low-CAP(5mg/dchilipowder)vs.
+low-CAPs.
 
-Kangetal.(2016)
+Kangetal.
 
 Glycemicresponse
 
 Intervention
 
-Humans(7healthyadults)
+Humans
 
-Saccharin(5mg/kgBW)
+Saccharin
 
-Suezetal.(2014)
+Suezetal.
 
 urinaryTMAOinresponsetoeggsandbeef
 
@@ -1469,11 +1469,11 @@ TMAOproduction,bloodchemistry
 
 Intervention
 
-Humans(40healthyadultmales)
+Humans
 
-TMAO(6ozﬁsh)vs.choline(3eggs)vs.
+TMAOs.
 
-Choetal.(2017)
+Choetal.
 
 ornormalization)andNR(nochange)
 Changeincalprotectin:R(decrease∼10-fold
@@ -1487,7 +1487,7 @@ Humans(68childrenwithIBDand26
 
 anti-TNF-αmedication
 
-Kolhoetal.(2015)
+Kolhoetal.
 
 meaningfulimprovement)andNR<50.
 
@@ -1495,11 +1495,11 @@ ChangeinIBS-SSS:R≥50(clinically
 
 IBSsymptomseverityscore(IBS-SSS)
 
-Humans(61adultswithIBS)
+Humans
 
 LowFODMAPdietvs.TraditionalIBSdiet
 
-Bennetetal.(2018)
+Bennetetal.
 
 for4wk
 
@@ -1514,21 +1514,21 @@ Dietaryintervention
 Citation
 
 placebofor6wk
-high-CAP(10mg/dchilipowder)vs.
+high-CAPs.
 
 challengemeals
 servingsapplesauce)asindividual
-carnitine(6ozbeef)vs.control(fruit,2
+carnitines.control(fruit,2
 
-(58)
 
-(78)
 
-(62)
 
-(69)
 
-(55)
+
+
+
+
+
 
 TABLE1(Continued)
 
@@ -1560,9 +1560,9 @@ Studydesign
 urolithinmetabotype;WGB,whole-grainbarley;WL,weight-loss;WS,weightstabilization;WTP,dietofwholegrains,traditionalChinesemedicinalfoods,andprebiotics;8-PN,8-prenylnaringenin.
 glucose;SSS,IBSsymptomseverityscore;T2D,type2diabetes;TACD,TAG,orTG,triacylglyceridesortriglyceridestypicalAmericanchildhooddiet;TC,totalcholesterol;TDF,totaldietaryﬁber;TMAO,trimethylamineN-oxide;TSH,thyroidstimulatinghormone;UM,
 partiallyhydrolyzedguargum;PPGR,postprandialglucoseresponse;PYY,peptideYY;R,responders;RS,resistantstarch;RS2/3/4,resistantstarchtype-2,-3,-4;SDG,secoisolariciresinoldiglucoside;SNP,singlenucleotidepolymorphism;SSPG,steadystateplasma
-nitrogen-15(15N),nondigestiblecarbohydrate;NND,newNordicdiet;NR,nonresponders;O-DMA,O-desmethylangolensin;oGTT,oralglucosetolerancetest;P/Bratio,PrevotellatoBacteroidesratio;PEMT,phosphatidylethanolamineN-methyltransferase;PHGG,
+nitrogen-15nondigestiblecarbohydrate;NND,newNordicdiet;NR,nonresponders;O-DMA,O-desmethylangolensin;oGTT,oralglucosetolerancetest;P/Bratio,PrevotellatoBacteroidesratio;PEMT,phosphatidylethanolamineN-methyltransferase;PHGG,
 inﬂammatoryboweldisease;IBS,irritablebowelsyndrome;IR,insulinresistant;IS,insulinsensitive;ITC,isothiocyanate;IX,isoxanthohumol;LDH,lactatedehydrogenase;LDL-C,LDL-cholesterol;LFPP,low-fat,high-plat-polysaccharide;M,maintenance;NDCH,
-wideassociationstudy;HbA1c,hemoglobinA1c;HDL-C,HDL-cholesterol;[3H]-PEG,[3H]-polyethyleneglycol;HOMA,homeostaticmodelassessment;HP-inulin,highperformanceinulin;hsCRP,high-sensitivityC-reactiveprotein;iAUC,incrementalAUC;IBD,
+wideassociationstudy;HbA1c,hemoglobinA1c;HDL-C,HDL-cholesterol;polyethyleneglycol;HOMA,homeostaticmodelassessment;HP-inulin,highperformanceinulin;hsCRP,high-sensitivityC-reactiveprotein;iAUC,incrementalAUC;IBD,
 FMP,fermentedmilkproduct;FODMAP,fermentableoligosaccharides,disaccharides,monosaccharides,andpolyols;FOS,fructo-oligosaccharides;GGT,gamma-glutamyltranspeptidase;GLP-1,glucagon-likepeptide-1;GOS,galacto-oligosaccharides;GWAS,genome
 basalmetabolicrate;BP,bloodpressure;BR,brownrice;bw,bodyweight;CIV,communityindicatorvalue;CRON,chroniccalorierestrictionwithadequatenutrition;CRP,C-reactiveprotein;END,enterodiol;ENL,enterolactone;FIAF,fastinginducedadiposefactor;
 1ADD,averageDanishdiet;ALT,alanineaminotransferase;AMA,allylmercapturicacid;AMER,nodietaryrestriction;AST,aspartateaminotransferase;AUC,areaunderthereceiveroperatingcharacteristiccurve;BCFA,branched-chainfattyacid;Bif,Bifidobacteria;BMR,
@@ -1574,25 +1574,25 @@ Liverfattospleenfatratio(LF/SF),
 PEMTpromoterSNPrs12325817
 
 choline
-repletion(850mg/70kgbw,10d)
+repletion
 depletion(<50mg/70kgbw,42d)vs.
 
-Humans(15femaleadults)
+Humans
 
-Baseline(550mg/70kgbw,10d)vs.
+Baselines.
 
-Spenceretal.(2011)
+Spenceretal.
 
 Abdominalpainfrequency
 
 Intervention
 
-Humans(33childrenwithIBS)
+Humans
 
 childhooddiet(TACD)for48heach
 LowFODMAPdietvs.typicalAmerican
 
-(2015)(56)
+
 Chumpitazietal.
 
 improvementduringeitherintervention)
@@ -1610,7 +1610,7 @@ HbA1c,insulinsensitivity,bileacids,
 
 Intervention
 
-Humans(46adultswithT2D)
+Humans
 
 bodyfatdistribution
 liverfatcontent,bodycomposition,
@@ -1621,9 +1621,9 @@ Onlymicrobiotaresponse
 
 InterventionSupplementeddiet
 
-Humans(150adults)
+Humans
 
-Colitisscore:R(0–3)andNR(≥4)
+Colitisscore:R
 
 CecalpH,SCFA,colitisscores
 
@@ -1633,17 +1633,17 @@ Mice(T-bet-/-Rag2-/-versuscontrol
 
 Fermentedmilkproduct(BFMP,
 
-Veigaetal.(2010)
+Veigaetal.
 
 Rag2-/-)
 
-Mobinietal.(2017)
+Mobinietal.
 
-Volokhetal(2019)
+Volokhetal
 
 DSM17938for12wk
-(1010CFU/d)Lactobacillusreuteri
-Placebovs.low(108CFU/d)vs.high
+actobacillusreuteri
+Placebovs.lows.high
 
 days
 Bif.animalissubsp.lactisBB-12)for30
@@ -1663,9 +1663,9 @@ Totalcholesterol(TC,primary
 
 Intervention
 
-Humans(16geriatricsubjects)
+Humans
 
-Senanetal.(2015)
+Senanetal.
 
 (increaseinTCof≥2.509mg/dL)
 <1.72mg/dLchangeinTC)andNR
@@ -1684,7 +1684,7 @@ Rats
 
 Fermentedmilkproduct(FMP)
 
-Zhangetal.(2016)
+Zhangetal.
 
 Standardizeddiet
 Parallel
@@ -1716,19 +1716,19 @@ Parallel
 Controlled
 Randomized
 
-(53)
 
-(67)
 
-(68)
 
-(66)
 
-(65)
 
-(64)
 
-(63)
+
+
+
+
+
+
+
 
 Probioticcolonization
 
@@ -1740,7 +1740,7 @@ Humans(29healthyadults,10naïve,
 
 Probiotic(Bifidobacteriumbifidum,
 
-Zmoraetal.(2018)
+Zmoraetal.
 
 Respondercriteria
 
@@ -1808,14 +1808,14 @@ interest is provided)
 
 Western diet, etc.)
 
-and house-keeping function in bacteria (80). Protocols such
-as multilocus sequence typing (MLST) (81) may also rely
+and house-keeping function in bacteria  Protocols such
+as multilocus sequence typing (MLST) may also rely
 on multiple house-keeping genes. This technique, however,
 requires either a completely sequenced bacterial genome or
 one that contains all the loci necessary for MLST (typically
-7 loci) (81) and, due to the variability of house-keeping genes,
+7 loci) and, due to the variability of house-keeping genes,
 does not provide sufficient discrimination except between
-closely related bacteria (82).
+closely related bacteria 
 
 Before any of these techniques are implemented, sam-
 ples are first subjected to PCR, amplifying the genetic
@@ -1826,7 +1826,7 @@ provide relative abundance of the gut microbial taxa. In
 contrast, qPCR, or real-time PCR, measures amplification of
 DNA in real-time using fluorescence of hybridized probes
 specific for individual taxa, allowing for more accurate
-quantification (74).
+quantification 
 
 Once amplified, DNA can be used for a variety of methods
 to compare and identify samples. Denaturing gradient gel
@@ -1838,7 +1838,7 @@ these methods can be useful for checking the stability of
 dominant members and clustering communities according
 to these dominant members, they do not provide direct
 phylogenetic identification and it is difficult to relate banding
-patterns to changes in particular species (83, 84). When
+patterns to changes in particular species  When
 coupled with 16S rRNA sequencing, these methods can
 provide more specific composition information. DNA mi-
 croarrays, which utilize oligonucleotide probes immobilized
@@ -1849,7 +1849,7 @@ to potential cross-hybridization
 (hybridization of multiple probes to single targets), can have
 difficulty detecting low abundance taxa, and is limited to
 identifying species that will hybridize to the probes provided
-on the slide (74).
+on the slide 
 
 Sequencing has become the most widely adopted method
 for taxonomic identification. Direct sequencing of the 16S
@@ -1858,15 +1858,15 @@ formation. Alternatively, metagenomic sequencing provides
 information regarding all genes present in the sample (i.e.
 composition and function). Although advances have led to
 
-a substantial reduction in the cost of direct sequencing (85),
+a substantial reduction in the cost of direct sequencing 
 metagenomic technologies and other “omics” techniques,
 such as metatranscriptomics, that require much greater
-sequencing depth (86, 87) remain costly. A challenge for both
+sequencing depth remain costly. A challenge for both
 methods is that they are computationally intense and require
 expertise to analyze the data that are generated. Additionally,
 the bioinformatics techniques used for analysis can have a
 significant effect on the results and interpretation of raw data
-(75).
+
 
 The appropriate methods to use depend on the resources
 available as well as the features of the microbiome being
@@ -1879,26 +1879,26 @@ Normalization and transformation methods for gut
 microbiome data.
 Microbiota sequence count data often require normalization
 and/or rarefaction to avoid biases due to uneven sequencing
-depth (88) and to allow the comparison of data from
-different samples (89). The most common normalization
+depth and to allow the comparison of data from
+different samples  The most common normalization
 technique, total sum scaling (TSS), divides the number of
 reads assigned to a certain taxa by the total number of reads
-in the sample (90). This method, although straightforward,
+in the sample  This method, although straightforward,
 has been shown to bias estimates in some data sets due
-to differential amplification efficiency of certain taxa (88).
+to differential amplification efficiency of certain taxa 
 Cumulative-sum scaling (CSS) divides raw counts by the
 cumulative sum of counts up to a percentile determined by
-the nature of the data set (88). Data can also be rarefied, rather
+the nature of the data set  Data can also be rarefied, rather
 than scaled. Rarefying draws randomly without replacement
 from each sample such that all samples then have the
 same total count and excludes samples with total counts
-below that defined threshold (89). Rarefaction curves can
+below that defined threshold  Rarefaction curves can
 provide guidance to determine proper rarefaction depth for
 a specific data set but, depending on how much data is
-removed, rarefying can reduce statistical power (89) and has
-been denounced by some (91). The choice of normalization
+removed, rarefying can reduce statistical power and has
+been denounced by some  The choice of normalization
 method depends on data characteristics such as library
-size (89).
+size 
 
 Another issue is the distribution of the data. If studies
 plan to utilize parametric statistical tests, such as a t-test
@@ -1918,7 +1918,7 @@ prediction
 
 Statistical methods
 
-Korpela et al. (2014)
+Korpela et al. 
 
 Microbiota composition (HITChip microarray)
 
@@ -1930,9 +1930,9 @@ Citation
 
 Fiber
 
-(15)
 
-Korem et al. (2017)
+
+Korem et al. 
 
 Microbiota composition and function (16S and
 
@@ -1940,13 +1940,13 @@ Prediction
 
 Linear mixed model
 
-(16)
+
 
 metagenomics)
 
-Smits et al. (2016) (17)
+Smits et al. 
 
-Microbiota composition (16S)
+Microbiota composition 
 
 Prediction
 
@@ -2001,14 +2001,14 @@ Co-inertia using RV coeﬃcient
 Wilcoxon signed-rank test
 Spearman correlation
 
-Hjorth et al. (2017) (18) Microbiota enterotype (Prevotella to Bacteroides
+Hjorth et al. Microbiota enterotype (Prevotella to Bacteroides
 (P/B) ratio, qPCR)
 
 Association
 
 Parametric (t-test) or nonparametric (Wilcoxon
 
-Roager et al. (2014)
+Roager et al. 
 
 Microbiota enterotype (Prevotella to Bacteroides
 
@@ -2016,11 +2016,11 @@ Association
 
 Mann–Whitney U test or unpaired t-test Wilcoxon
 
-(19)
+
 
 (P/B) ratio, qPCR)
 
-Zhao et al. (2018) (20)
+Zhao et al. 
 
 Microbiota composition and function
 
@@ -2029,9 +2029,9 @@ Association
 (metagenomics)
 
 Kovatcheva-Datchary
-et al. (2015) (21)
+et al. 
 
-Microbiota composition (16S and 16S qPCR) and
+Microbiota composition and
 function (shotgun metagenomics, MG-RAST)
 
 Association
@@ -2044,7 +2044,7 @@ qPCR)
 
 qPCR)
 
-Chen et al. (2017) (9)
+Chen et al. 
 
 Microbiota enterotype (Prevotella or Bacteroidetes,
 
@@ -2052,9 +2052,9 @@ Association
 
 RDA
 
-Salonen et al. (2014)
-(22) and Walker
-et al. (2011) (23)
+Salonen et al. 
+and Walker
+et al. 
 
 Microbiota composition (HITChip microarray,
 
@@ -2062,7 +2062,7 @@ Association
 
 Linear mixed models (random eﬀects regression,
 
-Tap et al. (2015) (24)
+Tap et al. 
 
 Microbiome composition (qPCR, 16S) and
 
@@ -2070,7 +2070,7 @@ Association
 
 function (metatranscriptomics)
 
-Martinez et al. (2010)
+Martinez et al. 
 
 Microbiome composition (16S, DGGE, Bif.-speciﬁc
 
@@ -2078,15 +2078,15 @@ Association
 
 1-way ANOVA
 
-Martinez et al. (2013)
+Martinez et al. 
 
-Microbiota composition (16S)
+Microbiota composition 
 
 Venkataramaran et al.
 
-Microbiome composition (16S)
+Microbiome composition 
 
-(2016) (26)
+
 
 Association
 
@@ -2099,7 +2099,7 @@ Random forests
 LEfSe
 ANOVA
 
-Davis et al. (2011) (27)
+Davis et al. 
 
 Microbiome composition (plate counts,
 
@@ -2107,7 +2107,7 @@ Association
 
 PCR-DGGE, qPCR)
 
-Bouhnik et al. (2004)
+Bouhnik et al. 
 
 Microbiota composition (plate counts)
 
@@ -2115,11 +2115,11 @@ Association
 
 ANOVA
 
-(77)
 
-(25)
 
-(28)
+
+
+
 
 Wilcoxon signed-rank test
 Bonferroni test
@@ -2130,13 +2130,13 @@ Bonferroni test
 
 Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
 
-(33)
 
-(34)
 
-(43)
 
-(44)
+
+
+
+
 
 TABLE 3 (Continued)
 
@@ -2144,8 +2144,8 @@ Citation
 
 Microbiome measures
 
-Tuohy et al. (2007) (29) Microbiome composition (FISH)
-Eid et al. (2015) (30)
+Tuohy et al. 
+Eid et al. 
 
 Microbiota composition (FISH)
 
@@ -2155,9 +2155,9 @@ prediction
 Association
 Association
 
-Tuohy et al. (2001) (31) Microbiome composition (FISH)
-Kolida et al. (2007) (32) Microbiota composition (FISH)
-de Preter et al. (2008)
+Tuohy et al. 
+Kolida et al. 
+de Preter et al. 
 
 Microbiota composition (DGGE, qPCR)
 
@@ -2173,19 +2173,19 @@ Association
 
 Paired t-test
 
-(2010) (10)
+
 
 (protein expression)
 
-Holscher et al. (2015)
+Holscher et al. 
 
-Microbiota composition (16S)
+Microbiota composition 
 
 Association
 
 Linear mixed models
 
-Fuller et al. (2007) (35)
+Fuller et al. 
 
 Microbiota composition (Bifidobacteria
 
@@ -2197,7 +2197,7 @@ Energy restriction and excess
 
 abundance by qPCR)
 
-Cotillard et al. (2013)
+Cotillard et al. 
 
 Microbiota richness and composition
 
@@ -2205,7 +2205,7 @@ Prediction
 
 PCA
 
-(39)
+
 
 (metagenomic sequencing)
 
@@ -2230,8 +2230,8 @@ Internal cross-validation + independent test
 cohort
 AUC criterion
 
-Shoaie et al. (2015)
-(40) (using data
+Shoaie et al. 
+(using data
 from Cotillard
 et al.)
 
@@ -2243,7 +2243,7 @@ CASINO
 
 (metagenomic sequencing)
 
-Kong et al. (2013) (41)
+Kong et al. 
 
 Microbiota composition (qPCR of 7 bacteria)
 
@@ -2251,11 +2251,11 @@ Prediction
 
 BN analysis
 
-Griﬃn et al. (2017) (42) Microbiota richness, composition (16S)
+Griﬃn et al. 
 
-Piening et al. (2018)
+Piening et al. 
 
-Microbiota composition (16S and metagenomics)
+Microbiota composition 
 
 Prediction
 
@@ -2270,7 +2270,7 @@ Random forests
 
 Internal cross-validation
 
-Santacruz et al. (2009)
+Santacruz et al. 
 
 Microbiota composition (qPCR)
 
@@ -2278,13 +2278,13 @@ Association
 
 Mann–Whitney U test
 
-Hjorth et al. (2019) (45) Microbiota composition (16S)
+Hjorth et al. 
 
 Association
 
 1-way ANOVA
 
-Kreznar et al. (2017)
+Kreznar et al. 
 
 Microbiota composition and function (16S,
 
@@ -2292,17 +2292,17 @@ Association
 
 ANOVA
 
-(46)
+
 
 metagenomics)
 
-Parks et al. (2013) (47)
+Parks et al. 
 
-Microbiota composition (16S)
+Microbiota composition 
 
 Association
 
-Dao et al (2016) (48)
+Dao et al 
 
 Microbiota composition and richness
 
@@ -2313,13 +2313,13 @@ BN
 (quantitative metagenomics, (Akkermansia
 muciniphila abundance also by qPCR)
 
-Carmody et al. (2015)
+Carmody et al. 
 
-Microbiota composition (16S) and function
+Microbiota composition and function
 
 Association
 
-(49)
+
 
 (PICRUSt)
 
@@ -2435,7 +2435,7 @@ prediction
 
 Statistical methods
 
-Zou et al (2019) (51)
+Zou et al 
 
 Microbiota composition and function
 
@@ -2445,13 +2445,13 @@ Wilcoxon rank-sum testPearson’s chi-square
 
 Muñiz Pedrogo
 
-et al. (2018) (50)
+et al. 
 
 (metagenomics)
 
 (PICRUSt)
 
-Microbiota composition (16S) and function
+Microbiota composition and function
 
 Association
 
@@ -2464,7 +2464,7 @@ Wilcoxon signed-rank
 
 Bioactives, fermented products, and other dietary components
 
-Faith et al. (2011) (52)
+Faith et al. 
 
 Microbiota composition (shotgun sequencing)
 
@@ -2472,7 +2472,7 @@ Prediction
 
 Linear model
 
-Zeevi et al. (2015) (54)
+Zeevi et al. 
 
 Microbiota composition and function (16S,
 
@@ -2492,9 +2492,9 @@ Prediction
 
 Pearson correlationAUC criterionStochastic
 
-(2019) (57)
+
 Le Chatelier et al.
-(2013) (12)
+
 
 (metagenomics)
 
@@ -2506,7 +2506,7 @@ Prediction
 
 DBA score
 
-Bennet et al. (2018)
+Bennet et al. 
 
 Microbiota compostion (GA-map Dysbiosis Test)
 
@@ -2514,33 +2514,33 @@ Prediction
 
 OPLS-DA
 
-(55)
 
-Kolho et al. (2015) (69) Microbiome composition (microarray and qPCR)
+
+Kolho et al. 
 
 Prediction
 
 Linear mixed eﬀect models
 
-Cho et al. (2017) (62)
+Cho et al. 
 
-Microbiota composition (16S)
-
-Association
-
-ANOVA
-
-Suez et al. (2014) (78)
-
-Microbiota composition (16S)
+Microbiota composition 
 
 Association
 
 ANOVA
 
-Kang et al. (2016) (58)
+Suez et al. 
 
-Microbiota composition (16S) and function
+Microbiota composition 
+
+Association
+
+ANOVA
+
+Kang et al. 
+
+Microbiota composition and function
 
 Association
 
@@ -2549,7 +2549,7 @@ ANOVA
 (PICRUSt)
 
 Possemiers et al.
-(2007) (59)
+
 
 Microbiota composition (qPCR)
 
@@ -2557,17 +2557,17 @@ Association
 
 Spearman correlation
 
-Hullar et al. (2015) (13) Microbiome composition (16S)
+Hullar et al. 
 
 Association
 
 Romo-Vaquero et al.
 
-Microbiome composition (16S)
+Microbiome composition 
 
 Association
 
-(2019) (60)
+
 
 14 Hughes et al.
 
@@ -2620,13 +2620,13 @@ Welch’s t test
 PCA
 Linear model
 
-Senan et al. (2015) (65) Microbiota composition (16S, metagenomics) and
+Senan et al. and
 
 Association
 
 Paired t-tests
 
-Veiga et al. (2010) (66)
+Veiga et al. 
 
 Lactobacilli abundance (plating, qPCR)
 Microbiota composition (16S, qPCR, RT-qPCR,
@@ -2637,32 +2637,32 @@ Association
 
 Mann–Whitney U test
 
-Volokh et al. (2019)
+Volokh et al. 
 
-Microbiota composition (16S)
-
-Association
-
-Mobini et al. (2017)
-
-Microbiota composition (16S)
+Microbiota composition 
 
 Association
 
-(68)
+Mobini et al. 
 
-(67)
+Microbiota composition 
+
+Association
+
+
+
+
 
 Chumpitazi et al.
-(2015) (56)
+
 Spencer et al.
-(2011) (53)
+
 
 (PICRUSt)
 
 (metagenomics)
 
-Microbiota composition (16S) and function
+Microbiota composition and function
 
 Association
 
@@ -2684,13 +2684,13 @@ P/B ratio, Prevotella to Bacteroides ratio; PAM, partitioning around medoids; PC
 PERMANOVA, permutational analysis of variance; PICRUSt, phylogenetic investigation of communities by reconstruction of unobserved states; PLSDA, partial least squares
 discriminant analysis; RDA, redundancy analysis; ROC, receiver operating characteristic; T-RFLP, terminal restriction fragment length polymorphism.
 
-using an arcsine square root transformation (92), which
+using an arcsine square root transformation  which
 is the transformation used by MaAsLin (multivariate as-
-sociation with linear models) (93), a bioinformatics tool
+sociation with linear models)  a bioinformatics tool
 used by researchers to discover associations between clinical
 variables and the microbiome. For a more comprehensive
 
-review of such tools, please refer to Mallick et al. (94).
+review of such tools, please refer to Mallick et al. 
 Log transformation is another commonly used method,
 but as it cannot be applied to zeros, this method also
 requires that zeros be replaced with small values (i.e. pseu-
@@ -2698,9 +2698,9 @@ docounts). The choice of pseudocount can influence results
 
 Gut microbiome and precision nutrition: Part I 15
 
-Zmora et al. (2018)
+Zmora et al. 
 
-(63)
+
 
 Microbiota composition and function (16S, qPCR,
 metagenomics, RNA-Seq) of stool as well as
@@ -2708,7 +2708,7 @@ lumen and mucosa samples
 
 Association
 
-Zhang et al. (2016) (64) Microbiota composition (qRT-PCR, 16S)
+Zhang et al. 
 
 Association
 
@@ -2723,7 +2723,7 @@ prediction
 
 Statistical methods
 
-Li et al. (2011) (61)
+Li et al. 
 
 Microbiome composition (T-RFLP 16S, qPCR)
 
@@ -2759,7 +2759,7 @@ distribution of the data (i.e. normal, nonnormal). The
 methods shown below provide a rough introduction to
 statistical approaches that are currently in use for these
 types of analyses. Detailed information on commonly used
-methods can be found in Van Belle et al. (98). Additional
+methods can be found in Van Belle et al.  Additional
 references are given as needed.
 
 Comparing 2 groups in association studies.
@@ -2796,20 +2796,20 @@ to targeted species identification. This complexity leads to
 many different ways in which responsive groups may be
 differentiated.
 
-Arumugam et al. (95) first introduced the concept of
+Arumugam et al. first introduced the concept of
 “enterotypes”, clustering individuals into 3 groups according
 to their dominant genera: Bacteroides, Prevotella, and Ru-
 minococcus. Although enterotypes have since been shown
-to exist more on a continuous scale (96), the Bacteroides
+to exist more on a continuous scale  the Bacteroides
 and Prevotella enterotypes have been consistently replicated
-across cohorts (97). The identification of the Ruminococcus
+across cohorts  The identification of the Ruminococcus
 enterotype is more dependent on clustering and modeling
-approaches (97). Studies, such as Hjorth et al. (18, 45), Roager
-et al. (19), Kovatcheva-Datchary et al. (21), Gu et al. (72),
-and Chen et al. (9), highlight measures such as enterotype or
+approaches  Roager
+et al. 
+and Chen et al.  highlight measures such as enterotype or
 the Prevotella to Bacteroides ratio. Diversity and richness are
 also common measures used to highlight differences between
-groups (12, 13, 21–24, 39, 40, 42, 44, 48, 62, 64, 65).
+groups 
 
 In addition to these broad groupings, individuals can
 also be classified according to the presence or absence of
@@ -2817,13 +2817,13 @@ specific taxa, taxonomic abundance, richness and diver-
 sity, functional genes, or other features. For example, the
 abundance of individual taxa, such as Bifidobacterium, has
 been shown to be a significant indicator of response to
-fiber-based interventions (27–29, 32–35) and combinations
+fiber-based interventions and combinations
 of taxa, Moryella, Acetanaerobacterium, Fastidiosipila, and
 Streptobacillus, were found to be associated with a higher
 production of the phytoestrogen metabolite enterolactone
-(13). Studies such as Zeevi et al. (54), Kovatcheva-Datchary
-et al. (21), Sonnenburg et al. (10), and Chumpitazi et al.
-(56) also highlight differences in the abundance of functional
+ Kovatcheva-Datchary
+et al.  and Chumpitazi et al.
+also highlight differences in the abundance of functional
 genes, attempting to get closer to the activity of bacteria.
 These levels of microbiome classification may be combined
 in order to give a comprehensive picture of the interactions
@@ -2848,7 +2848,7 @@ to other baseline characteristics) to devise models to predict
 16 Hughes et al.
 
 and there is currently no consensus on how to decide this
-value (89).
+value 
 
 how that individual will respond to a dietary intervention, or
 to design dietary advice suitable for the individual.
@@ -2874,15 +2874,15 @@ of multiple (categorical) independent variables on a single
 (i.e. 2-way, 3-way). This is useful when comparing multiple
 
 time points or when the number of groups exceeds 2, as
-in Bouhnik et al. (28), which tested 7 different types of
+in Bouhnik et al.  which tested 7 different types of
 nondigestible carbohydrates to determine their effect on
 the gut microbiota. Kruskal–Wallis is the nonparametric
 equivalent of the 1-way ANOVA and has been used to
 develop tools such as linear discriminant analysis effect size
-(LEfSe) (99). PERMANOVA is a nonparametric alternative
-to multivariate ANOVA (MANOVA) (100, 101). ANOSIM is
+(LEfSe)  PERMANOVA is a nonparametric alternative
+to multivariate ANOVA (MANOVA)  ANOSIM is
 also used to compare multiple independent variables with a
-multivariate dependent variable (101). It differs from PER-
+multivariate dependent variable  It differs from PER-
 MANOVA in that, instead of using the raw data, ANOSIM
 ranks values based on their similarity/dissimilarity. This
 minimizes the effects of outliers in the data, making it useful
@@ -2971,27 +2971,27 @@ ally, investigators often look for clustering of samples to
 identify groups. PCA and PCoA both utilize the raw data
 and are identical when the distance metric is Euclidean,
 though PCoA can be used with other distance metrics,
-such as UniFrac (weighted or unweighted) (102) or Bray–
-Curtis (103) that are used for microbiome data. Typically,
+such as UniFrac (weighted or unweighted) or Bray–
+Curtis that are used for microbiome data. Typically,
 observations are plotted on a scatterplot of the first 2
 principal coordinates and data points are labeled to identify
 biologically significant groups (e.g. disease, no disease).
 
-Clustering methods such as k-means clustering (104), par-
-titioning around medoids (PAM) (105), Calinski–Harabasz
-pseudo-F-statistic (106), hierarchical cluster analysis (HCA)
-(107), and Rousseeuw Silhouette index (108) are used to dis-
+Clustering methods such as k-means clustering  par-
+titioning around medoids (PAM)  Calinski–Harabasz
+pseudo-F-statistic 
+are used to dis-
 cover groups within the data. k-means clustering attempts to
 identify groups within the data by minimizing the distances
 between points within each group (defined by the mean
 of points within that group), and maximizing the distances
-between groups. Venkataraman et al. (26) used k-means
+between groups. Venkataraman et al. used k-means
 clustering to identify responsive and nonresponsive groups
 based on butyrate production before and during the fiber
 intervention. PAM is similar but, instead of taking the mean
 of groups, chooses one datapoint to serve as the “center”
 or medoid around which groups are formed. This method
-was used in Wu et al. (109) to identify enterotype clusters.
+was used in Wu et al. to identify enterotype clusters.
 Both k-means clustering and PAM require the input of a
 desired or suspected number of clusters and use Euclidian
 distances. In contrast, both the Calinski–Harabasz pseudo-
@@ -3011,11 +3011,11 @@ Variables may also be continuous values along a scale
 (e.g. weight, blood pressure), rather than categorical groups
 within a population. In these cases, various correlation meth-
 ods, such as Spearman, Pearson, Biweight midcorrelation
-(110), Procrustes analysis (111), or Co-inertia using the
+ or Co-inertia using the
 
 18 Hughes et al.
 
-RV coefficient (112) can be used to assess the association
+RV coefficient can be used to assess the association
 of the independent variable with a continuous outcome.
 An important point to remember is that correlation, as
 opposed to regression, makes no distinction between the
@@ -3033,14 +3033,14 @@ creasing or decreasing) and makes no assumption about dis-
 tributions. Thus, the Spearman correlation may be preferred
 for highly skewed outcomes. This may be useful when con-
 sidering microbiota abundance data, which is often highly
-skewed with an excess of zeros (113). Biweight midcorre-
+skewed with an excess of zeros  Biweight midcorre-
 lation also measures the correlation of pairs of univariate
 measurements but differs from both Pearson and Spearman
 correlations as it is based on the median of the data, rather
-than the mean, making it less sensitive to outliers (114).
+than the mean, making it less sensitive to outliers 
 
-Procrustes analysis (111) and Co-inertia using the RV
-coefficient (115) extend this idea to pairs of multivariate
+Procrustes analysis and Co-inertia using the RV
+coefficient extend this idea to pairs of multivariate
 measurements. Procrustes analysis, originally developed for
 comparing shapes, computes the distances between pairs of
 high-dimensional samples after centering and scaling. Co-
@@ -3061,8 +3061,8 @@ categorical variables. These include ANCOVA, regression,
 linear mixed models
 regression to
 dependent observations), canonical analysis of principal
-coordinates (CAP) (116), redundancy analysis (RDA) (117),
-and random forests (118). ANCOVA compares the means of
+coordinates (CAP) 
+and random forests  ANCOVA compares the means of
 a continuous dependent variable across levels of a categorical
 independent variable (i.e. experimental groups) whilst also
 controlling for the effects of other continuous variables (i.e.
@@ -3092,7 +3092,7 @@ outcome of interest. This can be used to determine the
 association between responder status and the abundance of
 one or more bacterial taxa.
 
-Generalized linear mixed models (119) are an extension
+Generalized linear mixed models are an extension
 of generalized linear models and may include both fixed
 and random effects. Random effects represent factors with
 levels that are considered to be randomly sampled from
@@ -3112,13 +3112,13 @@ significant differences in principal components between
 groups (i.e. categorical) as well as along a scale (i.e. contin-
 uous). This can be used to quantify the distance between
 the microbiota composition of different groups or individuals
-over time, as in Zhang et al. (64). RDA extends multiple linear
+over time, as in Zhang et al.  RDA extends multiple linear
 regression by summarizing the linear relations between mul-
 tiple dependent variables and multiple independent variables
 in a matrix, which is then incorporated into PCA. RDA could
 be used to examine the effect of different components of a
 dietary intervention on multiple taxa to identify microbes
-that are influenced by the diet, as done in Chen et al. (9).
+that are influenced by the diet, as done in Chen et al. 
 Random forests is a machine-learning technique that uses
 multiple decision trees, each built on random samples of the
 data, to estimate the mean value of the dependent variable.
@@ -3131,7 +3131,7 @@ leading to a conclusion regarding an outcome of interest
 (e.g. responder/nonresponder). This method may be used
 for classification (i.e. categorical outcomes) or regression
 (i.e. continuous outcomes). For instance, Venkataraman et
-al. (26) used random forest regression to identify asso-
+al. used random forest regression to identify asso-
 ciations between operational taxonomic unit abundances
 and butyrate concentration, both before and during fiber
 supplementation. Classification could be used to identify taxa
@@ -3145,8 +3145,8 @@ tiple comparisons. This is done to avoid false positives
 
 when conducting many comparisons simultaneously. Some
 common methods used to do this are the Bonferroni
-correction (120) and the Benjamini–Hochberg procedure
-(121). The Bonferroni correction takes the typical error rate
+correction and the Benjamini–Hochberg procedure
+ The Bonferroni correction takes the typical error rate
 (usually 0.05) and divides it by the number of tests to find
 the critical value (α). The Benjamini–Hochberg procedure
 instead controls the false discovery rate by ranking the raw
@@ -3177,7 +3177,7 @@ footnote in Table 4). Here, we describe additional methods
 that tend to be used exclusively when the modeling goal is
 prediction.
 
-Stochastic gradient boosting regression (122) uses deci-
+Stochastic gradient boosting regression uses deci-
 sion trees on random samples of the data, similar to random
 forests. However, instead of building multiple deep trees in
 parallel (i.e. at the same time), it builds many shallow trees,
@@ -3187,9 +3187,9 @@ previous trees in an additive manner to reduce “loss” or error.
 This method performs best when dimensionality is low (i.e.
 fewer input variables) whereas random forests may perform
 better when dimensionality is high (i.e. many input variables)
-(123).
 
-Bayesian network (BN) analysis (124) is a graphical model
+
+Bayesian network (BN) analysis is a graphical model
 that depicts the relations between variables and their prob-
 abilities or dependencies. For instance, a BN could depict
 the probability of a connection between a certain baseline
@@ -3198,7 +3198,7 @@ to one or many responses (e.g. SCFA production, glycemic
 response) (that also may be connected to one another within
 the network).
 
-Linear discriminant analysis (LDA) (125, 126) is similar
+Linear discriminant analysis (LDA) is similar
 to PCA/PCoA. However, in LDA, the groups of interest
 are known a priori and the axes represent
 the linear
@@ -3309,11 +3309,11 @@ separate the groups a posteriori).
 Partial least squares discriminant analysis (PLS-DA) and
 orthogonal projections to latent structures discriminant
 
-analysis (OPLS-DA) (127) are extensions of LDA. Both PLS-
+analysis (OPLS-DA) are extensions of LDA. Both PLS-
 DA and OPLS-DA may utilize weaker sources of variation
 to separate groups but OPLS-DA also eliminates variation
 that is unrelated to the separation of groups, creating a less
-complex model (128). Although these are powerful methods,
+complex model  Although these are powerful methods,
 they may force group separation at the expense of model
 
 FIGURE 5 Decision trees. Various methods of prediction such as random forests and stochastic gradient boosting use decision trees. In
@@ -3326,10 +3326,10 @@ previous ones.
 Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
 
 validity, relying on weaker sources of variability in the data
-set (128).
+set 
 
 Some studies have even devised their own methods for
-prediction. Le Chatelier et al. (12) devised the decisive
+prediction. Le Chatelier et al. devised the decisive
 bacterial abundance (DBA) score to predict
 individual
 responses based on the abundance of taxa known to be
@@ -3347,7 +3347,7 @@ Step 2: validation.
 In the validation step, the model is used to predict response
 in the individuals used to fit the model (internal cross-
 validation) or in new individuals (external validation) to
-evaluate model performance (129). When utilizing internal
+evaluate model performance  When utilizing internal
 cross-validation, a common practice is “leave-one-out” in
 which the model is fitted in an iterative process that utilizes
 all data minus one to predict the response of the left-out data
@@ -3363,8 +3363,8 @@ broad population.
 Model performance criteria.
 To assess the accuracy of the model, several performance
 criteria may be used (Table 5). The Akaike information
-criterion (AIC) (130) and Bayesian information criterion
-(BIC) (131) refine the selection of multiple models and assess
+criterion (AIC) and Bayesian information criterion
+(BIC) refine the selection of multiple models and assess
 their performance. Both methods provide an assessment
 of relative performance, rather than absolute accuracy. BIC
 includes a larger penalty for increased complexity (i.e.
@@ -3372,7 +3372,7 @@ numbers of parameters) in the model, typically resulting in
 a smaller model than AIC.
 
 In contrast, area under the receiver operating charac-
-teristic (ROC) (132, 133) curve (for models that predict
+teristic (ROC) curve (for models that predict
 binary outcomes) and proportion of variance explained by
 the model (R2) (for models predicting continuous outcomes)
 both assess the absolute accuracy of the model but do not
@@ -3387,12 +3387,12 @@ Mice offer a model in which differences in the gut microbiota
 may be studied in a controlled experimental context, allowing
 for the determination of causality and development of
 
-mechanistic hypotheses (134). For example, transplantation
+mechanistic hypotheses  For example, transplantation
 of isolated strains or communities of bacteria into germ-free
 mice is one of the best models in use to demonstrate causal
 relations between the gut microbiota and host metabolism
-(135). This approach has been used in studies such as
-Kovatcheva-Datchary et al. (21), which used stool samples
+ This approach has been used in studies such as
+Kovatcheva-Datchary et al.  which used stool samples
 from individuals who did (responders) or did not (nonre-
 sponders) exhibit improved glucose tolerance in response to
 barley kernel supplementation to colonize germ-free mice.
@@ -3410,7 +3410,7 @@ phenotypes.
 In vitro studies take place in an isolated system, allowing
 increased control over manipulation of conditions. This
 strategy has been utilized to investigate gut microbiome
-communities from humans (9, 59) and isolated strains (10)
+communities from humans 
 to determine the effect that differences in these taxa or
 communities have on the production of metabolites and
 fermentation of compounds.
@@ -3419,8 +3419,8 @@ Both animal and in vitro models have limitations when
 it comes to drawing conclusions about human health and
 nutrition as they lack the specific interactions present in
 the human supraorganism. For further information, readers
-are directed to additional reviews of animal (136, 137) and
-in vitro (138–140) models for human nutrition research.
+are directed to additional reviews of animal and
+in vitro models for human nutrition research.
 However, these techniques used in combination with human
 clinical trials will be crucial in the development of precision
 nutrition research and our understanding of the interaction
@@ -3433,7 +3433,7 @@ differ in what features of the microbiome are highlighted.
 Two meta-analyses have attempted to integrate results from
 multiple studies that have investigated the effects of the
 gut microbiota on human health using different laboratory
-methods and analysis strategies (141, 142). Such work is
+methods and analysis strategies  Such work is
 important to improve our understanding of how the results
 of these studies complement each other and how the features
 or methods used affect the results.
@@ -3445,7 +3445,7 @@ different scientific aims, which dictate the outcomes mea-
 sured and methods of microbiota analysis. The technology
 used for microbiota analysis is still developing but some
 work has been done to attempt to standardize protocols
-(76). However, more work is needed to develop procedures
+ However, more work is needed to develop procedures
 that minimize nonbiological variability due to laboratory
 
 Gut microbiome and precision nutrition: Part I 21
@@ -3456,79 +3456,79 @@ Gut microbiome and precision nutrition: Part I 21
 H, Prasad C, Kang JX, Nicoletti CF, Martinez JA. Guide and
 position of the International Society of Nutrigenetics/Nutrigenomics
 on personalized nutrition: Part 2—Ethics, challenges and endeavors of
-precision nutrition. J Nutrigenet Nutrigenomics 2016;9(1):28–46.
+precision nutrition. J Nutrigenet Nutrigenomics 2016;928–46.
 3. Kau AL, Ahern PP, Griffin NW, Goodman AL, Gordon JI. Human
 nutrition, the gut microbiome and the immune system. Nature
-2011;474(7351):327–36.
+2011;474327–36.
 
 4. Hooper LV, Littman DR, Macpherson AJ. Interactions between the
-microbiota and the immune system. Science 2012;336(6086):1268–73.
+microbiota and the immune system. Science 2012;3361268–73.
 5. Tremaroli V, Backhed F, Functional interactions between the gut
 
-microbiota and host metabolism. Nature 2012;489(7415):242–9.
+microbiota and host metabolism. Nature 2012;489242–9.
 
 6. Nicholson JK, Holmes E, Kinross J, Burcelin R, Gibson G, Jia W,
 Pettersson S. Host–gut microbiota metabolic interactions. Science
-2012;336(6086):1262–7.
+2012;3361262–7.
 
 7. Cryan JF, Dinan TG. Mind-altering microorganisms: the impact
 of the gut microbiota on brain and behaviour. Nat Rev Neurosci
-2012;13(10):701.
+2012;13701.
 
 8. Dinan TG, Cryan JF. The microbiome-gut-brain axis in health and
 
-disease. Gastroenterol Clin 2017;46(1):77–89.
+disease. Gastroenterol Clin 2017;4677–89.
 
 9. Chen T, Long W, Zhang C, Liu S, Zhao L, Hamaker BR. Fiber-
 utilizing capacity varies in Prevotella- versus Bacteroides-dominated
-gut microbiota. Sci Rep 2017;7(1):2594.
+gut microbiota. Sci Rep 2017;72594.
 
 10. Sonnenburg ED, Zheng H, Joglekar P, Higginbottom SK, Firbank
 SJ, Bolam DN, Sonnenburg JL. Specificity of polysaccharide use
 in intestinal Bacteroides species determines diet-induced microbiota
-alterations. Cell 2010;141(7):1241–52.
+alterations. Cell 2010;1411241–52.
 
 11. Possemiers S, Rabot S, Espín JC, Bruneau A, Philippe C,
 González-Sarrías A, Heyerick A, Tomás-Barberán FA, De
 Keukeleire D, Verstraete W. Eubacterium limosum activates
 isoxanthohumol from hops (Humulus lupulus L.) into the potent
 phytoestrogen 8-prenylnaringenin in vitro and in rat intestine. J Nutr
-2008;138(7):1310–6.
+2008;1381310–6.
 
 12. Le Chatelier E, Nielsen T, Qin J, Prifti E, Hildebrand F, Falony G,
 Almeida M, Arumugam M, Batto JM, Kennedy S, et al. Richness of
 human gut microbiome correlates with metabolic markers. Nature
-2013;500(7464):541–6.
+2013;500541–6.
 
 13. Hullar MA, Lancaster SM, Li F, Tseng E, Beer K, Atkinson C, Wahala
 K, Copeland WK, Randolph TW, Newton KM, et al. Enterolignan-
 producing phenotypes are associated with increased gut microbial
 diversity and altered composition in premenopausal women in
-the United States. Cancer Epidemiol Biomarkers Prev 2015;24(3):
+the United States. Cancer Epidemiol Biomarkers Prev 2015;24
 546–54.
 
 14. Grossman J, Mackenzie FJ. The randomized controlled trial: gold
 
-standard, or merely standard? Perspect Biol Med 2005;48(4):516–34.
+standard, or merely standard? Perspect Biol Med 2005;48516–34.
 15. Korpela K, Flint HJ, Johnstone AM, Lappi J, Poutanen K, Dewulf
 E, Delzenne N, de Vos WM, Salonen A. Gut microbiota signatures
 predict host and microbiota responses to dietary interventions in obese
-individuals. PLoS One 2014;9(6):e90702.
+individuals. PLoS One 2014;9e90702.
 
 16. Korem T, Zeevi D, Zmora N, Weissbrod O, Bar N, Lotan-Pompan M,
 Avnit-Sagi T, Kosower N, Malka G, Rein M, et al. Bread affects clinical
 parameters and induces gut microbiome-associated personal glycemic
-responses. Cell Metab 2017;25(6):1243–53 e5.
+responses. Cell Metab 2017;251243–53 e5.
 
 17. Smits SA, Marcobal A, Higginbottom S, Sonnenburg JL, Kashyap PC.
 Individualized responses of gut microbiota to dietary intervention
-modeled in humanized mice. mSystems 2016;1(5): e00098–16.
+modeled in humanized mice. mSystems 2016;1 e00098–16.
 
 18. Hjorth MF, Roager HM, Larsen TM, Poulsen SK, Licht TR, Bahl MI,
 Zohar Y, Astrup A. Pre-treatment microbial Prevotella-to-Bacteroides
 ratio, determines body fat loss success during a 6-month randomized
 controlled diet
-(Lond) 2017; 42(3):
+(Lond) 2017; 42
 Int
 580–3.
 
@@ -3539,10 +3539,10 @@ J Obes
 19. Roager HM, Licht TR, Poulsen SK, Larsen TM, Bahl MI. Microbial
 enterotypes, inferred by the Prevotella-to-Bacteroides ratio, remained
 stable during a 6-month randomized controlled diet intervention with
-the new Nordic diet. Appl Environ Microbiol 2014;80(3):1142–9.
+the new Nordic diet. Appl Environ Microbiol 2014;801142–9.
 20. Zhao L, Zhang F, Ding X, Wu G, Lam YY, Wang X, Fu H, Xue X, Lu C,
 Ma J. Gut bacteria selectively promoted by dietary fibers alleviate type
-2 diabetes. Science 2018;359(6380):1151–6.
+2 diabetes. Science 2018;3591151–6.
 
 procedures, analysis pipelines, and analytical methods. It
 may also be of interest to the field to determine how to
@@ -3597,659 +3597,3 @@ the literature review, and conceived and composed the
 manuscript. MLM, JPH, NLK, and MEK: provided content
 and formatting advice, and edited the final manuscript, and
 all authors: read and approved the final manuscript.
-
-References
-
-1. Wang DD, Hu FB. Precision nutrition for prevention and management
-of type 2 diabetes. Lancet Diabetes Endocrinol 2018;6(5):416–26.
-
-22 Hughes et al.
-
-Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
-
-38. Musso G, Gambino R, Cassader M. Interactions between gut
-microbiota and host metabolism predisposing to obesity and diabetes.
-Annu Rev Med 2011;62:361–80.
-
-39. Cotillard A, Kennedy SP, Kong LC, Prifti E, Pons N, Le Chatelier
-E, Almeida M, Quinquis B, Levenez F, Galleron N, et al. Dietary
-intervention impact on gut microbial gene richness. Nature
-2013;500(7464):585–8.
-
-40. Shoaie S, Ghaffari P, Kovatcheva-Datchary P, Mardinoglu A, Sen
-P, Pujos-Guillot E, de Wouters T, Juste C, Rizkalla S, Chilloux J,
-et al. Quantifying diet-induced metabolic changes of the human gut
-microbiome. Cell Metab 2015;22(2):320–31.
-
-41. Kong LC, Wuillemin PH, Bastard JP, Sokolovska N, Gougis S, Fellahi S,
-Darakhshan F, Bonnefont-Rousselot D, Bittar R, Dore J, et al. Insulin
-resistance and inflammation predict kinetic body weight changes in
-response to dietary weight loss and maintenance in overweight and
-obese subjects by using a Bayesian network approach. Am J Clin Nutr
-2013;98(6):1385–94.
-
-42. Griffin NW, Ahern PP, Cheng J, Heath AC, Ilkayeva O, Newgard
-CB, Fontana L, Gordon JI. Prior dietary practices and connections
-to a human gut microbial metacommunity alter responses to diet
-interventions. Cell Host Microbe 2017;21(1):84–96.
-
-43. Piening BD, Zhou W, Contrepois K, Rost H, Gu Urban GJ, Mishra
-T, Hanson BM, Bautista EJ, Leopold S, Yeh CY, et al. Integrative
-personal omics profiles during periods of weight gain and loss. Cell
-Syst 2018;6(2):157–70 e8.
-
-44. Santacruz A, Marcos A, Warnberg J, Marti A, Martin-Matillas M,
-Campoy C, Moreno LA, Veiga O, Redondo-Figuero C, Garagorri JM,
-et al. Interplay between weight loss and gut microbiota composition
-in overweight adolescents. Obesity (Silver Spring) 2009;17(10):
-1906–15.
-
-45. Hjorth M, Blædel T, Bendtsen L, Lorenzen JK, Holm JB, Kiilerich
-P, Roager HM, Kristiansen K, Larsen LH, Astrup A. Prevotella-to-
-Bacteroides ratio predicts body weight and fat loss success on 24-week
-diets varying in macronutrient composition and dietary fiber: results
-from a post-hoc analysis. Int J Obes 2019;43(1):149–57.
-
-46. Kreznar JH, Keller MP, Traeger LL, Rabaglia ME, Schueler KL,
-Stapleton DS, Zhao W, Vivas EI, Yandell BS, Broman AT, et al. Host
-genotype and gut microbiome modulate insulin secretion and diet-
-induced metabolic phenotypes. Cell Rep 2017;18(7):1739–50.
-
-47. Parks BW, Nam E, Org E, Kostem E, Norheim F, Hui ST, Pan C,
-Civelek M, Rau CD, Bennett BJ, et al. Genetic control of obesity and
-gut microbiota composition in response to high-fat, high-sucrose diet
-in mice. Cell Metab 2013;17(1):141–52.
-
-48. Dao MC, Everard A, Aron-Wisnewsky J, Sokolovska N, Prifti E,
-Verger EO, Kayser BD, Levenez F, Chilloux J, Hoyles L, et al.
-Akkermansia muciniphila and improved metabolic health during a
-dietary intervention in obesity: relationship with gut microbiome
-richness and ecology. Gut 2016;65(3):426–36.
-
-49. Carmody RN, Gerber GK, Luevano JM, Jr., Gatti DM, Somes L,
-Svenson KL, Turnbaugh PJ. Diet dominates host genotype in shaping
-the murine gut microbiota. Cell Host Microbe 2015;17(1):72–84.
-50. Muñiz Pedrogo DA, Jensen MD, Van Dyke CT, Murray JA, Woods
-JA, Chen J, Kashyap PC, Nehra V. Gut microbial carbohydrate
-metabolism hinders weight loss in overweight adults undergoing
-lifestyle intervention with a volumetric diet. Mayo Clin Proc
-2018;93(8):1104–10.
-
-51. Zou H., Wang D., Ren H., Fang C., Shi Z., Zhang P., Chen P., Wang J.,
-Yang H., Cai K., et al. Nonobese subjects of Bacteroides and Prevotella
-enterotypes responded differentially to calorie restriction intervention,
-bioRxiv. 2019; 514596
-
-52. Faith JJ, McNulty NP, Rey FE, Gordon JI. Predicting a human
-in gnotobiotic mice. Science
-
-gut microbiota’s response to diet
-2011;333(6038):101–4.
-
-53. Spencer MD, Hamp TJ, Reid RW, Fischer LM, Zeisel SH, Fodor
-AA. Association between composition of the human gastrointestinal
-microbiome and development of fatty liver with choline deficiency.
-Gastroenterology 2011;140(3):976–86.
-
-Gut microbiome and precision nutrition: Part I 23
-
-21. Kovatcheva-Datchary P, Nilsson A, Akrami R, Lee YS, De Vadder
-F, Arora T, Hallen A, Martens E, Bjorck I, Backhed F. Dietary
-fiber-induced improvement in glucose metabolism is associated with
-increased abundance of Prevotella. Cell Metab 2015;22(6):971–82.
-22. Salonen A, Lahti L, Salojarvi J, Holtrop G, Korpela K, Duncan SH,
-Date P, Farquharson F, Johnstone AM, Lobley GE, et al. Impact of
-diet and individual variation on intestinal microbiota composition and
-fermentation products in obese men. ISME J 2014;8(11):2218–30.
-23. Walker AW, Ince J, Duncan SH, Webster LM, Holtrop G, Ze X, Brown
-D, Stares MD, Scott P, Bergerat A, et al. Dominant and diet-responsive
-groups of bacteria within the human colonic microbiota. ISME J
-2011;5(2):220–30.
-
-24. Tap J, Furet JP, Bensaada M, Philippe C, Roth H, Rabot S, Lakhdari O,
-Lombard V, Henrissat B, Corthier G, et al. Gut microbiota richness
-promotes its stability upon increased dietary fibre intake in healthy
-adults. Environ Microbiol 2015;17(12):4954–64.
-
-25. Martinez I, Lattimer JM, Hubach KL, Case JA, Yang J, Weber CG,
-Louk JA, Rose DJ, Kyureghian G, Peterson DA, et al. Gut microbiome
-composition is
-linked to whole grain-induced immunological
-improvements. ISME J 2013;7(2):269–80.
-
-26. Venkataraman A, Sieber JR, Schmidt AW, Waldron C, Theis
-KR, Schmidt TM. Variable responses of human microbiomes to
-dietary supplementation with resistant starch. Microbiome 2016;4(1):
-33.
-
-27. Davis LM, Martinez I, Walter J, Goin C, Hutkins RW. Barcoded
-pyrosequencing reveals that consumption of galactooligosaccharides
-results in a highly specific bifidogenic response in humans. PLoS One
-2011;6(9):e25200.
-
-28. Bouhnik Y, Raskine L, Simoneau G, Vicaut E, Neut C, Flourié B,
-Brouns F, Bornet FR. The capacity of nondigestible carbohydrates
-to stimulate fecal bifidobacteria in healthy humans: a double-
-blind, randomized, placebo-controlled, parallel-group, dose-response
-relation study. Am J Clin Nutr 2004;80(6):1658–64.
-
-29. Tuohy KM, Kolida S, Lustenberger AM, Gibson GR. The prebiotic
-effects of biscuits containing partially hydrolysed guar gum and
-fructo-oligosaccharides—a human volunteer
-J Nutr
-2007;86(03):341.
-
-study. Br
-
-30. Eid N, Osmanova H, Natchez C, Walton G, Costabile A, Gibson
-G, Rowland I, Spencer JP. Impact of palm date consumption
-on microbiota growth and large intestinal health: a randomised,
-controlled, cross-over, human intervention study. Br
-J Nutr
-2015;114(8):1226–36.
-
-31. Tuohy KM, Finlay RK, Wynne AG, Gibson GR. A human volunteer
-study on the prebiotic
-effects of HP-inulin—faecal bacteria
-enumerated using fluorescent in situ hybridisation (FISH). Anaerobe
-2001;7(3):113–8.
-
-32. Kolida S, Meyer D, Gibson GR. A double-blind placebo-controlled
-study to establish the bifidogenic dose of inulin in healthy humans.
-Eur J Clin Nutr 2007;61(10):1189–95.
-
-33. de Preter V, Vanhoutte T, Huys G, Swings J, Rutgeerts P, Verbeke K.
-Baseline microbiota activity and initial bifidobacteria counts influence
-responses to prebiotic dosing in healthy subjects. Aliment Pharmacol
-Ther 2008;27(6):504–13.
-
-34. Holscher HD, Bauer LL, Gourineni V, Pelkman CL, Fahey GC, Jr.,
-Swanson KS. Agave inulin supplementation affects the fecal microbiota
-of healthy adults participating in a randomized, double-blind, placebo-
-controlled, crossover trial. J Nutr 2015;145(9):2025–32.
-
-35. Fuller Z, Louis P, Mihajlovski A, Rungapamestry V, Ratcliffe B,
-Duncan AJ. Influence of cabbage processing methods and prebiotic
-manipulation of colonic microflora on glucosinolate breakdown in
-man. Br J Nutr 2007;98(2):364–72.
-
-36. Makki K, Deehan EC, Walter J, Bäckhed F. The impact of dietary
-fiber on gut microbiota in host health and disease. Cell Host Microbe
-2018;23(6):705–15.
-
-37. Turnbaugh PJ, Ley RE, Mahowald MA, Magrini V, Mardis ER, Gordon
-JI. An obesity-associated gut microbiome with increased capacity for
-energy harvest. Nature 2006;444(7122):1027–31.
-
-Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
-
-bowel disease and its relation to inflammation. Am J Gastroenterol
-2015;110(6):921–30.
-
-70. Dethlefsen L, Relman DA. Incomplete recovery and individualized
-responses of
-the human distal gut microbiota to repeated
-antibiotic perturbation. Proc Natl Acad Sci 2011;108(Suppl 1):
-4554–61.
-
-71. Routy B, Le Chatelier E, Derosa L, Duong CP, Alou MT, Daillère R,
-Fluckiger A, Messaoudene M, Rauber C, Roberti MP. Gut microbiome
-influences efficacy of PD-1–based immunotherapy against epithelial
-tumors. Science 2018;359(6371):91–7.
-
-72. Gu Y, Wang X, Li J, Zhang Y, Zhong H, Liu R, Zhang D, Feng Q, Xie
-X, Hong J. Analyses of gut microbiota and plasma bile acids enable
-stratification of patients for antidiabetic treatment. Nat Commun
-2017;8(1):1785.
-
-73. Wong JM, De Souza R, Kendall CW, Emam A, Jenkins DJ. Colonic
-health: fermentation and short chain fatty acids. J Clin Gastroenterol
-2006;40(3):235–43.
-
-74. Fraher MH, O’Toole PW, Quigley EM. Techniques used to
-characterize the gut microbiota: a guide for the clinician. Nat
-Rev Gastroenterol Hepatol 2012;9(6):312–22.
-
-75. Hughes R, Alkan Z, Keim N, Kable M. Impact of sequence variant
-detection and bacterial DNA extraction methods on the measurement
-of microbial community composition in human stool. bioRxiv 2017:
-212134.
-
-76. Costea PI, Zeller G, Sunagawa S, Pelletier E, Alberti A, Levenez F,
-Tramontano M, Driessen M, Hercog R, Jung F-E. Towards standards
-for human fecal sample processing in metagenomic studies. Nat
-Biotechnol 2017;35(11):1069.
-
-77. Martinez I, Kim J, Duffy PR, Schlegel VL, Walter J. Resistant starches
-types 2 and 4 have differential effects on the composition of the fecal
-microbiota in human subjects. PLoS One 2010;5(11):e15046.
-
-78. Suez J, Korem T, Zeevi D, Zilberman-Schapira G, Thaiss CA, Maza O,
-Israeli D, Zmora N, Gilad S, Weinberger A, et al. Artificial sweeteners
-induce glucose intolerance by altering the gut microbiota. Nature
-2014;514(7521):181–6.
-
-79. Tringe SG, Hugenholtz P. A renaissance for the pioneering 16S rRNA
-
-gene. Curr Opin Microbiol 2008;11(5):442–6.
-
-80. Thompson C, Thompson F, Vandemeulebroecke K, Hoste B, Dawyndt
-P, Swings J. Use of recA as an alternative phylogenetic marker in the
-family Vibrionaceae. Int J Syst Evol Microbiol 2004;54(3):919–24.
-81. Larsen MV, Cosentino S, Rasmussen S, Friis C, Hasman H, Marvig
-RL, Jelsbak L, Pontén TS, Ussery DW, Aarestrup FM. Multilocus
-sequence typing of total genome sequenced bacteria. J Clin Microbiol
-2012;50(4):1355–61.
-
-82. Maiden MC, Van Rensburg MJJ, Bray JE, Earle SG, Ford SA, Jolley KA,
-McCarthy ND. MLST revisited: the gene-by-gene approach to bacterial
-genomics. Nat Rev Microbiol 2013;11(10):728.
-
-83. Hamady M, Knight R. Microbial community profiling for human
-microbiome projects: tools, techniques, and challenges. Genome Res
-2009;19(7):1141–52.
-
-84. Schütte UM, Abdo Z, Bent SJ, Shyu C, Williams CJ, Pierson JD,
-Forney LJ. Advances in the use of terminal restriction fragment length
-polymorphism (T-RFLP) analysis of 16S rRNA genes to characterize
-microbial communities. Appl Microbiol Biotechnol 2008;80(3):365–
-80.
-
-85. Wetterstrand KA. DNA sequencing costs: Data from the NHGRI
-
-Genome Sequencing Program (GSP). 2013.
-
-86. Jovel J, Patterson J, Wang W, Hotte N, O’Keefe S, Mitchel T, Perry
-T, Kao D, Mason AL, Madsen KL. Characterization of the gut
-microbiome using 16S or shotgun metagenomics. Front Microbiol
-2016;7:459.
-
-87. Zaheer R, Noyes N, Polo RO, Cook SR, Marinier E, Van Domselaar
-G, Belk KE, Morley PS, McAllister TA. Impact of sequencing depth
-on the characterization of the microbiome and resistome. Sci Rep
-2018;8(1):5890.
-
-88. Paulson JN, Stine OC, Bravo HC, Pop M. Differential abundance
-surveys. Nat Methods
-
-for microbial marker-gene
-
-analysis
-2013;10(12):1200.
-
-54. Zeevi D, Korem T, Zmora N, Israeli D, Rothschild D, Weinberger
-A, Ben-Yacov O, Lador D, Avnit-Sagi T, Lotan-Pompan M, et al.
-Personalized nutrition by prediction of glycemic responses. Cell
-2015;163(5):1079–94.
-
-55. Bennet SMP, Bohn L, Storsrud S, Liljebo T, Collin L, Lindfors P,
-Tornblom H, Ohman L, Simren M. Multivariate modelling of faecal
-bacterial profiles of patients with IBS predicts responsiveness to a diet
-low in FODMAPs. Gut 2018;67(5):872–81.
-
-56. Chumpitazi BP, Cope JL, Hollister EB, Tsai CM, McMeans AR,
-Luna RA, Versalovic J, Shulman RJ. Randomised clinical trial: gut
-microbiome biomarkers are associated with clinical response to a low
-FODMAP diet in children with the irritable bowel syndrome. Aliment
-Pharmacol Ther 2015;42(4):418–27.
-
-57. Mendes-Soares H., Raveh-Sadka T., Azulay S., Edens K., Ben-Shlomo
-Y
-., Cohen Y., Ofek T., Bachrach D., Stevens J., Colibaseanu D., et al.
-Assessment of a Personalized Approach to Predicting Postprandial
-Glycemic Responses to Food Among Individuals Without Diabetes,
-JAMA network open. 2019;2(2):e188102–e188102
-
-58. Kang C, Zhang Y, Zhu X, Liu K, Wang X, Chen M, Wang J, Chen H,
-Hui S, Huang L, et al. Healthy subjects differentially respond to dietary
-capsaicin correlating with specific gut enterotypes. J Clin Endocrinol
-Metab 2016;101(12):4681–9.
-
-59. Possemiers S, Bolca S, Eeckhaut E, Depypere H, Verstraete
-W. Metabolism of
-lignans and prenylflavonoids by
-intestinal bacteria: producer phenotyping and relation with intestinal
-community. FEMS Microbiol Ecol 2007;61(2):372–83.
-
-isoflavones,
-
-60. Romo-Vaquero M, Cortés-Martín A, Loria-Kohen V, Ramírez-de-
-Molina A, García-Mantrana I, Collado MC, Espín JC, Selma MV.
-Deciphering the human gut microbiome of urolithin metabotypes:
-association with enterotypes and potential cardiometabolic health
-implications. Mol Nutr Food Res 2019;63(4):e1800958.
-
-61. Li F, Hullar MA, Beresford SA, Lampe JW. Variation of glucoraphanin
-metabolism in vivo and ex vivo by human gut bacteria. Br J Nutr
-2011;106(3):408–16.
-
-62. Cho CE, Taesuwan S, Malysheva OV, Bender E, Tulchinsky NF,
-Yan J, Sutter JL, Caudill MA. Trimethylamine-N-oxide (TMAO)
-response to animal source foods varies among healthy young men
-and is influenced by their gut microbiota composition: a randomized
-controlled trial. Mol Nutr Food Res 2017;61(1).
-
-63. Zmora N, Zilberman-Schapira G, Suez J, Mor U, Dori-Bachash
-M, Bashiardes S, Kotler E, Zur M, Regev-Lehavi D, Brik RB-
-Z. Personalized gut mucosal colonization resistance to empiric
-probiotics is associated with unique host and microbiome features. Cell
-2018;174(6):1388–405 e21.
-
-64. Zhang C, Derrien M, Levenez F, Brazeilles R, Ballal SA, Kim J, Degivry
-MC, Quere G, Garault P, van Hylckama Vlieg JE, et al. Ecological
-robustness of the gut microbiota in response to ingestion of transient
-food-borne microbes. ISME J 2016;10(9):2235–45.
-
-65. Senan S, Prajapati JB, Joshi CG, Sreeja V, Gohel MK, Trivedi S, Patel
-RM, Pandya H, Singh US, Phatak A, et al. Geriatric respondents and
-non-respondents to probiotic intervention can be differentiated by
-inherent gut microbiome composition. Front Microbiol 2015;6:944.
-66. Veiga P, Gallini CA, Beal C, Michaud M, Delaney ML, DuBois
-A, Khlebnikov A, van Hylckama Vlieg JE, Punit S, Glickman JN.
-Bifidobacterium animalis subsp. lactis fermented milk product reduces
-inflammation by altering a niche for colitogenic microbes. Proc Natl
-Acad Sci 2010;107(42):18132–7.
-
-67. Mobini R, Tremaroli V, Ståhlman M, Karlsson F, Levin M, Ljungberg
-M, Sohlin M, Bertéus Forslund H, Perkins R, Bäckhed F. Metabolic
-effects of Lactobacillus reuteri DSM 17938 in people with type
-2 diabetes: a randomized controlled trial. Diabetes Obes Metab
-2017;19(4):579–89.
-
-68. Volokh O., Klimenko N., Berezhnaya Y., Tyakht A., Nesterova P.,
-Popenko A., Alexeev D., Human gut microbiome response induced
-by fermented dairy product intake in healthy volunteers, Nutrients
-2019;11(3):547
-
-69. Kolho KL, Korpela K, Jaakkola T, Pichai MV, Zoetendal EG,
-Salonen A, de Vos WM. Fecal microbiota in pediatric inflammatory
-
-24 Hughes et al.
-
-Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
-
-89. Weiss S, Xu ZZ, Peddada S, Amir A, Bittinger K, Gonzalez A, Lozupone
-C, Zaneveld JR, Vázquez-Baeza Y, Birmingham A. Normalization
-and microbial differential abundance strategies depend upon data
-characteristics. Microbiome 2017;5(1):27.
-
-90. Liu Z, Hsiao W, Cantarel BL, Drábek EF, Fraser-Liggett C. Sparse
-distance-based learning for simultaneous multiclass classification
-and feature
-selection of metagenomic data. Bioinformatics
-2011;27(23):3242–9.
-
-91. McMurdie PJ, Holmes S. Waste not, want not: why rarefying
-Biol
-
-inadmissible.
-
-Comput
-
-PLoS
-
-is
-
-microbiome
-2014;10(4):e1003531.
-
-data
-
-111. Gower
-
-JC. Generalized Procrustes
-
-analysis. Psychometrika
-
-1975;40(1):33–51.
-
-112. Robert P, Escoufier Y. A unifying tool for linear multivariate statistical
-
-methods: the RV-coefficient. Appl Stat 1976;25(3):257–65.
-
-113. B Sohn M, Li H. A GLM-based latent variable ordination method for
-
-microbiome samples. Biometrics 2018;74(2):448–57.
-
-114. Langfelder P, Horvath S. Fast R functions for robust correlations and
-
-hierarchical clustering. J Stat Softw 2012;46(11):i11.
-
-115. Dolédec S, Chessel D. Co-inertia analysis: an alternative method
-for studying species–environment relationships. Freshwater Biol
-1994;31(3):277–94.
-
-92. Sokal R, Rohlf F. Biometry. New York: WH Freeman and Company.
-p. 887, van Heemst HDJ (1985) The influence of weed competition on
-crop yield. Agric Syst 1995;18 (2):81–93.
-
-116. Anderson MJ, Willis TJ. Canonical analysis of principal coordinates:
-a useful method of constrained ordination for ecology. Ecology
-2003;84(2):511–25.
-
-93. Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL, Ward DV,
-Reyes JA, Shah SA, LeLeiko N, Snapper SB. Dysfunction of the
-intestinal microbiome in inflammatory bowel disease and treatment.
-Genome Biol 2012;13(9):R79.
-
-94. Mallick H, Ma S, Franzosa EA, Vatanen T, Morgan XC,
-Huttenhower C. Experimental design and quantitative analysis
-of microbial community multiomics. Genome Biol 2017;18(1):
-228.
-
-95. Arumugam M, Raes J, Pelletier E, Le Paslier D, Yamada T, Mende DR,
-Fernandes GR, Tap J, Bruls T, Batto J-M. Enterotypes of the human gut
-microbiome. Nature 2011;473(7346):174.
-
-96. Knights D, Ward TL, McKinlay CE, Miller H, Gonzalez A,
-McDonald D, Knight R. Rethinking “enterotypes”. Cell Host Microbe
-2014;16(4):433–7.
-
-97. Christensen L, Roager HM, Astrup A, Hjorth MF. Microbial
-enterotypes in personalized nutrition and obesity management. Am
-J Clin Nutr 2018;108(4):645–51.
-
-98. Van Belle G, Fisher LD, Heagerty PJ, Lumley T. Biostatistics: a
-methodology for the health sciences. Vol. 519, John Wiley & Sons, 2004.
-99. Segata N, Izard J, Waldron L, Gevers D, Miropolsky L, Garrett WS,
-Huttenhower C. Metagenomic biomarker discovery and explanation.
-Genome Biol 2011;12(6):1.
-
-100. Morrison DF. Multivariate analysis of variance. In: Encyclopedia of
-Biostatistics . Vol 5. New York: John Wiley & Sons; 2005. p. 1–6.
-101. Anderson MJ, Walsh DC. PERMANOVA, ANOSIM, and the
-Mantel test in the face of heterogeneous dispersions: what null
-hypothesis are you testing? Ecological Monographs 2013;83(4):
-557–74.
-
-102. Lozupone C, Knight R. UniFrac: a new phylogenetic method
-for comparing microbial communities. Appl Environ Microbiol
-2005;71(12):8228–35.
-
-103. Beals EW. Bray–Curtis ordination: an effective strategy for analysis
-of multivariate ecological data, in advances in ecological research,
-London: Elsevier ;1984;14, p. 1–55.
-
-104. MacQueen J. Some methods for classification and analysis of
-multivariate observations.
-the fifth Berkeley
-symposium on mathematical statistics and probability. Oakland, CA,
-USA, 1967.
-
-In Proceedings of
-
-105. Kaufman L, Rousseeuw PJ. Partitioning around medoids (program
-PAM). Finding groups in data: an introduction to cluster analysis, New
-York: John Wiley; 1990. p. 68–125.
-
-106. Cali´nski T, Harabasz J. A dendrite method for cluster analysis.
-
-Commun Stat Theory Methods 1974;3(1):1–27.
-Jr. Hierarchical
-
-107. Bridges CC,
-
-cluster
-
-analysis. Psychol Rep
-
-1966;18(3):851–4.
-
-108. Rousseeuw PJ. Silhouettes: a graphical aid to the interpretation
-and validation of cluster analysis. J Comput Appl Math 1987;20:
-53–65.
-
-109. Wu GD, Chen J, Hoffmann C, Bittinger K, Chen YY, Keilbaugh
-SA, Bewtra M, Knights D, Walters WA, Knight R, et al. Linking
-long-term dietary patterns with gut microbial enterotypes. Science
-2011;334(6052):105–8.
-
-110. Wilcox RR. Introduction to robust estimation and hypothesis testing,
-
-San Diego (CA) Academic Press; 2011.
-
-117. Ter Braak CJ, Prentice IC. A theory of gradient analysis, in advances in
-
-ecological research, London: Elsevier; 1988. p. 271–317.
-
-118. Liaw A, Wiener M. Classification and regression by randomForest. R
-
-News 2002;2(3):18–22.
-
-119. McCulloch CE, Neuhaus JM. Generalized linear mixed models. New
-
-York: Wiley; 2014.
-
-120. Weisstein EW.
-
-"Bonferroni
-
-A Wolfram Web
-Resource.
-BonferroniCorrection.html. 2004.
-
-correction." From MathWorld—
-http://mathworld.wolfram.com/
-
-121. Benjamini Y, Hochberg Y. Controlling the false discovery rate: a
-practical and powerful approach to multiple testing. J R Stat Soc Series
-B Stat Methodol 1995; 57(1):289–300.
-
-122. Friedman JH. Greedy function approximation: a gradient boosting
-
-machine. Ann Stat 2001;29(5):1189–232.
-
-123. Caruana R, Karampatziakis N, Yessenalina A. An empirical evaluation
-of supervised learning in high dimensions. In Proceedings of the
-25th international conference on machine learning. Helsinki (Finland):
-ACM; 2008.
-
-124. Pearl J. Probabilistic reasoning in intelligent systems: networks of
-
-plausible inference. San Francisco (CA): Elsevier; 2014.
-
-125. Fisher RA. The use of multiple measurements in taxonomic problems.
-
-Annals of Eugenics 1936;7(2):179–88.
-
-126. Izenman AJ. Linear discriminant analysis, in modern multivariate
-
-statistical techniques. New York: Springer; 2013. p. 237–80.
-
-127. Bylesjö M, Rantalainen M, Cloarec O, Nicholson JK, Holmes
-E, Trygg J. OPLS discriminant analysis: combining the strengths
-of PLS-DA and SIMCA classification. J Chemom 2006;20(8–10):
-341–51.
-
-128. Worley B, Powers R. PCA as a practical indicator of OPLS-DA model
-
-reliability. Curr Metabolomics 2016;4(2):97–103.
-
-129. Miller ME, Hui SL, Tierney WM. Validation techniques for logistic
-
-regression models. Stat Med 1991;10(8):1213–26.
-
-130. Akaike H. Information theory and an extension of the maximum
-likelihood principle, in Selected Papers of Hirotugu Akaike. Springer;
-1998. p. 199–213.
-
-131. Schwarz G. Estimating the dimension of a model. Ann Stat
-
-132. Hanley JA, McNeil BJ. The meaning and use of the area under
-curve. Radiology
-characteristic
-
-receiver operating
-
-(ROC)
-
-1978;6(2):461–4.
-
-a
-1982;143(1):29–36.
-
-133. Bradley AP. The use of the area under the ROC curve in the evaluation
-of machine learning algorithms. Pattern Recognit 1997;30(7):
-1145–59.
-
-134. Nguyen TLA, Vieira-Silva S, Liston A, Raes J. How informative is
-the mouse for human gut microbiota research? Dis Model Mech
-2015;8(1):1–16.
-
-135. Lam YY, Zhang C, Zhao L. Causality in dietary interventions—
-
-building a case for gut microbiota. Genome Medicine 2018;10(1):62.
-
-136. Baker DH. Animal models
-
-in nutrition research.
-
-J Nutr
-
-2008;138(2):391–6.
-
-137. Roura E, Koopmans S-J, Lallès J-P, Le Huerou-Luron I, De Jager N,
-Schuurman T, Val-Laillet D. Critical review evaluating the pig as a
-model for human nutritional physiology. Nutr Res Rev 2016;29(1):
-60–90.
-
-Gut microbiome and precision nutrition: Part I 25
-
-Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
-
-138. Williams C, Walton G, Jiang L, Plummer S, Garaiova I, Gibson GR.
-Comparative analysis of intestinal tract models. Ann Rev Food Sci
-Technol 2015;6:329–50.
-
-139. Venema K, Van den Abbeele P. Experimental models of
-
-the
-gut microbiome. Best Pract Res Clin Gastroenterol 2013;27(1):
-115–26.
-
-140. Mortensen A, Sorensen IK, Wilde C, Dragoni S, Mullerová D,
-Toussaint O, Zloch Z, Sgaragli G, Ovesná J. Biological models for
-
-phytochemical research: from cell to human organism. Br J Nutr
-2008;99(E-S1):ES118–26.
-
-141. Sze MA, Schloss PD. Looking for a signal
-and
-
-the microbiome. MBio
-
-obesity
-
-in the noise:
-2016;7(4):
-
-revisiting
-e01018–16.
-
-142. Duvallet C, Gibbons SM, Gurry T, Irizarry RA, Alm EJ. Meta-
-analysis of gut microbiome studies identifies disease-specific and
-shared responses. Nat Commun 2017;8(1):1784.
-
-26 Hughes et al.
-
-

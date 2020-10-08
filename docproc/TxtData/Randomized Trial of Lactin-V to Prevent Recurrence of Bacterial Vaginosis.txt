@@ -327,7 +327,7 @@ Participants
 A total of 522 women were screened, of whom 
 228 across four trial sites underwent randomiza-
 tion:  152  were  assigned  to  the  Lactin-V  group 
-and 76 to the placebo group (Fig. 1). The demo-
+and 76 to the placebo group . The demo-
 graphic  and  clinical  characteristics  of  the  two 
 groups were generally well balanced at baseline. 
 More than half the participants reported a his-
@@ -450,10 +450,10 @@ Primary Outcome
 Among  the  228  participants  who  underwent 
 randomization, the status of recurrence of bac-
 terial vaginosis was known for 197 participants 
-(86%). In the intention-to-treat population, re-
+ In the intention-to-treat population, re-
 currence  of  bacterial  vaginosis  by  week  12  oc-
-curred in 46 participants (30%) in the Lactin-V 
-group  and  in  34  participants  (45%)  in  the  pla-
+curred in 46 participants in the Lactin-V 
+group  and  in  34  participants   in  the  pla-
 cebo group (risk ratio, 0.66; 95% confidence in-
 terval [CI], 0.44 to 0.87; P = 0.01) (Table 2). The 
 results  of  the  intention-to-treat  (last-observa-
@@ -531,102 +531,102 @@ Lactin-V
 
 30.7±6.8
 
-2 (1)
+2 
 
-6 (4)
+6 
 
-1 (1)
+1 
 
-64 (42)
+64 
 
-55 (36)
+55 
 
-10 (7)
+10 
 
-14 (9)
+14 
 
-30 (20)
+30 
 
-7 (5)
+7 
 
-7 (5)
+7 
 
-49 (32)
+49 
 
-2 (1)
+2 
 
-37 (24)
+37 
 
-37 (24)
+37 
 
-13 (9)
+13 
 
-123 (81)
+123 
 
 1.7±2.0
 
 1.6±1.8
 
-7 (5)
+7 
 
-33 (22)
+33 
 
-23 (15)
+23 
 
-78 (51)
+78 
 
-11 (7)
+11 
 
 Placebo 
 (N = 76)
 
 31.4±7.1
 
-1 (1)
+1 
 
-3 (4)
-
-0
-
-31 (41)
-
-26 (34)
-
-7 (9)
-
-8 (11)
-
-15 (20)
-
-10 (13)
-
-2 (3)
-
-20 (26)
+3 
 
 0
 
-15 (20)
+31 
 
-21 (28)
+26 
 
-8 (11)
+7 
 
-69 (91)
+8 
+
+15 
+
+10 
+
+2 
+
+20 
+
+0
+
+15 
+
+21 
+
+8 
+
+69 
 
 1.5±1.7
 
 1.7±1.5
 
-4 (5)
+4 
 
-14 (18)
+14 
 
-13 (17)
+13 
 
-38 (50)
+38 
 
-7 (9)
+7 
 
 *  Plus–minus values are means ±SD. Percentages may not total 100 because of rounding.
 †  Race and ethnic group were reported by the participant.
@@ -634,21 +634,21 @@ Placebo
 Secondary Outcomes
 Among  the  participants  without  known  recur-
 rence of bacterial vaginosis by week 12, a total 
-of 13 of 106 participants (12%) in the Lactin-V 
-group and 7 of 42 participants (17%) in the pla-
+of 13 of 106 participants in the Lactin-V 
+group and 7 of 42 participants in the pla-
 cebo  group  had  a  recurrence  by  week  24.  The 
 risk  ratio  for  recurrence  by  week  24  was  0.73 
-(95% CI, 0.54 to 0.92) (Table 2). The recurrence 
+ The recurrence 
 status at week 24 was unknown for 30 partici-
-pants  (20%)  in  the  Lactin-V  group  and  for  14 
-participants (18%) in the placebo group. Results 
+pants   in  the  Lactin-V  group  and  for  14 
+participants in the placebo group. Results 
 across the analysis populations were consistent 
 (Table S2).
 
 In the Lactin-V group, L. crispatus CTV-05 was 
 detected in 79% (at week 12) to 84% of partici-
 pants during weeks 4, 8, and 12 and in 48% of 
-participants at week 24 (Fig. 2). In contrast, in 
+participants at week 24 . In contrast, in 
 the  placebo  group,  L. crispatus  CTV-05  was  de-
 tected in 2 to 6% of participants during weeks 4, 
 8, and 12 and in 2% of participants at week 24. 
@@ -676,7 +676,7 @@ Placebo
 (N = 76)
 
 Risk Ratio 
-(95% CI)*
+
 
 P Value
 
@@ -698,35 +698,35 @@ Unknown
 
 no. (%)
 
-46 (30)
+46 
 
-87 (57)
+87 
 
-19 (12)
+19 
 
-59 (39)
+59 
 
-63 (41)
+63 
 
-30 (20)
+30 
 
-34 (45)
+34 
 
-30 (39)
+30 
 
-12 (16)
+12 
 
-41 (54)
+41 
 
-21 (28)
+21 
 
-14 (18)
+14 
 
-0.66 (0.44–0.87)
+0.66 
 
 0.01
 
-0.73 (0.54–0.92)
+0.73 
 
 *  Risk ratios were calculated with the use of logistic-regression multiple imputation, under the assumption of a mono-
 
@@ -754,15 +754,15 @@ event  or  an  unsolicited  adverse  event  that  was
 assessed  by  the  trial  staff  as  being  related  to 
 Lactin-V  or  placebo)  by  week  24  did  not  differ 
 significantly  between  the  groups  (132  partici-
-pants [87%] in the Lactin-V group and 60 par-
-ticipants [79%] in the placebo group; risk ratio, 
+pants in the Lactin-V group and 60 par-
+ticipants in the placebo group; risk ratio, 
 1.11; 95% CI, 0.98 to 1.33; P = 0.12).
 
 Across  the  two  treatment  groups,  the  most 
 common solicited local adverse events were ab-
 normal vaginal discharge, abnormal vaginal odor, 
 external  genital  irritation,  and  genital  itching 
-(Fig.  3),  and  the  most  common  solicited  sys-
+,  and  the  most  common  solicited  sys-
 temic  adverse  events  were  abdominal  pain  or 
 cramps,  headache,  and  frequent  urination.  In 
 general,  the  incidence  and  severity  of  solicited 
@@ -806,7 +806,7 @@ blue bar represents the interquartile range. CFU denotes colony-forming
 units.
 
 and was 5.6×106 CFU per milliliter at week 24 
-(Fig. 2).
+.
 
 There were no apparent associations between 
 the detection of L. crispatus CTV-05 at week 12 or 
@@ -978,8 +978,8 @@ Vaginal bleeding
 19/66
 
 Unsolicited  adverse  events  were  reported  in 
-63 participants (42%) in the Lactin-V group and 
-in  22  participants  (29%)  in  the  placebo  group 
+63 participants in the Lactin-V group and 
+in  22  participants   in  the  placebo  group 
 (risk ratio, 1.44; 95% CI, 0.97 to 2.30) (Tables S7 
 and S8). A total of 7 participants (4 in the Lactin-
 V group and 3 in the placebo group) had a severe 
@@ -1102,202 +1102,3 @@ the NIH (contracts HHSN2722013000141 and HHSN27200007).
 Disclosure forms provided by the authors are available with 
 
 the full text of this article at NEJM.org.
-
-References
-1.  Allsworth JE, Peipert JF. Prevalence of 
-bacterial  vaginosis:  2001-2004  National 
-Health and Nutrition Examination Survey 
-data. Obstet Gynecol 2007; 109: 114-20.
-2.  Bradshaw CS, Morton AN, Hocking J, 
-et  al.  High  recurrence  rates  of  bacterial 
-vaginosis  over  the  course  of  12  months 
-after oral metronidazole therapy and fac-
-tors  associated  with  recurrence.  J  Infect 
-Dis 2006; 193: 1478-86.
-3.  Gosmann  C,  Anahtar  MN,  Handley 
-SA, et al. Lactobacillus-deficient cervico-
-vaginal bacterial communities are associ-
-ated  with  increased  HIV  acquisition  in 
-young South African women. Immunity 
-2017; 46: 29-37.
-4.  Cohen  CR,  Lingappa  JR,  Baeten  JM,  
-et al. Bacterial vaginosis associated with 
-increased  risk  of  female-to-male  HIV-1 
-transmission: a prospective cohort analy-
-sis  among  African  couples.  PLoS  Med 
-2012; 9(6): e1001251.
-5.  Abdool Karim SS, Baxter C, Passmore 
-JS, McKinnon LR, Williams BL. The geni-
-tal  tract  and  rectal  microbiomes:  their 
-role in HIV susceptibility and prevention 
-in  women.  J  Int  AIDS  Soc  2019; 22(5): 
-e25300.
-6.  Martin  HL,  Richardson  BA,  Nyange 
-PM, et al. Vaginal lactobacilli, microbial 
-flora,  and  risk  of  human  immunodefi-
-ciency virus type 1 and sexually transmit-
-ted disease acquisition. J Infect Dis 1999; 
-180: 1863-8.
-
-7.  Peelen MJ, Luef BM, Lamont RF, et al. 
-The  influence  of  the  vaginal  microbiota 
-on preterm birth: a systematic review and 
-recommendations for a minimum data-
-set  for future research. Placenta 2019; 79: 
-30-9.
-8.  Hillier SL, Martius J, Krohn M, Kiviat 
-N, Holmes KK, Eschenbach DA. A case–
-control study of chorioamnionic infection 
-and  histologic  chorioamnionitis  in  pre-
-maturity. N Engl J Med 1988; 319: 972-8.
-9.  Eschenbach  DA,  Hillier  S,  Critchlow 
-C, Stevens C, DeRouen T, Holmes KK. Di-
-agnosis  and  clinical  manifestations  of 
-bacterial vaginosis. Am J Obstet Gynecol 
-1988; 158: 819-28.
-10.  Hillier SL, Kiviat NB, Hawes SE, et al. 
-Role of bacterial vaginosis-associated mi-
-croorganisms in endometritis. Am J Ob-
-stet Gynecol 1996; 175: 435-41.
-11.  Peebles K, Velloza J, Balkus JE, Mc-
-Clelland  RS,  Barnabas  RV.  High  global 
-burden  and  costs  of  bacterial  vaginosis:  
-a  systematic  review  and  meta-analysis. 
-Sex Transm Dis 2019; 46: 304-11.
-12.  Bilardi JE, Walker S, Temple-Smith M, 
-et  al.  The  burden  of  bacterial  vaginosis: 
-women’s experience of the physical, emo-
-tional, sexual and social impact of living 
-with  recurrent  bacterial  vaginosis.  PLoS 
-One 2013; 8(9): e74378.
-13.  Stapleton  AE,  Au-Yeung  M,  Hooton 
-TM, et al. Randomized, placebo-controlled 
-phase 2 trial of a Lactobacillus crispatus 
-
-probiotic given intravaginally for preven-
-tion of recurrent urinary tract infection. 
-Clin Infect Dis 2011; 52: 1212-7.
-14.  Czaja CA, Stapleton AE, Yarova-Yaro-
-vaya Y, Stamm WE. Phase I trial of a Lac-
-tobacillus  crispatus  vaginal  suppository 
-for  prevention  of  recurrent  urinary  tract 
-infection in women. Infect Dis Obstet Gy-
-necol 2007; 2007: 35387.
-15.  Hemmerling A, Harrison W, Schroeder 
-A, et al. Phase 1 dose-ranging safety trial 
-of Lactobacillus crispatus CTV-05 for the 
-prevention  of  bacterial  vaginosis.  Sex 
-Transm Dis 2009; 36: 564-9.
-16.  Hemmerling A, Harrison W, Schroeder 
-A, et al. Phase 2a study assessing coloni-
-zation efficiency, safety, and acceptabil-
-ity of Lactobacillus crispatus CTV-05 in 
-women  with  bacterial  vaginosis.  Sex 
-Transm Dis 2010; 37: 745-50.
-17.  Antonio MA, Hillier SL. DNA finger-
-printing of Lactobacillus crispatus strain 
-CTV-05  by  repetitive  element  sequence-
-based  PCR  analysis  in  a  pilot  study  of 
-vaginal  colonization.  J  Clin  Microbiol 
-2003; 41: 1881-7.
-18.  Antonio  MA,  Meyn  LA,  Murray  PJ, 
-Busse B, Hillier SL. Vaginal colonization by 
-probiotic Lactobacillus crispatus CTV-05 is 
-decreased by sexual activity and endoge-
-nous  Lactobacilli.  J  Infect  Dis  2009; 199: 
-1506-13.
-19.  Nugent RP, Krohn MA, Hillier SL. Re-
-liability of diagnosing bacterial vaginosis 
-
-1914
-
-n engl j med 382;20  nejm.org  May 14, 2020
-
-The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. Lactin-V to Prevent Recurrence of Bacterial Vaginosis
-
-is improved by a standardized method of 
-Gram  stain  interpretation.  J  Clin  Micro-
-biol 1991; 29: 297-301.
-20.  Hemmerling A, Harrison WG, Brown 
-JM, et al. Trypan blue staining to deter-
-mine  vaginal  exposure  in  two  types  of 
-plastic vaginal applicators containing two 
-different  microbicide  formulations.  Sex 
-Transm Dis 2012; 39: 710-2.
-21.  National  Institute  of  Allergy  and  In-
-fectious Diseases. Division of AIDS table 
-for grading the severity of adult and pedi-
-atric  adverse  events,  December  2004  — 
-Addendum 1:  female genital grading table 
-for use in microbicide studies. November 
-2007 (https://rsc .niaid .nih .gov/ sites/ default/ 
-files/ addendum - 1 - female - genital - grading 
-- table - v1 - nov - 2007 .pdf).
-22.  National  Institute  of  Allergy  and  In-
-fectious Diseases. Division of AIDS table 
-for grading the severity of adult and pedi-
-atric adverse events version 1.0, December 
-2004  (clarification  dated  August  2009) 
-(https://rsc .niaid .nih .gov/ sites/ default/ files/ 
-
-table - for - grading - severity - of - adult - pediatric 
-- adverse - events .pdf).
-23.  Rubin  DB.  Inference  and  missing 
-data. Biometrika 1976; 63: 581-92.
-24.  Rubin  DB.  Multiple  imputation  for 
-nonresponse in surveys. New York:  John 
-Wiley, 1987.
-25.  McClelland RS, Balkus JE, Lee J, et al. 
-Randomized trial of periodic presumptive 
-treatment  with  high-dose  intravaginal 
-metronidazole and miconazole to prevent 
-vaginal infections in HIV-negative women. 
-J Infect Dis 2015; 211: 1875-82.
-26.  Zeron Mullins M, Trouton KM. BASIC 
-study: is intravaginal boric acid non-infe-
-rior to metronidazole in symptomatic bac-
-terial vaginosis? Study protocol for a ran-
-domized controlled trial. Trials 2015; 16: 
-315.
-27.  Ma D, Chen Y, Chen T. Vaginal micro-
-biota transplantation for the treatment of 
-bacterial vaginosis: a conceptual analysis. 
-FEMS Microbiol Lett 2019; 366: fnz025.
-28.  Senok AC, Verstraelen H, Temmerman 
-
-M, Botta GA. Probiotics for the treatment 
-of bacterial vaginosis. Cochrane Database 
-Syst Rev 2009; 4: CD006289.
-29.  van de Wijgert J, Verwijs MC. Lactoba-
-cilli-containing vaginal probiotics to cure 
-or prevent bacterial or fungal vaginal dys-
-biosis:  a  systematic  review  and  recom-
-mendations for future trial designs. BJOG 
-2020; 127: 287-99.
-30.  van  de  Wijgert  J,  Verwijs  MC,  Agaba 
-SK, et al. Intermittent lactobacilli-contain-
-ing  vaginal  probiotic  or  metronidazole 
-use  to  prevent  bacterial  vaginosis  recur-
-rence: safety and preliminary efficacy by 
-microscopy and sequencing. medRxiv. July 
-8, 2019 (https://www .medrxiv .org/ content/ 
-10 .1101/ 19001156v1).
-31.  Ngugi BM, Hemmerling A, Bukusi EA, 
-et al. Effects of bacterial vaginosis-associ-
-ated  bacteria  and  sexual  intercourse  on 
-vaginal colonization with the probiotic Lac-
-tobacillus crispatus CTV-05. Sex Transm 
-Dis 2011; 38: 1020-7.
-Copyright © 2020 Massachusetts Medical Society.
-
-receive immediate notification when an article  
-is published online first
-
-To be notified by email when Journal articles  
-are published online first, sign up at NEJM.org.
-
-n engl j med 382;20  nejm.org  May 14, 2020
-
-1915
-
-The New England Journal of Medicine Downloaded from nejm.org at UPPSALA UNIVERSITY on May 13, 2020. For personal use only. No other uses without permission.  Copyright © 2020 Massachusetts Medical Society. All rights reserved. 

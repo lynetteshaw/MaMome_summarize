@@ -41,7 +41,7 @@ and Sons, New Hyde Park, NY).
 A diagram of the study design is shown 
 in Figure 1. At the end of the exercise period, 
 mice were administered tocopherol­stripped 
-safflower oil (5 mL/kg) to allow them to adjust 
+safflower oil to allow them to adjust 
 to the vehicle. Feces were collected for 2 days 
 (allowing collection of a sufficient amount of 
 sample), and samples were analyzed for con­
@@ -112,7 +112,7 @@ intensities of multiple probes per probe set
 (Hazen  et  al  2010).  Before  classification 
 analy sis,  we  performed  data  reduction  via 
 multiple filtering steps as described by Hazen 
-et al. (2010). Taxa­sample intersections were 
+et al.  Taxa­sample intersections were 
 
 Vehicle
 treatment
@@ -125,11 +125,11 @@ experiment
 
 Feces
 collection
-(2 days)
+
 
 Feces
 collection
-(2 days)
+
 
 Control data
 
@@ -176,7 +176,7 @@ a result of these changes, the overall abun­
 dance of bacteria significantly diminished (by 
 2.2%) in PCB­exposed mice. Table 1 lists 
 bacterial taxa with the greatest decrease in 
-abundance (4.0­ to 5.6­fold) after PCB treat­
+abundance after PCB treat­
 ment. These taxa belong primarily to phylum 
 Proteobacteria, but the classes and families 
 are diverse. The group of bacterial taxa with 
@@ -808,7 +808,7 @@ of their transmembrane electrical potential,
 and disturbances of membrane integrity, lead­ 
 ing to leakage of ions and cell death (Kurdi 
 et al. 2006). In support of this hypothesis, 
-Islam et al. (2011) demon strated that cho­ 
+Islam et al. demon strated that cho­ 
 lic acid induced substantial changes in the 
 cecal microbiome composition by stimu lating 
 the growth of Firmicutes at the expense of 
@@ -823,7 +823,7 @@ observed in the present study.
 Short­chain fatty acids (SCFAs) may be 
 another factor that regulates the gut micro­ 
 biome  in  response  to  exercise.  Indeed, 
-Matsumoto et al. (2008) showed that rats that 
+Matsumoto et al. showed that rats that 
 participated in voluntary running exercise had 
 increased butyrate concentration in the cecum 
 compared with sedentary rats. These authors 
@@ -855,7 +855,7 @@ colonic acidification (Wong et al. 2006).
 
 Finally, exercise may influence the com­ 
 position of the gut microbiome by altering the 
-intestinal immune system. Viloria et al. (2011) 
+intestinal immune system. Viloria et al. 
 observed that physical activity increased expres­ 
 sion of IgA and cytokines such as interleukin­6 
 and tumor necrosis factor­α. These changes 
@@ -869,14 +869,14 @@ related to the exposure to environmental toxi­
 cants are associated with age, and the bene­ 
 fits of exercise are also being emphasized in 
 older  individuals;  therefore,  we  used  aged 
-mice  (11–13  months  of  age)  in  the  pres­ 
+mice   in  the  pres­ 
 ent study. Older mice tend to have higher 
 body  mass  than  younger  animals.  In  fact, 
 the average body weight of sedentary mice 
 in the present study was 46.8 ± 1.4 g, and 
 body weight of exercised mice was approxi­ 
 mately 30% lower. Recent evidence from Ley 
-et al. (2005) indicated a strong association of 
+et al. indicated a strong association of 
 the intestinal microbiome with the develop­ 
 ment of obesity. Genetically obese ob/ob mice 
 were charac terized by a major decrease in the 
@@ -927,7 +927,7 @@ the gut microbiome of exercised mice was a
 Erysipelotrichaceae (Table 3). This family plays 
 an important role in metabolic disorders and 
 energy metabo lism (Chen et al. 2012). Chen 
-et al. (2012) reported that Erysipelotrichaceae 
+et al. reported that Erysipelotrichaceae 
 were enriched in obese humans and mice, as 
 well as in mice fed a high­fat diet, and noted 
 that  the  abundance  of  Erysipelotrichaceae 
@@ -953,268 +953,3 @@ exposed orally to these environmental toxi­
 cants. We observed that PCB­induced altera­ 
 tions of the gut microbiome were attenuated 
 by voluntary exercise. 
-
-RefeRences
-
-Armougom F, Henry M, Vialettes B, Raccah D, Raoult D. 2009. 
-Monitoring bacterial community of human gut microbiota 
-reveals an increase in Lactobacillus in obese patients and 
-Methanogens  in  anorexic  patients.  PLoS  One  4:e7125; 
-doi:10.1371/journal.pone.0007125 [Online 23 September 2009]. 
-Ashley TFJ, Secor HD, Zlokovitz E, Wales QS, Baker EJ. 2000. 
-Linking habitat use of Hudson River striped bass to accu- 
-mulation of polychlorinated biphenyl congeners. Environ Sci 
-Technol 34:1023–1029. 
-
-Betts  KS.  2011.  A  study  in  balance:  how  microbiomes  are 
-changing  the  shape  of  environmental  health.  Environ 
-Health Perspect 119:A340–346. 
-
-Bravo JA, Forsythe P, Chew MV, Escaravage E, Savignac HM, 
-Dinan TG, et al. 2011. Ingestion of Lactobacillus strain 
-regulates emotional behavior and central GABA receptor 
-expression in a mouse via the vagus nerve. Proc Natl Acad 
-Sci USA 108:16050–16055. 
-
-Chen W, Liu F, Ling Z, Tong X, Xiang C. 2012. Human intestinal 
-lumen and mucosa-associated microbiota in patients with 
-colorectal cancer. PLoS One 7:e39743; doi:10.1371/journal. 
-pone.0039743 [Online 28 June 2012]. 
-
-Choi JJ, Choi YJ, Chen L, Zhang B, Eum SY, Abreu MT, et al. 
-2012.  Lipopolysaccharide  potentiates  polychlorinated 
-biphenyl-induced disruption of the blood-brain barrier via 
-TLR4/IRF-3 signaling. Toxicology 302:212–220. 
-
-Choi YJ, Seelbach MJ, Pu H, Eum SY, Chen L, Zhang B, et al. 
-2010. Polychlorinated biphenyls disrupt intestinal integrity 
-via NADPH oxidase-induced alterations of tight junction 
-protein expression. Environ Health Perspect 118:976–981. 
-
-Environmental Health Perspectives  •  volume 121 | number 6 | June 2013 
-
-729
-
-Changes in the gut microbiome by exercise and PCBsClaus SP, Ellero SL, Berger B, Krause L, Bruttin A, Molina J, 
-et  al.  2011.  Colonization-induced  host-gut  microbial 
-metabolic  interaction.  MBio  2:  e00271-10;  doi:10.1128/ 
-mBio.00271-10. 
-
-Correa PA, Lin L, Just CL, Hu D, Hornbuckle KC, Schnoor JL, 
-et al. 2010. The effects of individual PCB congeners on the 
-soil bacterial community structure and the abundance of 
-biphenyl dioxygenase genes. Environ Int 36:901–906. 
-De  Hertogh  G,  Lemmens  B,  Verhasselt  P,  de  Hoogt  R, 
-Sagaert X, Joossens M, et al. 2012. Assessment of the 
-microbiota in microdissected tissues of Crohn’s disease 
-patients. Int J Inflam 2012:505674; doi:10.1155/2012/505674 . 
-Frank DN, St. Amand AL, Feldman RA, Boedeker EC, Harpaz N, 
-Pace NR. 2007. Molecular-phylogenetic characterization 
-of microbial community imbalances in human inflammatory 
-bowel diseases. Proc Natl Acad Sci USA 104:13780–13785. 
-Franz CM, Huch M, Abriouel H, Holzapfel W, Galvez A. 2011. 
-Enterococci as probiotics and their implications in food 
-safety. Int J Food Microbiol 151:125–140. 
-
-Friedenreich  C,  Norat  T,  Steindorf  K,  Boutron-Ruault  MC, 
-Pischon T, Mazuir M, et al. 2006. Physical activity and risk 
-of colon and rectal cancers: the European Prospective 
-Investigation into Cancer and Nutrition. Cancer Epidemiol 
-Biomarkers Prev 15:2398–2407. 
-
-Goodman AL, Kallstrom G, Faith JJ, Reyes A, Moore A, Dantas G, 
-et al. 2011. Extensive personal human gut microbiota culture 
-collections characterized and manipulated in gnoto biotic 
-mice. Proc Natl Acad Sci USA 108:6252–6257. 
-
-Hagio M, Matsumoto M, Yajima T, Hara H, Ishizuka S. 2010. 
-Voluntary wheel running exercise and dietary lactose con- 
-comitantly reduce proportion of secondary bile acids in rat 
-feces. J Appl Physiol 109:663–668. 
-
-Hazen TC, Dubinsky EA, DeSantis TZ, Andersen GL, Piceno YM, 
-Singh N, et al. 2010. Deep-sea oil plume enriches indig- 
-enous oil-degrading bacteria. Science 330:204–208. 
-
-Holmes E, Li JV, Athanasiou T, Ashrafian H, Nicholson JK. 2011. 
-Understanding the role of gut microbiome-host metabolic 
-signal disruption in health and disease. Trends Microbiol 
-19:349–359. 
-
-Islam KB, Fukiya S, Hagio M, Fujii N, Ishizuka S, Ooka T, et al. 2011. 
-Bile acid is a host factor that regulates the composition of 
-the cecal microbiota in rats. Gastroenterology 141:1773–1781. 
-Jensen AA. 1989. Background levels in humans. In: Halogenated 
-Biphenyls, Terphenyls, Naphthalenes, Dibenzo dioxins and 
-Related Products (Kimbrough RD, Jensen AA, eds). New 
-York:Elsevier Science Publishers, 345–364. 
-
-Kelly D, Mulder IE. 2012. Microbiome and immunological inter- 
-
-actions. Nutr Rev 70(suppl 1):S18–S30. 
-
-Kinross JM, Darzi AW, Nicholson JK. 2011. Gut microbiome- 
-host interactions in health and disease. Genome Med 3:14; 
-doi:10.1186/gm228 [Online 4 March 2011]. 
-
-Kurdi P, Kawanishi K, Mizutani K, Yokota A. 2006. Mechanism 
-of growth inhibition by free bile acids in lactobacilli and 
-bifido bacteria. J Bacteriol 188:1979–1986. 
-
-Lapanje A, Rupnik M, Drobne D. 2007. Gut bacterial community 
-structure (Porcellio scaber, Isopoda, Crustacea) as a mea- 
-sure of community level response to long-term and short- 
-term metal pollution. Environ Toxicol Chem 26:755–763. 
-
-Ley RE, Backhed F, Turnbaugh P, Lozupone CA, Knight RD, 
-Gordon JI. 2005. Obesity alters gut microbial ecology. Proc 
-Natl Acad Sci USA 102:11070–11075. 
-
-Ley RE, Peterson DA, Gordon JI. 2006. Ecological and evolu- 
-tionary forces shaping microbial diversity in the human 
-intestine. Cell 124:837–848. 
-
-Li RW, Wu S, Baldwin RL VI, Li W, Li C. 2012. Perturbation 
-dynamics of the rumen microbiota in response to exog- 
-enous butyrate. PLoS One 7:e29392; doi:10.1371/journal. 
-pone.0029392 [Online 12 January 2012]. 
-
-Liebert CA, Wireman J, Smith T, Summers AO. 1997. Phylogeny 
-of mercury resistance (mer) operons of gram-negative 
-bacteria isolated from the fecal flora of primates. Appl 
-Environ Microbiol 63:1066–1076. 
-
-Lozupone C, Hamady M, Knight R. 2006. UniFrac—an online 
-tool  for  comparing  microbial  community  diversity  in 
-a  phylo genetic  context.  BMC  Bioinformatics  7:371; 
-doi:10.1186/1471-2105-7-371 [Online 7 August 2006]. 
-
-Lustyk MK, Jarrett ME, Bennett JC, Heitkemper MM. 2001. 
-Does a physically active lifestyle improve symptoms in 
-women with irritable bowel syndrome? Gastroenterol Nurs 
-24:129–137. 
-
-Lyte M, Li W, Opitz N, Gaykema RP, Goehler LE. 2006. Induction 
-of anxiety-like behavior in mice during the initial stages 
-of infection with the agent of murine colonic hyperplasia 
-Citrobacter rodentium. Physiol Behav 89:350–357. 
-
-Majkova Z, Oesterling E, Toborek M, Hennig B. 2008. Impact 
-of nutrition on PCB toxicity. Environ Toxicol Pharmacol 
-25:192–196. 
-
-Martin D. 2011. Physical activity benefits and risks on the gastro- 
-
-intestinal system. South Med J 104:831–837. 
-
-Matsumoto  M,  Inoue  R,  Tsukahara  T,  Ushida  K,  Chiji  H, 
-Matsubara N, et al. 2008. Voluntary running exercise alters 
-microbiota composition and increases n-butyrate con- 
-centration in the rat cecum. Biosci Biotechnol Biochem 
-72:572–576. 
-
-Maule AG, Jørgensen EH, Vijayan MM, Killie JE. 2005. Aroclor 
-1254 exposure reduces disease resistance and innate 
-immune responses in fasted Arctic charr. Environ Toxicol 
-Chem 24:117–124. 
-
-Meissner  M,  Lombardo  E,  Havinga  R,  Tietge  UJ,  Kuipers  F, 
-Groen AK. 2011. Voluntary wheel running increases bile 
-acid as well as cholesterol excretion and decreases athero- 
-sclerosis in hypercholesterolemic mice. Atherosclerosis 
-218:323–329. 
-
-National Research Council. 2011. Guide for the Care and Use 
-of Laboratory Animals. 8th ed. Washington, DC:National 
-Academies Press. Available: http://grants.nih.gov/grants/ 
-olaw/Guide-for-the-care-and-use-of-Laboratory-animals. 
-pdf [accessed 2 May 2013]. 
-
-Nelson TA, Holmes S, Alekseyenko AV, Shenoy M, Desantis T, 
-Wu CH, et al. 2011. PhyloChip microarray analysis reveals 
-altered gastrointestinal microbial communities in a rat 
-model of colonic hypersensitivity. Neurogastroenterol Motil 
-23:169–e42. 
-
-Petric I, Bru D, Udikovic-Kolic N, Hrsak D, Philippot L, Martin- 
-Laurent F. 2011. Evidence for shifts in the structure and 
-abundance of the microbial community in a long-term 
-
-PCB-contaminated soil under bioremediation. J Hazard 
-Mater 195:254–260.
-
-Pinyayev TS, Kohan MJ, Herbin-Davis K, Creed JT, Thomas DJ. 
-2011. Preabsorptive metabolism of sodium arsenate by 
-anaerobic microbiota of mouse cecum forms a variety of 
-methylated and thiolated arsenicals. Chem Res Toxicol 
-24:475–477.
-
-Santacruz A, Collado MC, Garcia-Valdes L, Segura MT, Martin-
-Lagos JA, Anjos T, et al. 2010. Gut microbiota composition is 
-associated with body weight, weight gain and biochemical 
-parameters in pregnant women. Br J Nutr 104:83–92.
-
-Snedeker SM, Hay AG. 2012. Do interactions between gut ecol-
-ogy and environmental chemicals contribute to obesity 
-and diabetes? Environ Health Perspect 120:332–339.
-
-Song BK, Cho KO, Jo Y, Oh JW, Kim YS. 2012. Colon transit 
-time  according  to  physical  activity  level  in  adults. 
-J Neurogastroenterol Motil 18:64–69.
-
-Tibshirani R, Hastie T, Narasimhan B, Chu G. 2002. Diagnosis 
-of multiple cancer types by shrunken centroids of gene 
-expression. Proc Natl Acad Sci USA 99:6567–6572.
-
-Tilg H, Kaser A. 2011. Gut microbiome, obesity, and metabolic 
-
-dysfunction. J Clin Invest 121:2126–2132.
-
-Turnbaugh PJ, Backhed F, Fulton L, Gordon JI. 2008. Diet-induced 
-obesity is linked to marked but reversible alterations in the 
-mouse distal gut microbiome. Cell Host Microbe 3:213–223.
-Van de Wiele T, Vanhaecke L, Boeckaert C, Peru K, Headley J, 
-Verstraete W, et al. 2005. Human colon microbiota trans-
-form  polycyclic  aromatic  hydrocarbons  to  estrogenic 
-metabolites. Environ Health Perspect 113:6–10.
-
-Viloria M, Lara-Padilla E, Campos-Rodriguez R, Jarillo-Luna A, 
-Reyna-Garfias H, Lopez-Sanchez P, et al. 2011. Effect of 
-moderate exercise on IgA levels and lymphocyte count in 
-mouse intestine. Immunol Invest 40:640–656.
-
-Walker AW, Sanderson JD, Churcher C, Parkes GC, Hudspith BN, 
-Rayment N, et al. 2011. High-throughput clone library analy-
-sis  of  the  mucosa-associated  microbiota  reveals  dys-
-biosis and differences between inflamed and non-inflamed 
-regions of the intestine in inflammatory bowel disease. BMC 
-Microbiol 11:7; doi:10.1186/1471-2180-11-7 [Online 10 January 
-2011].
-
-Wassermann M, Wassermann D, Cucos S, Miller HJ. 1979. World 
-PCBs map: storage and effects in man and his biologic envi-
-ronment in the 1970s. Ann NY Acad Sci 320:69–124.
-
-Weisglas-Kuperus  N,  Vreugdenhil  HJ,  Mulder  PG.  2004. 
-Immunological effects of environmental exposure to poly-
-chlorinated biphenyls and dioxins in Dutch school children. 
-Toxicol Lett 149:281–285.
-
-Willems RJ, Hanage WP, Bessen DE, Feil EJ. 2011. Population 
-biology of Gram-positive pathogens: high-risk clones for 
-dissemination of antibiotic resistance. FEMS Microbiol 
-Rev 35:872–900.
-
-Wong JM, de Souza R, Kendall CW, Emam A, Jenkins DJ. 2006. 
-Colonic health: fermentation and short chain fatty acids. 
-J Clin Gastroenterol 40:235–243.
-
-Zhang H, DiBaise JK, Zuccolo A, Kudrna D, Braidotti M, Yu Y, 
-et al. 2009. Human gut microbiota in obesity and after gastric 
-bypass. Proc Natl Acad Sci USA 106:2365–2370.
-
-730 
-
-volume 121 | number 6 | June 2013  •  Environmental Health Perspectives
-
-Choi et al.

@@ -1,0 +1,31 @@
+The aim of the present study was to utilize Illumina
+sequencing of the 16S rRNA gene and inferred meta-
+genomics by open source software PICRUSt (Phyloge-
+netic Investigation of Communities by Reconstruction of
+Unobserved States  to investigate differences in
+microbiome composition and function in the fecal and
+colonic mucosa of mice treated with 5% DSS for 5 days. Alpha- and beta-diversity analyses
+Within community diversity (a-diversity) was calculated
+by different indices of species richness and evenness
+such as Observed Number of Species, Chao1, ACE
+(abundance-based coverage estimators), Shannon, Simp-
+son, InvSimpson, and Fisher using the open source R
+software. The low-abundance phyla (<1% of
+included Acidobacteria, Actinobacteria,
+community),
+Cyanobacteria, Fibrobacteres, Lentisphaerae, Planctomy-
+cetes, Spirochaetes, TM7, and Tenericutes. In this regard, it
+was worth noting that more taxa were signiﬁcantly
+associated with the DSS treatment in fecal samples
+compared to the colonic samples; however, several
+taxa including: Bacteroides ovatus, g. Clostridium, rc4-4;
+f. Clostridiaceae, Bacteroidaceae; and o. Bacteroidales,
+RF39, and RF32 were positively associated with the DSS
+treatment in both fecal and colonic mucosa samples. Given that the microbial analysis of diversity, commu-
+nity composition and also changes at phylum level for
+colonic samples did not show any signiﬁcant difference
+between the DSS and control mice, the results suggest
+that analysis at microbial functional level might reveal
+important colitis-related changes in gut microbiome
+that are otherwise not noticeable at higher phylogenetic
+or community levels.

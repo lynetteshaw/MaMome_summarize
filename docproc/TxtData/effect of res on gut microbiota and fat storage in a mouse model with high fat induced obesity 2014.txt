@@ -147,7 +147,7 @@ Gene name
 
 Abbreviation
 
-Primer sequences (50–30)
+Primer sequences 
 
 Amplicon size (bp)
 
@@ -246,7 +246,7 @@ liver, and abdominal fat weight.
 diet had a normal body,
 Compared with normal chow diet-fed mice, HF mice showed
 signicant increases in the body, liver, and adipose weights
-(Fig. 1). Especially, there was a 1.6-fold increase in the adiposite
+. Especially, there was a 1.6-fold increase in the adiposite
 index of HF mice compared with the CT group. However, RES
 treatment signicantly inhibited increases in body and fat
 
@@ -275,10 +275,10 @@ FISH analysis, as a quantitative molecular-based technique, was
 applied to assess the microbiota composition. The relative
 abundance of the major bacterial groups indicated that, even
 when considering a degree of interindividual variation, the HF
-diet induced the gut microbiota dysbiosis (Fig. 2A). The results
+diet induced the gut microbiota dysbiosis . The results
 of principal coordinate analysis showed that HF microbiomes
 were clearly diﬀerent from those in CT and HF-RES mice
-(Fig. 2B). Moreover, the principal coordinate analysis scores plot
+. Moreover, the principal coordinate analysis scores plot
 in Fig. 2B supports the presence of overlapping clusters between
 HF-RES and CT groups, which illustrated the relative similarity
 of CT and RES treated mice in microbiotal proles. Lactobacillus
@@ -286,9 +286,9 @@ was reduced by 1.8-fold in HF mice and Bidobacterium was
 decreased by 1.9-fold, whereas Enterococcus
 faecalis was
 increased by 1.8-fold in the HF group compared with CT mice
-(Fig. 2C). Aer RES treatment, Lactobacillus and Bidobacterium
+. Aer RES treatment, Lactobacillus and Bidobacterium
 were signicantly increased, whereas Enterococcus faecalis was
-signicantly decreased to that of control levels (Fig. 2C). In
+signicantly decreased to that of control levels . In
 
 This journal is © The Royal Society of Chemistry 2014
 
@@ -389,30 +389,30 @@ addition, in our study, a high-fat diet resulted in 2.2-fold lower
 Bacteroidetes-to-Firmicutes ratios than those of CT mice,
 whereas RES supplemented diets resulted in a higher abun-
 dance of Bacteroidetes and a lower abundance of Firmicutes
-(Fig. 2D).
+.
 
 Relationship between body weight and gut microbiota
 
 The correlations between body weight and the colonic bacterial
-content were calculated (Fig. 3). Body weight was positively and
+content were calculated . Body weight was positively and
 signicantly correlated with Enterococcus faecalis (P < 0.05)
-(Fig. 3C), and body weight was negatively correlated with
-Lactobacillus and Bidobacterium (Fig. 3A and B). In addition, a
+, and body weight was negatively correlated with
+Lactobacillus and Bidobacterium . In addition, a
 negative correlation was found between the body weight and the
 ratios of Bacteroidetes-to-Firmicutes (r ¼ (cid:4)0.805, P ¼ 0.002)
-(Fig. 3D).
+.
 
 The suppressive eﬀect of RES on Fiaf expression in the
 intestine
 Fiaf expression was signicantly decreased by 2.1-fold in the
 intestines of HF mice compared with normal controls, and Lpl
 (lipoprotein lipase) expression was signicantly increased by
-1.9-fold (Fig. 4A and B). However, aer RES treatment, Fiaf
+1.9-fold . However, aer RES treatment, Fiaf
 expression in the intestines of HF mice was signicantly
 increased and even higher than the CT group, but had no
 signicant change. Moreover, Lpl expression showed decreasing
 tendency in HF-RES mice compared with normal controls, and
-had a signicant change (Fig. 4A and B).
+had a signicant change .
 
 Eﬀect of RES on gene expressions in the liver
 
@@ -420,29 +420,29 @@ Glucose and insulin are known to induce the expression of
 lipogenic enzymes in the liver.25 Oil Red O staining of liver
 sections conrmed that there was severe steatosis seen in HF
 mice compared with the CT group, which was well prevented in
-RES treatment mice (Fig. 5A). QRT-PCR assays conrmed that
+RES treatment mice . QRT-PCR assays conrmed that
 the HF diet was accompanied by 4.5-fold statistically signicant
 elevations in the liver mRNAs encoding one key regulator of
 fatty acid release from triglyceride rich lipoproteins, Lpl
 signicantly
-(Fig. 5B).
+.
 Intriguingly, Lpl expression was
-decreased in the intestine (Fig. 4B). In addition, HF mice
+decreased in the intestine . In addition, HF mice
 showed a decrease in Cyp7a1 expression, which encodes
 cholesterol 7a-hydroxylase and can catalyze the initial step in
 cholesterol catabolism and bile acid synthesis. Although HF
 diet feeding reduced hepatic Cyp7a1 expression, RES treatment
-up regulates this expression (Fig. 5C). The biomarker of fatty
+up regulates this expression . The biomarker of fatty
 acid biosynthesis, Scd1, was signicantly increased under HF-
-fed conditions, as compared to normal diet-fed mice (Fig. 5D).
+fed conditions, as compared to normal diet-fed mice .
 In contrast, RES ingestion normalized the expression of Scd1
-(Fig. 5D).
+.
 
 RES inhibits storage of triglycerides in adipocytes
 
 Histochemical studies allowed us to conclude that the high-fat
 diet-induced increase in the epididymal fat pad weight reect-
-ing adipocyte hypertrophy (Fig. 6A). Moreover, qRT-PCR anal-
+ing adipocyte hypertrophy . Moreover, qRT-PCR anal-
 yses of epididymal fat pad RNA revealed that the expressions of
 key genes responsible for adipogenesis (Ppar-g) and lipogenesis
 
@@ -456,10 +456,10 @@ Food & Function
 
 (Acc1 and Fas) were signicantly increased by 3.2-fold, 2.6-fold,
 and 2.1-fold, respectively, aer a high-fat diet
-(Fig. 6B).
+.
 However, RES treatment signicantly suppressed the expres-
 sion of Ppar-g, Acc1 and Fas, suggesting that RES inhibits
-storage of triglycerides in the adipocytes (Fig. 6B).
+storage of triglycerides in the adipocytes .
 
 Discussion
 
@@ -484,7 +484,7 @@ microbiota dysbiosis. These ndings are in line with Cani et al.,29
 who found that the high-fat diet disrupted gut microbiota by
 promoting the growth of endotoxin producers. Resveratrol
 treatment signicantly improved the gut microbiota dysbiosis
-induced by the HF diet (Fig. 2A and B). Few studies have inves-
+induced by the HF diet . Few studies have inves-
 tigated the eﬀect of dietary resveratrol on the complex gut
 microbiota, and they focused mainly on selected bacterial pop-
 ulations. In addition, there was a decrease in the Lactobacillus
@@ -691,239 +691,3 @@ Science Foundation of China (no. 31201805), the Fundamental
 Research Funds for the Central Universities (no. JUDCF10058),
 the 12th 5 Year Plan for Science and Technology Development
 (no. 2012BAD33B05).
-
-References
-
-1 B. Rokholm, et al., The levelling oﬀ of the obesity epidemic
-since the year 1999–a review of evidence and perspectives,
-Obes. Rev., 2010, 11(12), 835–846.
-
-3 C. J. Lavie, et al., Obesity and cardiovascular disease: risk
-factor, paradox, and impact of weight loss, J. Am. Coll.
-Cardiol., 2009, 53(21), 1925–1932.
-
-4 T. M. Powell and A. Khera, Therapeutic approaches to
-obesity, Curr. Treat. Options Cardiovasc. Med., 2010, 12(4),
-381–395.
-
-5 V. Robles Alonso and F. Guarner, Linking the gut microbiota
-J. Nutr., 2013, 109(suppl. 2),
-
-to human health, Br.
-S21–S26.
-
-6 F. Backhed, et al., Mechanisms underlying the resistance to
-diet-induced obesity in germ-free mice, Proc. Natl. Acad. Sci.
-U. S. A., 2007, 104(3), 979–984.
-
-7 B. S. Samuel and J. I. Gordon, A humanized gnotobiotic
-mouse model of host-archaeal-bacterial mutualism, Proc.
-Natl. Acad. Sci. U. S. A., 2006, 103(26), 10011–10016.
-
-8 F. Backhed, et al., The gut microbiota as an environmental
-factor that regulates fat storage, Proc. Natl. Acad. Sci. U. S.
-A., 2004, 101(44), 15718–15723.
-
-9 J. Walker, et al., Resveratrol and its metabolites inhibit pro-
-in U-937
-concentrations,
-
-in plasma-representative
-
-inammatory eﬀects of
-macrophages
-Food Funct., 2014, 5, 74–84.
-
-lipopolysaccharides
-
-10 J. A. Baur and D. A. Sinclair, Therapeutic potential or
-resveratrol: the in vivo evidence, Nat. Rev. Drug Discovery,
-2006, 5(6), 493–506.
-
-11 S. Kim, et al., Resveratrol exerts anti-obesity eﬀects via
-mechanisms involving down-regulation of adipogenic and
-inammatory processes in mice, Biochem. Pharmacol.,
-2011, 81(11), 1343–1351.
-
-12 X. H. Zhang, et al., Anti-obesity eﬀect of resveratrol-amplied
-grape skin extracts on 3T3-L1 adipocytes diﬀerentiation,
-Nutr. Res. Pract., 2012, 6(4), 286–293.
-
-13 U. Stervbo, et al., A review of the content of the putative
-chemopreventive phytoalexin resveratrol in red wine, Food
-Chem., 2007, 101(2), 449–457.
-
-14 R. Zamora-Ros, et al., Concentrations of resveratrol and
-derivatives in foods and estimation of dietary intake in a
-Spanish population: European Prospective Investigation
-into Cancer and Nutrition (EPIC)-Spain cohort, Br. J. Nutr.,
-2008, 100(1), 188–196.
-
-15 M. I. Kaldas, et al., Resveratrol transport and metabolism by
-human intestinal Caco-2 cells, J. Pharm. Pharmacol., 2003,
-55(3), 307–312.
-
-16 X. Vitrac, et al., Distribution of [14C]-trans-resveratrol, a
-cancer chemopreventive polyphenol, in mouse tissues aer
-oral administration, Life Sci., 2003, 72(20), 2219–2233.
-17 M. Azor´ın-Ortu˜no, et al., Metabolites and tissue distribution
-of resveratrol in the pig, Mol. Nutr. Food Res., 2011, 55(8),
-1154–1168.
-18 C. Manach,
-
-et al., Polyphenols:
-bioavailability, Am. J. Clin. Nutr., 2004, 79, 727–747.
-
-food sources and
-
-19 J. A. Baur, et al., Resveratrol improves health and survival of
-mice on a high-calorie diet, Nature, 2006, 444(7117), 337–
-342.
-
-2 N. Alkhouri, et al., Adipocyte apoptosis, a link between
-obesity, insulin resistance, and hepatic steatosis, J. Biol.
-Chem., 2010, 285(5), 3428–3438.
-
-20 P. Trinder, Determination of glucose in blood using glucose
-oxidase with an alternative oxygen acceptor, Ann. Clin.
-Biochem., 1969, 6, 24–27.
-
-1248 | Food Funct., 2014, 5, 1241–1249
-
-This journal is © The Royal Society of Chemistry 2014
-
-Published on 01 April 2014. Downloaded by University of Tennessee at Knoxville on 22/08/2014 19:06:30. View Article OnlinePaper
-
-Food & Function
-
-21 A. Schwiertz, et al., Quantication of diﬀerent Eubacterium
-in human fecal samples with species-specic 16S
-spp.
-rRNA-targeted oligonucleotide probes, Appl. Environ.
-Microbiol., 2000, 66(1), 375–382.
-
-22 E. G. Zoetendal, et al., Quantication of uncultured
-Ruminococcus obeum-like bacteria in human fecal samples
-by uorescent in situ hybridization and ow cytometry
-using 16S rRNA-targeted probes, Appl. Environ. Microbiol.,
-2002, 68(9), 4225–4232.
-
-23 A. H. Franks, et al., Variations of bacterial populations in
-human feces measured by uorescent in situ hybridization
-with group-specic 16S rRNA-targeted oligonucleotide
-probes, Appl. Environ. Microbiol., 1998, 64(9), 3336–3345.
-24 N. Kruse, et al., Quantication of cytokine mRNA expression
-by RT PCR in samples of previously frozen blood, J. Immunol.
-Methods, 1997, 210(2), 195–203.
-
-25 H. C. Towle, Glucose and cAMP: adversaries in the
-regulation of hepatic gene expression, Proc. Natl. Acad. Sci.
-U. S. A., 2001, 98(24), 13476–13478.
-
-26 C. Zhang, et al., Interactions between gut microbiota, host
-genetics and diet relevant to development of metabolic
-syndromes in mice, ISME J., 2010, 4(2), 232–241.
-
-27 W. D. Xie, et al., Enhanced peroxisomal b-oxidation
-metabolism in visceral adipose tissues of high-fat diet-fed
-obesity resistant C57BL/6 mice, Exp. Ther. Med., 2011, 2(2),
-309–315.
-
-28 C. A. Tennyson and G. Friedman, Microecology, obesity, and
-probiotics, Curr. Opin. Endocrinol., Diabetes Obes., 2008, 15,
-422–427.
-
-29 P. D. Cani, et al., Selective increases of bidobacteria in gut
-microora improve high-fat-diet-induced diabetes in mice
-through a mechanism associated with endotoxaemia,
-Diabetologia, 2007, 50(11), 2374–2383.
-
-30 Y. Qiao, et al., Alterations of the gut microbiota in high-fat
-diet mice is strongly linked to oxidative stress, Appl.
-Microbiol. Biotechnol., 2013, 97(4), 1689–1697.
-
-31 M. Larrosa, et al., Eﬀect of a low dose of dietary resveratrol
-on colon microbiota, inammation and tissue damage in a
-DSS-induced colitis rat model, J. Agric. Food Chem., 2009,
-57(6), 2211–2220.
-
-32 G. Musso, et al., Gut microbiota as a regulator of energy
-homeostasis and ectopic fat deposition: mechanisms and
-implications for metabolic disorders, Curr. Opin. Lipidol.,
-2010, 21(1), 76–83.
-
-33 J. K. DiBaise, et al., Gut microbiota and its possible
-relationship with obesity, Mayo Clin. Proc., 2008, 83(4),
-460–469.
-
-34 R. E. Ley, et al., Obesity alters gut microbial ecology, Proc.
-
-Natl. Acad. Sci. U. S. A., 2005, 102, 11070–11075.
-
-and dietary polyphenols:
-
-35 R. A. Kemperman, et al., Novel approaches for analysing gut
-and
-
-microbes
-opportunities, Microbiology., 2010, 156(Pt11), 3224–3231.
-36 T. W. Sirk, et al., Molecular binding of catechins to
-biomembranes: relationship to biological activity, J. Agric.
-Food Chem., 2009, 57(15), 6720–6728.
-
-challenges
-
-37 A. H. Smith and R. I. Mackie, The eﬀect of condensed
-tannins on bacterial diversity and metabolic activity in the
-rat gastrointestinal tract, Appl. Environ. Microbiol., 2004,
-70(2), 1104–1115.
-
-38 N. Fei and L. Zhao, An opportunistic pathogen isolated from
-the gut of an obese human causes obesity in germfree mice,
-ISME J., 2012, 7(4), 880–884.
-
-40 A. M. Neyrinck,
-
-39 S. Vendrame, et al., Six-week consumption of a wild
-blueberry powder drink increases bidobacteria in the
-human gut, J. Agric. Food Chem., 2011, 59(24), 12815–12820.
-et al., Polyphenol-rich extract of
-pomegranate peel alleviates tissue inammation and
-hypercholesterolaemia in high-fat diet-induced obese mice:
-potential implication of the gut microbiota, Br. J. Nutr.,
-2013, 109(5), 802–809.
-
-41 K. Preiss-Landl, et al., Lipoprotein lipase: the regulation of
-tissue specic expression and its role in lipid and energy
-metabolism, Curr. Opin. Lipidol., 2002, 13(5), 471–481.
-42 R. Guti´errez-Ju´arez, et al., Critical role of stearoyl-CoA
-desaturase–1 (SCD1) in the onset of diet-induced hepatic
-insulin resistance, J. Clin. Invest., 2006, 116(6), 1686–1695.
-43 T. Li, et al., Transgenic expression of cholesterol 7a-
-hydroxylase in the liver prevents high-fat diet-induced
-obesity and insulin resistance in mice, Hepatology., 2010,
-52(2), 678–690.
-
-44 R. Siersbaek, et al., PPARgamma in adipocyte diﬀerentiation
-and metabolism-novel insights from genome-wide studies,
-FEBS Lett., 2010, 584(15), 3242–3249.
-
-45 Y. Shen and L. Tong, Structural evidence for direct
-interactions between the BRCT domains of human BRCA1
-and a phospho-peptide from human ACC1, Biochemistry,
-2008, 47(21), 5767–5773.
-
-46 E. S. Pizer, et al., Fatty acid synthase (FAS): a target for
-cytotoxic antimetabolites in HL60 promyelocytic leukemia
-cells, Cancer Res., 1996, 56(4), 745–751.
-
-47 A. Brunani, et al., Rosiglitazone is more eﬀective than
-metformin in improving fasting indexes of glucose
-metabolism in severely obese, non-diabetic patients,
-Diabetes, Obes. Metab., 2008, 10(6), 460–467.
-
-This journal is © The Royal Society of Chemistry 2014
-
-Food Funct., 2014, 5, 1241–1249 | 1249
-
-Published on 01 April 2014. Downloaded by University of Tennessee at Knoxville on 22/08/2014 19:06:30. View Article Online

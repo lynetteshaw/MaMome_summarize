@@ -1,0 +1,3 @@
+Example: Metagenomic analysis of feces samples tells us that Person A has 5 reads mapped to
+bacterium Escherichia coli, while person B has 10. Answer: No, read counts cannot be
+compared across samples. Solutions: (I) Convert read counts to relative abundances before comparison. (

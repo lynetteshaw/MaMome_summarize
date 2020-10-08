@@ -5,33 +5,33 @@ Microorganisms 2019, 7, 14
 2 of 22
 
 The human gastrointestinal (GI) tract contains an abundant and diverse microbial community
-that gathers more than 100 trillion microorganisms [1]. The density of bacterial cells in the colon has
+that gathers more than 100 trillion microorganisms  The density of bacterial cells in the colon has
 been estimated at 1011 to 1012 per milliliter which makes the colon one of the most densely populated
-microbial habitats known on earth [2]. The gut microbiome encodes over 3 million genes producing
-thousands of metabolites, whereas the human genome consists of approximately 23,000 genes [3].
+microbial habitats known on earth  The gut microbiome encodes over 3 million genes producing
+thousands of metabolites, whereas the human genome consists of approximately 23,000 genes 
 For years, scientists have been interested in gut microbiota, but one of the major difﬁculties in the
-relevant research has been the ability to culture these microorganisms [4]. During the last years, new
+relevant research has been the ability to culture these microorganisms  During the last years, new
 technologies have allowed researchers to phylogenetically identify and/or quantify the components
 of the gut microbiota by analyzing nucleic acids (DNA and RNA) directly extracted from stools.
 The majority of these techniques are based on the extraction of DNA and the ampliﬁcation of the 16S
-ribosomal RNA gene (rRNA) [5,6]. 16S rRNA sequencing has become the most useful technique to
+ribosomal RNA gene (rRNA)  16S rRNA sequencing has become the most useful technique to
 highlight diversity and abundance of the microbiome. The 16S rRNA gene sequences can be exploited
 with polymerase chain reaction (PCR) and metagenomics sequencing to characterize the microbial
-strains [7].
+strains 
 
 Considering the characteristics of gut microbiota such as the large diversity, the stability and
 resilience, and the symbiotic interaction with the host, we can deﬁne the host and the microorganisms
-inhabiting it as a “superorganism” [8,9] which performs immune and metabolic functions [1].
+inhabiting it as a “superorganism” 
 Gut bacteria are key regulators of digestion along the gastrointestinal tract; commensal bacteria
 play an important role in the extraction, synthesis, and absorption of many nutrients and metabolites,
 including bile acids, lipids, amino acids, vitamins, and short-chain fatty acids (SCFAs). Gut microbiota
 have a crucial immune function against pathogenic bacteria colonization inhibiting their growth,
 consuming available nutrients and/or producing bacteriocins. Gut microbiota also prevent bacteria
-invasion by maintaining the intestinal epithelium integrity [10]. Microorganisms prevent pathogenic
+invasion by maintaining the intestinal epithelium integrity  Microorganisms prevent pathogenic
 colonization by many competition processes: nutrient metabolism, pH modiﬁcation, antimicrobial
 peptide secretions, and effects on cell signaling pathways. Moreover, recent studies have identiﬁed a
 critical role for commensal bacteria and their products in regulating the development, homeostasis,
-and function of innate and adaptive immune cells [11]. It is paradoxical to note that the gut microbiota
+and function of innate and adaptive immune cells  It is paradoxical to note that the gut microbiota
 functions are highly preserved between individuals, whereas each individual’s gut microbiota are
 characterized by a speciﬁc combination of bacterial species due to inter-individual and intra-individual
 variations throughout human life.
@@ -47,14 +47,14 @@ huge implications for intestinal and extra-intestinal disorders and, consequentl
 
 Gut microbiota are composed of several species of microorganisms, including bacteria, yeast,
 and viruses. Taxonomically, bacteria are classiﬁed according to phyla, classes, orders, families,
-genera, and species. Only a few phyla are represented, accounting for more than 160 species [12].
+genera, and species. Only a few phyla are represented, accounting for more than 160 species 
 The dominant gut microbial phyla are Firmicutes, Bacteroidetes, Actinobacteria, Proteobacteria,
-Fusobacteria, and Verrucomicrobia, with the two phyla Firmicutes and Bacteroidetes [13] representing
+Fusobacteria, and Verrucomicrobia, with the two phyla Firmicutes and Bacteroidetes representing
 90% of gut microbiota. The Firmicutes phylum is composed of more than 200 different genera such
 as Lactobacillus, Bacillus, Clostridium, Enterococcus, and Ruminicoccus. Clostridium genera represent
 95% of the Firmicutes phyla. Bacteroidetes consists of predominant genera such as Bacteroides and
 Prevotella. The Actinobacteria phylum is proportionally less abundant and mainly represented by
-the Biﬁdobacterium genus [13]. Examples of taxonomic gut microbiota composition are illustrated in
+the Biﬁdobacterium genus  Examples of taxonomic gut microbiota composition are illustrated in
 Figure 1.
 
 Microorganisms 2019, 7, 14
@@ -78,11 +78,11 @@ Microorganisms 2018, 6, x FOR PEER REVIEW  3 of 23  Figure 1. Examples of taxono
 
 Gut microbiota vary according to the intestine anatomical regions, which vary in terms of
 physiology, pH and O2 tension, digesta ﬂow rates (rapid in the mouth to the caecum, slower
-afterward), substrate availability, and host secretions [14]. The small intestine provides a more
-challenging environment for microbial colonizers given the fairly short transit times (3–5 h) and
+afterward), substrate availability, and host secretions  The small intestine provides a more
+challenging environment for microbial colonizers given the fairly short transit times and
 the high bile concentrations. The large intestine, which is characterized by slow ﬂow rates and
 neutral to mildly acidic pH, harbors by far the largest microbial community (dominated by obligate
-anaerobic bacteria) [14]. We can observe a microbiota quantitative increasing gradient and a microbiota
+anaerobic bacteria)  We can observe a microbiota quantitative increasing gradient and a microbiota
 qualitative decreasing gradient with a progressive aerobic bacteria decrease for the beneﬁt of strictly
 anaerobic bacteria (Table 1).
 
@@ -93,39 +93,39 @@ Birth Gestational Age
 Birth gestational age is a major determinant of gut microbiota colonization. The microbiota
 composition of preterm infants (<37 weeks of gestation) is different from term counterparts (Table 1).
 In preterm infants, after birth, the microbiota colonization is challenged by organ immaturity and
-environmental factors such as antibiotic use, hospital stay [15], and enteral feeding [16]. For these
+environmental factors such as antibiotic use, hospital stay  For these
 reasons, the postnatal maturation of gut and systemic immunity may be highly affected by preterm
-birth [16].
+birth 
 
 In a new-born pig model, an analysis of the gut microbiota composition of preterm and term pigs
 showed that Ruminococcus spp., some Enterobacterium spp., Lachnospiraceae, Peptostreptococcaceae, and
 Clostridiaceae were dominant genera in both preterm and term pigs. However, a higher Enterococcus spp.
-abundance in preterm than term pigs was found [16].
+abundance in preterm than term pigs was found 
 
 Preterm infants show low diversity with an increased colonization of potentially pathogenic
-bacteria from the Enterobacteriaceae family of the Proteobacteria phylum [15] and reduced levels of
-strict anaerobes such as Biﬁdobacterium [17], Bacteroides, and Atopobium [15].
+bacteria from the Enterobacteriaceae family of the Proteobacteria phylum and reduced levels of
+strict anaerobes such as Biﬁdobacterium 
 
 Human milk composition depends on genetic factors and the mother’s secretor and Lewis blood
-groups deﬁning four phenotypes characterized by different levels of oligosaccharide amounts [18].
+groups deﬁning four phenotypes characterized by different levels of oligosaccharide amounts 
 Higher levels of Proteobacteria and lower levels of Firmicutes are noted in premature infants of
-non-secretor mothers [19]. A recent study by Praticò et al. [20] characterizing human breast milk
+non-secretor mothers characterizing human breast milk
 composition demonstrated that human milk oligosaccharides (HMOs) related to different mother
 phenotypes modulate gut microbiota composition in infants. Speciﬁcally, HMOs associated with
 secretor mothers may have a protective prebiotic effect by decreasing pathogens associated with
-sepsis and necrotizing enterocolitis (NEC) [19]. This indicates that HMOs may inﬂuence the intestinal
-microbiota and prevent gut dysfunction and NEC in preterm infants [21].
+sepsis and necrotizing enterocolitis (NEC)  This indicates that HMOs may inﬂuence the intestinal
+microbiota and prevent gut dysfunction and NEC in preterm infants 
 
 Lactoferrin (LF) is another well-known component of human milk favoring gut infant colonization
 with beneﬁcial bacteria and consequently representing a crucial role played in preterm infants’
-microbiota [22]. Indeed, correlations between LF and beneﬁcial microbiota in breast milk and infant’s
-feces have been demonstrated [22]. High levels of fecal LF, particularly in preterm infants, may
+microbiota  Indeed, correlations between LF and beneﬁcial microbiota in breast milk and infant’s
+feces have been demonstrated  High levels of fecal LF, particularly in preterm infants, may
 represent an important factor in the initiation, development, and/or composition of the neonatal gut
 microbiota contributing to the immunologic maturation and well-being of the newborn, especially in
-preterm infants [22].
+preterm infants 
 
 Therefore, a mother’s own milk helps to shape developing core gut microbiota that can improve
-growth and neurodevelopment and decrease the risk of NEC and late-onset sepsis [19,21]. It is for all
+growth and neurodevelopment and decrease the risk of NEC and late-onset sepsis  It is for all
 these reasons that human milk should be the primary enteral diet of premature infants.
 
 Microorganisms 2019, 7, 14
@@ -136,51 +136,51 @@ Type of Delivery
 
 At birth, the intestine is sterile and devoid of bacteria. After birth, a rich and dynamic ecosystem
 develops from mother’s skin, vaginal and fecal microbiota, and environment microbiota contacts.
-Microbiota colonization varies according to the type of delivery [23–25] (Table 1).
+Microbiota colonization varies according to the type of delivery (Table 1).
 
 With regard to vaginal delivery, newborns acquire a microbiota composition resembling their
-mother’s vaginal microbiota. Indeed, an analysis of the meconium of newborn infants [24] revealed a
+mother’s vaginal microbiota. Indeed, an analysis of the meconium of newborn infants revealed a
 strong correlation between the microbiota of the newborn digestive tract and the microbial communities
-of the mother’s vagina: Lactobacillus, Prevotella, and Sneathia. Biasucci et al. [25] showed that the
+of the mother’s vagina: Lactobacillus, Prevotella, and Sneathia. Biasucci et al. showed that the
 microbiota of vaginally delivered infants are also characterized by predominant groups such as
 Biﬁdobacterium longum and Biﬁdobacterium catenulatum. Other facultative anaerobic species such as
-Escherichia coli, Staphylococcus, Bacteroides fragilis, and Streptococcus colonize the infant gut [26–28].
+Escherichia coli, Staphylococcus, Bacteroides fragilis, and Streptococcus colonize the infant gut 
 
 On the contrary, infants born by cesarean section (C-section) acquire bacteria derived from
 hospital environment and mother’s skin: Staphylococcus, Corynebacterium, Propionibacterium spp. [24,
 29]. Escherichia, Shigella, and Bacteroides species are underrepresented in infants born by cesarean
-delivery [29]. The intestinal microbiota of neonates delivered by cesarean delivery are less diverse in
-terms of bacteria species than the microbiota of vaginally delivered infants [25].
+delivery  The intestinal microbiota of neonates delivered by cesarean delivery are less diverse in
+terms of bacteria species than the microbiota of vaginally delivered infants 
 
 Differences between the microbiota of C-section and vaginally born infants have been also detected
-in analyses performed at 7 years of age [23]. Cesarean birth has been associated with an increased risk
+in analyses performed at 7 years of age  Cesarean birth has been associated with an increased risk
 of chronic immune disorders such as asthma, systemic connective tissue disorders, juvenile arthritis,
-inﬂammatory bowel disease [30], and obesity [31].
+inﬂammatory bowel disease 
 
 Methods of Milk Feeding
 
 Studies have demonstrated that formula-fed infants are more often colonized with Escherichia coli,
-Bacteroides, and Clostridium difﬁcile compared with breastfed infants [29,32]. Regarding Actinobacteria
-abundance, Biﬁdobacterium spp. have been associated with breastfeeding and formula milk [33,34].
+Bacteroides, and Clostridium difﬁcile compared with breastfed infants  Regarding Actinobacteria
+abundance, Biﬁdobacterium spp. have been associated with breastfeeding and formula milk 
 However, breastfed infants generally harbor a more complex and diverse Biﬁdobacterium microbiota
-than formula-fed infants [34]. Breastfed infants are provided with microbiota having more than a
-two-fold increase in the number of Biﬁdobacterium cells compared to formula-fed infants [33]. Breastfed
+than formula-fed infants  Breastfed infants are provided with microbiota having more than a
+two-fold increase in the number of Biﬁdobacterium cells compared to formula-fed infants  Breastfed
 infants have more beneﬁcial gut microbiota, with a higher richness and diversity of Biﬁdobacterium spp.
-and a lower number of Clostridium difﬁcile and Escherichia coli than formula-fed infants [32] (Table 1).
+and a lower number of Clostridium difﬁcile and Escherichia coli than formula-fed infants (Table 1).
 Biﬁdobacterium spp. are responsible for the fermentation of galactooligosaccharide (GOS), one
-of the main components of breast milk, to produce SCFAs [35]. Indeed, Biﬁdobacterium spp. have an
-enzyme named lacto-N-biosidase, which facilitates the assimilation of GOS [36]. If Biﬁdobacterium
+of the main components of breast milk, to produce SCFAs  Indeed, Biﬁdobacterium spp. have an
+enzyme named lacto-N-biosidase, which facilitates the assimilation of GOS  If Biﬁdobacterium
 quantity increases, the quantity of HMOs in feces decreases causing elevated acetate and lactate
-concentrations and decreasing pH [37]; an HMO consumption by Biﬁdobacteria in the infant’s
+concentrations and decreasing pH  an HMO consumption by Biﬁdobacteria in the infant’s
 gut may suggest a prebiotic effect of HMOs on gut infant microbiota by selectively stimulating
-Biﬁdobacterium spp. [37]. Another prebiotic effect of β-palmitate, a natural human milk fatty acid
+Biﬁdobacterium spp.  Another prebiotic effect of β-palmitate, a natural human milk fatty acid
 and a component of some infant formulas, on gut infant microbiota was demonstrated by positively
-inﬂuencing Biﬁdobacterium spp. (and Lactobacillus spp.) abundance [38].
+inﬂuencing Biﬁdobacterium spp. (and Lactobacillus spp.) abundance 
 
 Furthermore, the maintenance of a healthy and balanced mother’s gut microbiota during
 pregnancy is also considered as an important factor in positively inﬂuencing the milk microbiota
-composition [39]. Additionally, oral probiotic supplementation in mothers with vaginal delivery may
-increase breast milk Biﬁdobacterium spp. and Lactobacilli spp. abundance [39].
+composition  Additionally, oral probiotic supplementation in mothers with vaginal delivery may
+increase breast milk Biﬁdobacterium spp. and Lactobacilli spp. abundance 
 
 These studies have shown that native core microbiota are shaped during early life: the proﬁle
 of intestinal microbiota in the full-term, vaginally delivered, and breastfed infant with healthy and
@@ -195,13 +195,13 @@ Weaning Period
 
 The introduction of solid foods and the termination of milk-feeding/weaning coincide with
 major gut microbiota changes. The abundance of genera Biﬁdobacterium, Clostridium coccoides, and
-Bacteroides are predominant after weaning [40]. The microbiota of breastfed children and the microbiota
+Bacteroides are predominant after weaning  The microbiota of breastfed children and the microbiota
 of children previously fed with formula milk become closer to each other (Table 1).
 
 Dietary habits, infant weaning, and feeding practices become determinants and play a crucial role
 in gut microbiota variations. The introduction of high-ﬁber and carbohydrate foods (traditional foods)
 causes an increase in Firmicutes and Prevotella, whereas the introduction of high-ﬁber and animal
-protein foods causes an increase in Bacteroidetes [41]. Furthermore, Fallani et al. [40] demonstrated
+protein foods causes an increase in Bacteroidetes demonstrated
 that northern European countries are associated with a higher proportion of Biﬁdobacteria in the
 infant gut microbiota, whereas higher levels of Bacteroides and Lactobacilli characterize southern
 European countries.
@@ -210,46 +210,46 @@ European countries.
 
 At one year old, a child’s microbiota composition has a characteristic abundance of Akkermansia
 
-muciniphila, Bacteroides, Veillonella, Clostridium coccoides spp., and Clostridium botulinum spp. [42].
+muciniphila, Bacteroides, Veillonella, Clostridium coccoides spp., and Clostridium botulinum spp. 
 
 Microbiota diversity increases with age until it becomes a stable adult microbiota composition
 dominated by three bacterial phyla (Table 1): Firmicutes (Lachnospiraceae and Ruminococcaceae),
 Bacteroidetes (Bacteroidaceae, Prevotellaceae, and Rikenellaceae), and Actinobacteria (Biﬁdobacteriaceae
 and Coriobacteriaceae) that are the result of maturation due to the inﬂuence of genetics, environment,
-diet, lifestyle, and gut physiology [42]. At approximately three years of age, a child’s gut microbiota
-composition and diversity are most like those of adults [43].
+diet, lifestyle, and gut physiology  At approximately three years of age, a child’s gut microbiota
+composition and diversity are most like those of adults 
 
 With regard to older people over the age of 70, gut microbiota composition can be affected by
 digestion and nutrient absorption changes and immune activity weakness. Dietary habit changes
 (more monotonous) may also weaken gut microbiota diversity. A decrease in anaerobic bacteria such
-as Biﬁdobacterium spp. and an increase in Clostridium and Proteobacteria have been observed [44].
+as Biﬁdobacterium spp. and an increase in Clostridium and Proteobacteria have been observed 
 Given the role of Biﬁdobacterium spp. in the stimulation of the immune system and metabolic processes,
 a Biﬁdobacteria decrease may partially explain low systemic inﬂammatory status and malnutrition in
-older adults [45].
+older adults 
 
 2.1.4. Antibiotics
 
 Gut microbiota composition can be more or less affected by antibiotic use. A follow-up
 study explored the effect of antibiotics with different modes of action on human gut microbiota
-composition [46] and demonstrated that antibiotic treatments modify the gut microbiota composition
+composition and demonstrated that antibiotic treatments modify the gut microbiota composition
 with an abundance/appearance of certain species and a decrease/disappearance of other species
 (Table 1). Broad-spectrum antibiotics lead to an imbalance between Firmicutes and Bacteroidetes.
 The bacterial diversity decreases and so does the abundance of these bacteria during the treatments.
 The alteration of microbiome composition depends on the antibiotic class, dose, period of exposure,
-pharmacological action, and target bacteria [47] (Table 1). Speciﬁc properties of antibiotics such as
+pharmacological action, and target bacteria (Table 1). Speciﬁc properties of antibiotics such as
 antimicrobial effects or mode of action are powerful forces for the selection of intestinal microbiota
-and are partially responsible for the shifts in bacterial composition during antibiotic therapy [46].
+and are partially responsible for the shifts in bacterial composition during antibiotic therapy 
 
 Each class of antibiotics has different properties and excretion systems, resulting in different
 
-patterns of alteration in the microbiome composition [47].
+patterns of alteration in the microbiome composition 
 
 A cultivation-independent survey of gut microbiota composition of three persons before, during,
-and after two exposures to the same antibiotic (ciproﬂoxacin) [48] has been conducted. This study
+and after two exposures to the same antibiotic (ciproﬂoxacin) has been conducted. This study
 revealed a considerable resilience to antibiotic administration but also suggested that, in some cases,
 the system retains a memory of past disturbance and that, in all cases, repeated disturbance leads to a
-persistent regime shift [48]. The impact of antibiotic disturbance on the resilience of microbiota during
-future antibiotic treatments can thus also vary considerably across individuals [49].
+persistent regime shift  The impact of antibiotic disturbance on the resilience of microbiota during
+future antibiotic treatments can thus also vary considerably across individuals 
 
 Microorganisms 2019, 7, 14
 
@@ -406,7 +406,7 @@ Diversity
 
 Ref.
 
-[14]
+
 
 ↓
 
@@ -422,19 +422,19 @@ Ref.
 
 ↑
 
-[15,16,19]
 
-[16,20]
 
-[22–26]
 
-[21–23,27]
 
-[27,30–32,38]
 
-[27,30–32]
 
-[36,37]
+
+
+
+
+
+
+
 
 Microorganisms 2019, 7, 14
 
@@ -558,13 +558,13 @@ Proteobacteria *↑
 
 * Unknown genera.
 
-[38,39]
 
-[38]
 
-[40]
 
-[43]
+
+
+
+
 
 ↑
 
@@ -597,7 +597,7 @@ are illustrated in Table 2.
 2.2.1. Enterotypes
 
 Gut microbiota of each individual are speciﬁcally characterized by clusters of bacteria named
-enterotypes [13]. Three enterotypes are characterized by three dominant bacteria clusters (Table 2):
+enterotypes  Three enterotypes are characterized by three dominant bacteria clusters (Table 2):
 Bacteroides (enterotype I), Prevotella (enterotype II), or Ruminococcus (enterotype III). Each enterotype
 harbors different bacteria genera (Table 1). These three enterotypes are not only enumerations of
 bacteria; they are also speciﬁcally regrouped by functions. Indeed, an enterotype is a functional
@@ -614,32 +614,32 @@ relationships between gut microbiota and human health.
 
 2.2.2. Body Mass Index (BMI) Classes
 
-Several studies [50,51] have examined the impact of childhood BMI on gut microbiota composition
+Several studies have examined the impact of childhood BMI on gut microbiota composition
 and demonstrated that children with overweight or normal BMI are provided with a higher microbial
 diversity than underweight children. Gut microbiota diversity descends stepwise based on BMI
-class [50,52].
+class 
 
-Bervoets et al. [53] demonstrated that the microbiota of obese children are provided with
-an elevated Firmicutes-to-Bacteroidetes ratio compared to the microbiota of lean children [53].
+Bervoets et al. demonstrated that the microbiota of obese children are provided with
+an elevated Firmicutes-to-Bacteroidetes ratio compared to the microbiota of lean children 
 low relative proportions of Biﬁdobacterium vulgatus and high concentrations of
 Furthermore,
-Lactobacillus spp. are observed in the obese microbiota [53]. Riva et al. [54] conﬁrmed that obesity
+Lactobacillus spp. are observed in the obese microbiota conﬁrmed that obesity
 is associated with elevated levels of Firmicutes such as Ruminococcaceae and depleted levels of
 Bacteroidetes such as Bacteroidaceae and Bacteroides. SCFAs are higher in obese children suggesting
 elevated substrate utilization. These ﬁndings suggest that the dysbiosis of gut microbiota may
 contribute to the pathophysiology of obesity and the increased ratio of Firmicutes to Bacteroidetes is
-associated with the increased production of SCFAs and energy harvest from colonic fermentation [54].
-The underweight BMI level also revealed profound gut microbiota variations. Borgo et al. [55]
+associated with the increased production of SCFAs and energy harvest from colonic fermentation 
+The underweight BMI level also revealed profound gut microbiota variations. Borgo et al. 
 performed a comprehensive data analysis comparing gut microbiota and anthropometric traits of 15
 anorexia nervosa (AN) women and healthy controls. Results showed that AN intestinal microbiota
 showed a signiﬁcant increase in Enterobacteriaceae and Methanobrevibacter smithii compared with healthy
-controls [55]. On the contrary, the genera Roseburia, Ruminococcus, and Clostridium were depleted in
-line with the observed reduction in AN of the total SCFAs [55].
+controls  On the contrary, the genera Roseburia, Ruminococcus, and Clostridium were depleted in
+line with the observed reduction in AN of the total SCFAs 
 
 BMI levels represent a valid predictive value for gut microbiota dysbiosis. Studies have
 demonstrated that gut microbiota variations are correlated with increased or depleted production
 of SCFAs that may respectively contribute to the pathophysiology of obesity or AN. Interventions
-such as prebiotics and probiotics may be possible solutions to manage both pediatric obesity [50] and
+such as prebiotics and probiotics may be possible solutions to manage both pediatric obesity and
 AN patients.
 
 Microorganisms 2019, 7, 14
@@ -649,11 +649,11 @@ AN patients.
 2.2.3. Ethnicity, Dietary Habits, and Cultural Habits
 
 While the microbiome of a healthy individual is relatively stable, gut microbial dynamics can
-certainly be inﬂuenced by lifestyle and dietary cultural choices [56]. A study of European children
+certainly be inﬂuenced by lifestyle and dietary cultural choices  A study of European children
 (fed with the Western diet) and Burkina Faso children (assuming a diet rich in millet/sorghum +
-local vegetables containing very few lipids and animal proteins) [57] revealed that African children’s
+local vegetables containing very few lipids and animal proteins) revealed that African children’s
 microbiota have a remarkable abundance of Prevotella and Xylanibacter. Furthermore, Shigella and
-Escherichia are widely under-represented. Another study [58] compared Hadza hunter-gatherers and
+Escherichia are widely under-represented. Another study compared Hadza hunter-gatherers and
 Italian gut microbiota. At the phylum level, Hadza gut microbiota are largely enriched in Proteobacteria
 and Spirochaetes, which are extremely rare in the Italian gut microbiota, whereas Actinobacteria,
 an important subdominant component of the Italian gut microbiota, are almost absent. At the
@@ -665,32 +665,32 @@ an enterotype Prevotella (enterotype II); the African diet rich in millet/sorghu
 containing very few lipids and animal proteins allows a mucine degradation in synergy with
 Desulfovibrionaceae. European gut microbiota (Western diet) have principally an enterotype Bacteroides
 (enterotype I): the European diet rich in lipids and animal proteins allows energy production from
-carbohydrates and proteins through fermentation [13]. David et al. [59] compared plant-based diet
+carbohydrates and proteins through fermentation compared plant-based diet
 microbiome (high ﬁbers and low fats and proteins) with animal-based diet microbiome (low ﬁbers
 and high fats and proteins) and respective changes in microbiome on either diet and demonstrated
 that a shift toward an animal-based diet increases the abundance of bile-tolerant microorganisms
 (Alistipes, Bilophila, and Bacteroides) and decreases the levels of Firmicutes that metabolize dietary plant
 polysaccharides (Roseburia, Eubacterium rectale, and Ruminococcus bromii). Moreover, microbial activity
 trades off between carbohydrate and protein fermentation when the type of diet respectively changes.
-This change occurred only one day after the diet reached the distal gut microbiota. David et al. [59]
+This change occurred only one day after the diet reached the distal gut microbiota. David et al. 
 showed that diet alters human microbiota rapidly and reproducibly.
 
 2.2.4. Exercise Frequency
 
-Bai et al. [50] suggested associations of exercise frequency with gut microbiota composition
+Bai et al. suggested associations of exercise frequency with gut microbiota composition
 of young children and adolescents. Daily exercise increases gut microbial diversity (Table 2) with
 a Firmicutes enrichment microbiota: Clostridiales, Roseburia, Lachnospiraceae, and Erysipelotrichaceae
 by producing more SCFAs which may increase the expression of tight junction proteins in colon
 epithelia to heighten the resistance of the intestinal barrier, reduce mucosal permeability, and inhibit
-inﬂammatory cytokines [50,60].
+inﬂammatory cytokines 
 
-Clarke et al. [61] explored exercise and protein consumption for their impact on the gut microbiota
+Clarke et al. explored exercise and protein consumption for their impact on the gut microbiota
 of professional athletes from an international rugby union squad. A higher alpha diversity of gut
 microorganisms representing more than 20 distinct phyla has been demonstrated in athletes compared
-with high and low BMI controls [61]. Indeed, this study showed that exercise increases gut microbial
+with high and low BMI controls  Indeed, this study showed that exercise increases gut microbial
 diversity (Table 2) and protein consumption positively correlates with microbial diversity. These results
 provide evidence for a beneﬁcial impact of exercise on gut microbiota diversity, but also indicate that the
-relationship exercise–microbiota diversity is probably related to accompanying dietary extremes [61].
+relationship exercise–microbiota diversity is probably related to accompanying dietary extremes 
 
 Microorganisms 2019, 7, 14
 
@@ -721,7 +721,7 @@ Ref.
 
 Slackia
 
-Bacteroides (1)
+Bacteroides 
 Parabacteroides
 
 Methanobrevibacter
@@ -735,7 +735,7 @@ Enterotype
 
 Eggerthella
 
-Prevotella (1)
+Prevotella 
 
 III
 
@@ -825,7 +825,7 @@ Barnesiella↑
 Roseburia↓
 Eubacterium rectale↓
 Ruminococcus bromii↓
-* Unknown genera. (1) Main genera.
+* Unknown genera. Main genera.
 
 Bilophila↑
 
@@ -841,7 +841,7 @@ Peptostreptococcaceae *
 Staphylococcus
 Leuconostoc
 
-Ruminococcus (1)
+Ruminococcus 
 Staphylococcus
 Marvinbryantia
 Symbiobacterium
@@ -876,17 +876,17 @@ Faecalibacterium↓
 Ruminococcus↓
 Erysipelotrichaceae *↓
 
-[46,47,49,50]
 
-[46,51]
 
-[13]
 
-[57]
 
-[46]
 
-[53,55]
+
+
+
+
+
+
 
 ↓
 
@@ -920,17 +920,17 @@ several diseases and alterations of gut microbiota composition.
 
 Irritable bowel syndrome (IBS) is one of the most common gastrointestinal (GI) disorders and the
 
-bacterial role has been largely investigated [62].
+bacterial role has been largely investigated 
 
-The study [63] of fecal and colonic mucosal biopsy samples from IBS patients and healthy
+The study of fecal and colonic mucosal biopsy samples from IBS patients and healthy
 controls demonstrated a signiﬁcant reduction in the concentration of aerobic bacteria such as the
-Lactobacillus species in fecal samples from IBS patients compared to healthy controls. Another study [64]
+Lactobacillus species in fecal samples from IBS patients compared to healthy controls. Another study 
 demonstrated that the microbial communities of IBS patients are enriched in Proteobacteria and
 Firmicutes but reduced in Actinobacteria and Bacteroidetes compared to controls. In particular, 16S
 rDNA sequences belonging to the family Lachnospiraceae within the phylum Firmicutes are in greater
-abundance in the IBS clone library [64].
+abundance in the IBS clone library 
 
-Other studies [62,65] conﬁrmed and revealed some phyla and genera variations in IBS patients
+Other studies conﬁrmed and revealed some phyla and genera variations in IBS patients
 compared to healthy controls: an increase in the Firmicutes-to Bacteroidetes-ratio, a decrease in some
 Firmicutes families (Lactobacilli, Faecalibacterium) and the Actinobacteria population (Biﬁdobacteria,
 Collinsella), and an increase in some Firmicutes families (Veillonella, Streptococci, and Ruminococcus spp.)
@@ -945,24 +945,24 @@ Inﬂammatory bowel diseases (IBD) gather idiopathic, chronic, and relapsing in�
 
 conditions of the gastrointestinal tract including ulcerative colitis (UC) and Crohn’s disease (CRD).
 
-The ﬁndings of Frank et al. [66] indicated a diminution of Lachnospiraceae and Bacteroidetes
+The ﬁndings of Frank et al. indicated a diminution of Lachnospiraceae and Bacteroidetes
 microbial populations and an increase in Proteobacteria families in IBD patients compared to control
 gut microbiota.
 
 Gut microbiota variations appear to be different between UC and CRD. Indeed, a decreased
 abundance of the butyrate-producing bacteria Roseburia hominis and Faecalibacterium prausnitzii has
-been observed in UC patients relative to controls [67], whereas the opposite has been observed in CRD
+been observed in UC patients relative to controls  whereas the opposite has been observed in CRD
 patients, who are provided with increased Faecalibacterium prausnitzii levels in addition to a reduced
-overall diversity [68].
+overall diversity 
 
-In the case of CRD patients, another study [69] demonstrated a decrease in Dialister invisus,
+In the case of CRD patients, another study demonstrated a decrease in Dialister invisus,
 an uncharacterized species of Clostridium spp., in Faecalibacterium prausnitzii, and in Biﬁdobacterium
 adolescentis and an increase in Ruminococcus gnavus.
 
-Sokol et al. [70] conﬁrmed the reduction of F. prausnitzii in CRD patients and also demonstrated
+Sokol et al. conﬁrmed the reduction of F. prausnitzii in CRD patients and also demonstrated
 that an oral administration of live Faecalibacterium prausnitzii reduced the severity of colitis and tended
 to correct the dysbiosis. These results suggest that counterbalancing dysbiosis using Faecalibacterium
-prausnitzii as a probiotic is a promising strategy in CRD treatment [70].
+prausnitzii as a probiotic is a promising strategy in CRD treatment 
 
 Microorganisms 2019, 7, 14
 
@@ -979,51 +979,51 @@ Celiac disease (CD) is a chronic intestinal inﬂammatory disorder due to an abe
 response to dietary gluten proteins in genetically predisposed individuals.
 
 Gut microbiota variations may play a signiﬁcant role in the pathogenesis of CD; indeed, dysbiosis
-is linked with an inﬂammatory milieu in celiac patients [71]. Celiac disease is caused by the interplay
-between gluten, genetic factors, and environmental factors such as gut microbiota [72].
+is linked with an inﬂammatory milieu in celiac patients  Celiac disease is caused by the interplay
+between gluten, genetic factors, and environmental factors such as gut microbiota 
 
-Studies [73–76] have demonstrated that Biﬁdobacterium spp., Biﬁdobacterium longum, Clostridium
+Studies have demonstrated that Biﬁdobacterium spp., Biﬁdobacterium longum, Clostridium
 histolyticum, C. lituseburense, and Faecalibacterium prausnitzii group proportions are less abundant in
 untreated CD patients than in healthy controls. Indeed, patients with CD show a reduction in beneﬁcial
 species (Lactobacillus and Biﬁdobacterium) and an increase in those potentially pathogenic (Bacteroides
-and E. coli) as compared to healthy subjects [74]. The mucosal layer of CD patients fails to stabilize the
-gut microbiota and fails to prevent the host from the invasion of harmful antigens and pathogens [71].
-This dysbiosis is reduced, but may still remain, after a gluten-free diet [71,73].
+and E. coli) as compared to healthy subjects  The mucosal layer of CD patients fails to stabilize the
+gut microbiota and fails to prevent the host from the invasion of harmful antigens and pathogens 
+This dysbiosis is reduced, but may still remain, after a gluten-free diet 
 
 3.1.4. Colorectal Cancer (CRC)
 
-Colorectal cancer is the third most common cause of cancer mortality in the world [77].
+Colorectal cancer is the third most common cause of cancer mortality in the world 
 Structural fecal bacterial segregations between CRC patients and healthy volunteers have been
-demonstrated [78]. The gut microbiota of the CRC patients were enriched in Bacteroides fragilis,
+demonstrated  The gut microbiota of the CRC patients were enriched in Bacteroides fragilis,
 Enterococcus, Escherichia/Shigella, Klebsiella, Streptococcus, and Peptostreptococcus and were impoverished
-in Roseburia and other butyrate-producing bacteria of the family Lachnospiraceae [78]. The gut microbiota
+in Roseburia and other butyrate-producing bacteria of the family Lachnospiraceae  The gut microbiota
 of the healthy volunteers were enriched in Bacteroides vulgatus and Bacteroides uniformis. Therefore,
 gut microbiota variations, such as a reduction of butyrate producers and an increase in opportunistic
 pathogens, constitute a major structural imbalance of gut microbiota in CRC patients.
 
-Shen et al. [79] demonstrated a higher abundance of Proteobacteria and a lower abundance of
+Shen et al. demonstrated a higher abundance of Proteobacteria and a lower abundance of
 Bacteroidetes in CRC cases compared to controls. At the genus level, CRC cases showed an increased
 abundance of Dorea spp. and Faecalibacterium spp. and lower proportions of Bacteroides spp. and
 Coprococcus spp. than controls.
 
-Genomic analysis identiﬁed an association of Fusobacterium spp. with colorectal cancer [80];
+Genomic analysis identiﬁed an association of Fusobacterium spp. with colorectal cancer 
 the microbiota of CRC patients were enriched in Fusobacterium spp., whereas the Bacteroidetes and
 Firmicutes phyla were depleted. Furthermore, Fusobacterium spp. may contribute to tumorigenesis by
-an inﬂammatory-mediated mechanism [80], but the precise role of Fusobacteria in colorectal carcinoma
+an inﬂammatory-mediated mechanism  but the precise role of Fusobacteria in colorectal carcinoma
 pathogenesis requires further investigation.
 
 All these ﬁndings reveal alterations in CRC microbiota that may contribute to the etiology of
 colorectal cancer. The extension of these ﬁndings may lead to strategies able to manipulate microbiota
-to prevent colorectal cancer as well as to identify individuals at high risk [79].
+to prevent colorectal cancer as well as to identify individuals at high risk 
 
 3.2. Extra-Intestinal Disorders
 
 We highlighted that the pivotal relationship between gut microbiota and the host is involved in
 many intestinal disorders. Recent advances in research have demonstrated that this mutualistic gut
 microbiota–host relationship appears to play a critical role for many extra-intestinal diseases such
-as metabolic diseases and neurological disorders with “gut–brain axis” interactions [81], but also
+as metabolic diseases and neurological disorders with “gut–brain axis” interactions  but also
 for complex multifactorial diseases such as age-related macular degeneration with “gut–retina axis”
-interactions [82].
+interactions 
 
 Microorganisms 2019, 7, 14
 
@@ -1036,42 +1036,42 @@ Obesity
 Animal studies constitute the majority of causative evidence linking changes in microbial
 composition to obesity while, in humans, data are more variable. In addition, although the majority of
 mouse gut species are unique, the mouse and human microbiota are similar at the division level, with
-Firmicutes and Bacteroidetes dominating [83].
+Firmicutes and Bacteroidetes dominating 
 
-The analysis [83] of gut microbiota of genetically obese ob/ob mice and lean mice all fed the same
-polysaccharide-rich diet revealed a lower relative abundance (50%) of Bacteroidetes in obese ob/ob
+The analysis of gut microbiota of genetically obese ob/ob mice and lean mice all fed the same
+polysaccharide-rich diet revealed a lower relative abundance of Bacteroidetes in obese ob/ob
 mice, whereas the Firmicutes are correspondingly higher. Indeed, higher numbers of Ruminococcaceae
 and Rikenellaceae have been observed in leptin-resistant obese (leptin-promoting satiety) and diabetic
-mice (db/db) compared with their lean littermates [84].
+mice (db/db) compared with their lean littermates 
 In addition, the higher abundance of
 Ruminococcaceae and Rikenellaceae in mice fed a high-fat diet is not only dependent on the ingested
-diet but is also closely linked with obesity and type 2 diabetes [85]. Furthermore, the association
-between Desulfovibrionaceae abundance and obesity and type 2 diabetes has been demonstrated [86,87].
-Other studies [50,88] conﬁrmed the role of Proteobacteria in obesity by producing pro-inﬂammatory
-molecules such as lipopolysaccharides and helping to harvest energy and increase host fat storage [88].
-On the contrary, researchers [86,89] have recently demonstrated that Akkermansia muciniphila,
-a mucin-degrading bacteria living in the mucus layer [90], decreases in both genetically and
+diet but is also closely linked with obesity and type 2 diabetes  Furthermore, the association
+between Desulfovibrionaceae abundance and obesity and type 2 diabetes has been demonstrated 
+Other studies conﬁrmed the role of Proteobacteria in obesity by producing pro-inﬂammatory
+molecules such as lipopolysaccharides and helping to harvest energy and increase host fat storage 
+On the contrary, researchers have recently demonstrated that Akkermansia muciniphila,
+a mucin-degrading bacteria living in the mucus layer  decreases in both genetically and
 diet-induced obese mice.
 
 All these studies highlight the ﬁnding that obesity is associated with changes in the composition
 of gut microbiota including lower species diversity and shifts in the abundance of genes involved
 in metabolism. These gut microbiota variations affect the microbiome which has an increased
-capacity to harvest energy from the diet and these changes are transmissible [91]. Gut microbiota
+capacity to harvest energy from the diet and these changes are transmissible  Gut microbiota
 can be considered as a contributing factor to the pathophysiology of obesity and may have potential
 therapeutic implications.
 
 Type 2 Diabetes (T2D)
 
-Several studies [92,93] demonstrated that gut microbiota composition is altered in patients
+Several studies demonstrated that gut microbiota composition is altered in patients
 suffering from T2D, but it is not clear whether these changes are a cause or simply a consequence of
 the disorder.
 
-Larsen et al. [92] showed that the proportions of phyla Firmicutes and Clostridia are signiﬁcantly
+Larsen et al. showed that the proportions of phyla Firmicutes and Clostridia are signiﬁcantly
 reduced in the T2D sufferers compared to the healthy group. Furthermore, the ratios of Bacteroidetes
 to Firmicutes, the ratios of Bacteroides-Prevotella, and Betaproteobacteria are highly increased in T2D
 sufferers compared to healthy patients and positively correlated with plasma glucose.
 
-A metagenome-wide association study of gut microbiota of T2D Chinese sufferers [94]
+A metagenome-wide association study of gut microbiota of T2D Chinese sufferers 
 demonstrated that patients with type 2 diabetes were characterized by a decrease in butyrate-producing
 bacteria such as Roseburia spp. and an increase in various opportunistic pathogens (Clostridium spp.,
 Bacteroides caccae) as well as an enrichment of other microbial functions conferring sulfate reduction
@@ -1080,7 +1080,7 @@ Bacteroides caccae) as well as an enrichment of other microbial functions confer
 Gut microbiota interact with various host sensing and signaling pathways, leading to a modulation
 of the endocrine system, immune responses, nervous system activity, and hence, the predisposition
 to metabolic diseases. Gut microbiota dysbiosis drives and implies new therapeutic strategies for
-diabetes and related metabolic diseases [95].
+diabetes and related metabolic diseases 
 
 3.2.2. Central Nervous System (CNS)-Related Disorders
 
@@ -1095,51 +1095,51 @@ immune functions.
 
 Alzheimer’s and Parkinson’s Diseases
 
-Today, over 46 million people live with dementia worldwide [96]. Alzheimer’s disease (AD) and
+Today, over 46 million people live with dementia worldwide  Alzheimer’s disease (AD) and
 
 Parkinson’s disease (PD) are considered the most common forms of dementia in the elderly.
 
 Alzheimer’s disease (AD) is a chronic, rapidly progressive neurodegenerative disorder associated
-with impaired cognition and cerebral accumulation of amyloid-beta peptides. Cattaneo et al. [97]
+with impaired cognition and cerebral accumulation of amyloid-beta peptides. Cattaneo et al. 
 demonstrated that an increase in Escherichia/Shigella abundance and a reduction of E. rectale abundance
 are possibly associated with a peripheral inﬂammatory state in patients with cognitive impairment
-and brain amyloidosis. Vogt et al. [98] compared gut microbiota composition from patients with and
+and brain amyloidosis. Vogt et al. compared gut microbiota composition from patients with and
 without a diagnosis of AD and revealed a lower microbial diversity compositionally distinct from
 control-age and sex-matched individuals, with a decrease in Firmicutes and Biﬁdobacterium abundance
 and an increase in Bacteroidetes abundance in the microbiome of AD participants.
 
-The gut microbiota variations are also involved in the pathogenesis of PD. Hopfner et al. [99]
-suggested, in agreement with most other studies [100–102], an increase in Lactobacillaceae abundance
+The gut microbiota variations are also involved in the pathogenesis of PD. Hopfner et al. 
+suggested, in agreement with most other studies  an increase in Lactobacillaceae abundance
 in Parkinson patients compared to healthy controls. Moreover, none of the differences in alpha
 diversity has been observed between PD cases and controls, whereas beta diversity has been
-revealed for three bacterial families (Lactobacillaceae, Barnesiellaceae, and Enterococcaceae) [99]. PD is
+revealed for three bacterial families (Lactobacillaceae, Barnesiellaceae, and Enterococcaceae)  PD is
 associated with changes in gut microbiota and this gut microbiota dysbiosis may be the mechanism of
-neuroinﬂammation that leads to PD pathology [99].
+neuroinﬂammation that leads to PD pathology 
 
 Hepatic Encephalopathy
 
 Hepatic encephalopathy (HE) is a complication of cirrhosis and is deﬁned as a spectrum
-of neuropsychiatric abnormalities in patients with liver dysfunctions. Bajaj et al. [103] linked
+of neuropsychiatric abnormalities in patients with liver dysfunctions. Bajaj et al. linked
 the gut microbiota composition with cognition and inﬂammation in HE. Fecal microbiota of
 cirrhotics were signiﬁcantly higher in Enterobacteriaceae, Alcaligenaceae, and Fusobacteriaceae and
-lower in Ruminococcaceae and Lachnospiraceae compared with controls [103]; moreover, altered higher
+lower in Ruminococcaceae and Lachnospiraceae compared with controls  moreover, altered higher
 levels of Veillonellaceae were found in HE patients compared with cirrhotics without HE. In the
 cirrhosis group, Alcaligenaceae and Porphyromonadaceae were positively correlated with cognitive
 impairment. Fusobacteriaceae, Veillonellaceae, and Enterobacteriaceae were positively and Ruminococcaceae
 was negatively related to inﬂammation. Thus, cirrhosis, especially when complicated with HE,
 is associated with signiﬁcant gut microbiota alterations compared with healthy individuals. Speciﬁc
 bacterial families (Alcaligenaceae, Porphyromonadaceae, and Enterobacteriaceae) are strongly associated
-with cognition and inﬂammation in HE [103].
+with cognition and inﬂammation in HE 
 
 Autism Spectrum Disorders
 
 Compared with the gut microbiota of children without ASD, the gut microbiota of children
 with ASD is less diverse and exhibits lower levels of Biﬁdobacterium and Firmicutes and higher levels
-of Lactobacillus, Clostridium, Bacteroidetes, Desulfovibrio, Caloramator, and Sarcina [104–107]. A study
-by Wang et al. [108] showed a decrease in Biﬁdobacterium spp. and mucolytic bacteria Akkermansia
+of Lactobacillus, Clostridium, Bacteroidetes, Desulfovibrio, Caloramator, and Sarcina  A study
+by Wang et al. showed a decrease in Biﬁdobacterium spp. and mucolytic bacteria Akkermansia
 muciniphila in the gut microbiota of autism subjects compared to control subjects.
 
-Williams et al. [109] found an increase in the Firmicutes-to-Bacteroidetes ratio and a signiﬁcant
+Williams et al. found an increase in the Firmicutes-to-Bacteroidetes ratio and a signiﬁcant
 increase in Sutterella compared to their abundance in controls. These ﬁndings demonstrated that
 gut microbiota dysbiosis has close relationships with gastrointestinal and behavioral manifestations
 of autism.
@@ -1147,7 +1147,7 @@ of autism.
 Stress
 
 The bidirectional interactions of gut–brain mean that the brain can also alter gut microbiota
-composition [110]. A model of social disruption among adult mice [111] demonstrated that exposure
+composition demonstrated that exposure
 to stress results in substantial changes in gut microbiota composition: a decrease in Bacteroides spp.
 abundance and an increase in Clostridium spp. abundance have been observed in stress-induced mice
 
@@ -1157,9 +1157,9 @@ abundance and an increase in Clostridium spp. abundance have been observed in st
 
 relative to controls. The mechanisms by which stress inﬂuences gut microbiota composition are unclear
 but include microbial habitat alterations following stress-induced changes in intestinal mobility and
-mucin secretion [110,112].
+mucin secretion 
 
-Other studies [62] revealed that chronic psychological stress is reﬂected in the microbiota
+Other studies revealed that chronic psychological stress is reﬂected in the microbiota
 composition. Indeed, depression due to chronic stressful life events is associated with an increase in
 Enterobacteriaceae, whereas psychological stress is associated with a reduction in Lactobacilli spp. and
 an increase in Escherichia coli and Pseudomonas spp.
@@ -1171,7 +1171,7 @@ and the gut bacterial communities may be a target for therapeutic interventions.
 4. Conclusions
 
 Each healthy human is provided with unique gut microbiota. Core native microbiota are shaped
-in early life (4–36 months) by gut maturation developing from enterotype, birth gestational age, type
+in early life by gut maturation developing from enterotype, birth gestational age, type
 of delivery, methods of milk feeding, weaning period, lifestyle, and dietary and cultural habits. After a
 child reaches 2–3 years old, a relative stability in gut microbiota composition has been demonstrated.
 Richness and diversity of gut microbiota shaped in early life characterize a healthy gut microbiota
@@ -1181,7 +1181,7 @@ external threats. Indeed, gut microbiota represent a changing ecosystem that is 
 many factors such as unbalanced diet, stress, antibiotic use, or diseases. A healthy host–microorganism
 balance must be respected in order to optimally perform metabolic and immune functions and prevent
 disease development. Indeed, disturbances to the delicate host–microbe relationship may disrupt the
-development of the immune system, which may in turn result in diseases [113]. Although the role of
+development of the immune system, which may in turn result in diseases  Although the role of
 gut microbiota is still poorly understood, the close association between gut microbiota dysbiosis and
 intestinal and extra-intestinal disorders has been demonstrated. This is the reason why dysbiosis can
 be considered as a biomarker of such disorders and that the study of gut microbiota balances shall be
@@ -1194,487 +1194,3 @@ Supervision, F.F. and A.G.
 Funding: This research received no external funding.
 
 Conﬂicts of Interest: The authors declare no conﬂict of interest.
-
-References
-
-1.
-2.
-
-3.
-
-5.
-
-Thursby, E.; Juge, N. Introduction to the human gut microbiota. Biochem. J. 2017, 474, 1823–1836. [CrossRef]
-Ley, R.E.; Turnbaugh, P.J.; Klein, S.; Gordon, J.I. Microbial ecology: Human gut microbes associated with
-obesity. Nature 2006, 444, 1022–1023. [CrossRef]
-Valdes, A.M.; Walter, J.; Segal, E.; Spector, T.D. Role of the gut microbiota in nutrition and health. BMJ 2018,
-361, 36–44. [CrossRef] [PubMed]
-
-4. Moore, W.E.; Holdeman, L.V. Human fecal ﬂora: The normal ﬂora of 20 Japanese-Hawaiians. Appl. Microbiol.
-
-1974, 27, 961–979. [PubMed]
-Poretsky, R.; Rodriguez-R, L.M.; Luo, C.; Tsementzi, D.; Konstantinidis, K.T. Strengths and limitations of 16S
-rRNA gene amplicon sequencing in revealing temporal microbial community dynamics. PLoS ONE 2014,
-9, e93827. [CrossRef] [PubMed]
-
-6. Mizrahi-Man, O.; Davenport, E.R.; Gilad, Y. Taxonomic classiﬁcation of bacterial 16S rRNA genes using
-short sequencing reads: Evaluation of effective study designs. PLoS ONE 2013, 8, e53608. [CrossRef]
-7. Human Microbiome Jumpstart Reference Strains Consortium; Nelson, K.E.; Weinstock, G.M.; Highlander, S.K.;
-Worley, K.C.; Creasy, H.H.; Wortman, J.R.; Rusch, D.B.; Mitreva, M.; Sodergren, E.; et al. A catalog of reference
-genomes from the human microbiome. Science 2010, 328, 994–999. [CrossRef]
-
-Microorganisms 2019, 7, 14
-
-17 of 22
-
-8.
-
-Gill, S.R.; Pop, M.; Deboy, R.T.; Eckburg, P.B.; Turnbaugh, P.J.; Samuel, B.S.; Gordon, J.I.; Relman, D.A.;
-Fraser-Liggett, C.M.; Nelson, K.E. Metagenomic analysis of the human distal gut microbiome. Science 2006,
-312, 1355–1359. [CrossRef]
-Luckey, T.D. Introduction to intestinal microecology. Am. J. Clin. Nutr. 1972, 25, 1292–1294. [CrossRef]
-9.
-10. Khosravi, A.; Mazmanian, S.K. Disruption of the gut microbiome as a risk factor for microbial infections.
-
-11. Brestoff, J.R.; Artis, D. Commensal bacteria at the interface of host metabolism and the immune system.
-
-Curr. Opin. Microbiol. 2013, 16, 221–227. [CrossRef]
-
-Nat. Immunol. 2013, 14, 676–684. [CrossRef]
-
-12. Laterza, L.; Rizzatti, G.; Gaetani, E.; Chiusolo, P.; Gasbarrini, A. The gut microbiota and immune system
-relationship in human graft-versus-host disease. Mediterr. J. Hematol. Infect. Dis. 2016, 8, e2016025. [CrossRef]
-[PubMed]
-
-13. Arumugam, M.; Raes, J.; Pelletier, E.; Le Paslier, D.; Yamada, T.; Mende, D.R.; Fernandes, G.R.; Tap, J.;
-Bruls, T.; Batto, J.M.; et al. Enterotypes of the human gut microbiome. Nature 2011, 473, 174–180. [CrossRef]
-[PubMed]
-Flint, H.J.; Scott, K.P.; Louis, P.; Duncan, S.H. The role of the gut microbiota in nutrition and health. Nat. Rev.
-Gastroenterol. Hepatol. 2012, 9, 577–589. [CrossRef]
-
-14.
-
-15. Arboleya, S.; Binetti, A.; Salazar, N.; Fernández, N.; Solís, G.; Hernández-Barranco, A.; Margolles, A.;
-de Los Reyes-Gavilán, C.G.; Gueimonde, M. Establishment and development of intestinal microbiota in
-preterm neonates. FEMS Microbiol. Ecol. 2012, 79, 763–772. [CrossRef] [PubMed]
-
-16. Ren, S.; Hui, Y.; Obelitz-Ryom, K.; Brandt, A.B.; Kot, W.; Nielsen, D.S.; Thymann, T.; Sangild, P.T.;
-Nguyen, D.N. Neonatal gut and immune maturation is determined more by postnatal age than by
-post-conceptional age in moderately preterm pigs. Am. J. Physiol. Gastrointest. Liver Physiol. 2018, 315,
-G855–G867. [CrossRef] [PubMed]
-
-17. Butel, M.J.; Suau, A.; Campeotto, F.; Magne, F.; Aires, J.; Ferraris, L.; Kalach, N.; Leroux, B.; Dupont, C. Conditions
-of bifidobacterial colonization in preterm infants: A prospective analysis. J. Pediatr. Gastroenterol. Nutr. 2007, 44,
-577–582. [CrossRef]
-
-18. Gabrielli, O.; Zampini, L.; Galeazzi, T.; Padella, L.; Santoro, L.; Peila, C.; Giuliani, F.; Bertino, E.; Fabris, C.;
-Coppa, G.V. Preterm milk oligosaccharides during the ﬁrst month of lactation. Pediatrics 2011, 128,
-e1520–e1531. [CrossRef] [PubMed]
-
-19. Underwood, M.A.; Gaerlan, S.; De Leoz, M.L.; Dimapasoc, L.; Kalanetra, K.M.; Lemay, D.G.; German, J.B.;
-Mills, D.A.; Lebrilla, C.B. Human milk oligosaccharides in premature infants: Absorption, excretion, and
-inﬂuence on the intestinal microbiota. Pediatr. Res. 2015, 78, 670–677. [CrossRef]
-
-20. Praticò, G.; Capuani, G.; Tomassini, A.; Baldassarre, M.E.; Delﬁni, M.; Miccheli, A. Exploring human breast
-
-milk composition by NMR-based metabolomics. Nat. Prod. Res. 2014, 28, 95–101. [CrossRef]
-
-21. Bering, S.B. Human milk oligosaccharides to prevent gut dysfunction and necrotizing enterocolitis in preterm
-
-neonates. Nutrients 2018, 10, 1461. [CrossRef] [PubMed]
-
-22. Mastromarino, P.; Capobianco, D.; Campagna, G.; Laforgia, N.; Drimaco, P.; Dileone, A.; Baldassarre, M.E.
-Correlation between lactoferrin and beneﬁcial microbiota in breast milk and infant’s feces. Biometals 2014, 27,
-1077–1086. [CrossRef]
-Salminen, S.; Gibson, G.R.; McCartney, A.L.; Isolauri, E. Inﬂuence of mode of delivery on gut microbiota
-composition in seven year old children. Gut 2004, 53, 1388–1389. [CrossRef] [PubMed]
-
-23.
-
-24. Dominguez-Bello, M.G.; Costello, E.K.; Contreras, M.; Magris, M.; Hidalgo, G.; Fierer, N.; Knight, R. Delivery
-mode shapes the acquisition and structure of the initial microbiota across multiple body habitats in newborns.
-Proc. Natl. Acad. Sci. USA 2010, 107, 11971–11975. [CrossRef] [PubMed]
-
-25. Biasucci, G.; Benenati, B.; Morelli, L.; Bessi, E.; Boehm, G. Cesarean delivery may affect the early biodiversity
-
-of intestinal bacteria. J. Nutr. 2008, 138, 1796S–1800S. [CrossRef] [PubMed]
-
-26. Mueller, N.T.; Bakacs, E.; Combellick, J.; Grigoryan, Z.; Dominguez-Bello, M.G. The infant microbiome
-
-development: Mom matters. Trends Mol. Med. 2015, 21, 109–117. [CrossRef] [PubMed]
-
-27. Pantoja-Feliciano, I.G.; Clemente, J.C.; Costello, E.K.; Perez, M.E.; Blaser, M.J.; Knight, R.; Dominguez-Bello, M.G.
-Biphasic assembly of the murine intestinal microbiota during early development. ISME J. 2013, 7, 1112–1115.
-[CrossRef]
-
-Microorganisms 2019, 7, 14
-
-18 of 22
-
-28. Grönlund, M.M.; Lehtonen, O.P.; Eerola, E.; Kero, P. Fecal microflora in healthy infants born by different methods
-of delivery: Permanent changes in intestinal flora after cesarean delivery. J. Pediatr. Gastroenterol. Nutr. 1999, 28,
-19–25. [CrossRef]
-
-29. Azad, M.B.; Konya, T.; Maughan, H.; Guttman, D.S.; Field, C.J.; Chari, R.S.; Sears, M.R.; Becker, A.B.;
-Scott, J.A.; Kozyrskyj, A.L. Gut microbiota of healthy Canadian infants: Proﬁles by mode of delivery and
-infant diet at 4 months. CMAJ 2013, 185, 385–394. [CrossRef]
-Sevelsted, A.; Stokholm, J.; Bønnelykke, K.; Bisgaard, H. Cesarean section and chronic immune disorders.
-Pediatrics 2015, 135, e92–e98. [CrossRef]
-
-30.
-
-31. Chen, G.; Chiang, W.L.; Shu, B.C.; Guo, Y.L.; Chiou, S.T.; Chiang, T.L. Associations of caesarean delivery
-and the occurrence of neurodevelopmental disorders, asthma or obesity in childhood based on Taiwan birth
-cohort study. BMJ Open 2017, 7, e017086. [CrossRef] [PubMed]
-
-32. Penders, J.; Thijs, C.; Vink, C.; Stelma, F.F.; Snijders, B.; Kummeling, I.; van den Brandt, P.A.; Stobberingh, E.E.
-Factors inﬂuencing the composition of the intestinal microbiota in early infancy. Pediatrics 2006, 118, 511–521.
-[CrossRef] [PubMed]
-
-33. Bezirtzoglou, E.; Tsiotsias, A.; Welling, G.W. Microbiota proﬁle in feces of breast- and formula-fed newborns
-by using ﬂuorescence in situ hybridization (FISH). Anaerobe 2011, 17, 478–482. [CrossRef] [PubMed]
-34. Roger, L.C.; Costabile, A.; Holland, D.T.; Hoyles, L.; McCartney, A.L. Examination of faecal Biﬁdobacterium
-populations in breast- and formula-fed infants during the ﬁrst 18 months of life. Microbiology 2010, 156,
-3329–3341. [CrossRef]
-
-35. Marcobal, A.; Barboza, M.; Froehlich, J.W.; Block, D.E.; German, J.B.; Lebrilla, C.B.; Mills, D.A. Consumption
-of human milk oligosaccharides by gut-related microbes. J. Agric. Food Chem. 2010, 58, 5334–5340. [CrossRef]
-[PubMed]
-Sakurama, H.; Kiyohara, M.; Wada, J.; Honda, Y.; Yamaguchi, M.; Fukiya, S.; Yokota, A.; Ashida, H.;
-Kumagai, H.; Kitaoka, M.; et al. Lacto-N-biosidase encoded by a novel gene of Biﬁdobacterium longum
-subspecies longum shows unique substrate speciﬁcity and requires a designated chaperone for its active
-expression. J. Biol. Chem. 2013, 288, 25194–25206. [CrossRef] [PubMed]
-
-36.
-
-37. Matsuki, T.; Yahagi, K.; Mori, H.; Matsumoto, H.; Hara, T.; Tajima, S.; Ogawa, E.; Kodama, H.; Yamamoto, K.;
-Yamada, T.; et al. A key genetic factor for fucosyllactose utilization affects infant gut microbiota development.
-Nat. Commun. 2016, 7, 11939. [CrossRef] [PubMed]
-
-38. Yaron, S.; Shachar, D.; Abramas, L.; Riskin, A.; Bader, D.; Litmanovitz, I.; Bar-Yoseph, F.; Cohen, T.; Levi, L.;
-Lifshitz, Y.; et al. Effect of high β-palmitate content in infant formula on the intestinal microbiota of term
-infants. J. Pediatr. Gastroenterol. Nutr. 2013, 56, 376–381. [CrossRef]
-
-39. Mastromarino, P.; Capobianco, D.; Miccheli, A.; Praticò, G.; Campagna, G.; Laforgia, N.; Capursi, T.;
-Baldassarre, M.E. Administration of a multistrain probiotic product (VSL#3) to women in the perinatal
-period differentially affects breast milk beneﬁcial microbiota in relation to mode of delivery. Pharmacol. Res.
-2015, 95, 63–70. [CrossRef]
-Fallani, M.; Amarri, S.; Uusijarvi, A.; Adam, R.; Khanna, S.; Aguilera, M.; Gil, A.; Vieites, J.M.; Norin, E.;
-Young, D.; et al. Determinants of the human infant intestinal microbiota after the introduction of ﬁrst
-complementary foods in infant samples from ﬁve European centres. Microbiology 2011, 157, 1385–1392.
-[CrossRef]
-
-40.
-
-41. Tanaka, M.; Nakayama, J. Development of the gut microbiota in infancy and its impact on health in later life.
-
-Allergol. Int. 2017, 66, 515–522. [CrossRef]
-
-42. Tidjani Alou, M.; Lagier, J.C.; Raoult, D. Diet inﬂuence on the gut microbiota and dysbiosis related to
-
-nutritional disorders. Hum. Microbiome J. 2016, 1, 3–11. [CrossRef]
-
-43. Yatsunenko, T.; Rey, F.E.; Manary, M.J.; Trehan, I.; Dominguez-Bello, M.G.; Contreras, M.; Magris, M.;
-Hidalgo, G.; Baldassano, R.N.; Anokhin, A.P.; et al. Human gut microbiome viewed across age and
-geography. Nature 2012, 486, 222–227. [CrossRef] [PubMed]
-
-44. Toshitaka, O.; Kumiko, K.; Hirosuke, S.; Nanami, H.; Sachiko, T.; Jin-Zhong, X.; Fumiaki, A.; Ro, O.
-Age-related changes in gut microbiota composition from newborn to centenarian: A cross-sectional study.
-BMC Microbiol. 2016, 16, 90.
-
-45. Guigoz, Y.; Doré, J.; Schiffrin, E.J. The inﬂammatory status of old age can be nurtured from the intestinal
-
-environment. Curr. Opin. Clin. Nutr. Metab. Care 2008, 11, 13–20. [CrossRef] [PubMed]
-
-Microorganisms 2019, 7, 14
-
-19 of 22
-
-46. Pérez-Cobas, A.E.; Artacho, A.; Knecht, H.; Ferrús, M.L.; Friedrichs, A.; Ott, S.J.; Moya, A.; Latorre, A.;
-Gosalbes, M.J. Differential effects of antibiotic therapy on the structure and function of human gut microbiota.
-PLoS ONE 2013, 8, e80201. [CrossRef] [PubMed]
-Iizumi, T.; Battaglia, T.; Ruiz, V.; Perez, G.I. Gut microbiome and antibiotics. Arch. Med. Res. 2017, 48,
-727–734. [CrossRef] [PubMed]
-
-47.
-
-48. Dethlefsen, L.; Relman, D.A. Incomplete recovery and individualized responses of the human distal gut
-microbiota to repeated antibiotic perturbation. Proc. Natl. Acad. Sci. USA 2011, 108, 4554–4561. [CrossRef]
-49. Lozupone, C.A.; Stombaugh, J.I.; Gordon, J.I.; Jansson, J.K.; Knight, R. Diversity, stability and resilience of
-
-the human gut microbiota. Nature 2012, 489, 220–230. [CrossRef]
-
-50. Bai, J.; Hu, Y.; Bruner, D.W. Composition of gut microbiota and its association with body mass index and
-lifestyle factors in a cohort of 7–18 years old children from the American Gut Project. Pediatr. Obes. 2018.
-[CrossRef]
-
-51. Karlsson, C.L.; Onnerfält, J.; Xu, J.; Molin, G.; Ahrné, S.; Thorngren-Jerneck, K. The microbiota of the gut
-in preschool children with normal and excessive body weight. Obesity 2012, 20, 2257–2261. [CrossRef]
-[PubMed]
-
-52. Yun, Y.; Kim, H.N.; Kim, S.E.; Heo, S.G.; Chang, Y.; Ryu, S.; Shin, H.; Kim, H.L. Comparative analysis of
-gut microbiota associated with body mass index in a large Korean cohort. BMC Microbiol. 2017, 17, 151.
-[CrossRef] [PubMed]
-
-53. Bervoets, L.; Van Hoorenbeeck, K.; Kortleven, I.; Van Noten, C.; Hens, N.; Vael, C.; Goossens, H.;
-Desager, K.N.; Vankerckhoven, V. Differences in gut microbiota composition between obese and lean
-children: A cross-sectional study. Gut Pathog. 2013, 5, 10. [CrossRef] [PubMed]
-
-54. Riva, A.; Borgo, F.; Lassandro, C.; Verduci, E.; Morace, G.; Borghi, E.; Berry, D. Pediatric obesity is associated
-with an altered gut microbiota and discordant shifts in Firmicutes populations. Environ. Microbiol. 2017, 19,
-95–105. [CrossRef]
-
-55. Borgo, F.; Riva, A.; Benetti, A.; Casiraghi, M.C.; Bertelli, S.; Garbossa, S.; Anselmetti, S.; Scarone, S.;
-Pontiroli, A.E.; Morace, G.; et al. Microbiota in anorexia nervosa: The triangle between bacterial species,
-metabolites and psychological tests. PLoS ONE 2017, 12, e0179739. [CrossRef] [PubMed]
-
-56. Wu, G.D.; Chen, J.; Hoffmann, C.; Bittinger, K.; Chen, Y.Y.; Keilbaugh, S.A.; Bewtra, M.; Knights, D.;
-Walters, W.A.; Knight, R.; et al. Linking long-term dietary patterns with gut microbial enterotypes. Science
-2011, 334, 105–108. [CrossRef] [PubMed]
-
-57. De Filippo, C.; Cavalieri, D.; Di Paola, M.; Ramazzotti, M.; Poullet, J.B.; Massart, S.; Collini, S.; Pieraccini, G.;
-Lionetti, P. Impact of diet in shaping gut microbiota revealed by a comparative study in children from Europe
-and rural Africa. Proc. Natl. Acad. Sci. USA 2010, 107, 14691–14696. [CrossRef]
-Schnorr, S.L.; Candela, M.; Rampelli, S.; Centanni, M.; Consolandi, C.; Basaglia, G.; Turroni, S.; Biagi, E.;
-Peano, C.; Severgnini, M.; et al. Gut microbiome of the Hadza hunter-gatherers. Nat. Commun. 2014, 5, 3654.
-[CrossRef]
-
-58.
-
-59. David, L.A.; Maurice, C.F.; Carmody, R.N.; Gootenberg, D.B.; Button, J.E.; Wolfe, B.E.; Ling, A.V.; Devlin, A.S.;
-Varma, Y.; Fischbach, M.A.; et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature
-2014, 505, 559–563. [CrossRef]
-
-60. Monda, V.; Villano, I.; Messina, A.; Valenzano, A.; Esposito, T.; Moscatelli, F.; Viggiano, A.; Cibelli, G.;
-Chiefﬁ, S.; Monda, M.; et al. Exercise modiﬁes the gut microbiota with positive health effects. Oxid. Med.
-Cell. Longev. 2017, 3831972. [CrossRef]
-
-61. Clarke, S.F.; Murphy, E.F.; O’Sullivan, O.; Lucey, A.J.; Humphreys, M.; Hogan, A.; Hayes, P.; O’Reilly, M.;
-Jeffery, I.B.; Wood-Martin, R.; et al. Exercise and associated dietary extremes impact on gut microbial
-diversity. Gut 2014, 63, 1913–1920. [CrossRef] [PubMed]
-
-62. Bhattarai, Y.; Muniz Pedrogo, D.A.; Kashyap, P.C. Irritable bowel syndrome: A gut microbiota-related
-
-disorder? Am. J. Physiol. Gastrointest. Liver Physiol. 2017, 312, 52–62. [CrossRef] [PubMed]
-
-63. Carroll, I.M.; Chang, Y.H.; Park, J.; Sartor, R.B.; Ringel, Y. Luminal and mucosal-associated intestinal
-microbiota in patients with diarrhea-predominant irritable bowel syndrome. Gut Pathog. 2010, 2, 19.
-[CrossRef] [PubMed]
-
-Microorganisms 2019, 7, 14
-
-20 of 22
-
-64. Krogius-Kurikka, L.; Lyra, A.; Malinen, E.; Aarnikunnas, J.; Tuimala, J.; Paulin, L.; Mäkivuokko, H.;
-Kajander, K.; Palva, A. Microbial community analysis reveals high level phylogenetic alterations in the
-overall gastrointestinal microbiota of diarrhoea-predominant irritable bowel syndrome sufferers. BMC
-Gastroenterol. 2009, 9, 95. [CrossRef] [PubMed]
-Salonen, A.; de Vos, W.M.; Palva, A. Gastrointestinal microbiota in irritable bowel syndrome: Present state
-and perspectives. Microbiology 2010, 156, 3205–3215. [CrossRef] [PubMed]
-Frank, D.N.; St Amand, A.L.; Feldman, R.A.; Boedeker, E.C.; Harpaz, N.; Pace, N.R. Molecular-phylogenetic
-characterization of microbial community imbalances in human inﬂammatory bowel diseases. Proc. Natl.
-Acad. Sci. USA 2007, 104, 13780–13785. [CrossRef]
-
-65.
-
-66.
-
-67. Machiels, K.; Joossens, M.; Sabino, J.; De Preter, V.; Arijs, I.; Eeckhaut, V.; Ballet, V.; Claes, K.; Van Immerseel, F.;
-Verbeke, K.; et al. A decrease of the butyrate-producing species Roseburia hominis and Faecalibacterium
-prausnitzii deﬁnes dysbiosis in patients with ulcerative colitis. Gut 2014, 63, 1275–1283. [CrossRef]
-
-69.
-
-68. Hansen, R.; Russell, R.K.; Reiff, C.; Louis, P.; McIntosh, F.; Berry, S.H.; Mukhopadhya, I.; Bisset, W.M.;
-Barclay, A.R.; Bishop, J.; et al. Microbiota of de-novo pediatric IBD: Increased Faecalibacterium prausnitzii and
-reduced bacterial diversity in Crohn’s but not in ulcerative colitis. Am. J. Gastroenterol. 2012, 107, 1913–1922.
-[CrossRef]
-Joossens, M.; Huys, G.; Cnockaert, M.; De Preter, V.; Verbeke, K.; Rutgeerts, P.; Vandamme, P.; Vermeire, S.
-Dysbiosis of the faecal microbiota in patients with Crohn’s disease and their unaffected relatives. Gut 2011,
-60, 631–637. [CrossRef]
-Sokol, H.; Pigneur, B.; Watterlot, L.; Lakhdari, O.; Bermúdez-Humarán, L.G.; Gratadoux, J.J.; Blugeon, S.;
-Bridonneau, C.; Furet, J.P.; Corthier, G.; et al. Faecalibacterium prausnitzii is an anti-inﬂammatory commensal
-bacterium identiﬁed by gut microbiota analysis of Crohn disease patients. Proc. Natl. Acad. Sci. USA 2008,
-105, 16731–16736. [CrossRef]
-
-70.
-
-71. Marasco, G.; Di Biase, A.R.; Schiumerini, R.; Eusebi, L.H.; Iughetti, L.; Ravaioli, F.; Scaioli, E.; Colecchia, A.;
-
-Festi, D. Gut microbiota and celiac disease. Dig. Dis. Sci. 2016, 61, 1461–1472. [CrossRef]
-
-72. Chander, A.M.; Yadav, H.; Jain, S.; Bhadada, S.K.; Dhawan, D.K. Cross-talk between gluten, intestinal microbiota
-and intestinal mucosa in celiac disease: Recent advances and basis of autoimmunity. Front. Microbiol. 2018, 9,
-2597. [CrossRef] [PubMed]
-
-73. De Palma, G.; Nadal, I.; Medina, M.; Donat, E.; Ribes-Koninckx, C.; Calabuig, M.; Sanz, Y. Intestinal dysbiosis
-and reduced immunoglobulin-coated bacteria associated with coeliac disease in children. BMC Microbiol.
-2010, 10, 63. [CrossRef]
-
-74. Nadal, I.; Donat, E.; Ribes-Koninckx, C.; Calabuig, M.; Sanz, Y. Imbalance in the composition of the duodenal
-microbiota of children with coeliac disease. J. Med. Microbiol. 2007, 56, 1669–1674. [CrossRef] [PubMed]
-75. Collado, M.C.; Donat, E.; Ribes-Koninckx, C.; Calabuig, M.; Sanz, Y. Imbalances in faecal and duodenal
-Biﬁdobacterium species composition inactive and non-active coeliac disease. BMC Microbiol. 2008, 8, 232.
-[CrossRef] [PubMed]
-
-76. Collado, M.C.; Donat, E.; Ribes-Koninckx, C.; Calabuig, M.; Sanz, Y. Speciﬁc duodenal and faecal bacterial
-
-77.
-
-groups associated with paediatric coeliac disease. J. Clin. Pathol. 2009, 62, 264–269. [CrossRef] [PubMed]
-Jemal, A.; Bray, F.; Center, M.M.; Ferlay, J.; Ward, E.; Forman, D. Global cancer statistics. CA Cancer J. Clin.
-2011, 61, 69–90. [CrossRef] [PubMed]
-
-78. Wang, T.; Cai, G.; Qiu, Y.; Fei, N.; Zhang, M.; Pang, X.; Jia, W.; Cai, S.; Zhao, L. Structural segregation of gut
-microbiota between colorectal cancer patients and healthy volunteers. ISME J. 2012, 6, 320–329. [CrossRef]
-Shen, X.J.; Rawls, J.F.; Randall, T.; Burcal, L.; Mpande, C.N.; Jenkins, N.; Jovov, B.; Abdo, Z.; Sandler, R.S.;
-Keku, T.O. Molecular characterization of mucosal adherent bacteria and associations with colorectal
-adenomas. Gut Microbes 2010, 1, 138–147. [CrossRef]
-
-79.
-
-80. Kostic, A.D.; Gevers, D.; Pedamallu, C.S.; Michaud, M.; Duke, F.; Earl, A.M.; Ojesina, A.I.; Jung, J.; Bass, A.J.;
-Tabernero, J.; et al. Genomic analysis identiﬁes association of Fusobacterium with colorectal carcinoma.
-Genome Res. 2012, 22, 292–298. [CrossRef]
-
-81. Mayer, E.A.; Tillisch, K.; Gupta, A. Gut/brain axis and the microbiota. J. Clin. Investig. 2015, 125, 926–938.
-
-[CrossRef] [PubMed]
-
-82. Rinninella, E.; Mele, M.C.; Merendino, N.; Cintoni, M.; Anselmi, G.; Caporossi, A.; Gasbarrini, A.;
-Minnella, A.M. The role of diet, micronutrients and the gut microbiota in age-related macular degeneration:
-New perspectives from the gut-retina axis. Nutrients 2018, 10, 1677. [CrossRef] [PubMed]
-
-Microorganisms 2019, 7, 14
-
-21 of 22
-
-83. Ley, R.E.; Bäckhed, F.; Turnbaugh, P.; Lozupone, C.A.; Knight, R.D.; Gordon, J.I. Obesity alters gut microbial
-
-ecology. Proc. Natl. Acad. Sci. USA 2005, 102, 11070–11075. [CrossRef] [PubMed]
-
-84. Geurts, L.; Lazarevic, V.; Derrien, M.; Everard, A.; Van Roye, M.; Knauf, C.; Valet, P.; Girard, M.;
-Muccioli, G.G.; François, P. Altered gut microbiota and endocannabinoid system tone in obese and diabetic
-leptin-resistant mice: Impact on apelin regulation in adipose tissue. Front. Microbiol. 2011, 2, 149. [CrossRef]
-85. Kim, K.A.; Gu, W.; Lee, I.A.; Joh, E.H.; Kim, D.H. High fat diet-induced gut microbiota exacerbates
-inﬂammation and obesity in mice via the TLR4 signaling pathway. PLoS ONE 2012, 7, e47713. [CrossRef]
-[PubMed]
-
-86. Cani, P.D. Gut microbiota and obesity: Lessons from the microbiome. Brief. Funct. Genom. 2013, 12, 381–387.
-
-[CrossRef]
-
-87. Zhang, C.; Zhang, M.; Wang, S.; Han, R.; Cao, Y.; Hua, W.; Mao, Y.; Zhang, X.; Pang, X.; Wei, C.; et al.
-Interactions between gut microbiota, host genetics and diet relevant to development of metabolic syndromes
-in mice. SME J. 2010, 4, 232–241. [CrossRef]
-
-88. Rizzatti, G.; Lopetuso, L.R.; Gibiino, G.; Binda, C.; Gasbarrini, A. Proteobacteria: A common factor in human
-
-diseases. Biomed. Res. Int. 2017, 9351507. [CrossRef]
-
-89. Everard, A.; Belzer, C.; Geurts, L.; Ouwerkerk, J.P.; Druart, C.; Bindels, L.B.; Guiot, Y.; Derrien, M.;
-Muccioli, G.G.; Delzenne, N.M.; et al. Cross-talk between Akkermansia muciniphila and intestinal epithelium
-controls diet-induced obesity. Proc. Natl. Acad. Sci. USA 2013, 110, 9066–9071. [CrossRef]
-
-90. Derrien, M.; Vaughan, E.E.; Plugge, C.M.; de Vos, W.M. Akkermansia muciniphila gen. nov., sp. nov., a human
-
-intestinal mucin-degrading bacterium. Int. J. Syst. Evol. Microbiol. 2004, 54, 1469–1476. [CrossRef]
-
-91. Turnbaugh, P.J.; Ley, R.E.; Mahowald, M.A.; Magrini, V.; Mardis, E.R.; Gordon, J.I. An obesity-associated gut
-
-microbiome with increased capacity for energy harvest. Nature 2006, 444, 1027–1031. [CrossRef]
-
-92. Larsen, N.; Vogensen, F.K.; van den Berg, F.W.; Nielsen, D.S.; Andreasen, A.S.; Pedersen, B.K.; Al-Soud, W.A.;
-Sørensen, S.J.; Hansen, L.H.; Jakobsen, M. Gut microbiota in human adults with type 2 diabetes differs from
-non-diabetic adults. PLoS ONE 2010, 5, e9085. [CrossRef]
-
-93. Walsh, C.J.; Guinane, C.M.; O’Toole, P.W.; Cotter, P.D. Beneﬁcial modulation of the gut microbiota. FEBS Lett.
-
-2014, 588, 4120–4130. [CrossRef]
-
-94. Qin, J.; Li, Y.; Cai, Z.; Li, S.; Zhu, J.; Zhang, F.; Liang, S.; Zhang, W.; Guan, Y.; Shen, D.; et al. A metagenome-wide
-
-association study of gut microbiota in type 2 diabetes. Nature 2012, 490, 55–60. [CrossRef] [PubMed]
-
-95. Li, X.; Watanabe, K.; Kimura, I. Gut microbiota dysbiosis drives and implies novel therapeutic strategies for
-
-diabetes mellitus and related metabolic diseases. Front. Immunol. 2017, 8, 1882. [CrossRef]
-
-96. Prince, M.; Wimo, A.; Guerchet, M.; Ali, G.C.; Wu, Y.T.; Prina, M. World Alzheimer Report 2015: The Global
-Impact of Dementia: An Analysis of Prevalence, Incidence, Cost and Trends. Available online: https://www.
-alz.co.uk/research/WorldAlzheimerReport2015.pdf (accessed on 1 November 2018).
-
-97. Cattaneo, A.; Cattane, N.; Galluzzi, S.; Provasi, S.; Lopizzo, N.; Festari, C.; Ferrari, C.; Guerra, U.P.; Paghera, B.;
-Muscio, C.; et al. Association of brain amyloidosis with pro-inﬂammatory gut bacterial taxa and peripheral
-inﬂammation markers in cognitively impaired elderly. Neurobiol. Aging 2017, 49, 60–68. [CrossRef]
-
-98. Vogt, N.M.; Kerby, R.L.; Dill-McFarland, K.A.; Harding, S.J.; Merluzzi, A.P.; Johnson, S.C.; Carlsson, C.M.;
-Asthana, S.; Zetterberg, H.; Blennow, K.; et al. Gut microbiome alterations in Alzheimer’s disease. Sci. Rep.
-2017, 7, 13537. [CrossRef]
-
-99. Hopfner, F.; Künstner, A.; Müller, S.H.; Künzel, S.; Zeuner, K.E.; Margraf, N.G.; Deuschl, G.; Baines, J.F.;
-Kuhlenbäumer, G. Gut microbiota in Parkinson disease in a northern German cohort. Brain Res. 2017, 1667,
-41–45. [CrossRef]
-
-100. Hill-Burns, E.M.; Debelius, J.W.; Morton, J.T.; Wissemann, W.T.; Lewis, M.R.; Wallen, Z.D.; Peddada, S.D.;
-Factor, S.A.; Molho, E.; Zabetian, C.P.; et al. Parkinson’s disease and Parkinson’s disease medications have
-distinct signatures of the gut microbiome. Mov. Disord. 2017, 32, 739–749. [CrossRef] [PubMed]
-
-101. Keshavarzian, A.; Green, S.J.; Engen, P.A.; Voigt, R.M.; Naqib, A.; Forsyth, C.B.; Mutlu, E.; Shannon, K.M.
-Colonic bacterial composition in Parkinson’s disease. Mov. Disord. 2015, 30, 1351–1360. [CrossRef] [PubMed]
-102. Scheperjans, F.; Aho, V.; Pereira, P.A.; Koskinen, K.; Paulin, L.; Pekkonen, E.; Haapaniemi, E.; Kaakkola, S.;
-Eerola-Rautio, J.; Pohja, M.; et al. Gut microbiota are related to Parkinson’s disease and clinical phenotype.
-Mov. Disord. 2015, 30, 350–358. [CrossRef] [PubMed]
-
-Microorganisms 2019, 7, 14
-
-22 of 22
-
-103. Bajaj, J.S.; Ridlon, J.M.; Hylemon, P.B.; Thacker, L.R.; Heuman, D.M.; Smith, S.; Sikaroodi, M.; Gillevet, P.M.
-Linkage of gut microbiome with cognition in hepatic encephalopathy. Am. J. Physiol. Gastrointest. Liver Physiol.
-2012, 302, 168–175. [CrossRef] [PubMed]
-
-104. Finegold, S.M.; Molitoris, D.; Song, Y.; Liu, C.; Vaisanen, M.L.; Bolte, E.; McTeague, M.; Sandler, R.; Wexler, H.;
-Marlowe, E.M.; et al. Gastrointestinal microﬂora studies in late-onset autism. Clin. Infect. Dis. 2002, 35,
-S6–S16. [CrossRef] [PubMed]
-
-105. Finegold, S.M. Desulfovibrio species are potentially important in regressive autism. Med. Hypotheses 2011,
-
-106. Finegold, S.M.; Downes, J.; Summanen, P.H. Microbiology of regressive autism. Anaerobe 2012, 18, 260–262.
-
-107. Li, Q.; Han, Y.; Dy, A.B.C.; Hagerman, R.J. The gut microbiota and autism spectrum disorders. Front. Cell.
-
-77, 270–274. [CrossRef] [PubMed]
-
-[CrossRef] [PubMed]
-
-Neurosci. 2017, 11, 120. [CrossRef]
-
-108. Wang, L.; Christophersen, C.T.; Sorich, M.J.; Gerber, J.P.; Angley, M.T.; Conlon, M.A. Low relative abundances
-of the mucolytic bacterium Akkermansia muciniphila and Biﬁdobacterium spp. in feces of children with autism.
-Appl. Environ. Microbiol. 2011, 77, 6718–6721. [CrossRef] [PubMed]
-
-109. Williams, B.L.; Hornig, M.; Parekh, T.; Lipkin, W.I. Application of novel PCR-based methods for detection,
-quantitation, and phylogenetic characterization of Sutterella species in intestinal biopsy samples from children
-with autism and gastrointestinal disturbances. MBio 2012, 3, e00261-11. [CrossRef]
-
-110. Collins, S.M.; Surette, M.; Bercik, P. The interplay between the intestinal microbiota and the brain. Nat. Rev.
-
-Microbiol. 2012, 10, 735–742. [CrossRef]
-
-111. Bailey, M.T.; Dowd, S.E.; Galley, J.D.; Hufnagle, A.R.; Allen, R.G.; Lyte, M. Exposure to a social stressor alters the
-structure of the intestinal microbiota: Implications for stressor-induced immunomodulation. Brain Behav. Immun.
-2011, 25, 397–407. [CrossRef]
-
-112. Lee, Y.K.; Menezes, J.S.; Umesaki, Y.; Mazmanian, S.K. Proinﬂammatory T-cell responses to gut microbiota
-promote experimental autoimmune encephalomyelitis. Proc. Natl. Acad. Sci. USA 2011, 108, 4615–4622.
-[CrossRef] [PubMed]
-
-113. Patterson, E.; Cryan, J.F.; Fitzgerald, G.F.; Ross, R.P.; Dinan, T.G.; Stanton, C. Gut microbiota, the
-pharmabiotics they produce and host health. Proc. Nutr. Soc. 2014, 73, 477–489. [CrossRef] [PubMed]
-
-© 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
-article distributed under the terms and conditions of the Creative Commons Attribution
-(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
-
-

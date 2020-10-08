@@ -1,0 +1,1237 @@
+2
+
+Peris Mumbi Munyaka et al.
+
+disease and do not replace studies with patient samples,
+they are valuable tools for studying many important
+disease aspects that are difﬁcult to address in humans
+and they, therefore, provide a platform through which
+some of the complex mechanisms can be systematically
+investigated [12]. Most of these models require exoge-
+nous manipulation based either on chemical induction,
+immune cell transfer or gene targeting [9–11, 13], and
+only a few models occur spontaneously without any
+exogenous manipulation [13–15]. Chemically induced
+models of intestinal inﬂammation are among the most
+commonly used animal models of IBD as the onset of
+inﬂammation is immediate and the procedure is rela-
+tively straightforward. Even though they have limitations
+like all other models, they present some important
+immunological and histopathological aspects of IBD in
+humans [16]. The most widely used and characterized
+experimental model of erosion and inﬂammation related
+to UC in mice is the dextran sulphate sodium (DSS)-
+induced colitis, which is developed by DSS administration
+either in the drinking water [16, 17] or via intragastric
+catheter [18, 19]. The DSS induces a reproducible
+acute colitis [16]; however, there is some controversy
+regarding the type of inﬂammation that is induced. For
+some, the DSS model is recognized as a true model of
+colitis, while for others the model represents a model of
+epithelial erosion, but it is believed that DSS is directly
+toxic to gut epithelial cells of the basal crypts and affects
+the integrity of the mucosal barrier [11, 16, 20]. However,
+the model induces an acute colitis that is characterized
+by ulceration and inﬁltration, and also reﬂects many
+of the clinical features of IBD [11, 20–22]. For example,
+among other features, changing the DSS concentration or
+administration cycles can easily induce acute, chronic,
+and relapsing colitis. Our lab has extensive experience
+with this model [23–27].
+
+The focus of most DSS studies has been on the
+dynamic and proﬁle of mucosal response in relation to
+DSS treatment and its similarity to that observed in UC
+patients [11, 20–22]. These studies provide compelling
+evidence for changes in the gut mucosal
+immune
+response in mice treated with DSS compared to controls.
+In addition, other studies have investigated the role
+of defensins; antimicrobial, and anti-inﬂammatory
+components that are produced by paneth cells in the
+mucosa [28].
+In this regard, mice with impaired
+expression of a-defensins due to destruction of
+the epithelium, and hence, the paneth cells, have
+been shown to be more susceptible to DSS-induced
+colitis, characterized by increased production of pro-
+inﬂammatory cytokines [28]. On the other hand, notable
+shifts in gut microbiota composition (dysbiosis) have
+
+In addition,
+
+been highlighted in IBD patients at different stages of
+the disease [29–32]. However, given the widespread use
+of DSS, not many studies have so far investigated the
+compositional shifts in gut microbiota and changes in
+their metabolic capacity in relation to DSS treatment
+in mice or rat models [33–42]. In this context, DSS
+treatment has been associated with changes in the
+composition of gut microbiota, whose dynamics shift
+toward an unhealthy state [33–37, 39, 41]. The nature of
+gut microbiota was also reported to inﬂuence sensitivity
+to acute DSS-induced colitis independently of host
+genotype [38].
+interdependence of the
+mucosa-associated bacteria and chronic inﬂammation
+has also been reported [42]. Therefore, whether DSS-
+induced colitis causes dysbiosis or the nature of existing
+microbial colonization affects susceptibility to colitis
+remains a topic of discussion worth more explorations. It
+is however important to note that, most of the previous
+studies used 16S rRNA gene ﬁngerprinting methods,
+such as terminal-restriction fragment-length polymor-
+phism (T-RFLP), ﬂuorescent in situ hybridization (FISH)
+[34–36, 38, 39, 42, 43], or sequencing of few clones per
+animal [35, 44], which had either low accuracy and
+precision or were limited in data mining. Furthermore,
+few studies investigated shifts in microbiota’s functional
+potential or activity using metagenomic or metranscrip-
+tomic approaches [33, 37]. Therefore, a detailed and
+clear understanding of the structural and functional
+alterations of the intestinal microbiota in the DSS
+model is still required especially with the use of the high-
+throughput sequencing technologies.
+
+The aim of the present study was to utilize Illumina
+sequencing of the 16S rRNA gene and inferred meta-
+genomics by open source software PICRUSt (Phyloge-
+netic Investigation of Communities by Reconstruction of
+Unobserved States [61]) to investigate differences in
+microbiome composition and function in the fecal and
+colonic mucosa of mice treated with 5% DSS for 5 days.
+We demonstrated that oral administration of DSS in
+C57Bl/6 mice signiﬁcantly decreased bacterial species
+richness and shifted bacterial community composition.
+Speciﬁc taxa were associated with DSS treatment that
+may be important as intervention targets against the
+disease.
+In addition, DSS largely altered microbial
+activities and their functional pathways.
+
+Materials and methods
+
+Animals
+Male C57BL/6 (7–9 weeks old) mice were purchased from
+Charles River (Senneville, QC, Canada) and maintained in
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+the animal care facility at the Faculty of Health Sciences,
+University of Manitoba. All experiments were approved
+by the University of Manitoba Animal Ethics Committee
+(10-073) and conducted according to the Canadian
+guidelines for animal research [45].
+
+DSS colitis
+DSS (molecular weight; MW 40 kDa: MP Biomedicals,
+Soho, OH, USA) was added to the drinking water at a
+ﬁnal concentration of 5% (wt/vol) and administered for
+5 days. Controls were time-matched and consisted of
+mice that received normal drinking water only. Five
+and four mice were included in the DSS and control
+groups, respectively.
+
+Disease activity index
+Disease activity index; DIA is the combined score for
+weight loss, stool consistency and bleeding, and the
+scores have historically correlated well with the
+pathological ﬁndings in DSS-induced model of IBD
+[46]. The scoring system was deﬁned as follows: Weight:
+0, no loss; 1, 5–10%; 2, 10–15%; 3, 15–20%; and 4, >20%;
+stool: 0, normal; 2, loose stool; and 4, diarrhea; and
+bleeding: 0, no blood; 2, presence of blood; and 4, gross
+blood. Blood was assessed using the Hemoccult II test
+(Beckman coulter, Oakville, ON, Canada). The DAI
+scoring was performed from days 0 to 5 over the period
+of DSS treatment.
+
+Macroscopic scores
+Mice were euthanized on day 6, at the end of d5 of DSS
+administration, the abdominal cavity was opened and
+the colon was located, isolated and opened longitudi-
+nally. Macroscopic damage was next evaluated on the
+full colon section, and macroscopic scores were assessed
+according to the rectal bleeding, rectal prolapse,
+diarrhea and colonic bleeding using a previously
+established scoring system [46].
+
+Characterization of inﬂammation
+Colon tissue samples were collected 5 days post-DSS
+activation, and blood was collected by intracardiac
+puncture under isoﬂurane (Abbot, Mississaugua, ON,
+Canada) anesthesia. Serum C-reactive protein (CRP); a
+marker for systemic inﬂammation was determined
+using an enzyme-linked immunosorbent assay (ELISA)
+(R&D Systems, Minneapolis, MN,
+commercial kit
+USA). Colonic samples were homogenized in 700 ml
+of Tris–HCl buffer containing protease inhibitors
+(Sigma, Mississauga, ON, Canada) and centrifuged
+for 12 min at 10,000 (cid:3) g, and the supernatant was
+frozen at 80 °C until assay. Cytokine levels (IL-6, IL-1b)
+
+Dextran sulfate sodium and mice gut microbiota
+
+3
+
+were determined using an ELISA commercial kit (R&D
+Systems).
+
+DNA extraction and quality control
+Approximately 200 mg of each fecal sample was used
+for DNA extraction using ZR fecal DNA extraction kit
+(Zymo Research Corp., Irvine, CA, USA). For colonic
+samples, the tissue was cut open and approximately
+50 mg of mucosa scrapings were taken. DNA extraction
+from colonic mucosa samples was done using ZR Tissue
+and Insect DNA kit (Zymo Research Corp.). Both DNA
+extraction kits included a bead-beating step for the
+mechanical lysis of microbial cells. DNA was quantiﬁed
+using a NanoDrop 2000 spectrophotometer (Thermo
+Scientiﬁc, Wilmington, DE, USA). DNA samples were
+normalized to 20 ng/ml, and quality checked by PCR
+ampliﬁcation of the 16S rRNA gene using universal
+(50-GAAGAGTTTGATCATGGCTCAG-30)
+primers
+and 342R (50-CTGCTGCCTCCCGTAG-30) as described by
+Khaﬁpour et al. [47]. Amplicons were veriﬁed by agarose
+gel electrophoresis.
+
+27F
+
+Library construction and Illumina sequencing
+The V4 region of 16S rRNA gene was targeted for PCR
+ampliﬁcation using modiﬁed F515/R806 primers [48] as
+described previously [49]. In brief, a reverse PCR primer
+was indexed with 12-base Golay barcodes allowing for
+multiplexing of samples. The PCR reaction for each
+sample was performed in duplicate and contained 1.0 ml
+of pre-normalized DNA, 1.0 ml of each forward and
+reverse primers (10 mM), 12 ml HPLC grade water (Fisher
+Scientiﬁc, Ottawa, ON, Canada) and 10 ml 5 Prime Hot
+MasterMix (5 Prime,
+Inc., Gaithersburg, MD, USA).
+Reactions consisted of an initial denaturing step at
+94 °C for 3 min followed by 35 ampliﬁcation cycles at
+94 °C for 45 s, 50 °C for 60 s, and 72 °C for 90 s; ﬁnalized by
+an extension step at 72 °C for 10 min in an Eppendorf
+Mastercycler pro (Eppendorf, Hamburg, Germany). PCR
+products were then puriﬁed using ZR-96 DNA Clean-up
+Kit (ZYMO Research) to remove primers, dNTPs and
+reaction components. The V4 library was then generated
+by pooling 200 ng of each sample, quantiﬁed by
+Picogreen dsDNA (Invitrogen, Burlington, NY, USA).
+This was followed by multiple dilution steps using pre-
+chilled hybridization buffer (HT1) (Illumina, San Diego,
+CA, USA) to bring the pooled amplicons to a ﬁnal
+concentration of 5 pM, measured by Qubit 2.0 Fluorom-
+eter (Life technologies, Burlington, ON, Canada). Finally,
+15% of PhiX control library was spiked into the amplicon
+pool
+to improve the unbalanced and biased base
+composition, a known characteristic of low diversity
+16S rRNA libraries. Customized sequencing primers for
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+4
+
+Peris Mumbi Munyaka et al.
+
+read1 (50-TATGGTAATTGTGTGCCAGCMGCCGCGGTAA-30),
+read2 (50-AGTCAGTCAGCCGGACTACHVGGGTWTCTAAT-
+30), and index read (50-ATTAGAWACCCBDGTAGTCCGG-
+CTGACTGACT-30) were synthesized and puriﬁed by
+polyacrylamide gel electrophoresis (Integrated DNA
+Technologies, Coralville, IA, USA) and added to the MiSeq
+Reagent Kit V2 (300-cycle) (Illumina). The 150 paired-end
+sequencing reaction was performed on a MiSeq platform
+(Illumina) at the Gut Microbiome and Large Animal
+Biosecurity Laboratories, Department of Animal Science,
+University of Manitoba, Winnipeg, MB, Canada. The
+sequencing data are uploaded into the Sequence Read
+Archive (SRA) of NCBI (http://www.ncbi.nlm.nih.gov/sra)
+and are accessible through accession number SRR2830596.
+
+Bioinformatic analyses
+The PANDAseq assembler [50] was used to merge
+overlapping paired-end Illumina fastq ﬁles. All the
+sequences with mismatches or ambiguous calls in
+the overlapping region were discarded. The output fastq
+ﬁle was then analyzed by downstream computational
+pipelines of the open source software package QIIME
+[51].
+(Quantitative Insights Into Microbial Ecology)
+Chimeric reads were ﬁltered using UCHIME [52] and
+sequences were assigned to Operational Taxonomic
+Units (OTU) using the QIIME implementation of UCLUST
+[53] at 97% pairwise identity threshold. Taxonomies
+were assigned to the representative sequence of each
+OTU using RDP classiﬁer [54] and aligned with the
+Greengenes (v. 13.5) Core reference database [55] using
+PyNAST algorithms [56]. Phylogenetic tree was built with
+FastTree 2.1.3.
+[57] for further comparisons between
+microbial communities.
+
+Alpha- and beta-diversity analyses
+Within community diversity (a-diversity) was calculated
+by different indices of species richness and evenness
+such as Observed Number of Species, Chao1, ACE
+(abundance-based coverage estimators), Shannon, Simp-
+son, InvSimpson, and Fisher using the open source R
+software. An even depth of 21,000 and 14,500 sequences
+per sample for fecal and colon mucosa samples,
+respectively, was used for the calculation of diversity
+indices. Beta-diversity was measured by calculating
+the weighted UniFrac distances using QIIME default
+scripts [58]. Principal coordinate analysis (PCoA) was
+applied on resulting distance matrices to generate two-
+dimensional plots using the open source R software
+(v. 3.1.0) and the p values were calculated using
+PERMANOVA analyses of Bray–Curtis distances [59].
+Differences in alpha-diversity between DSS and control
+were determined using SAS (SAS 9.3, 2012). One colon
+
+sample in the control group was lost during DNA
+extraction and, therefore, only samples from three mice
+were included for all colon microbial analysis.
+
+Partial least square discriminant analysis
+least square discriminant analysis (PLS-DA;
+Partial
+SIMCA Pþ 13.02, Umetrics, Umea, Sweden) was
+performed on genus data to identify the effects of
+DSS. As described previously [60], the PLS-DA is a
+particular case of partial least square regression analysis
+in which Y is a set of variables describing the categories
+of a categorical variable on X. In this case, X variables
+were bacterial taxa and Y was observations of different
+treatments compared together. To avoid over parame-
+terization of the model, variable inﬂuence on projection
+value (VIP) was estimated for each genus, and genera
+with VIP <0.5 were removed from the ﬁnal model. R2
+estimates then were used to evaluate the goodness of ﬁt
+and Q2 estimate was used to evaluate the predictive value
+of the model. Data were presented in loading scatter
+plots. The PLS-DA regression coefﬁcients were used to
+identify taxa that were positively or negatively corre-
+lated with each treatment group.
+
+Prediction of functional metagenome
+The open source software PICRUSt (Phylogenetic Inves-
+tigation of Communities by Reconstruction of Unob-
+served States; v. 1.0.0-dev) was used to predict the
+functional capacity of microbiome using 16S rRNA
+gene sequencing data and Greengenes (v. 13.5) reference
+database [61]. To make our open-reference picked
+OTUs compatible with PICRUSt, all de-novo OTUs were
+removed and only those that had matching Greengenes
+identiﬁcations were retained. The new OTU table
+was then used to generate metagenomic data after
+normalizing the data by copy numbers, and to derive
+relative Kyoto Encyclopedia of Genes and Genomes
+(KEGG) Pathway abundance [61]. The KEGG data were
+analyzed using STAMP (STatistical Analysis of Metage-
+nomic Proﬁles) [62].
+
+Statistical analysis
+The UNIVARIATE procedure of SAS (SAS 9.3, 2012) was
+used to test the normality of residuals for a-diversity
+data. Data were used to assess the effect of treatment
+using MIXED procedure of SAS with treatment as the
+ﬁxed and animal as the random factor (SAS 9.3, 2012).
+Phylum percentage data were also used to evaluate
+statistical differences between the DSS and control
+treatments. For the disease index activity, macroscopic
+scores, weight loss score and inﬂammatory markers,
+statistical analysis was performed using one-way ANOVA
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+followed by the Tukey–Kramer multiple comparison
+post hoc analysis, using prism (Prism 5, GraphPad,
+La jolla, CA, USA). The differences between groups were
+considered signiﬁcant at p < 0.05.
+
+Results
+
+loss
+
+score and macroscopic
+
+In this context, weight
+
+Macroscopic score, disease activity index, C-reactive
+protein, and cytokines IL-1b and IL-6
+As shown in Fig. 1a–c, DSS increased disease activity
+index, weight
+score
+(p < 0.0001).
+loss, and the
+presence of blood in the feces were increased whereas
+stool consistency was decreased. Also, the level of CRP, a
+marker of systemic inﬂammation, and inﬂammatory
+cytokines IL-1b and IL-6 increased in the DSS group
+(p < 0.0001; Fig. 1c–f). These results conﬁrmed the
+presence of colitis in our DSS model.
+
+Alpha-diversity of the fecal and colonic mucosa-
+associated microbiota (MAM)
+Based on the different diversity indices used, DSS
+reduced bacterial species richness and evenness in the
+fecal samples compared to the control samples (Fig. 2a).
+
+Dextran sulfate sodium and mice gut microbiota
+
+5
+
+Bacterial a-diversity in the colonic MAM was not
+signiﬁcantly different between the control mice and
+the DSS mice samples, suggesting that both sample
+groups have similar bacterial species richness and
+evenness (Fig. 2b). The signiﬁcance levels were deter-
+mined using SAS and the p values are shown on top of
+each bar.
+
+Beta-diversity in fecal and colon samples
+As shown by the PCoA of weighted UniFrac distances,
+fecal samples clustered separately according to treat-
+ment group, suggesting that DSS and control samples
+were composed of distinct bacterial communities
+(p ¼ 0.007; Fig. 3a). Although clustered separately for a
+large portion of communities, the colonic MAM still had
+an overlap of some bacterial communities, suggesting
+that DSS and control mice colon mucosa samples had
+shared bacterial communities (p ¼ 0.2; Fig. 3b).
+
+Microbiota composition at phylum and lower
+taxonomic levels in the fecal samples
+A total of 259,126 sequences were generated after quality
+ﬁltering steps with an average of 28,791 high-quality
+sequences per sample, which resulted in identiﬁcation of
+11 phyla and 86 taxa. Although most taxa were classiﬁed
+
+Figure 1. Dextran sulfate sodium (DSS)-induced colonic inﬂammation. Five percent DSS treatment for 5 days induced a signiﬁcant increase in
+the; (a) disease activity index, (b) weight loss score, (c) macroscopic scores, (d) C-reactive protein (CRP), (e) IL-1b, and (f) IL-6. Values are
+shown as the mean (cid:4) SEM. AU, arbitrary units.
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+6
+
+Peris Mumbi Munyaka et al.
+
+Figure 2. Alpha-diversity analysis, a measure of species richness and evenness based on different diversity indices, from dextran sulfate
+sodium-induced colitis and the control group studied at fecal and colon levels. (a) Fecal colitic samples had a lower bacterial diversity compared
+to non-colitic samples, suggesting that DSS reduced bacterial species richness. (b) Colonic mucosal bacterial diversity is not different between
+colitic and non-colitic samples, suggesting that both sample groups had similar bacterial species richness and evenness. The p values shown
+on top of each bar were calculated using SAS. DSS, dextran sulphate sodium.
+
+Figure 3. Principle coordinate analysis (PCoA) of weighted UniFrac distances, a measure of b-diversity of bacterial community. (a) Fecal
+samples clustered separately according to treatment status of the mice, suggesting that DSS and control mice samples are composed of
+distinct bacterial communities; (b) colon mucosa samples have shared bacterial communities. The p values were determined using
+PERMANOVA. DSS, dextran sulphate sodium.
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+at the genus (g.) level, some were only classiﬁed at the
+phylum (p.), class (c.), order (o.), or family (f.). Of the
+11 phyla, six were abundant ((cid:5)1% of community),
+including Firmicutes, Bacteroidetes, Proteobacteria,
+Deferribacteres, Tenericutes, and Verrucomicrobia.
+The low-abundance phyla (<1% of community),
+in-
+cluded Actinobacteria, Cyanobacteria, Fibrobacteres,
+Spirochaetes, and TM7. Among the abundant phyla,
+DSS treatment reduced Bacteroidetes (P ¼ 0.01) while
+Proteobacteria were increased (p ¼ 0.004) compared
+to the control. Results of the relative abundances of
+various phyla are summarized in Fig. 4a.
+
+Of the 86 taxa, 56 had abundance greater than or equal
+to 0.01% of community, whereas 30 were below 0.01%.
+Bacterial taxa with relative abundance of (cid:5)0.01% of
+community were analysed using PLS-DA to identify
+bacteria that were most characteristic of the DSS or
+control treatments. As shown in Fig. 5a, Bacteroides
+ovatus, Clostridium perfrigens, Helicobacter hepaticus, and
+Parabacteroides distasonis; g. Desulfovibrio, Escherichia,
+Helicobacter, Clostridium,
+Parabacteroides,
+Bacilli, Allobaculum, Coprobacillus, Bacteroides, rc4-4; and
+unclassiﬁed members of f. Enterobacteriaceae, Clostri-
+diaceae, Bacteroidaceae; o. RF39, RF32, Bacteroidales,
+and Erysipelotrichales were positively correlated with
+the DSS group but negatively correlated with the
+control group. In addition, g. Dessulfovibrio, Oscillospira,
+Odoribacter, Coprococcus, Dehalobacterium, Adlercreutzia,
+Lactobacillus, Prevotella, Biﬁdobacterium; unclassiﬁed mem-
+f. Lachnospiraceae, Lactobacillaceae, S24-7;
+bers of
+
+Turicibacter,
+
+Dextran sulfate sodium and mice gut microbiota
+
+7
+
+and o. Lactobacillales were positively associated with
+the control group but negatively associated with the DSS
+group.
+
+Microbiota composition at the phylum and lower
+taxonomic levels in colonic mucosa samples
+A total of 199,057 sequences were generated after quality
+ﬁltering steps with an average of 24,882 high-quality
+sequences per sample, which resulted in identiﬁcation
+of 14 phyla and 151 taxa. Of the 14 phyla, ﬁve were
+abundant ((cid:5)1% of community), including Firmicutes,
+Bacteroidetes, Proteobacteria, Deferribacteres,
+and
+Verrucomicrobia. The low-abundance phyla (<1% of
+included Acidobacteria, Actinobacteria,
+community),
+Cyanobacteria, Fibrobacteres, Lentisphaerae, Planctomy-
+cetes, Spirochaetes, TM7, and Tenericutes. No signiﬁcant
+difference was observed among the abundant phyla
+between DSS and control mice (p > 0.05). Results of the
+relative abundances of various phyla are summarized
+in Fig. 4b.
+
+Of the 151 taxa, 68 had abundances greater than
+or equal to 0.01% of community, whereas 83 were
+below 0.01% of community. Bacterial taxa with relative
+abundance of (cid:5)0.01% of community were analysed
+using PLS-DA to identify bacteria that were most
+characteristic of DSS or control treatments. As shown
+in Fig. 5b, Lactobacillus reuteri, Bacteroides ovatus; g. rc4-4,
+Rikenellaceae, Biﬁdobacterium, YS2, Clostridium; f. Bacter-
+oidaceae, Clostridiaceae; o. RF32, RF39, Bacteroidales,
+Clostridales; and p. Proteobacteria were positively
+
+Figure 4. Percentage of relative abundances of bacterial phyla for: (a) fecal samples and (b) colon mucosa samples. The DSS signiﬁcantly
+decreased Bacteroidetes and increased Proteobacteria in fecal samples but no signiﬁcant difference was observed in the colonic mucosa
+samples. DSS, dextran sulphate sodium.
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+8
+
+Peris Mumbi Munyaka et al.
+
+Figure 5. Partial least square discriminant analysis (PLS-DA) of bacterial communities comparing taxa that were associated with the control or
+DSS treatments in the mice’s (a) fecal samples and (b) colon mucosal samples. All taxa are colored based on the phyla to which they belong to.
+The bubble size is representative of relative abundance of each taxa within the community. While majority of taxa were classiﬁed at the genus
+level, some could only be afﬁliated to phylum (P), class (C), order (O), or family (F) levels. – or þ signs and their color are indicative of signiﬁcant
+negative or positive association between each taxon and the associated group. DSS, dextran sulphate sodium.
+
+associated with DSS, but negatively associated with
+the control. Also, Mucispirillum schaedleri; g. Oscillospira,
+Acinetobacter, Yersinia; and f. Pseudomonadaceae were
+positively associated with the control but negatively
+associated with the DSS.
+
+Functional metagenome of colonic MAM and fecal
+microbiome
+The analysis provided insights into functional shifts
+in the murine intestinal microbiome. A number of
+metabolic pathways were highly enriched in the colonic
+MAM and fecal microbiome in the DSS-treated mice
+compared to the control. In this context, the fecal
+microbiome of DSS-treated mice was associated with but
+not limited to, increased fatty acid biosynthesis, lysine
+degradation, pyruvate metabolism, propanoate metabo-
+lism, replication, recombination and repair proteins,
+and transcription machinery (Fig. 6a). In addition, the
+colonic MAM of the DSS-treated mice was associated
+with increased DNA repair and recombination proteins,
+peptidoglycan biosynthesis, DNA replication proteins,
+alanine, aspartate and glutamate metabolism, ribosome
+biogenesis, and several other pathways (Fig. 6b).
+
+Discussion
+
+The indigenous gut microbiota are thought to play a key
+role in the pathogenesis of IBD. Part of the evidence for
+the involvement of intestinal bacteria in IBD comes from
+studies with murine models of the disease supporting
+the hypothesis that a deregulated immune response
+
+against components of the intestinal microbiota is
+critically involved in the pathophysiology of IBD [11].
+This is supported by the fact that antibiotic administra-
+tion reduces the severity of disease in these models
+and rederivation of the mice to the germfree state
+prevents initiation of disease [63, 64]. Conversely,
+some germfree mice have been shown to have a high
+mortality rate when given DSS in drinking water as
+compared to conventional mice [63], suggesting that
+different subsets of normal microbiota may play
+certain roles in terms of the initiation, development
+or attenuation of disease.
+
+We evaluated the fecal and colonic mucosal bacterial
+community dynamics,
+their functional alterations,
+as well as selected host variables in DSS-treated mice
+compared to control
+to elucidate which bacteria
+are most characteristic of DSS treatment, and which
+bacterial functional activities or metabolic pathways are
+affected. From the macroscopic assessment of disease
+severity in the colon, it was apparent that mice in the
+DSS-induced colitis treatment exhibited overt features of
+colitis compared to the healthy control group, which is
+in agreement with previous results where a DSS model
+was used [27, 36]. Also, analysis of the inﬂammatory
+markers including serum CRP level, a marker of systemic
+inﬂammation, showed signiﬁcant differences between
+the two groups as DSS up-regulated this marker. In line
+with our ﬁndings, previous studies reported an extensive
+accumulation of neutrophils and an increase in the
+serum CRP level and colonic myeloperoxidase in DSS-
+colitis [27, 65]. We next considered other potential pro-
+inﬂammatory mediators that also play central role in
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+Dextran sulfate sodium and mice gut microbiota
+
+9
+
+Figure 6. (a) Subsystems and pathways enriched or decreased within mice fecal samples isolated from colitic and non-colitic groups.
+Corrected p values were calculated using the Storey FDR correction. Subsystems or pathways overrepresented in the DSS or (control) fecal
+samples have a positive or (negative) difference between mean proportions and are indicated by red or (blue) coloring, respectively.
+(b) Subsystems and pathways enriched or decreased within mice colon samples isolated from the colitic and non-colitic groups. Subsystems
+or pathways overrepresented in the DSS or (control) mice colon samples have a positive or (negative) difference between mean proportions
+and are indicated by red or (blue) coloring, respectively.
+
+the pathogenesis of IBD including UC and CD. The
+DSS signiﬁcantly up-regulated inﬂammatory cytokines
+IL-1b and IL-6, a condition that has also been reported
+previously in colon of mice as a result of DSS-induced
+colitis [22, 27].
+
+Decreased richness or diversity of bacterial species
+has been reported widely in both fecal and intestinal
+MAM samples of human patients with UC and CD, in
+intestinal MAM of dogs with IBD, and in fecal samples
+of rats with DSS-induced colitis [32, 36, 66–69]. This is
+consistent with our observation in fecal samples in
+which diversity analysis of bacterial species richness of
+the control and DSS-treated mice showed signiﬁcant
+differences between these two groups. Also, our results
+on shifts in bacterial community composition are in
+agreement with Berry et al. [33], who reported differ-
+ences in bacterial community composition in a pool of
+colonic and cecal contents of wild type mice, which
+was mostly a result of DSS treatment, although the
+
+authors did not ﬁnd signiﬁcant differences in a-diversity
+analysis. Furthermore, a loss of species diversity and a
+distinctive microbial community composition in intesti-
+nal MAM of DSS-treated mice [35] and in both fecal and
+intestinal MAM samples of humans with IBD [70] have
+also been reported. Interestingly, in our study, colonic
+MAM proﬁles from DSS-treated mice were not signiﬁ-
+cantly different from bacterial proﬁles of the control
+mice in terms of bacterial richness and community
+composition at the phylum level. This may suggest
+possible differences in the effect of DSS on the richness
+and composition of microbiota at different anatomical
+sites or between mucosal and fecal samples. However,
+this was only limited to diversity and community
+composition at phylum level as bacterial differences
+were observed at lower taxonomical levels in both fecal
+and colon samples. This indicates that proﬁling of
+fecal and colonic bacteria by Illumina sequencing may
+be sensitive for investigating changes associated with
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+10
+
+Peris Mumbi Munyaka et al.
+
+colitis and may reveal bacterial shifts at lower taxonomic
+levels that could otherwise be missed. In this regard, it
+was worth noting that more taxa were signiﬁcantly
+associated with the DSS treatment in fecal samples
+compared to the colonic samples; however, several
+taxa including: Bacteroides ovatus, g. Clostridium, rc4-4;
+f. Clostridiaceae, Bacteroidaceae; and o. Bacteroidales,
+RF39, and RF32 were positively associated with the DSS
+treatment in both fecal and colonic mucosa samples.
+Some of these taxa have been reported to increase
+as a result of DSS [33], and although they may have
+different roles, their association with DSS in both colonic
+mucosa and in feces may indicate that they may play
+signiﬁcant roles in the potentiation of the abnormal
+inﬂammatory response seen in DSS-treated animals, and
+could therefore be important as intervention targets
+against the disease. Lending support to these results,
+Berry et al. [33] also found that the overall abundances of
+the dominant phyla Firmicutes and Bacteroidetes were
+not affected by DSS treatment in mice, but taxa within
+the two phyla showed clear changes in abundance with
+respect to DSS treatment.
+
+Members of the Bacteroidetes, such as o. Bacteroidales
+and f. Bacteroidaceae, have been identiﬁed as possible
+indicators of disease onset in the mouse model of
+colitis [37], and were also previously shown to be capable
+of inducing colitis in antibiotic-pretreated mice [71].
+However, data on members of p. Bacteroidetes are
+more ambiguous, and thus, inconsistent ﬁndings have
+been reported for their presence in IBD compared to
+healthy controls [72–77]. Moreover, although still
+under investigations, some bacteria that were charac-
+teristic of DSS in the fecal samples, such as Helicobacter
+hepaticus and the f. Enterobacteriaceae, speciﬁcally
+g. Escherichia, have been implicated in IBD patients
+and in animal models of IBD [8, 31, 32, 37, 76, 78].
+Similar ﬁndings for increased levels of Enterobacter-
+iaceae have also been reported in murine colitis, and
+after antibiotic treatment or infection by enteric
+pathogens [44, 79, 80]. Therefore, a variety of con-
+ditions seem to drive the increase of Enterobacteria-
+ceae, suggesting that the group may be a general
+indicator of a disrupted intestinal microbiota, but not
+necessarily a trigger of colitis [71]. However, there is
+strong data in support of the association of Enter-
+obacteriaceae with IBD, especially CD. Generally,
+despite these differences in relative abundances of
+speciﬁc phylotypes, there appear to be a consensus in
+overall decrease in biodiversity in IBD patients and in
+murine models of colitis [33, 35, 68, 75].
+
+The mechanisms by which DSS induced stronger
+bacterial shifts in the feces than in the colon mucosa
+
+are not fully understood. A similar observation has
+also been reported in IBD subjects whereby, changes in
+microbiome composition were more associated with
+the sample origin (stool or biopsy), and minor changes
+were observed in biopsy samples as opposed to stool
+samples [31]. It is possible that because DSS-induced
+colitis interferes directly with the intestinal epithelium
+and its barrier function as well as causing crypt
+damage [6, 22, 46, 81], this may lead to sloughing of
+mucosal epithelium, thereby decreasing the number of
+bacteria adhering to the mucosa, and consequently
+increasing the abundances of bacteria in the fecal
+matter.
+
+Studies applying metagenomics, metatranscriptomics
+or metaproteomics investigating functional capacities of
+gut microbiota in humans [30, 31], and in mouse model
+of colitis [33], reported alterations in metabolic pathways
+that might affect host-microbiota interactions. These
+ﬁndings are in agreement with our results whereby,
+several alterations in microbial metabolic pathways in
+both the colon mucosa and fecal samples were observed.
+Given that the microbial analysis of diversity, commu-
+nity composition and also changes at phylum level for
+colonic samples did not show any signiﬁcant difference
+between the DSS and control mice, the results suggest
+that analysis at microbial functional level might reveal
+important colitis-related changes in gut microbiome
+that are otherwise not noticeable at higher phylogenetic
+or community levels.
+
+The microbial community shifts associated with IBD
+are still poorly understood, and intense investigation
+continues to determine whether these changes are
+responsible for disease etiology, or alternatively, an
+indirect consequence of IBD. However, we present a
+rigorous analysis of DSS-induced colitis, a commonly
+used animal model of UC that has analyzed microbial
+shifts and functional alterations in colonic mucosa
+and fecal samples. Although acute DSS colitis is
+different from UC, there are some similarities, such
+as shifts in microbiota composition, reduced species
+diversity and increment or decrease of speciﬁc groups
+of bacteria; therefore, the mechanistic outcome of
+this study might be relevant for research on human
+IBD. In this context, restoring microbial homeostasis
+by targeting colitis-associated taxa through speciﬁc
+microbiological
+interventions could form the basis
+for novel therapeutic strategies for IBD. Together,
+our data provide important insight into DSS-induced
+dysbiosis or perturbations in gut microbiota in the
+colonic and fecal samples, supporting the DSS model as
+a useful tool to examine the role of different bacteria
+in the pathogenesis of IBD.
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+Acknowledgments
+
+This study was supported by grants from Crohn’s and
+Colitis Canada, the Children’s Hospital Research Insti-
+tute of Manitoba, the Canada Foundation for Innovation,
+and the Canadian Institutes of Health Research to J.E.G.,
+and a University of Manitoba start-up grant to E.K.
+
+Conﬂict of interest
+
+The authors have declared no conﬂict of interest.
+
+References
+
+[1] Cosnes, J., Gower-Rousseau, C., Seksik, P., Cortot, A., 2011.
+Epidemiology and natural history of inﬂammatory bowel
+diseases. Gastroenterology, 140, 1785–1794.
+
+[2] Manichanh, C., Borruel, N., Casellas, F., Guarner, F., 2012.
+The gut microbiota in IBD. Nat. Rev. Gastroenterol. Hepatol.,
+9, 599–608.
+
+[3] Strober, W., Fuss, I., Mannon, P., 2007. The fundamental
+basis of inﬂammatory bowel disease. J. Clin. Invest., 17,
+514–521.
+
+[4] Basso, P.J., Fonseca, M.T.C., Bonf(cid:1)a, G., Alves, V.B.F., et al.
+2014. Association among genetic predisposition, gut
+microbiota, and host immune response in the etiopatho-
+genesis of inﬂammatory bowel disease. Braz. J. Med. Biol.
+Res., 47, 727–737.
+
+[5] Jager, S., Stange, E.F., Wehkamp, J., 2013. Inﬂammatory
+bowel disease: an impaired barrier disease. Langenbecks
+Arch. Surg., 398, 1–12.
+
+[6] Klag, T., Stange, F.E., Wehkamp,
+
+J., 2013. Defective
+antibacterial barrier in inﬂammatory bowel disease.
+Dig. Dis., 31, 310–316.
+
+[7] Hooper, L.V., Littman, D.R., Macpherson, A.J., 2012.
+Interactions between the microbiota and the immune
+system. Science, 336, 1268–2273.
+
+[8] Wallace, K.L., Zheng, L.B., Kanazawa, Y., Shih, D.Q., 2014.
+Immunopathology of inﬂammatory bowel disease. W. J.
+Gastroenterol., 20, 6–21.
+
+[9] Hibi, T., Ogata, H., Sakuraba, A., 2002. Animal models
+of inﬂammatory bowel disease. J. Gastroenterol., 37,
+409–417.
+
+[10] Wirtz, S., Neurath, M.F., 2000. Animal models of intestinal
+inﬂammation- new insights into the molecular pathogen-
+esis and immunotherapy of inﬂammatory bowel disease.
+Int. J. Colorectal. Dis., 15, 144–1460.
+
+[11] Wirtz, S., Neurath, M.F., 2007. Mouse models of inﬂam-
+matory bowel disease. Adv. Drug Delivery Rev., 59,
+1073–1083.
+
+[12] Elson, C.O., Cong, Y., Brandwein, S., Weaver, C.T., et al.,
+1998. Experimental models to study molecular mecha-
+nisms underlying intestinal inﬂammation. Ann. NY Acad.
+Sci., 859, 85–95.
+
+Dextran sulfate sodium and mice gut microbiota
+
+11
+
+[13] Pizarro, T.T., Arseneau, K.O., Bamias, G., Cominelli, F.,
+2003. Mouse models for the study of Crohn’s disease.
+Trends Mol. Med., 9, 218–222.
+
+[14] Elson, C.O., Sartor, R.B., Tennyson, G.S., Riddell, R.H.,
+inﬂammatory bowel
+
+1995. Experimental models of
+disease. Gastroentorology, 109, 1344–1367.
+
+[15] Sundberg, J.P., Elson, C.O., Bedigian, H., Birkenmeier, E.H.,
+1994. Spontaneous, heritable colitis in a new substrain of
+C3h/Hej mice. Gastroenterology, 107, 1726–1735.
+
+[16] Solomon, L., Mansor, S., Mallon, P., Donnelly, E., et al.,
+2010. The dextran sulphate sodium (DSS) model of colitis:
+an overview. Comp. Clin. Pathol., 19, 235–239.
+
+[17] Chassaing, B., Aitken, J.D., Malleshappa, M., Vijay-Kumar,
+M., 2014. Dextran sulfate sodium (DSS)-induced colitis in
+mice. Curr. Prot. Immunol., 104, 15–25.
+
+[18] Kim, C.J., Kovacs-Nolan, J.A., Yang, C., Archbold, T., et al.,
+2010. l-Tryptophan exhibits therapeutic function in a
+porcine model of dextran sodium sulfate (DSS)-induced
+colitis. J. Nutr. Biochem., 21, 468–745.
+
+[19] Lee, M., Kovacs-Nolan, J., Yang, C., Archbold, T., et al.,
+2009. Hen egg lysozyme attenuates inﬂammation and
+modulates local gene expression in a porcine model of
+dextran sodium sulfate (DSS)-induced colitis. J. Agric. Food
+Chem., 57, 2233–2240.
+
+[20] Kitajima, S., Takuma, S., Morimoto, M., 2000. Histological
+analysis of murine colitis induced by dextran sulfate
+sodium of different molecular weights. Exp. Anim., 49,
+9–15.
+
+[21] Melgar, S., Karlsson, L., Rehnstrom, E., Karlsson, A., et al.,
+2008. Validation of murine dextran sulfate sodium-
+induced colitis using four therapeutic agents for human
+inﬂammatory bowel disease. Int. Immunopharmacol., 8,
+836–844.
+
+[22] Yan, Y., Kolachala, V., Dalmasso, G., Nguyen, H., et al.,
+2009. Temporal and spatial analysis of clinical and
+molecular parameters in dextran sodium sulfate induced
+colitis. PLoS ONE, 4, e6073.
+
+[23] Ghia, J.E., Blennerhassett, P., Collins, S.M., 2007. Vagus
+nerve integrity and experimental colitis. Am. J. Physiol.:
+Gastrointest. Liver Physiol., 293, G560–567.
+
+[24] Ghia, J.E., Blennerhassett, P., El-Sharkawy, R.T., Collins,
+S.M., 2007. The protective effect of the vagus nerve in a
+murine model of chronic relapsing colitis. Am. J. Physiol.:
+Gastrointest. Liver Physiol., 293, G711–718.
+
+[25] Ghia,
+
+J.E., Blennerhassett, P., Kumar-Ondiveeran, H.,
+Verdu, E.F., Collins, S.M., 2006. The vagus nerve: a tonic
+inhibitory inﬂuence associated with inﬂammatory bowel
+disease in a murine model. Gastroenterology, 131, 1122–
+1130.
+
+[26] Ghia, J.E., Li, N., Wang, H.Q., Collins, M., et al., 2009.
+Serotonin has a key role in pathogenesis of experimental
+colitis. Gastroenterology, 137, 1649–1660.
+
+[27] Rabbi, M.F., Labis, B., Metz-Boutigue, M.H., Bernstein, C.N.,
+Ghia, J.E., 2014. Catestatin decreases macrophage function
+in two mouse models of experimental colitis. Biochem.
+Pharmacol., 89, 386–398.
+
+[28] Shi, J., 2007. Defensins and Paneth cells in inﬂammatory
+bowel disease. Inﬂamm. Bowel Dis., 13, 1284–1292.
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+12
+
+Peris Mumbi Munyaka et al.
+
+[29] Tamboli, C.P., Neut, C., Desreumaux, P., Colombel, J.F.,
+2004. Dysbiosis in inﬂammatory bowel disease. Gut, 53,
+1–4.
+
+[30] Erickson, A.R., Cantarel, B.L., Lamendella, R., Darzi, Y.,
+et al., 2012. Integrated metagenomics/metaproteomics
+reveals human host-microbiota signatures of Crohn’s
+disease. PLoS ONE, 7, e49138.
+
+[31] Morgan, X.C., Tickle, T.L., Sokol, H., Gevers, D., et al., 2012.
+Dysfunction of the intestinal microbiome in inﬂammatory
+bowel disease and treatment. Genome Biol., 13, (9):R79.
+[32] Wills, E.S., Jonkers, D.M., Savelkoul, P.H., Masclee, A.A.,
+et al., 2014. Fecal microbial composition of ulcerative
+colitis and Crohn’s disease patients in remission and
+subsequent exacerbation. PLoS ONE, 9, e90981.
+
+[44] Lupp, C., Robertson, M.L, Wickham, M.E., Sekirov, I., et al.,
+2007. Host-mediated inﬂammation disrupts the intestinal
+microbiota and promotes the overgrowth of Enterobac-
+teriaceae. Cell Host Microbe, 2, 119–129.
+
+[45] Canadian Council on Animal Care, 1993. Guide to the Care
+and Use of Experimental Animals, 2nd ed. CCAC. Ottawa,
+Ontario, Canada. Vol. 1.
+
+[46] Cooper, H.S., Murthy, S.N.S., Sedergran, D.J., Shah, R.S.,
+1993. Clinicopathologic study of dextran sulfate sodium
+experimental murine colitis. Lab. Invest., 69, 238–250.
+[47] Khaﬁpour, E., Li, S., Plaizier, J.C., Krause, D.O., 2009.
+Rumen microbiome composition determined using two
+nutritional models of subacute ruminal acidosis. Appl.
+Environ. Microbiol., 75, 7115–7124.
+
+[33] Berry, D., Schwab, C., Milinovich, G., Reichert, J., et al.,
+2012. Phylotype-level 16S rRNA analysis reveals new
+bacterial indicators of health state in acute murine colitis.
+ISME J., 6, 2091–2106.
+
+[48] Caporaso, J.G., Lauber, C.L., Walters, W.A., Berg-Lyons, D.,
+et al., 2012. Ultra-high-throughput microbial community
+analysis on the Illumina HiSeq and MiSeq platforms. ISME
+J., 6, 1621–1624.
+
+[34] De Fazio, L., Cavazza, E., Spisni, E., Strillacci, A., et al.,
+2014. Longitudinal analysis of inﬂammation and micro-
+biota dynamics in a model of mild chronic dextran sulfate
+sodium-induced colitis in mice. W. J. Gastroenterol., 20,
+2051–2061.
+
+[35] Nagalingam, N.A., Kao, J.Y., Young, V.B., 2011. Microbial
+ecology of the murine gut associated with the develop-
+ment of dextran sodium sulfate-induced colitis. Inﬂamm.
+Bowel Dis., 17, 917–926.
+
+[36] Samanta, A.K., Torok, V.A., Percy, N.J., Abimosleh, S.M.,
+Howarth, G.S., 2012. Microbial ﬁngerprinting detects
+unique bacterial communities in the faecal microbiota
+of rats with experimentally-induced colitis. J. Microbiol.,
+50, 218–225.
+
+[37] Schwab, C., Berry, D., Rauch, I., Rennisch, I., et al., 2014.
+Longitudinal study of murine microbiota activity and
+interactions with the host during acute inﬂammation and
+recovery. ISME J., 8, 1101–1114.
+
+[38] Brinkman, B.M., Becker, A., Ayiseh, R.B., Hildebrand, F.,
+et al., 2013. Gut microbiota affects sensitivity to acute DSS-
+induced colitis independently of host genotype. Inﬂamm.
+Bowel Dis., 19, 2560–2567.
+
+[39] Hakansson, A., Tormo-Badia, N., Baridi, A., Xu, J., et al.,
+2015.
+Immunological alteration and changes of gut
+microbiota after dextran sulfate sodium (DSS) administra-
+tion in mice. Clin. Exp. Med., 15, 107–120.
+
+[40] Liang, X., Li, H., Tian, G., Li, S., 2014. Dynamic microbe and
+molecule networks in a mouse model of colitis-associated
+colorectal cancer. Sci. Rep., 4, 4985.
+
+[41] Mar, J.S., Nagalingam, N.A., Song, Y., Onizawa, M., et al.,
+2014. Amelioration of DSS-induced murine colitis by
+VSL#3 supplementation is primarily associated with
+changesinileal microbiota composition. Gut Microbes, 5,
+494–503.
+
+[49] Derakhshani, H., Tun, H.M., Khaﬁpour, E., 2016. An
+extended single-index multiplexed 16S rRNA sequencing
+for microbial community analysis on MiSeq illumina
+platforms. J. Basic Microbiol., 56, 321–326.
+
+[50] Masella, A.P., Bartram, A.K., Truszkowski, J.M., Brown,
+D.G., Neufeld, J.D., 2012. PANDAseq:PAaAired-eND assem-
+bler for illumina sequences. BMC Bioinf., 13, 31.
+
+[51] Caporaso, J.G., Kuczynski, J., Stombaugh, J., Bittinger, K.,
+et al., 2010. QIIME allows analysis of high-throughput
+community sequencing data. Nat. Methods, 7, 335–336.
+
+[52] Edgar, R.C., Haas, B.J., Clemente, J.C., Quince, C., Knight,
+R., 2011. UCHIME improves sensitivity and speed of
+chimera detection. Bioinformatics, 27, 2194–2200.
+[53] Edgar, R.C., 2010. Search and clustering orders of
+magnitude faster than BLAST. Bioinformatics, 26, 2460–
+2461.
+
+[54] Wang, Q., Garrity, G.M., Tiedje, J.M., Cole, J.R., 2007. Naive
+Bayesian classiﬁer for rapid assignment of rRNA sequen-
+ces into the new bacterial taxonomy. Appl. Environ.
+Microbiol., 73, 5261–5267.
+
+[55] DeSantis, T.Z., Hugenholtz, P., Larsen, N., Rojas, M., et al.,
+2006. Greengenes, a chimera-checked 16S rRNA gene
+database and workbench compatible with ARB. Appl.
+Environ. Microbiol., 72, 5069–5072.
+
+[56] Caporaso, J.G., Bittinger, K., Bushman, F.D., DeSantis, T.Z.,
+et al., 2010. PyNAST: a ﬂexible tool for aligning sequences
+to a template alignment. Bioinformatics, 26, 266–267.
+[57] Price, M.N., Dehal, P.S., Arkin, A.P., 2010. FastTree 2 (cid:6)
+approximately maximum-likelihood trees for large align-
+ments. PLoS ONEne, 5, e9490.
+
+[58] Lozupone, C., Knight, R., 2005. UniFrac: a new phyloge-
+netic method for comparing microbial communities.
+Appl. Environ. Microbiol., 71, 8228–8235.
+
+[42] Smith, P., Siddharth, J., Pearson, R., Holway, N., et al.,
+2012. Host genetics and environmental factors regulate
+ecological succession of the mouse colon tissue-associated
+microbiota. PLoS ONE, 7, e30273.
+
+[59] Anderson M., 2005. PERMANOVA: a FORTRAN computer
+program for permutational multivariate analysis of
+variance. 24 ed. Department of Statistics, University of
+Auckland, New Zealand.
+
+[43] Heimesaat, M.M., Fischer, A., Siegmund, B., Kupz, A., et al.,
+2007. Shift towards pro-inﬂammatory intestinal bacteria
+aggravates acute murine colitis via Toll-like receptors 2
+and 4. PLoS ONE, 2, e662.
+
+[60] Li, R., Khaﬁpour, E., Krause, D.O., Entz, M.H., et al., 2012.
+Pyrosequencing reveals the inﬂuence of organic and
+conventional farming systems on bacterial communities.
+PloS One, 7, e51897.
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+[61] Langille, M.G.I., Zaneveld, J., Caporaso, J.G., McDonald, D.,
+et al., 2013. Predictive functional proﬁling of microbial
+communities using 16S rRNA marker gene sequences. Nat.
+Biotechnol., 31, 814–821.
+
+[62] Parks, D.H., Beiko, R.G., 2010. Identifying biologically
+relevant differences between metagenomic communities.
+Bioinformatics, 26, 715–721.
+
+[63] Rath, H.C., Schultz, M., Freitag, R., Dieleman, L.A., et al.,
+2001. Different subsets of enteric bacteria induce and
+perpetuate experimental colitis in rats and mice. Infect.
+Immun., 69, 2277–2285.
+
+[64] Sartor, R.B., 2008. Microbial inﬂuences in inﬂammatory
+bowel diseases. Gastroenterology, 134, 5577–5594.
+[65] Ghia, J.E., Blennerhassett, P., Collins, S.M., 2008. Impaired
+parasympathetic function increases
+susceptibility to
+inﬂammatory bowel disease in a mouse model of
+depression. J. Clin. Invest., 118, 2209–2218.
+
+[66] Andoh, A., Sakata, S., Koizumi, Y., Mitsuyama, K., et al.,
+2007. Terminal restriction fragment length polymorphism
+analysis of the diversity of fecal microbiota in patients with
+ulcerative colitis. Inﬂamm. Bowel Dis., 13, 955–962.
+[67] Frank, D.N., St Amand, A.L., Feldman, R.A., Boedeker, E.C.,
+et al., 2007. Molecular-phylogenetic characterization of
+microbial community imbalances in human inﬂamma-
+tory bowel diseases. Proc. Natl. Acad. Sci. U. S. A., 104,
+13780–13785.
+
+[68] Manichanh, C., Rigottier-Gois, L., Bonnaud, E., Gloux, K.,
+et al., 2006. Reduced diversity of faecal microbiota in
+Crohn’s disease revealed by a metagenomic approach. Gut,
+55, 205–211.
+
+[69] Xenoulis, P.G., Palculict, B., Allenspach, K., Steiner, J.M.,
+et al., 2008. Molecular-phylogenetic characterization of
+microbial communities imbalances in the small intestine
+of dogs with inﬂammatory bowel disease. FEMS Microbiol.
+Ecol., 66, 579–589.
+
+[70] Willing, B.P. Dicksved, J. Halfvarson, J. Andersson, A.F. et al.,
+2010. A pyrosequencing study in twins shows that gastro-
+intestinal microbial proﬁles vary with inﬂammatory bowel
+disease phenotypes Gastroenterology, 139, 1844–U105
+[71] Bloom, S.M., Bijanki, V.N., Nava, G.M., Sun, L., et al., 2011.
+Commensal bacteroides species induce colitis in host-
+genotype-speciﬁc fashion in a mouse model of inﬂamma-
+tory bowel disease. Cell Host Microbe, 9, 390–403.
+
+Dextran sulfate sodium and mice gut microbiota
+
+13
+
+[72] Andoh, A., Imaeda, H., Aomatsu, T., Inatomi, O., et al.,
+2011. Comparison of the fecal microbiota proﬁles between
+ulcerative colitis and Crohn’s disease using terminal
+restriction fragment length polymorphism analysis. J.
+Gastroenterol., 46, 479–486.
+
+[73] Bibiloni, R., Mangold, M., Madsen, KL., Fedorak, R.N.,
+Tannock, G.W., 2006. The bacteriology of biopsies differs
+between newly diagnosed, untreated, Crohn’s disease and
+J. Med. Microbiol., 55,
+ulcerative colitis patients.
+1141–1149.
+
+[74] Gophna, U., Sommerfeld, K., Gophna, S., Doolittle, W.F.,
+Veldhuyzen van Zanten, S.J., 2006. Differences between
+tissue-associated intestinal microﬂoras of patients with
+Crohn’s disease and ulcerative colitis. J. Clin. Microbiol.,
+44, 4136–4141.
+
+[75] Ott, S.J., 2004. Reduction in diversity of the colonic mucosa
+associated bacterial microﬂora in patients with active
+inﬂammatory bowel disease. Gut, 53, 685–693.
+
+[76] Sepehri, S., Kotlowski, R., Bernstein, C.N., Krause, D.O.,
+2007. Microbial diversity of inﬂamed and noninﬂamed gut
+biopsy tissues in inﬂammatory bowel disease. Inﬂamm.
+Bowel Dis., 13, 675–683.
+
+[77] Swidsinski, A., Ladhoff, A., Pernthaler, A., Swidsinski, S.,
+et al., 2002. Mucosal ﬂora in inﬂammatory bowel disease.
+Gastroenterology, 122, 44–54.
+
+[78] Munyaka, P.M., Sepehri, S., Ghia, J.E., Khaﬁpour, E., 2016.
+Carrageenan gum and adherent invasive Escherichia coli
+in a piglet model of inﬂammatory bowel disease: impact
+on intestinal mucosa-associated microbiota. Front. Micro-
+biol., 7, 462.
+
+[79] Hill, D.A., Hoffmann, C., Abt, M.C., Du, Y., et al., 2010.
+Metagenomic analyses reveal antibiotic-induced temporal
+and spatial changes in intestinal microbiota with associ-
+ated alterations in immune cell homeostasis. Mucosal
+Immunol., 3, 148–158.
+
+[80] Stecher, B., Chaffron, S., Kappeli, R., Hapfelmeier, S., et al.,
+2010. Like will to like: abundances of closely related
+species can predict susceptibility to intestinal colonization
+by pathogenic and commensal bacteria. Plos Pathog., 6,
+e1000711.
+
+[81] Ni, J., Chen, S.-F., Hollander, D., 1996. Effects of dextran
+sulphate sodium on intestinal epithelial cells and intesti-
+nal lymphocytes. Gut, 39, 234–241.
+
+(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. 2016, 56, 1–13
+
+

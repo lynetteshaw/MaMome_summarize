@@ -511,7 +511,7 @@ rRNA gene is an ideal target to classify bacteria
 because of the nine hypervariable regions in this
 gene that can be used to distinguish species
 based on individual nucleotide polymorphisms
-(Fig. 1A). Ergo, Next-Gen sequencing charac-
+. Ergo, Next-Gen sequencing charac-
 terizes both coarse ( phylum level) as well as ﬁne
 (genus and limited species and strain) differ-
 ences using universal primers to the adjacent
@@ -894,12 +894,12 @@ cillus species) (Ravel et al. 2010). However, re-
 cent studies have shown the caution that must
 be used when performing analysis such as CSTs
 (Koren et al. 2013). In these investigations, Ko-
-ren et al. (2013) showed that these types of clus-
+ren et al. showed that these types of clus-
 ter analysis are sensitive to the distance metric
 used for analysis and that multiple distance
 metrics should be used to promote accuracy
 in data. In fact, this study used the data of Ravel
-et al. (2010) in their analysis and found varying
+et al. in their analysis and found varying
 support for the presence of CSTs based on the
 analysis used (Koren et al. 2013). Thus, multiple
 methods of analysis must be used to establish
@@ -1088,7 +1088,7 @@ pared with the HMP nonpregnant reference
 subjects, we found that pregnancy was associat-
 ed with an altered vaginal microbiome and
 marked by a decrease in alpha diversity at the
-subgenus level (Fig. 2) (Aagaard et al. 2012b).
+subgenus level .
 When we examined this phenomenon further,
 we discovered that there was an overall enrich-
 ment of the orders Lactobacillus, Clostridiales,
@@ -1304,7 +1304,7 @@ L. iners, with, L. iners being dominant in older
 gravidae (Walther-Anto´ nio et al. 2014). Al-
 though this insight should be kept in mind for
 future studies, this study had only two subjects
-with advanced maternal age (34 –36) (Walther-
+with advanced maternal age (Walther-
 Anto´ nio et al. 2014). To take these studies
 further, this group attempted to analyze their
 data in conjunction with the Romero et al.
@@ -1381,7 +1381,7 @@ www.perspectivesinmedicine.org
 Despite the need for further investigation
 into the role of the vaginal microbiome in as-
 sociation with BV and preterm birth, a recent
-study by Hyman et al. (2014) has examined
+study by Hyman et al. has examined
 the vaginal microbiome in preterm birth. This
 group used a prospective cohort study with 46
 high-risk ( previous unexplained PTB) and 42
@@ -1413,7 +1413,7 @@ ported in both normal pregnant subjects as well
 as nonpregnant (Ravel et al. 2010; Aagaard et al.
 2012b; Romero et al. 2014b). Similar ﬁndings
 were found in an independent study by Romero
-et al. In this prospective study, term (38 – 32 wk)
+et al. In this prospective study, term 
 versus preterm (,34 wk) subjects were sam-
 pled at the posterior fornix by an obstetrician
 and sequenced using V1V3 primers (Romero
@@ -1443,14 +1443,14 @@ COMMUNITY
 
 In addition to changes described in the vaginal
 microbiome during pregnancy, Koren et al.
-(2012) investigated the intestinal microbiome
+investigated the intestinal microbiome
 during pregnancy using a prospective cohort
 study and found that as pregnancy progressed,
 the intestinal microbiome was altered. This
 study used the V1V2 region of the 16S rRNA
 gene and found that alpha diversity (within
 sample variation) was decreased between the
-ﬁrst and third trimesters (Fig. 2). Further, stool
+ﬁrst and third trimesters . Further, stool
 samples collected from gravidae in the ﬁrst tri-
 mester clustered separately from stool samples
 collected in the third trimester (Koren et al.
@@ -1492,10 +1492,10 @@ transmission of a probiotic, Lactobacillus rham-
 nosus GG, from mother to infant (Schultz et al.
 2004). Gravid women took the probiotic twice
 daily from 30 – 36 wk of gestation. The authors
-found that all infants born vaginally (4/4) con-
+found that all infants born vaginally con-
 tained this probiotic in their stool whereas the
 probiotic was only detected in the stool of half
-of the cesarean delivered infants (1/2) (Schultz
+of the cesarean delivered infants (Schultz
 et al. 2004). This study showed that vertical
 transmission did occur between mother and in-
 fant. However, this study included a small sub-
@@ -1606,7 +1606,7 @@ Which Microbiota First Populate the Infant?
 
 Further studies into the establishment of the
 neonatal microbiome highlight this principle.
-Jost et al. (2012) showed that the intestinal
+Jost et al. showed that the intestinal
 microbiome of infants born vaginally and ex-
 clusively breastfed decrease the amount of the
 Firmicutes phylum, of which Lactobacillus be-
@@ -1801,7 +1801,7 @@ the bulk of the low level placental bacteria are
 likely not ascending nor are contaminants of the
 stool or the vagina, and instead, are quite pos-
 sibly seeded largely from the oral cavity through
-hematogenous spread (Fig. 3).
+hematogenous spread .
 
 The entering of oral microbes into the blood
 stream as a result of periodontitis or dental
@@ -2013,920 +2013,3 @@ and the Human Microbiome Project funded
 through the NIH Director’s Common Fund at
 the National Institutes of Health (as part of NIH
 RoadMap 1.5).
-
-REFERENCES
-
-Aagaard K, Petrosino J, Keitel W, Watson M, Katancik J,
-Garcia N, Patel S, Cutting M, Madden T, Hamilton H,
-et al. 2012a. The Human Microbiome Project strategy for
-comprehensive sampling of the human microbiome and
-why it matters. FASEB J 27: 1012– 1022.
-
-Aagaard K, Riehle K, Ma J, Segata N, Mistretta T-A, Coarfa
-C, Raza S, Rosenbaum S, Van den Veyver I, Milosavljevic
-A, et al. 2012b. A metagenomic approach to characteri-
-zation of the vaginal microbiome signature in pregnancy.
-PLoS ONE 7: e36466.
-
-Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
-
-17
-
-www.perspectivesinmedicine.org
-
-A.L. Prince et al.
-
-Aagaard K, Ganu R, Ma J, Hu M, Miller L, Jobe A, Kallapur
-S, Chougnet C. 2013. 506: Intraamniotic interleukin-1
-(IL1b) induces histologic chorioamnionitis and alters
-the microbiome in a primate model of inﬂammatory
-preterm birth. Am J Obstet Gynecol 208: S218.
-
-Aagaard K, Ma J, Antony KM, Ganu R, Petrosino J, Versa-
-lovic J. 2014. The placenta harbors a unique microbiome.
-Sci Transl Med 6: 237ra65.
-
-Abubucker S, Segata N, Goll J, Schubert AM, Izard J, Can-
-tarel BL, Rodriguez-Mueller B, Zucker J, Thiagarajan M,
-Henrissat B, et al. 2012. Metabolic reconstruction for
-metagenomic data and its application to the human mi-
-crobiome. PLoS Comput Biol 8: e1002358.
-
-Azad MB, Konya T, Maughan H, Guttman DS, Field CJ,
-Chari RS, Sears MR, Becker AB, Scott JA, Kozyrskyj AL.
-2013. Gut microbiota of healthy Canadian infants: Pro-
-ﬁles by mode of delivery and infant diet at 4 months.
-CMAJ 185: 385 –394.
-
-Ba¨ckhed F, Manchester JK, Semenkovich CF, Gordon JI.
-2007. Mechanisms underlying the resistance to diet-in-
-duced obesity in germ-free mice. Proc Natl Acad Sci 104:
-979–984.
-
-Bakardjiev AI, Theriot JA, Portnoy DA. 2006. Listeria mono-
-cytogenes trafﬁcs from maternal organs to the placenta
-and back. PLoS Pathog 2: e66.
-
-Biasucci G, Benenati B, Morelli L, Bessi E, Boehm G. 2008.
-Cesarean delivery may affect the early biodiversity of in-
-testinal bacteria. J Nutr 138: 1796S–1800S.
-
-Booijink CCGM, Boekhorst J, Zoetendal EG, Smidt H,
-Kleerebezem M, de Vos WM. 2010. Metatranscriptome
-analysis of the human fecal microbiota reveals subject-
-speciﬁc expression proﬁles, with genes encoding proteins
-involved in carbohydrate metabolism being dominantly
-expressed. Appl Environ Microbiol 76: 5533– 5540.
-
-Boskey ER, Telsch KM, Whaley KJ, Moench TR, Cone RA.
-1999. Acid production by vaginal ﬂora in vitro is consis-
-tent with the rate, extent of vaginal acidiﬁcation. Infect
-Immun 67: 5170– 5175.
-
-Boskey ER, Cone RA, Whaley KJ, Moench TR. 2001. Origins
-of vaginal acidity: High D/L lactate ratio is consistent
-with bacteria being the primary source. Hum Reprod
-16: 1809–1813.
-
-Brocklehurst P, Gordon A, Heatley E, Heatley E, Milan SJ.
-2013. Antibiotics for treating bacterial vaginosis in preg-
-nancy. Cochrane Database Syst Rev 1: CD000262.
-
-Brotman RM, Klebanoff MA, Nansel TR, Yu KF, Andrews
-WW, Zhang J, Schwebke JR. 2010. Bacterial vaginosis
-assessed by gram stain and diminished colonization re-
-sistance to incident gonococcal, chlamydial, and tricho-
-monal genital infection. J Infect Dis 202: 1907–1915.
-Buhimschi CS, Dulay AT, Abdel-Razeq S, Zhao G, Lee S,
-Hodgson EJ, Bhandari V, Buhimschi IA. 2009. Fetal in-
-ﬂammatory response in women with proteomic bio-
-markers characteristic of intra-amniotic inﬂammation
-and preterm birth. BJOG 116: 257– 267.
-
-Butler J, Maccallum I, Kleber M, Shlyakhter IA, Belmonte
-MK, Lander ES, Nusbaum C, Jaffe DB. 2008. ALLPATHS:
-De novo assembly of whole-genome shotgun microreads.
-Genome Res 18: 810–820.
-
-Cahill RJ, Tan S, Dougan G, O’Gaora P, Pickard D, Kennea
-N, Sullivan MHF, Feldman RG, Edwards AD. 2005. Uni-
-versal DNA primers amplify bacterial DNA from human
-
-fetal membranes and link Fusobacterium nucleatum with
-prolonged preterm membrane rupture. Mol Hum Reprod
-11: 761– 766.
-
-Cani PD, Neyrinck AM, Fava F, Knauf C, Burcelin RG,
-Tuohy KM, Gibson GR, Delzenne NM. 2007. Selective
-increases of biﬁdobacteria in gut microﬂora improve
-high-fat-diet-induced diabetes in mice through a mech-
-anism associated with endotoxaemia. Diabetologia 50:
-2374–2383.
-
-Cao B, Mysorekar IU. 2013. Intracellular bacteria in placen-
-tal basal plate localize to extravillous trophoblasts. Pla-
-centa 35: 139– 142.
-
-Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bush-
-man FD, Costello EK, Fierer N, Pen˜a AG, Goodrich JK,
-Gordon JI, et al. 2010. QIIME allows analysis of high-
-throughput community sequencing data. Nat Methods
-7: 335– 336.
-
-Claud EC, Walker WA. 2001. Hypothesis: Inappropriate col-
-onization of the premature intestine can cause neonatal
-necrotizing enterocolitis. FASEB J 15: 1398–1403.
-
-Combs CA, Gravett M, Garite TJ, Hickok DE, Lapidus J,
-Porreco R, Rael J, Grove T, Morgan TK, Clewell W, et al.
-2014. Amniotic ﬂuid infection, inﬂammation, and colo-
-nization in preterm labor with intact membranes. Am J
-Obstet Gynecol 210: 125.e1–125.e15.
-
-Darmasseelane K, Hyde MJ, Santhakumaran S, Gale C,
-Modi N. 2014. Mode of delivery and offspring body
-mass index, overweight and obesity in adult life: A sys-
-tematic review and meta-analysis. PLoS ONE 9: e87896.
-DeSantis TZ, Hugenholtz P, Larsen N, Rojas M, Brodie EL,
-Keller K, Huber T, Dalevi D, Hu P, Andersen GL. 2006.
-Greengenes, a chimera-checked 16S rRNA gene database
-and workbench compatible with ARB. Appl Environ
-Microbiol 72: 5069– 5072.
-
-Devaraj S, Hemarajata P, Versalovic J. 2013. The human gut
-microbiome and body metabolism: Implications for obe-
-sity and diabetes. Clin Chem 59: 617–628.
-
-Ding T, Schloss PD. 2014. Dynamics and associations of
-microbial community types across the human body.
-Nature 509: 357 –360.
-
-Dominguez-Bello MG, Costello EK, Contreras M, Magris
-M, Hidalgo G, Fierer N, Knight R. 2010. Delivery mode
-shapes the acquisition and structure of the initial micro-
-biota across multiple body habitats in newborns. Proc
-Natl Acad Sci 107: 11971– 11975.
-
-Eschenbach DA. 1993. History and review of bacterial vag-
-
-inosis. Am J Obstet Gynecol 169: 441 –445.
-
-Eschenbach DA, Davick PR, Williams BL, Klebanoff SJ,
-Young-Smith K, Critchlow CM, Holmes KK. 1989.
-Prevalence of hydrogen peroxide-producing Lactobacillus
-species in normal women and women with bacterial vag-
-inosis. J Clin Microbiol 27: 251 –256.
-
-Fardini Y, Chung P, Dumm R, Joshi N, Han YW. 2010.
-Transmission of diverse oral bacteria to murine placenta:
-Evidence for the oral microbiome as a potential source of
-intrauterine infection. Infect Immun 78: 1789–1796.
-Fardini Y, Wang X, Te´moin S, Nithianantham S, Lee D,
-Shoham M, Han YW. 2011. Fusobacterium nucleatum
-adhesin FadA binds vascular endothelial cadherin and
-alters endothelial integrity. Mol Microbiol 82: 1468–1480.
-
-18
-
-Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
-
-www.perspectivesinmedicine.org
-
-Faro S, Martens M, Maccato M, Hammill H, Pearlman M.
-1993. Vaginal ﬂora and pelvic inﬂammatory disease. Am
-J Med 333: 1732–1736.
-
-Faust K, Sathirapongsasuti JF, Izard J, Segata N, Gevers D,
-Raes J, Huttenhower C. 2012. Microbial co-occurrence
-relationships in the human microbiome. PLoS Comput
-Biol 8: e1002606.
-
-Fettweis JM, Serrano MG, Sheth NU, Mayer CM, Glascock
-AL, Brooks JP, Jefferson KK, Buck GA. 2012. Species-level
-classiﬁcation of the vaginal microbiome. BMC Genomics
-13: S17.
-
-Fortner KB, Grotegut CA, Ransom CE, Bentley RC, Feng L,
-Lan L, Heine RP, Seed PC, Murtha AP. 2014. Bacteria
-localization and chorion thinning among preterm pre-
-mature rupture of membranes. PLoS ONE 9: e83338.
-Gajer P, Brotman RM, Bai G, Sakamoto J, Schutte UME,
-Zhong X, Koenig SSK, Fu L, Ma Z, Zhou X, et al. 2012.
-Temporal dynamics of the human vaginal microbiota. Sci
-Transl Med 4: 132ra52.
-
-Ganu RS, Ma J, Aagaard KM. 2013. The role of microbial
-communities in parturition: Is there evidence of associ-
-ation with preterm birth and perinatal morbidity and
-mortality? Am J Perinatol 30: 613– 624.
-
-Gevers D, Knight R, Petrosino JF, Huang K, McGuire AL,
-Birren BW, Nelson KE, White O, Methe´ BA, Huttenhower
-C. 2012. The Human Microbiome Project: A community
-resource for the healthy human microbiome. PLoS Biol
-10: e1001377.
-
-Ghartey JP, Smith BC, Chen Z, Buckley N, Lo Y, Ratner AJ,
-Herold BC, Burk RD. 2014. Lactobacillus crispatus dom-
-inant vaginal microbiome is associated with inhibitory
-activity of female genital tract secretions against Escher-
-ichia coli. PLoS ONE 9: e96659.
-
-Glass EM, Wilkening J, Wilke A, Antonopoulos D, Meyer F.
-2010. Using the metagenomics RAST server (MG-RAST)
-for analyzing shotgun metagenomes. Cold Spring Harb
-Protoc doi: 10.1101/pdb.prot5368.
-
-Goldenberg RL, Hauth JC, Andrews WW. 2000. Intrauterine
-infection and preterm delivery. N Engl J Med 342: 1500–
-1507.
-
-Gonc¸alves LF, Chaiworapongsa T, Romero R. 2002. Intra-
-uterine infection and prematurity. Ment Retard Dev Dis-
-abil Res Rev 8: 3–13.
-
-Gophna U, Sommerfeld K, Gophna S, Doolittle WF, Veld-
-huyzen van Zanten SJO. 2006. Differences between tis-
-sue-associated intestinal microﬂoras of patients with
-Crohn’s disease and ulcerative colitis. J Clin Microbiol
-44: 4136–4141.
-
-Gosalbes MJ, Durba´n A, Pignatelli M, Abellan JJ, Jime´nez-
-Herna´ndez N, Pe´rez-Cobas AE, Latorre A, Moya A. 2011.
-Metatranscriptomic approach to analyze the functional
-human gut microbiota. PLoS ONE 6: e17447.
-
-Gravett MG, Nelson HP, DeRouen T, Critchlow C, Eschen-
-bach DA, Holmes KK. 1986. Independent associations of
-bacterial vaginosis and Chlamydia trachomatis infection
-with adverse pregnancy outcome. JAMA 256: 1899–
-1903.
-
-Gregoire AT, Kandil O, Ledger WJ. 1971. The glycogen con-
-tent of human vaginal epithelial tissue. Fertil Steril 22:
-64–68.
-
-Perinatal Microbiome and Pregnancy
-
-Gro¨nlund MM, Lehtonen OP, Eerola E, Kero P. 1999a. Fecal
-microﬂora in healthy infants born by different methods
-of delivery: Permanent changes in intestinal ﬂora after
-cesarean delivery. J Pediatr Gastroenterol Nutr 28: 19–25.
-Gro¨nlund MM, Salminen S, Mykka¨nen H, Kero P, Lehtonen
-OP. 1999b. Development of intestinal bacterial enzymes
-in infants—Relationship to mode of delivery and type of
-feeding. APMIS 107: 655 –660.
-
-Guthrie SO, Gordon PV, Thomas V, Thorp JA, Peabody J,
-Clark RH. 2003. Necrotizing enterocolitis among neo-
-nates in the United States. J Perinatol 23: 278– 285.
-Ha¨llstro¨m M, Eerola E, Vuento R, Janas M, Tammela O.
-2004. Effects of mode of delivery and necrotising entero-
-colitis on the intestinal microﬂora in preterm infants.
-Eur J Clin Microbiol Infect Dis 23: 463–470.
-
-Han YW, Wang X. 2013. Mobile microbiome: Oral bacteria
-in extra-oral infections and inﬂammation. J Dent Res
-92: 485– 491.
-
-Han YW, Redline RW, Li M, Yin L, Hill GB, McCormick TS.
-2004. Fusobacterium nucleatum induces premature and
-term stillbirths in pregnant mice: Implication of oral bac-
-teria in preterm birth. Infect Immun 72: 2272–2279.
-Han YW, Shen T, Chung P, Buhimschi IA, Buhimschi CS.
-2009. Uncultivated bacteria as etiologic agents of intra-
-amniotic inﬂammation leading to preterm birth. J Clin
-Microbiol 47: 38–47.
-
-Han YW, Fardini Y, Chen C, Iacampo KG, Peraino VA, Sha-
-monki JM, Redline RW. 2010. Term stillbirth caused by
-oral Fusobacterium nucleatum. Obstet Gynecol 115: 442–
-445.
-
-Hauth JC, Goldenberg RL, Andrews WW, DuBard MB,
-Copper RL. 1995. Erythromycin in women with bacterial
-vaginosis. N Engl J Med 333: 1732–1736.
-
-Herna´ndez-Rodrı´guez C, Romero-Gonza´lez R, Albani-
-Campanario M, Figueroa-Damia´n R, Meraz-Cruz N,
-Herna´ndez-Guerrero C. 2011. Vaginal microbiota of
-healthy pregnant Mexican women is constituted by four
-Lactobacillus species and several vaginosis-associated
-bacteria. Infect Dis Obstet Gynecol 2011: 851485.
-
-Hillier SL, Martius J, Krohn M, Kiviat N, Holmes KK, Esch-
-enbach DA. 1988. A case-control study of chorioam-
-nionic infection and histologic chorioamnionitis in
-prematurity. N Engl J Med 319: 972–978.
-
-Hillier SL, Krohn MA, Klebanoff SJ, Eschenbach DA. 1992.
-The relationship of hydrogen peroxide-producing lacto-
-bacilli to bacterial vaginosis and genital microﬂora in
-pregnant women. Obstet Gynecol 79: 369 –373.
-
-Hillier SL, Krohn MA, Rabe LK, Klebanoff SJ, Eschenbach
-DA. 1993. The normal vaginal ﬂora, H2O2-producing
-lactobacilli, and bacterial vaginosis in pregnant women.
-Clin Infect Dis 16: S273–S281.
-
-Hillier SL, Krohn MA, Cassen E, Easterling TR, Rabe LK,
-Eschenbach DA. 1995a. The role of bacterial vaginosis
-and vaginal bacteria in amniotic ﬂuid infection in women
-in preterm labor with intact fetal membranes. Clin Infect
-Dis 20: S276– S278.
-
-Hillier SL, Nugent RP, Eschenbach DA, Krohn MA, Gibbs
-RS, Martin DH, Cotch MF, Edelman R, Pastorek JG, Rao
-AV. 1995b. Association between bacterial vaginosis and
-preterm delivery of a low-birth-weight infant. The Vagi-
-nal Infections and Prematurity Study Group. N Engl
-J Med 333: 1737– 1742.
-
-Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
-
-19
-
-www.perspectivesinmedicine.org
-
-A.L. Prince et al.
-
-Human Microbiome Project. 2012a. A framework for hu-
-
-man microbiome research. Nature 486: 215– 221.
-
-Human Microbiome Project. 2012b. Evaluation of 16S
-rDNA-based community proﬁling for human micro-
-biome research. PLoS ONE 7: e39315.
-
-Human Microbiome Project. 2012c. Structure, function and
-diversity of the healthy human microbiome. Nature 486:
-207–214.
-
-Hummelen R, Fernandes AD, Macklaim JM, Dickson RJ,
-Changalucha J, Gloor GB, Reid G. 2010. Deep sequencing
-of the vaginal microbiota of women with HIV. PLoS ONE
-5: e12078.
-
-Huse SM, Ye Y, Zhou Y, Fodor AA. 2012. A core human
-microbiome as viewed through 16S rRNA sequence clus-
-ters. PLoS ONE 7: e34242.
-
-Hyman RW, Fukushima M, Jiang H, Fung E, Rand L, John-
-son B, Vo KC, Caughey AB, Hilton JF, Davis RW, et al.
-2014. Diversity of the vaginal microbiome correlates with
-preterm birth. Reprod Sci 21: 32– 40.
-
-Ikegami A, Chung P, Han YW. 2009. Complementation of
-the fadA mutation in Fusobacterium nucleatum demon-
-strates that the surface-exposed adhesin promotes cellu-
-lar invasion and placental colonization. Infect Immun
-77: 3075–3079.
-
-Jime´nez E, Ferna´ndez L, Marı´n ML, Martı´n R, Odriozola
-JM, Nueno-Palop C, Narbad A, Olivares M, Xaus J, Ro-
-drı´guez JM. 2005. Isolation of commensal bacteria from
-umbilical cord blood of healthy neonates born by cesar-
-ean section. Curr Microbiol 51: 270– 274.
-
-Jonasson J, Olofsson M, Monstein H-J. 2007. Classiﬁcation,
-identiﬁcation and subtyping of bacteria based on pyro-
-sequencing and signature matching of 16s rDNA frag-
-ments. 2002. APMIS 115: 678– 679.
-
-Jones HE, Harris KA, Azizia M, Bank L, Carpenter B, Hart-
-ley JC, Klein N, Peebles D. 2009. Differing prevalence and
-diversity of bacterial species in fetal membranes from very
-preterm and term labor. PLoS ONE 4: e8205.
-
-Joossens M, Huys G, Cnockaert M, De Preter V, Verbeke K,
-Rutgeerts P, Vandamme P, Vermeire S. 2011. Dysbiosis of
-the faecal microbiota in patients with Crohn’s disease and
-their unaffected relatives. Gut 60: 631 –637.
-
-Jost T, Lacroix C, Braegger CP, Chassard C. 2012. New in-
-sights in gut microbiota establishment in healthy breast
-fed neonates. PLoS ONE 7: e44595.
-
-Katz J, Chegini N, Shiverick KT, Lamont RJ. 2009. Localiza-
-tion of P. gingivalis in preterm delivery placenta. J Dent
-Res 88: 575– 578.
-
-Kim MJ, Romero R, Gervasi MT, Kim J-S, Yoo W, Lee D-C,
-Mittal P, Erez O, Kusanovic JP, Hassan SS, et al. 2009.
-Widespread microbial invasion of the chorioamniotic
-membranes is a consequence and not a cause of intra-
-amniotic infection. Lab Invest 89: 924– 936.
-
-King AE, Paltoo A, Kelly RW, Sallenave J-M, Bocking AD,
-Challis JRG. 2007. Expression of natural antimicrobials
-by human placenta and fetal membranes. Placenta 28:
-161–169.
-
-Klebanoff SJ, Coombs RW. 1991. Viricidal effect of Lactoba-
-cillus acidophilus on human immunodeﬁciency virus
-type 1: Possible role in heterosexual transmission. J Exp
-Med 174: 289– 292.
-
-Klebanoff SJ, Hillier SL, Eschenbach DA, Waltersdorph AM.
-1991. Control of the microbial ﬂora of the vagina by
-H2O2-generating lactobacilli. J Infect Dis 164: 94–100.
-Klindworth A, Pruesse E, Schweer T, Peplies J, Quast C,
-Horn M, Glo¨ckner FO. 2013. Evaluation of general 16S
-ribosomal RNA gene PCR primers for classical and next-
-generation sequencing-based diversity studies. Nucleic
-Acids Res 41: e1.
-
-Koenig JE, Spor A, Scalfone N, Fricker AD, Stombaugh J,
-Knight R, Angenent LT, Ley RE. 2011. Succession of mi-
-crobial consortia in the developing infant gut micro-
-biome. Proc Natl Acad Sci 108: 4578– 4585.
-
-Koren O, Goodrich JK, Cullender TC, Spor A, Laitinen K,
-Ba¨ckhed HK, Gonzalez A, Werner JJ, Angenent LT, Knight
-R, et al. 2012. Host remodeling of the gut microbiome
-and metabolic changes during pregnancy. Cell 150: 470–
-480.
-
-Koren O, Knights D, Gonzalez A, Waldron L, Segata N,
-Knight R, Huttenhower C, Ley RE. 2013. A guide to
-enterotypes across the human body: Meta-analysis of mi-
-crobial community structures in human microbiome da-
-tasets. PLoS Comput Biol 9: e1002863.
-
-Krohn MA, Hillier SL, Lee ML, Rabe LK, Eschenbach DA.
-1991. Vaginal Bacteroides species are associated with an
-increased rate of preterm delivery among women in pre-
-term labor. J Infect Dis 164: 88– 93.
-
-Kurki T, Sivonen A, Renkonen OV, Savia E, Ylikorkala O.
-1992. Bacterial vaginosis in early pregnancy and pregnan-
-cy outcome. Obstet Gynecol 80: 173–177.
-
-Larsen B, Monif GR. 2001. Understanding the bacterial ﬂora
-of the female genital tract. Clin Infect Dis 32: e69–e77.
-Larsen N, Vogensen FK, van den Berg FWJ, Nielsen DS,
-Andreasen AS, Pedersen BK, Al-Soud WA, Sørensen SJ,
-Hansen LH, Jakobsen M. 2010. Gut microbiota in human
-adults with type 2 diabetes differs from non-diabetic
-adults. PLoS ONE 5: e9085.
-
-Lecuit M, Nelson DM, Smith SD, Khun H, Huerre M,
-Vacher-Lavenu M-C, Gordon JI, Cossart P. 2004. Target-
-ing and crossing of the human maternofetal barrier by
-Listeria monocytogenes: Role of internalin interaction
-with trophoblast E-cadherin. Proc Natl Acad Sci 101:
-6152–6157.
-
-Ledger WJ. 1993. Historical review of the treatment of bac-
-terial vaginosis. Am J Obstet Gynecol 169: 474– 478.
-Lepage P, Ha¨sler R, Spehlmann ME, Rehman A, Zvirbliene
-A, Begun A, Ott S, Kupcinskas L, Dore´ J, Raedler A, et al.
-2011. Twin study indicates loss of interaction between
-microbiota and mucosa of patients with ulcerative colitis.
-Gastroenterology 141: 227 –236.
-
-Leviton A, Allred EN, Kuban KCK, Hecht JL, Onderdonk
-AB, O’shea TM, Paneth N. 2010. Microbiologic and his-
-tologic characteristics of the extremely preterm infant’s
-placenta predict white matter damage and later cerebral
-palsy. The ELGAN study. Pediatr Res 67: 95–101.
-
-Ley RE, Ba¨ckhed F, Turnbaugh P, Lozupone CA, Knight RD,
-Gordon JI. 2005. Obesity alters gut microbial ecology.
-Proc Natl Acad Sci 102: 11070–11075.
-
-Li K, Bihan M, Yooseph S, Methe´ BA. 2012. Analyses of the
-microbial diversity across the human microbiome. PLoS
-ONE 7: e32118.
-
-20
-
-Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
-
-www.perspectivesinmedicine.org
-
-Liu Z, Lozupone C, Hamady M, Bushman FD, Knight R.
-2007. Short pyrosequencing reads sufﬁce for accurate
-microbial community analysis. Nucleic Acids Res 35:
-e120.
-
-Liu B, Faller LL, Klitgord N, Mazumdar V, Ghodsi M,
-Sommer DD, Gibbons TR, Treangen TJ, Chang Y-C, Li
-S, et al. 2012. Deep sequencing of the oral microbiome
-reveals signatures of periodontal disease. PLoS ONE 7:
-e37919.
-
-Ma J, Coarfa C, Qin X, Bonnen PE, Milosavljevic A, Versa-
-lovic J, Aagaard K. 2014a. mtDNA haplogroup and single
-nucleotide polymorphisms structure human micro-
-biome communities. BMC Genomics 15: 257.
-
-Ma J, Prince AL, Bader D, Hu M, Ganu R, Baquero K,
-Blundell P, Alan Harris R, Frias AE, Grove KL, et al.
-2014b. High-fat maternal diet during pregnancy persis-
-tently alters the offspring microbiome in a primate
-model. Nat Commun 5: 3889.
-
-Macklaim JM, Fernandes AD, Di Bella JM, Hammond J-A,
-Reid G, Gloor GB. 2013. Comparative meta-RNA-seq of
-the vaginal microbiota and differential expression by Lac-
-tobacillus iners in health and dysbiosis. Microbiome 1: 12.
-Macones GA, Parry S, Nelson DB, Strauss JF, Ludmir J,
-Cohen AW, Stamilio DM, Appleby D, Clothier B, Sammel
-MD, et al. 2010. Treatment of localized periodontal dis-
-ease in pregnancy does not reduce the occurrence of pre-
-term birth: Results from the Periodontal Infections and
-Prematurity Study (PIPS). Am J Obstet Gynecol 202:
-147.e1–147.e8.
-
-Mai V, Young CM, Ukhanova M, Wang X, Sun Y, Casella G,
-Theriaque D, Li N, Sharma R, Hudak M, et al. 2011. Fecal
-microbiota in premature infants prior to necrotizing en-
-terocolitis. PLoS ONE 6: e20647.
-
-Mai V, Torrazza RM, Ukhanova M, Wang X, Sun Y, Li N,
-Shuster J, Sharma R, Hudak ML, Neu J. 2013. Distortions
-in development of intestinal microbiota associated with
-late onset sepsis in preterm infants. PLoS ONE 8: e52876.
-Mangin I, Bonnet R, Seksik P, Rigottier-Gois L, Sutren M,
-Bouhnik Y, Neut C, Collins MD, Colombel J-F, Marteau P,
-et al. 2004. Molecular inventory of faecal microﬂora in
-patients with Crohn’s disease. FEMS Microbiol Ecol 50:
-25–36.
-
-Manichanh C, Rigottier-Gois L, Bonnaud E, Gloux K, Pel-
-letier E, Frangeul L, Nalin R, Jarrin C, Chardon P, Mar-
-teau P, et al. 2006. Reduced diversity of faecal microbiota
-in Crohn’s disease revealed by a metagenomic approach.
-Gut 55: 205 –211.
-
-Marchesi JR, Dutilh BE, Hall N, Peters WHM, Roelofs R,
-Boleij A, Tjalsma H. 2011. Towards the human colorectal
-cancer microbiome. PLoS ONE 6: e20447.
-
-Martin HL, Richardson BA, Nyange PM, Lavreys L, Hillier
-SL, Chohan B, Mandaliya K, Ndinya-Achola JO, Bwayo
-J, Kreiss J. 1999. Vaginal lactobacilli, microbial ﬂora,
-and risk of human immunodeﬁciency virus type 1 and
-sexually transmitted disease acquisition. J Infect Dis 180:
-1863– 1868.
-
-Martius J, Krohn MA, Hillier SL, Stamm WE, Holmes KK,
-Eschenbach DA. 1988. Relationships of vaginal Lactoba-
-cillus species, cervical Chlamydia trachomatis, and bacte-
-rial vaginosis to preterm birth. Obstet Gynecol 71: 89– 95.
-McHardy IH, Goudarzi M, Tong M, Ruegger PM, Schwager
-E, Weger JR, Graeber TG, Sonnenburg JL, Horvath S,
-
-Perinatal Microbiome and Pregnancy
-
-Huttenhower C, et al. 2013. Integrative analysis of the
-microbiome and metabolome of the human intestinal
-mucosal surface reveals exquisite inter-relationships.
-Microbiome 1: 17.
-
-Meis PJ, Goldenberg RL, Mercer B, Moawad A. 1995. The
-preterm prediction study: Signiﬁcance of vaginal infec-
-tions. Am J Obstet Gynecol 173: 1231– 1235.
-
-Michalowicz BS, Hodges JS, DiAngelis AJ, Lupo VR, Novak
-MJ, Ferguson JE, Buchanan W, Boﬁll J, Papapanou PN,
-Mitchell DA, et al. 2006. Treatment of periodontal disease
-and the risk of preterm birth. N Engl J Med 355: 1885–
-1894.
-
-Milisavljevic V, Garg M, Vuletic I, Miller JF, Kim L, Cun-
-ningham TD, Schro¨der I. 2013. Prospective assessment of
-the gastroesophageal microbiome in VLBW neonates.
-BMC Pediatr 13: 49.
-
-Le Monnier A, Autret N, Join-Lambert OF, Jaubert F, Char-
-bit A, Berche P, Kayal S. 2007. ActA is required for cross-
-ing of the fetoplacental barrier by Listeria monocytogenes.
-Infect Immun 75: 950–957.
-
-Morgan XC, Huttenhower C. 2014. Meta’omic analytic
-techniques for studying the intestinal microbiome. Gas-
-troenterology 146: 1437–1448.e1.
-
-Morgan XC, Tickle TL, Sokol H, Gevers D, Devaney KL,
-Ward DV, Reyes JA, Shah SA, LeLeiko N, Snapper SB,
-et al. 2012. Dysfunction of the intestinal microbiome in
-inﬂammatory bowel disease and treatment. Genome Biol
-13: R79.
-
-Ness RB, Kip KE, Soper DE, Hillier S, Stamm CA, Sweet RL,
-Rice P, Richter HE. 2005. Bacterial vaginosis (BV) and the
-risk of incident gonococcal or chlamydial genital infec-
-tion in a predominantly black population. Sex Transm
-Dis 32: 413–417.
-
-Nieburgs HE. 1947. Gestational changes in the vaginal
-epithelium and their relation to the sex of the foetus.
-J Obstet Gynaecol Br Emp 54: 653 –655.
-
-Nygren P, Fu R, Freeman M, Bougatsos C, Klebanoff M,
-Guise J-M. 2008. Evidence on the beneﬁts and harms
-of screening and treating pregnant women who are
-asymptomatic for bacterial vaginosis: An update review
-for the U.S. Preventive Services Task Force. Ann Intern
-Med 148: 220–233.
-
-Offenbacher S, Katz V, Fertik G, Collins J, Boyd D, Maynor
-G, McKaig R, Beck J. 1996. Periodontal infection as a
-possible risk factor for preterm low birth weight. J Perio-
-dontol 67: 1103– 1113.
-
-Offenbacher S, Beck JD, Jared HL, Mauriello SM, Mendoza
-LC, Couper DJ, Stewart DD, Murtha AP, Cochran DL,
-Dudley DJ, et al. 2009. Effects of periodontal therapy on
-rate of preterm delivery: A randomized controlled trial.
-Obstet Gynecol 114: 551– 559.
-
-Olomu IN, Hecht JL, Onderdonk AO, Allred EN, Leviton A.
-2009. Perinatal correlates of Ureaplasma urealyticum in
-placenta parenchyma of singleton pregnancies that end
-before 28 weeks of gestation. Pediatrics 123: 1329–1336.
-Onderdonk AB, Delaney ML, DuBois AM, Allred EN, Lev-
-iton A. 2008a. Detection of bacteria in placental tissues
-obtained from extremely low gestational age neonates.
-Am J Obstet Gynecol 198: 110.e1–110.e7.
-
-Onderdonk AB, Hecht JL, McElrath TF, Delaney ML,
-Allred EN, Leviton A. 2008b. Colonization of second-
-
-Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
-
-21
-
-www.perspectivesinmedicine.org
-
-A.L. Prince et al.
-
-trimester placenta parenchyma. Am J Obstet Gynecol
-199: 52.e1– 52.e10.
-
-Paavonen J. 1983. Physiology and ecology of the vagina.
-
-Scand J Infect Dis Suppl 40: 31–35.
-
-Palmer C, Bik EM, DiGiulio DB, Relman DA, Brown PO.
-2007. Development of the human infant intestinal micro-
-biota. PLoS Biol 5: e177.
-
-Penders J, Thijs C, Vink C, Stelma FF, Snijders B, Kummel-
-ing I, van den Brandt PA, Stobberingh EE. 2006. Factors
-inﬂuencing the composition of the intestinal microbiota
-in early infancy. Pediatrics 118: 511– 521.
-
-Perla ME, Ghee AE, Sa´nchez S, McClelland RS, Fitzpatrick
-AL, Sua´rez-Ognio L, Lama JR, Sa´nchez J. 2012. Genital
-tract infections, bacterial vaginosis, HIV, and reproduc-
-tive health issues among Lima-based clandestine female
-sex workers. Infect Dis Obstet Gynecol 2012: 739624.
-Pettker CM, Buhimschi IA, Magloire LK, Sfakianaki AK,
-Hamar BD, Buhimschi CS. 2007. Value of placental mi-
-crobial evaluation in diagnosing intra-amniotic infec-
-tion. Obstet Gynecol 109: 739 –749.
-
-Pop M. 2009. Genome assembly reborn: Recent computa-
-
-tional challenges. Brief Bioinform 10: 354 –366.
-
-Prakash T, Taylor TD. 2012. Functional assignment of meta-
-genomic data: Challenges and applications. Brief Bioin-
-form 13: 711– 727.
-
-Pruesse E, Quast C, Knittel K, Fuchs BM, Ludwig W, Peplies
-J, Glo¨ckner FO. 2007. SILVA: A comprehensive online
-resource for quality checked and aligned ribosomal
-RNA sequence data compatible with ARB. Nucleic Acids
-Res 35: 7188–7196.
-
-Pybus V, Onderdonk AB. 1999. Microbial interactions in the
-vaginal ecosystem, with emphasis on the pathogenesis of
-bacterial vaginosis. Microbes Infect 1: 285 –292.
-
-Qin J, Li Y, Cai Z, Li S, Zhu J, Zhang F, Liang S, Zhang W,
-Guan Y, Shen D, et al. 2012. A metagenome-wide associ-
-ation study of gut microbiota in type 2 diabetes. Nature
-490: 55–60.
-
-Ravel J, Gajer P, Abdo Z, Schneider GM, Koenig SSK,
-Mcculle SL, Ault K, Peralta L, Forney LJ. 2010. Vaginal
-microbiome of reproductive-age women. Proc Natl Acad
-Sci 108: 4680–4687.
-
-Redline RW. 2007. Villitis of unknown etiology: Noninfec-
-tious chronic villitis in the placenta. Hum Pathol 38:
-1439– 1446.
-
-Redondo-Lopez V, Cook RL, Sobel JD. 1990. Emerging role
-of lactobacilli in the control and maintenance of the vag-
-inal bacterial microﬂora. Rev Infect Dis 12: 856 –872.
-Ridaura VK, Faith JJ, Rey FE, Cheng J, Duncan AE, Kau AL,
-Grifﬁn NW, Lombard V, Henrissat B, Bain JR, et al. 2013.
-Gut microbiota from twins discordant for obesity mod-
-ulate metabolism in mice. Science 341: 1241214.
-
-Riehle K, Coarfa C, Jackson A, Ma J, Tandon A, Paithankar S,
-Raghuraman S, Mistretta T-A, Saulnier D, Raza S, et al.
-2012. The Genboree Microbiome Toolset and the analysis
-of 16S rRNA microbial sequences. BMC Bioinformatics
-13: S11.
-
-Rogier EW, Frantz AL, Bruno MEC, Wedlund L, Cohen DA,
-Stromberg AJ, Kaetzel CS. 2014. Secretory antibodies in
-breast milk promote long-term intestinal homeostasis by
-regulating the gut microbiota and host gene expression.
-Proc Natl Acad Sci 111: 3074–3079.
-
-Romero R, Sirtori M, Oyarzun E, Avila C, Mazor M, Call-
-ahan R, Sabo V, Athanassiadis AP, Hobbins JC. 1989.
-Infection and labor. V: Prevalence, microbiology, and
-clinical signiﬁcance of intraamniotic infection in women
-with preterm labor and intact membranes. Am J Obstet
-Gynecol 161: 817–824.
-
-Romero R, Hassan SS, Gajer P, Tarca AL, Fadrosh DW, Bieda
-J, Chaemsaithong P, Miranda J, Chaiworapongsa T, Ravel
-J. 2014a. The vaginal microbiota of pregnant women who
-subsequently have spontaneous preterm labor and deliv-
-ery and those with a normal delivery at term. Microbiome
-2: 18.
-
-Romero R, Hassan SS, Gajer P, Tarca AL, Fadrosh DW, Nikita
-L, Galuppi M, Lamont RF, Chaemsaithong P, Miranda J,
-et al. 2014b. The composition and stability of the vaginal
-microbiota of normal pregnant women is different from
-that of non-pregnant women. Microbiome 2: 4.
-
-Ruiz-Pesini E, Lott MT, Procaccio V, Poole JC, Brandon MC,
-Mishmar D, Yi C, Kreuziger J, Baldi P, Wallace DC. 2007.
-An enhanced MITOMAP with a global mtDNA muta-
-tional phylogeny. Nucleic Acids Res 35: D823– D828.
-Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M,
-Hollister EB, Lesniewski RA, Oakley BB, Parks DH, Rob-
-inson CJ, et al. 2009. Introducing mothur: Open-source,
-platform-independent, community-supported software
-for describing and comparing microbial communities.
-Appl Environ Microbiol 75: 7537–7541.
-
-Schmieder R, Lim YW, Edwards R. 2012. Identiﬁcation and
-removal of ribosomal RNA sequences from metatran-
-scriptomes. Bioinformatics 28: 433– 435.
-
-Schultz M, Go¨ttl C, Young RJ, Iwen P, Vanderhoof JA. 2004.
-Administration of oral probiotic bacteria to pregnant
-women causes temporary infantile colonization. J Pediatr
-Gastroenterol Nutr 38: 293– 297.
-
-Schwiertz A, Gruhl B, Lo¨bnitz M, Michel P, Radke M, Blaut
-M. 2003. Development of the intestinal bacterial compo-
-sition in hospitalized preterm infants in comparison with
-breast-fed, full-term infants. Pediatr Res 54: 393–399.
-Schwiertz A, Taras D, Scha¨fer K, Beijer S, Bos NA, Donus C,
-Hardt PD. 2010. Microbiota and SCFA in lean and over-
-weight healthy subjects. Obesity (Silver Spring) 18: 190–
-195.
-
-Segata N, Waldron L, Ballarini A, Narasimhan V, Jousson O,
-Huttenhower C. 2012. Metagenomic microbial commu-
-nity proﬁling using unique clade-speciﬁc marker genes.
-Nat Methods 9: 811 –814.
-
-Sellitto M, Bai G, Serena G, Fricke WF, Sturgeon C, Gajer P,
-White JR, Koenig SSK, Sakamoto J, Boothe D, et al. 2012.
-Proof of concept of microbiome-metabolome analysis
-and delayed gluten exposure on celiac disease autoimmu-
-nity in genetically at-risk infants. PLoS ONE 7: e33387.
-Shi Y, Tyson GW, Eppley JM, DeLong EF. 2011. Integrated
-metatranscriptomic and metagenomic analyses of strati-
-ﬁed microbial assemblages in the open ocean. ISME J 5:
-999 –1013.
-
-Sobhani I, Tap J, Roudot-Thoraval F, Roperch JP, Letulle S,
-Langella P, Corthier G, Van Nhieu JT, Furet JP. 2011.
-Microbial Dysbiosis in Colorectal Cancer (CRC) Patients.
-PLoS ONE 6: e16393.
-
-Steel JH, Malatos S, Kennea N, Edwards AD, Miles L, Dug-
-gan P, Reynolds PR, Feldman RG, Sullivan MHF. 2005.
-
-22
-
-Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
-
-www.perspectivesinmedicine.org
-
-Bacteria and inﬂammatory cells in fetal membranes do
-not always cause preterm labor. Pediatr Res 57: 404 –411.
-Stout MJ, Conlon B, Landeau M, Lee I, Bower C, Zhao Q,
-Roehl KA, Nelson DM, Macones GA, Mysorekar IU.
-2013. Identiﬁcation of intracellular bacteria in the basal
-plate of the human placenta in term and preterm gesta-
-tions. Am J Obstet Gynecol 208: 226.e1–226.e7.
-
-Swati P, Thomas B, Vahab SA, Kapaettu S, Kushtagi P. 2012.
-Simultaneous detection of periodontal pathogens in sub-
-gingival plaque and placenta of women with hyperten-
-sion in pregnancy. Arch Gynecol Obstet 285: 613 –619.
-Turnbaugh PJ, Ley RE, Mahowald MA, Magrini V, Mardis
-ER, Gordon JI. 2006. An obesity-associated gut micro-
-biome with increased capacity for energy harvest. Nature
-444: 1027–1031.
-
-Turnbaugh PJ, Ba¨ckhed F, Fulton L, Gordon JI. 2008. Diet-
-induced obesity is linked to marked but reversible alter-
-ations in the mouse distal gut microbiome. Cell Host
-Microbe 3: 213– 223.
-
-Turnbaugh PJ, Hamady M, Yatsunenko T, Cantarel BL,
-Duncan A, Ley RE, Sogin ML, Jones WJ, Roe BA, Affour-
-tit JP, et al. 2009. A core gut microbiome in obese and lean
-twins. Nature 457: 480– 484.
-
-Vermeulen GM, Bruinse HW. 1999. Prophylactic adminis-
-tration of clindamycin 2% vaginal cream to reduce the
-incidence of spontaneous preterm birth in women with
-an increased recurrence risk: A randomised placebo-con-
-trolled double-blind trial. Br J Obstet Gynaecol 106: 652 –
-657.
-
-Verstraelen H, Verhelst R, Claeys G, De Backer E, Temmer-
-man M, Vaneechoutte M. 2009. Longitudinal analysis
-of the vaginal microﬂora in pregnancy suggests that
-L. crispatus promotes the stability of the normal vaginal
-microﬂora and that L. gasseri and/or L. iners are more
-conducive to the occurrence of abnormal vaginal micro-
-ﬂora. BMC Microbiol 9: 116.
-
-Walther-Anto´ nio MRS, Jeraldo P, Berg Miller ME, Yeoman
-CJ, Nelson KE, Wilson BA, White BA, Chia N, Creedon
-DJ. 2014. Pregnancy’s stronghold on the vaginal micro-
-biome. PLoS ONE 9: e98514.
-
-Wang Q, Garrity GM, Tiedje JM, Cole JR. 2007. Naive Baye-
-sian classiﬁer for rapid assignment of rRNA sequences
-
-Perinatal Microbiome and Pregnancy
-
-into the new bacterial taxonomy. Appl Environ Microbiol
-73: 5261–5267.
-
-Wang T, Cai G, Qiu Y, Fei N, Zhang M, Pang X, Jia W, Cai S,
-Zhao L. 2012. Structural segregation of gut microbiota
-between colorectal cancer patients and healthy volun-
-teers. ISME J 6: 320– 329.
-
-Wang X, Buhimschi CS, Temoin S, Bhandari V, Han YW,
-Buhimschi IA. 2013. Comparative microbial analysis of
-paired amniotic ﬂuid and cord blood from pregnancies
-complicated by preterm birth and early-onset neonatal
-sepsis. PLoS ONE 8: e56131.
-
-Watts DH, Krohn MA, Hillier SL, Eschenbach DA. 1992. The
-association of occult amniotic ﬂuid infection with gesta-
-tional age and neonatal outcome among women in pre-
-term labor. Obstet Gynecol 79: 351–357.
-
-Wiesenfeld HC, Hillier SL, Krohn MA, Landers DV, Sweet
-RL. 2003. Bacterial vaginosis is a strong predictor of Neis-
-seria gonorrhoeae and Chlamydia trachomatis infection.
-Clin Infect Dis 36: 663 –668.
-
-Willing B, Halfvarson J, Dicksved J, Rosenquist M, Ja¨rnerot
-G, Engstrand L, Tysk C, Jansson JK. 2009. Twin studies
-reveal speciﬁc imbalances in the mucosa-associated mi-
-crobiota of patients with ileal Crohn’s disease. Inﬂamm
-Bowel Dis 15: 653– 660.
-
-Wu X, Ma C, Han L, Nawaz M, Gao F, Zhang X, Yu P, Zhao C,
-Li L, Zhou A, et al. 2010. Molecular characterisation of
-the faecal microbiota in patients with type II diabetes.
-Curr Microbiol 61: 69– 78.
-
-Yee WH, Soraisham AS, Shah VS, Aziz K, Yoon W, Lee SK.
-2012. Incidence and timing of presentation of necrotizing
-enterocolitis in preterm infants. Pediatrics 129: e298–
-304.
-
-Zeldovich VB, Bakardjiev AI. 2012. Host defense and toler-
-ance: Unique challenges in the placenta. PLoS Pathog 8:
-e1002804.
-
-Zhang W, Li F, Nie L. 2010. Integrating multiple “omics”
-analysis for microbial biology: Application and method-
-ologies. Microbiology 156: 287– 301.
-
-Zhu W, Lomsadze A, Borodovsky M. 2010. Ab initio gene
-identiﬁcation in metagenomic sequences. Nucleic Acids
-Res 38: e132.
-
-www.perspectivesinmedicine.org
-
-Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
-
-23
-
-

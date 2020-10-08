@@ -26,7 +26,7 @@ Figure 1: Study Design and Population
 Characteristics
 
 1A. The study cohort had 550 adult participants 
-(66% female). Each study participant provided 
+ Each study participant provided 
 a stool sample, filled out questionnaires, and 
 made an office visit. Then over 14 days, partici-
 pants consumed pre-designed meals that were 
@@ -527,10 +527,10 @@ dividual differences, especially differences in gut microbiome activity
 obtained  via  the  metatranscriptomic  method  for  the  first  time.  We 
 made  a  few  key  design  choices  for  the  study,  including  (a)  14  days 
 of  monitoring,  (b)  multiple  diet  types  –  omnivore  and  vegetarian/
-gluten-free, and (c) a large proportion (66%) of “provided” (pre-de-
+gluten-free, and (c) a large proportion of “provided” (pre-de-
 signed) meals.
 
-The  number  of  provided  meals  (104)  is  considerably  larger  in 
+The  number  of  provided  meals   is  considerably  larger  in 
 our study compared to previous studies (e.g. [Zeevi 2015]; [Mendes-
 Soares 2019] had only 4 standardized meals). This design allowed us 
 to get more precise readings of consumed meals rather than entirely 
@@ -845,187 +845,3 @@ considerable  logistics  during  the  data  collection  and  annotation  phases.
 Matteo  Rinaldi  and  Sha  Yu  Han  for  initial  data  exploration  and  analyses;  Subha 
 Krishnan  for  curating  the  microbiome  pathway  literature  and  features;  and  Debra 
 Heald and Samika Savanur for their clinical input.
-
-References
-[Abbott 2016] https://www.accessdata.fda.gov/cdrh_docs/pdf15/p150021c.pdf
-
-[Bashiardes  2016]  Bashiardes  S.,  Zilberman-Schapira  G.,  Elinav  E.  2016.  Use  of 
-Metatranscriptomics  in  Microbiome  Research.  Bioinformatics  and  Biology  Insights 
-10:BBI.S34610. DOI: 10.4137/BBI.S34610.
-
-[Bates 2015] Bates, Douglas, Martin Maechler, Ben Bolker, Steven Walker, Rune Haubo 
-Bojesen Christensen, Henrik Singmann, Bin Dai, Gabor Grothendieck, C+ Eigen, and L. 
-Rcpp. "Package ‘lme4’." Convergence 12, no. 1 (2015).
-
-[Bervoets 2019] Indra Bervoets, Daniel Charlier, Diversity, versatility and complexity of 
-bacterial gene regulation mechanisms: opportunities and drawbacks for applications 
-in  synthetic  biology,  FEMS  Microbiology  Reviews,  Feb  2019,  https://doi.org/10.1093/
-femsre/fuz001
-
-[CDC 2017] https://www.cdc.gov/media/releases/2017/p0718-diabetes-report.html 
-
-[Chen  1987]  Chen,  Y.  M.,  Zhu,  Y.,  Lin,  E.  C.  “NAD-linked  aldehyde  dehydrogenase 
-for aerobic utilization of L-fucose and L-rhamnose by Escherichia coli.” J Bacteriol. 
-1987;169(7):3289-94
-
-[Chen 2016] Chen, T., Guestrin, C. “XGBoost: A scalable tree boosting system” KDD'16, 
-Proceedings  of  the  22nd  ACM  SIGKDD  International  Conference  on  Knowledge 
-Discovery and Data Mining (2016): 785-794.
-
-[Cheng  2018]  Cheng,  J.  T.  "Merit  of  Incremental  Area  under  the  Curve  (iAUC)  in 
-Nutrition is Varied in Pharmacological Assay-A Review." Clin J Dia Care Control 1, no. 
-2 (2018): 180008.
-
-[Crost 2016] Crost EH, Tailford LE, Monestier M, Swarbreck D, Henrissat B, Crossman 
-LC,  Juge  N.”  The  mucin-degradation  strategy  of  Ruminococcus  gnavus:  The 
-importance of intramolecular trans-sialidases” Gut Microbes. 2016 Jul 3;7(4):302-312.
-
-[Franz 1997] Franz, Marion J. "Protein: metabolism and effect on blood glucose levels." 
-The diabetes educator 23, no. 6 (1997): 643-651.
-
-[Gelman 2007] Gelman, Andrew, and Jennifer Hill. "Data analysis using regression and 
-hierarchical/multilevel models." New York, NY: Cambridge (2007).
-
-[Gonzalez 2018] Lopez, Laura, Karin Garrie, and Mark D. Turner. "Type 2 diabetes–An 
-autoinflammatory disease driven by metabolic stress." Biochimica et Biophysica Acta 
-(BBA)-Molecular Basis of Disease (2018).
-
-[Gosalbes  2011]  Gosalbes  MJ.,  Durbán  A.,  Pignatelli  M.,  Abellan  JJ.,  Jiménez-
-Hernández  N.,  Pérez-Cobas  AE.,  Latorre  A.,  Moya  A.  2011.  Metatranscriptomic 
-Approach to Analyze the Functional Human Gut Microbiota. PLoS ONE 6:e17447. DOI: 
-10.1371/journal.pone.0017447.
-
-[Gutierrez 1998] Gutierrez, Mario, Mehras Akhavan, Lois Jovanovic, and Charles M. 
-Peterson. Utility of a short-term 25% carbohydrate diet on improving glycemic control 
-in type 2 diabetes mellitus. Journal of the American College of Nutrition 17.6 (1998): 
-595-600. DOI: 10.1080/07315724.1998.10718808 
-
-[Hatch  2019]  Andrew  Hatch,  James  Horne,  Ryan  Toma,  Brittany  L  Twibell,  Kalie  M 
-Somerville,  Benjamin  Pelle,  Kinga  P  Canfield,  Guruduth  Banavar,  Ally  Perlina,  Helen 
-Messier,  Niels  Klitgord,  and  Momchilo  Vuyisich.  2019.  A  robust  metatranscriptomic 
-technology for population-scale studies of diet, gut microbiome, and human health. 
-doi:10.31219/osf.io/8vd6x`
-
-[He 2010] He S., Wurtzel O., Singh K., Froula JL., Yilmaz S., Tringe SG., Wang Z., Chen F., 
-Lindquist EA., Sorek R., Hugenholtz P. 2010. Validation of two ribosomal RNA removal 
-methods for microbial metatranscriptomics. Nature Methods 7:807–812. DOI: 10.1038/
-nmeth.1507.
-
-[Hopkins 1966] Hopkins A: The pattern of gastric emptying: a new view of old results. 
-J Physiol (Lond) 182:144-149, 1966
-
-[Jenkins  1985]  Jenkins,  David  JA,  and  Alexandra  L.  Jenkins.  "Dietary  fiber  and 
-the  glycemic  response."  Proceedings  of  the  Society  for  Experimental  Biology  and 
-Medicine 180, no. 3 (1985): 422-431. DOI: 10.3181/00379727-180-42199
-
-[Karlsson 2013] Karlsson, F. H., Tremaroli, V., Nookaew, I., Bergström, G., Behre, C. J., 
-Fagerberg,  B.,  Nielsen,  J.,  Bäckhed,  F.  “Gut  metagenome  in  European  women  with 
-normal, impaired and diabetic glucose control.” Nature (2013) 498(7452):99-103.
-
-10
-
-Quinn RA, Sanders JG, Swafford AD, Thompson LR, Tripathi A, Xu ZZ, Zaneveld JR, 
-Zhu Q, Caporaso JG, Dorrestein PC. 2018. Best practices for analysing microbiomes. 
-Nature Reviews Microbiology 16:410–422. DOI: 10.1038/s41579-018-0029-9.
-
-[Krishnan 2018] Krishnan S, Ding Y, Saedi N, Choi M, Sridharan GV, Sherr DH, Yarmush 
-ML,  Alaniz  RC,  Jayaraman  A,  Lee  K.”  Derived  Tryptophan  Metabolites  Modulate 
-Inflammatory  Response  in  Hepatocytes  and  Macrophages”  Cell  Rep.  2018  Apr 
-24;23(4):1099-1111
-
-[Larsen  2010]  Larsen,  N.,  Vogensen,  F.  K.,  van  den  Berg,  F.  W.,  Nielsen,  D.  S., 
-Andreasen,A. S., Pedersen, B.K., Al-Soud, W. A., Sørensen, S.J., Hansen, L.H., Jakobsen, 
-M.  “Gut  microbiota  in  human  adults  with  type  2  diabetes  differs  from  non-diabetic 
-adults.” PLoS One. 2010;5(2):e9085
-
-[Livesey 2008] Livesey, Geoffrey, Richard Taylor, Toine Hulshof, and John Howlett. 
-"Glycemic  response  and  health—a  systematic  review  and  meta-analysis:  relations 
-between dietary glycemic properties and health outcomes." The American journal of 
-clinical nutrition 87, no. 1 (2008): 258S-268S. DOI: 10.1093/ajcn/87.1.258S
-
-[Li 2014] Li J, Jia H, Cai X, Zhong H, Feng Q, Sunagawa S, Arumugam M, Kultima JR, 
-Prifti E, Nielsen T, Juncker AS, Manichanh C, Chen B, Zhang W, Levenez F, Wang J, 
-Xu X, Xiao L, Liang S, Zhang D, Zhang Z, Chen W, Zhao H, Al-Aama JY, Edris S, Yang 
-H,  Wang  J,  Hansen  T,  Nielsen  HB,  Brunak  S,  Kristiansen  K,  Guarner  F,  Pedersen  O, 
-Doré J, Ehrlich SD, Bork P, Wang J. 2014. “An integrated catalog of reference genes in 
-the human gut microbiome.” Nature Biotechnology 32:834–841. (2014) DOI: 10.1038/
-nbt.2942.
-
-[Ludwig  2018]  Ludwig,  David  S.,  Frank  B.  Hu,  Luc  Tappy,  and  Jennie  Brand-Miller. 
-"Dietary  carbohydrates:  Role  of  quality  and  quantity  in  chronic  disease."  Bmj  361 
-(2018): k2340. DOI: 10.1136/bmj.k2340 
-
-[Mendes-Soares 2019] Mendes-Soares H, Raveh-Sadka T, Azulay S, et al. Assessment 
-of a Personalized Approach to Predicting Postprandial Glycemic Responses to Food 
-Among  Individuals  Without  Diabetes.  JAMA  Network  Open.  2019;2(2):e188102. 
-doi:10.1001/jamanetworkopen.2018.8102
-
-[Mirsky 1956] Mirsky, I. Arthur, and Daniel Diengott. "Hypoglycemic action of indole-
-3-acetic acid by mouth in patients with diabetes mellitus." Proceedings of the Society 
-for Experimental Biology and Medicine 93, no. 1 (1956): 109-110.
-
-[Perlina  in  prep.]  Perlina  et  al,  “Pathway  Scoring  and  Functional  Assessment  of 
-Microbiome Activities Connects Gut Metatranscriptomics to Phenotype and Health 
-Metrics.” - in preparation
-
-[Rao  2012]  RadhaKrishna  Rao  and  Geetha  Samak  “Role  of  Glutamine  in  Protection 
-of Intestinal Epithelial Tight Junctions” J Epithel Biol Pharmacol. 2012 Jan; 5(Suppl 
-1-M7): 47–54.
-
-[Russell 2013] Russell, Wendy R., Sylvia H. Duncan, Lorraine Scobbie, Gary Duncan, 
-Louise  Cantlay,  A.  Graham  Calder,  Susan  E.  Anderson,  and  Harry  J.  Flint.  "Major 
-phenylpropanoid-derived  metabolites  in  the  human  gut  can  arise  from  microbial 
-fermentation of protein." Molecular nutrition & food research 57, no. 3 (2013): 523-535.
-
-[Silverstein  1966]  Silverstein,  Murray  N.,  Khalil  G.  Wakim,  Robert  C.  Bahn,  and 
-Richard H. Decker. "Role of tryptophan metabolites in hypoglycemia associated with 
-neoplasia." Cancer 19, no. 1 (1966): 127-133.
-
-[Suez  2016]  Suez  J,  Shapiro  H,  Elinav  E.  Role  of  the  microbiome  in  the  normal 
-and  aberrant  glycemic  response.  Clin  Nutr  Exp.  2016;6:59-73.  doi:10.1016/j.
-yclnex.2016.01.001
-
-[Tuomainen 2018] Tuomainen M, Lindström J, Lehtonen M, Auriola S, Pihlajamäki J, 
-Peltonen M, Tuomilehto J, Uusitupa M, Mello V and Hanhineva K. “ Associations of 
-serum  indolepropionic  acid,  a  gut  microbiota  metabolite,  with  type  2  diabetes  and 
-low-grade inflammation in high-risk individuals” Nutrition & Diabetes 35 (2018)
-
- [Van Cauter 1997] Van Cauter, Eve, Kenneth S. Polonsky, and André J. Scheen. "Roles 
-of circadian rhythmicity and sleep in human glucose regulation." Endocrine reviews 
-18, no. 5 (1997): 716-738.
-
-[Vrieze  2012]  Vrieze,  A.,  Van  Nood,  E.,  Holleman,  F.,  Salojärvi,  J.,  Kootte,  R.  S., 
-Bartelsman,  J.  F.,  Dallinga-Thie,  G.  M.  ,  Ackermans,  M.  T.,  Serlie,  M.  J.,  Oozeer,  R., 
-Derrien, M., Druesne, A., Van Hylckama Vlieg, J. E., Bloks, V. W., Groen, A.K., Heilig, H. 
-G., Zoetendal, E. G., Stroes, E. S., de Vos, W. M., Hoekstra, J. B., Nieuwdorp, M. “Transfer 
-of intestinal microbiota from lean donors increases insulin sensitivity in individuals 
-with metabolic syndrome.” Gastroenterology. 2012 Oct;143(4):913-6.e7
-
-[Wakhloo 1984] Wakhloo, A. K., J. Beyer, C. Diederich, and G. Schulz. "Effect of dietary 
-fat on blood sugar levels and insulin consumption after intake of various carbohydrate 
-carriers  in  type  I  diabetics  on  the  artificial  pancreas."  Deutsche  medizinische 
-Wochenschrift (1946) 109, no. 42 (1984): 1589-1594.
-
-[Whitfield-Cargile  2016]  Whitfield-Cargile,  Canaan  M.,  Noah  D.  Cohen,  Robert  S. 
-Chapkin, Brad R. Weeks, Laurie A. Davidson, Jennifer S. Goldsby, Carrie L. Hunt et 
-al.  "The  microbiota-derived  metabolite  indole  decreases  mucosal  inflammation  and 
-injury in a murine model of NSAID enteropathy." Gut microbes 7, no. 3 (2016): 246-261.
-
-[KEGG]  KEGG:  Kyoto  Encyclopedia  of  Genes  and  Genomes.  http://www.kegg.jp/  or 
-http://www.genome.jp/kegg/
-
-[Wolever 1986] Wolever, T.M., and Jenkins, D.J. (1986). The use of the glycemic index 
-in predicting the blood glucose response to mixed meals. Am. J. Clin. Nutr. 43, 167–172.
-
-[Kim 2017] Min-Hyun Kim and Hyeyoung Kim. “The Roles of Glutamine in the Intestine 
-and Its Implication in Intestinal Diseases” Int J Mol Sci. (2017) 18(5): 1051.
-
-[Knight  2018]  Knight  R,  Vrbanac  A,  Taylor  BC,  Aksenov  A,  Callewaert  C,  Debelius 
-J, Gonzalez A, Kosciolek T, McCall L-I, McDonald D, Melnik AV, Morton JT, Navas J, 
-
-[Zeevi  2015]  David  Zeevi,  Tal  Korem,  Niv  Zmora,  David  Israeli,  Daphna  Rothschild, 
-Adina Weinberger, Orly Ben-Yacov, Dar Lador, Tali Avnit-Sagi, Maya Lotan-Pompan, 
-et al. Personalized Nutrition by Prediction of Glycemic Responses. Cell. 2015 Nov 19; 
-163(5): 1079–1094. doi: 10.1016/j.cell.2015.11.001
-
-Gut microbiome activity contributes to individual variation in glycemic response in adults

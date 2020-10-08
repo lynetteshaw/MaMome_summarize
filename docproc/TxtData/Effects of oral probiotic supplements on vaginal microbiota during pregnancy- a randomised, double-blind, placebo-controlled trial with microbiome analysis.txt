@@ -113,7 +113,7 @@ microbiota and the feasibility of conducting a full-scale
 trial of oral probiotic supplementation of women from
 early pregnancy to delivery in preventing PTB. The study
 received ethics approval from the UK National Research
-Ethics Committee (15/LO/1549) and was registered on
+Ethics Committee and was registered on
 ClinicalTrials.gov (NCT02692820). We followed CONSORT
 guidelines24
 report, and analysis was
@@ -319,16 +319,16 @@ Results
 We screened 1301 pregnant women between 3 May and 1
 July 2016 for their eligibility to participate in the study. A
 total of 997 women were excluded from the trial either
-because they did not meet the inclusion criteria (270/1301)
+because they did not meet the inclusion criteria 
 or they declined to participate. Those who declined to par-
 ticipate did so mostly because of an unwillingness to take
-the study intervention (138/727) and not being interested
-in research study participation (250/727). After exclusions,
+the study intervention and not being interested
+in research study participation  After exclusions,
 304 women were recruited and randomised to the probiotic
-(152 women) and placebo (152 women) groups. At 18–
+groups. At 18–
 20 weeks’ gestation, 123 women remained in the probiotic
 group and 115 in the placebo group. Complete data for
-primary analysis were therefore available for 238 (78%)
+primary analysis were therefore available for 238 
 randomised women (Figure 1).
 
 There were no differences in characteristics of partici-
@@ -339,19 +339,19 @@ the mean count was 2 9 109 for L. rhamnosus GR-1 and
 for L. reuteri RC-14. No other bacteria were
 
 detected. Self-reported compliance to the intervention at
-18–20 weeks’ was 93% (114/123) in the probiotic group
-and 98% (113/115) in the placebo group. No serious
+18–20 weeks’ was 93% in the probiotic group
+and 98% in the placebo group. No serious
 adverse events related to the study interventions were
 reported.
 
 At 18–20 weeks’ gestation, the rate of BV in the probi-
-otic group was 15% (19/123) compared with 9% (10/115)
+otic group was 15% 
 in the placebo group. There were no differences between
 the groups
 in the rates of vaginal colonisation with
-L. rhamnosus GR-1 (5%, 6/123 and 5%, 6/115), E. coli
-(23.6%, 29/123 and 25.2%, 29/115) or Group B strepto-
-cocci (4%, 5/123 and 8%, 9/115). Vaginal colonisation with
+L. rhamnosus GR-1  E. coli
+or Group B strepto-
+cocci  Vaginal colonisation with
 L. reuteri RC-14 was not detected in either
 group
 (Table 1). After adjusting for Nugent score at baseline,
@@ -362,18 +362,18 @@ Of
 
 the women who provided a swab sample at 18–
 20 weeks’ gestation, vaginal samples were available in 70%
-(167/238) of women at 34–36 weeks’ gestation (72% (83/
-115) in the placebo group and 68% (84/123) in the probi-
+of women at 34–36 weeks’ gestation (72% (83/
+115) in the placebo group and 68% in the probi-
 otic group. The mean Nugent scores at 9–14, 18–20, and
 34–36 weeks’ gestation in the probiotic group were 1.74
-(95% CI 1.08–2.40), 1.54 (95% CI 0.87–2.20), and 1.74
-(95% CI 1.10–2.38), respectively. In the placebo group, the
+ and 1.74
+ respectively. In the placebo group, the
 mean Nugent scores at the same time points were 1.17
-(95% CI 0.67–1.67), 0.86 (95% CI 0.37–1.34), and 1.33
-(95% CI 0.82–1.83), respectively (Figure 2). The rates of
-BV in the groups over the same period were 17% (14/84),
-13% (11/84), and 13% (11/84) in the probiotic group and
-6% (5/83), at all three time points in the placebo group.
+ and 1.33
+ The rates of
+BV in the groups over the same period were 17% 
+13% in the probiotic group and
+6%  at all three time points in the placebo group.
 
 Although the secondary outcomes did not differ between
 the two groups, this trial was not powered to assess these
@@ -538,7 +538,7 @@ The study has some limitations. The trial was underpow-
 ered as a result of the lower than anticipated event rate, so
 we can’t be certain of the magnitude of effect observed.
 Secondly, we recruited and randomised fewer women than
-planned, with only 23% (304/1031) of eligible women
+planned, with only 23% of eligible women
 agreeing to participate in the trial. The 2-month recruit-
 ment phase of the trial was devised to estimate the feasibil-
 ity of recruiting to a full-scale trial of oral probiotic
@@ -590,17 +590,17 @@ group (n = 152)
 Mean (SD)
 or n (%)
 
-31.3 (5.2)
-25.1 (4.2)
+31.3 
+25.1 
 
-74 (48.7)
-18 (11.8)
-51 (33.6)
-9 (5.9)
-6 (3.9)
+74 
+18 
+51 
+9 
+6 
 
-9 (5.9)
-3 (2.0)
+9 
+3 
 
 Maternal characteristics
 Age (years)
@@ -624,13 +624,13 @@ Others
 Escherichia coli
 Group B Streptococcus
 
-2 (1.3)
-6 (3.9)
-95 (62.5)
-39 (25.7)
-23 (15.1)
+2 
+6 
+95 
+39 
+23 
 
-10 (8.7)
+10 
 
 Microbiological assessment at 18–20 weeks
 Bacterial vaginosis
@@ -643,40 +643,40 @@ Escherichia coli
 Group B Streptococcus
 
 0
-6 (5.2)
-67 (58.3)
-29 (25.2)
-9 (7.8)
+6 
+67 
+29 
+9 
 
-31.1 (5.4)
-25.4 (5.0)
+31.1 
+25.4 
 
-64 (42.1)
-27 (17.8)
-50 (32.9)
-11 (7.2)
-6 (3.9)
+64 
+27 
+50 
+11 
+6 
 
-7 (4.6)
-6 (3.9)
+7 
+6 
 
-1 (0.7)
-5 (3.3)
-93 (61.2)
-39 (25.7)
-17 (11.2)
+1 
+5 
+93 
+39 
+17 
 
-19 (15.4)
+19 
 
 0
-6 (4.9)
-74 (60.2)
-29 (23.6)
-5 (4.1)
+6 
+74 
+29 
+5 
 
-18 (11.8)
+18 
 
-27 (17.8)
+27 
 
 Placebo group
 (n = 115)
@@ -830,323 +830,3 @@ time and effort to make this study a success. We thank
 Epigenesys who designed and maintained our database and
 the NIHR CRN for their support during the set-up and
 conduct of the study. &
-
-References
-
-1 DiGiulio DB, Callahan BJ, McMurdie PJ, Costello EK, Lyell DJ,
-Robaczewska A, et al. Temporal and spatial variation of the human
-microbiota
-Sci U S A
-during
-2015;112:11060–5.
-
-Proc Natl Acad
-
-pregnancy.
-
-8
-
-ª 2019 The Authors. BJOG: An International Journal of Obstetrics and Gynaecology published by John Wiley & Sons Ltd on behalf of
-Royal College of Obstetricians and Gynaecologists
-
-2 Donders GG, Van Calsteren K, Bellen G, Reybrouck R, Van den
-Bosch T, Riphagen I, et al. Predictive value for preterm birth of
-abnormal vaginal ﬂora, bacterial vaginosis and aerobic vaginitis
-during the ﬁrst trimester of pregnancy. BJOG 2009;116:1315–24.
-3 Leitich H, Kiss H. Asymptomatic bacterial vaginosis and intermediate
-ﬂora as risk factors for adverse pregnancy outcome. Best Pract Res
-Clin Obstet Gynaecol 2007;21:375–90.
-
-4 Wilks M, Wiggins R, Whiley A, Hennessy E, Warwick S, Porter H,
-et al. Identiﬁcation and H2O2 production of vaginal lactobacilli from
-pregnant women at high risk of preterm birth and relation with
-outcome. J Clin Microbiol 2004;42:713–7.
-
-5 Brocklehurst P, Gordon A, Heatley E, Milan SJ. Antibiotics for
-treating bacterial vaginosis in pregnancy. Cochrane Database Syst
-Rev 2013;(1):CD000262.
-
-6 BASHH (2012) UK national guideline for
-
-the management of
-bacterial vaginosis 2012. British Association for Sexual Health and
-HIV. www.bashh.org.
-
-7 Bookstaver PB, Bland CM, Grifﬁn B, Stover KR, Eiland LS,
-in pregnancy.
-
-antibiotic use
-
-McLaughlin M. A review of
-Pharmacotherapy 2015;35:1052–62.
-
-8 Stokholm J, Schjorring S, Eskildsen CE, Pedersen L, Bischoff AL,
-Folsgaard N, et al. Antibiotic use during pregnancy alters the
-commensal vaginal microbiota. Clin Microbiol Infect 2014;20:629–35.
-9 Kuperman AA, Koren O. Antibiotic use during pregnancy: how bad
-
-is it? BMC Med 2016;14:91.
-
-10 FAO/WHO Expert Consultation Group. Health and Nutritional
-Properties of Probiotics in Food Including Powder Milk with Live
-Lactic Acid Bacteria. Geneva: WHO; 2007.
-
-11 Yeganegi M, Watson CS, Martins A, Kim SO, Reid G, Challis JR,
-et al. Effect of Lactobacillus rhamnosus GR-1 supernatant and fetal
-sex on lipopolysaccharide-induced cytokine and prostaglandin-
-cells:
-regulating
-implications for treatment of bacterial vaginosis and prevention of
-preterm labor. Am J Obstet Gynecol 2009;200:532.e1–8.
-
-trophoblast
-
-placental
-
-enzymes
-
-human
-
-in
-
-12 Piewngam P, Zheng Y, Nguyen TH, Dickey SW, Joo HS, Villaruz AE,
-et al. Pathogen elimination by probiotic Bacillus via signalling
-interference. Nature 2018;562:532–7.
-
-13 Hawes SE, Hillier SL, Benedetti J, Stevens CE, Koutsky LA, Wolner-
-Hanssen P, et al. Hydrogen peroxide-producing lactobacilli and
-acquisition of vaginal infections. J Infect Dis 1996;174:1058–63.
-14 Krauss-Silva L, Moreira ME, Alves MB, Braga A, Camacho KG,
-Batista MR, et al. A randomised controlled trial of probiotics for the
-prevention of spontaneous preterm delivery associated with bacterial
-vaginosis: preliminary results. Trials 2011;12:239.
-
-15 Luoto R, Laitinen K, Nermes M,
-
-Impact of maternal
-probiotic-supplemented dietary counselling on pregnancy outcome
-and prenatal and postnatal growth: a double-blind, placebo-
-controlled study. Br J Nutr 2010;103:1792–9.
-
-Isolauri E.
-
-16 Tachedjian G, O’Hanlon DE, Ravel J. The implausible ‘in vivo’ role of
-hydrogen peroxide as an antimicrobial factor produced by vaginal
-microbiota. Microbiome 2018;6:29.
-
-17 Othman M, Neilson JP, Alﬁrevic Z. Probiotics for preventing preterm
-
-labour. Cochrane Database Syst Rev 2007;(1):CD005941.
-
-18 Petricevic L, Unger FM, Viernstein H, Kiss H. Randomized, double-
-lactobacilli to improve the
-J Obstet Gynecol
-
-blind, placebo-controlled study of oral
-vaginal ﬂora of postmenopausal women. Eur
-Reprod Biol 2008;141:54–7.
-
-19 Reid G, Bruce AW, Fraser N, Heinemann C, Owen J, Henning B.
-infections. FEMS Immunol
-
-Oral probiotics can resolve urogenital
-Med Microbiol 2001;30:49–52.
-
-20 Reid G, Charbonneau D, Erb J, Kochanowski B, Beuerman D,
-Poehner R, et al. Oral use of Lactobacillus rhamnosus GR-1 and L.
-
-Probiotics and vaginal microbiota in pregnancy
-
-fermentum RC-14 signiﬁcantly alters vaginal ﬂora:
-placebo-controlled trial
-Microbiol 2003;35:131–4.
-
-randomized,
-in 64 healthy women. FEMS Immunol Med
-
-21 Vujic G, Jajac Knez A, Despot Stefanovic V, Kuzmic VV. Efﬁcacy of
-orally applied probiotic capsules for bacterial vaginosis and other
-vaginal
-infections: a double-blind, randomized, placebo-controlled
-study. Eur J Obstet Gynecol Reprod Biol 2013;168:75–9.
-
-22 Gy-Na-Tren - Homeopathic Treatment for Feminine Health. [https://
-5
-
-www.natren.com/gy-na-tren-feminine-health.html].
-December 2017.
-
-Accessed
-
-23 OptiBac ‘For women’.
-
-[https://www.optibacprobiotics.co.uk/shop/f
-
-or-women?gclid=EAIaIQobChMI5ZK15Iv_1gIVEY0bCh1ewgF0EAQY
-BCABEgLtDvD_BwE]. Accessed 5 December 2017.
-
-24 Schulz KF, Altman DG, Moher D, Group C. CONSORT 2010
-group
-
-guidelines
-
-reporting
-
-parallel
-
-statement: updated
-for
-randomised trials. BMJ 2010;340:c332.
-
-25 Kaunitz AM, Portman D, Westhoff CL, Archer DF, Mishell DR Jr,
-Foegh M. Self-reported and veriﬁed compliance in a phase 3 clinical
-trial of a novel low-dose contraceptive patch and pill. Contraception
-2015;91:204–10.
-
-26 Kane SP. Sample Size Calculator. ClinCalc. [http://clincalc.com/Stats/
-
-SampleSize.aspx]. Accessed 1 July 2017.
-
-27 Nugent RP, Krohn MA, Hillier SL. Reliability of diagnosing bacterial
-vaginosis is improved by a standardized method of gram stain
-interpretation. J Clin Microbiol 1991;29:297–301.
-
-28 Husain SM, Wilks M, Mupita M, Reddy SP, Hennessy EM,
-Macfarlane AJ, et al. Diversity and stability of cultured vaginal
-lactobacilli
-in pregnant women from a multi-ethnic urban UK
-population. J Appl Microbiol 2014;117:258–65.
-
-29 Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJ, Holmes
-from Illumina
-
-SP. DADA2: high-resolution sample
-amplicon data. Nat Methods 2016;13:581–3.
-
-inference
-
-30 Kahan BC, Jairath V, Dore CJ, Morris TP. The risks and rewards of
-covariate adjustment in randomized trials: an assessment of 12
-outcomes from 8 studies. Trials 2014;15:139.
-
-31 StataCorp. 2014. Stata Statistical Software: Release 14. College
-
-Station, TX: StataCorp LP.
-
-32 Rayment J, Lanlehin R, McCourt C, Husain SM. Involving seldom-
-heard groups in a PPI process to inform the design of a proposed
-trial on the use of probiotics to prevent preterm birth: a case study.
-Res Involv Engagem 2017;3:11.
-
-33 van‘t Hooft J, Duffy JM, Daly M, Williamson PR, Meher S, Thom E,
-et al. A core outcome set for evaluation of interventions to prevent
-preterm birth. Obstet Gynecol 2016;127:49–58.
-
-34 Moss N, Daru J, Lanz D, Thangaratinam S, Khan KS.
-
-Involving
-pregnant women, mothers and members of the public to improve
-the quality of women’s health research. BJOG 2017;124:362–5.
-35 Ofﬁce for National Statistics [GB]. Birth characteristics in England and
-Wales. 2015. Annual live births by sex, ethnicity and month, maternities
-by place of birth and with multiple births, and stillbirths by age of
-parents
-[https://www.ons.gov.uk/people
-populationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/
-birthcharacteristicsinenglandandwales/2015]. Accessed 31 January
-2019.
-36 Lawley
-
-colonization
-
-resistance.
-
-Intestinal
-
-calendar
-
-quarter.
-
-and
-
-TD, Walker AW.
-Immunology 2013;138:1–11.
-
-37 Mullineaux-Sanders C, Suez J, Elinav E, Frankel G. Sieving through
-gut models of colonization resistance. Nat Microbiol 2018;3:132–
-40.
-
-38 Nishijima K, Shukunami K-i, Kotsuji F. Probiotics affects vaginal ﬂora
-suggesting the possibility of preventing
-
-in pregnant women,
-preterm labor. J Clin Gastroenterol 2005;39:447–8.
-
-ª 2019 The Authors. BJOG: An International Journal of Obstetrics and Gynaecology published by John Wiley & Sons Ltd on behalf of
-Royal College of Obstetricians and Gynaecologists
-
-9
-
-Husain et al.
-
-39 Petersen I, Gilbert R, Evans S, Ridolﬁ A, Nazareth I. Oral antibiotic
-prescribing during pregnancy in primary care: UK population-based
-study. J Antimicrob Chemother 2010;65:2238–46.
-
-40 Fiscella K. The risk of low birth weight associated with vaginal
-
-douching. Obstet Gynecol 1998;92:913–7.
-
-41 Salisbury C, O’Cathain A, Thomas C, Edwards L, Gaunt D, Dixon
-P, et al. Telehealth for patients at high risk of cardiovascular
-disease: pragmatic randomised controlled trial. BMJ 2016;353:
-i2647.
-
-42 Palmer S, Pudwell J, Smith GN, Reid RL. Optimizing participation of
-pregnant women in clinical trials: factors inﬂuencing decisions about
-participation in medication and vaccine trials. J Obstet Gynaecol Can
-2016;38:945–54.
-
-45 Blencowe H, Cousens S, Oestergaard MZ, Chou D, Moller A-B,
-Narwal R, et al. National, regional, and worldwide estimates of
-preterm birth rates in the year 2010 with time trends since 1990 for
-selected countries: a systematic analysis and implications. Lancet
-2012;379:2162–72.
-
-46 Chang HH, Larson J, Blencowe H, Spong CY, Howson CP, Cairns-
-Smith S, et al. Preventing preterm births: analysis of trends and
-potential reductions with interventions in 39 countries with very
-high human development index. Lancet 2013;381:223–34.
-
-47 Yang P, Chen YH, Yen CF, Chen HL. Psychiatric diagnoses,
-emotional-behavioral
-in
-adolescents born preterm with very low birth weights. Child
-Psychiatry Hum Dev 2015;46:358–66.
-
-symptoms
-
-functional
-
-outcomes
-
-and
-
-43 Tachedjian G, Aldunate M, Bradshaw CS, Cone RA. The role of
-lactic acid production by probiotic Lactobacillus species in vaginal
-health. Res Microbiol 2017;168:782–92.
-
-48 Myhre R, Brantsaeter AL, Myking S, Gjessing HK, Sengpiel V,
-Meltzer HM, et al. Intake of probiotic food and risk of spontaneous
-preterm delivery. Am J Clin Nutr 2011;93:151–7.
-
-44 Gille C, Boer B, Marschal M, Urschitz MS, Heinecke V, Hund V, et al.
-Effect of probiotics on vaginal health in pregnancy. EFFPRO, a
-randomized controlled trial. Am J Obstet Gynecol 2016;215:608 e1–e7.
-
-10
-
-ª 2019 The Authors. BJOG: An International Journal of Obstetrics and Gynaecology published by John Wiley & Sons Ltd on behalf of
-Royal College of Obstetricians and Gynaecologists
-
-
