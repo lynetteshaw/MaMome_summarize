@@ -1,62 +1,13 @@
-8_PARAGRAPHS
+3_PARAGRAPHS
 
-T.  Clavel  et  al.  /  International  Journal  of  Medical  Microbiology  306  (2016)  316–327  317 given  ecosystem.  Yet,  since  all  these  analyses  depend  on  the  qual-
-ity  of  databases  that  integrate  information  gained  from  genomic,
-chemical,  and  functional  studies,  they  will  beneﬁt  from  future
-experiments  carried  out  with  cultured  representatives.  In  many
-instances,  comparative  analysis  of  patient  and  healthy  control
-cohorts  revealed  that  shifts  in  the  microbiome  are  associated  with
-human  diseases  (Berry  and  Reinisch,  2013).  However,  to  causally
-link  microbiome  signatures  identiﬁed  in  clinical  surveys,  robust
-experimental  in  vitro  and  in  vivo  models  are  required  to  enable
-systematic  experimental  manipulation  of  the  microbiota.
-
-The  laboratory  mouse  is  currently  the  primary  experimen-
-tal  model  organism  in  preclinical  research.  A  large  variety  of
-genetically-engineered  strains  and  mouse  models  for  human  dis-
-eases  exist  (Eppig  et  al.,  2015),  and  mouse  strains  can  be  relatively
-easily  re-derived  germ-free  (Macpherson  and  McCoy,  2015),  which
-has  set  the  stage  for  the  establishment  of  gnotobiotic  models  (i.e.
-mice  colonized  with  deﬁned  bacterial  strains  or  mixtures).  Gno-
-tobiology  (Greek:  gnosis:   knowledge;  bios:  life;  logos:  study)  has  a
-long-standing  tradition  in  this  ﬁeld  of  research  because  it  is  instru-
-mental  to  test  causal  relationships  between  microbes  and  their
-host  (Nuttal  and  Thierfelder,  1895;  Orcutt  et  al.,  1987;  Trexler
-and  Reynolds,  1957).  Of  course,  a  signiﬁcant  number  of  differ-
-ences  exist  between  human  and  mice  that  must  be  taken  into
-account  when  interpreting  data,  in  particular  differences  in  gut
-physiology  and  the  immune  system  (Mestas  and  Hughes,  2004),  but
-also  dietary  habits,  behavior  and  living  environment.  In  addition,
-maintenance  of  germ-free  mice  is  demanding  and  requires  special-
-ized  equipment  and  experienced  staff.  Despite  these  challenges,
-gnotobiotic  mice  are  widely  used  and  can  in  combination  with
-“omics”  technologies  and  genetic  engineering  provide  important
-mechanistic  insights  into  the  molecular  mechanisms  underlying
-microbe–microbe  and  microbe–host  interactions.
-
-Recently,  the  cultivation  of  bacteria  experienced  a  great
-upswing.  So  far,  effort  has  been  focused  on  the  establishment
-of  culture  collections  of  human-  and  plant-associated  microbial
-ecosystems  (Bai  et  al.,  2015;  Fodor  et  al.,  2012;  Hugon  et  al.,  2015;
-Rettedal  et  al.,  2014).  These  collections  are  essential  to  carry  out
-microbial  reconstitution  experiments  in  germ-free  model  orga-
-nisms.  However,  to  investigate  microbiota  evolution  and  functions
-including  host-speciﬁcity,  the  scientiﬁc  community  needs  public
-bacterial  collections  derived  from  mice,  which  presently  do  not
-exist.  In  this  review,  we  revisit  current  knowledge  of  the  mouse
-gut  microbiota,  the  relevance  of  mouse  models  for  microbe–host
-interactions  studies,  and  give  an  outlook  on  future  challenges  and
-opportunities  in  the  ﬁeld.
-
-2.  Humanized  mice  from  a  microbial  perspective:  Hybrid
-models  of  clinical  relevance A   number  of  pioneering  studies  have  employed  human-derived
+  number  of  pioneering  studies  have  employed  human-derived
 Escherichia  coli  and  Bacteroides  spp.  as  model  organisms  to  elucidate
 key  principles  of  microbe–host  interactions  in  gnotobiotic  mice.
 These  bacteria  can  be  genetically  manipulated  and  allow  functional
 genetic  analysis.  E.  coli,  the  workhorse  of  traditional  and  modern
 microbiology  and  genetics,  is  the  most  abundant  facultative  anaer-
 obic  commensal  of  the  human  gut  (Bachmann,  1996).  Over  the  last
-decade,  the  groups  of  Conway  and  Cohen  (2015)  studied  E.  coli  car-
+decade,  the  groups  of  Conway  and  Cohen   studied  E.  coli  car-
 bohydrate  utilization  and  competition  in  the  intestine  in  detail.  A
 seminal  study  by  Hapfelmeier  and  colleagues  used  an  auxotrophic
 E.  coli  mutant  strain  to  generate  a  gnotobiotic  mouse  model  for
@@ -65,9 +16,7 @@ growth  of  this  mutant  strain  depends  on  exogenous  supplemen-
 d-alanine  and  meso-diaminopimelic  acid,
 tation  of  the  amino  acids 
 which  are  not  provided  by  the  germ-free  murine  host.  Thus,  the
-mutant  only  transiently  colonizes  the  gut  after  which  the  mice re-establish  a  completely  germ-free  state.  This  model  allows  a
-number  of  fundamental  principles  underlying  bacterial  induction
-of  mucosal  immune  responses  to  be  addressed.
+mutant  only  transiently  colonizes  the  gut  after  which  the  mice.
 
 Using  Bacteroides  spp.,  several  fundamental  principles  under-
 lying  host–microbe  interactions  have  been  elucidated.  Bacteroides
@@ -90,7 +39,7 @@ B.  fragilis  produces  a  polysaccharide  with  immune  modulatory
 activities  (Mazmanian  et  al.,  2005)  that  prevents  gut  inﬂammation
 (Mazmanian,  2008)  and  promotes  tolerogenic  immune  responses
 by  signaling  on  Foxp3(+)  regulatory  T  cells  through  TLR2  (Round
-et  al.,  2011).
+et  al.,  2011)..
 
 In  addition  to  mono-colonization  experiments,  interaction  of  B.
 theta  with  other  strains  has  been  studied  in  detail  by  transcriptome
@@ -115,26 +64,3 @@ pliﬁed  bacterial  communities,  the  context  of  a  fully  diverse  and
 competitive  bacterial  ecosystem  is  lacking.  Several  studies  have
 therefore  started  using  deﬁned  bacterial  consortia  of  higher  com-
 plexity  (Table  1).
-
-Germ-free  mice  can  also  be  used  to  investigate  functions  of
-complex  human-derived  microbiota.  Human  fecal  microbiota  or
-culture  collections  can  be  stably  transplanted  into  germ-free  mice
-(Goodman  et  al.,  2011;  Kibe  et  al.,  2005;  Turnbaugh  et  al.,  2009;
-Wos-Oxley  et  al.,  2012).  The  microbiota  in  these  models  is  complex
-and  thus  not  fully  characterized,  and  therefore  these  models  are
-not  gnotobiotic.  Nevertheless,  they  allow  mining  the  human  micro-
-biome  for  speciﬁc  functions  and  address  microbiota-speciﬁc  effects
-on  the  immune  system  and  metabolome  and  study  inter-individual
-differences  (Ahern  et  al.,  2014;  Marcobal  et  al.,  2013).  Moreover,
-mice  with  a  humanized  microbiota  make  it  possible  to  test  whether
-a
-  complex  human  disease  phenotype  can  be  transmitted  by  micro-
-biota  transplantation  (Ridaura  et  al.,  2013;  Subramanian  et  al.,
-2014).  Hence,  mice  colonized  with  human  gut  microbiota  are  very
-helpful  to  test  the  clinical  relevance  of  dysbiotic  communities
-associated  with  diseases.  However,  it  remains  unclear  how  well  dif-
-ferent  human  gut  bacterial  taxa  establish  in  the  mouse  intestinal
-milieu.
-
-318  T.  Clavel  et  al.  /  International  Journal  of  Medical  Microbiology  306  (2016)  316–327 Table  1
-Examples  of  human-  and  mouse-derived  bacterial  species  and  consortia  use  in  gnotobiotic  mice

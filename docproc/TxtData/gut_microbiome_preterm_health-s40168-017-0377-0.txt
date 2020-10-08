@@ -122,11 +122,11 @@ Delivery method (C-section/vaginal, N)
 
 7
 
+11
+
 54
 
 22
-
-11
 
 82 / 63
 
@@ -149,9 +149,9 @@ covered by this analysis. Therefore, subjects who had the respective
 medication, but not within 1 week prior to sample collection, are not counted
 in this summary table
 
-13
-
 24
+
+13
 
 Grier et al. Microbiome  (2017) 5:158 
 

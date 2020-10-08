@@ -1,31 +1,18 @@
-9_PARAGRAPHS
+3_PARAGRAPHS
 
-Capnocytophaga,
-Staphylococcus, Estrogen receptor-beta has been detected in the oral mucosa
+Estrogen receptor-beta has been detected in the oral mucosa
 and salivary glands (Valimaa et al., 2004), and some evidence
 shows age-related hormonal changes in the exfoliated normal
 buccal mucosa of women (Donald et al., 2013). Moreover, the
 vaginal and buccal epithelia share some microscopic similarities.
-As observed by Thompson et al. (2001), the patterns of surface
+As observed by Thompson et al.  the patterns of surface
 keratinization and the distribution and appearance of
 the
 lipid lamellae in the intercellular spaces were similar between
 vaginal and buccal epithelial samples of postmenopausal women.
 Therefore, given that many menopausal women also suﬀer from
 oral discomforts in addition to climacteric symptoms (Meurman
-et al., 2009), an understanding of the impact of female sex hormones on the characteristics of the oral microbiota may be
-clinically relevant, especially during menopause. Some of the
-main complaints from women in menopause include dry mouth
-and tooth loss, and the existing data have focused on the salivary
-microbial composition and the microbiota characteristics of the
-gingival sulcus. Therefore, this review will explore the main
-ﬁndings of the relationship between the oral microbiota and
-menopause in saliva and periodontal support.
-
-Fluctuating female sexual hormone levels in menopausal
-women may represent key factors that respond to changes
-detected in the oral cavity (Dutt et al., 2013). Menopause
-is accompanied by decreased bone density, which may have Frontiers in Microbiology | www.frontiersin.org 2 September 2017 | Volume 8 | Article 1884 fmicb-08-01884 September 27, 2017 Time: 16:37 # 3 Vieira et al.
+et al., 2009), an understanding of the impact of female sex.
 
 Periodontitis is a chronic inﬂammatory process that occurs
 in response to an increase in Gram-negative bacteria in the
@@ -43,69 +30,7 @@ replacement than in premenopausal women (Haas et al., 2009).
 Therefore, from a clinical point of view, the roles of sex hormones
 and hormone therapy in the prevalence of subgingival bacterial
 infection in peri- and postmenopausal women are of great
-interest.
-
-In a cohort study that included 106 women aged 50–58 years,
-hormone replacement therapy led to a decreased number of
-positive samples showing the periodontal pathogens P. gingivalis,
-Prevotella intermedia, and T.
-forsythia from the subgingival
-plaque (Tarkkila et al., 2010). Consistent with this result, a
-previous study found improved periodontal probing depths and
-tooth mobility in 190 randomized women who received hormone
-therapy for 1 year (López-Marcos et al., 2005). Conversely,
-Pilgram et al. (2002) investigated 135 women in a randomized,
-controlled trial who received estrogen replacement for 3 years
-and did not ﬁnd any changes in clinical parameters such as the
-attachment of teeth or the bone mineral density of the lumbar
-spine. In mice, estrogen seems to modulate IL-1 production
-and participate in the resistance of females to disseminating
-dentoalveolar infections, leading to the enhanced localization
-of these infections (Youssef and Stashenko, 2017), which draws
-attention to the potential role of sex-related hormones in the
-modulation of oral mucosal infections.
-
-THE INTERACTION BETWEEN GUT
-MICROBIOTA AND FEMALE SEX
-HORMONES As mentioned earlier, female sex hormones levels inﬂuence
-the composition of the microbiota in many sites of the body,
-especially the gut. Due to intimate contact with the larger gut
-immune system, the gut microbiota has been shown to inﬂuence
-many diseases outside of this organ (Figure 1). Accordingly,
-imbalance of the gut microbiota, called dysbiosis, has been
-extensively related to metabolic and immunological diseases.
-Interestingly, the presence or absence of estrogen may be able
-to alter the gut microbiota equilibrium and corresponding
-disease pathways. Some autoimmune diseases aﬀect more often
-women than men, including systemic lupus erythematosus (Jiang
-et al., 2005), Sjogren’s syndrome (Patel and Shahane, 2014)
-and rheumatoid arthritis (Oliver and Silman, 2009). Gender
-diﬀerences have also been reported for the outcome of microbial
-infections (Fischer et al., 2015). Interestingly, the onset of
-autoimmune diseases, asthma (Akinbami et al., 2016) and other
-diseases occurs after menarche or during the reproductive
-period of women. Experimental ﬁndings in mice have shown
-that
-female sexual
-hormones, and immunity are associated with the development
-of autoimmune diseases (Yurkovetskiy et al., 2013, 2015),
-including type 1 diabetes (Markle et al., 2013) and rheumatoid
-arthritis (Wu et al., 2010). The non-obese diabetic (NOD)
-mouse exhibits spontaneous, immune-mediated pancreatic beta
-cell destruction causing type 1 diabetes (T1D) with a complex
-genetic and environmental etiology. The NOD T1D incidence
-shows a strong 2:1 female to male sex bias (Markle et al., 2013).
-Interestingly, germ-free NOD female mice lack this gender bias
-for diabetes. Additionally, after castration, males exhibit a similar
-microbiota composition and T1D incidence to females (Markle
-et al., 2013). In general, this study shows that the microbiome
-is a causal factor and not simply a consequence of autoimmune
-disease.
-
-Obesity aﬀects 65% of postmenopausal women and is
-associated with the onset of metabolic dysfunction (Leeners
-et al., 2017). Multiple studies have suggested that postmenopausal
-women exhibit increased total fat mass and abdominal fat and Frontiers in Microbiology | www.frontiersin.org 3 September 2017 | Volume 8 | Article 1884 fmicb-08-01884 September 27, 2017 Time: 16:37 # 4 Vieira et al.
+interest..
 
 Another link between the gut microbiome and menopausal
 health is related to bone. Interesting, the gut microbiota has
@@ -137,41 +62,3 @@ Importantly, to conﬁrm the role of the gut microbiota in bone
 health, another experiment also showed that germ-free mice are
 protected against the bone loss induced by the absence of sex
 steroids (Li et al., 2016).
-
-We must mention that the gut microbiota may inﬂuence
-the risk for breast cancer through eﬀects on endogenous
-estrogens produced by adipose tissue in postmenopausal women
-(Figure 1) (Key et al., 2003). A cross-sectional study on 60
-healthy postmenopausal women found that women with a more
-diverse gut microbiome and an abundance of four Clostridia
-taxa exhibited an elevated urinary ratio of hydroxylated estrogen
-metabolites to parent estrogens (Fuhrman et al., 2014), which
-is related to the etiology of breast cancer (Flores et al.,
-2012; Kwa et al., 2016). However, another study compared 48
-postmenopausal breast cancer patients and 48 control patients
-and observed that postmenopausal women with breast cancer
-exhibited an altered composition and estrogen-independent
-low diversity of their microbiota (Goedert et al., 2015). These
-diﬀerent ﬁndings on gut microbiota diversity and breast cancer
-could be explained by the fact that disease outcome or disease
-the
-stage can also aﬀect
-consumption of the soy isoﬂavone daidzein, which is metabolized
-by some bacteria of the microbiota to generate equol and
-O-desmethylangolensin (ODMA), could represent a therapeutic
-strategy for breast cancer prevention. Some, but not all, studies
-have shown a lower risk of breast cancer associated with equol
-production (Hullar et al., 2014). However, only approximately
-30–50% of the population can metabolize daidzein (Frankenfeld
-et al., 2004; Uehara, 2013; Nakatsu et al., 2014) to equol, likely the microbiota. In this scenario, FIGURE 1 | Female sexual hormones levels inﬂuence the composition of the
-microbiota in many sites of the body, especially mouth and gut. The oral and
-gut microbiota have been shown to inﬂuence many diseases, such as
-osteoporosis, weight gain and lipid deposition, breast cancer and
-periodontitis.
-
-Few studies have investigated whether prebiotics and
-probiotics can improve insulin sensitivity in postmenopausal
-women or body fat in mice. The intake of ﬂaxseed mucilage, a
-prebiotic, is known to improve insulin sensitivity and alter the
-gut microbiota in obese postmenopausal women (Brahe et al.,
-2015). Thus far, the implications of the gut microbiota with low Frontiers in Microbiology | www.frontiersin.org 4 September 2017 | Volume 8 | Article 1884 fmicb-08-01884 September 27, 2017 Time: 16:37 # 5 Vieira et al

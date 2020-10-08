@@ -168,9 +168,9 @@ Change in E. coli OD600
 1000
 Change in L. crispatus 106 CFU/mL
 
-2000
-
 1500
+
+2000
 
 2500
 

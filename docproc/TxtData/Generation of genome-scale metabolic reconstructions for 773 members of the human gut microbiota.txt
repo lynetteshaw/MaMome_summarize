@@ -971,9 +971,9 @@ Number of strains that take up carbon source or secrete fermentation product
 
 200
 
-300
-
 500
+
+300
 
 Figure 3  Carbon source uptake and fermentation product secretion 
 capabilities in AGORA. Number of AGORA models in each phylum 

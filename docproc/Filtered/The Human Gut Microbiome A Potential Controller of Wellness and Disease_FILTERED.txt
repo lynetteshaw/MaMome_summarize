@@ -1,33 +1,6 @@
-5_PARAGRAPHS
+3_PARAGRAPHS
 
-fmicb-09-01835 August 11, 2018 Time: 17:24 # 2 Kho and Lal Gut Microbiome in Human Health INTRODUCTION The human microbiome comprises of collective genomes of
-microbiota inhabiting us, namely protozoa, archaea, eukaryotes,
-viruses and predominantly bacteria that live symbiotically on and
-within various sites of the human body. Examples of occupied
-habitats include our oral cavity, genital organs, respiratory tract,
-skin and gastrointestinal system (Lloyd-Price et al., 2016). The
-human microbiota is estimated to be ∼1013–1014 microbial
-cells, with around 1:1 microbial cells to human cells ratio
-(Sender et al., 2016). These numbers are derived from the
-total bacterial cells in colon (3.8 × 1013 bacteria), the organ
-that harbors the densest number of microbes (Sender et al.,
-2016). The diverse gastrointestinal microbiota is predominantly
-composed of bacteria from three major phyla, namely Firmicutes,
-Bacteroidetes, and Actinobacteria (Tap et al., 2009). This diverse
-and complex microbiome serves as a functional expansion of
-host genomes, and is estimated to harbor 50- to 100-fold
-more genes, compared to the host. These extra genes have
-added various types of enzymatic proteins which were non-
-encoded by the host, and play a critical role in facilitating
-host metabolism, thus contributing to the regulation of host
-physiology (Hooper and Gordon, 2001). Until recent decades, the
-properties of the human microbiome and the host–microbiota
-interactions have been largely unknown due to technology
-limitations especially in examining non-cultivable microbes
-of interest, and lack of population-scale data depicting the
-microbiota compositions and functions. However, advances in
-sequencing technologies and subsequent large-scale sequence-
-based microbiome projects such as the Human Microbiome forkhead box P3; FXR, Abbreviations: ACC-1, acetyl-CoA carboxylase; APC, adenomatous polyposis
+Abbreviations: ACC-1, acetyl-CoA carboxylase; APC, adenomatous polyposis
 coli; Arg1, arginase 1; ASD, autism spectrum disorder; ASF, altered Schaedler ﬂora;
 ATP, adenosine triphosphate; BFT, Bacteroides fragilis enterotoxin; BMI, body
 mass index; c-AMP, cyclic adenosine monophosphate; CD, Crohn’s disease; CD14,
@@ -60,23 +33,7 @@ Clostridium diﬃcile toxin B; Tg, transglutaminase; TH, helper T-cell; TLR, tol
 like receptor; TMAO, trimethylamine N-oxide; TNF, tumor necrosis factor; Treg,
 regulatory T cell; tTg, tissue transglutaminase; UC, ulcerative colitis; WGS, whole
 genome sequencing; WHO, World Health Organization; Wnt, Wingless Int; ZO-1,
-zonula occludens-1.
-
-THE GUT MICROBIOME AND ITS
-MULTIFARIOUS FUNCTIONS interactions The symbiotic relationship between the gut microbiota and
-the host is regulated and stabilized by a complex network
-of
-immune, and
-that encompass metabolic,
-neuroendocrine crosstalk between them. This crosstalk is
-potentially mediated by microbial-synthesized metabolites
-which exhibit pleiotropic eﬀects, including acting as signaling
-molecules in regulating host neuro-immune-inﬂammatory axes
-that could physiologically link gut with other organ systems.
-The predominant functions of gut microbiota and the associated
-key metabolites in governing host wellness are depicted in the
-following subsections, with some other microbial metabolites
-being described in Table 1.
+zonula occludens-1..
 
 Besides SCFA, gut microbiota-synthesized micronutrients
 such as vitamins exhibit beneﬁcial value for both microbial
@@ -101,47 +58,6 @@ several disorders such as gastrointestinal discomfort, insomnia,
 neuropsychological and hematological disorders (Andres et al.,
 2004; Gominak, 2016). However, the possible link between loss of
 vitamin-producing gut microbiota and disease onset has not yet
-been elucidated.
+been elucidated..
 
-such as Clostridium perfringens Gut microbiota also plays an important role in the co-
-metabolism of bile acids with the host. These cholesterol
-derivatives are synthesized in the liver, followed by conjugation
-with taurine or glycine prior to storage in the gall bladder
-and subsequent secretion into duodenum to aid digestion,
-cholesterol and lipid metabolisms. In humans, 95% of bile
-acids are reabsorbed at distal ileum (Staels and Fonseca, 2009).
-The 5% unabsorbed primary bile acids are then bioconverted
-or deconjugated to secondary bile acids
-(predominantly
-DCA and LCA) by bile salt hydrolases secreted by several
-and
-colonic microbiota
-Clostridium scindens, followed by partly colonic reabsorption
-and transportation back to liver for conjugation (Gopal-
-Srivastava and Hylemon, 1988; Ajouz et al., 2014) and the
-unabsorbed secondary bile acids are excreted by the host (Sorg
-and Sonenshein, 2008). Both primary and secondary bile acids
-are able to activate host nuclear FXR signaling, which in turn
-regulates the bile acids production, glucose metabolism, and
-potentially hepatic autophagy (Lee et al., 2014; Nie et al., 2015).
-Secondary bile acids serve as a potent activator of TGR5 (a
-member of the Rhodopsin-like subfamily of GPCRs) which is
-widely expressed on diﬀerent tissues including in gall bladder,
-liver, spleen,
-intestine, and the immune cells. Such GPCR
-activation will stimulate second messenger c-AMP production,
-and the subsequent c-AMP-dependent downstream signaling,
-inducing expressions of a multitude of genes, whereby its
-physiological importance remains to be fully elucidated, pointing
-toward impacts of secondary bile acid-TCR5 axis (Hylemon
-et al., 2009). Secondary bile acids also possess antimicrobial
-eﬀects which alter microbial cell membrane integrity, causing
-spillage of intracellular contents, thus inhibiting growth of bile
-acid-intolerant microbes (Nie et al., 2015). Such antimicrobial Frontiers in Microbiology | www.frontiersin.org 3 August 2018 | Volume 9 | Article 1835 fmicb-09-01835 August 11, 2018 Time: 17:24 # 4 Kho and Lal Gut Microbiome in Human Health properties may contribute in shaping the composition of the gut
-microbiota and protecting the host from an array of infectious
-pathogens.
-
-Immunity and the Nervous System
-Gut barrier which is composed of mucus layer and epithelial
-junctional protein structures that
-layer (containing several TABLE 1 | Metabolites contributed by gut microbiota and their respective functions
+such as Clostridium perfringens

@@ -1,10 +1,10 @@
-13_PARAGRAPHS
+12_PARAGRAPHS
 
 The aim of the present study was to utilize Illumina
 sequencing of the 16S rRNA gene and inferred meta-
 genomics by open source software PICRUSt (Phyloge-
 netic Investigation of Communities by Reconstruction of
-Unobserved States [61]) to investigate differences in
+Unobserved States  to investigate differences in
 microbiome composition and function in the fecal and
 colonic mucosa of mice treated with 5% DSS for 5 days.
 We demonstrated that oral administration of DSS in
@@ -14,7 +14,7 @@ Speciﬁc taxa were associated with DSS treatment that
 may be important as intervention targets against the
 disease.
 In addition, DSS largely altered microbial
-activities and their functional pathways.
+activities and their functional pathways..
 
 DNA extraction and quality control
 Approximately 200 mg of each fecal sample was used
@@ -29,12 +29,7 @@ mechanical lysis of microbial cells. DNA was quantiﬁed
 using a NanoDrop 2000 spectrophotometer (Thermo
 Scientiﬁc, Wilmington, DE, USA). DNA samples were
 normalized to 20 ng/ml, and quality checked by PCR
-ampliﬁcation of the 16S rRNA gene using universal
-(50-GAAGAGTTTGATCATGGCTCAG-30)
-primers
-and 342R (50-CTGCTGCCTCCCGTAG-30) as described by
-Khaﬁpour et al. [47]. Amplicons were veriﬁed by agarose
-gel electrophoresis.
+ampliﬁcation of the 16S rRNA gene using universal.
 
 Alpha- and beta-diversity analyses
 Within community diversity (a-diversity) was calculated
@@ -47,15 +42,13 @@ per sample for fecal and colon mucosa samples,
 respectively, was used for the calculation of diversity
 indices. Beta-diversity was measured by calculating
 the weighted UniFrac distances using QIIME default
-scripts [58]. Principal coordinate analysis (PCoA) was
+scripts  Principal coordinate analysis (PCoA) was
 applied on resulting distance matrices to generate two-
 dimensional plots using the open source R software
 (v. 3.1.0) and the p values were calculated using
-PERMANOVA analyses of Bray–Curtis distances [59].
+PERMANOVA analyses of Bray–Curtis distances 
 Differences in alpha-diversity between DSS and control
-were determined using SAS (SAS 9.3, 2012). One colon sample in the control group was lost during DNA
-extraction and, therefore, only samples from three mice
-were included for all colon microbial analysis.
+were determined using SAS (SAS 9.3, 2012). One colon.
 
 Beta-diversity in fecal and colon samples
 As shown by the PCoA of weighted UniFrac distances,
@@ -66,49 +59,12 @@ were composed of distinct bacterial communities
 large portion of communities, the colonic MAM still had
 an overlap of some bacterial communities, suggesting
 that DSS and control mice colon mucosa samples had
-shared bacterial communities (p ¼ 0.2; Fig. 3b).
+shared bacterial communities (p ¼ 0.2; Fig. 3b)..
 
 Figure 3. Principle coordinate analysis (PCoA) of weighted UniFrac distances, a measure of b-diversity of bacterial community. (a) Fecal
 samples clustered separately according to treatment status of the mice, suggesting that DSS and control mice samples are composed of
 distinct bacterial communities; (b) colon mucosa samples have shared bacterial communities. The p values were determined using
-PERMANOVA. DSS, dextran sulphate sodium.
-
-(cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim www.jbm-journal.com J. Basic Microbiol. 2016, 56, 1–13 at the genus (g.) level, some were only classiﬁed at the
-phylum (p.), class (c.), order (o.), or family (f.). Of the
-11 phyla, six were abundant ((cid:5)1% of community),
-including Firmicutes, Bacteroidetes, Proteobacteria,
-Deferribacteres, Tenericutes, and Verrucomicrobia.
-The low-abundance phyla (<1% of community),
-in-
-cluded Actinobacteria, Cyanobacteria, Fibrobacteres,
-Spirochaetes, and TM7. Among the abundant phyla,
-DSS treatment reduced Bacteroidetes (P ¼ 0.01) while
-Proteobacteria were increased (p ¼ 0.004) compared
-to the control. Results of the relative abundances of
-various phyla are summarized in Fig. 4a.
-
-Of the 86 taxa, 56 had abundance greater than or equal
-to 0.01% of community, whereas 30 were below 0.01%.
-Bacterial taxa with relative abundance of (cid:5)0.01% of
-community were analysed using PLS-DA to identify
-bacteria that were most characteristic of the DSS or
-control treatments. As shown in Fig. 5a, Bacteroides
-ovatus, Clostridium perfrigens, Helicobacter hepaticus, and
-Parabacteroides distasonis; g. Desulfovibrio, Escherichia,
-Helicobacter, Clostridium,
-Parabacteroides,
-Bacilli, Allobaculum, Coprobacillus, Bacteroides, rc4-4; and
-unclassiﬁed members of f. Enterobacteriaceae, Clostri-
-diaceae, Bacteroidaceae; o. RF39, RF32, Bacteroidales,
-and Erysipelotrichales were positively correlated with
-the DSS group but negatively correlated with the
-control group. In addition, g. Dessulfovibrio, Oscillospira,
-Odoribacter, Coprococcus, Dehalobacterium, Adlercreutzia,
-Lactobacillus, Prevotella, Biﬁdobacterium; unclassiﬁed mem-
-f. Lachnospiraceae, Lactobacillaceae, S24-7;
-bers of Turicibacter, Dextran sulfate sodium and mice gut microbiota 7 and o. Lactobacillales were positively associated with
-the control group but negatively associated with the DSS
-group.
+PERMANOVA. DSS, dextran sulphate sodium..
 
 Microbiota composition at the phylum and lower
 taxonomic levels in colonic mucosa samples
@@ -127,7 +83,7 @@ cetes, Spirochaetes, TM7, and Tenericutes. No signiﬁcant
 difference was observed among the abundant phyla
 between DSS and control mice (p > 0.05). Results of the
 relative abundances of various phyla are summarized
-in Fig. 4b.
+in Fig. 4b..
 
 Of the 151 taxa, 68 had abundances greater than
 or equal to 0.01% of community, whereas 83 were
@@ -138,26 +94,17 @@ characteristic of DSS or control treatments. As shown
 in Fig. 5b, Lactobacillus reuteri, Bacteroides ovatus; g. rc4-4,
 Rikenellaceae, Biﬁdobacterium, YS2, Clostridium; f. Bacter-
 oidaceae, Clostridiaceae; o. RF32, RF39, Bacteroidales,
-Clostridales; and p. Proteobacteria were positively Figure 4. Percentage of relative abundances of bacterial phyla for: (a) fecal samples and (b) colon mucosa samples. The DSS signiﬁcantly
-decreased Bacteroidetes and increased Proteobacteria in fecal samples but no signiﬁcant difference was observed in the colonic mucosa
-samples. DSS, dextran sulphate sodium.
+Clostridales; and p. Proteobacteria were positively.
 
-Discussion The indigenous gut microbiota are thought to play a key
+Figure 4. Percentage of relative abundances of bacterial phyla for: (a) fecal samples and (b) colon mucosa samples. The DSS signiﬁcantly
+decreased Bacteroidetes and increased Proteobacteria in fecal samples but no signiﬁcant difference was observed in the colonic mucosa
+samples. DSS, dextran sulphate sodium..
+
+The indigenous gut microbiota are thought to play a key
 role in the pathogenesis of IBD. Part of the evidence for
 the involvement of intestinal bacteria in IBD comes from
 studies with murine models of the disease supporting
-the hypothesis that a deregulated immune response against components of the intestinal microbiota is
-critically involved in the pathophysiology of IBD [11].
-This is supported by the fact that antibiotic administra-
-tion reduces the severity of disease in these models
-and rederivation of the mice to the germfree state
-prevents initiation of disease [63, 64]. Conversely,
-some germfree mice have been shown to have a high
-mortality rate when given DSS in drinking water as
-compared to conventional mice [63], suggesting that
-different subsets of normal microbiota may play
-certain roles in terms of the initiation, development
-or attenuation of disease.
+the hypothesis that a deregulated immune response.
 
 colitis and may reveal bacterial shifts at lower taxonomic
 levels that could otherwise be missed. In this regard, it
@@ -169,38 +116,26 @@ f. Clostridiaceae, Bacteroidaceae; and o. Bacteroidales,
 RF39, and RF32 were positively associated with the DSS
 treatment in both fecal and colonic mucosa samples.
 Some of these taxa have been reported to increase
-as a result of DSS [33], and although they may have
+as a result of DSS  and although they may have
 different roles, their association with DSS in both colonic
 mucosa and in feces may indicate that they may play
 signiﬁcant roles in the potentiation of the abnormal
 inﬂammatory response seen in DSS-treated animals, and
 could therefore be important as intervention targets
 against the disease. Lending support to these results,
-Berry et al. [33] also found that the overall abundances of
+Berry et al. also found that the overall abundances of
 the dominant phyla Firmicutes and Bacteroidetes were
 not affected by DSS treatment in mice, but taxa within
 the two phyla showed clear changes in abundance with
-respect to DSS treatment.
+respect to DSS treatment..
 
 The mechanisms by which DSS induced stronger
-bacterial shifts in the feces than in the colon mucosa are not fully understood. A similar observation has
-also been reported in IBD subjects whereby, changes in
-microbiome composition were more associated with
-the sample origin (stool or biopsy), and minor changes
-were observed in biopsy samples as opposed to stool
-samples [31]. It is possible that because DSS-induced
-colitis interferes directly with the intestinal epithelium
-and its barrier function as well as causing crypt
-damage [6, 22, 46, 81], this may lead to sloughing of
-mucosal epithelium, thereby decreasing the number of
-bacteria adhering to the mucosa, and consequently
-increasing the abundances of bacteria in the fecal
-matter.
+bacterial shifts in the feces than in the colon mucosa.
 
 Studies applying metagenomics, metatranscriptomics
 or metaproteomics investigating functional capacities of
-gut microbiota in humans [30, 31], and in mouse model
-of colitis [33], reported alterations in metabolic pathways
+gut microbiota in humans  and in mouse model
+of colitis  reported alterations in metabolic pathways
 that might affect host-microbiota interactions. These
 ﬁndings are in agreement with our results whereby,
 several alterations in microbial metabolic pathways in
@@ -212,4 +147,4 @@ between the DSS and control mice, the results suggest
 that analysis at microbial functional level might reveal
 important colitis-related changes in gut microbiome
 that are otherwise not noticeable at higher phylogenetic
-or community levels
+or community levels.

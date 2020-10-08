@@ -1,123 +1,13 @@
-9_PARAGRAPHS
+2_PARAGRAPHS
 
-Diet shapes the microbiome Diet helps shape the composition of the intestinal microbiota. Differences in the distribution 
-of bacteria are associated with dietary patterns and this influences host exposure to microbial 
-metabolites. De Filippo et al. showed that the gut microbiome of children living in Burkina 
-Faso was significantly different than European children of the same age.5 The microbiome 
-of the children from Burkina Faso was more varied, produced more butyrate, and had more 
-Prevotella than Bacteroides. The children in Burkina Faso consumed a diet high in fiber and 
-non-animal protein whereas the European children consumed a diet higher in refined 
-carbohydrates and animal protein. Similar trends were seen in other studies that compared 
-residents in non-industrialized and industrialized societies.6, 7 Although these observational 
-studies lay the ground work for the connection between diet and the microbiome in human 
-populations, factors other than diet may influence the composition and function of the 
-microbiome in these different habitats.8 Dietary intervention studies provide a controlled setting in which to study how the 
-composition and function of the microbiome changes in response to diet. These studies show 
-that the gut microbiome often responds quickly to changes in diet.9-13 Of particular interest, 
-dietary interventions also alter the exposure of the host to microbial metabolites although 
-these changes are often transient.14-18 For example, in a randomized, controlled cross-over 
-designed dietary intervention, Costabile et al found that bacterial groups and plasma levels 
-of bacterial phenolic metabolites were altered depending upon the type of fiber ingested in 
-two, three week periods.18 However, the microbial metabolites only increased in one of the 
-treatments suggesting that diet is a complex human exposure that is further complicated by 
-microbial metabolism and the composition of the microbiome.
-
-Epigenetics refers to heritable changes in gene activity that are not caused by changes in the 
-DNA sequence.19 Regulation of gene expression can occur through post translation 
-modification of the amino acids in histone proteins, by methylation of DNA, and at the post-
-transcriptional level by miRNAs.20 Histone proteins are involved in tightly packing chromosomes into chromatin in the nucleus. 
-Modification of histone proteins loosens the chromatin, making it more available for 
-transcription. Post-translational modifications of the N-termini of histone 3 or histone 4, 
-occur by acetylation, methylation, ubiquitination, phosphorylation, or sumoylation. The 
-enzymes involved in these reactions include: histone acetyltransferases (HATs) which adds 
-acetyl groups; histone deacetylases (HDAC), which removes them; histone 
-methyltransferases (MHTs), which add methyl groups to lysine and/or arginine groups; and 
-histone demethyltransferases (DMHTs), which removes them. HATs catalyze the addition  Cancer J. Author manuscript; available in PMC 2015 May 01.
-
-While inhibition of HDACs is a common mechanism to inhibit cancer growth, the effect of 
-SCFA on the prevention of colorectal cancer has been inconsistent. This may be due to 
-differences in response among eukaryotic cell lines or effects of other SCFA. For example, 
-acetate, propionate, and caproate have been shown to be inactive as HDAC inhibitors in 
-HT-29 cells,49-51 although the effect on gene expression is not clear in Caco-2 cells.52 Microbial metabolism of glucosinolates to isothiocyanates Glucosinolates are converted into isothiocyanates (ITC) by either the plant myrosinases, or 
+Glucosinolates are converted into isothiocyanates (ITC) by either the plant myrosinases, or 
 bacterially produced thioglucosidases. Cooking cruciferous vegetables deactivates the plant 
 myrosinases, and given that most cruciferous vegetables consumed by humans are cooked, 
 gut bacteria play a critical role in converting glucosinolates to ITC. Previous studies have 
 shown that certain species of bacteria, such as Escherichia coli, Bacteroides 
-thetaiotaomicron, Enterococcus faecalis, Enterococcus faecium, Peptostreptococcus sp. and  Cancer J. Author manuscript; available in PMC 2015 May 01.
+thetaiotaomicron, Enterococcus faecalis, Enterococcus faecium, Peptostreptococcus sp. and .
 
-NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript Hullar and Fu Page 5 Bifidobacterium sp., isolated from the human gut or feces can convert glucosinolates into 
-ITCs and other derivatives.53-55 Controlled feeding studies in humans have shown 
-significant inter-individual differences in urinary ITC excretion after participants consumed 
-the same amount of cruciferous vegetables that had been either heated or microwaved prior 
-to consumption to remove the plant myrosinase activity.56-58 Similar effects have been 
-found in studies with rats.59, 60 This suggests inter-individual differences exist in the activity 
-or composition of the intestinal bacteria involved in ITC formation. In support of this 
-hypothesis, we showed recently that the fecal bacteria from individuals who excrete higher 
-amounts of ITC in their urine after a standard meal of cooked broccoli metabolize more 
-glucoraphanin in-vitro.61 Studies suggest that the exposure to ITCs in-vivo may well translate to prevention or 
-reduction in tumor growth through the effects on DNA methylation, histone modification, 
-and miRNA. Sulforaphane (SFN), an ITC, prevents carcinogen or genetically induced colon 
-cancer in rodent models. Recent studies have shown that sulforaphane is an HDAC inhibitor 
-and leads to an increase in global and local histone acetylation.62, 63 Similar to butyrate, 
-SFN causes p21 upregulation and cell cycle arrest. Further studies in wild-type and APC 
-Min/+ mice showed that a single dose of SFN reduced HDAC activity and increase histone 
-acetylation in colonic mucosa.63 Additionally, SFN has been identified as a DNA 
-demethylating agent in breast cancer cell lines although this has not been verified in colon 
-tissue.64 Polyphenols represent a wide variety of phytochemicals that are divided into several classes 
-according to their chemical structures. They include phenolic acids (hydroxybenzoic acids 
-and hydroxycinnamic acids), anthocyanins, flavonoids (flavanols, flavonols, flavones, 
-flavonones, and isoflavones), stilbenes, lignans, and curcuminoids. These compounds 
-undergo extensive microbial transformations in the colon and also undergo enterohepatic 
-circulation which alters influence host exposure to these compounds and their metabolites. 
-While the dietary polyphenolic compounds have been associated with inducing epigenetic 
-mechanisms, many of the microbial metabolites of polyphenols have yet to be tested even 
-though metabolomics studies identify these compounds in systemic circulation. We present 
-below evidence of the role metabolites of epigallocatechin-3-gallate in green tea and 
-ellagitannins in relation to epigenetic modifications exists.65 Dietary polyphenols EGCG Epigallocatechin-3-gallate (EGCG) is a polyphenol found in green tea that has been reported 
-to impact human health including anti-oxidative, blood cholesterol and sugar level lowering, 
-and cancer preventive activities. However, epidemiologic studies show inconsistent results 
-when evaluating green tea consumption in relation to colon cancer risk.66-70 This is in part 
-due to differences in tea consumption habits and failure to account for other factors, such as 
-alcohol consumption or tobacco smoke, which may modify the effect of green tea 
-consumption on health.71, 72 A recent study found that green tea consumed at least three  Cancer J. Author manuscript; available in PMC 2015 May 01.
-
-NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript Hullar and Fu Page 6 times per week for more than 6 months was associated with reduced risk of colorectal cancer 
-by 23% in non-smokers.67 Pharmacokinetic studies show that tea catechins do not appear to accumulate in systemic 
-circulation but do undergo rapid absorption and elimination in humans.73 During this period, 
-they undergo extensive biotransformation by both Phase II enzymes and gut microbial 
-metabolism. The metabolites/catabolites identified include glucuronides and sulfated 
-conjugates of EGCG indicative of Phase II metabolisms, as well as, methylated catechins, 
-ring fission products (like valerolactone), and phenolic products that are indicative of gut 
-microbial transformations. Chow et al showed, in pharmacokinetic studies, that while green 
-tea catechins (EGCG) were present in plasma after a single-dose, the concentration is lower 
-than the amounts of biological activity shown in in vitro studies.73 In contrast, the 
-biotransformed compounds were present in higher amounts than the parent compound, 
-suggesting that metabolites/catabolites should be considered in the biological effects of these 
-polyphenols.
-
-Green tea polyphenols, specifically EGCG, alter gene expression by influencing DNA 
-methylation patterns and/or histone modification. Several studies have shown that EGCG 
-inhibits both bacterial and eukaryotic DNMT and alters DNA methylation patterns.76, 77 
-This mechanism is mediated by altering the availability of methyl groups that are used to 
-methylate catechol groups on polyphenols by catecohol-O-methyltransferase (EC 2.1.16). 
-Additionally, the microbial metabolites of EGCG, gallic acid (GA) and epigallocatechin 
-(EGC) influence epigenetic gene expression by acting as HAT inhibitors78-82 although not 
-as strongly as EGCG.82 Ellagitannins are polyphenols that are found in fruits, such as pomegranate, raspberries, 
-strawberries, blackberries, and nuts, such as walnuts and almonds. Ingested ellagitannins are 
-hydrolyzed in the stomach and small intestine to ellagic acid. The gut microbiome 
-metabolizes ellagitannins to urolithins by removal of one of the lactone rings and subsequent 
-dehydroxylation in the colon. Enterohepatic circulation of urolithins and ellagic acids alters 
-host exposure to these compounds, and there is large between person variation in urolithin 
-production.83 Recent studies suggest that bacteria from the C. coccoides group and  Cancer J. Author manuscript; available in PMC 2015 May 01.
-
-Ellagitannins NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript Hullar and Fu Page 7 Dietary fats Polyunsaturated Fatty Acids Actinobacteria are involved in the production of urolithins.83, 84 Specifically, urolithin D 
-was produced followed by urolithin C and urolithin B, and was associated with an increase 
-in Bifidobacteria spp and Lactobacillus spp.
-
-NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript Hullar and Fu Page 8 PUFA may be influenced by microbial metabolism and may, in part, explain some of the 
-inter-individual variation in the effects of 3ω LC-PUFA on cancer.
-
-Ursodeoxycholate (UDCA) Colon cancer is associated with a high-fat diet in western populations and rates in non-
+Colon cancer is associated with a high-fat diet in western populations and rates in non-
 western populations are increasing as a more western, non-traditional diet is adopted.98, 99 
 Recent studies in mice suggest that the gut microbiome influences the size and composition 
 of the bile acid pool throughout the enterohepatic system and exposure may influence cancer 
@@ -132,15 +22,4 @@ animal and in vitro studies to reduce the risk of cancer dysplasia and cancer
 development110, 111 and, in a phase III clinical trial, UDCAs reduced the degree of dysplasia 
 in colonic polyps.,112 Recent mechanistic studies suggest that, in contrast to butyrate, 
 UDCA induced cell differentiation and senescence in colon cancer cells via histone 
-hypoacetylation.113 Transformation of dietary compounds by the gut microbiome results in additional 
-environmental exposures that may influence epigenetic mechanisms of gene expression. We 
-presented examples of anaerobic metabolism by gut bacteria that is dynamic and responsive 
-to ingested substrates from myriad dietary sources. Functional genes measured in the gut 
-microbiome suggest that there are basic metabolic pathways that are conserved across all 
-healthy individuals114, 115 which have the core capacity to generate compounds that 
-influence epigenetic pathways of gene expression.109, 110 While colonic epithelium may 
-have immediate exposure to microbial metabolites, many microbial products are absorbed 
-into systemic circulation and may alter gene expression in regions distal to the gut. 
-Integration of dietary intake, measurements of the gut microbiome, and epigenome markers 
-in multi-generational human population studies are needed to understand the influence of 
-these environmental factors on human health
+hypoacetylation.113

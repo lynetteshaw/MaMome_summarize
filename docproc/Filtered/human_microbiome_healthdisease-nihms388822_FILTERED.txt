@@ -1,6 +1,6 @@
-13_PARAGRAPHS
+10_PARAGRAPHS
 
-Inheritance of microbiota The congruent phylogenies of mammals and their microbiota8 provide strong evidence for
+The congruent phylogenies of mammals and their microbiota8 provide strong evidence for
 the inheritance of the microbiota7 Although inheritance of the microbiota from the father is
 presently little studied, increasing evidence supports inheritance from the mother34,53. Until
 the amniotic sac ruptures, a fetus is considered to be sterile, or essentially sterile.
@@ -10,7 +10,7 @@ producing bacteria dominate in both vagina and in mother’s milk, the initial g
 tract bloom of lactobacilli in the baby cannot be considered accidental. Lactobacilli
 represent the pioneer community in mice55 as well as humans39, preparing the
 gastrointestinal tract for subsequent microbial successions, until microbial maturity is
-reached.
+reached..
 
 The multiple opportunities for the microbiota to be transferred from a mother to her baby
 may be disrupted by modern lifestyles. Caesarian section instead of vaginal delivery is an
@@ -22,10 +22,7 @@ contributions to offspring H. pylori allele composition have been shown59, In an
 there is evidence for extensive horizontal gene transfer (HGT) within human populations,
 functional classes, and ecological niches60, indicating the site-specificity and dynamism of
 selection on the human microbiome. Even so, microbial inheritance can provide important
-confirmation of human ancestry61.
-
-NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript Cho and Blaser Page 6 composition may have affected mating preference in humans, representing another
-phenotype under strong selective pressure.
+confirmation of human ancestry61..
 
 Our knowledge of microbiome dynamics, especially age-related changes, during human
 adulthood is limited. The older literature (predating the use of HTS), clearly shows that the
@@ -34,7 +31,7 @@ period73,74. Similarly, in the stomach,, the age-related progressive development
 atrophy (enhanced by H. pylori presence75,76) selects for gastric microbiota that are
 substantially different from the norm 77. Analogous changes may be occurring in other body
 sites as senescence advances. In the gut, the ratio of Bacteroidetes to Firmicutes changes
-with age78.
+with age78..
 
 These concepts are particularly relevant to oncogenesis, which is generally age-related. In
 the multi-step Nordling hypothesis of oncogenesis79, 4–6 somatic cell mutations are needed
@@ -48,14 +45,9 @@ dominant gastric bacterium, H. pylori provides an example:early in life, inflamm
 responses to the organism improve control of infection82,83 and allergy84, but later in life
 promote atrophy and oncogenesis85. A related hypothesis is that co-evolved microbiota are
 adaptive for the human species both by supporting early-in-life host functions and by
-leading to later-in-life host demise 86.
+leading to later-in-life host demise 86..
 
-NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript Cho and Blaser Page 7 irritable bowel syndrome (IBS) and non-ulcer dyspepsia (NUD), unfortunately reduce the
-potential of microbiome studies. The diseases listed below review some current recent
-investigations (Table 1). Investigations are preliminary, but some observations are
-promising.
-
-Cutaneous microbiome The cutaneous microbiome is an obvious target in specific diseases, such as psoriasis, a
+The cutaneous microbiome is an obvious target in specific diseases, such as psoriasis, a
 chronic, idiopathic inflammatory dermatologic condition87. In studies predating HTS, the
 use of PCR and cloning led to observations that Firmicutes were significantly over-
 represented and Actinobacteria were significantly under-represented in psoriatic lesions
@@ -74,7 +66,7 @@ to substantial morbidity. Cutaneous microbiome shifts, such as an increased abun
 Pseudomonadaceae in patients with chronic ulcers treated with antibiotics and an increased
 abundance of Streptococcaceae in diabetic ulcers have been noted91. Such shifts may
 interact with aberrantly expressed host cutaneous defense response genes92, thereby
-increasing disease risk.
+increasing disease risk..
 
 The discovery that H. pylori was adapted to survive in the acidic gastric environment
 overturned the dogma that the stomach is sterile. In H. pylori-negative individuals, gastric
@@ -93,10 +85,7 @@ microbiota is strongly associated with particular diseases with important age-re
 differences85. Its presence increases risk for developing peptic ulcer disease, gastric mucosa-
 associated lymphoid tissue (MALT) tumors, and gastric adenocarcinoma94 but also is
 associated with decreased reflux esophagitis95 and childhood-onset asthma96; demonstrating
-the complex biological interactions with our microbiota.
-
-NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript Cho and Blaser Page 8 The colon microbiota and inflammatory bowel disease eliciting host responses, for example, by stimulating exaggerated immune responses,
-potentially via Th17 cells99.
+the complex biological interactions with our microbiota..
 
 Further evidence of a link between colonic microbiota and colorectal cancer is suggested by
 the ability of antibiotic administration to alter the composition of the colonic microbiota and
@@ -116,7 +105,7 @@ control subjects, while both Bacteroidetes and Firmicutes were relatively deplet
 with Fusobacterium-rich malignancies102. The enrichment of Fusobacterium species (not
 limited to F. nucleatum) was confirmed when evaluating the mucosal microbiome of
 colorectal cancers compared to adjacent normal tissues from 99 subjects101. However, the
-causal direction of the association has not yet been ascertained.
+causal direction of the association has not yet been ascertained..
 
 The microbiome is essential for the activation of host immune responses 104. For example,
 Th17 cell differentiation in the mouse LAMINA PROPRIA requires the presence of segmented
@@ -139,7 +128,7 @@ ulcerative colitis, those affected had significantly reduced bacterial diversity
 proportions of Actinobacteria and Proteobacteria114. Patients with Crohn’s disease have
 over-representation of E. faecium and of several Proteobacteria compared to controls115.
 The microbial patterns observed for the conditions described above are preliminary and their
-specificity and causal direction have not been established.
+specificity and causal direction have not been established..
 
 Genetically obese (ob/ob) mice have decreased Bacteroidetes/Firmicutes ratios compared
 with lean (ob/+ and +/+ wild-type) siblings31. Transplantation of gut microbiota from the
@@ -157,23 +146,9 @@ excessive weight gain during childhood124. These early studies provide support f
 concept that microbiota alterations could lead to childhood-onset obesity, which could be
 modifiable. Alterations in the gut microbiome also occur with interventions used to treat
 obesity. ROUX-EN-Y SURGERY significantly increases levels of Proteobacteria, while altering
-specific metabolic markers, such as the production of urinary amines and cresols125.
+specific metabolic markers, such as the production of urinary amines and cresols125..
 
-The loss of species in a locality (e.g. an individual host) A phenomenon in which a microbe uses chemical means to aid in its
-competition with a group of microbe(s). Allelopathy may involve
-manipulation of third parties (e.g. host) to favor competition The selection or choice of sexual partners that is often based on
-traits of a potential mate. Genetic differences between selected and
-non-selected hosts are a source of selectable variation The anatomic structure around each hair shaft that consists of the
-hair shaft and follicle, the sebaceous gland, and the erector pili
-muscle An organism (e.g. microbe) that may have a pathogenic or symbiotic
-relationship with another organism (e.g. its host), depending on
-context. A more accurate term than commensal A thin layer of loose connective tissue that lies underneath the
+A thin layer of loose connective tissue that lies underneath the
 epithelium and with it constitutes the mucosa that lines various
 lumens within the body; it is a dense locus of immunological and
-inflammatory cells The pathological accumulation and retention of lipids within liver
-parenchymal cells. Substantial steatosis can compromise the
-function of the cell and is associated with disease processes,
-including alcoholism, diabetes, and hyperlipidemia An organism (e.g. microbe) that is involved in a form of symbiosis
-in which one organism derives a benefit while the other is
-unaffected Living microorganisms that are thought to confer a benefit to the
-host
+inflammatory cells

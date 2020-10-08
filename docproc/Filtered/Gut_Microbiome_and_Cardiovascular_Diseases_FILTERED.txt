@@ -1,35 +1,8 @@
-11_PARAGRAPHS
+6_PARAGRAPHS
 
-As different gut microbial compositions generate different levels of TMAO [18], higher blood
-TMAO levels and an increased CVD risk can be attributed to a TMA-producing microbiome harboring
-TMA lyases. These ﬁndings support the idea that prevention of CVD is feasible through gut microbial
-modulation. However, the area under the receiver operating characteristic curve, based on TMA lyases,
-was not sufﬁcient to predict the incidence of CAD (Area Under the Curve = 0.63). Moreover, a recent
-clinical trial has shown that ﬁsh consumption increases the circulating TMAO levels, highlighting
-the substantial limitations in our current understanding of the relationship between diet and gut
-microbial TMAO production [18]. Moreover, all available clinical studies are cross-sectional studies
-or cohort studies, not interventional studies. Further research is needed to elucidate whether TMAO
-contributes directly to the progression of CVD or reﬂects the presence of a deleterious colonic microbial
-metabolism, dietary habits, or renal tubular dysfunction. In addition, the distribution of TMAO levels
-in the general population is unknown, and standard reference values are not currently available [19].
-A detailed understanding of the biological role of TMAO in CVD patients is crucial for evaluating
-the feasibility of developing drugs that affect the TMAO levels or the possibility of using TMAO as a
-marker of CVD.
-
-Coronary artery disease 26 in China Coronary plaque vulnerability assessed by
-optical coherence tomography - Follow-
-Up Period 3 years 5 years 5 years 1 year Increased TMAO levels were associated
-with an increased risk of major adverse
-cardiovascular events or death Elevated TMAO levels portended higher
-long-term mortality risk Higher TMAO levels were associated with a
-higher incidence of death/transplantation Elevated levels were associated with a higher
-incidence of death/HF Plasma TMAO level was signiﬁcantly higher in
-patients with plaque rupture than in those
-without plaque rupture 2017 Clin. Chem.
-
-4. Alterations of the Gut Microbial Structure Associated with CVD Several studies have been conducted to elucidate which gut bacterial species are involved in the
-incidence and progression of CVD (Table 2) [17,26–28]. We were the ﬁrst to report that the incidence
-of CAD was linked to an alteration of the gut microbial composition [28,29]. We have reported a
+Several studies have been conducted to elucidate which gut bacterial species are involved in the
+incidence and progression of CVD (Table 2)  We were the ﬁrst to report that the incidence
+of CAD was linked to an alteration of the gut microbial composition  We have reported a
 lower abundance of the phylum Bacteroidetes and a higher abundance of the order Lactobacillales
 in patients with CAD compared to non-CAD patients with coronary risk factors, such as diabetes,
 hypertension, or dyslipidemia, and healthy volunteers using terminal restriction fragment length
@@ -38,24 +11,26 @@ methods. The Firmicutes/Bacteroidetes ratio, an indicator of dysbiosis, increase
 compared with the non-CAD controls. Interestingly, our data revealed that the CAD patients were
 signiﬁcantly more likely to be categorized as enterotype III, which is characterized by low levels
 of Bacteroides, compared with the non-CAD controls. Last year, a metagenome-wide association
-study of fecal samples from 218 CAD patients and 187 healthy subjects from China was reported [17].
+study of fecal samples from 218 CAD patients and 187 healthy subjects from China was reported 
 The abundance of Enterobacteriaceae was signiﬁcantly higher in the CAD patients compared to the
 healthy subjects. The abundance of Streptococcus spp. was also signiﬁcantly higher in the patients
 with CAD than in the healthy subjects. This may be due to the use of proton pump inhibitors in
-CAD patients [30]. Consistent with our results, Bacteroides spp. were signiﬁcantly depleted in the
+CAD patients  Consistent with our results, Bacteroides spp. were signiﬁcantly depleted in the
 CAD patients. Given that Bacteroides spp. are known to have an important role in maintaining a
-healthy gut ecosystem [31], and that the abundance of Bacteroides spp. was found to decrease in
-patients with atherosclerotic ischemic stroke and transient ischemic attack [27], Bacteroides spp. may
+healthy gut ecosystem  and that the abundance of Bacteroides spp. was found to decrease in
+patients with atherosclerotic ischemic stroke and transient ischemic attack  Bacteroides spp. may
 have the potential to regulate atherosclerosis progression. Furthermore, Faecalibacterium prausnitzii,
-which exhibits anti-inﬂammatory effects [32], was also signiﬁcantly depleted in the CAD patients.
-Of note, the co-abundance network structure differed between the two groups. The negative Diseases 2018, 6, 56 5 of 10 correlations between Streptococcus spp. and Bacteroides spp. were observed only in the CAD patients.
+which exhibits anti-inﬂammatory effects  was also signiﬁcantly depleted in the CAD patients.
+Of note, the co-abundance network structure differed between the two groups. The negative.
+
+correlations between Streptococcus spp. and Bacteroides spp. were observed only in the CAD patients.
 On the other hand, the positive correlation between Bacteroides spp. and Erysipelotrichaceae bacterium
 was seen only in the healthy subjects. These results implied that a peculiar inter-species relationship in
-the gut microbiome may exist in CAD patients compared to healthy subjects.
+the gut microbiome may exist in CAD patients compared to healthy subjects..
 
 Additionally, there are some studies that have demonstrated the relationship between the
 gut microbiome and heart failure (HF). Kamo et al., ﬁrst reported the gut microbial difference in
-Japanese heart failure patients [33]. They performed a 16S rRNA gene sequencing analysis of fecal
+Japanese heart failure patients  They performed a 16S rRNA gene sequencing analysis of fecal
 samples from 12 HF patients and 12 age-matched healthy subjects. They further compared the gut
 microbiome in HF patients according to age; the gut microbiome in the 12 HF patients younger than
 60 years of age were compared with those of the 10 HF patients 60 years of age or older. Although
@@ -63,7 +38,7 @@ the richness and diversity of the gut microbiota were not signiﬁcantly differe
 patients and healthy subjects, Dorea and Clostridium were less abundant in the HF patients than
 in the healthy subjects. Moreover, older HF patients had a lower abundance of Bacteroidetes and
 a higher abundance of Proteobacteria compared to the younger HF patients. There is also a report
-from China that shows a metagenomic analysis of fecal samples from patients with chronic HF [34].
+from China that shows a metagenomic analysis of fecal samples from patients with chronic HF 
 They enrolled 53 HF patients and 41 controls with risk factors and compared the compositions of
 their gut microbiomes. Ruminococcus, Acinetobacter, and Veillonella increased in the HF patients,
 whereas Alistipes, Faecalibacterium, and Oscillibacter decreased.
@@ -71,57 +46,14 @@ In line with the previous report,
 Faecalibacterium prausnitzii decreased in the HF patients compared to the controls. The results of
 these studies suggest that an altered gut microbiome may have an impact on the development and
 progression of heart failure. This evidence paves the way for further studies investigating the gut
-microbiome in the prevention and management of CVD.
+microbiome in the prevention and management of CVD..
 
-Diseases 2018, 6, 56 6 of 10 Table 2. Clinical reports demonstrating the gut microbiome in patients with CVD.
+Enterobacteriaceae ↑, Proteobacteria ↑, Escherichia/Shigella ↑, Bacteroidetes ↓,
+Bacteroidales ↓, Bacteroidaceae ↓, Bacteroides ↓ in stroke/TIA patients..
 
-China 16S rRNA V4 region Enterobacteriaceae ↑, Proteobacteria ↑, Escherichia/Shigella ↑, Bacteroidetes ↓,
-Bacteroidales ↓, Bacteroidaceae ↓, Bacteroides ↓ in stroke/TIA patients.
+Firmicutes/Bacteroidetes ratio ↑, Lactobacillales ↑, Bacteroides + Prevotella ↓ in CAD..
 
-Japan Terminal restriction fragment
-length polymorphism Firmicutes/Bacteroidetes ratio ↑, Lactobacillales ↑, Bacteroides + Prevotella ↓ in CAD.
-
-China Gut metagenome Enterobacteriaceae (Escherichia coli, Klebsiella spp., and Enterobacter aerogenes),
+Enterobacteriaceae (Escherichia coli, Klebsiella spp., and Enterobacter aerogenes),
 Streptococcus spp., Lactobacillus salivarius, Solobacterium moorei, Atopobium parvulum,
 Ruminococcus gnavus, Eggerthella lenta ↑, Roseburia intestinalis ↓, Faecalibacterium cf.
 prausnitzii ↓, Bacteroides spp. ↓, Prevotella copri ↓, Alistipes shahii ↓ in ACVD.
-
-Diseases 2018, 6, 56 7 of 10 5. Alternations in Gut Microbial Function Associated with CVD In addition to the compositional characteristics, the functional characteristics of the gut
-microbiome have been investigated in order to delineate the mechanisms related to the development
-of CVD. Although metagenomic shotgun sequencing analysis is the main method to examine the
-functional characteristics, methods are being developed to predict functional proﬁles from taxonomic
-proﬁles. Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt)
-is a bioinformatics software package designed to predict metagenomic functional content from the
-16S rRNA gene [35]. The Kyoto Encyclopedia of Genes and Genomes (KEGG) modules are usually
-used to construct a functional map of the gut microbiome [36].
-
-With regard to HF, Cui et al., have investigated the metabolic patterns of the gut microbiome
-in patients with chronic HF to provide direct evidence and a comprehensive understanding of
-gut microbial dysbiosis [34]. Fifty-three chronic HF patients (ischemic cardiomyopathy, n = 29;
-dilated cardiomyopathy, n = 24) and 41 controls with risk factors were enrolled. They found
-an elevation in the microbial genes for lipopolysaccharide biosynthesis, tryptophan, and TMAO
-generation in the chronic HF patients. This result provides a convincing explanation for the increased
-plasma lipopolysaccharide levels in HF patients [37], because the main source of lipopolysaccharides
-is the gut/gut microbiome. Moreover, increased expression of the genes for phosphotransferase
-systems and decreased gene expression for the synthesis and transport of amino acids, nucleotide
-sugar biosynthesis, and the iron transport system were observed in the HF patients compared with the
-controls. These disease-dependent unique features in the functional capacity may give us clues for
-novel therapeutic approaches.
-
-6. Issues to Be Considered When Interpreting the Studies Most clinical studies compare the gut microbial composition between patients and healthy controls.
-Administration of medication has a substantial effect on the gut microbiome, and medication-matched
-controls are required to elucidate the impact of the gut microbiome on disease progression. Moreover,
-the studies mentioned above have provided useful characterization of the fecal microbial proﬁle
-in patients with CVD; however, we are still struggling with these descriptive data. A speciﬁc gut
-microbiome-based target to prevent CVD has yet to emerge, which is the greatest challenge that we
-are currently facing. It may take a little more time to conduct a large cohort study or a translational
-study to promote a deeper understanding of how the gut microbiome directly contributes to CVD.
-While we already know that diet, prebiotics, probiotics, a speciﬁc IgA antibody, and enzymes can
-modulate the gut microbiome and its function [38,39], these interventions for patients with CVD are
-constrained by ethical considerations or funding limitations. In such cases, an in vitro fermentation
-system simulating the human intestinal tract may help to evaluate the functionality or safety of these
-interventions under highly reproducible conditions without the ethical issues [40]. Speciﬁcally, we can
-culture feces from patients with prebiotics or probiotics in an in vitro fermentation system and analyze
-how the gut microbiome, and its metabolites and functions, are changed after the intervention. Of note,
-we have observed some discrepancies between the ﬁndings in humans and mice. These may be due to Diseases 2018, 6, 56 8 of 10 the differences in the natural gut microbiome. It is important to pay attention to the complexities of
-translating the ﬁndings from an animal model to humans

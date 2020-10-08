@@ -5,6 +5,7 @@
 
 import streamlit as st
 import os
+import csv
 
 noart = [""]
 articles = tuple(os.listdir("../MaMomePDFs"))
@@ -19,17 +20,17 @@ show_raw = st.sidebar.checkbox("Show Raw Text")
 
 if sum_length == "Default":
     if sum_type == "Targeted":
-        suffix = "_tar_prop"
+        suffix = "_targ_prop"
     else:
         suffix = "_full_prop"
 elif sum_length == "Terse":
     if sum_type == "Targeted":
-        suffix = "_tar_terse"
+        suffix = "_targ_terse"
     else:
         suffix = "_full_terse"
 else:
     if sum_type == "Targeted":
-        suffix = "_tar_verb"
+        suffix = "_targ_verb"
     else:
         suffix = "_full_verb"
 
@@ -38,11 +39,52 @@ summary_name = article[:-4] + suffix + ".txt"
 with open("../docproc/Summary/" + summary_name, "r") as f:
     summary = f.read()
 
-
 st.write(summary)
+
+
+
+sumterms = set(summary.split(" "))
+
+with open('../docproc/bac_list.csv') as f:
+    reader = csv.reader(f)
+    blist = list(reader)
+
+bacteria = []
+
+for bac in blist[2:]:
+    if len(bac) > 0:
+         bacteria += bac[0].split(' ')
+
+bacwords = [word for word in bacteria if (word.isalpha() and len(word) > 1)]
+
+def common_member(a, b):
+    a_set = set(a)
+    b_set = set(b)
+
+    commterms = ""
+
+    if (a_set & b_set):
+        commterms = list(a_set & b_set)
+
+    return commterms
+
+commterms = common_member(bacwords, sumterms)
+
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("### Bacteria Terms Appearing in Summary")
+st.sidebar.write(commterms)
+
+
 
 if show_raw:
     raw_name = article[:-4] + ".txt"
+    st.markdown("# Raw Text")
     with open("../docproc/TxtData/" + raw_name) as f:
         raw = f.read()
+        rawterms = set(raw.split(" "))
+        rawcommterms = common_member(bacwords, rawterms)
     st.write(raw)
+    st.sidebar.write(" ")
+    st.sidebar.write("### Bacteria Terms Appearing in Raw Text")
+    st.sidebar.write(rawcommterms)

@@ -1,181 +1,34 @@
-8_PARAGRAPHS
+3_PARAGRAPHS
 
 Female infants are generally born smaller than male infants; however, in response to maternal asthma, the
 Caucasian male fetus is more likely to have a lower birthweight and show growth retardation when
-delivered at term than the female fetus [5]. MARTIN et al. [15] recently reported less colonisation of stool
+delivered at term than the female fetus recently reported less colonisation of stool
 with Lactobacillus species at birth and during the first month of life among full-term male infants in
 comparison to female infants. Postnatally, depending on the Lactobacillus species, since weight promotion
 is species-specific, the dominance of lactobacilli in the infant gut will determine the extent of weight gain
-and subsequent atopic disease [16–18]. Altogether, evidence is mounting for a programming role of
+and subsequent atopic disease  Altogether, evidence is mounting for a programming role of
 prenatal asthma that might affect the infant gut microbiome. These observations led us to study the
 influence of maternal asthma status during pregnancy on infant intestinal microbiota in the Canadian
 Healthy Infant Longitudinal Development (CHILD) general population birth cohort. Specifically, we
 determined whether the genus Lactobacillus was reduced in the gut of infants born to an asthmatic
 mother, especially in the gut of male infants. Second, we sought evidence for a fetal programming role of
 maternal asthma that was independent of birth mode and related events, and was enhanced by maternal
-comorbid conditions, such as overweight and atopic disease.
+comorbid conditions, such as overweight and atopic disease..
 
-TABLE 1 Distribution of maternal prenatal asthma status and infant faecal Lactobacillus abundance according to study
-covariates Prevalence Proportion with
-maternal prenatal
-asthma # p-value ¶ Median abundance
-(IQR) of Lactobacillus
-species Proportion with
-highest Lactobacillus
-abundance # p-value + p-value ¶ Subjects n
-Mothers Maternal asthma during pregnancy 1021 87 1021 Maternal allergies during pregnancy§ Maternal pre-pregnancy overweight status§ <0.0001 Maternal ethnicity§ Asthma
-No asthma Site Edmonton
-Winnipeg
-Vancouver Caucasian
-Asian
-Other Yes
-No Normal weight
-Overweight/Obese Infants
-Sex Female
-Male Antibiotic intrapartum exposure§ Exposure
-No exposure
-Mode of delivery§ Vaginal
-Caesarean emergent
-Caesarean elective Term gestation Late term (⩾39 weeks)
-Early term (<39 weeks)
-Birthweight (lowest quartile) Breastfeeding status at 3 months§ Breastfed
-Not breastfed Weight gain (medium tertile) Yes
-No Yes
-No 87 (9)
-934 (91) 345 (34)
-307 (30)
-369 (36) 795 (78)
-137 (13)
-86 (8) 623 (61)
-375 (37) 587 (57)
-396 (39) 476 (47)
-545 (53) 434 (44)
-560 (56) 760 (74)
-139 (14)
-108 (11) 705 (69)
-260 (25) 246 (25)
-750 (75) 828 (81)
-187 (18) 334 (34)
-662 (66) 34 (10)
-22 (7)
-31 (8) 74 (9)
-5 (4)
-8 (9) 75 (12)
-11 (3) 43 (7)
-39 (10) 46 (10)
-41 (8) 42 (10)
-44 (8) 70 (9)
-11 (8)
-6 (6) 71 (10)
-16 (6) 12 (5)
-75 (10) 69 (8)
-18 (10) 21 (6)
-66 (10) 0.47 0.07 0.20 0.26 0.36 0.48 0.08 0.13 0.56 0.06 <0.02 0.02 0.003 0.21 0.18 0.93 0.39 0.31 0.52 0.44 0.0005 (0.0–0.6)
-0.001 (0.0–17.6) 0.0009 (0.0–8.8)
-0.002 (0.0–17.6)
-0.001 (0.0–4.5) 0.002 (0.0–17.6)
-0.0004 (0.0–3.0)
-0.001 (0.0–1.0) 0.001 (0.0–17.6)
-0.002 (0.0–6.7) 0.002 (0.0–17.6)
-0.001 (0.0–7.4) 0.001 (0.0–10.4)
-0.001 (0.0–17.6) 0.001 (0.0–17.6)
-0.002 (0.0–10.4) 0.001 (0.0–0.6)
-0.001 (0.0–0.2)
-0.002 (0.0–0.02) 0.001 (0.0–17.6)
-0.001 (0.0–8.8) 0.002 (0.0–0.04)
-0.001 (0.0–0.03) 0.003 (0.0–17.6)
-0.002 (0.0–7.4) 0.002 (0.0–0.05)
-0.001 (0.0–0.03) 0.0007 0.90 0.03 0.20 0.41 0.43 0.94 0.19 0.74 0.87 255 9 (10)
-246 (26) 88 (26)
-78 (25)
-89 (24) 209 (26)
-22 (16)
-23 (27) 148 (24)
-103 (27) 154 (26)
-94 (24) 113 (24)
-142 (26) 106 (24)
-138 (25) 179 (24)
-36 (26)
-34 (31) 171 (24)
-66 (25) 63 (25)
-185 (25) 246 (30)
-6 (3) 88 (26)
-160 (24) <0.0001 <0.0001 0.09 0.44 Data are presented as n (%),unless otherwise stated. IQR: interquartile range. p-values <0.05 are indicated in bold. #: percentage of asthma and
-highest Lactobacillus abundance within category; ¶: comparison of proportions was performed using Fisher’s exact test for 2×2 and 2×3
-contingency tables; +: medians were compared with the Wilcoxon rank sum test or Kruskal–Wallis test for >2 group comparisons; §: variables
-with missing information for some infants.
-
-the lowest the species level (figure 1), an unclassified
+the species level (figure 1), an unclassified
 Finally, using the LEfSe method to test differences at
 Lactobacillus species was found to be less abundant in male Caucasian infants born to mothers with atopic
 asthma (LDA score 2.93, p<0.05). Unclassified Megasphera species (LDA score 3.34, p=0.003) were
 comparatively less abundant and Bacteroides fragilis (LDA 3.29, p=0.02) were more abundant in female
-Caucasian infants born to mothers with atopic asthma.
-
-Discussion
-In a birth cohort study of 1021 full-term Canadian infants, we detected alterations to gut microbial
-composition at 3–4 months following pregnancy complicated with asthma versus pregnancy without
-asthma. Infants of mothers with asthma harboured fewer lactobacilli in their gut microbiota, especially if https://doi.org/10.1183/13993003.00280-2017 6 ASTHMA | P.T. KOLEVA ET AL.
-
-Male infants are at higher risk of developing wheeze during infancy than female infants, especially if they
-are Caucasian [27], although sex differences in gut microbiota composition have not been a focus of
-attention until recently [15]. Literature reporting a higher risk for overweight with antibiotic use in male, https://doi.org/10.1183/13993003.00280-2017 7 ASTHMA | P.T. KOLEVA ET AL.
-
-Asthmatic
-Normal a: s_fragilis
-b: g_Bacteroides
-c: f_Bacteroidaceae
-d: Other_Cloistridium
-e: s_Uncl_Megasphaera
-f: g_Megasphaera
-g: s_Uncl_Pseudomonas
-h: g_Pseudomonas
-i: f_Pseudomonas c_Bacteroidia
-o_Bacteroidales c b a g ih Asthmatic
-Normal Asthmatic
-Normal b) e LDA score (log 10) e f 4 3 2 1 0 –1 –2 –3 –4 –5 Asthmatic
-Normal a: s_Uncl_Actinomyces
-b: g_Actinomyces
-c: f_Actinomycetaceae
-d: s_Uncl_Gemellaceae
-e: g_Uncl_Gemellaceae
-f: f_Gemellaceae
-g: s_Uncl_Lactobacillus
-h: s_Uncl_Lactococcus
-i: g_Lactococcus
-j: s_Uncl_Megamonas
-k: g_Megamonas
-l: Other_Trabulsiella
-m: g_Trabulsiella b c a mI a) l a l e s o _ G e m e l
-f
-e d g i h I k 4 3 2 1 0 –1 –2 –3 –4 LDA score (log 10) o_Bacteroidales p_Bacteroidetes c_Bacteroidia g_Bacteroides f_Bacteroidaceae f_Pseudomonaceae s_Uncl_Pseudomonas g_Pseudomonas s_fragilis g_Megasphaera s_Uncl_Megasphaera Other_Clostridium g_Megamonas s_Uncl_Megamonas g_Actinomyces s_Uncl_Actinomyces f_Actinomycetaceae g_Lactococcus s_Uncl_Lactococcus f_Gemellaceae s_Uncl_Gemellaceae o_Gemellaceae g_Uncl_Gemellaceae s_Uncl_Lactobacillus g_Trabulsiella Other_Trabulsiella FIGURE 1 Cladogram and linear discriminant analysis (LDA) plots for prenatal maternal atopic asthma by a) male and b) female Caucasian infants
-from LDA effect size (LEfSe) methods.
-
-tract the human gastrointestinal lactate-producing
-in early infancy [31],
-As persistent residents of
-lactobacilli are less abundant in the gut of
-infants who develop atopic disease by age 5 [32, 33].
-Lactobacillus species are documented to elevate growth and immune factors in breast milk and
-anti-inflammatory cytokine levels in cord blood, when administered prenatally to the mother [34]; and
-postnatally, lactobacilli probiotics promote weight gain in infants [35]. A recent study by FARR et al. [36]
-less than 2500 g to be more common following a mid-pregnancy vaginal
-observed birthweights of
-found in
-microbiota dominated by non-lactobacilli versus lactobacilli microbes. Further,
-amniotic fluid are capable of modulating expression of toll-like receptor genes in the fetal gut [37]. In our
-study, the reduction in Lactobacillus abundance was most apparent among infants whose mothers had
-asthma and overweight or a history of allergies. Indeed, risk for atopic sensitisation at age 5 is reportedly
-elevated, with lower Lactobacillus colonisation by the age of 2 months in infants born to atopic parents [33].
-Other high-risk cohort studies have found discordant faecal microbial biomarkers for atopic disease, such as lactobacilli https://doi.org/10.1183/13993003.00280-2017 8 ASTHMA | P.T. KOLEVA ET AL.
+Caucasian infants born to mothers with atopic asthma..
 
 Maternal overweight during pregnancy has been linked to a higher risk of asthma and other atopic
-diseases in offspring [39, 40]. In our study infants, maternal asthma comorbidity with this added risk for
+diseases in offspring  In our study infants, maternal asthma comorbidity with this added risk for
 offspring also yielded a reduction in the abundance of faecal Megasphaera in female infants and an
 elevation in the abundance of Bacteroidaceae. The latter remained statistically significant after adjustment
 for the FDR; both species were identified as statistically more abundant by the LEfSe method. Both
 Megasphaera and Bacteroidaceae microbes produce propionate, but under opposing conditions. The
-Megasphaera species utilise lactate as a substrate to produce propionate [41], whereas Bacteroides species
-produce propionate when lactate levels are low [42]. Propionate is absorbed by the host for liver
-gluconeogenesis, possesses anti-inflammatory and satiety properties [43, 44], and protects against the
-development of allergic asthma in a murine model [45]
+Megasphaera species utilise lactate as a substrate to produce propionate  whereas Bacteroides species
+produce propionate when lactate levels are low  Propionate is absorbed by the host for liver
+gluconeogenesis, possesses anti-inflammatory and satiety properties  and protects against the
+development of allergic asthma in a murine model 

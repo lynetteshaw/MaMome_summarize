@@ -1,38 +1,4 @@
-39_PARAGRAPHS
-
-S2  European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14 Crohn’s disease (CD) or ulcerative colitis (UC); and irritable 
-bowel syndrome (IBS). Moreover, the various benefits of 
-prebiotics on human health, the microbiome–nutrient inter-
-action and the role of vitamins in promoting the selective 
-growth of microbes in the gut as well as determinants of 
-the development of a healthy microbiome were presented 
-and discussed intensively. Last but not least, the panel dis-
-cussed how the brain and the microbiome may affect and 
-control each other’s functions and the implications of such 
-communication for treating or preventing the brain-related 
-functional decline during aging.
-
-It is worth noting that the terms microbiota and micro-
-biome are frequently used interchangeably and this also 
-applies  here.  Strictly  speaking,  however,  microbiota  is 
-defined as the microbial taxa associated with complex organ-
-isms such as humans, whereas microbiome is the catalogue 
-of these microbes and their genes [5]. The totality of data 
-suggests great promise for use of pre- and probiotics in pro-
-moting general health and treating human diseases.
-
-Prebiotic interactions with the microbiome Dietary prebiotics have been defined as “a selectively fer-
-mented ingredient that results in specific changes in the 
-composition and/or activity of the gastrointestinal micro-
-biota, thus conferring benefit(s) upon host health” [6]. This 
-definition has been subjected to debate as it focuses largely 
-around the need for selective metabolism. An alternative 
-definition which includes the mechanism of action has been 
-established recently in a consensus statement [7]. The expert 
-panel revised the definition of a prebiotic as “a substrate 
-that is selectively utilized by host microorganisms conferring  a health benefit”. This updated definition still requires a 
-selective microbiota-mediated mechanism to be defined as 
-a prebiotic.
+19_PARAGRAPHS
 
 Several studies have demonstrated modulation of colonic 
 microbiota by prebiotic inulin or inulin-type fructans. Real-
@@ -40,194 +6,29 @@ time  polymerase  chain  reaction  (PCR)  identification  of
 selected bacterial species in the feces of human volunteers 
 after inulin ingestion showed that the prevalence of Fae-
 calibacterium prausnitzii and two Bifidobacterium species, 
-B. adolescentis and B. bifidum, increased significantly [13]. 
+B. adolescentis and B. bifidum, increased significantly  
 In a placebo-controlled study, dietary inulin-type fructans 
 increased the relative abundance of Bifidobacterium spp. and 
-F. prausnitzii in obese women [14]. In healthy adults with 
+F. prausnitzii in obese women  In healthy adults with 
 mild constipation, inulin-type fructans increased the relative 
 abundance of Anaerostipes, Bilophila and Bifidobacterium 
-in feces, and reduced the abundance of Bilophila [15]. Dif-
+in feces, and reduced the abundance of Bilophila  Dif-
 ferences in selectivity for the fermentation of several car-
 bohydrate substrates (lactulose, galacto-oligosaccharides, 
-sugar beet pectin and apple fiber) were found between the  Fig. 1   Fermentation and gut 
-microbiota. The figure shows 
-the principle sources of nutri-
-tion entering the human colon 
-at the top and the principle 
-metabolic outputs at the bottom. 
-Arrows indicate known cross-
-feeding relationships between 
-the principle microbial groups 
-present. Metabolites in green 
-boxes are believed to be health-
-positive while those in red 
-boxes are potentially harmful. 
-Gaseous products are in orange 
-boxes and the most signifi-
-cant intermediate products of 
-metabolism are in blue Oligosaccharides  Polysaccharides Mucins Proteins & peptides Bifidobacterium 
-Lactobacillus  Bacteroides  Succinate Clostridium IV
-. prausnitzii
-F Clostridium IX -- SO4 clostridia
-peptostreptococci 
-peptococci CO2  Lactate  Clostridium XIVa
-E. halli R. hominis
-Anaerostipes  Desulfovibrio
-Desufotomaculum 
-Desulfobulbus 
-Bilophila H2S  Acetogens  H2  Methanogens  Methane Acetate  Butyrate  Propionate  Isovalerate  Isobutyrate  p-Cresyl sulphate
-Indoxyl sulphate 2-methylbutyrate  NH4 +    Amines Phenol
-Skatole 
-Indole 1 3European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14  S3 microbiotas from lean and obese healthy subjects using an 
-in vitro model (TIM-2) of the proximal colon, providing 
-the evidence that the composition of the microbiota changes 
-depending on the body mass index (BMI) in humans [16].
-
-Figure 2 summarizes the effects of prebiotics on human 
-health. Several studies have examined the effect of prebiot-
-ics on allergic reactions and infections in infancy. A pla-
-cebo-controlled randomized trial of infants with a parental 
-history of atopy showed that formula milk supplemented 
-with a prebiotic mixture of galacto-oligosaccharides (GOS) 
-and long chain inulin significantly reduced the incidence 
-of atopic dermatitis. Prebiotic supplements were associated 
-with a significantly increased number of fecal bifidobacteria, 
-but with no significant change in lactobacilli numbers [17]. 
-In this same cohort of infants, the prebiotic supplemented 
-milk significantly reduced the incidence of infectious epi-
-sodes  during  the  first  6  months  of  life  [18].  In  a  2-year 
-follow-up study of this cohort, infants receiving prebiotic 
-supplementation  had  a  significantly  lower  incidence  of 
-allergic manifestations [19]. At 5-year follow-up, infants 
-in the prebiotic supplementation group had a significantly 
-lower incidence of any allergic manifestation and atopic 
-dermatitis compared to the placebo group [20]. The pro-
-posed mechanism for this long-lasting effect of prebiotics is 
-immune modulation mediated through changes in the intes-
-tinal microbiota [19]. In a three-group randomized interven-
-tion study, infants fed prebiotic GOS+inulin supplemented 
-milk had comparable numbers of fecal bifidobacteria and 
-lactobacilli to infants who were breast fed, whereas infants  fed standard formula milk had significantly lower numbers 
-of both bacterial genera. Incidence of gastrointestinal and 
-upper respiratory tract infections was significantly lower in 
-breast fed infants or the ones fed prebiotic supplemented 
-milk compared to standard formula milk. Similarly, allergic 
-reactions to food and milk were significantly higher in the 
-standard formula milk group [21].
-
-A  meta-analysis  of  26  randomized  controlled  trials 
-(RCTs) involving 831 healthy adults showed that dietary 
-prebiotic  supplementation  significantly  increased  self-
-reported feelings of satiety compared with placebo [22]. 
-Healthy adults fed an oligofructose-enriched inulin diet 
-experienced lowered hunger and increased satiety rates com-
-pared with the placebo, maltodextrin. The increased feeling 
-of satiety was accompanied by an increase in plasma gut 
-peptide concentrations of glucagon-like peptide 1 (GLP-1) 
-and peptide YY in prebiotic supplemented subjects, which 
-may have contributed to the change in appetite [23], suggest-
-ing a potential for use in treating obesity. Similarly, in obese 
-or overweight children, an oligofructose-enriched inulin diet 
-significantly increased satiety compared with maltodextrin. 
-Prebiotic supplementation led to a significant reduction in 
-energy intake in older (aged 11–12 years), but not younger 
-(aged 7–10 years) children [24] suggesting that prebiotic 
-supplementation can potentially help to regulate energy 
-intake in obese children.
-
-Prebiotics  have  been  used  in  several  studies  to  treat 
-constipation. A meta-analysis of RCTs involving 252 sub-
-jects (experimental group: n = 144, control group: n = 108)  Fig. 2   Effect of prebiotics 
-on gut function and health. 
-The figure indicates likely 
-mechanism of prebiotic action 
-in the gut. In many cases the 
-suggested mechanisms are 
-speculative at the present time. 
-Physiological functions are in 
-purple and health outcomes 
-are in green. Abbreviations: 
-FFAR2/GPR43, free fatty acid 
-receptor 2; FFAR3/GPR41 free 
-fatty acid receptor 3; GLP-1, 
-glucagon-like peptide 1; GLP-2, 
-glucagon-like peptide 2; IFN-γ, 
-interferon gamma; IL-1β, inter-
-leukin 1 beta; IL-6, interleukin 
-6; IL-10, interleukin 10; LPS, 
-lipopolysaccharide; NK, natural 
-killer cells; PYY, peptide YY; 
-Th, T helper cells; TGF-β, 
-transforming growth factor beta; 
-Tr, T regulatory cells; ZO-1 
-zona occuldens protein 1 immunomodulation Th1 IFNγ Th2 Tr IL-10
-TGF-β allergy 
-prevention reduced 
-inflammation IL-10 IL-1β IL-6 FFAR2 FFAR3 impact on chronic 
-kidney disease? reduced infection NK 
-activity phagocytic 
-activity reduced 
-renal toxicity increased
-absorption immune 
-stimulation M Cell regulation of peristalsis p-cresyl sulphate
-indoxyl sulphate Ca++ reduced 
-pH defence against 
-pathogens reduced
-infection Butyrate Acetate  Propionate
-reduced tumour 
-promoters FFAR2 FFAR3 improved 
-bowel habit faecal 
-bulking Prebiotics  selective
-fermentation adhesion
-inhibition reduced
-intestinal 
-infection maintenance of barrier function Zonulin Occludin GLP-2  ZO1 GLP-1 PYY Ghrelin Reduced 
-cancer 
-risk? insulin 
-sensitivity increased 
-satiety Satiety reduced 
-inflammation reduced LPS translocation 1 3S4  European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14 reported that inulin significantly improved bowel function 
-in patients with chronic constipation exhibiting beneficial 
-effects on stool frequency, the Bristol scale of stool consist-
-ency, transit time and stool hardness [25]. Following an evi-
-dence review the European Food Safety Authority (EFSA) 
-concluded that “chicory inulin contributes to maintenance of 
-normal defecation by increasing stool frequency” [26]. The 
-results were recently confirmed in a randomized, placebo-
-controlled study showing that chicory inulin was effective in 
-treating healthy subjects with constipation, increasing stool 
-frequency significantly compared with placebo [27].
+sugar beet pectin and apple fiber) were found between the .
 
 Additional described effects of prebiotics include reduc-
 ing  toxins  produced  from  protein  metabolism  in  urine 
-(p-cresol and ammonia) [28] and serum (p-cresyl sulphate) 
-[29], and increasing calcium absorption in adolescents [30, 
+(p-cresol and ammonia) and serum (p-cresyl sulphate) 
+ and increasing calcium absorption in adolescents [30, 
 31]. Prebiotics may also exert beneficial effects on host 
 physiology which are independent of the microbiota as dem-
 onstrated by in vitro experiments for GOS. These included 
 modulation  of  goblet  cells  to  enhance  mucosal  barrier 
-function [32], a direct protective effect on intestinal barrier 
-function [33], and inhibiting adherence of enteropathogenic 
+function  a direct protective effect on intestinal barrier 
+function  and inhibiting adherence of enteropathogenic 
 Escherichia coli to Caco-2 enterocyte and Hep-2 epithelial 
-cells [34].
-
-The systemic effect of microbiota is mediated by micro-
-bial metabolites such as short-chain fatty acids (SCFAs), 
-and the gases hydrogen sulfide, ammonia, hydrogen, meth-
-ane, carbon monoxide and carbon dioxide [37, 38]. SCFAs, 
-which comprise mainly acetate, propionate and butyrate, 
-are produced under anaerobic conditions in the large intes-
-tine by fermentation of dietary fibers [37]. SCFAs activate  the G protein-coupled receptors, GPR41/FFAR3 (free fatty 
-acid receptor 3) and GPR43/FFAR2, which are present on 
-multiple cell types including intestinal epithelial cells, mac-
-rophages, dendritic cells and mast cells [37, 39, 40]. Conse-
-quently, SCFAs have multiple effects on the host, including 
-acting as an energy source, promoting glucose and energy 
-homeostasis, regulating immune responses and inflamma-
-tion, regulating anorectic hormones which have a role in 
-appetite control, tumor suppression (especially butyrate), 
-and regulating central and peripheral nervous systems [37, 
-39–42].
+cells .
 
 The effects of butyrate on the human colonic mucosa 
 were examined following administration of butyrate enemas 
@@ -235,105 +36,57 @@ at physiologically relevant concentrations in healthy volun-
 teers. Transcription analysis of microbiome revealed that 
 butyrate induced differential expression of multiple genes 
 involved in fatty acid oxidation, electron transport chain and 
-oxidative stress pathways [43]. In addition, butyrate led to 
-dose-dependent decreases in visceral sensitivity [44]. How-
+oxidative stress pathways  In addition, butyrate led to 
+dose-dependent decreases in visceral sensitivity  How-
 ever, butyrate enemas administered to patients with UC in 
 clinical remission had relatively minor effects on inflamma-
 tory and oxidative stress parameters, although the selection 
 of patients with chronically mild levels of inflammation and 
-oxidative stress may have limited the scope of this study 
-[45].
+oxidative stress may have limited the scope of this study .
+
 
 Protection against microbial invasion is provided by the 
-intestinal barrier [46]. The intestinal barrier has multiple 
+intestinal barrier  The intestinal barrier has multiple 
 lines of defense including commensal bacteria, which com-
 petitively inhibit the colonization of pathogenic bacteria and 
 the production of metabolically protective compounds such 
-as butyrate [46]. Impaired intestinal barrier function may 
+as butyrate  Impaired intestinal barrier function may 
 result in a local or systemic immune response, mast cell 
 degranulation, neuroinflammation and afferent vagus nerve 
-activation [46]. In addition, commensal bacterial species 
+activation  In addition, commensal bacterial species 
 such as Lactobacillus plantarum regulate intestinal epithelial 
 integrity by stimulation of Toll-like receptor 2 (TLR2) in the 
-gut epithelium [47]. In one study, extensive transcriptome 
+gut epithelium  In one study, extensive transcriptome 
 analysis following consumption of three probiotic strains, 
 Lactobacillus acidophilus, L. casei, and L. rhamnosus, by 
 healthy volunteers showed that each species induced differ-
 ential gene expression in networks involved in regulation of 
 major basal pathways in the small intestinal mucosa, which 
 resembled those induced by specific bioactive molecules and 
-drugs [48]. The potential of probiotic bacteria to improve 
+drugs  The potential of probiotic bacteria to improve 
 intestinal barrier function is discussed extensively in a recent 
-review [49].
-
-Investigation of intestinal barrier function and intesti-
-nal permeability can be done by using a so-called Ussing 
-chamber, an ex vivo method that uses intestinal specimens. 
-The multi-sugar test is a non-invasive method that meas-
-ures urinary excretion of ingested sugars as a measure of 
-gut permeability [50,  51]. Indicators for gastroduodenal 
-and small intestinal permeability are sucrose excretion and  1 3European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14  S5 the lactulose/rhamnose ratio in 0–5 h, respectively. Colonic 
-permeability is estimated by the sucralose/erythritol ratio 
-from urine sampled 5–24 h after the sugar ingestion. Appli-
-cation of the multi-sugar test showed that small intestinal 
-permeability was increased in patients with diarrheal IBS 
-compared to healthy controls [50].
-
-Patients with post-infectious IBS have reduced mucosal 
-and fecal microbial diversity compared with healthy con-
-trols. In addition, the intestinal microbiota of post-infectious 
-IBS patients was shown to be different from that of general 
-IBS patients [52]. Differences between post-infectious IBS 
-patients and healthy controls were also found with respect 
-to release of immunoregulatory cytokines (IL-13, IL-10 
-and IL-1β) following ex vivo stimulation of colonic biop-
-sies with selected species of anaerobic commensal bacteria. 
-These results are consistent with an altered immune response 
-against  commensal  gut  microbes  in  post-infectious  IBS 
-patients [53].
+review .
 
 Therapeutic alteration of intestinal microbiota in condi-
 tions such as IBS may be achieved by ingestion of probiotics 
 and prebiotics to increase the number of commensal bac-
 teria within the gut, antibiotics which deplete pathogenic 
 bacteria, and fecal microbiota transplantation (FMT) which 
-introduces a healthy, diverse microbiota into the gut [35]. A 
+introduces a healthy, diverse microbiota into the gut  A 
 meta-analysis of FMT reported that the method was highly 
 effective for treating recurrent Clostridium difficile infec-
-tion [54] and an expert consensus panel has recommended 
+tion and an expert consensus panel has recommended 
 indications, technical procedures and clinical trial details 
-of FMT for treating various conditions [55]. The panel also 
+of FMT for treating various conditions  The panel also 
 considered that, at the present time, FMT should be per-
 formed only in research settings for treatment of IBD, IBS 
-and metabolic syndrome [55]. Further research is needed to 
-establish the role of FMT for treating these disorders.
-
-Microbiome‑nutrient interactions 
-in the diseased gut LifeLines is a large prospective cohort study in The Neth-
-erlands that includes more than 165,000 individuals, rep-
-resenting three generations, with a proposed duration of 
-30 years. The study collects extensive data on participants 
-including demographic, biological and phenotypic infor-
-mation  including  genetic,  epigenetic  and  ‘omics’  data 
-(metabolomics, transcriptomics, proteomics), with a wide 
-range of biomaterials stored in a biobank. Subjects are 
-required to complete a questionnaire each year, and several 
-biomarkers are measured every 5 years [56]. LifeLines 
-Deep is a cohort of 1500 individuals within LifeLines for 
-whom multiple layers of omics information have been gen-
-erated including both 16S and whole genome metagen-
-omic sequence data [57]. At the time of the symposium, 
-full metagenomic sequence data was available from ~ 1600  population-based  individuals  including  approximately 
-1100 of the LifeLines DEEP population [57] and ~ 500 
-from the Functional Genomics Project [58, 59]. In addi-
-tion, two disease focused cohorts are also available includ-
-ing 380 patients with IBD and 400 patients suffering from 
-IBS [57, 60–63].
+and metabolic syndrome  Further research is needed to 
+establish the role of FMT for treating these disorders..
 
 Genetic analysis of the human gut microbiota is com-
 monly performed by high-throughput metagenomic sequenc-
 ing  and  taxonomic  profiling  following  analysis  of  16S 
-ribosomal RNA gene sequences [64]. Full metagenomic 
+ribosomal RNA gene sequences  Full metagenomic 
 sequencing of isolates enables not only taxonomic profil-
 ing, but also can gain insight at the strain level, and into 
 functional parameters such as metabolic pathways and other 
@@ -343,13 +96,13 @@ vidual factors that shape the microbiota on individual level.
 It is known that the overall diversity of the human gut 
 microbiota changes throughout life, increasing steadily from 
 birth until around 12 years of age, remaining relatively stable 
-throughout adulthood, and then declining in later years [65]. 
+throughout adulthood, and then declining in later years  
 In adults, 60–70% of the gut microbiome is stable, with the 
-degree of stability varying between phyla [66]. Infections, 
+degree of stability varying between phyla  Infections, 
 lifestyle and dietary changes cause microbiome instability, 
 producing major perturbations of the gut microbiome as 
 nicely shown in a high-resolution longitudinal study in two 
-individuals [67]. To study the role of the gut microbiome in 
+individuals  To study the role of the gut microbiome in 
 health and disease, the scientific world first must address the 
 question: what is a “healthy” microbiome and which factors 
 influence the gut microbiome composition. For addressing 
@@ -364,21 +117,7 @@ factors, 19 drug categories, 12 diseases, and 4 smoking cat-
 egories. Together, these factors accounted for 18.7% of the 
 observed inter-individual variation in the gut microbiome 
 with diet being a major modulator of gut microbiome vari-
-ation [63].
-
-Multiple  intrinsic  factors  that  were  associated  with 
-inter-individual variation in the gut microbiome included 
-chromogranin A, a member of the granin family of neu-
-roendocrine secretory proteins, stool frequency and Bristol 
-classification of stool type but interestingly also triglycer-
-ide concentrations. Age and high-density lipoprotein (HDL) 
-concentration were positively correlated with gut microbi-
-ome inter-individual variation [63]. In another study, our 
-group showed by performing a Mendelian Randomization 
-study that the human gut microbiota is an independent fac-
-tor for variation of blood lipid levels, accounting for 6% of 
-triglyceride, and 4% of HDL variance. In addition, we could  1 3S6  European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14 show that 4.5% of the variance in BMI is attributable to the 
-gut microbiome [68].
+ation .
 
 Analysis of the gut microbiome revealed that the use of 
 proton pump inhibitors (PPIs) was associated with a signifi-
@@ -392,7 +131,7 @@ ria including Enterococcus, Streptococcus, Staphylococcus
 genera and Escherichia coli. Results suggested that PPIs 
 diminished the gastric acid barrier, as species found in the 
 oral microbiome of PPI users were more abundant in the gut 
-than in non-users [61]. It is increasingly observed that the 
+than in non-users  It is increasingly observed that the 
 use of PPIs is associated with an increase in the incidence of 
 enteric infections like Clostridium difficile and Campylobac-
 ter. Given the profound effect of PPIs on the gut microbiome 
@@ -400,183 +139,100 @@ and the fact that over 11% of population in The Netherlands
 and other European countries are using PPIs on prescription 
 (not including over the counter use of PPIs) implies a major 
 PPI-dependent influence on the gut microbiome taxonomy 
-and function on a populational scale.
+and function on a populational scale..
 
-Effects of vitamins on the microbiome The human gut microbiota contains bacteria that are ben-
+The human gut microbiota contains bacteria that are ben-
 eficial to the host, and bacteria with pathogenic potential, 
-termed ‘pathobionts’ [69]. An important role of beneficial 
+termed ‘pathobionts’  An important role of beneficial 
 bacteria is the metabolic production of SCFAs by cross-feed-
-ing (Fig. 1). Fiber-degrading bacteria include Ruminococcus 
+ing . Fiber-degrading bacteria include Ruminococcus 
 callidus, Ruminococcus albus, Blautia obeum and Prevo-
 tella spp. which produce solubilized oligosaccharides and 
 polysaccharides that act as substrates for butyrate-producing 
 species such as Faecalibacterium prausnitzii, Eubacterium 
 rectale, Roseburia spp, Eubacterium hallii and Anaerostipes 
-spp [37]. Butyrate has multiple effects on the host including 
+spp  Butyrate has multiple effects on the host including 
 maintenance of gut barrier function by stimulating the pro-
-duction of mucin, antimicrobial peptides, and tight-junction  proteins and reducing colonic oxidative stress [70]. These 
-effects on gut barrier function are important for health as 
-changes in the mucosal barrier have been described in IBD 
-[71].
-
-Gut microbiota imbalance, or dysbiosis, is considered to 
-play a significant role in the pathogenesis of intestinal disor-
-ders such as IBD and IBS, and of extra-intestinal disorders 
-including allergies, asthma, type 1 diabetes, cardiovascular 
-disease, metabolic syndrome, and obesity [72]. Chemother-
-apy-induced mucositis which occurs in the mouth and gut 
-results from damage to the mucosal barrier and can result 
-in bacteremia, which is the abnormal presence of bacterial 
-in blood. It has been suggested that commensal intestinal 
-bacteria may play a key role in amelioration of inflamma-
-tion and bacteremia [51]. In a rat model of chemotherapy-
-induced mucositis, the number and diversity of the fecal 
-microbiota was substantially decreased, including anaerobes 
-and Streptococci, although there was a relative increase of 
-Bacteroides [73]. Supporting the beneficial anaerobic micro-
-biota during chemotherapy may, therefore, improve treat-
-ment and quality of life for cancer patients.
+duction of mucin, antimicrobial peptides, and tight-junction .
 
 Faecalibacterium prausnitzii is a Gram-negative obligate 
 anaerobe which is difficult to culture, and taxonomically is in 
-the Clostridia order of Firmicutes (Fig. 3). It is present in the 
+the Clostridia order of Firmicutes . It is present in the 
 gut of all healthy humans and may act as a biomarker of a 
-healthy gut [74]. Dysbiosis associated with CD is character-
-ized by reduced abundance of F. prausnitzii [75], with dysbi-
+healthy gut  Dysbiosis associated with CD is character-
+ized by reduced abundance of F. prausnitzii  with dysbi-
 otic ileal CD patients having a significantly lower abundance 
 of F. prausnitzii and a concomitantly increased abundance of 
-E. coli [76]. Mechanistically, animal experiments provide an 
-explanation for the increased abundance of E. coli in IBD as  Fig. 3   A  picture  of  the  Gram-stained  cells  of  Faecalibacterium 
-prausnitzii  growing  in  a  colony  inside  agar  seen  as  a  big  ball  at  the 
-left lower corner, chains of cells grow away from this colony [80]. A 
-typical single cell has the size of 3–5 µm in length and 1 µm in diam-
-eter. The bar represents 10 µm (Photo, M. Sadaghian Sadabad) 1 3European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14  S7 nitrate, which was generated as a byproduct of the inflamma-
+E. coli  Mechanistically, animal experiments provide an 
+explanation for the increased abundance of E. coli in IBD as .
+
+nitrate, which was generated as a byproduct of the inflamma-
 tory host response, selectively enhanced growth of E. coli in 
-the large intestine of mice [77]. Moreover, F. prausnitzii pro-
+the large intestine of mice  Moreover, F. prausnitzii pro-
 duces a 15 kDa anti-inflammatory protein that inhibits the 
 NF-κB pathway in intestinal epithelial cells and was shown 
-to prevent colitis in a mouse model [78].
+to prevent colitis in a mouse model .
 
 F. prausnitzii uses riboflavin (vitamin B2) as a media-
 tor for extracellular electron transfer, as demonstrated in a 
-microbial fuel cell system [79]. A Human oxygen-Bacteria 
+microbial fuel cell system  A Human oxygen-Bacteria 
 anaerobic (HoxBan) co-culture system has been developed 
 in which F. prausnitzii was cultured with adherent Caco-2 
 cells. Caco-2 cells promoted the growth and metabolism of 
 the anaerobic F. prausnitzii, while genes involved in inflam-
 mation and oxidative stress in Caco-2 cells were suppressed 
-by F. prausnitzii [80].
+by F. prausnitzii .
 
 Anti-oxidants  including  riboflavin  and  vitamin  C  are 
 being investigated as new targets for intervention for the 
 treatment of dysbiosis. A first pilot open-label study with 
 100 mg/day riboflavin showed indeed an increase in fae-
 calibacteria and a reduction in E. coli in most participants 
-[81]. The double-blind, parallel-group, placebo-controlled 
+ The double-blind, parallel-group, placebo-controlled 
 Ribogut  trial  is  currently  examining  the  effect  of  50  or 
 100 mg/day riboflavin administered to healthy volunteers 
 for 14 days on the gut microbiota composition with results 
-to be expected in 2018.
-
-Early‑life development of a healthy 
-microbiome The development of the perinatal gut microbiota is influ-
-enced by multiple factors including gestational age, mode 
-of delivery, maternal microbiota, infant feeding method, 
-genetics, and environmental factors such as the choice of 
-food.  Microbial  diversity  increases  dramatically  during  first months of infancy (Fig. 4). At birth, the microbiota is 
-aerobic, with low numbers and low diversity, with the most 
-common bacteria facultative anaerobes and members of the 
-Enterobacteriaceae phylum [82]. Within a few days, the gut 
-environment becomes anaerobic resulting in growth of bac-
-teria such as Bifidobacterium [82], which is the dominant 
-bacterium genus in the infant gut in the first months of life. 
-With the introduction of solid food, a more adult-like micro-
-biome starts to develop as of 6 months of life, dominated by 
-Firmicutes and Bacteriodetes [82].
-
-Factors  promoting  a  healthy  microbiota  in  neonates 
-include a vaginal delivery, delivery at term, breast feeding, 
-and exposure to a variety of microorganisms. In contrast, a 
-Caesarean section, premature delivery, formula milk, and 
-exposure to antibiotics have a negative impact on the diver-
-sity and composition of microbiota in infants [25, 83–85].
+to be expected in 2018..
 
 Preterm infants show delayed colonization of the gut 
 microbiota with Bifidobacterium, and have a high preva-
 lence of Enterobacteriaceae, Staphylococcus, and Enterococ-
-caceae [25]. Vaginally delivered neonates have an increased 
+caceae  Vaginally delivered neonates have an increased 
 prevalence of maternal microbiota derived from the vagina 
 and intestine (e.g. Lactobacillus, Prevotella and Sneathia) 
 compared with neonates delivered by Caesarean section. 
 Caesarean section delivered infants have a relatively high 
 prevalence of skin bacteria such as Staphylococcus, Propi-
 onibacterium and Corynebacterium compared to the ones 
-that are vaginally delivered [25,  84]. Maternal antibiotic 
+that are vaginally delivered  Maternal antibiotic 
 treatment that results in reduced utilization of human milk 
 and prolonged hospitalization normally causes an increased 
 prevalence of Proteobacteria, Firmicutes, Enterobacteriaceae 
 (E. coli and Klebsiella spp.), Staphylococcus, Propionibac-
-terium and Corynebacterium [25]. Feeding formula milk 
+terium and Corynebacterium  Feeding formula milk 
 is associated with increased bacterial diversity, increased 
 prevalence of Bacteroides fragilis, Clostridium difficile, and 
-E. coli, and a decreased prevalence of bifidobacteria [84].
-
-Fig. 4   Development  of  the  gut  microbiome  during  infancy.  The 
-development  of  the  infant  microbiome  is  dependent  on  various  fac-
-tors,  such  as  infant  feeding  method,  diet  and  the  environment.  Also, 
-the  mode  of  delivery  (either  vaginal  or  by  cesarean  section)  affects  the early life microbiome. Transfer of bacteria from the mother to the 
-fetus has also been shown, indicating that pregnancy may be impor-
-tant for colonization of the fetal/infant gut 1 3S8  European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14 As previously mentioned, dysbiosis in infancy is asso-
-ciated with an increased risk for immunological diseases 
-such as asthma, allergic rhinitis, type 1 diabetes and celiac 
-disease in addition to metabolic diseases, e.g. obesity and 
-type 2 diabetes [84, 85].
-
-Pregnancy is shown to alter the maternal gut micro-
-biota. In humans, dramatic changes in the gut microbiota 
-during pregnancy were described from the first to third tri-
-mesters with an overall increase in the relative abundance 
-of Proteobacteria and Actinobacteria, and with a reduced 
-richness with a decreased abundance of Firmicutes and 
-Bacteroidetes [86]. In C57BL/6 mice, pregnancy produced 
-significant increases in the relative abundance of genera 
-including  Akkermansia,  Bacteroides,  Bifidobacterium, 
-and Clostridium, in comparison to non-pregnant females. 
-Changes in the microbiota began at the onset of pregnancy 
-[87]. Pregnant Balb/c mice showed significant increases 
-in the relative abundance of Actinobacteria and Proteo-
-bacteria  compared  with  non-pregnant  littermates.  The 
-relative changes in gut microbiota of non-pregnant and 
-pregnant mice were strain-specific suggesting that genetic 
-background is an important determinant of the microbi-
-ome. The physiological changes that occur in pregnancy 
-produces  significant  changes  in  maternal  metabolism 
-necessary for supporting a healthy pregnancy [86]. The 
-mechanisms resulting in alteration of the microbiota dur-
-ing pregnancy are largely unknown, but it seems likely that 
-microbiome alterations during pregnancy are also impor-
-tant to support changes in maternal immune status and/or 
-hormonal changes [86, 88].
+E. coli, and a decreased prevalence of bifidobacteria .
 
 It has also been suggested that changes in the maternal 
 microbiota during pregnancy are important for fetal health, 
 since it has been shown that maternal microbiota can be 
-transferred to the fetus [89]. The transfer of microbiota from 
+transferred to the fetus  The transfer of microbiota from 
 the mother to the fetus can be observed in the meconium, 
-which in contrast to the earlier beliefs is not sterile [89]. The 
+which in contrast to the earlier beliefs is not sterile  The 
 microbiota of meconium has low diversity represented by 
 the Firmicutes (Staphylococcus, Enterococcus, and Bacilli), 
 Proteobacteria and Actinobacteria phyla, and low bacterial 
-cell numbers [90]. Variation in the microbiota of meconium 
-is affected by maternal diabetes status [91] and maternal 
+cell numbers  Variation in the microbiota of meconium 
+is affected by maternal diabetes status and maternal 
 gestational diet, with a high-fat diet producing pronounced 
 changes in neonatal meconium which persisted in infant 
-faces for up to 6 weeks of age [92].
+faces for up to 6 weeks of age .
 
 Direct evidence of transfer of maternal bacteria is derived 
 from experiments in mice, in which oral administration of a 
 genetically-labelled Enterococcus fecium strain to pregnant 
-mice, resulted in a subsequent detection in meconium [89]. 
+mice, resulted in a subsequent detection in meconium  
 Furthermore, experiments of microbial colonization of preg-
 nant germfree mice demonstrated that maternal microbiota 
 affects neonatal immune responses. Gestational coloniza-
@@ -586,7 +242,7 @@ lymphoid cells (ILC3), macrophages and dendritic cells, in
 addition to an effect on intestinal gene expression including 
 genes involved in pathways for sugar metabolism, epithelial 
 cell division and proliferation, and mononuclear cell func-
-tion [95].
+tion .
 
 It has become clear that the fetus and placenta are not 
 sterile and the transfer of bacteria occurs from mother to the 
@@ -597,22 +253,19 @@ may open a possibility to modulate the maternal microbi-
 ome during pregnancy, to optimize the development of the 
 fetal microbiome. Further studies on the role of the maternal 
 microbiome in development of the neonatal microbiome are 
-necessary.
+necessary..
 
 Preclinical studies have shown effects of the gut micro-
-biota on nociceptive reflexes [99], feeding, emotional and 
-social behavior [99], the stress response [99], and brain neu-
-rochemistry [100, 101]. The gut microbiota is essential for 
+biota on nociceptive reflexes  feeding, emotional and 
+social behavior  and brain neu-
+rochemistry  The gut microbiota is essential for 
 normal social development in the mouse and is implicated 
 in neurodevelopmental disorders including autism spectrum 
-disorder [102–104]. Germfree mice have an exaggerated 
+disorder  Germfree mice have an exaggerated 
 stress response compared with control animals. These mice 
 also exhibit increased motor activity and lower anxiety-like 
-behavior compared with control mice [105]. Administra-
-tion of the probiotic L. rhamnosus (JB-1) to mice reduced  1 3European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14  S9 stress-induced  corticosterone  levels  and  anxiety-related 
-behavior [101]. These data strongly highlight the importance 
-of the microbiome-gut-brain axis for normal neurological 
-development and function.
+behavior compared with control mice  Administra-
+tion of the probiotic L. rhamnosus (JB-1) to mice reduced .
 
 A  growing  number  of  placebo-controlled  RCTs  have 
 investigated the effect of probiotics on mood, cognition 
@@ -625,20 +278,19 @@ functional magnetic resonance imaging (fMRI), in response
 to an emotional faces attention task. Reduced fMRI reactiv-
 ity was found in interceptive and somatosensory regions of 
 the brain which control central processing of emotion and 
-sensation [108]. Probiotics containing Lactobacillus helveti-
+sensation  Probiotics containing Lactobacillus helveti-
 cus and Bifidobacterium longum showed beneficial psycho-
 logical effects in healthy human volunteers, with significant 
 improvements in several global tests including the reduction 
 of global psychological symptoms, depression and anxiety 
-[109]. A probiotic milk drink containing Lactobacillus casei 
+ A probiotic milk drink containing Lactobacillus casei 
 Shirota ingested by healthy volunteers had no effect on the 
 mood of the group overall, but improved mood in subjects 
 with low baseline mood, although an unexpected finding 
 was somewhat impaired performance on two memory recall 
-tests [110]. Consumption of a multispecies probiotic con-
-taining two Bifidobacterium spp and five Lactobacillus spp.  by healthy participants produced a significant reduction in 
-overall cognitive reactivity (negative thoughts) to sad mood 
-[111].
+tests  Consumption of a multispecies probiotic con-
+taining two Bifidobacterium spp and five Lactobacillus spp. .
+
 
 A link between the gut and brain function is supported by 
 additional human studies involving diseased or normal sub-
@@ -646,7 +298,7 @@ jects. Many alcohol-dependent subjects have alterations in
 their intestinal permeability and gut microbiome. Increased 
 intestinal permeability in these subjects was significantly 
 associated with higher scores of depression, anxiety, and 
-alcohol craving following 3 weeks of abstinence [112]. A 
+alcohol craving following 3 weeks of abstinence  A 
 placebo-controlled RCT of patients with major depressive 
 disorder showed that a probiotic containing two Lactobacil-
 lus spp. plus Bifidobacterium bifidum produced a significant 
@@ -654,40 +306,13 @@ decrease in Beck Depression Inventory total scores, sig-
 nificant decreases in serum insulin levels and serum high-
 sensitivity C-reactive protein (hs-CRP) concentrations in 
 addition to a significant increase in plasma total glutathione 
-concentrations [113]. A RCT of patients with Alzheimer’s 
+concentrations  A RCT of patients with Alzheimer’s 
 disease found that ingestion of a probiotic containing three 
 Lactobacillus spp. plus Bifidobacterium bifidum signifi-
 cantly improved the mini-mental state examination scores, 
 and produced significant changes in a range of metabolic 
 parameters including plasma malondialdehyde, serum hs-
-CRP and serum triglycerides [114]. Consumption of the 
+CRP and serum triglycerides  Consumption of the 
 prebiotic B-GOS, but not the prebiotic FOS, by healthy vol-
 unteers significantly reduced the salivary cortisol awakening 
-response when compared to placebo [115].
-
-It is clear that the gut microbiota is active, not passive, in 
-its relationship with its host. Microbial metabolites (such as 
-SCFAs) affect gut-brain signaling. The gut microbiota has a 
-regulatory role on anxiety, mood, cognition and pain which 
-is exerted via the gut-brain axis. In pregnancy dramatical  1 3S10  European Journal of Nutrition (2018) 57 (Suppl 1):S1–S14 changes of the maternal microbiota affects neonatal immune 
-responses and maturation.
-
-Acknowledgements  RKW is supported by a VIDI grant (016.136.308) 
-from the Netherlands Organization for Scientific Research (NWO).
-
-Author contributions  MHM wrote this manuscript. Individual sections 
-were corrected and complemented by RJMB, RAR, RKW, HJMH, 
-MF. All co-authors reviewed and approved the manuscript before 
-submission.
-
-Conflict of interest  MHM and ME are employees of DSM Nutritional 
-Products,  Kaiseraugst,  Switzerland  and  as  such  no  external  funding 
-was provided. HJMH received a research grand of DSM. RJMB, RAR, 
-RKW, MF declare no conflict of interest.
-
-Open Access  This article is distributed under the terms of the Crea-
-tive Commons Attribution 4.0 International License (http://creat iveco 
-mmons .org/licen ses/by/4.0/), which permits unrestricted use, distribu-
-tion, and reproduction in any medium, provided you give appropriate 
-credit to the original author(s) and the source, provide a link to the 
-Creative Commons license, and indicate if changes were made.
+response when compared to placebo 
