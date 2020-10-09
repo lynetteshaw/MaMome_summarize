@@ -1,0 +1,74 @@
+Microbiome  5:158 
+
+Page 2 of 19
+
+infant nutrition, and common clinical practices in neonatal
+care  We hypothesize that assembly and function
+of the preterm infants’ gut microbiota is associated with
+postnatal growth patterns and represents a yet unexplored
+personalized therapeutic potential for optimizing infant
+development. Microbiome  5:158 
+
+Page 3 of 19
+
+Consequently, we used gestational age at birth and PMA
+for our analyses. Testing the median dissimilarity revealed that it
+is significantly higher when the phase changed between
+consecutive samples than when it remained the same
+(p < 0.0001), suggesting discrete periods of community
+restructuring corresponding to phase transition. c Bar charts representing the average weighted UniFrac distance
+between consecutive samples of each individual infant. Samples for preterm infants
+include those collected weekly from birth through discharge. Phases 1
+and 2 are considered as binary outcome variables (yes/no) and are analyzed separately. For clarity, only significant associations are reported in this table. Full results are reported in Additional file 9: Table S8B
+
+Grier et al. While progression through the phases depends largely on
+PMA, we identified significant associations with nutri-
+tional factors, diuretics, and antibiotics. Increased protein and lipids during P1 are
+strongly associated with a higher growth rate. This may be due to our reliance on a clinical obser-
+vation of meconium clearance to more solid fecal
+material. Third, in both the phase- and period-based
+models, the abundance of several dominant infant gut
+microbiota taxa (e.g., Bifidobacterium) were signifi-
+cantly affected by gestational age at birth, PMA at sam-
+pling, total calories and proportions of macronutrients
+consumed at the week of sampling, and multiple clinical
+variables. Infants included in the study were from
+the multicenter Prematurity and Respiratory Outcomes
+Program (PROP) and the Respiratory Pathogens Research
+Center (RPRC) at the University of Rochester School of
+Medicine and were cared for in a single-center Newborn
+Intensive Care Unit (NICU). First, weight percentile was
+computed as the percentage of weight measures of a
+population of the same sex and age that fall below the
+observed weight value. If the resulting value is less than or equal to two,
+the gut microbiota is defined as being in phase two; other-
+wise, it is defined as being in phase one (P1). Microbiome  5:158 
+
+Page 15 of 19
+
+assessed at each taxonomic level using the metagen-
+omicsSeq zero-inflated Gaussian test  and the re-
+sults are summarized in Additional file 5: Tables S4A–C.
+Testing for differential functional capacity between the
+phases was performed using LEfSe with per-sample
+normalization to 1 M total counts, minimum effect size
+of 2.0, alpha of 0.1, an all-against-all strategy, and other-
+wise default parameters. The results are summarized in
+Additional file 6: Table S5. The
+DOL of the first phase 3 sample observed for each sub-
+ject and their gestational age at birth were used as covar-
+iates, and the total change in weight Z-score from birth
+to discharge was used as the outcome variable. Microbiome  5:158 
+
+Page 16 of 19
+
+their possible confounding effects. Number of Dirichlet components vs.
+model fit. Linear
+regression analysis of meconium samples and Phase 1 rectal samples. XLSX 109 kb)
+
+Additional file 5: Table S4. DOCX 14 kb)
+
+Additional file 10: Table S9. All authors read and approved the final manuscript. Ethics approval and consent to participate
+Written informed consent was obtained from a parent or guardian of all
+participating infants. 7Department of Pediatrics, Medical University
+of South Carolina, Charleston, SC, USA.

@@ -1,4 +1,4 @@
-19_PARAGRAPHS
+25_PARAGRAPHS
 
 Several studies have demonstrated modulation of colonic 
 microbiota by prebiotic inulin or inulin-type fructans. Real-
@@ -16,6 +16,13 @@ in feces, and reduced the abundance of Bilophila  Dif-
 ferences in selectivity for the fermentation of several car-
 bohydrate substrates (lactulose, galacto-oligosaccharides, 
 sugar beet pectin and apple fiber) were found between the .
+
+Bifidobacterium 
+Lactobacillus .
+
+Clostridium XIVa
+E. halli R. hominis
+Anaerostipes .
 
 Additional described effects of prebiotics include reduc-
 ing  toxins  produced  from  protein  metabolism  in  urine 
@@ -166,6 +173,12 @@ of F. prausnitzii and a concomitantly increased abundance of
 E. coli  Mechanistically, animal experiments provide an 
 explanation for the increased abundance of E. coli in IBD as .
 
+Fig. 3   A  picture  of  the  Gram-stained  cells  of  Faecalibacterium 
+prausnitzii  growing  in  a  colony  inside  agar  seen  as  a  big  ball  at  the 
+left lower corner, chains of cells grow away from this colony  A 
+typical single cell has the size of 3–5 µm in length and 1 µm in diam-
+eter. The bar represents 10 µm (Photo, M. Sadaghian Sadabad).
+
 nitrate, which was generated as a byproduct of the inflamma-
 tory host response, selectively enhanced growth of E. coli in 
 the large intestine of mice  Moreover, F. prausnitzii pro-
@@ -193,6 +206,17 @@ Ribogut  trial  is  currently  examining  the  effect  of  50  or
 100 mg/day riboflavin administered to healthy volunteers 
 for 14 days on the gut microbiota composition with results 
 to be expected in 2018..
+
+first months of infancy . At birth, the microbiota is 
+aerobic, with low numbers and low diversity, with the most 
+common bacteria facultative anaerobes and members of the 
+Enterobacteriaceae phylum  Within a few days, the gut 
+environment becomes anaerobic resulting in growth of bac-
+teria such as Bifidobacterium  which is the dominant 
+bacterium genus in the infant gut in the first months of life. 
+With the introduction of solid food, a more adult-like micro-
+biome starts to develop as of 6 months of life, dominated by 
+Firmicutes and Bacteriodetes .
 
 Preterm infants show delayed colonization of the gut 
 microbiota with Bifidobacterium, and have a high preva-
@@ -315,4 +339,16 @@ parameters including plasma malondialdehyde, serum hs-
 CRP and serum triglycerides  Consumption of the 
 prebiotic B-GOS, but not the prebiotic FOS, by healthy vol-
 unteers significantly reduced the salivary cortisol awakening 
-response when compared to placebo 
+response when compared to placebo .
+
+Ingestion of prebiotics or probiotics has been used to treat 
+a range of conditions including constipation, allergic reac-
+tions and infections in infancy, and in patients with IBS. 
+FMT is highly effective for treating recurrent Clostridium 
+difficile infections and may be used more widely in the future 
+for conditions such as metabolic syndrome..
+
+Conflict of interest  MHM and ME are employees of DSM Nutritional 
+Products,  Kaiseraugst,  Switzerland  and  as  such  no  external  funding 
+was provided. HJMH received a research grand of DSM. RJMB, RAR, 
+RKW, MF declare no conflict of interest.

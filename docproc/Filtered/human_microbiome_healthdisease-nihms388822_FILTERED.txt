@@ -1,4 +1,21 @@
-10_PARAGRAPHS
+11_PARAGRAPHS
+
+Among all mammals, the microbiota is extensively conserved at high taxonomic levels7, but
+variation increases at progressively lower taxonomic levels30. Consequently, 85% of the
+sequences obtained from the distal mouse gut represent genera that are not detected in
+humans31. Furthermore, intra-species variability of the microbiota within the human
+population is also substantial5, This degree of variation was unanticipated a priori. However,
+in retrospect, extensive taxonomic variation is unsurprising: a human harbours a climax
+population of about 1014bacterial cells, can host 105 – 106 bacterial generations per human
+generation, is omniverous, and has accumulated genetic and epigenetic diversity as a host
+species for >1 million years. Indicator organisms such as Helicobacter pylori32 and
+reptococcus mutans33 highlight some differences across the microbiota34 and
+S
+t
+metagenome35 among human ethnic groups; however, the extent of ethnic variation in
+overall metagenomic composition is unknown. The microbiomes of monozygotic twins are
+more closely related to one another than those of unrelated individuals36,37 but not strikingly
+so, indicating important post-natal influences on composition..
 
 The congruent phylogenies of mammals and their microbiota8 provide strong evidence for
 the inheritance of the microbiota7 Although inheritance of the microbiota from the father is

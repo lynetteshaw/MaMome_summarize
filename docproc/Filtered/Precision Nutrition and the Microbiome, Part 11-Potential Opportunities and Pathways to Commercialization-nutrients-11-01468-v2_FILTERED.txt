@@ -1,4 +1,4 @@
-40_PARAGRAPHS
+48_PARAGRAPHS
 
 Interventions involving probiotics, prebiotics, synbiotics and dietary ﬁbre also oﬀer opportunities
 to “fertilize” our microbiota. Probiotics are deﬁned as ‘live microorganisms, which when administered
@@ -17,6 +17,33 @@ combination of probiotics and prebiotics which act synergistically. Dietary ﬁb
 the human small intestine, and undergoes complete or partial fermentation in the large intestine” 
 or more simply as “any dietary component that reaches the colon without being absorbed in a healthy
 gut” .
+
+In a study involving 91 pregnant mothers of varying body mass index (BMI) and gestational diabetes,
+Koren et al. reported that the gut microbiota changes dramatically from the first trimester (T1) to
+the third trimester (T3) even though the diets and energy intake of participants did not change between
+sampling times. From T1 to T3, Proteobacteria significantly increased in 69.5% of women and Actinobacteria
+increased in 57% of women. As women progressed from T1 to T3, the number of operational
+taxonomic units (OTUs) became signiﬁcantly reduced and T1 samples had greater within-sample alpha
+phylogenetic diversity than T3 samples irrespective of pre-pregnancy BMI and health status. It has
+been suggested that the reduced alpha diversity in T3 may not be due to loss of species but rather
+lower relative abundance levels below the sequencing level of detection  The over-represented
+OTUs in T1 mainly belonged to the Clostridiales order of the Firmicutes and included butyrate
+producers such as Facalibacterium and Eubacterium  Members of the Enterobacteriaceae family and
+the Streptococcus genus were over-represented in T3 samples. It is speculated that the increase in
+butyrate-producing microorganisms in T1 could increase immunoregulatory T regulatory (T-reg) cells
+which may be involved in reducing maternal rejection of the foetal allograft  Interestingly, no
+correlations were found between the speciﬁc OTU abundance and the use of antibiotics, probiotics,
+diet, previous pregnancies or health markers  The results revealed that T1 microbial diversity is
+similar to the microbial diversity observed in non-pregnant women while T3 microbial diversity is
+aberrant and persists for one month postpartum. In T3 and just before transmission of the microbiota
+to the newborn, each mother has a “purely personal” microbiota which is suggested to have been
+selected at the level of each host lineage to ensure maximum development of the developing foetus
+and newborn  Transferring T3 microbiota to germ-free mice resulted in increased adiposity and
+reduced insulin sensitivity compared to T1 microbiota  The study indicates that the microbial
+changes which occur during pregnancy inﬂuence host metabolism and are beneﬁcial for that stage
+in life. It is suggested that such changes are driven by the immunological and hormonal changes
+which occur during pregnancy  However, a follow-up study conducted in 2015 investigating
+temporal and spatial variation of the human microbiota at four body sites (distal gut, vagina, saliva.
 
 It is known that excessive weight gain in pregnancy gives way to decreased glucose tolerance
 and potentially gestational diabetes mellitus (GDM)  GDM is associated with adverse
@@ -96,6 +123,33 @@ GG was found in stool samples of these infants up to three months of age
 suggest that since breastfeeding does not appear responsible for ongoing transfer of L. rhamnosus
 GG to infants, early transfer of L. rhamnosus GG may be suﬃcient to ensure stable colonization in
 the infant or alternatively children are receiving continued transfer of L. rhamnosus GG from their.
+
+mother via a diﬀerent route. However, infants from mothers who had consumed the probiotic milk
+and who did not develop atopic dermatitis during the two years follow-up had reduced T helper
+(Th) 22 cells at three months of age which may help explain the preventative eﬀects of maternal
+probiotic supplementation on atopic dermatitis  Consumption of a multistrain probiotic product
+(VSL#3) by women during late pregnancy and lactation resulted in a signiﬁcant increase in both
+lactobacilli and biﬁdobacteria in colostrum and mature milk in women who underwent vaginal delivery
+compared with the placebo group, however, analsysis of the bacterial strains and species revealed
+that the probiotic microorganisms did not pass from the maternal gut to the mammary gland 
+No signiﬁcant diﬀerences in biﬁdobacteria and Lactobacillus numbers were observed in colostrum
+and mature milk from mothers who underwent caesarian section from either the probiotic or placebo
+groups. The authors suggest that a systemic eﬀect may be responsible for the probiotic-dependent
+modulation of breask milk microbiota in vaginally delivering women..
+
+In the case of preterm infants, bacterial exposure occurs earlier than normal and antibiotics are
+frequently administered. Very preterm infants (<32 weeks) and extremely preterm infants (<28 weeks)
+are at signiﬁcant risk of sepsis, necrotizing enterocolitis (NEC), feeding intolerance and mortality 
+The preterm infant microbiota has been shown to be lacking in the health-promoting Biﬁdobacterium
+species and as a consequence of antibiotic administration can be dominated by Enterobacteriaceae,
+Enterococcus and Staphylococcus and has
+an increased abundance of Proteobacteria  In a study investigating the distortions in intestinal
+microbiota development and late onset sepsis in preterm infants, Mai et al. reported that distortions
+rather than enrichment of potential pathogens were associated with late-onset sepsis. Likewise, no
+speciﬁc pathogen has been identiﬁed as responsible for NEC but inappropriate colonisation of the
+preterm gut has been deemed the causative factor  Preterm infants with NEC have been reported
+to harbour increased relative abundances of Proteobacteria and decreased relative abundance of
+Firmicutes and Bacteroidetes prior to the onset of NEC .
 
 Prebiotics have also proven eﬃcacious for preventing adverse health outcomes in preterm infants.
 A meta-analysis involving 18 randomized controlled trials consisting of 1322 participants revealed that
@@ -242,6 +296,31 @@ have been pinpointed as the main microbial shifts associated with ageing in mice
 reductions were observed in Oscillospira (positively associated with leanness and health  and
 the sulphate-reducing Desulfovibrio following L. rhamnosus GG with soluble corn ﬁbre consumption,
 whereas only Desulfovibrio decreased following intake of L. rhamnosus GG PB12 with corn ﬁbre..
+
+In order to better understand the impact of exercise on the gut microbiota, Estaki et al. 
+analysed the microbiota of healthy individuals with varying levels of ﬁtness and reported that
+cardiorespiratory ﬁtness correlated with increased microbial diversity in healthy humans. Six weeks of
+endurance exercise by overweight women was reported to alter the gut metagenome with an increase in
+the health-promoting Akkermansia and a decrease in Proteobacteria  Notably, diets did not change
+during the six weeks control period before the exercise intervention or during the six-week exercise
+period. Despite the changes to the gut microbiota, systemic metabolites and body composition were not
+greatly aﬀected. Likewise, ﬁve-weeks of endurance exercise by elderly men was found to signiﬁcantly
+decrease the relative abundance of C. diﬃcile and signiﬁcantly increase Oscillospira which correlated with
+beneﬁcial changes in several cardiometabolic risk factors  Changes in food intake did not diﬀer
+between control and exercise periods. Allen et al. reported that six weeks of endurance exercise
+increased faecal SCFA concentrations in lean but not obese participants and the metabolic changes
+were associated with changes in bacterial taxa and genes capable of producing SCFAs. Interestingly,
+the exercise-induced changes were reversed when exercise ceased. While these studies demonstrate
+the beneﬁcial impacts of exercise on the gut microbiota, exercising to the point of exhaustion may
+induce detrimental changes  For example, intense military training undertaken by soldiers for
+four days resulted in increased intestinal permeability and changes in microbiota composition which
+included increased alpha diversity and an increase in the abundance levels of potentially pathogenic
+taxa (e.g., Staphylococcus, Peptostreptococcus, Peptoniphilus, Acidaminococcus, and Fusobacterium) at the
+expense of several taxa thought to protect against pathogen invasion (e.g., Bacteroides, Faecalibacterium,
+Collinsella, and Roseburia)  the impact of exercise on the
+gut microbiota may depend on the intensity and duration, however other confounders should also
+be considered including diet, nutrient intake and body composition parameters, a topic that requires
+further investigation..
 
 Interestingly, probiotic supplementation in the form of Lactobacillus casei Shirota to men and women
 (n = 32) involved in endurance-based physical activities for four months of the winter signiﬁcantly
@@ -408,6 +487,9 @@ microbiota from healthy humans and healthy breast-fed infants. The authors propo
 of probiotics oﬀers a deﬁned, reproducible, safe and convenient alternative to faecal transplantations
 for the treatment of SAM in children..
 
+Furthermore, it is important to mention that probiotic-mediated beneﬁcial eﬀects may not require
+live cells. Indeed, Plovier et al. reported that a puriﬁed membrane protein from Akkermansia.
+
 Parnell and Reimer investigated the impact of daily oligofructose supplementation 
 in healthy adults with BMI > 25 for 12 weeks in a double-blind, placebo-controlled trial. Compared
 to the control group, which experienced an increase in weight gain  the prebiotic
@@ -440,6 +522,46 @@ lower fasting insulinemia and homeostasis model assessment (indicator of insulin
 to the placebo group  The following species were signiﬁcantly increased in the prebiotic group
 at the end of the three months, Biﬁdobacterium adolescentis, Biﬁdobacterium pseudocatenulatum and Bif.
 longum, the latter of which negatively correlated with serum lipopolysaccharide and endotoxin..
+
+In humans, increased ﬁbre intake has been shown to improve certain metabolic parameters
+associated with obesity and its co-morbidities, such as serum cholesterol levels, particularly in
+conjunction with energy-controlled dietary regimes. For example, in overweight and obese adults
+(BMI = 25 to 45), daily consumption of two portions of whole-grain ready-to-eat oat cereal (3 g/day
+oat β-glucan) as part of a reduced energy dietary programme (~500 kcal/day deﬁcit) with regular
+physical activity for 12 weeks proved more eﬀective than an energy-matched low ﬁbre diet for
+reducing LDL cholesterol levels (P = 0.005), total cholesterol (P = 0.038), and non-HDL cholesterol
+(P = 0.046)  While weight loss did not diﬀer between groups, there was a signiﬁcant diﬀerence
+in waist circumference as a result of eating the high ﬁbre diet, resulting in a loss of ~3.3 cm versus
+only ~1.9 cm on the low ﬁbre diet (P = 0.012). Daily consumption of whole grain wheat bread by
+Japanese subjects (BMI ≥ 23) for 12 weeks resulted in a signiﬁcant reduction in visceral fat area (−4 cm2)
+which was not observed in subjects consuming reﬁned white bread  Similarly, whole grain wheat
+consumption in conjunction with an energy restricted diet for 12 weeks by post-menopausal women
+resulted in a greater reduction in body fat percentage (−3.0%) compared to consumption of reﬁned
+wheat (−2.1%)  While serum total and LDL cholesterol increased by ~5% in the reﬁned wheat
+group (P < 0.01), they did not change in the whole wheat group. Body weight decreased signiﬁcantly
+for both groups but did not diﬀer between groups. Consumption of the recommended intake levels
+of dietary ﬁbre and fat in obese and overweight (BMI = 30.7) pregnant women positively associated
+with gut microbiota richness whereas high fat with low ﬁbre and low carbohydrate consumption
+associated with signiﬁcantly lower gut microbiota richness  The richer gut microbiota correlated
+with lower maternal inﬂammatory status. In another study involving overweight and obese pregnant
+women, low ﬁbre intake was found to increase the genus Collinsella in the gut microbiota, which is
+positively associated with circulating insulin  The low ﬁbre diet was also associated with a
+gut microbiota favouring lactate fermentation, whereas the high ﬁbre diet was associated with SCFA
+producing bacteria..
+
+Salonen et al. reported that high microbiota diversity before dietary intervention with
+resistant starch or non-starch polysaccharides associated to low dietary responsiveness of the microbiota.
+Similarly, obese individuals with low microbial gene richness (low microbiota diversity) in their initial
+faecal microbiota showed a greater microbiota response in terms of gene richness to a weight loss
+diet compared to obese individuals represented by high microbial gene richness in their initial
+microbiota  However, individuals with high gene richness showed a more marked improvement
+in systemic inﬂammation and adipose tissue following the intervention suggesting that gene richness
+could provide a predictive tool towards intervention eﬃcacy in relation to inﬂammatory variables.
+Tap et al. also reported that low OTU microbiota richness was associated with a greater microbiota
+change over time following a large increase in dietary ﬁbre in healthy adults for 6 weeks
+whereas high OTU microbiota richness at baseline proved more stable upon high dietary ﬁbre
+intervention and was associated with high proportions of Prevotella and Coprococcus species and a
+higher Prevotella:Bacteroides ratio..
 
 Indeed, a number of studies have reported associations between the abundances or lack of
 abundance of speciﬁc species and the responsiveness of the microbiota and the host to dietary
@@ -501,6 +623,17 @@ individuals consuming calorie-restricted plant-rich diets (termed CRON) and the 
 lacked many bacterial lineages representative of CRON. Interestingly, transplanting AMER microbiota
 into gnotobiotic mice and feeding them the CRON diet resulted in community conﬁgurations but
 which were weaker than their CRON counterparts. Placing the AMER communities into a model.
+
+Non-caloriﬁc artiﬁcial sweeteners (NAS) were developed to provide sweet taste to foods without
+the high-energy content of calorie-rich sugars. However, Suez et al. reported that long-term
+consumption of commonly used NAS in humans signiﬁcantly and positively correlated with several
+metabolic syndrome-related clinical parameters including measures of central adiposity, higher
+fasting blood glucose, higher haemoglobin A1c%, and higher measures of impaired glucose tolerance.
+Moreover, statistically signiﬁcant positive correlations were found between multiple taxonomic entities
+and long term NAS consumption including the Enterobacteriaceae family, the Deltaproteobacteria class
+and the Actinobacteria phylum. In order to determine if the relationship between blood glucose control
+and NAS consumption was causal, Suez et al. followed seven healthy volunteers (who did not
+normally consume NAS in any form) who consumed the FDAs maximum acceptable daily intake of.
 
 saccharin for 5 days. Four of the seven individuals developed signiﬁcantly
 poorer glycemic responses 5–7 days after NAS consumption. Interestingly, the microbiome of NAS

@@ -1,4 +1,4 @@
-8_PARAGRAPHS
+9_PARAGRAPHS
 
 rates of cell turnover in germ-free animals compared with wild-type animals13. Gut bacteria
 have been shown to direct the glycosylation of lumenally-exposed surface proteins of the
@@ -44,6 +44,45 @@ benefits. Supporting this, germ-free animals show reduced antigen-specific syste
 immune responses to S. typhimuirum23. These studies support the idea that enteric pathogens
 such as S. typhimurium may have developed strategies to counter both the immune system
 and the microbiota during the infectious process..
+
+IBD involves a shift from a regulated intestinal immune responses to one that is driven by
+unrestrained immune-cell activation and pro-inflammatory cytokine production474849. The
+cause of this increase in immune stimulation is of great interest, and several lines of
+evidence indicate a significant role for commensal bacteria in the progression of disease 50.
+Patients with IBD respond favorably to antibiotic treatment and fecal diversion, and have
+greater antibody titers against indigenous bacteria than unaffected individuals51,52,53. In
+addition, inflammatory lesions are more pronounced in areas of the intestine that contain the
+greatest number of bacteria. The data in animal models provide further evidence for the
+involvement of gut bacteria in IBD. Pre-treatment with antibiotics has been shown to
+alleviate intestinal inflammation in several animal models54,55. HLA-B27-transgenic rats,
+interleukin-10 (IL-10)-and IL-2-deficient mice spontaneously develop chronic colitis,
+whereas germ-free animals of all backgrounds fail to develop intestinal inflammation56,57,58.
+In a model of disease induced by the adoptive transfer of pathogenic T cells into
+immunodeficient (Scid−/− or Rag−/−) recipient mice, colonization of animals with intestinal
+pathogens such as Helicobacter hepaticus was found to exacerbate inflammation59.
+Moreover, pathogenic T cells can be transmitted to healthy animals through the adoptive
+transfer of T cells that are reactive against specific commensal organisms50,60. The only
+organism reported to be strongly associated with Crohn's disease is adherent-invasive E.coli
+(AIEC)61. However, it appears that inflammatory responses during human and experimental
+IBD are directed towards certain subsets of commensal organisms with pathogenic potential
+such as Helicobacter, Clostridium and Enterococcus species. Curiously, these organisms are
+abundant commensals, and not typically infectious pathogenic agents. As the microbiota of
+all mammals contains these potentially harmful species, known as pathobionts (commensals
+with pathogenic potential), the reason why inflammation ensues only in subjects affected by
+IBD is not entirely known. Genetic factors play an important role in the pathogenesis of
+IBD. This is demonstrated by familial aggregation of IBD and increased concordance for
+IBD in monozygotic twins. Genome wide association studies have identified genetic defects
+which are highly linked to disease. Mutations in bacterial sensing (NOD2/Card15)62 and T
+cell immunity (IL-23R)30 have highlighted the connection between microbes and
+inflammation in IBD. Additionally, experimental systems have demonstrated the importance
+of host genetics during induction of IBD. Indeed, microorganisms such as E.coli and E.
+faecalis, that do not initiate disease in an immunologically competent host, do so when
+introduced into genetically pre-disposed strains 63. Some have predicted that IBD, at least in
+part, results from an imbalance in the normal microbiota (termed dysbiosis) without
+acquisition of an infectious agent64. It remains unclear whether dysbiosis directly causes
+disease or is a result of the altered intestinal environment. Future studies using animal
+models whereby the microbiota can be selectively manipulated during the course of
+experimental disease may begin to address this important issue..
 
 In the early 1900s, Ilya Mechnikov was the first to propose the use of live microorganisms
 to maintain bowel health and prolong life. Now, the term ‘probiotic’ is used to describe

@@ -1,0 +1,95 @@
+Number of taxa at different ranks
+
+Taxonomy
+
+No. The taxa (and hence the tests) are nested, and no
+attempt is made to correct for multiple tests. The RDP SeqMatch tool is a k-nearest-neighbor
+(k-NN) classiﬁer  It uses a word-matching strategy not requiring alignment to
+determine the percentage of shared seven-character words between a query and
+members of a database of sequences. Aligned 16S rRNA sequences were selected at the RDP
+website and analyzed using the RDP Tree Builder tool. Tree Builder incorporates branch-order conﬁdence estimation using 100 boot-
+strap samples. A user can submit one sequence or a group of sequences for classiﬁ-
+cation. Users can navigate through
+the hierarchy by clicking on the various taxa. Clicking on the “show assignment
+detail” link will display the detailed classiﬁcation results for all or a speciﬁed
+subset of the user’s queries. Results can be downloaded in a text format
+and imported into a spreadsheet program for further analysis. These sequences formed the Bergey corpus. These
+sequences are classiﬁed into 1,187 genera in the NCBI taxonomy  Initial
+placement into the NCBI taxonomy is based on information provided by the
+sequence submitter, with modiﬁcations by the NCBI staff. The sequences aver-
+aged 1,454 bases in length. Classiﬁer accuracy versus bootstrap conﬁdence
+for the Bergey corpus
+
+Length of
+segment
+(bases)
+
+Full
+400
+200
+100
+50
+
+% of correct classiﬁer assignments within a
+bootstrap conﬁdence range of a:
+
+100–95% 94–90% 89–80% 79–70% 69–60% 59–50%
+
+98.0
+98.3
+98.2
+97.4
+94.9
+
+66.4
+86.1
+90.1
+89.8
+83.9
+
+69.2
+75.9
+83.0
+82.5
+76.8
+
+41.8
+65.4
+75.6
+75.6
+67.9
+
+46.2
+61.1
+64.6
+64.7
+59.5
+
+34.7
+49.2
+55.7
+55.6
+49.7
+
+a Bootstrap conﬁdence reﬂects the frequency of most common assignments
+out of 100 bootstrap samplings. For each of the 393 near-full-length sequences misclassiﬁed
+at the genus level, we determined the distance to other mem-
+bers of the Bergey corpus by calculating the pairwise identity
+between sequences using the corresponding aligned sequences
+from the RDP website. performed based on the default conﬁdence threshold of 80%. Taxa with signiﬁcant differences in representation are
+marked. The comparison results can also be displayed in a table sorted by
+signiﬁcance. The process was
+repeated for all sequences in the corpus. For these se-
+quences, the (obviously) incorrect genus assignment was not
+considered in the summary statistics, but the results were in-
+cluded for higher ranks containing other genera with valid
+training sets . (B) Average bootstrap conﬁdence estimate for each segment. For many such users, a complete and thorough
+phylogenetic analysis may not be an option. For shorter sequences, classiﬁcation conﬁdence was greatly
+improved by using the bootstrap to estimate classiﬁcation re-
+liability (Table 2). SeqMatch misclassiﬁed only
+A. acidoterrestris. These regions likely account for
+both the increased accuracy for and the broadened peaks
+around these variable regions. The online
+version of the Classiﬁer returns results for submissions of up to
+10,000 user sequences in a few minutes and provides both
+summary and detailed classiﬁcation assignments.

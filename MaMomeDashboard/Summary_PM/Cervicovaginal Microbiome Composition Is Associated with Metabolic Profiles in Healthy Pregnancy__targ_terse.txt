@@ -1,0 +1,26 @@
+The human vaginal microbiome maintains low diversity in low-pH conditions and
+depends on host sugars as carbon sources, with less access to dietary and exogenous
+nutrients than the gut, skin, or oral cavity. While some
+individuals exhibited a relatively stable microbial community over time, others 
+experienced shifts in composition, resulting in a statistically signiﬁcant change in
+Bray-Curtis dissimilarity on PC axis 1 between trimesters ..
+
+FIG 2 Legend (Continued)
+absence of fungi, at the genus level, per sample. Indole-3-lactate (ILA) accounted for
+27% of the variation observed in the vaginal microbiota data and was found to be more
+abundant in vaginal microbiota with abundant L. crispatus . Detected
+ions by MALDI were compared to those identiﬁed by GC-MS and LC-MS, and we found
+that (cid:4)55% of the metabolites identiﬁed had corresponding ions in the MALDI analysis
+(Table S1)..
+
+Metagenomics and functional potential of communities. Indeed,
+L. crispatus has been shown to have anti-Candida activity of
+samples that were Candida positive came from individuals whose vaginal microbiota
+were dominated by an organism other than L. crispatus..
+
+A few metabolites were highly indicative of the bacterial community present in each
+subject and may be useful biomarkers for the type of vaginal microbiota present. To this end, reducing fructose 6-phosphate to
+mannitol-1-phosphate may be an alternative and vital way L. crispatus regenerates
+NAD(cid:5) for glycolysis  We did ﬁnd the gene mannitol-1-phosphate dehydroge-
+nase, responsible for converting fructose 6-phosphate to mannitol-1-phosphate, was
+highly correlated (R2 (cid:2) 0.9) with the relative abundance of L. crispatus.

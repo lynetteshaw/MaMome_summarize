@@ -1,4 +1,4 @@
-11_PARAGRAPHS
+12_PARAGRAPHS
 
 Lactobacillus crispatus  CTV-05  (Lactin-V,  Osel) 
 is  a  live  biotherapeutic  product  that  contains  a 
@@ -108,6 +108,14 @@ pants  with  detectable  L.  crispatus  CTV-05,  the
 median  concentration  in  the  Lactin-V  group 
 ranged from 1.7×106 to 6.2×106 CFU per millili-
 ter during the treatment phase through week 12 .
+
+Figure 2. Median Concentration and Incidence of Detectable Lactobacillus 
+crispatus CTV-05 in the Lactin-V Group, According to Trial Visit.
+I bars indicate maximum and minimum values, the horizontal lines inside the 
+blue bars indicate median values, and the diamonds indicate mean values. 
+(The circles below the blue bar at week 4 represent outliers.) The size of each 
+blue bar represents the interquartile range. CFU denotes colony-forming 
+units..
 
 There were no apparent associations between 
 the detection of L. crispatus CTV-05 at week 12 or 

@@ -1,0 +1,66 @@
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al. Postpartum,
+irrespective of the mode of delivery, the vaginal
+microbiota resembled that of a gastrointestinal microbiome, likely due to microbial
+mixing during the birthing process  suggesting that both vaginal and gastrointes-
+tinal microbial seeding of the neonate occurs. RESULTS
+
+Description of the cohort and data obtained from samples. Saliva, urine, and
+cervical vaginal ﬂuid (CVF) were collected from 18 women at early, middle, and late
+pregnancy with the gestational age range of the included women at each time point
+. Vaginal microbiota support high abundances of Lactobacillus and Biﬁdobacte-
+riaceae throughout pregnancy. Twelve samples from seven subjects produced ITS2 sequences ; we do not
+have quantitative data characterizing the abundance of bacterial or fungal biomass. B) Some participants 
+experienced large, signiﬁcant shifts (LME; P (cid:2) 0.0219) in their microbiomes throughout the trimesters of pregnancy. The ﬁve subjects with Candida detected in at least one of two longitudinally paired
+samples displayed a signiﬁcant increase in intersample Bray-Curtis dissimilarity in their
+bacterial proﬁles over that interval (e.g., the intervals between trimester 1 to 2, 2 to 3,
+or 1 to 3), suggesting the presence of Candida may be associated with greater shifts in
+bacterial composition than those who had no Candida detected . The CVF metabolome as
+assessed by both mass spectrometry methods did not signiﬁcantly differ across trimes-
+ters (LME; P (cid:2) 0.6378 for GC-TOF MS; P (cid:2) 0.3942 for liquid chromatography-tandem
+mass spectrometry [LC-MS/MS]). Metagenomics and functional potential of communities. Maternal and infant saliva and urine metabolomes were assessed with both GC-TOF MS
+and LC-MS/MS (lipidomics) in order to study the relationship between maternal and
+infant metabolomic compositions during early life (see Fig. The infant metabolome for saliva and urine
+had little variance attributed to which subject donated the sample, but GC-TOF MS was
+able to detect a signiﬁcant change between the infant urine metabolome at birth
+versus 6 and 12 months of age (PERMANOVA; R2 (cid:2) 34%; P (cid:2) 0.0007; Table S2). We aim to establish
+how the metabolome develops in the ﬁrst year of life and how maternal-infant saliva
+and urine metabolomes relate. The largest differences between functional
+capacity appeared to be between communities where L. crispatus or G. vaginalis were
+the most abundant bacterial taxon. Further, metabolomic analysis of
+our CVF samples failed to capture signiﬁcant levels of the mannitol precursor fructose;
+however, previous studies have indicated an appreciable amount of fructose within the
+cervical mucus of humans and the capability of L. crispatus to utilize fructose as a
+carbon source  We speculate that this high extracellular mannitol abundance
+phenotype may underlie the cell’s need to regenerate NAD(cid:5) for use in glycolysis. Our data showed that metabolite intensities obtained by GC-TOF MS were more tightly
+correlated with microbial community composition than those obtained by lipidomics,
+perhaps indicating that GC-TOF MS is more effective at detecting microbial metabolites
+than lipidomics, especially during pregnancy. Strikingly, the ability of lipidomics to differentiate mothers from
+
+July/August 2020 Volume 11 Issue 4 e01851-20
+
+mbio.asm.org 11
+
+Downloaded from 
+
+http://mbio.asm.org/
+
+ on September 9, 2020 by guest
+
+Oliver et al. Generally, these 18 women and their children
+represented healthy subjects with the most complete sample sets. Samples were collected at each trimester of pregnancy for women and through-
+out the ﬁrst year of life for infants. A minimum of 2 ml of urine was collected. Prior to processing, samples were thawed from (cid:7)80°C storage. Surface rasterization was oversampled using a 75-(cid:2)m step size. Although DNA was extracted from
+CVF, attempts to extract DNA from saliva were unsuccessful, potentially due to the storage swabs
+trapping the biomaterial. Paired sequencing reads with a minimum overlap of 25 bp were merged using FLASH v1.2.11. The speciﬁc programs used in PRIMER-e were permutational multivariate analysis of variance
+(PERMANOVA) and distance-based linear models (DISTLM), the former of which calculates the signiﬁ-
+cance and variance explained by a given factor and the latter determines which environmental variables
+correlate with the biological (microbiome) data. Traditional R2
+values were also calculated by dividing the sum of squares by total sum of squares. LMEs were carried
+out as described above; R2 values for linear mixed models were calculated using the MuMIn package in
+R were used to compare GC-MS and LC-MS data. Bray-Curtis
+distances were used for all distance-based analyses. Ethics approval and consent to participate. Metabolomics data for all samples can be found in Table S1. We declare that we have no competing ﬁnancial interests.

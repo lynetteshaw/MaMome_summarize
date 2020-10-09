@@ -1,0 +1,29 @@
+Even though they have limitations
+like all other models, they present some important
+immunological and histopathological aspects of IBD in
+humans  The most widely used and characterized
+experimental model of erosion and inﬂammation related
+to UC in mice is the dextran sulphate sodium (DSS)-
+induced colitis, which is developed by DSS administration
+either in the drinking water or via intragastric
+catheter  The DSS induces a reproducible
+acute colitis  however, there is some controversy
+regarding the type of inﬂammation that is induced. The aim of the present study was to utilize Illumina
+sequencing of the 16S rRNA gene and inferred meta-
+genomics by open source software PICRUSt (Phyloge-
+netic Investigation of Communities by Reconstruction of
+Unobserved States  to investigate differences in
+microbiome composition and function in the fecal and
+colonic mucosa of mice treated with 5% DSS for 5 days. The PCR reaction for each
+sample was performed in duplicate and contained 1.0 ml
+of pre-normalized DNA, 1.0 ml of each forward and
+reverse primers  12 ml HPLC grade water (Fisher
+Scientiﬁc, Ottawa, ON, Canada) and 10 ml 5 Prime Hot
+MasterMix (5 Prime,
+Inc., Gaithersburg, MD, USA). (cid:1) 2016 WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim
+
+www.jbm-journal.com
+
+J. Basic Microbiol. b) Colonic mucosal bacterial diversity is not different between
+colitic and non-colitic samples, suggesting that both sample groups had similar bacterial species richness and evenness. Partial least square discriminant analysis (PLS-DA) of bacterial communities comparing taxa that were associated with the control or
+DSS treatments in the mice’s (a) fecal samples and (b) colon mucosal samples.

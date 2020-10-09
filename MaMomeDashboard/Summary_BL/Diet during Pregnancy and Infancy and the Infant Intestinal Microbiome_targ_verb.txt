@@ -1,0 +1,32 @@
+In unadjusted analyses of 4 genera selected a priori based
+on prior literature suggesting associations with early diet and
+health outcomes,7-10,22-25 we found that high maternal intake
+of vegetables and low intake of processed meats and deep fried
+foods was inversely associated with Bacteroides spp (decrease. These differences remained after adjustment for de-
+mographic and other dietary variables. Results were similar after adding solid foods and
+maternal diet as covariates to the adjusted model..
+
+30.5 ± 7.40, P = .001, respectively; Table IV). Significant (P <.05) results are in bold. The PC 1 of maternal diet during pregnancy was dichotomized at its mean for comparisons of low and high groups, and used as a continuous variable in regression models. Mean, SD for normally distributed variables (Shannon index, Richness). Linear regression was used in analyses of Shannon Index, and richness and negative binomial regression was used in analysis of bacterial counts. b coefficients of bacterial counts represent a
+difference in the log count, formula fed is reference. *Demographic variables: treatment, mode of delivery, age, maternal education, and race/ethnicity of child. †Dietary variables: infant breastfeeding vs formula feeding and infant solid food. ‡Dietary variables: infant solid food and first principal component of maternal diet (high in vegetables and low in processed meats and deep fried foods). Excluding race/ethnicity
+from the model, the interaction between breastfeeding status
+and maternal education was not signiﬁcant for either
+Biﬁdobacterium spp (P = .45) or Lactobacillus spp (P = .73),
+further supporting stronger associations of microbial differ-
+ences by infant diet group with race/ethnicity than maternal
+education..
+
+We identiﬁed signiﬁcant differences in relative abun-
+dances of taxa between breastfed and formula- fed infants in
+adjusted analyses stratiﬁed by race/ethnicity (Figure 3 and
+Table VI; available at www.jpeds.com). We note overlap and heterogeneity in the response
+to breastfeeding among the top associations among taxa and
+diet. The strongest associations we identi-
+ﬁed were between breastfeeding vs formula feeding and the child
+intestinal microbiome. In analyses stratiﬁed by race/ethnicity, we found
+positive associations between ingestion of breast milk (vs
+formula) and relative abundances of Lactobacillus spp in African
+American and Hispanic infants, and with Staphylococcus spp
+in Hispanic subjects. Comparison of our ﬁndings with those of other studies is
+not straightforward due to different ages studied, variable mi-
+crobial proﬁling methods, and heterogenous analytic tech-
+niques.

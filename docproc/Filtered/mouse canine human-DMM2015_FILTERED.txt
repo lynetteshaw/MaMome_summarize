@@ -1,4 +1,4 @@
-11_PARAGRAPHS
+18_PARAGRAPHS
 
 Presence of haustrum and taenia coli in the colon .
 
@@ -28,7 +28,7 @@ externa; TC, taenia coli. Panels B and C are reproduced from “Comparative
 anatomy and histology: A mouse and human atlas” by Piper M. Treuting and
 Suzy Dintzis, 2012, with permission from Elsevier. D is reproduced from the
 website http://theses.ulaval.ca/archimede/fichiers/24866/ch07.html with the
-author’s permission. E is re-used from  with the
+author’s permission. E is re-used from www.anatomyatlases.org with the
 author’s permission. .
 
 At  the  cellular  level,  there  are  also  a  number  of  notable
@@ -48,6 +48,15 @@ location differences, the amount of defensins (peptides involved in
 the host defense) secreted by Paneth cells, their storage and secretion
 were  also  reported  to  be  different  between  mice  and  humans.
 
+In these datasets, we found 79 genera occurring in both human
+and mouse gut microbiotas. The relative abundances of most of the
+dominant genera in mouse and human are quite different (Fig. 3A;
+supplementary material Table S1). Genera with high abundance in
+human  gut  microbiota,  as  compared  to  mouse  gut  microbiota,
+include Prevotella, Faecalibacterium and Ruminococcus, whereas
+Lactobacillus,  Alistipes and  Turicibacter are  more  abundant  in
+mouse  gut  microbiota  (supplementary  material  Table  S1)..
+
 Clostridium, Bacteroides and Blautia, on the contrary, have a similar
 relative  abundance  in  both  organisms.  However,  none  of  the
 differences  found  between  human  and  mouse  gut  microbiota
@@ -64,6 +73,19 @@ is  known  to  be  low  in  mouse  gut  microbiota  (Hildebrand  et  al.,
 members  in  healthy  gut  microbiota  in  humans,  as  it  has  been
 suggested to be the marker for anti-inflammatory gut microbiota in
 IBD patients in remission (Sokol et al., 2008; Sokol et al., 2009)..
+
+Recently, a study by Krych et al. identified about 80 genera that
+are shared between mice and humans (with abundance threshold set
+to  0.19%  to  filter  out  variations  due  to  sequencing  method  or
+sequencing depth) (Krych et al., 2013), a number that is very similar
+to  the  79  found  in  our  meta-analysis.  The  authors  proposed  that
+multiple genera are present exclusively in the human gut microbiota:
+Faecalibacterium,  Mitsuokellla,  Megasphera,  Dialister,
+Asteroleplasma,  Succinivibio,  Sutterella,  Paraprevotella and
+Phascolarctobacterium, with Mucispirillum being the only genus
+exclusive to mice (Krych et al., 2013). However, as a case in point,
+Faecalibacterium was found in the mouse gut microbiota datasets
+from Ward (Ward et al., 2012), Riboulet-Bisson (Riboulet-Bisson et.
 
 of  human  gut  microbiota  is  still  a  matter  of  debate  (Ding  and
 Schloss, 2014; Koren et al., 2013), a consensus on their usefulness
@@ -167,6 +189,80 @@ as  of  Clostridium  coccoides and  Bifidobacterium (Sokol  et  al.,
 E. coli) (Duboc et al., 2013; Joossens et al., 2011; Willing et al.,
 2009; Willing et al., 2010)..
 
+Increasing numbers of mouse models have been created and used
+in  IBD  research,  with  the  aim  of  mimicking  the  disease’s
+pathophysiology in humans. In general, these models were created
+by  introducing  genetic  modifications  in  mice  that  resemble  the
+genetic  defects  of  IBD  patients,  or  by  relying  on  external
+disturbances to induce disease. The latter include biological agents,
+such as infective pathogens (for example, Helicobacter hepaticus
+and Citrobacter rodentium), or chemicals, such as dextran sulfate
+sodium  (DSS)  and  2,4,6-trinitrobenzene  sulfonic  acid  (TNBS),
+which  cause  the  initial  damage  that  leads  to  chronic  intestinal
+inflammation  (Peloquin  and  Nguyen,  2013;  Wirtz  et  al.,  2007).
+However, most mouse models of colitis do not fully recapitulate the
+pathophysiology of human IBD and generally only cause colonic
+inflammation , which is more similar to ulcerative colitis
+(reviewed in Wirtz and Neurath, 2007 and discussed further below).
+Despite this, the major gut microbiota shifts that have been observed
+in  different  colitis  mouse  models  are  similar  to  those  found  in
+human  IBD  studies.  In  these  models,  gut  bacterial  diversity  was
+found to be reduced, with certain shifts in gut microbiota profiles
+in  Enterobacteriaceae
+being  observed,  such  as .
+
+(Escherichia), Bacteroidaceae (Bacteroides) and Ruminococcaceae
+(Berry et al., 2012; Lupp et al., 2007; Wohlgemuth et al., 2009).
+However,  the  reduction  in  the  anti-inflammatory  bacterium
+Faecalibacterium prausnitzii, which is observed to occur in many
+human IBD studies, was not observed in murine colitis models. In
+addition, Akkermansia was found to be reduced in abundance in a
+human  ulcerative  colitis  study  (Vigsnæs  et  al.,  2012),  but  was
+increased in the DSS-induced mouse model (Berry et al., 2012).
+Mouse studies have also detected changes in abundance of bacterial
+phylotypes that solely happen in mice, such as of Tenericutes and
+Deferribacteriaceae (Nagalingam et al., 2011). Conversely, changes
+in the diversity of TM7 phylotypes (Kuehbacher et al., 2008) or in
+the abundance of Roseburia (Willing et al., 2010) were found only
+in human Crohn’s disease studies. Vereecke et al. recently developed
+a mouse model prone to spontaneous colitis (Vereecke et al., 2014),
+while  studying  A20  –  an  inhibitor  of  both  NF-κB  and  apoptotic
+signaling that has previously been associated with susceptibility to
+IBD  in  humans  (Catrysse  et  al.,  2014;  Ma  and  Malynn,  2012).
+Deleting  A20  in  intestinal  epithelial  and  myeloid  cells  in  mice
+(A20IEC/myel-KO) induced intestinal epithelial apoptosis, Paneth and
+goblet  cell  loss,  and  gut  microbiota  dysbiosis.  The  latter  was
+characterized  by  a  reduced  bacterial  diversity  and  altered
+composition as compared with wild type. Furthermore, the mouse-
+specific  genus  Mucispirillum was  significantly  increased  in
+A20IEC/myel-KO mice  and  was  thus  suggested  as  a  biomarker  for
+spontaneous colitis in this model. Interestingly, mucosal expression
+levels  of  A20  in  humans  have  been  put  forward  as  a  prognosis
+marker  for  response  to  anti-TNF  treatment  in  IBD  patients
+(Vereecke et al., 2014)..
+
+Furthermore, dietary variations between humans represent a large
+potential source of gut microbiota inter-individual variation, which
+would not be detected in lab mice under uniform chow diet. For
+instance, the Prevotella enterotype is known to be sensitive to diet
+changes and is linked to a high carbohydrate/fiber diet in humans
+(De Filippo et al., 2010; Liu et al., 2012; Willing et al., 2010; Wu et
+al.,  2011).  In  both  mouse  (Neyrinck  et  al.,  2011)  and  human
+(Fernandez-Raudales et al., 2012; Wu et al., 2011) gut microbiota
+studies,  the  abundance  of  Prevotella was  found  to  change  upon
+dietary  intervention.  Furthermore,  Wang  et  al.  have  shown  that
+hosting wild mice in a laboratory environment on chow diet causes
+a shift in enterotypes, from the original Bacteroides-dominated (with
+microbial metabolism more dedicated to protein degradation) to the
+Robinsoneilla-dominated 
+to  carbohydrate
+degradation) enterotype (Wang et al., 2014)..
+
+by  bacteria  on  hosts  with  different  genetic  backgrounds.  For
+example, Wos-Oxley et al. found that Clostridiales bacteria colonize
+the gut of humanized rats more efficiently than that of humanized
+mice (Wos-Oxley et al., 2012)..
+
 most of the models show inflammation/lesions in the large, instead of
 the small, intestine, which more closely resembles ulcerative colitis
 symptoms (Peloquin and Nguyen, 2013). Moreover, the development
@@ -178,4 +274,42 @@ do not develop colitis in germ-free conditions (Hudcovic et al., 2001)].
 The  concern  is  not  only  that  symptoms  are  not  concordant  with
 human IBD, but that the underlying mechanism, such as the cross-talk
 between the immune system and the gut microbiota, might not be the
-same in the mouse model being used.
+same in the mouse model being used..
+
+al., 2012). Specifically, humanized rat models have a more similar
+Firmicutes:Bacteroidetes ratio to human donors and could represent
+the human donor better than could germ-free mouse models. This
+difference  is  thought  to  be  due  to  the  fact  that  the  rat  has  a
+microbiota  that  is  more  similar  to  humans  than  mice  do,  thus
+facilitating the establishment of the inoculated microbiota (Wos-
+Oxley  et  al.,  2012).  Furthermore,  it  was  hypothesized  that  the
+differences  between  mice  and  rats  in  recapitulating  the  human
+donors’  microbiota  is  due  to  the  intrinsic  differences  in  genetic
+backgrounds of the recipient models, which might control for the
+establishment of the transferred microbiota (Wos-Oxley et al., 2012).
+Another non-murine rodent model that has been employed in gut
+microbiota  research  is  the  guinea  pig.  Given  the  homology  that
+exists between human and guinea pig E-cadherin, a transmembrane
+adhesion protein that locates to the intestinal surface, this animal has
+become an important model for studying infection by the human
+pathogen Listeria monocytogenes. Because a healthy commensal
+intestinal microbiota affects the potential for infection by a pathogen
+(pathogen exclusion), the gut microbiota of guinea pigs has been
+investigated in several studies (Hildebrand et al., 2012; Yanabe et
+al., 2001). For example, in the study by Yanabe et al., germ-free
+guinea  pigs  were  inoculated  with  combinations  of  cecal  content
+from conventional guinea pigs to determine efficient cocktails to
+establish a healthy SPF colony (Yanabe et al., 2001). The authors
+found  that  the  transferred  microbiota  became  similar  to  the  gut
+microbiota of conventional guinea pigs and stayed stable over a long
+period.  More  recently,  another  study  employed  metagenomic
+approaches to compare the gut microbiota composition of humans
+and guinea pigs (Hildebrand et al., 2012). The study revealed that
+humans  and  guinea  pigs  share  dominant  bacterial  phyla,  but  the
+abundance  of  these  common  phyla   is
+significantly  higher  in  guinea  pigs  as  compared  to  humans.  In
+addition, significant differences in abundance were found across 320
+out of 376 genera. Functional categories, such as metabolism or cell
+membrane  biogenesis,  also  differ  significantly  in  abundance
+between the human and guinea pig gut microbiome (Hildebrand et
+al., 2012).

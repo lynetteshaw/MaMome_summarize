@@ -1,0 +1,104 @@
+Hullar and Fu
+
+Page 2
+
+Here, we present below examples of the role of the microbiome in dietary metabolism, an 
+overview of eukaryotic epigenetic mechanisms, and microbially-derived metabolites that are 
+relevant to eukaryotic epigenetic changes in gene expression that may be linked to colon 
+cancer. Diet shapes the microbiome
+
+Diet helps shape the composition of the intestinal microbiota. The children in Burkina Faso consumed a diet high in fiber and 
+non-animal protein whereas the European children consumed a diet higher in refined 
+carbohydrates and animal protein. Epigenetics refers to heritable changes in gene activity that are not caused by changes in the 
+DNA sequence.19 Regulation of gene expression can occur through post translation 
+modification of the amino acids in histone proteins, by methylation of DNA, and at the post-
+transcriptional level by miRNAs.20
+
+Histone proteins are involved in tightly packing chromosomes into chromatin in the nucleus. Post-translational modifications of the N-termini of histone 3 or histone 4, 
+occur by acetylation, methylation, ubiquitination, phosphorylation, or sumoylation. HATs catalyze the addition 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01. In cancer cells, patterns of histone 
+modifications and methylation differ from normal cells. Hypermethylation of genes involved 
+in pathways identified as the hallmarks of cancer: cell cycle regulation, DNA repair, 
+apoptosis, hormone response, carcinogen metabolism, angiogenesis and metastases are 
+found in several human cancers 2, 23-26
+
+Methylation of DNA in the coding region of a gene, especially the conversion of cytosine to 
+5-methylcytosine, leads to CpG dinucleotides that affect expression of target genes. miRNAs regulate post-transcriptional expression by either 
+imperfect base-pairing to mRNA or by affecting mRNA stability. Each miRNA controls 
+several genes in related pathways. Microbial metabolism of dietary fiber to SCFA
+
+The main types of dietary carbohydrate that escape digestion in the small intestine are 
+resistant starches, non-starch polysaccharides, and oligosaccharides primarily from plants. only derived 28%.41 In addition, different 
+sources of carbohydrates produce different amounts of butyrate ranging from 56% with 
+pectin to 90% for xylan. Butyrate 
+is present in high concentrations in the lumen and is transported into eukaryotic gut 
+epithelial cells.47 In the colon crypts, there is a decreasing concentration gradient of butyrate 
+from the lumen to the bottom of the crypt. Butyrate can then accumulate in the nucleus where it functions as an HDAC inhibitor and 
+inhibits cell proliferation and induces apoptosis. This may be due to 
+differences in response among eukaryotic cell lines or effects of other SCFA. Previous studies have 
+shown that certain species of bacteria, such as Escherichia coli, Bacteroides 
+thetaiotaomicron, Enterococcus faecalis, Enterococcus faecium, Peptostreptococcus sp. and 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 5
+
+Bifidobacterium sp., Further studies in wild-type and APC 
+Min/+ mice showed that a single dose of SFN reduced HDAC activity and increase histone 
+acetylation in colonic mucosa.63 Additionally, SFN has been identified as a DNA 
+demethylating agent in breast cancer cell lines although this has not been verified in colon 
+tissue.64
+
+Polyphenols represent a wide variety of phytochemicals that are divided into several classes 
+according to their chemical structures. However, epidemiologic studies show inconsistent results 
+when evaluating green tea consumption in relation to colon cancer risk.66-70 This is in part 
+due to differences in tea consumption habits and failure to account for other factors, such as 
+alcohol consumption or tobacco smoke, which may modify the effect of green tea 
+consumption on health.71, 72 A recent study found that green tea consumed at least three 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01. In parallel, Kemperman et al found that there were dramatic shifts in the 
+composition of the microbiome with continual polyphenol dosing, although it is difficult to 
+directly link the disappearance of valerolactones to specific bacteria.75 These studies suggest 
+that diet may alter the microbiome, which in turn alters dietary exposure and down-stream 
+host response. Enterohepatic circulation of urolithins and ellagic acids alters 
+host exposure to these compounds, and there is large between person variation in urolithin 
+production.83 Recent studies suggest that bacteria from the C. coccoides group and 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01. Ellagitannins
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 7
+
+Dietary fats
+
+Polyunsaturated Fatty Acids
+
+Actinobacteria are involved in the production of urolithins.83, 84 Specifically, urolithin D 
+was produced followed by urolithin C and urolithin B, and was associated with an increase 
+in Bifidobacteria spp and Lactobacillus spp. Bile is secreted from the gall bladder into the small intestine to help emulsify fats 
+during digestion. Most of the bile acids are absorbed in the ileum and delivered back 
+to the liver. Listed below are two examples of microbial metabolism of fats 
+that may influence epigenetics. Azoxymethane (AOM) tumor 
+induction in rats fed either fish showed that the 
+fish oil intervention produced fewer tumors and the lowest number of differentially express 
+miRNAs.95 The anaerobic bacteria, Roseburia, Bifidobacteria, and Lactobacillus, found in 
+the distal gut, metabolize 3ω LC-PUFA from dietary intake to conjugated linolenic (CLnA) 
+acids.96, 97 Although 3ω LC-PUFA are not produced by bacteria, the availability of 3ω LC-
+
+Cancer J. Author manuscript; available in PMC 2015 May 01. Summary and Future Directions
+
+Acknowledgments

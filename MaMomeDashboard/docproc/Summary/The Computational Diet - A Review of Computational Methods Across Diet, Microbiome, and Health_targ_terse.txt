@@ -1,5 +1,0 @@
-Example: Metagenomic analysis of feces samples tells us that Person A has 5 reads mapped to
-bacterium Escherichia coli, while person B has 10. Can we conclude that this bacterium is more
-populated in the gut of person B compared to person A? Answer: No, read counts cannot be
-compared across samples. Solutions: (I) Convert read counts to relative abundances before comparison. ( II) If an optimization
-problem is deﬁned using read counts, add constraint for total counts per sample.

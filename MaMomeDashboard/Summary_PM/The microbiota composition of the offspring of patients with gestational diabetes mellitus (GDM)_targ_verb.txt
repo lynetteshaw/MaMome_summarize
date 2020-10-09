@@ -1,0 +1,31 @@
+The possibility of early modulation of the offspring gut microbiota by acting on specific
+maternal factors and/or characteristics is of potential great interest. Nevertheless, only few
+data are available about the associations between maternal characteristics and newborn micro-
+biota pattern. In order to reduce the noise, each oligotype should appear in at least 10 samples,
+occur in more than 1.0% of the reads for at least ten samples, represent a minimum of 750
+reads in all samples combined, and have a most abundant unique sequence with a minimum
+abundance of 50. A cladogram of representative sequences was generated using the ANVIOs
+software . Two out of 29 women were treated with insulin;
+none received metformin. In multiple regression analyses, a significant association
+between breastfeeding and the relative abundance of Bifidobacterium in the infant gut micro-
+biota was found (β = 22.9; 95%CI = 10.1–35.7; P = 0.0017)..
+
+In order to explore the possible mother-to-infant gut microbiota transmission at sub-OTUs
+level, we carried out oligotyping on sequences of Blautia, Bacteroides and Bifidobacterium
+since these were the only genera showing a Shannon entropy index sufficient to identify all. A high degree of mother-offspring concordance was found for B11
+(P = 0.008) and B42 (P<0.001); both were identified as Blautia wexlerae by best BLASTn
+match. A reduction in the relative abundance of Bacteroides oligotypes was observed across
+pregnancy while few oligotypes were observed to be dominant in the offspring samples
+(S4B Fig)..
+
+The gut microbiota of our offspring was compared with those of 19 breastfed infants from
+healthy normoglycemic women. Accord-
+ingly, these bacteria have been detected in the feces or meconium of full-term newborns in
+several studies . The Clostridiales order includes several genera and in particular Roseburia and. Faecalibacterium prausnitzii, both butyrate-producing bacteria with beneficial functions,
+which have been found to be reduced in GDM women . Distribution of representative Bifidobacterium oligotypes in the offspring samples. Distribution in representative Blautia (plot A) and Bacteroides (plot B) oligotypes. Inner bars indicate the presence of an oligotype
+in a given sample. Outer circle, if colored, denotes oligotype abundance with high degree of
+mother-offspring concordance. Amenta, Clara Monzeglio, Roberto Gambino, Simona Bo..
+
+Investigation: Valentina Ponzo, Ilario Ferrocino, Adriana Zarovska, Maria Bernadette
+Amenta, Filomena Leone, Clara Monzeglio, Marianna Pellegrini, Roberto Gambino,
+Simona Bo.

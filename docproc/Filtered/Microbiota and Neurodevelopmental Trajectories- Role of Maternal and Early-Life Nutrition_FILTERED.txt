@@ -1,4 +1,4 @@
-5_PARAGRAPHS
+7_PARAGRAPHS
 
 Microbiota and Neurodevelopmental Trajectories Ann Nutr Metab 2019;74(suppl 2):16–27DOI: 10.1159/000499144Dynamics of the Maternal Microbiota during 
 Pregnancy
@@ -56,10 +56,44 @@ GOS administration attenuated corticosterone release in
 response to an acute stressor and protected the mice from 
 the impact of chronic stress on the microbiota  .
 
+Preliminary  clinical  trials  of  probiotic  interventions 
+have  yielded  promising  results  with  regard  to  reducing 
+the risk for gastrointestinal problems, sepsis, allergies and 
+even autism spectrum disorder and attention deficit hy-
+peractivity disorder  Several groups have now 
+shown that early probiotic interventions mitigate the ef-
+fects of early-life stress, maternal high-fat diet and mater-
+nal immune activation on infant outcomes  
+Oral administration at weaning of Bifidobacterium fragi-
+lis ameliorates the abnormal stereotyped and anxiety-like 
+behaviours  of  the  maternal  immune  activation  mouse 
+model of autism  Probiotic administration during 
+adolescence  restores  social  interaction-induced  long-
+term potentiation in an animal model of social impair-.
+
 ment by maternal high-fat diet exposure  In mater-
 nally separated rat pups, a combination of Lactobacillus 
 rhamnosus and Lactobacillus helveticus reduced pup cor-
 ticosterone  responses  to  stress  and  normalized  fear  be-
 haviour  Another probiotic, Bifidobacte-
 rium  infantis,  normalized  behavioural  deficits  in  adult 
-rats exposed to maternal separation  
+rats exposed to maternal separation  .
+
+Early-Life Stress
+The impact of stress on the development of the HPA 
+axis has been shown to contribute to the programming of 
+brain  health  in  later  life    Interestingly,  evidence 
+from preclinical studies shows that early-life stress also 
+alters  the  microbiota.  Maternal  separation  during  early 
+life  disrupted  the  microbiota  of  the  offspring  of  rhesus 
+monkeys and rats  Interestingly, a diet contain-
+ing  prebiotics  in  combination  with  live  Lactobacillus 
+rhamnosus GG attenuated the effects of early-life mater-
+nal separation on anxiety-like behaviour and hippocam-
+pal-dependent learning  Germ-free mice were more 
+vulnerable to restraint stress, resulting in higher adreno-
+corticotropic hormone and corticosterone in plasma [14, 
+16], a reduction in glucocorticoid receptor mRNA and an 
+increased stress response  Remarkably, these effects 
+were rescued with microbiota transplantation during ad-
+olescence but not adulthood 

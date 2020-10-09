@@ -8,15 +8,17 @@ import os
 import csv
 
 noart = [""]
-articles = tuple(os.listdir("../MaMomePDFs"))
+articles = tuple(sorted(os.listdir("../MaMomePDFs")))
 
 st.title("MaMome Summaries Dashboard")
 article = st.selectbox("Article", articles)
 
+bert_type = st.sidebar.selectbox("BERT used", ("General", "MSR PubMed"))
 sum_length = st.sidebar.selectbox("Summary Length", ("Default", "Terse","Verbose"))
 sum_type = st.sidebar.selectbox("Summary Source", ("Targeted", "Full"))
 st.sidebar.markdown("---")
 show_raw = st.sidebar.checkbox("Show Raw Text")
+
 
 if sum_length == "Default":
     if sum_type == "Targeted":
@@ -34,10 +36,16 @@ else:
     else:
         suffix = "_full_verb"
 
+
+
 summary_name = article[:-4] + suffix + ".txt"
 
-with open("../docproc/Summary/" + summary_name, "r") as f:
-    summary = f.read()
+if bert_type == "General":
+    with open("Summary_BL/" + summary_name, "r") as f:
+        summary = f.read()
+else:
+    with open("Summary_PM/" + summary_name, "r") as f:
+        summary = f.read()
 
 st.markdown("## Summary")
 st.write(summary)

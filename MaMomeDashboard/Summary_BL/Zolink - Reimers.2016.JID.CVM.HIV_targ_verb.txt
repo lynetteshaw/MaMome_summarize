@@ -1,0 +1,43 @@
+the commonality that relates both BV and vaginal pH to HPV
+infection (independent of HIV) is the RA of certain Lactobacil-
+lus species, most notably L. crispatus. Distribution of relative abundance (RA) of Lactobacillus species..
+
+concurrent multitype infection by HPV, while accounting for
+the intraindividual correlation of the repeated observations. Histograms of Lactobacillus species as a group (Fig-
+ure 1) and individual species suggested similar cut points of
+low (<7.5%), medium RA. All covariates except study group were time
+dependent. The average age of participants was 32.1 years, and by
+design all subjects were African American and premenopausal
+(see “Methods” section). Figure 2 displays a heat map of the RA data for the 25 most
+abundant genera or species and how they cluster within each
+CST. These models adjusted for HIV study group, time-updat-
+ed covariates, and intra-individual correlations between repeat-
+ed cross-sectional measures of association with prevalent HPV
+(see “Methods” section). While CST I (L. crispatus dominated)
+had an inverse association with detection of any HPV and espe-
+cially with any oncogenic HPV, the relationship was of border-
+line statistical signiﬁcance (eg, odds ratio [OR] for oncogenic
+HPV was 0.30 [95% conﬁdence interval {CI},
+.08–1.11];
+P = .07). Last, in an exploratory analysis, we used continuous-time
+multistate Markov models ﬁt using maximum likelihood meth-
+ods to assess whether transition to a CST dominated by L. crisp-
+atus was associated with a change in the risk of incident
+detection of HPV (ie, HPV type[s] not found in any earlier
+CVLs from the same woman). IV-B, lowa Lactobacillus
+I, L. crispatus. Abbreviations: BV, bacterial vaginosis; CI, confidence interval; OR, odds ratio. a“Low” and “medium” denote the relative abundance of Lactobacillus species and L. iners, respectively. Thus, high D-lactic acid levels but not acidity per se could be
+associated with reduced infection and/or transmission of
+certain viruses, including HPV..
+
+While production of H2O2 has been observed in the major-
+ity of L. crispatus isolates, prior data from our group suggest
+that the levels of H2O2 produced are likely too limited to great-
+ly affect the risk of STIs  especially HPV infection, since
+HPV is a nonenveloped virus and, therefore, likely to be resis-
+tant to H2O2. Bacteriocins are riboso-
+mally synthesized antimicrobial peptides and proteins 
+Relatively little has been written regarding the bacteriocins
+produced by cervicovaginal Lactobacillus species, with most
+of the bacteriocin literature to date focused on Lactobacillus
+species inhabiting the gut. L. crispatus has additionally been
+noted to have potential immunomodulatory activity.

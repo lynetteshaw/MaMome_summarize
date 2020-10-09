@@ -1,0 +1,50 @@
+IAP treat-
+ment was shown to have more of an impact on the developing
+microbiome than direct exposure to antibiotics  This study
+reported higher proportions of Leuconostaceae 
+and Micrococcaceae and Propionibacteriaceae 
+in infants born to antibiotic-treated mothers. Microbial signals in early life shape the repertoire of immune cell development in the BM. A child’s immune system can be modulated by microbial
+signals at various stages in development. This has been shown to impact the immune cell repertoire in the intestine and may affect susceptibil-
+ity to intestinal pathogens. ( Although the factors mediating emergency myelopoiesis
+have been characterized in some detail (see below), the reg-
+ulation of steady-state hematopoiesis by the normal microbiota
+remains less well understood. Nevertheless, recognition of
+microbe-associated molecular patterns (MAMPs) is likely to be
+important; indeed, intestinal colonization of germ-free mice
+with a combination of E. coli, Staphylococcus xylosus, and
+Enterococcus faecalis stimulates myelopoiesis in a MyD88 and
+TRIF–dependent manner  Although it was unclear what
+cell types mediated this response, one possibility is that it
+reﬂects regulation of secondary mediator production by in-
+testinal enterocytes stimulated by MAMPs from the com-
+mensal bacteria. This would be consistent with experiments
+showing that epithelial cell–derived CXCL5 can regulate the. The identity of the organisms mediating the effects of the
+steady-state microbiota on hematopoiesis is largely unknown,
+as are many of the mechanisms that might alter these processes
+during pathogenic infection or after treatment with antibiotics. As a result, the host mice were less able to
+regenerate leukocytes following BM ablation with 5-ﬂuoro-
+uracil. Importantly, the BM phenotype could be rescued by treat-
+ment with the antibiotic vancomycin, suggesting the in-
+volvement of Gram-positive organisms, and it could be
+phenocopied by transferring microbiota from mice fed the
+high-fat diet to normal mice, suggesting a causative role for
+the microbiota in mediating the hematopoietic changes. Similarly, Ver-
+rucomicrobia are Gram-negative and increased during van-
+comycin treatment; in contrast to Proteobacteria, members of
+this phylum, such as Akkermansia muciniphila, promote a
+healthy gut, possibly through colonizing the outer mucous
+layer and producing SCFAs  In contrast, Actinobacteria
+are Gram-positive and depleted by vancomycin treatment. Exactly which bacteria may be playing a role is not clear,
+because Actinobacteria are the third most dominant bacterial
+phylum in humans and can be pathogens, like Mycobacterium,
+or commensals, such as Biﬁdobacterium. Allergic
+airway inﬂammation could be suppressed in mice receiving a
+normal diet by the administration of propionate or acetate
+alone, prompting the investigators to look for changes in
+immune cells. They found that exogenous administration of
+the microbial metabolite propionate led to alterations in he-
+matopoiesis, with a reduction in macrophage and dendritic
+cell (DC) precursors in the BM. In addition, newly differ-
+entiated DCs expressed lower levels of MHC class II and
+costimulatory molecules and were less effective at reactivating
+effector Th2 cells.

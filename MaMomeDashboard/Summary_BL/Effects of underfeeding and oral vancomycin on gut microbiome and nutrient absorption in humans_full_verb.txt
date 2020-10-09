@@ -1,0 +1,40 @@
+Following screening, participants were admitted and placed on a WMD. Dual-energy X-ray absorptiometry (DXA) scan was 
+performed on day 2 and OGTT on day 4 of admission. Following the UF/OF phase, participants were on WMD for 2 d then on 
+consecutive days underwent OGTT (day 16) measurement of 24-h energy expenditure in a whole-room indirect calorimeter (day 17) and measurement of 
+fasting ANGPLT4 and heparin-induced measurement of LPL (day 18). Taken together, the causal evidence from multiple animal model 
+studies  and  largely  correlative  or  retrospective  data  from  human 
+cohorts  led  us  to  further  investigate  the  role  of  the  human  gut 
+microbiome  in  nutrient  absorption. In total, 
+we screened 51 potential participants, of which 27 initiated and 25 
+completed the study (Extended Data Fig. d, Mean transit time, expressed in hours, during OF (n = 25) and UF (n = 23). Δ indicates the mean difference between groups (UF versus OF). Participants who started the dietary phase with OF are represented by red dots, while those who started 
+with UF are represented by white dots. Overall 
+microbial diversity was also relatively stable throughout the 16 d of 
+phase I ; however, there was significant increase in diver-
+sity on the final day of UF relative to the final day of OF (P = 0.04, 
+paired  Wilcoxon  test). a, Mean of 3-d food intake (kcal d−1) in the vancomycin (n = 11) and placebo 
+(n = 13) groups. Taken 
+together,  these  results  indicate  the  overall  resiliency  of  the  gut 
+microbiota faced with differences in caloric intake while also high-
+lighting  a  small  number  of  diet-responsive  bacterial  species  that 
+could contribute to the observed differences in nutrient absorption. Finer-level  analysis  of  sequence  variants 
+demonstrated  several  discrete  clusters  of  bacteria  across  different 
+phyla that were altered in the vancomycin-treated group (Extended 
+Data Fig. In  contrast,  we  found  significant  differences  in  the  abundance  of 
+760 of a total of 3,553 Kyoto Encyclopedia of Genes and Genomes 
+(KEGG)  functional  orthologs  (KEGG  Orthology)  (FDR < 0.1, 
+Supplementary  Table  9)  between  vancomycin  and  placebo,  con-
+sistent  with  the  widespread  changes  in  gut  microbial  community 
+structure . These mea-
+surements were performed before and following each intervention. Deoxycholic acid, a secondary bile acid, also significantly 
+decreased following both interventions . Plasma  LPS  and  zonulin  concentrations  did  not  change 
+during  vancomycin  or  placebo  administration. 7);  or  
+glucose tolerance or insulin concentrations (Extended Data Fig. This increase in stool calorie loss 
+during UF and vancomycin administration occurred despite differ-
+ent effects on the gut microbiota. Based on our results, we would estimate 
+that the gut microbiome harvested an additional ~2.5% of absolute 
+ingested calories under the conditions used for our study cohort. Subjects are split by diet order (n = 11 OF → UF and n = 9 UF → OF). Colors indicate diet; each point represents a single sample (n = 156 samples). Diet order  
+in panels a, g and h is indicated by color: red, OF first; gray, UF first. Each data point represents the mean value 
+of samples from each subject (n = 63 samples from 23 subjects). The sample size for each intervention refers to the volunteers who had available 
+measurements of butyrate and/or deoxycholic acid concentrations. In vitro studies show that 
+butyrate and other short-chain fatty acids stimulate intestinal barrier 
+formation, inducing protection against disruption from LPSs47. We  do  acknowledge  several  limitations.

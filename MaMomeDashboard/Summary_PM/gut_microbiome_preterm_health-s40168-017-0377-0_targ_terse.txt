@@ -1,0 +1,34 @@
+Variance and abundance of taxa across three microbiota
+phases
+Taxonomic analysis of all samples identified 16 phyla, 38
+classes, 73 orders, 158 families, and 383 genera. The most significantly differentially abundant taxa between
+P2 and P3 were a variety of Clostridiales elevated in P3, in-
+cluding the genera Veillonella, Finegoldia, Clostridium, and
+Anaerococcus. Changes in
+taxa abundance would suggest adaptation of the micro-
+biota in response to factors that the preterm infant en-
+counters while in the NICU and may affect development
+of a mature, functional gut microbiota. Using a multivari-
+ate mixed-effects regression model
+that accounts for
+subject-specific variations, we assessed changes in taxa
+abundance at each phase, with PMA, gestational age at
+birth, total calories per kilogram in the past week, propor-
+tion of enteral calories in the past week, ratio of lipids,
+carbohydrates and protein in the past week, antibiotics
+and corticosteroid received during the past week, and add-
+itional medications as covariates. A complete
+list of nutrition and medication variables significantly
+associated with changes in microbiota taxa in all the three
+phases can be found in in Additional file 7: Table S6..
+
+sought to identify dynamic aspects of host biology that
+correspond to phase transition. 16S ribosomal
+RNA (rRNA) was amplified with Phusion High-Fidelity
+polymerase (Thermo Scientific, Waltham, MA) and
+dual indexed primers specific to the V3-V4 hypervari-
+able regions (319F: 5′ ACTCCTACGGGAGGCAGCAG
+3′; 806R: 3′ ACTCCTACGGGAGGCAGCAG 5′) 
+Amplicons were pooled and paired-end sequenced on
+an Illumina MiSeq (Illumina, San Diego, CA) in the
+University of Rochester Genomics Research Center.

@@ -1,0 +1,102 @@
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 2
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+INTRODUCTION
+
+The human microbiome comprises of collective genomes of
+microbiota inhabiting us, namely protozoa, archaea, eukaryotes,
+viruses and predominantly bacteria that live symbiotically on and
+within various sites of the human body. These extra genes have
+added various types of enzymatic proteins which were non-
+encoded by the host, and play a critical role in facilitating
+host metabolism, thus contributing to the regulation of host
+physiology (Hooper and Gordon, 2001). For this, the application of
+‘humanized’ gnotobiotic animal model that harbors deﬁned
+collection of sequenced microbial communities, has gained
+momentum in recent years in microbiome research (Faith
+et al., This allows proof-of-mechanism study to examine
+the potential
+(Turnbaugh et al., 2009b),
+antibiotic, environmental toxicants (Stedtfeld et al., 2017) and
+host genotypic variation (Ley et al., Although the human microbiome research is still
+at its preliminary stage, the ﬁndings are deemed intriguing yet
+promising in terms of ﬁlling the knowledge gap in microbiome-
+host relationships, and their role in disease pathogenesis, as well
+as therapeutic value, which requires more in-depth investigations
+to uncover this exciting yet mysterious ﬁeld of research. Gut microbiota and the microbial-synthesized
+metabolites are discussed along with their roles in human
+wellness and normal functioning. We introduce novel microbiome-
+based therapy employed in speciﬁc disease conditions to ‘restore’
+
+Frontiers in Microbiology | www.frontiersin.org
+
+2
+
+August 2018 | Volume 9 | Article 1835
+
+fmicb-09-01835
+
+August 11, 2018
+
+Time: 17:24
+
+# 3
+
+Kho and Lal
+
+Gut Microbiome in Human Health
+
+wellness and ameliorating dysbiosis-associated diseases. Finally,
+we discuss future directions and research areas that require
+further elucidation in order to better understand the human
+microbiome and its relationship with the host. The predominant functions of gut microbiota and the associated
+key metabolites in governing host wellness are depicted in the
+following subsections, with some other microbial metabolites
+being described in Table 1. Metabolism
+Human fecal
+sample analysis using 16S ribosomal RNA
+and metagenomic sequencing techniques reveal signiﬁcant
+enrichment in metabolism of polysaccharides, amino acids,
+xenobiotics and micronutrients conferred by gut microbiota,
+suggest that these indigenous microbes facilitate host energy
+harvesting and metabolic eﬃciency (Gill et al., Gut microbiota is
+important in fermenting unabsorbed starch and soluble dietary
+ﬁber. The fermented end products exist in the form of a SCFAs. Microbial-synthesized SCFAs contribute 70% of
+ATP production in colon, with butyrate as the preferred fuel
+for colonocytes (Firmansyah et al., 2011), proving the importance of
+butyrate in colonic cellular respiration and energy production. Besides SCFA, gut microbiota-synthesized micronutrients
+such as vitamins exhibit beneﬁcial value for both microbial
+and host metabolisms. Vitamin-K-producing gut bacteria
+namely Bacteroides fragilis, Eubacterium lentum, Enterobacter
+agglomerans, Serratia marcescens, and Enterococcus faecium
+(Fernandez and Collins, 1987; Cooke et al., Deﬁciency of vitamins B5 and B12 have been linked to
+several disorders such as gastrointestinal discomfort, insomnia,
+neuropsychological and hematological disorders (Andres et al., These cholesterol
+derivatives are synthesized in the liver, followed by conjugation
+with taurine or glycine prior to storage in the gall bladder
+and subsequent secretion into duodenum to aid digestion,
+cholesterol and lipid metabolisms. In humans, 95% of bile
+acids are reabsorbed at distal ileum (Staels and Fonseca, 2009). 2014) and the
+unabsorbed secondary bile acids are excreted by the host (Sorg
+and Sonenshein, 2008). Both primary and secondary bile acids
+are able to activate host nuclear FXR signaling, which in turn
+regulates the bile acids production, glucose metabolism, and
+potentially hepatic autophagy (Lee et al., Secondary bile acids serve as a potent activator of TGR5 (a
+member of the Rhodopsin-like subfamily of GPCRs) which is
+widely expressed on diﬀerent tissues including in gall bladder,
+liver, spleen,
+intestine, and the immune cells. Metabolites
+
+Short-chain fatty acids (SCFAs):
+
+E.g., Acetate, butyrate, propionate,
+hexanoate, valerate

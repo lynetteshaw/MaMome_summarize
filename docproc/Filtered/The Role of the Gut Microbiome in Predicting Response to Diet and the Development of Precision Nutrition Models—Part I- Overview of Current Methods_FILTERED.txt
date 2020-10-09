@@ -1,4 +1,22 @@
-7_PARAGRAPHS
+8_PARAGRAPHS
+
+Supported by the University of California Innovation Institute for Food and Health, Agricultural
+Research Service CRIS Projects 2032-51530-022-00D and 2032-53000-001-00D, Arcadia
+Biosciences and Ardent Mills. The funding agencies did not participate in data collection, or
+interpretation of the data. Mention of trade names or commercial products in this publication
+is solely for the purpose of providing specific information and does not imply recommendation
+or endorsement by the USDA. The USDA is an equal opportunity provider and employer.
+Figures were created using BioRender (https://biorender.com).
+Author disclosures: RLH, MLM, JPH, NLK, and MEK, no conflicts of interest.
+Address correspondence to MEK (e-mail: mary.kable@ars.usda.edu).
+Abbrevations used: AIC, Akaike information criterion; ANOSIM, analysis of similarities; BIC,
+Bayesian information criterion; BN, Bayesian network; CAP, canonical analysis of principal
+coordinates; CSS, cumulative-sum scaling; HCA, hierarchical cluster analysis; LDA, linear
+discriminant analysis; MLST, multilocus sequence typing; OPLS-DA, orthogonal projections to
+latent structures discriminant analysis; PAM, partitioning around medoids; PCA, principal
+components analysis; PCoA, principal coordinates analysis; PERMANOVA, permutational
+multivariate analysis of variance; PLS-DA, partial least squares discriminant analysis; RDA,
+redundancy analysis; ROC, receiver operating characteristic; rRNA, ribosomal RNA..
 
 Microbiota enterotype (Prevotella to Bacteroides.
 

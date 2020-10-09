@@ -1,0 +1,13 @@
+The fucose metabolism pathway score showed a direct relation-
+ship  with  PPGR. Fucose  is  a  sugar  molecule  that  various  microbial 
+organisms  can  use  as  an  energy  source  [Chen  1987].  When  other 
+carbohydrate sources are not available, gut microbiota can switch to 
+using  the  fucose  that  can  be  obtained  from  the  host’s  gut  mucosal 
+lining. This process is often carried out by microbes known as mucin 
+degraders,  such  as  certain  species  of  genus  Ruminococcus  [Crost 
+2016].  We  therefore  hypothesize  that  higher  fucose  consumption 
+activity,  as  reflected  by  the  microbiome  pathway  score,  may  be  as-
+sociated with microbiomes of those individuals who are either more 
+likely  to  fast  or  whose  internal  ecosystem  and  overall  body  state 
+resembles the conditions of fasting or calorie deprivation. This may 
+explain its association with higher PPGR.

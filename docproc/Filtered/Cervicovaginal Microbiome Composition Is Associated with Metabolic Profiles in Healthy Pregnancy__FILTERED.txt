@@ -1,4 +1,4 @@
-14_PARAGRAPHS
+17_PARAGRAPHS
 
 The human vaginal microbiome maintains low diversity in low-pH conditions and
 depends on host sugars as carbon sources, with less access to dietary and exogenous
@@ -74,6 +74,12 @@ individuals exhibited a relatively stable microbial community over time, others
 experienced shifts in composition, resulting in a statistically signiﬁcant change in
 Bray-Curtis dissimilarity on PC axis 1 between trimesters ..
 
+FIG 2 Legend (Continued)
+absence of fungi, at the genus level, per sample. Linear mixed-effects models (LME) were done on the alpha diversity metrics to account for repeated
+measures in the data. (C) Evenness between samples dominated by Lactobacillus (n (cid:2) 34 samples) is signiﬁcantly lower than samples dominated by
+Biﬁdobacteriaceae (n (cid:2) 7 samples). (D) No signiﬁcant change in the observed OTUs between the trimesters (n (cid:2) 15, 13, and 14 samples, respectively) of
+pregnancy and likewise. (E and F) There was no change in evenness (E) or phylogenetic diversity (F) throughout pregnancy..
+
 Metabolites have strong associations with vaginal microbial community struc-
 tures. Using gas chromatography-time of ﬂight mass spectrometry (GC-TOF MS), we
 detected 330 metabolites from urine, saliva, and CVF with 133 identiﬁed compounds.
@@ -119,6 +125,32 @@ communities where L. crispatus was highly abundant . Searching
 the PATRIC database of all sequenced L. crispatus 
 and G. vaginalis strains revealed annotated genes for mannitol usage
 and transport for L. crispatus but not for L. iners or G. vaginalis..
+
+Exposure to the microbiome in early life is critical for immune and physiological
+development  yet the factors that set this trajectory remain poorly understood. In
+this study, we followed the vaginal microbiome through the trimesters of pregnancy for
+18 women, tracking changes in the bacterial communities with longitudinal samples
+and capturing their functional potential with metagenomic sequencing and multiple
+platforms to assess metabolomic proﬁles. The resolution provided by shotgun metag-
+enomic sequencing allowed us to identify species and characterize the functional gene
+content of CVF microbiomes. An additional strength of this work is the strict inclusion
+criteria deﬁning healthy pregnancy (see “Subject information” in Materials and Meth-
+ods). Moreover, as part of an existing sample cohort, we had the opportunity to
+measure saliva and urine metabolomes from mothers and children. We aim to establish
+how the metabolome develops in the ﬁrst year of life and how maternal-infant saliva
+and urine metabolomes relate. In our study, most healthy pregnant women exhibited
+a relatively stable vaginal microbiota throughout the trimesters of pregnancy, domi-
+in some cases, more diverse, Biﬁdobacterium-dominated
+nated by Lactobacillus or,
+microbiota. However, a subset of women exhibited compositional shifts in their CVF
+microbiota as pregnancy progressed, as has also been seen in other larger cohorts 
+We found several strong correlations between particular vaginal communities and
+metabolites, which may help us understand the physiology underlying distinct vaginal
+microbiota structures that were evident in our study. Lastly, vaginal microbiota com-
+position predicted which metabolites were present in the CVF samples but not urine or
+saliva samples from the mothers or infants, suggesting that local microbial metabolism
+may represent the dominant contributor to the metabolic milieu of the vaginal tract
+during pregnancy..
 
 Our study supports the results from several other studies that have indicated that
 the vaginal microbiome is stable during pregnancy  Speciﬁcally, in a longitudinal
@@ -237,4 +269,10 @@ be useful as microbiome cultivation approaches are developed to intentionally di
 the composition of the vaginal microbiome. For example, indole-3-lactate may support
 L. crispatus colonization, while mannitol may indicate a shift in metabolism away from
 fermentation and the production of acid, relaxing the low-pH selection pressure, which
-normally gives L. crispatus an advantage.
+normally gives L. crispatus an advantage..
+
+The pilot grant awarded to start a UC Center for Pediatric Microbiome Research
+awarded by the UCI Institute for Clinical and Translational Science (UL1 TR001414)
+gave rise to this project. A.O. was supported by an NIH T32 training grant
+from UC Irvine’s training program in microbiology and infec-
+tious diseases.

@@ -1,4 +1,4 @@
-14_PARAGRAPHS
+23_PARAGRAPHS
 
 In this review, we describe the pronounced microbial
 changes
@@ -81,6 +81,26 @@ gut microbiota composition or richness indexes (DiGiulio et al.,
 2015). This strengthens the fact that more studies are needed to
 understand the eﬀects of pregnancy on the gut microbiota..
 
+in
+The human vaginal microbiota is a key component
+the defense system against microbial and viral
+infections,
+conferring protection against disease (Turovskiy et al., 2011).
+The vaginal microbiome is dominated by many species
+including Lactobacillus and members of
+the Clostridiales,
+Bacteriodales, and Actinomycetales (Aagaard et al., 2012). Within
+the Lactobacillus genus, the most frequently isolated species
+are: Lactobacillus gasseri, Lactobacillus crispatus, Lactobacillus
+jensenii, and Lactobacillus iners, which all promote various
+aspects of vaginal health. Speciﬁcally, these lactic acid producing
+bacteria can create a barrier against pathogen invasion by
+maintaining a low pH (< 4.5) and by secreting metabolites
+that play an important role in inhibition of bacterial and viral
+infection in the urogenital tract (Martin et al., 1999; McLean and
+Rosenstein, 2000). In contrast, pH-values around 5.0 were found
+to correlate with vaginosis (Ravel et al., 2011)..
+
 As in the gut, the vaginal microbiome undergoes signiﬁcant
 changes during pregnancy, including a signiﬁcant decrease in
 overall diversity, increased stability (the community composition
@@ -95,6 +115,54 @@ pregnancy varies according to ethnic group; while L. jensenii
 is predominantly observed in women of Asian and Caucasian
 ethnicity, L. gasseri is absent in samples from Black women
 (MacIntyre et al., 2015)..
+
+A study characterizing the vaginal microbiota of pregnant
+and non-pregnant African-Americans reported that during
+pregnancy, one of
+the changes is dominance of a single
+Lactobacillus species over others (Romero et al., 2014a). This may
+be due to the fact that some Lactobacillus species have bactericidal
+activities against other species, ensuring their predominance and
+low variability, which may help in protection against infections
+during pregnancy (Spurbeck and Arvidson, 2010)..
+
+vaginal communities were more similar to the gut microbiota
+communities, with Lactobacillus being replaced by various
+including Peptoniphilus, Prevotella, and
+anaerobic bacteria,
+Anaerococcus. These various alterations may persist
+for as
+long as a year after delivery (DiGiulio et al., 2015). The
+postpartum vaginal microbiome was also characterized by
+gradual depletion of Lactobacillus species,
+increased alpha-
+diversity, and enrichment of bacteria associated with vaginosis,
+such as Actinobacteria, in 40% of the subjects at 6 weeks after
+birth (as opposed to only 2% of the subjects during pregnancy;
+MacIntyre et al., 2015)..
+
+The oral microbiome includes up to 600 diverse species including
+Streptococci, Lactobacilli, Staphylococci, Corynebacteria, etc.,
+residing in diﬀerent microenvironments within the oral cavity
+(teeth,
+tongue, palates, etc., Dewhirst et al., 2010). When
+comparing the abundance of seven common bacterial species
+in the oral cavity of non-pregnant women, early pregnancy,
+mid-pregnancy, and late pregnancy, the total viable microbial
+counts in all stages of pregnancy were higher than those of the
+non-pregnant women, especially in early pregnancy (Fujiwara
+et al., 2015), and levels of the pathogenic bacteria Porphyromonas
+gingivalis and Aggregatibacter actinomycetemcomitans in the
+subgingival plaque, were signiﬁcantly higher during the early
+and middle stages of pregnancy, compared to the non-pregnant
+group (Fujiwara et al., 2015). These results were further
+reinforced in an additional study, showing higher levels of
+A. actinomycetemcomitans in the second and third trimesters
+of pregnancy compared to non-pregnant women (Borgo
+et al., 2014). Additionally, Candida levels were signiﬁcantly
+higher during middle and late pregnancy compared to non-
+pregnant women, further demonstrating a higher prevalence of
+periodontal pathogens in pregnancy..
 
 The placenta is one of the most poorly understood human organs,
 particularly with regard to the presence of microbes within it.
@@ -135,6 +203,30 @@ after vaginal delivery and is therefore prone to contaminations
 from the birth canal, as opposed to samples in which the placenta
 was collected during C-section in a sterile manner..
 
+When studying the vaginal microbiome, Romero et al. did
+not ﬁnd any association between the degree of alpha diversity
+and pregnancy outcomes (Romero et al., 2014a), while two
+other studies did demonstrate a correlation between high alpha
+diversity and preterm birth (Hyman et al., 2014). DiGiulio
+and colleagues identiﬁed candidate vaginal communities in the
+early stages of pregnancy that were signiﬁcantly associated
+with an elevated rate of preterm birth (DiGiulio et al., 2015).
+These communities include higher abundances of Gardnerella
+lower abundances of Lactobacillus sp., and
+and Ureaplasma,
+higher alpha diversity. Mechanistically, abnormal changes in the
+vaginal microbiota during pregnancy, such as decreased levels
+of Lactobacillus sp., may lead to infections, and production
+of pro-inﬂammatory cytokines, and prostaglandins, which can
+cause uterine contractions and weaken fetal membranes (Park
+et al., 2005; Lajos et al., 2008). Additionally, presence of certain
+fungi, such as vaginal colonization of Candida albicans even
+when asymptomic, is correlated to higher rates of preterm birth
+(Farr et al., 2015). Although the eﬀects are not direct, it was
+suggested that beyond the healthy changes related to pregnancy,
+gut dysbiosis may induce pregnancy complications by impairing
+maternal adaptation (Zhang et al., 2015)..
+
 and pregnancy
 complications have been shown in various studies (Zi et al.,
 2014). Maternal periodontal disease has been shown to increase
@@ -148,6 +240,17 @@ and prostaglandin production, leading to preterm birth (ElAttar,
 1976; Kim and Amar, 2006). Alternatively, it was suggested that
 hematogenous spread of oral microbes to the placenta might be
 a driver of preterm birth (Aagaard et al., 2014)..
+
+is
+accumulating, one emerging question is whether these bacterial
+communities are diﬀerent in cases of pregnancy complications
+such as preterm births. When comparing placental bacterial
+populations in preterm vs. term deliveries, higher abundance
+of several taxa, such as Burkholderia, Streptosporangium, and
+Anaeromyxobacter, were found in the placentas of pregnancies
+delivered preterm, while Paenibacillus was enriched in placentas
+term (Romero et al., 2014a). However, using
+delivered at.
 
 EARLY BACTERIAL COLONIZATION OF
 THE FETUS.
@@ -174,6 +277,49 @@ that from the very beginning of development, there are dual
 interactions between the developing host and microbiota, and
 that there is some type of early inheritance of the maternal
 microbial components..
+
+Just like the placenta and fetus, the meconium was considered
+in the past to be sterile (Koleva et al., 2015), however several
+recent studies have shown using a variety of methods presence
+of bacterial populations including Enterococcus, Escherichia,
+Leuconostoc, Lactococcus, and Streptococcus (Dominguez-Bello
+et al., 2010; Gosalbes et al., 2013; Hansen et al., 2015) Compared
+to adult fecal samples, the infant meconium shows lower species
+diversity, higher between-subject variation, and enrichment of
+Proteobacteria at the expense of reduction of Bacteroidetes (Hu
+et al., 2013). Ardissone et al. found a correlation between
+newborn gestational age and meconium microbial compositions.
+Speciﬁcally,
+the Enterobacter, Enterococcus, Lactobacillus,
+Photorhabdus, and Tannerela genera were more abundant in the
+preterm infants’ meconium (Ardissone et al., 2014)..
+
+several additional studies have shown distinct eﬀects of delivery
+mode on the gut microbiota composition of newborn babies.
+Generally, the gut microbiota of vaginally born infants is ﬁrst
+colonized by bacteria from the maternal vagina, characterized
+by enrichment in the Prevotella, Sneathia, and Lactobacillus
+genera, and also includes bacteria present in the maternal
+gut (Mackie et al., 1999; Dominguez-Bello et al., 2010). In
+contrast,
+infants born by C-section
+indicates a relative resemblance to maternal skin and oral
+microbiota dominated by Propionibacterium, Corynebacterium,
+and Streptococcus (Backhed et al., 2015; MacIntyre et al., 2015).
+The infants born by C-section also exhibit delayed colonization
+of the phylum Bacteroidetes, and lower alpha diversity during
+the ﬁrst 2 years of life (Jakobsson et al., 2014). However, the
+diﬀerences in species diversity between delivery modes are
+decreased after 4 months, and almost disappear by 12 months
+of age (Backhed et al., 2015). The microbiome of C-section
+delivered infants was also found to contain a higher proportion
+of bacterial antibiotic-resistance genes compared to vaginally
+delivered infants. This, together with a higher abundance of
+Staphylococcus in C-section newborns compared to vaginal
+births, may explain why 64–82% of reported cases of methicillin-
+resistant Staphylococcus aureus (MRSA) skin infections in
+newborns occur in C-section delivered infants (Centers for
+Disease Prevention, 2006)..
 
 Interestingly, the mode of delivery has an eﬀect on the infant’s
 oral microbiome, as well (Lif Holgerson et al., 2011). Immediately
@@ -237,4 +383,19 @@ competing bacteria (Sela et al., 2011; Manthey et al., 2014). The
 remaining small sugars can be further metabolized by glycolytic
 microbes present in the infant,
 including lactate-producing
-bacteria such as Streptococcus, Staphylococcus, and Enterococcus.
+bacteria such as Streptococcus, Staphylococcus, and Enterococcus..
+
+The weaning period with transition to solid foods has
+a signiﬁcant role in shaping the gut bacterial composition.
+After weaning, the infant’s gut microbiota is enriched with
+species that are prevalent in adults, including Bacteroidetes and
+Firmicutes from the Clostridia class: Clostridium, Ruminococcus,
+Faecalibacterium, Roseburia, and Anaerostipes (Valles et al., 2014;
+Backhed et al., 2015). Additionally, levels of fecal short chain
+fatty acids were shown to be higher after introducing solid
+foods to infants (Koenig et al., 2011). The shift to solid food, as
+well as increased exposure to xenobiotics, change the microbial
+populations and enriches species which are able to utilize
+nutrients such as carbohydrates, and are involved in vitamin
+biosynthesis and xenobiotic degradation, thereby maturing the
+gut microbiome (Backhed et al., 2015).

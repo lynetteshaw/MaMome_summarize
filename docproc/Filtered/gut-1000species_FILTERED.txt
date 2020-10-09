@@ -1,4 +1,29 @@
-75_PARAGRAPHS
+493_PARAGRAPHS
+
+the German pediatrician Teodor Escherich in 1885 (Shul-
+man et al., 2007). The studies that followed shortly there-
+after led to the description of representatives of a number
+of the major gastrointestinal bacterial groups, including
+the genera Bacteroides, Biﬁdobacterium, and Bacillus as
+well as proteolytic cocci (Fl€ugge, 1886; Veillon & Zuber,
+1898; Moro, 1900; Tissier, 1900; Passini, 1905; Tissier,
+1908; Distaso, 1911). During this period that lasted till
+the late sixties of the 20th century, Biﬁdobacterium and
+Bacteroides spp. were considered to be the dominant
+groups
+tract. Aerobes,
+referred as coliforms, streptococci and lactobacilli, were
+found as minor groups, while clostridia, staphylococci
+and aerobic spore-formers were reported as rare and not
+always detectable (Haenel, 1970). However,
+the vast
+majority of the gastrointestinal microorganisms are now
+known to be strict anaerobes, and this was for the ﬁrst
+time shown in 1931 (Sanborn, 1931). Therefore, the early
+cultivation studies provided only a partial view of the gas-
+trointestinal microbiota and it enabled isolation of only a
+minority of the gastrointestinal microorganisms
+(Finegold, 1969)..
 
 The present-day view of the gastrointestinal microbiota
 composition is quite different than prior to the molecular
@@ -95,6 +120,19 @@ this combination has recently been illustrated with the
 example of the abundant mucus-utilizing bacterium, Akk-
 ermansia muciniphila as a paradigm (Belzer & de Vos,.
 
+Actinobacteria are common and abundant in the human
+gastrointestinal tract. They are also known as gram-posi-
+tive bacteria with a high G + C content in their DNA. As
+they are particularly difﬁcult to lyse and their SSU RNA
+needs speciﬁc PCR primers to be ampliﬁed (Satokari
+et al., 2001), this group of bacteria is often underrepre-
+sented in molecular surveys of the gastrointestinal micro-
+biota (notably in one of the ﬁrst global studies of the
+infants’ microbiota; Palmer et al., 2007). Members of the
+orders Biﬁdobacteriales (in particular Biﬁdobacterium spp.)
+and Coriobacteriales (mainly Collinsella spp.) are highly
+prevalent already since early life, while members of the.
+
 age (Scardovi & Trovatelli, 1974), an intestinal origin can
 be suspected, showing the high adaption of this genus to
 the gastrointestinal tract. Phylogenetically, Biﬁdobacterium
@@ -111,6 +149,77 @@ anaerobic or microaerophilic bacteria that produce ace-
 tate and lactate as major fermentation products from sug-
 sugars by these bacteria is
 ars. The degradation of.
+
+Bifidobacterium adolescentis, AF275881
+Bifidobacterium stercoris, FJ611793.
+
+Bifidobacterium ruminantium, DQ325862.
+
+Bifidobacterium angulatum, D86182
+Bifidobacterium catenulatum, AF432082.
+
+Bifidobacterium pseudocatenulatum, AF333390
+Bifidobacterium dentium, D86183
+Bifidobacterium kashiwanohense, AB491757.
+
+Bifidobacterium bifidum, U25952.
+
+Bifidobacterium scardovii, AB437363.
+
+Bifidobacterium thermoacidophilum, AB016246.
+
+Bifidobacterium thermophilum, AB437364
+Bifidobacterium boum, D86190
+Bifidobacterium longum, M58743.
+
+Bifidobacterium breve, AB006658.
+
+Bifidobacterium mongoliense, AB433856
+Bifidobacterium coryneforme, AB437358.
+
+Bifidobacterium animalis, AB050137.
+
+Bifidobacterium pseudolongum, D86194
+Bifidobacterium gallicum, D86189.
+
+Collinsella intestinalis, AB037383.
+
+Collinsella stercoris, AB031062.
+
+Collinsella aerofaciens, AB011816.
+
+Slackia equolifaciens, EU377663.
+
+Slackia piriformis, AB601000
+Slackia exigua, AF101240.
+
+Slackia isoflavoniconvertens, AB566418
+Adlercreutzia equolifaciens, AB306661.
+
+Gordonibacter pamelaeae, AM886059
+Senegalemassilia anaerobia, FJ508678
+Cryptobacterium curtum, AB019260.
+
+Coriobacteriales species constitute a frequently detected
+group of the gastrointestinal microbiota composed of rep-
+resentatives of 12 different genera . Collinsella is
+the most dominant among other members of the order,
+and a representative of these rod-shaped, nonmotile obli-
+gate anaerobes was for the ﬁrst time detected in human
+feces in 1935 (Eggerth, 1935). Both cultivation- and
+molecular-based studies show that Collinsella aerofaciens
+is a prevalent and an abundant gastrointestinal microor-
+ganism (Moore & Holdeman, 1974a; Benno et al., 1986;
+Kageyama et al., 2000). Four different types of Collinsella
+aerofaciens were initially recognized and later reclassiﬁed
+into distinct species (Kageyama & Benno, 2000). Collinsel-
+la spp. can ferment a wide range of different carbohy-
+drates including complex sugars, such as starch but also
+glycogen to produce hydrogen gas, ethanol, formate, and
+lactate (Eggerth, 1935; Kageyama et al., 1999a). Experi-
+ments with an in vitro model of the human colon showed
+that Collinsella spp. along with Biﬁdobacterium spp. are
+the major lactose utilizers in the human gastrointestinal.
 
 Eggerthella are assacharolytic bacteria that produce
 acids only from glucose, but not from other sugars. The
@@ -143,6 +252,215 @@ and can be explained by the adaptation of the microbiota
 isoﬂavones — particularly
 to the higher availability of
 those derived from soy beans..
+
+Atopobium species are anaerobic bacteria that cluster
+within the Actionobacteria phylum, and, in contrast to the
+rest of the phylum, contain DNA with a low G + C con-
+tent. The main product of their metabolism is lactate,
+which is in line with the previous classiﬁcation of these
+bacteria within the Lactobacillus and Streptococcus genera
+(Collins & Wallbanks, 1992). Based on the literature data,
+it can be concluded that Atopobium spp. are among the
+earliest colonizers of the human intestinal tract as they
+are reported to be present in gastrointestinal contents of
+6-week-old infants (Fallani et al., 2011). However, the
+data on Atopobium quantiﬁcation are based on the appli-
+cation of a FISH probe for the Atopobium cluster, which
+that
+in addition to Atopobium, hybridizes
+belong to the Coriobacterium, Eggerthella and Collinsella
+genera (Harmsen et al., 2000). Therefore, it is not clear if
+the Atopobium or the other targeted genera are colonizing
+the gastrointestinal tract of infants. Bacteria belonging to
+the Atopobium cluster are signiﬁcantly associated with the
+major products of protein fermentation, suggesting that.
+
+of this group were detected only in studies that speciﬁ-
+cally targeted this group of bacteria (Hoyles et al., 2013),
+or in studies that targeted low abundant bacteria within
+the gastrointestinal microbiota (Lagier et al., 2012a; Du-
+bourg et al., 2013). Various different Actinomycetales spe-
+cies, of which many are still uncultured, were identiﬁed
+in a molecular study of
+these speciﬁc subcommunity
+within the gastrointestinal microbiota of healthy humans
+of different ages, showing a high prevalence of these bac-
+teria (Hoyles et al., 2013). The most diverse and the fre-
+quently
+human
+Actinomycetales
+gastrointestinal tract include Propionibacterium spp. and
+Corynebacterium spp. . These bacteria typically
+colonize the human skin and are found in high abun-
+dance in infants that are born using Caesarean section.
+
+Corynebacterium ureicelerivorans, NR_042558
+Corynebacterium mucifaciens, AF537600
+Corynebacterium afermentans, X82054
+Corynebacterium coyleae, AF53592
+Corynebacterium glaucum, AJ431634.
+
+Corynebacterium sundsvallense, AF537606.
+
+Corynebacterium sanguinis, AY850479.
+
+Corynebacterium appendicis, AJ314919.
+
+Corynebacterium aurimucosum, AY536427
+Corynebacterium minutissimum, X84679
+Corynebacterium simulans, AJ012838
+Corynebacterium striatum, AY008302.
+
+Corynebacterium propinquum, X84438
+Corynebacterium pseudodiphthericum, AJ439343.
+
+Corynebacterium tuberculostearicum, AJ438046
+Corynebacterium kroppenstedtii, CP001620.
+
+Corynebacterium freneyi, EF462412
+Corynebacterium xerosis, M59058
+Corynebacterium amycolatum, X82057.
+
+Corynebacterium ammoniagenes, FJ648509.
+
+Corynebacterium glucuronolyticum, AF537596
+Corynebacterium durum, GQ157960.
+
+Corynebacterium ulcerans, X81911.
+
+Dietzia cinnamea, FJ468339
+Dietzia natronolimnaea, FJ588190.
+
+Mycobacterium abscessus, AY457071.
+
+Mycobacterium florentinum, AJ616230
+Mycobacterium avium, AF410479.
+
+Mycobacterium fortultum, AJ536039
+Gordonia rubripertincta, AJ784814
+Gordonia terrae, GQ157157.
+
+Rhodococcus rhodochrous, X79288.
+
+Rhodococcus erythropolis, FJ506486.
+
+Propionibacterium acidipropionici, AJ704569.
+
+Propionibacterium jensenii, AJ704571
+Propionibacterium granulosum, FJ785716
+Propionibacterium avidum, AJ003055.
+
+Propionibacterium propionicum, AJ003058.
+
+Propionibacterium acnes, AB042288.
+
+Propionibacterium freundenreichii, GM005015.
+
+Micrococcus luteus, EF463057
+Micrococcus lylae, AF057290.
+
+Arthrobacter albus, EU086816
+Arthrobacter oxydans, AJ243423
+Arthrobacter polychromogenes, X80741.
+
+Arthrobacter castelii, AJ639826.
+
+Rothia dentocariosa, AJ717364
+Rothia mucilaginosa, GQ159454.
+
+Kocuria rosae, EF154261
+Kocuria haiotolerans, DQ979377
+Kocuria kristinae, EU379300
+Kocuria marina, FJ789660
+Kocuria rhizophila, Y16264.
+
+Brevibacterium epidermidis, EU046595
+Brevibacterium linens, AY243345
+Brevibacterium iodinum, FJ652620.
+
+Brevibacterium casei, EU652099
+Brevibacterium masseliense, JN381553
+Brevibacterium ravenspurgense, EU086793.
+
+Brevibacterium pityocampae, EU484189.
+
+Brevibacterium senegalense, JF824806.
+
+Actinomyces cardiffensis, AJ421779
+Actinomyces tuicensis, FJ508250.
+
+Actinomyces georgiae, X80413
+Actinomyces odontilyticus, GQ158073
+Actinomyces grossensis, JN837492
+Actinomyces canis, GQ158316.
+
+Varibaculum cambriense, AJ491326.
+
+Actinomyces naeslundii, AJ635359.
+
+Actinomyces viscosus, AJ234053
+Actinomyces oris, GQ421311.
+
+Actinomyces urogenitals, AJ243791.
+
+Actinomyces graevenitzii, AY979340
+Mobiuncus curtisii, GQ158849.
+
+Arcanobacterium pyogenes, EU308588
+Arcanobacterium haemolyticum, AJ234059.
+
+Microbacterium phyllosphaerae, NR_025405
+Microbacterium hydrocarboxydans, AJ880397.
+
+Microbacterium foliorum, EU370406.
+
+Microbacterium luteolum, AB004718.
+
+Microbacterium gubbeenense, EU863414.
+
+Microbacterium chocolatum, GQ157022.
+
+Microbacterium oleivorans, AJ698725
+Microbacterium paraoxydans, AJ491806
+Microbacterium aurum, NR_044933.
+
+Microbacterium lacticum, EU714346
+Microbacterium schleiferi, DQ870710
+Agrococcus jejuens, AM396260.
+
+Cellulosimicrobium cellulans, AY501363
+Promicromonospora flava, AM992980.
+
+Kytococcus schreoteri, AJ297722.
+
+Dermacoccus nishinomiyaensis, GQ158446.
+
+Blastococcus massiliensis, JX101684.
+
+Micromonospora aurantiaca, AY569009.
+
+(Dominguez-Bello et al., 2010). In adults, Corynebacte-
+rium spp. are more frequently detected in the samples of
+the upper gastrointestinal
+tract (Justesen et al., 1984).
+Cultivation studies have indicated that Propionibacterium
+spp. are the major proteolytic bacteria in the human
+intestine (Macfarlane et al., 1986). Propionibacterium spp.
+are applied as probiotics as they are major vitamin B12
+producers and produce propionate from lactate. In vitro
+experiments showed that the metabolic products of two
+gastrointestinal Propionibacterium spp. can induce apop-
+tosis of colorectal carcinoma cells (Jan et al., 2002)..
+
+Bacteria belonging to the Rhodococcus genus are rarely
+detected in the human gastrointestinal microbiota but
+have been found in an extreme abundance (up to 68%)
+in mucosal biopsies of ulcerative colitis patients (Lepage
+et al., 2011). Mycobacterium spp., notably Mycobacterium
+avium, have also been implied in ulcerative colitis and
+the expression of intestinal cells in inﬂammatory bowel
+disease patients appears to have similarities to Mycobacte-
+rium infection (Sibartie et al., 2010)..
 
 The gastrointestinal Actinomycetales also include Rothia
 spp. that are frequently detected in the upper gastrointesti-
@@ -263,6 +581,68 @@ Bacteroides stercoris, AB510708.
 
 Bacteroides uniformis, AB050110.
 
+Prevotella conceptionensis, DQ139963.
+
+Prevotella shahii, AB108825
+Prevotella stercorea, AB244774.
+
+Prevotella ruminicola, AB004909.
+
+Prevotella nanceiensis, AY957555
+Prevotella oralis, AY323522
+Prevotella timonensis, DQ518919.
+
+Prevotella corporis, L16465
+Prevotella melaninogenica, AB686661
+Prevotella veroralis, AB547707.
+
+Prevotella nigrescens, AF414833.
+
+Prevotella pallens, Y13105
+Prevotella disiens, L16483
+Prevotella amniotica, AM422125
+Prevotella bivia, L16475
+Paraprevotella xylaniphila, AB331897
+Paraprevotella clara, FJ507010.
+
+Barnesiella intestinihominis, AB370251.
+
+Alloprevotella tannerae, AJ005634.
+
+Porphyromonas asaccharolytica, FJ792537.
+
+Porphyromonas uenonis, AY570514.
+
+Porphyromonas endodontalis, AY253728
+Porphyromonas somerae, AY968205.
+
+Porphyromonas gingivalis, AF285870.
+
+Parabacteroides johnsonii, AB261128.
+
+Parabacteroides merdae, AB238928.
+
+Parabacteroides distasonis, AB238923.
+
+Parabacteroides goldsteinii, AY974070.
+
+Parabacteroides gordonii, AB470343.
+
+Alistipes shahii, AY974072
+Alistipes timonensis, EF402636.
+
+Alistipes senegalensis, JF824804
+Alistipes finegoldii, AY643084
+Alistipes onderdonkii, AY974071.
+
+Alistipes maseilloanorexicus, JX101692.
+
+Alistipes indistinctus, AB490804
+Butyricimonas synergistica, AB443948.
+
+Odoribacter laneus, AB490805
+Odoribacter splanchnicus, L16496.
+
 Bacteroides ureolyticus, FN401327.
 
 Fig. 6. Phylogenetic tree of the human gastrointestinal species that belong to the class of the Bacteroidia. GenBank Accession Numbers of the
@@ -316,6 +696,62 @@ metagenomes of subjects with low gene richness that were
 associated with adiposity, insulin resistance and dyslipida-
 emia as well as an inﬂammatory phenotype (Le Chatelier
 et al., 2013)..
+
+Bacteroidetes species that belong to classes Flavobacteri-
+ales and Sphingobacteriales are only occasionally detected
+in the gastrointestinal tract . With an
+exception of Capnocytophaga spp. and Sphingobacterium
+spp. that can be detected in the human oral cavity, the
+other bacteria of this group are typically associated with
+other ecosystems (primarily soil). There is no data about
+the role of these bacteria in the gastrointestinal microbi-
+ota, but it is noteworthy that several of these bacteria
+were detected only in the SSU rRNA gene clone libraries
+of the microbiota of inﬂammatory bowel disease patients
+(Frank et al., 2007)..
+
+Capnocytophaga granulosa, U41348
+Chryseobacterium hominis, AM261868
+Cloacibacterium normanense, AJ575430.
+
+studies have
+content
+shown that Gram-positive staining is not a feature of
+many Firmicutes. This can be illustrated with Faecalibacte-
+rium prausnitzii, which is a Gram-negative-staining bacte-
+rium, previously classiﬁed within the Fusobacteria phylum
+(Duncan et al., 2002a), novel gastrointestinal isolates such
+as Christensenella minuta (Morotomi et al., 2012), but
+also typical Gram-negative bacteria such as members of
+the Veillonellacea family (Marchandin et al., 2010). While
+the vast majority of the Firmicutes are indeed low GC
+content bacteria, this also, is not a common feature of
+the phylum as seen in an example of Anaerofustis ster-
+corihominis, which DNA has a content of the GC of
+around 70% (Finegold et al., 2004). Most of the Firmi-
+cutes, notably the Clostridium spp. and Bacillus spp., are
+spore-formers and this property confers special survival
+value in and beyond the gastrointestinal tract..
+
+The most abundant gastrointestinal microorganisms
+are members of the class Clostridia and within this class
+the families Ruminococcaceae and Lachnospiraceae (Tap
+et al., 2009;
+Jalanka-Tuovinen et al., 2011). Another
+diverse group of the Firmicutes is the class Bacilli that
+includes the genera of Lactobacillus, Enterococcus, and
+Streptococcus, which are dominant in the upper part of
+the gastrointestinal tract. In line with its enormous diver-
+sity, the Firmicutes in the gastrointestinal tract perform a
+number of different functions that stretch from health
+promoting of some probiotic Lactobacillus spp. to patho-
+genic properties of Clostridium difﬁcile. The vast majority
+inhabitants
+of the currently uncultured gastrointestinal
+belong to the phylum Firmicutes (Rajili(cid:1)c-Stojanovi(cid:1)c et al.,
+2007), which illustrates that future research is expected to
+dramatically expand our knowledge about the functional
+contribution of this group to the ecosystem and the host..
 
 The ﬁrst representative of the Bacilli class retrieved from
 the gastrointestinal tract was a member of Lactobacillales
@@ -385,6 +821,8 @@ and obligately heterofermentative. However, the phyloge-
 netic position of the species does not seem to be related
 to their fermentation proﬁle..
 
+In addition to Lactobacillus spp., other related,.
+
 lactic
 acid bacteria can be detected in the gastrointestinal tract.
 Members of the genera Leuconostoc and Weissella used to
@@ -395,7 +833,382 @@ abundant (representing up to 24% of
 total microbial
 community) and widely distributed in colonic mucosa.
 
+Lactobacillus amylovorus, AY944408.
+
+Lactobacillus kalixensis, AY253657.
+
+Lactobacillus acidophilus, EF533992.
+
+Lactobacillus helveticus, FJ749441.
+
+Lactobacillus ultunensis, AY253660.
+
+Lactobacillus crispatus, AF257097.
+
+Lactobacillus delbrueckii, AB008207.
+
+Lactobacillus leichmannii, JX986966.
+
+Lactobacillus jensenii, AF243176.
+
+Lactobacillus gasseri, AB617146
+Lactobacillus johnsonii, EU626019.
+
+Lactobacillus antri, AY253659
+Lactobacillus oris, X94229
+Lactobacillus vaginalis, AF243177.
+
+Lactobacillus reuteri, L23507
+Lactobacillus coleohominis, AJ292530.
+
+Lactobacillus mucosae, AF243145.
+
+Lactobacillus fermentum, AF243166.
+
+Lactobacillus gastricus, AY253658.
+
+Pediococcus acidilactici, AB018213
+Pediococcus pentosaceus, M58834.
+
+Pediococcus damnosus, NR_042087
+Lactobacillus buchneri, AB205055
+Lactobacillus parabuchneri, AF275311.
+
+Lactobacillus senioris AB602570.
+
+Lactobacillus pentosus, AB362754
+Lactobacillus plantarum, AB326351.
+
+Lactobacillus alimentarius, GU125490.
+
+Lactobacillus casei, EU715321
+Lactobacillus paracasei, AY369076
+Lactobacillus rhamnosus, AB690191.
+
+Lactobacillus saniviri, AB602569.
+
+Lactobacillus sharpeae, M58831
+Lactobacillus coryniformis, AJ575741
+Lactobacillus brevis, AY974809.
+
+Lactobacillus animalis, AB326350.
+
+Lactobacillus ruminis, AB326354
+Lactobacillus salivarius, AY137587.
+
+Lactobacillus curvatus, AY204890
+Lactobacillus sakei, AB362731.
+
+Leuconostoc gelidum, AB022921
+Leuconostoc lactis, AB023968.
+
+Leuconostoc mesenteroides, AB023242.
+
+Weissella cibaria, AB362617
+Weissella confusa, AB023241.
+
+Weissella paramesenteroides, AB362621.
+
+Granulicatella adiacens, AJ312375.
+
+Granulicatella elegans, FJ506421.
+
+Abiotrophia para-adiacens, AB022027.
+
+after bowel cleansing (Hong et al., 2011). Moreover, Leu-
+conostoc was identiﬁed as the most abundant bacterial
+genus, representing almost a quarter of the total micro-
+bial community in a group of meconium samples of new-
+borns, which persisted in the gastrointestinal tract until
+7 months of age (Gosalbes et al., 2013). In the same
+study, Weissella spp. were also detected as the earliest col-
+onizers of the gastrointestinal tract of some newborns.
+These bacteria utilize simple sugars and their presence in
+the lower parts of the gastrointestinal tract is dependent
+on the activity of other gastrointestinal microorganisms
+that have the ability to degrade complex sugars, resistant
+to human digestive enzymes..
+
+tococcus and Enterococcus. These two genera have only
+recently been separated, although the presence of the sub-
+group within the genus Streptococcus was noticed as late
+as in the 1930s (Sherman, 1938). They are one of the
+dominant bacterial
+fractions in the upper part of the
+small intestine (Simon & Gorbach, 1986; Reuter, 2001).
+Forty-six species of these two genera are known to be gas-
+trointestinal inhabitants . In addition, Streptococ-
+the
+cus pleomorphus, which also can be part of
+gastrointestinal microbiota, forms a deep branch in the
+SSU rRNA gene sequence–based phylogenetic tree, sug-
+gesting that
+should be reclassiﬁed into
+another genus within the Erysipelotrichaceae family. The
+ample presence of the Enterococcus and Streptococcus spp.
+can be explained by the fact that the species are oxygen.
+
+Streptococcus infantis, AB008315.
+
+Streptococcus viridans, AF076036
+Streptococcus parasanguinis, AB006125.
+
+Streptococcus australis, AF184974.
+
+Streptococcus pneumoniae, AE007317.
+
+Streptococcus pseudopneumoniae, AY612844
+Streptococcus mitis, D38482.
+
+Streptococcus sanguinis, AF003928.
+
+Streptococcus constellatus, AY277941
+Streptococcus intermedius, AF104671.
+
+Streptococcus anginosus, AY986764.
+
+Streptococcus salivarius, AY188352
+Streptococcus thermophilus, AY687382
+Streptococcus vestibularis, AY188353.
+
+Streptococcus peroris, EU156772
+Streptococcus cristatus, AY281090.
+
+Streptococcus dysgalactiae, AJ314611
+Streptococcus parauberis, AY584477.
+
+Streptococcus agalactiae, AB023574.
+
+Streptococcus pyogenes, AM295007.
+
+Streptococcus equinus, AB002482
+Streptococcus lutetiensis, DQ232532
+Streptococcus bovis, AF104109.
+
+Streptococcus gallolyticus, AY858648.
+
+Streptococcus infantarius, EU163504
+Streptococcus alactolyticus, AF201899
+Streptococcus thoraltensis, Y09007.
+
+Lactococcus plantarum, EF694029.
+
+Lactococcus raffinolactis, AB470233.
+
+Enterococcus asini, GQ337016
+Enterococcus dispar, Y18358.
+
+Enterococcus gallinarum, AF039900
+Enterococcus saccharolyticus, EU477410
+Enterococcus casseliflavus, AF039903
+Enterococcus avium, AF133535
+Enterococcus pseudoavium, AB470234.
+
+Enterococcus durans, AF061000
+Enterococcus hirae, AF061011
+Enterococcus faecium, AJ420800
+Enterococcus phoeniculicola, GQ337034.
+
+Enterococcus caccae, AY943820
+Enterococcus faecalis, AB098122
+Streptococcus pleomorphus, M23730.
+
+tolerant and easily cultivable. The oldest isolate of the
+group, Enterococcus faecalis, was for the ﬁrst time plated
+in 1899 from a case of endocarditis (MacCallum & Has-
+tings, 1899), and only 7 years later it was recovered from
+intestinal
+samples (Andrewes & Horder, 1906). Both
+Streptococcus and Enterococcus spp. are among the ﬁrst
+tract
+established species in the infant’s gastrointestinal
+that can be detected already in the ﬁrst day of life (Sol(cid:1)ıs
+et al., 2010; Gosalbes et al., 2013). Although this early.
+
+presence would suggest an important role in the ecosys-
+tem, the data on the role of Streptococcus and Enterococcus
+in human health are conﬂicting. Enterococcus spp.
+spp.
+are widely
+recognized as opportunistic pathogens,
+although these species are common, and can even exhibit
+probiotic properties ( (cid:1)O Cu(cid:1)ıv et al., 2013). The abundance
+of a Streptococcus species is decreased in mucosal biopsies
+in Crohn’s disease patients (Li et al., 2012), while Strepto-
+coccus and Enterococcus phylotypes are found to be.
+
+increased in fecal samples of colorectal cancer patients
+(Wang et al., 2012). However, in the adult gastrointesti-
+nal tract, Streptococcus spp. are particularly abundant in
+the upper part of the gastrointestinal tract, where they are
+active in the process of simple sugar fermentation into
+lactate (Zoetendal et al., 2012). Moreover, they may form
+a tropic chain with the equally abundant Veillonella spp.
+that
+into propionate
+(Zoetendal et al., 2012)..
+
+Various members of the Bacillales order can be low-
+level constituents of the human gastrointestinal microbi-
+ota (Figs 10 and 11 — for clarity the phylogenetic tree of
+this numerous order was split into two parts). Among
+them, a large number of Staphylococcus spp., which typi-.
+
+early colonization with Staphylococcus.
+
+cally are associated with the human skin, can be detected
+in the human gastrointestinal tract . These bacte-
+ria are one of the earliest colonizers of the gastrointestinal
+tract, particularly in infants that were delivered by cesar-
+ean section (Dominguez-Bello et al., 2010). The predomi-
+nant
+is,
+however, coupled with several health risks, as it induces
+strong stimulation of the immune system, which can be a
+trigger for the development of asthma and rhinitis in later
+childhood (Johansson et al., 2012). Furthermore, pre-
+dominant colonization of the gastrointestinal tract of pre-
+mature infants with Staphylococcus spp. is associated with
+fatal sepsis (Madan et al., 2012). An increased abundance
+of bacteria belonging the Staphylococcus genus, both in.
+
+Staphylococcus succinus, AJ320272
+Staphylococcus xylosus, D83374
+Staphylococcus equorum, AF527483
+Staphylococcus arlettae, AB009933.
+
+Staphylococcus cohnii, AB009936.
+
+Staphylococcus saprophyticus, D83371
+Staphylococcus kloosii, AB009940
+Staphylococcus auricularis, D83358
+Staphylococcus condimenti, EU727183
+Staphylococcus simulans, D83373.
+
+Staphylococcus pettenkoferi, AM265622
+Staphylococcus intermedius, D83369
+Staphylococcus schleiferi, AB009945.
+
+Staphylococcus capitis, JF302671.
+
+Staphylococcus caprae, AY346310
+Staphylococcus epidermidis, AY030317.
+
+Staphylococcus sacharolyticus, L37602.
+
+Staphylococcus aureus, AM980864.
+
+Staphylococcus pasteuri, AB269765
+Staphylococcus warneri, L37603
+Staphylococcus hominis, L37601
+Staphylococcus lugdunensis, AB009941.
+
+Staphylococcus haemolyticus, D83367
+Staphylococcus sciuri, S83569
+Staphylococcus vitulinus, AB009946.
+
+Gemella morbillorum, L14327
+Gemella haemolysans, M58799
+Gemella sanguinis, AJ534689.
+
 Brochothrix thermosphacta , FJ512270.
+
+Kurthia timonensis, JF824797
+Kurthia massiliensis, JF824795
+Kurthia gibsonii, JF824795.
+
+Lysinibacillus fusiformis, HM179549.
+
+Lysinibacillus sphaericus, AF169495
+Lysinibacillus massiliensis, DQ350822
+Planomicrobium chinense, AJ697862
+Sporosarcina koreensis, DQ073393.
+
+Exiguobacterium aurantiacum, DQ019166.
+
+Ureibacillus suwonensis, AY850379
+Ureibacillus thermosphaericus, AB210996.
+
+Bacillus circulans, AB271747
+Bacillus nealsonii, AF234863.
+
+Bacillus benzeovorans, X60611
+Bacillus siralis, AF071856
+Bacillus infantis, AY904032.
+
+Bacillus marisiflavi, NR_025240.
+
+Bacillus niacini, EU221359
+Bacillus simplex, X60611.
+
+Bacillus marselioanorexicus, JX101689.
+
+Bacillus senegalensis, AF519466.
+
+Bacillus mycoides, AM747229
+Bacillus thuringiensis, FJ601897.
+
+Geobacillus stearothermophilus, DQ870752
+Geobacillus vulcani, EU484349.
+
+Bacillus pseudoformus, AF406790
+Bacillus halodurans, AB021187.
+
+Bacillus arsenicus, GQ304784
+Bacillus atrophaeus, EU304976
+Bacillus mojavensis, FJ907188
+Bacillus polyfermenticus, FJ436015.
+
+Bacillus subtilis, AB018486
+Bacillus vallismortis, EF433404
+Bacillus halotolerans, AM747812.
+
+Bacillus sonorensis, AF302124
+Bacillus amyloliquefaciens, AB201122
+Bacillus licheniformis, FJ417403
+Bacillus badius, X77790.
+
+Bacillus endophyticus, GQ903415
+Bacillus massiliosenegalensis, JF824800.
+
+Bacillus beijingensis, EF371374.
+
+Bacillus thermoamylovorans, AJ586361.
+
+Oceanobacillus massiliensis, HQ586877.
+
+Aneurinibacillus aneurinilyticus, X94194
+Aneurinibacillus migulanus, X94195.
+
+Paenibacillus barcinonensis, AJ716019.
+
+Paenibacillus ilinoisensis, D85397
+Paenibacillus provencensis, EF212893
+Paenibacillus rhizosphaerae, AY751755.
+
+Paenibacillus senegalensis, JF824808.
+
+Paenibacillus pueri, EU391155
+Paenibacillus glucanolyticus, EU373524
+Paenibacillus lautus, AB073188
+Paenibacillus lactis, AY257869
+Paenibacillus durus, AJ251195
+Paenibacillus graminis, AB428571.
+
+Paenibacillus barengoltzii, GQ284368.
+
+Paenibacillus timonensis, AY323611.
+
+Paenibacillus antibioticophila, KC158472
+Paenibacillus divei, AJ320491.
+
+Paenibacillus thiaminolyticus, AJ320491
+Paenibacillus daejeonensis, AF290916
+Brevibacillus brevis, AY897210.
+
+Brevibacillus borstelensis, EU7149093.
+
+Brevibacillus massiliensis, JN837488.
 
 Gemella spp. are abundant in the upper gastrointestinal
 tract and specially the proximal small intestine (Ou et al.,
@@ -501,8 +1314,204 @@ nant in both young children and in adults, which indicates
 the early establishment of these bacteria (Ringel-Kulka
 et al., 2013)..
 
+Clostridium chauvoei, NR_026013
+Clostridium septicum, U59278
+Clostridium sartagoforme, Y18175
+Clostridium tertium, Y18174
+Clostridium celatum, DQ441357.
+
+Clostridium disporicum, DQ810131.
+
+Eubacterium nitritogenes, AB018185.
+
+Clostridium baratii, AB240209
+Eubacterium moniliforme, AB540985
+Eubacterium multiforme, AB018184.
+
+Clostridium beijerinckii, AB020189.
+
+Clostridium saccharoperbutylacetonicum, FR872745.
+
+Clostridium butyricum, AB075768.
+
+Clostridium neonatale, EU869234
+Clostridium botulinum, X68173
+Clostridium vincentii, NR_026336
+Clostridium paraputrificum, AY442815
+Clostridium chartatabidum, X71850.
+
+Clostridium perfringens, AB075767.
+
+Clostridium cadaveris, AB542932.
+
+Clostridium putrefaciens, AF127024.
+
+Clostridium acetobutylicum, AE001437.
+
+Clostridium felsineum, AF270501.
+
+Clostridium sardiniense, X73446.
+
+Clostridium anorexicamassiliense, JX101686
+Clostridium senegalense, JF824801.
+
+Clostridium tyrobutyricum, L08062.
+
+Clostridium subterminale, AF241842
+Clostridium cochelearium, M59093.
+
+Clostridium malenominatum, FR749893.
+
+Ruminococcaceae (cluster IV)
+Peptostreptococcaceae (cluster XI).
+
+Erysipelotrichaceae (clusters XVII & XVIII)
+Fusobacteria.
+
+the Lachnospiraceae family are
+butyrate producers including Anaerostipes spp., Butyrivib-
+rio spp., Coprococcus spp., Roseburia spp., Eubacterium
+rectale- and Eubacterium hallii-related species. Butyrate
+can be used as an energy source by the gut epithelial cells,
+and it has anticarcinogenic and anti-inﬂammatory prop-
+erties (Hamer et al., 2008). Furthermore, a recent study
+shows that butyrate produced by intestinal microorgan-
+isms has beneﬁcial effects on glucose and energy homeo-
+stasis (De Vadder et al., 2014). The decrease in the
+relative abundance of the butyrate-producing Lachnospir-
+aceae in the gastrointestinal microbiota is associated with
+compromised health status of subjects suffering from
+colorectal cancer (Wang et al., 2012), ulcerative colitis
+(Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2013a),
+type 1 (Murri et al.,
+2013) and type 2 diabetes (Qin et al., 2012). This bacte-.
+
+The gastrointestinal Lachnospiraceae include Dorea spp.,
+which are the major gas producers in the gastrointestinal
+tract and its end-products of glucose fermentation include
+both hydrogen and carbon dioxide (Taras et al., 2002).
+Dorea spp. were found in an increased in abundance in
+both pediatric
+syndrome
+patients (Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2011; Saulnier et al.,
+2011), which probably could explain the symptom of
+bloating, experienced by the majority of these patients..
+
+Butyrivibrio fibrisolvens, EU887842
+Oribacterium sinus, AY323228.
+
+Eubacterium cellulosolvens, AB372004
+Lachnoanaerobaculum saburreum, AB525414
+Lachnoanaerobaculum umeaense, FJ796700.
+
 Bacteroides galacturonicus, DQ497994
 Lactobacillus rogosae, GU269544.
+
+Lachnospira pectinoschiza, AY699281.
+
+Eubacterium eligens, CP001104
+Bacteroides pectinophilus, DQ497993.
+
+Eubacterium hallii, L34621
+Coprococcus catus, AB361624
+Coprococcus eutactus, EF031543
+Eubacterium ruminantium, AB008552.
+
+Butyrivibrio crossotus, FR733670.
+
+Clostridium aldenense, DQ279736.
+
+Clostridium citroniae, DQ279737.
+
+Marvinbryantia formatexigens, AJ505973.
+
+Clostridium symbiosum, EF025909.
+
+Clostridium methoxybenzovorans, AF067965
+Clostridium sphenoides, AB075772
+Clostridium hathewayi, AY552788.
+
+Ruminococcus massiliensis, JN657221.
+
+Blautia wexlerae, EF036467
+Ruminococcus obeum, AY169411
+Blautia luti, AJ133124
+Blautia faecis, HM626178
+Blautia glucerasea, AB588023
+Blautia coccoides, AB571656.
+
+Blautia producta, AY937379
+Blautia hansenii, AB534168
+Blautia stercoris, HM626177
+Blautia hydrogenotrophica, X95624.
+
+Roseburia inulinivornas, AJ270473
+Eubacterium rectale, CP001107.
+
+Roseburia faecis, AY804150
+Roseburia hominis, AJ270482
+Roseburia intestinalis, AM055815.
+
+Ruminococcus gauvreauii, EF529620.
+
+Ruminococcus faecis, FJ611794
+Clostridium glycyrrhizinilyticum, AB233029
+Clostridium nexile, X73443
+Coprococcus comes, EF031542
+Dorea formicigenerans, L34619
+Dorea masseliensis, JX101687.
+
+Eubacterium ventriosum, L34421
+Anaerostipes hadrus, JF412658
+Anaerostipes coli, AY305319.
+
+Anaerostipes butyraticus, AB616134
+Parasporobacterium paucivorans, AJ272036
+Anaerostipes caccae, AB243986.
+
+Anaerostipes rhamnosus, JX273468.
+
+Clostridium aminovalericum, X73436.
+
+Clostridium populeti, X71853
+Clostridium herbivorans, L34418
+Cellulosilyticum lentocellum, EF399596.
+
+Clostridium lactatifermentans, AY033434.
+
+Subdoligranulum variable, AJ518869
+Gemmiger formicillis, GQ898320.
+
+Faecalibacterium prausnitzii, AJ413954.
+
+Eubacterium siraeum, EU266550
+Acetanaerobacterium elongatum, AY487928
+Soleaferrea massiliensis, JX101688
+Anaerotruncus colihominis, AJ315980.
+
+Clostridium methylpentosum, Y18181
+Ruminococcus callidus, X85100
+Ruminococcus flavefaciens, AM915271
+Ruminococcus champanellensis, AJ515913.
+
+Clostridium sporosphaeroides, M59116.
+
+Ruminococcus bromii, AY980256
+Pseudoflavonifractor capillosus, AY136666
+Flavonifractor plautii, AB693937
+Clostridium anorexicus, JX101685
+Intestinimonas butyriciproducens, KC311367.
+
+Eubacterium desmolans, L34618
+Clostridium cellobioparum, X71856.
+
+Clostridium clariflavum, AB186359.
+
+Fig. 14. Phylogenetic tree the human gastrointestinal species that belong to the Clostridium cluster IV, most of which belong to the family of
+the Ruminococcaceae. GenBank Accession Numbers of the SSU rRNA gene sequence are provided for each species and the family names are
+indicated. The species indicated in bold are based on the SSU rRNA gene sequence clustering within the families that are designated on the
+ﬁgure in contrast to their ofﬁcial classiﬁcation. Deeply rooted Ruminococcus spp., which based on the SSU rRNA gene sequence cluster within
+distant phylogenetic groups, are depicted in the gray area..
 
 Blautia is a recently described bacterial genus that
 groups
@@ -526,6 +1535,12 @@ but this could reﬂect the adaption of the ecosystem to
 the larger amount of gasses produced by Dorea spp.,
 which can be utilized by Blautia spp..
 
+An interesting group within the Lachnospiraceae family
+is the misclassiﬁed Ruminococcus spp., including R. gna-
+vus, R. torques, R. lactaris, and R. faecis. These bacteria
+are abundant in the gastrointestinal tract (Holdeman &
+Moore, 1974), and apparently associated with a number.
+
 of important metabolic functions. R. torques and other
 currently uncultured species related to R. torques, are
 among the most potent mucus utilizes that enable mucus
@@ -545,6 +1560,14 @@ correlated with irritable bowel syndrome symptoms (Mal-
 inen et al., 2010) and signiﬁcantly reduced by probiotics
 consumption that reduces these symptoms (Lyra et al.,
 2010)..
+
+The Ruminococcaceae family is another relevant group
+of gastrointestinal bacteria within the Clostridiales order.
+It includes the true Ruminococcus spp. — members of the
+sensu stricto namely R. albus, R. bromii,
+Ruminococcus
+R. callidus, R. champanellensis, and R. ﬂavefaciens. Several
+other frequently detected gastrointestinal genera that are.
 
 recognized members of the Clostridium cluster IV (Clos-
 tridium leptum group) are either members or are closely
@@ -661,6 +1684,63 @@ biota in colon cancer patients but not much is known
 about this group of bacteria belonging to Clostridium
 Family XIII Incertae Sedis (Chen et al., 2012)..
 
+Eubacterium limosum, M59120
+Eubacterium callanderi, NR_026330.
+
+Pseudoramibacter alactolyticus, AB036760.
+
+Anaerofustis stercorihominis, AJ518871.
+
+Eubacterium sulci, GQ157399
+Eubacterium brachy, U13038.
+
+Lachnospiraceae (cluster XIVa)
+Ruminococcaceae (cluster IV).
+
+Erysipelotrichaceae (clusters XVII & XVIII).
+
+Fig. 15. Phylogenetic tree the human gastrointestinal species that belong to the family of the Eubacteriaceae and Clostridiales Family XIII
+Incertae Sedis. GenBank Accession Numbers of the SSU rRNA gene sequence are provided for each species and the family names are indicated.
+The species indicated in bold are based on the SSU rRNA gene sequence clustering within the families that are designated on the ﬁgure in
+contrast to their ofﬁcial classiﬁcation. Deeply rooted Eubacterium spp., which based on the SSU rRNA gene sequence cluster within distant
+phylogenetic groups are depicted in the gray area..
+
+Tindall & Euzeby, 2006; Liu et al., 2008). All these genera,
+with exception of Blautia that is a genus in the Lachno-
+spiraceae family, belong to the Clostridiales Family XI
+Incertae Sedis . Among this group of bacteria,
+the most
+Peptoniphilus asaccharolyticus
+frequently
+detected and also was
+to be cultured and
+described (Distaso, 1911). Currently, only two true Pepto-
+streptococcus spp. have been recognized as gastrointestinal
+inhabitants, although a number of other species that are
+ofﬁcially classiﬁed within different genera (predominantly
+Clostridium) belong to the Peptostreptococcaceae family
+according to their SSU rRNA gene sequence .
+Members of the Peptostreptococcaceae family are, in prin-
+ciple, associated with compromised health, and the most
+convincing
+is Clostridium difﬁcile.
+this
+Although C. difﬁcile can be present in low numbers in
+healthy subjects without exhibiting pathogenic properties
+(Ozaki et al., 2004), many strains are toxin producing
+and are well-established pathogens that cause severe diar-
+rhea. Furthermore, recent studies have shown that Pepto-
+streptococcus
+in
+association with ulcerative colitis (Rajili(cid:1)c-Stojanovi(cid:1)c et al.,
+2013a) and colorectal cancer (Chen et al., 2012; Wang
+et al., 2012). Based on the SSU rRNA gene sequence, the
+members of the Peptococcaceae family form two paraphy-
+letic groups within the Firmicutes phylum, of which the
+group that contains the two human gastrointestinal bacte-
+ria is closely related to Negativicutes class and is discussed
+in the following section..
+
 stridia class, form distinct branches in the phylogenetic
 tree . Two of
 these gastrointestinal bacteria,
@@ -697,7 +1777,92 @@ irritable bowel syndrome (Jalanka-Tuovinen et al., 2013).
 family were
 the human gastrointestinal.
 
+Clostridium bartlettii, AY438672.
+
+Clostridium lituseburense, EU887828.
+
+Clostridium glycoicum, X76750
+Clostridium irregulare, X73447.
+
+Peptostreptococcus anaerobius, AY326462
+Peptostreptococcus stomatis, FJ505007.
+
+Clostridium hiranonis, AB023970.
+
+Clostridium difficile, AF072473
+Clostridium bifermentans, AB075769.
+
+Clostridium sordellii, AB075771.
+
+Clostridium ghonii, AB542933
+Eubacterium tenue, DQ445859.
+
+Filifactor alocis, AJ006962
+Filifactor villosus, AF537211.
+
+Clostridium sticklandii, M26494
+Anoxynatronum sibiricum, AF522323.
+
+Anaerococcus obesiensis, JN837490
+Anaerococcus vaginalis, AF542229
+Anaerococcus senegalensis, JF824805.
+
+Anaerococcus hydrogenalis, AB538433.
+
+Anaerococcus octavius, Y07841
+Anaerococcus prevotii, AF542232.
+
+Kallipyga massiliensis, JN837487.
+
+Peptoniphilus timonensis, JN657222
+Peptoniphilus senegalensis, JF824803.
+
+Peptoniphilus grossensis, JN837491.
+
+Peptoniphilus asaccharolyticus, D14145.
+
+Peptoniphilus lacrimalis, FJ508347.
+
+Peptoniphilus obesiensis, JN837495
+Peptoniphilus indolicus, AY153430.
+
 Bacteroides coagulans, DQ497990.
+
+Fig. 16. Phylogenetic tree the human gastrointestinal species that belong to families of the Peptostreptococcaceae and Clostridiales Family XI
+Incertae Sedis. GenBank Accession Numbers of the SSU rRNA gene sequence are provided for each species and the family names are indicated.
+The species indicated in bold are based on the SSU rRNA gene sequence clustering within the families that are designated on the ﬁgure in
+contrast to their ofﬁcial classiﬁcation..
+
+microbiota . These bacteria are ofﬁcially classiﬁed
+and Clostridiales order,
+within the Clostridia class
+although based on the SSU rRNA gene sequence they are
+closely related to the members of the Selenomonadales.
+
+Dialister invisus, AY162469
+Dialister succinatiphilus, AB370249
+Dialister pneumonsintes, X82500.
+
+Veillonella parvula, AB538437
+Veillonella atypica, AF439641
+Veillonella rogosae, NR_04491
+Veillonella dispar, AF439639.
+
+Selenomonas ruminantium, AB198431.
+
+Mitsuokella jalaludinii, AF479674.
+
+Mitsuokella multacida, GU227153.
+
+Megamonas hypermegale, AJ420107
+Mitsuokella funiformis, AB300988.
+
+Acidaminococcus fermentans, X78017.
+
+Acidaminococcus intestini, AF473835
+Phascolarctobacterium faecium, X72867.
+
+Phascolarctobacterium succinatutens, AB490812.
 
 from Clostridia sensu stricto. Peptococcus niger is the only
 representative of the genus. This strictly anaerobic bacte-
@@ -738,6 +1903,119 @@ this bacterium
 the isolated strain of
 requires for its growth (the minimal required NaCl con-.
 
+The Negativicutes include bacteria that were previously
+assigned to the Clostridium cluster IX (Collins et al.,
+1994; Marchandin et al., 2010), distributed within the fol-
+lowing genera: Acidamoinococcus, Dialister, Megamonas,
+Megasphaera,
+Veillonella
+this group used to be classiﬁed
+. Bacteria of
+within the order Clostridiales, although based on their
+SSU rRNA gene sequence, they are distant from other
+Clostridiales. Therefore,
+following the description of a
+novel gastrointestinal inhabitant — Negativicoccus succi-
+nicivorans,
+the novel class of Negativicutes and novel
+order of Selenomonadales were introduced to accommo-
+date the Gram-negative staining bacteria within the Fir-
+micutes phylum (Marchandin et al., 2010). The ﬁrst
+record of this bacterial group dates from 1898 when Veil-
+lon and Zuber isolated Staphylococcus parvulus, which was
+later
+from infected
+appendix tissue (Veillon & Zuber, 1898). The Negativi-
+cutes are typically isolated from the oral cavity or the
+proximal small bowel (Rogosa, 1965; Simon & Gorbach,
+1986), but representative species from this group can be
+detected in high abundances even in the lower intestinal
+tract. In that line V. parvula, can reach densities of up to
+1011 cells g
+(Finegold et al., 1977), while
+molecular quantiﬁcation of Phascolarctobacterium spp..
+
+reclassiﬁed as Veillonella parvula,.
+
+showed that these bacteria represent more than 2% of the
+total
+fecal microbiota in some subjects (Paliy et al.,
+2009). Members of the Negativicutes are assacharolytic
+and utilize end=products of sugar metabolisms of other
+gastrointestinal bacteria (such as lactate or succinate) to
+produce propionate, forming an important trophic chain.
+Propionate is a beneﬁcial product of the gastrointestinal
+microbiota as it has anti-inﬂammatory potential, is uti-
+lized by adipose tissue and the liver, plays a role in the
+satiety sensation, inﬂuences glucose and energy homeosta-
+sis, and improves insulin sensitivity (Vipperla & O’Keefe,
+2012; De Vadder et al., 2014). In the upper gastrointesti-
+nal tract, Veillonella spp. are an indispensable component
+of the gastrointestinal microbiota (van den Bogert et al.,
+2011) where they form a trophic chain with the lactate
+and acetate-producing Streptococcus spp. (Zoetendal et al.,
+2012). Currently, there is no evidence about the role of
+Veillonella spp. in human health, although several studies
+have shown an increased abundance of Veillonella spp. in
+fecal samples of irritable bowel patients (Malinen et al.,
+2005; Tana et al., 2010; Saulnier et al., 2011), which could
+indicate an increased transit of the ileal microbiota to the
+lower part of the gastrointestinal tract..
+
+ria that based on their SSU rRNA gene sequence cluster
+within the Erysipelotrichi class are still ofﬁcially classiﬁed
+within other groups of the Firmicutes . This indi-
+cates that a major revision of this group can be expected
+in the future. There are several studies that link Erysipelo-
+trichi with compromised health. An increased abundance
+of Erysipelotrichi in patients suffering from colon cancer
+was reported (Chen et al., 2012). Animal model experi-
+this group are
+ments have shown that members of
+increased on high fat, and western type diets (Turnbaugh
+et al., 2009; Fleissner et al., 2010), while their increased
+abundance is associated with obesity (Turnbaugh et al.,
+2006). Furthermore, it has been shown that an increased
+abundance of Erysipelotrichaceae correlates with choline
+deﬁciency-induced fatty liver disease
+et al.,
+2011), which causes multiple organ dysfunctions. Choline
+is an important component of our diet, and recently, it
+was found that choline and phospatidylcholine are con-
+verted by the intestinal microbiota to trimethylamine,
+which is further metabolized to proatherogenic trimethyl-
+amine-N-oxide, linking diet and microbiota to cardiovas-
+cular disease (Wang et al., 2011b; Koeth et al., 2013)..
+
+Streptococcus pleomorphus, DQ797848.
+
+Eubacterium dolichum, L34682
+Eubacterium tortuosum, L34683
+Eubacterium cylindroides, L34616.
+
+Clostridium saccharogumia, DQ100445.
+
+Stoquefichus massiliensis, JX101690.
+
+Coprobacillus cateniformis, AB030218.
+
+Bulleidia extructa, AF220064
+Solobacterium moorei, AB031057.
+
+Holdemania massiliensis, JX101683
+Holdemania filliformis, FJ504519.
+
+Mycoplasma pneumoniae, AF132741.
+
+Fig. 19. Phylogenetic tree the human gastrointestinal species that belong to the order of the Erysipelotrichi. GenBank Accession Numbers of the
+SSU rRNA gene sequence are provided for each species, while the family is divided over Clostridium clusters (Collins et al., 1994). The species
+indicated in bold are based on the SSU rRNA gene sequence clustering within the Erysipelotrichi in contrast to their ofﬁcial classiﬁcation..
+
+Kandleria vitulina, AB210825
+Catenibacter mitsuokai, AB030226.
+
+Eggerthia catenaformis, AJ621549.
+
 It has been suggested that members of the Tenericutes
 are involved in inﬂammatory bowel disease, as they have
 the ability to adhere to and to fuse with epithelial and
@@ -758,11 +2036,118 @@ and Mycoplasma hominis revealed the presence of these
 two species in anal swaps of more than half of the ana-
 lyzed subjects (Munday et al., 1981)..
 
+ria are pointed, nonsporulating, Gram-negative, anaerobic
+bacilli (Knorr, 1922). The ﬁrst record of a Fusobacterium
+spp. originates from 1886 when Bacillus fusiforme (now
+known as Fusobacterium necrophorum) was reported as a
+pathogen related to appendicitis (Fl€ugge, 1886). Although
+Fusobacterium spp. can be isolated from gastrointestinal
+samples of healthy humans
+in densities of up to
+(cid:1)1 of feces (Benno et al., 1989), this group of
+1010 cells g
+bacteria seems to be relevant for intestinal inﬂammation.
+Recent studies have shown that the majority of cases of
+acute appendicitis are associated with a local infection of
+Fusobacterium spp. (Swidsinski et al., 2011), while the
+increased abundance of Fusobacterium spp. is associated
+with ulcerative colitis (Rajili(cid:1)c-Stojanovi(cid:1)c et al., 2013a)
+and colorectal cancer (Castellarin et al., 2012; Kostic
+et al., 2012). The human gastrointestinal tract-associated
+Fusobacteria also include representatives of the Leptotri-
+chia genus and the misclassiﬁed C. rectum ..
+
+Fusobacteria are
+frequently
+another phylum of
+detected gastrointestinal bacteria, the majority of which
+belong to the genus Fusobacterium . These bacte-.
+
+Fusobacterium naviforme, AJ006965.
+
+Fusobacterium nucleatum, AF481217.
+
+Fusobacterium peridonticum, FJ471668.
+
+Fusobacterium mortiferum, AJ867032
+Fusobacterium necrogenes, AJ867034.
+
+Fusobacterium necrophorum, AJ867038
+Fusobacterium gonidiaformans, NR_027588.
+
+Cetobacterium somerae, AJ438155.
+
+Leptotrichia buccalis, GU561361.
+
+Leptotrichia amnionii, AY489565.
+
+20th century (Holdeman et al., 1976; Benno et al., 1986;
+Moore & Moore, 1995; Macfarlane et al., 2004). Ironi-
+cally, the recent SSU rRNA gene sequence analysis of
+G. formicilis indicated that this species has been misclassi-
+ﬁed and belongs to Firmicutes (Clostridia/Clostridiales/
+Ruminococcaceae) and has almost an identical SSU rRNA
+gene
+(98.3%
+sequence similarity). Nevertheless, other representatives of
+the true Alphaproteobacteria seem to be a part of the
+normal gastrointestinal microbiota. In a recent study, four
+alphaproteobacterial species were cultivated from gastro-
+et al., 2012a). Twenty-four
+intestinal
+samples
+subdivision were detected by
+other members of
+retrieving SSU rRNA gene sequences identical to previ-
+ously cultured bacteria from gastrointestinal
+samples
+. AlphapProteobacteria seem to be char-
+acteristic for the upper part of the gastrointestinal tract as
+sequences of these bacteria were detected only in studies
+where samples from the upper intestine were included
+(Eckburg et al., 2005; Wang et al., 2005), or when the
+microbiota of patients with ileal pouch was analyzed
+(McLaughlin et al., 2010). There are no data that corre-
+late Alphaproteobacteria with any speciﬁc function in the
+gastrointestinal
+some
+genera are known to perform speciﬁc metabolic transfor-
+mations — for example, Methylobacterium spp. include
+bacteria that can oxidize methylamine or methanol to.
+
 The ﬁrst bacterium from the Betaproteobacteria class —
 Alcaligenes faecalis — was isolated from a human fecal
 sample in 1896 (Petruschky, 1896). This asaccharolytic
 rod that can utilize urea, a range of amino-acids, and can
 produce nitric oxide (NO; Denault et al., 1953) has fre-.
+
+Paracoccus carotinifaciens, AB006899
+Paracoccus yeei, EU888510
+Paracoccus marinus, AB185957.
+
+Ochrobactrum anthropi, AM114400.
+
+Ochrobactrum intermedium, DQ356905
+Agrobacterium tumefaciens, AJ389899.
+
+Methylobacterium adhaesivum, AM040156.
+
+Methylobacterium jeotgali, DQ471331
+Methylobacterium mesophilicum, D32225
+Methylobacterium radiotolerans, AB175637.
+
+Methylobacterium populi, AY251818
+Methylobacterium zatmanii, AB175647
+Microvirga massiliensis, JF824802
+Ancylobacter polymorphus, AY211516.
+
+Brevundimonas terrae, DQ335215
+Brevundimonas diminuta, EU977839.
+
+Brevundimonas vesicularis, AJ227780.
+
+Brevundimonas bacteroides, M83796
+Phenylobacterium haematophilum, AJ244650.
 
 quently been detected in later studies of the gastrointesti-
 nal microbiota. A number of other bacteria within this
@@ -797,6 +2182,69 @@ unique intestinal bacterium that degrades exclusively oxa-
 (cid:1)1 of feces
 late and can reach densities of up to 107 cells g
 (Allison et al., 1985). Due to its metabolic activity, O. for-.
+
+Neisseria spp. are inhabiting mucosal surfaces of the gen-
+ital, the respiratory and the upper gastrointestinal tract.
+Neisseria gonorhhoea and Neisseria meningitis are the most
+studied as they are important pathogens causing gonor-
+rhoea and meningitis. However, the majority of Neisseria
+spp. are nonpathogenic and their presence in the gastroin-
+testinal tract samples was detected in the early cultivation-
+based studies (Gray & Shiner, 1967; Bhat et al., 1980). The
+presence of speciﬁc Neisseria spp. in the gastrointestinal
+tract was only recently reported in a high-throughput cul-
+turing study (Lagier et al., 2012a) and emerged from SSU
+rRNA gene sequencing-based studies .
+Nonpathogenic Neisseria spp. do not catabolize many car-
+bohydrates, while some species are even asaccharolytic, but
+they can reduce nitrate. It is known that Neisseria spp. are
+able to grow on amino acids and can use sulfur directly
+from sulfate (McDonald & Johnson, 1975), but their func-
+tion in the gastrointestinal tract has not been exploited..
+
+Sutterella wadsworthensis, L37785.
+
+Sutterella parvirubra, AB300989.
+
+Parasutterella secunda, AB621360.
+
+Parasutterella excrementihominis, AB370250.
+
+Bordetella hinzii, AF177667
+Kerstersia gyiorum, AY131213
+Burkholderia cepacia, M22518
+Limnobacter thiooxidans, AJ289885.
+
+Lautropia mirabilis, HF558380
+Methyloversatilis universalis, GQ157673
+Neisseria flava, AJ239301
+Neisseria mucosa, AJ239282
+Neisseria macacae, KC178519.
+
+Neisseria elongata, L06171
+Eikenella corrodens, AF320620
+Neisseria cinerea, AY831725
+Neisseria flavefacens, AJ239280
+Neisseria subflava, AJ239291.
+
+Neisseria perflava, HF558366
+Kingella oralis, L06164.
+
+Laribacter hongkongensis, AF389085.
+
+which are occasionally reported as members of the gastro-
+intestinal microbiota . Among them, Acidovorax
+spp. were found to be ubiquitously present in the colonic
+mucosa (Hong et al., 2011), Burkholderia spp. were found
+in an increased abundance in hepatic encephalopathy and
+were linked to poor cognition and inﬂammation (Bajaj
+et al., 2012), while Variovorax spp. seem to be particularly
+abundant
+tract (van den
+Bogert et al., 2011). There is no available information
+about association of other species with speciﬁc gastroin-
+testinal sites, diseases or functions of the gastrointestinal
+microbiota..
 
 Within the class Gammaproteobacteria, nine different fam-
 ilies distributed within six different orders have been
@@ -838,6 +2286,43 @@ ner et al., 1984; Farmer et al., 1985; Hickman-Brenner
 et al., 1985a, b). A speciﬁc case is represented by the
 so-called adherent-invasive E. coli strains that have been.
 
+implied in various forms of inﬂammation in the gastroin-
+testinal tract of human and animal models (Negroni et al.,
+2012; Chassaing et al., 2014). Phylogenetically, the Entero-
+bacteriaceae is a diverse group and while some genera
+form separate clusters (e.g., Yersinia), species of other
+genera are mixed up in the SSU rRNA phylogenetic tree
+. The absence of genus-speciﬁc SSU rRNA gene
+sequences for these genera, could explain a recent the
+sequences assigned to E. coli, Salmonella
+ﬁnding that
+enterica, Citrobacter koseri, and Enterobacter cancerogenus
+appear together (Lozupone et al., 2012)..
+
+In addition to the Enterobacteriaceae, representatives of
+eight other bacterial families with the Gammaproteobac-
+teria class can be detected in the human gastrointestinal
+tract . Among these, members of the Moraxella-
+ceae are relatively frequently detected using both cultiva-
+tion-based and molecular studies. Within this family,
+Acinetobacter spp. are the most diverse and are frequently
+detected in infants (Chang et al., 2011; Pandey et al.,
+2012), with an increased abundance in infants
+that
+develop allergy (Nakayama et al., 2011). A recent study
+has indicated that members of the Gammaproteobacteria
+and in particular Haemophilus spp. are elevated in irrita-
+ble bowel syndrome pediatric patients (Saulnier et al.,
+2011). Members of the same phylogenetic group were
+found to correlate with irritable bowel syndrome symp-
+tom score in an independent study (Rajili(cid:1)c-Stojanovi(cid:1)c
+et al., 2011). Haemophilus spp. are relatively frequently
+detected in the upper parts of the gastrointestinal tract of
+healthy humans of different ages (Justesen et al., 1984;
+Ou et al., 2009), but also can be detected inﬂamed and
+stool specimens from children with diarrhea, with rela-
+tively low prevalence (M(cid:1)egraud et al., 1988)..
+
 Aeromonas spp. are medically signiﬁcant as these spe-
 cies are implicated in the development of the gastroenter-
 itis and diarrhea. The role of these bacteria in human
@@ -849,6 +2334,94 @@ these species in the gastrointestinal tract is not necessarily
 inducing any symptoms, although in vitro experiments
 have indicated that they are cytotoxic and induce lesions
 in the intestinal mucosa (Pitarangsi et al., 1982)..
+
+The Succinivibrionaceae family groups strictly anaerobic
+bacteria that ferment carbohydrates to produce succinate
+and acetate. Representatives of three genera of this family
+can be detected in the human gastrointestinal tract: An-
+aerobiospirillum spp. are motile, spiral bacteria that are
+implicated in the development of diarrhea (Malnick,
+1997); while Succinatimonas and Succinivibrio representa-
+tives are subdominant bacteria that were isolated from
+healthy humans (Table S1)..
+
+Escherichia albertii, AY696664
+Escherichia fergusonii, JQ319655
+Shigella flexneri, X96963
+Shigella dysenteriae, EU409294.
+
+Citrobacter amalonaticus, DQ187379
+Citrobacter sedlakii, AF024364
+Citrobacter farmeri, FN433034
+Salmonella enterica, FN555100
+Citrobacter koseri, AF025372
+Escherichia hermannii, AB273738
+Enterobacter massiliensis, JN657217
+Pantoea agglomerans, AY849936.
+
+Enterobacter hormaechei, AY995561
+Enterobacter ludwigii, AM184285
+Cedecea davisae, AF493976.
+
+Enterobacter cancerogenus, FM210030.
+
+Enterobacter cloacae, AF157695
+Klebsiella pneumoniae, Y17654
+Enterobacter asburiae, EU221358.
+
+Raoultella terrigena, AF129442
+Citrobacter braakii, AF025368
+Citrobacter murliniae, AF025369.
+
+Citrobacter werkmanii, FJ581027
+Yokenella regensburgei, AB273739.
+
+Citrobacter gillenii, AF025367
+Kluyvera ascorbata, AF008579.
+
+Enterobacter aerogenes, AJ251468
+Raoultella planticola, AB099403.
+
+Cronobacter sakazakii, DQ228421.
+
+Trabulsiella guamensis, AB273737.
+
+Hafnia alvei, AB244475
+Serratia fonticola, AF286869
+Serratia liquefaciens, FJ811864.
+
+Plesiomonas shigelloides, FJ375179.
+
+Yersinia aleksiciae, AJ627599
+Yersinia bercovieri, AF366377.
+
+Yersinia pseudotuberculosis, AF366375.
+
+Yersinia frederiksenii, Af366379.
+
+Yersinia enterocolitica, EF179127.
+
+Yersinia rohdei, AB682282
+Yersinia kristensenii, EF179126.
+
+Providencia alcalifaciens, JX500693.
+
+Providencia rustigianii, AM040489
+Moellerella wisconsensis, AM040754
+Moellerella morganii, AB089244.
+
+Proteus mirabilis, AF008582
+Proteus penneri, JX141365
+Proteus vulgaris, Dq205432.
+
+Leminorella richardii, HF558368
+Leminorella grimontii, AJ233421
+10%.
+
+Members of the Vibrionaceae are pathogens that cause
+acute, self-limiting gastroenteritis (Hou et al., 2011). The
+natural habitat of Vibrio spp. is the aquatic ecosystem,
+and hence they are only rarely detected in the human.
 
 Eight different Pseudomonas spp. can be detected in the
 human gastrointestinal tract. Among them, Pseudomonas
@@ -891,7 +2464,141 @@ it is
 most likely that Xanthomonadaceae are transient members
 of the gastrointestinal microbiota..
 
+Sulfate-reducing bacteria that cluster within the d class of
+the phylum Proteobacteria inhabit the human gastrointes-
+tinal
+tract where they utilize sulfate that can be diet
+derived or released from mucins. Human gastrointestinal
+tract-associated sulfate-reducing bacteria include the ace-
+tate-utilizing Desulfobacter spp., the lactate-, and H2-uti-
+lizing Desulfovibrio spp., and the propionate-utilizing
+Desulfobulbus spp. (Gibson et al., 1988). This group of
+related bacteria has been subject of numerous studies
+because the end-product of their metabolism — hydrogen
+sulﬁde — is a highly toxic compound that inhibits buty-
+rate oxidation within the colonocytes
+(Attene-Ramos
+et al., 2006). Hydrogen sulﬁde overproduction in the gas-
+trointestinal tract has been linked to ulcerative colitis and
+colon cancer. Although some cultivation, studies showed
+an association between the presence of sulfate-reducing.
+
+Haemophilus haemolyticus, EU909671.
+
+Haemophilus influenzae, EU909676.
+
+Aggregatibacter aphrophilus, AY365449
+Actinobacillus pleuropneumoniae, AF033059.
+
+Haemophilus parainfluenzae, M75081
+Haemophilus sputorum, EF399173.
+
+Vibrio furnissii, EU204961
+Vibrio parahaemolyticus, EU660326
+Grimontia hollisae, EU330211
+Aeromonas allosaccharophila, S39232
+Aeromonas bestiarum, AB034759.
+
+Aeromonas jandaei, AF099025
+Aeromonas veronii, X60414
+Aeromonas tecta, HQ832416.
+
+Aeromonas media, AF418217
+Aeromonas trota, X60415
+Aeromonas enteropelogenes, FJ940843.
+
+Anaerobiospirillum succiniciproducens, EU853654
+Succinivibrio dextrinosolvens, Y17600.
+
+Anaerobiospirillum thomasii, AJ420985
+Succinatimonas hippei, AB490810.
+
+Acinetobacter pittii, KC494329
+Acinetobacter baumannii, FJ8673457
+Acinetobacter septicus, EF611420
+Acinetobacter radioresistens, GQ158714.
+
+Acinetobacter lwoffii, X81665
+Acinetobacter haemolyticus, AY586400
+Acinetobacter johnsonii, AY167841
+Acinetobacter calcoaceticus, AJ888984.
+
+Moraxella osloensis, X95304
+Psychrobacter arenosus, AJ609273.
+
+Moraxella catarrhalis, AF005185
+Pseudomonas aeruginosa, AB126582
+Pseudomonas nitroreducens, AM088474.
+
+Pseudomonas stutzeri, AF143245
+Pseudomonas alcaliphila, AB030583
+Pseudomonas oleovorans, GQ387664.
+
+Pseudomonas monteilli, AF502594
+Pseudomonas fluorescens, AY538263
+Pseudomonas putida, AB180734.
+
+Stenotrophomonas maltophilia, AB008509
+Pseudoxanthomonas rhizophila, AJ293462.
+
+bacteria and ulcerative colitis,
+the overproduction of
+hydrogen sulﬁde has a stronger correlation with dietary
+protein (Magee et al., 2000) than with dietary sulfate
+(Deplancke et al., 2003), challenging the hypothesis that
+the metabolic activity of
+sulfate-reducing bacteria is
+involved in compromised health, at least in healthy sub-
+jects. Sulfate-reducing bacteria are normally present in
+(cid:1)1 (Fite
+low abundance, of approximately 106–107 cells g
+et al., 2004), and although at least three different genera
+of this group of bacteria can be found in the human gas-
+trointestinal tract, only Desulfovibrio spp. are character-
+ized below the genus level . In addition, Bilophila
+wadsworthia is another member of Deltaproteobacteria.
+
+that
+the studied
+humans (Baron et al., 1992; Baron, 1997). Bilophila wads-
+worthia is capable of utilizing taurine, which is released
+by deconjugation of bile salts or present in the diet, and
+also generates hydrogen sulﬁde as the major end-product.
+Its involvement in promoting colitis via taurine metabo-
+lism in mice has recently been established (Devkota et al.,
+2012)..
+
+Arcobacter butzleri, AY621116
+Arcobacter cryaerophilus, AY314755.
+
+Helicobacter pylori, Z25741
+Flexispira rappini, AF302762
+Helicobacter cinaedi, AF207739
+Helicobacter canadensis, AF262037
+Helicobacter pullorum, AJ876520
+Helicobacter winghamensis, AF246985.
+
+Campylobacter concisus, AF550653.
+
+Campylobacter faecalis, AJ276874
+Campylobacter hominis, AF062492.
+
+Campylobacter gracilis, AF550657.
+
+Campylobacter hyointestinalis, AF097685.
+
+Campylobacter upsaliensis, DQ174157.
+
+Campylobacter lari, AB181362
+Campylobacter jejuni, AF550627.
+
 Bacteroides ureolyticus, FN401327.
+
+Desulfovibrio desulfuricans, DQ450463
+Desulfovibrio fairfieldensis, U42221
+Desulfovibrio piger, AF192152.
+
+Bilophila wadsworthia, AJ867049.
 
 bacter and Helicobacter. Campylobacter is a genus that
 groups diverse isolates from mucosal surfaces of gastroin-
@@ -919,6 +2626,15 @@ remain asymptomatic, suggesting that at least some species
 of this genus are commercial members of the gastrointesti-
 nal microbiota..
 
+The Arcobacter genus was introduced to accommodate
+an independent cluster identiﬁed based on the SSU rRNA.
+
+gene sequences, of species that were previously classiﬁed
+within the Campylobacter genus (Vandamme et al., 1991).
+These bacteria are also associated with diarrheal disease,
+although the prevalence of their isolation, even from clin-
+ical samples is very low (Engberg et al., 2000)..
+
 The genus Helicobacter has been derived from Cam-
 pylobacter after reclassiﬁcation of
 the latter (Goodwin
@@ -942,7 +2658,52 @@ testinal tract . This species was isolated in 2003,
 liquid
 as a bacterium that was able to grow in basal.
 
+Akkermansia muciniphila, AY271254.
+
+Brachyspira aalborgi, AM039526
+Brachyspira pilosicoli, AY155458
+Treponema berlinense, AY230217
+Deinococcus aquaticus, DQ017708.
+
+Cloacibacillus evryensis, CU463952
+Pyramidobacter piscolens, EU309492.
+
+Methanobrevibacter ruminantium, AY196666.
+
+Methanobrevibacter smithii, U55233.
+
+Methanosphaera stadtmanae, NR_074323.
+
+Halococcus koreense, EF077636
+Halococcus morrhuae, D11106
+Methanomassiliicoccus luminyensis, HQ896499.
+
 Nitrososphaera gargensis , NR_102916.
+
+Sulfolobus solfataricus, NR_074370.
+
+The ﬁrst report of the Spirochetes in the human gastrointes-
+tinal samples dates from 1923 when a cultivation-based
+study reported the 28% prevalence of these bacteria in fecal
+samples of healthy individuals (Parr, 1923). The Spirochetes
+are established pathogens in veterinary medicine and their
+pathogenicity in humans has been debated for a long per-
+iod of time. Two species of the phylum Spirochetes can be
+detected in the human gastrointestinal samples: Brachyspira
+pilosicoli and Brachyspira aalborgi . Their presence
+in the gastrointestinal tract is termed intestinal spirochet-
+osis, which in clinical cases is associated with abdominal
+pain and diarrhea. However, a retrospective review of cases
+diagnosed as intestinal spirochetosis revealed that the pres-
+ence of Spirochetes in the gastrointestinal biopsies is often
+asymptomatic and may not have pathological signiﬁcance
+(Carr et al., 2010). The question of implication of the Spi-
+rochetes in clinical cases might be a question of their density
+in the gut. These bacteria typically colonize intestinal
+mucosa where they attach and penetrate short distances
+into the surface epithelial cells (Harland & Lee, 1967). In
+clinical cases of spirochetosis they form a dense bioﬁlm that
+covers the entire colonic surface, as indicated by scanning.
 
 electron microscopy images (Gad et al., 1977). Another
 factor might be relevant to the currently undeﬁned role of

@@ -1,0 +1,52 @@
+The aim of the present study was to utilize Illumina
+sequencing of the 16S rRNA gene and inferred meta-
+genomics by open source software PICRUSt (Phyloge-
+netic Investigation of Communities by Reconstruction of
+Unobserved States  to investigate differences in
+microbiome composition and function in the fecal and
+colonic mucosa of mice treated with 5% DSS for 5 days. DNA extraction
+from colonic mucosa samples was done using ZR Tissue
+and Insect DNA kit (Zymo Research Corp.). DNA was quantiﬁed
+using a NanoDrop 2000 spectrophotometer (Thermo
+Scientiﬁc, Wilmington, DE, USA). Principle coordinate analysis (PCoA) of weighted UniFrac distances, a measure of b-diversity of bacterial community. ( a) Fecal
+samples clustered separately according to treatment status of the mice, suggesting that DSS and control mice samples are composed of
+distinct bacterial communities; (b) colon mucosa samples have shared bacterial communities. DSS, dextran sulphate sodium..
+
+Of the 86 taxa, 56 had abundance greater than or equal
+to 0.01% of community, whereas 30 were below 0.01%. 5a, Bacteroides
+ovatus, Clostridium perfrigens, Helicobacter hepaticus, and
+Parabacteroides distasonis; g. Desulfovibrio, Escherichia,
+Helicobacter, Clostridium,
+Parabacteroides,
+Bacilli, Allobaculum, Coprobacillus, Bacteroides, rc4-4; and
+unclassiﬁed members of f. Enterobacteriaceae, Clostri-
+diaceae, Bacteroidaceae; o. RF39, RF32, Bacteroidales,
+and Erysipelotrichales were positively correlated with
+the DSS group but negatively correlated with the
+control group. Microbiota composition at the phylum and lower
+taxonomic levels in colonic mucosa samples
+A total of 199,057 sequences were generated after quality
+ﬁltering steps with an average of 24,882 high-quality
+sequences per sample, which resulted in identiﬁcation
+of 14 phyla and 151 taxa. Results of the
+relative abundances of various phyla are summarized
+in Fig. Bacterial taxa with relative
+abundance of (cid:5)0.01% of community were analysed
+using PLS-DA to identify bacteria that were most
+characteristic of DSS or control treatments. Percentage of relative abundances of bacterial phyla for: (a) fecal samples and (b) colon mucosa samples. colitis and may reveal bacterial shifts at lower taxonomic
+levels that could otherwise be missed. In this regard, it
+was worth noting that more taxa were signiﬁcantly
+associated with the DSS treatment in fecal samples
+compared to the colonic samples; however, several
+taxa including: Bacteroides ovatus, g. Clostridium, rc4-4;
+f. Clostridiaceae, Bacteroidaceae; and o. Bacteroidales,
+RF39, and RF32 were positively associated with the DSS
+treatment in both fecal and colonic mucosa samples. Some of these taxa have been reported to increase
+as a result of DSS  and although they may have
+different roles, their association with DSS in both colonic
+mucosa and in feces may indicate that they may play
+signiﬁcant roles in the potentiation of the abnormal
+inﬂammatory response seen in DSS-treated animals, and
+could therefore be important as intervention targets
+against the disease. Lending support to these results,
+Berry et al.

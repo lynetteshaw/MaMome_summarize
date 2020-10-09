@@ -1,0 +1,172 @@
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+and react to form a response, and understanding how these
+responses combine to affect human health. However, it is important to distinguish the role of the
+microbiome as a mediator of the effect of diet on metabolism
+from the potential of the microbiome to be an effect modifier
+of response to diet (Figure 2). In both cases, a randomization scheme is implemented,
+
+randomizing either the order of treatments (cross-over)
+or the assignment of individuals to separate treatments
+(parallel). Thus, in the attempt to control one
+source of variation, another is introduced. Changes in circulating lipids  insulin
+sensitivity/resistance  or inflammatory markers
+were also common measured responses. Humans:Glucoseandinsulin,SCFAs,
+
+Intervention
+
+Humans(39healthyadults,10
+
+Barleykernelbread(BKB)vs.whitewheat
+
+Kovatcheva-
+
+Mice:PPGR,liverglycogen
+breathhydrogen
+
+weight,fecalpH
+GLP-1,PYY,lipidproﬁles,body
+HbA1c,SCFAs,glucoseandinsulin,
+
+individuals)
+humanfecesfromhighorlowP/B
+(gnotobiotic,colonizedwith
+selectedasRorNR)andmice
+
+ﬂourbread(WWB)for3deach
+
+
+Datcharyetal. Intervention
+
+Humans
+
+Sourdoughwhole-grainbreadvs.white
+
+Koremetal. syndromeand/orobesity)
+Humans(78adultswithmetabolic
+
+Respondercriteria
+
+Biologicalmeasures
+
+Studydesign
+
+Model
+
+Dietaryintervention
+
+
+
+Fiber
+
+Citation
+
+TABLE1Reviewofmethodsusedtoconductprecisionnutritionstudies1
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+(Continued)
+
+ChangeinBif.abundance(nodiscretecut-oﬀ)
+
+Onlymicrobiotaresponse
+
+Intervention
+
+Humans
+
+nulinvs.placebo(8g/d
+
+Kolidaetal. In
+contrast, qPCR, or real-time PCR, measures amplification of
+DNA in real-time using fluorescence of hybridized probes
+specific for individual taxa, allowing for more accurate
+quantification 
+
+Once amplified, DNA can be used for a variety of methods
+to compare and identify samples. DNA mi-
+croarrays, which utilize oligonucleotide probes immobilized
+onto a glass slide to hybridize to complementary nucleotide
+sequences, provide phylogenetic identification. A challenge for both
+methods is that they are computationally intense and require
+expertise to analyze the data that are generated. Normalization and transformation methods for gut
+microbiome data. Data can be transformed
+
+Gut microbiome and precision nutrition: Part I 11
+
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+TABLE 3 Review of methods used to analyze precision nutrition studies1
+
+Microbiome measures
+
+Association or
+prediction
+
+Statistical methods
+
+Korpela et al. Microbiota composition (qPCR) and function
+
+Association
+
+Paired t-test
+
+
+
+(protein expression)
+
+Holscher et al. Microbiota composition 
+
+Association
+
+Linear mixed models
+
+Fuller et al. Microbiota composition (qPCR)
+
+Association
+
+Spearman correlation
+
+Hullar et al. Association compared with prediction studies. Other studies go further to complete
+the second step (“Prediction” studies, Table 3), using an
+individual’ pretreatment microbiome (sometimes in addition
+to other baseline characteristics) to devise models to predict
+
+16 Hughes et al. and there is currently no consensus on how to decide this
+value 
+
+how that individual will respond to a dietary intervention, or
+to design dietary advice suitable for the individual. Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+FIGURE 4 Steps of precision nutrition research. Typically,
+observations are plotted on a scatterplot of the first 2
+principal coordinates and data points are labeled to identify
+biologically significant groups (e.g. disease, no disease). However, in all of these clustering methods, groups
+are statistically defined and may not indicate any biological
+significance. Correlation of continuous variables in association studies. RV coefficient can be used to assess the association
+of the independent variable with a continuous outcome. This method performs best when dimensionality is low (i.e.
+fewer input variables) whereas random forests may perform
+better when dimensionality is high (i.e. many input variables)
+
+
+Bayesian network (BN) analysis is a graphical model
+that depicts the relations between variables and their prob-
+abilities or dependencies. Mice offer a model in which differences in the gut microbiota
+may be studied in a controlled experimental context, allowing
+for the determination of causality and development of
+
+mechanistic hypotheses  For example, transplantation
+of isolated strains or communities of bacteria into germ-free
+mice is one of the best models in use to demonstrate causal
+relations between the gut microbiota and host metabolism
+ This approach has been used in studies such as
+Kovatcheva-Datchary et al. Human
+nutrition, the gut microbiome and the immune system. Possemiers S, Rabot S, Espín JC, Bruneau A, Philippe C,
+González-Sarrías A, Heyerick A, Tomás-Barberán FA, De
+Keukeleire D, Verstraete W. Eubacterium limosum activates
+isoxanthohumol from hops (Humulus lupulus L.) into the potent
+phytoestrogen 8-prenylnaringenin in vitro and in rat intestine. Smits SA, Marcobal A, Higginbottom S, Sonnenburg JL, Kashyap PC. procedures, analysis pipelines, and analytical methods. This will allow researchers
+to devise a network of effects to better understand the ways in
+which the microbiota impacts our health as well as the ways
+in which we may manipulate the microbiota to improve our
+health.

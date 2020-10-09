@@ -1,0 +1,64 @@
+Cho and Blaser
+
+Page 2
+
+Characterizing the microbiome
+
+Tools for studying the metagenome
+
+individuals, and possibly, their disease risks. However, the subject is vast, and the implications for human health and disease are
+wide-ranging. Cooperative interactions between microbes and their hosts typically involve microbial
+participation in host functions such as defence, metabolism, and reproduction10. As sequencing and bioinformatics technologies continue to evolve (see ref 21 for a review of
+the state-of-the-art technologies), scientific priorities will include elucidating the ‘core’
+metagenome that occupies a specific human niche, and discerning the differences between
+normal and diseased hosts.. As an example of the latter, Greenblum et al. By categorizing metagenomic sequences based on
+
+Nat Rev Genet. Author manuscript; available in PMC 2012 October 01. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Cho and Blaser
+
+Page 3
+
+Taxonomic and functional variation
+
+gene function, they constructed community-level metabolic networks varying in gene
+abundance, and examined the topological features of these networks in relation to host
+phenotype. Such topological tools can be applied to explore differences in
+other host disease states. The substantial non-linear interactions in complex co-evolved
+systems ensure that ecological networks are robust against random removals49. Considering the importance of guilds of bacteria
+
+Nat Rev Genet. All are subject to perturbation in the course of
+normal development and aging, and especially with disease. However, changes are also evident across the human
+lifespan. In mice, this clearly occurs in the GI tract68. Our knowledge of microbiome dynamics, especially age-related changes, during human
+adulthood is limited. Similarly, in the stomach,, the age-related progressive development of gastric
+atrophy (enhanced by H. pylori presence75,76) selects for gastric microbiota that are
+substantially different from the norm 77. The microbiome is essential for the activation of host immune responses 104. Antibiotic use in human
+infancy, before age 6 months, was significantly associated with obesity development123. The gut microbiota and rheumatoid arthritis
+
+Disregulation of host responses secondary to DYSBIOSIS within the gut lumen could affect
+distant anatomical sites through activation of host immune responses. This may be a
+mechanism in rheumatoid arthritis, another chronic idiopathic inflammatory condition. Although these criteria were advanced largely to unravel epidemiological
+relationships, they are applicable to genetics as well and to metagenomics, in particular. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Cho and Blaser
+
+Page 10
+
+Perspectives
+
+For understanding causation and pathogenesis, model organisms provide an important
+approach. For diseases that can be studied
+in model organisms, microbiota roles can be explored within the constraints of particular
+model systems (Table 2). The extension of this concept to humanized model
+organisms130 allows better approximation of the effects of the human microbiome on
+disease processes in tractable animal models. Important questions to pursue are listed in Box 2. As such, this is a frontier for human
+preventive medicine, and for medical management of chronic diseases. He is an Assistant Professor of Medicine at the NYU Langone Medical
+Center, USA.

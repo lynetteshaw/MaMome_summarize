@@ -1,0 +1,57 @@
+118
+
+FEMS Microbiology Reviews, 2016, Vol. 2012), modify the nervous system (Hsiao et al. 2013) and metabolize therapeutics into active compounds (Claus et al. Adjacent to the
+mucosa, facultative anaerobes are able to grow because of
+
+Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018
+
+120
+
+FEMS Microbiology Reviews, 2016, Vol. The age at which the treatment is adminis-
+trated is important since antibiotic treatment of mice at the age
+of weaning results in long-term alteration of their gut microbial
+communities, which does not occur in adult animals (Cho et al. During cohousing, animals may feed on feces
+(also known as coprophagy) or more likely ingest feces by self-
+grooming. This idea
+is supported by the observation that microbial colonization of
+neonate GF mice resulted in normal numbers of iNKT cells in
+lungs and colon, while they are typically elevated in GF mice. Transplantation has also been used in
+mouse models of enteric infections. The development of the murine microbiota and the immune system over time. ILCs: innate lymphoid cells; Treg: regulatory T cells. The microbiota on day 17 closely
+resembles the microbiota one year after weaning when mice are
+kept under similar conditions. Why the establish-
+ment of this equilibrium in the ileum, which contains far less
+bacteria compared to the colon, takes more time is speculative,
+but indicates a higher complexity of the host–microbiome inter-
+face in the ileal environment. GENETICS AND THE COMPOSITION OF THE
+MURINE GUT MICROBIOME
+
+Many inbred and outbred mouse strains with different genetic
+backgrounds are available for animal studies. The origin of the mice is extremely
+important because laboratory mice are available as both outbred
+stocks and inbred strains from various vendors. Conventional housing vs. SPF and cage effects
+
+The SPF concept was introduced in response to the increased
+awareness of the effect of microorganisms on animal experi-
+ments (Schaedler and Dubos 1962). To maintain the
+SPF status, an increasing number of rodents are housed in indi-
+vidually ventilated cages with limited shared environmental ex-
+posure. Taken together, these examples urge us to use standardized
+experimental conditions and to explicitly describe the animal
+housing conditions in publications. When comparing different types of lactation, e.g. ar-
+tificial vs. mother’s milk, significant differences in the develop-
+ment of the gut microbiota were observed in the lactating pups
+(Carlisle et al. Therefore, susceptibility to obesity requires an
+intact mucosal immunity that guides diet-induced changes to
+the microbiota. Diet-induced changes in bile acid composition can also be
+an important cause of modifications to the gut bacterial com-
+munity. 2002); however,
+it is difficult to establish which is cause or consequence. (Konturek, Brzozowski and Konturek 2011). It is important to harmonize the exposure of the animals to
+stressors such as noise and handling and minimize cage effects. In case the effect is more subtle,
+it is recommended to separate littermate controls according to
+their genotype right after weaning for at least 30 days before
+the experiment so that the mice can develop their inherent mi-
+crobiota; however, they should be divided over several cages. PV is senior full professor at Ghent
+University and holder of a Methusalem grant [BOF09/01M00709],
+from which BB is paid.

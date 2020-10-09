@@ -1,4 +1,4 @@
-6_PARAGRAPHS
+7_PARAGRAPHS
 
 Several studies have been conducted to elucidate which gut bacterial species are involved in the
 incidence and progression of CVD (Table 2)  We were the ﬁrst to report that the incidence
@@ -47,6 +47,9 @@ Faecalibacterium prausnitzii decreased in the HF patients compared to the contro
 these studies suggest that an altered gut microbiome may have an impact on the development and
 progression of heart failure. This evidence paves the way for further studies investigating the gut
 microbiome in the prevention and management of CVD..
+
+Collinsella ↑, Eubacterium ↓, Roseburia ↓ in patients
+with symptomatic atherosclerosis..
 
 Enterobacteriaceae ↑, Proteobacteria ↑, Escherichia/Shigella ↑, Bacteroidetes ↓,
 Bacteroidales ↓, Bacteroidaceae ↓, Bacteroides ↓ in stroke/TIA patients..

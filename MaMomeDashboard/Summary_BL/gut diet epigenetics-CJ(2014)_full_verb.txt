@@ -1,0 +1,86 @@
+Hullar and Fu
+
+Page 2
+
+Here, we present below examples of the role of the microbiome in dietary metabolism, an 
+overview of eukaryotic epigenetic mechanisms, and microbially-derived metabolites that are 
+relevant to eukaryotic epigenetic changes in gene expression that may be linked to colon 
+cancer. Diet shapes the microbiome
+
+Diet helps shape the composition of the intestinal microbiota. Epigenetics refers to heritable changes in gene activity that are not caused by changes in the 
+DNA sequence.19 Regulation of gene expression can occur through post translation 
+modification of the amino acids in histone proteins, by methylation of DNA, and at the post-
+transcriptional level by miRNAs.20
+
+Histone proteins are involved in tightly packing chromosomes into chromatin in the nucleus. Epigenetics
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Hullar and Fu
+
+Page 3
+
+of acetyl groups to the lysine residues of histones that activates normally repressed genes. In cancer cells, patterns of histone 
+modifications and methylation differ from normal cells. DNA 
+methylation patterns change in response to environmental factors through DNA 
+methyltransferases (DNMT1, DNMT2 DNMT3A, and DNMT3B) in the presence of S-
+adenoysl-L-methionine.27, 28 Hypermethylation of these CpG dinucleotides or CpG islands, 
+if they are in the promoter regions of a gene, result in transcriptional gene silencing and gene 
+inactivation.20 Methylation has been linked to many diseases, including cancer.29-32
+
+MicroRNAs (miRNA) are small, non-coding RNAs, which inhibit gene expression at the 
+posttranscriptional level. miRNAs regulate post-transcriptional expression by either 
+imperfect base-pairing to mRNA or by affecting mRNA stability. Each miRNA controls 
+several genes in related pathways. showed 
+that while F. prausnitizii and Roseburia spp derived about 85% of butyrate carbon from 
+external pools of acetate, Coporcoccus spp. only derived 28%.41 In addition, different 
+sources of carbohydrates produce different amounts of butyrate ranging from 56% with 
+pectin to 90% for xylan. In normal homeostasis, butyrate plays a role in 
+promoting cell turnover of the colonic epithelium. Butyrate can then accumulate in the nucleus where it functions as an HDAC inhibitor and 
+inhibits cell proliferation and induces apoptosis. This may be due to 
+differences in response among eukaryotic cell lines or effects of other SCFA. Cooking cruciferous vegetables deactivates the plant 
+myrosinases, and given that most cruciferous vegetables consumed by humans are cooked, 
+gut bacteria play a critical role in converting glucosinolates to ITC. Previous studies have 
+shown that certain species of bacteria, such as Escherichia coli, Bacteroides 
+thetaiotaomicron, Enterococcus faecalis, Enterococcus faecium, Peptostreptococcus sp. and 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01. Further studies in wild-type and APC 
+Min/+ mice showed that a single dose of SFN reduced HDAC activity and increase histone 
+acetylation in colonic mucosa.63 Additionally, SFN has been identified as a DNA 
+demethylating agent in breast cancer cell lines although this has not been verified in colon 
+tissue.64
+
+Polyphenols represent a wide variety of phytochemicals that are divided into several classes 
+according to their chemical structures. In parallel, Kemperman et al found that there were dramatic shifts in the 
+composition of the microbiome with continual polyphenol dosing, although it is difficult to 
+directly link the disappearance of valerolactones to specific bacteria.75 These studies suggest 
+that diet may alter the microbiome, which in turn alters dietary exposure and down-stream 
+host response. Several studies have shown that EGCG 
+inhibits both bacterial and eukaryotic DNMT and alters DNA methylation patterns.76, 77 
+This mechanism is mediated by altering the availability of methyl groups that are used to 
+methylate catechol groups on polyphenols by catecohol-O-methyltransferase (EC 2.1.16). Ingested ellagitannins are 
+hydrolyzed in the stomach and small intestine to ellagic acid. Enterohepatic circulation of urolithins and ellagic acids alters 
+host exposure to these compounds, and there is large between person variation in urolithin 
+production.83 Recent studies suggest that bacteria from the C. coccoides group and 
+
+Cancer J. Author manuscript; available in PMC 2015 May 01. Most of the bile acids are absorbed in the ileum and delivered back 
+to the liver. Listed below are two examples of microbial metabolism of fats 
+that may influence epigenetics. Azoxymethane (AOM) tumor 
+induction in rats fed either fish showed that the 
+fish oil intervention produced fewer tumors and the lowest number of differentially express 
+miRNAs.95 The anaerobic bacteria, Roseburia, Bifidobacteria, and Lactobacillus, found in 
+the distal gut, metabolize 3ω LC-PUFA from dietary intake to conjugated linolenic (CLnA) 
+acids.96, 97 Although 3ω LC-PUFA are not produced by bacteria, the availability of 3ω LC-
+
+Cancer J. Author manuscript; available in PMC 2015 May 01. Functional genes measured in the gut 
+microbiome suggest that there are basic metabolic pathways that are conserved across all 
+healthy individuals114, 115 which have the core capacity to generate compounds that 
+influence epigenetic pathways of gene expression.109, 110 While colonic epithelium may 
+have immediate exposure to microbial metabolites, many microbial products are absorbed 
+into systemic circulation and may alter gene expression in regions distal to the gut. Summary and Future Directions
+
+Acknowledgments

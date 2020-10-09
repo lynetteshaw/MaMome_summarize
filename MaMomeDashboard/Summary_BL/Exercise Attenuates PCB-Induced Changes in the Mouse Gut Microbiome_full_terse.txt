@@ -1,0 +1,25 @@
+were  housed  individually  in  plastic  cages 
+equipped with a running wheel (Coulbourn 
+Instruments,  Whitehall,  PA);  however, 
+wheels  were  locked  in  cages  of  seden­
+tary mice. 2002) as implemented in 
+Prediction  Analysis  of  Microarrays  (PAM; 
+http://www­stat.stanford.edu/~tibs/PAM/) 
+was  used  to  identify  OTUs  with  the  most 
+significant differences in abundance between 
+comparison groups. The  Welch’s  test  revealed 
+that  exposure  to  the  PCB  mixture  signifi­
+cantly (p < 0.05 by Student’s t­test) altered 
+the abundance of 1,223 bacterial taxa in these 
+mice (1,133 taxa had decreased abundance 
+and 90 taxa had increased abundance). Exposure  to  the  PCB  mixture  did  not 
+alter bio diversity of the gut microbiome; all 
+11,229 taxa were detected in at least one sam­
+ple from sedentary mice. Although the data we reported here are 
+novel, effects of physical activity on several 
+
+Table 3. The  mechanisms  of  exercise­mediated 
+changes  in  gut  ecology  are  not  known; 
+however, they are likely to be mediated by 
+altering the host factors that influence the 
+intestinal micro environment.

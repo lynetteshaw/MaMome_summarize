@@ -1,0 +1,35 @@
+The possibility of early modulation of the offspring gut microbiota by acting on specific
+maternal factors and/or characteristics is of potential great interest. Nevertheless, only few
+data are available about the associations between maternal characteristics and newborn micro-
+biota pattern. Two out of 29 women were treated with insulin;
+none received metformin. At genus level, breastfed infants displayed an increased abundance
+of Escherichia and Bifidobacterium, while formula-fed infants had a varied microbiota mainly
+composed of Bacteroides, Clostridium, Enterococcaceae, Escherichia, Faecalibacterium, Staphy-
+lococcus and Streptococcus (Fig 5B). In multiple regression analyses, a significant association
+between breastfeeding and the relative abundance of Bifidobacterium in the infant gut micro-
+biota was found (β = 22.9; 95%CI = 10.1–35.7; P = 0.0017)..
+
+In order to explore the possible mother-to-infant gut microbiota transmission at sub-OTUs
+level, we carried out oligotyping on sequences of Blautia, Bacteroides and Bifidobacterium
+since these were the only genera showing a Shannon entropy index sufficient to identify all. A high degree of mother-offspring concordance was found for B11
+(P = 0.008) and B42 (P<0.001); both were identified as Blautia wexlerae by best BLASTn
+match. However, when comparing to those infants the 10 breastfed infants
+from GDM women, no significant difference in α-diversity was found. At phylum level, we
+observed higher abundance of Actinobacteria and Bacteroidetes in the offspring from GDM
+women (S5A Fig) (P<0.001). At genus level, higher abundance of Staphylococcus, Ralstonia,
+Lactobacillus and some members of Enterobacteriaceae were observed in the offspring from
+healthy women (S5B Fig)..
+
+In the comparison between the two groups of breastfed infants, the offspring of GDM
+women showed a significantly higher relative abundance of Escherichia and Parabacteroides
+(P<0.001)..
+
+The microbiota of infants from GDM women showed a low complexity, a high inter-individ-
+ual variability, and was influenced by early maternal nutrition and breastfeeding. statistically significant, relative abundance of Parabacteroides across pregnancy from enrol-
+ment to study end. The Clostridiales order includes several genera and in particular Roseburia and. Distribution of representative Bifidobacterium oligotypes in the offspring samples. Inner black bars indicate the presence of an oligotype in a given sample. Plot showing the sequence distribution in GDM patients at enrolment (red bars), study end
+(green bars) and their offspring (blue bars). Inner bars indicate the presence of an oligotype
+in a given sample. Amenta, Clara Monzeglio, Roberto Gambino, Simona Bo..
+
+Investigation: Valentina Ponzo, Ilario Ferrocino, Adriana Zarovska, Maria Bernadette
+Amenta, Filomena Leone, Clara Monzeglio, Marianna Pellegrini, Roberto Gambino,
+Simona Bo.

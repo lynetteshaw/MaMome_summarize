@@ -1,0 +1,42 @@
+Following screening, participants were admitted and placed on a WMD. Dye marker for stool collection was given on the mornings of days 5, 8, 11 and 14. Following the UF/OF phase, participants were on WMD for 2 d then on 
+consecutive days underwent OGTT (day 16) measurement of 24-h energy expenditure in a whole-room indirect calorimeter (day 17) and measurement of 
+fasting ANGPLT4 and heparin-induced measurement of LPL (day 18). On days 23–25 while on WMD, meals were again made in duplicate for bomb calorimetry. Oral  vancomycin  also  has  minimal  absorption  and 
+thus nearly no local or systemic side effects in healthy individuals20. Results
+UF  and  antibiotics  both  impair  nutrient  absorption. In total, 
+we screened 51 potential participants, of which 27 initiated and 25 
+completed the study (Extended Data Fig. 2 | Dietary interventions impact nutrient absorption. Two participants did not have available stool measurements during UF. d, Mean transit time, expressed in hours, during OF (n = 25) and UF (n = 23). Δ indicates the mean difference between groups (UF versus OF). Participants who started the dietary phase with OF are represented by red dots, while those who started 
+with UF are represented by white dots. a, Mean of 3-d food intake (kcal d−1) in the vancomycin (n = 11) and placebo 
+(n = 13) groups. Metagenomic sequencing confirmed the broad and reproducible 
+differences between the vancomycin and placebo groups. 4), which revealed modest perturbation of gut microbial commu-
+nity structure with UF versus OF, functional profiling of the micro-
+biome  datasets  did  not  reveal  any  significant  differences  in  gene 
+family  or  metabolic  pathway  abundance  between  the  diet  arms. In  contrast,  we  found  significant  differences  in  the  abundance  of 
+760 of a total of 3,553 Kyoto Encyclopedia of Genes and Genomes 
+(KEGG)  functional  orthologs  (KEGG  Orthology)  (FDR < 0.1, 
+Supplementary  Table  9)  between  vancomycin  and  placebo,  con-
+sistent  with  the  widespread  changes  in  gut  microbial  community 
+structure . Interestingly, two of the three 
+significant  pathways  (pyruvate  fermentation  to  butanoate  and  the 
+superpathway of Clostridium acetobutylicum acidogenic fermenta-
+tion) were related to the fermentation of sugars to the major short-
+chain  fatty  acid  butyrate  (aka  butanoate),  suggesting  that  there 
+could  be  reduced  butyrate  production  or  bacterial  metabolism  by 
+the gut microbiota during vancomycin treatment. These mea-
+surements were performed before and following each intervention. Deoxycholic acid, a secondary bile acid, also significantly 
+decreased following both interventions . 7);  or  
+glucose tolerance or insulin concentrations (Extended Data Fig. Discussion
+In  this  two-phase  study  we  directly  measured  ingested  and  stool 
+calories, demonstrating an increased and comparable stool calorie 
+loss relative to ingested calories during two states: UF versus OF and 
+oral vancomycin versus placebo. Given  this,  our  results  indicate  that  either 
+decreased calorie delivery to the microbiome, as in the case of UF, 
+or widespread changes in its structure, due to oral vancomycin, limit 
+microbiome nutrient harvesting capacity, resulting in increased stool 
+calorie loss. 4 | changes in gut microbiome in response to dietary interventions. Colors indicate diet; each point represents a single sample (n = 156 samples). Subjects are split by diet order with  
+OF (purple) and UF (yellow) periods shaded. Diet order  
+in panels a, g and h is indicated by color: red, OF first; gray, UF first. P values in panels b and c from Adonis tests. Each data point represents the mean value 
+of samples from each subject (n = 63 samples from 23 subjects). b, Shannon diversity in microbial communities of vancomycin and placebo groups 
+(P < 0.0001, two-sided unpaired Wilcoxon test). Δ indicates the difference (log expressed) between pre- and postdietary intervention measurements (c) and 
+the difference (log expressed) between pre- and postrandomization measurements in vancomycin and placebo groups (d). In our study, both calorie restriction and oral vancomycin 
+led to increased stool calorie loss and lower levels of plasma butyr-
+ate.

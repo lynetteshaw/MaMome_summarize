@@ -1,0 +1,48 @@
+the commonality that relates both BV and vaginal pH to HPV
+infection (independent of HIV) is the RA of certain Lactobacil-
+lus species, most notably L. crispatus. Distribution of relative abundance (RA) of Lactobacillus species..
+
+concurrent multitype infection by HPV, while accounting for
+the intraindividual correlation of the repeated observations. All covariates except study group were time
+dependent. Women with rapidly progression of
+HIV-associated immunosuppression had a lower CD4+ T-cell
+count than HIV-infected women with stable immune status
+and HIV-uninfected women (P < .001). Self-report of Trichomo-
+nas vaginalis infection, BV, candidiasis, or STIs within the past. The number of clusters was determined by the Milligan
+point-biserial criterion  The Shannon diversity index
+(SDI) was calculated for the microbiome at each patient visit
+in the data set . L. crispatus dominated CST I, CST II was dominated by
+Lactobacillus gasseri, both CST III and IV-A were dominated
+by Lactobacillus iners, and CST V was dominated by Lactobacil-
+lus jensenii. When we assessed SDI tertile instead of
+CST or Lactobacillus species in multivariate GEE logistic regres-
+sion models, we found signiﬁcantly higher oncogenic HPV de-
+tection in women in the highest SDI tertile (OR, 2.04; 95% CI,
+1.18–3.52; Ptrend = .01), relative to those in the lowest SDI tertile. Abbreviations: BV, bacterial vaginosis; CI, confidence interval; OR, odds ratio. a“Low” and “medium” denote the relative abundance of Lactobacillus species and L. iners, respectively. Thus, high D-lactic acid levels but not acidity per se could be
+associated with reduced infection and/or transmission of
+certain viruses, including HPV..
+
+While production of H2O2 has been observed in the major-
+ity of L. crispatus isolates, prior data from our group suggest
+that the levels of H2O2 produced are likely too limited to great-
+ly affect the risk of STIs  especially HPV infection, since
+HPV is a nonenveloped virus and, therefore, likely to be resis-
+tant to H2O2. On the other hand, bacteriocins produced by
+L. crispatus may have antiviral effects. These include the relatively small number of HIV-infected
+and HIV-uninfected subjects, even though longitudinal testing
+of nearly 400 CVLs was performed. These clinical/pathologic end points were too
+infrequent in the current data set to adequately study. Nor
+did we have sufﬁcient data to assess statistical interaction (eg,
+by immune strata), and it may require subanalyses among sex-
+ually inactive women to help differentiate reactivation of previ-
+ously acquired from newly acquired (incident) HPV. The study
+also focused on only premenopausal African American women,
+which was done to reduce the number of factors being studied..
+
+In summary, our results suggest a beneﬁcial effect of L. crisp-
+atus on the burden of HPV in HIV-infected and HIV-uninfected
+women that is unrelated to pH. Further research to better un-
+derstand these relationships is strongly warranted, including
+large prospective cohort studies and laboratory research to un-
+derstand the mechanisms that underlie the relation of the cer-
+vicovaginal microbiota with HPV infection.

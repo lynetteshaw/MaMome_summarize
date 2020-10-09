@@ -1,4 +1,4 @@
-19_PARAGRAPHS
+24_PARAGRAPHS
 
 the commonality that relates both BV and vaginal pH to HPV
 infection (independent of HIV) is the RA of certain Lactobacil-
@@ -16,6 +16,28 @@ edge, assessed whether statistical control for pH weakens the
 HPV-microbiota association, which would be expected if pH
 was part of the causal pathway..
 
+Figure 1. Distribution of relative abundance (RA) of Lactobacillus species..
+
+concurrent multitype infection by HPV, while accounting for
+the intraindividual correlation of the repeated observations.
+This approach made it possible to incorporate all the available
+type-speciﬁc HPV data at each person-visit, as well as time-up-
+dated covariates. It is a highly efﬁcient analytic method, widely
+used in HPV research  In addition to CSTs, we conduct-
+ed a priori–planned analyses of the RA of lactobacilli (at the
+genus and species level), modeled as both continuous and ordi-
+nal data. Histograms of Lactobacillus species as a group (Fig-
+ure 1) and individual species suggested similar cut points of
+low (<7.5%), medium RA.
+Vaginal pH was also examined as a continuous and an ordinal
+variable (with cut points based on the Amsel criteria for diag-
+nosis of BV . All covariates except study group were time
+dependent. Furthermore, to study temporal associations related
+to changes in CSTs and HPV detection over time, we used
+continuous-time multistate Markov models ﬁt using maximum
+likelihood, as described in an earlier article  All tests were
+2-sided, with a P value of .05 used to deﬁne signiﬁcance..
+
 Select characteristics of the cohort at the index visit are shown in
 Table 1. The average age of participants was 32.1 years, and by
 design all subjects were African American and premenopausal
@@ -29,6 +51,22 @@ oral contraceptives in the past 6 months. HIV-uninfected
 women were less likely than HIV-infected women to use con-
 doms in the past 6 months (P = .001). Self-report of Trichomo-
 nas vaginalis infection, BV, candidiasis, or STIs within the past.
+
+Statistical Methods
+We characterized demographic and risk factor data at the index
+visit for each of the 3 study groups, with statistical differences
+between groups assessed using analysis of variance (ANOVA;
+for continuous variables), the Kruskal–Wallis test (for continu-
+ous variables with nonnormal distributions), or the χ2 test (for
+categorical data). Correlations between vaginal pH and the RA
+of Lactobacillus species were measured using Spearman correla-
+tion. To cluster pyrosequencing 16S rRNA results into corre-
+sponding community state types (CSTs), we used hierarchical
+clustering based on RA with Euclidean distance and Ward link-
+age. The number of clusters was determined by the Milligan
+point-biserial criterion  The Shannon diversity index
+(SDI) was calculated for the microbiome at each patient visit
+in the data set .
 
 Table 2 shows Spearman correlations between Lactobacillus
 species RA and pH. The RA of each Lactobacillus species was
@@ -129,11 +167,24 @@ independent of HIV and host immune status and therefore
 indicate similar potential beneﬁt among those with a low
 CD4+ T-cell count..
 
+an L. crispatus–dominated CST (which had a low SDI), it
+could also reﬂect an inverse association of oncogenic HPV de-
+tection with other low SDI CSTs or a positive association with a
+high SDI CST, such as CST IV-B. However, additional analyses
+failed to show signiﬁcant associations of oncogenic HPV (or
+any HPV) with CSTs or Lactobacillus species beyond the
+L. crispatus–oncogenic HPV relationship..
+
 IV-B, lowa Lactobacillus
 I, L. crispatus.
 
 IV-B, lowa Lactobacillus
 I, L. crispatus.
+
+Abbreviations: BV, bacterial vaginosis; CI, confidence interval; OR, odds ratio.
+a“Low” and “medium” denote the relative abundance of Lactobacillus species and L. iners, respectively.
+b A pH of ≤ 4.5 (the cut point used in the Amsel criteria for the diagnosis of BV) was considered low, a pH of 4.5–5.8 was considered medium, and a pH of >5.8 (where a pH of 5.8 was the
+median of all pH values >4.5) was considered high..
 
 Lactobacillus species against STIs, most of that research
 preceded widespread use of methods for comprehensively

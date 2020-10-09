@@ -1,4 +1,4 @@
-14_PARAGRAPHS
+21_PARAGRAPHS
 
 proﬁle identiﬁed based on sequencing different
 variable regions. For example, V1V3 amplicons
@@ -10,11 +10,64 @@ mate Bacteroides but provides good coverage
 for Pseudomonas and Escherichia (Human Mi-
 crobiome Project 2012b)..
 
+Comparison of the vaginal microbiome
+data from the HMP reveals that V1V3 will
+distinguish communities primarily by the rela-
+tive predominant Lactobacillus species present
+whereas, V3V5 amplicons will reveal either lac-
+tobacilli-dominant or lactobacilli-diminished
+groups. Furthermore, the number of Lactobacil-
+lus species detected (and thus relative abun-
+dance) will vary depending on the 16S region
+sequenced, with V1V3 revealing more unique
+Lactobacillus operational
+taxonomic units
+(OTUs) as compared with V3V5 (Huse et al.
+2012). However, unlike V3V5, V1V3 does not.
+
+Figure 1. The 16S rDNA gene is an ideal target for classifying bacteria. (A) The 16S rDNA gene of bacteria
+contains nine hypervariable regions (V1–V9) that are ﬂanked by conserved regions, which makes this gene an
+ideal target for PCR ampliﬁcation and bacterial classiﬁcation. The V1V3 and V3V5 primers sets used by the
+HMP consortium are outlined. The dotted line indicates the direction of ampliﬁcation. (B) Advantages and
+disadvantages to characterizing the vaginal microbiome with V1V3 (includes V2) and V3V5 (includes V4)
+primer sets. Species identiﬁcation of Lactobacillus is enabled using a V1V3 primer set; however, V3V5 primers
+sets are better suited to identify Enterobacteriaceae and Biﬁdobacteriaceae. Thus, experimental design is essen-
+tial when examining the pregnant microbiome..
+
+fully discriminate Enterobacteriaceae family
+projections (including Escherichia and Proteus),
+and some genera (including Staphylococcus) (Fig.
+1B) (Fettweis et al. 2012). Few studies have di-
+rectly compared the vaginal communities de-
+scribed by V6, V7, V8, and V9 to other primer
+sets, although a number of studies have used
+these regions with good coverage (Hummelen
+et al. 2010; Ghartey et al. 2014). Taken together,
+these data emphasize the need for prudent con-
+sideration when choosing primer sets for se-
+quencing with appreciation of both the body
+site to be characterized, the reference data set
+to be compared with, and limitations when
+comparing to other published ﬁndings..
+
 Although 16S sequencing is a cost effective
 approach to perform metagenomics studies,
 whole genome shotgun (WGS) sequencing al-
 lows for deep and reﬁned taxonomic classiﬁca-
 tion to the species and strain level, as well as the.
+
+Before the advent of Next-Gen sequencing, the
+the vaginal microbiome
+characterization of
+through traditional microbiological techniques
+(culture-dependent) revealed a predominance
+of Lactobacillus species (Redondo-Lopez et al.
+1990; Larsen and Monif 2001). These early
+characterizations of the vaginal microbiome
+resulted in the delineation of “normal” ﬂora
+(deﬁned as Lactobacillus predominant), and
+“abnormal” or “aberrant” vaginal ﬂora (non-
+lactobacillus predominant). Early descriptions.
 
 also attempted to characterize abnormal vaginal
 ﬂora, most notably in conjunction with bacterial
@@ -67,6 +120,51 @@ mechanism (Klebanoff and Coombs 1991; Kle-
 banoff et al. 1991). Thus, although BV may in-
 dicate vaginal dysbiosis in a clinical setting, there
 has been historically a lack of data regarding.
+
+One of the ﬁrst studies to reveal the com-
+plexity of the vaginal microbiome using Next-
+Gen techniques was performed by Ravel et
+al. This study recruited nearly 400 women of
+mixed ethnicities. Samples were prepared for
+either V1V2 16S sequencing and were scored
+for BV using Nugent criteria (Ravel et al. 2010).
+Five distinct community state types (CSTs) were
+revealed, and the majority of these CSTs were
+dominated by species of lactobacilli. The fourth
+CST included women with a vaginal micro-
+biome deﬁcient in Lactobacillus species, and in-
+terestingly, this group had increased incidence
+of BV. Also, this study showed that the vagi-
+nal microbiome could be distinguished by eth-
+nicity. Asian subjects had a higher prevalence of
+CST III (Lactobacillus
+iners), non-Hispanic
+Caucasians had a higher prevalence of CST I
+(Lactobacillus crispatus), and African-American
+and Hispanic subjects had a higher prevalence
+of CST III (L. iners) and IV (decreased Lactoba-
+cillus species) (Ravel et al. 2010). However, re-
+cent studies have shown the caution that must
+be used when performing analysis such as CSTs
+(Koren et al. 2013). In these investigations, Ko-
+ren et al. showed that these types of clus-
+ter analysis are sensitive to the distance metric
+used for analysis and that multiple distance
+metrics should be used to promote accuracy
+in data. In fact, this study used the data of Ravel
+et al. in their analysis and found varying
+support for the presence of CSTs based on the
+analysis used (Koren et al. 2013). Thus, multiple
+methods of analysis must be used to establish
+a CST. An additional method that may be use-
+ful to examine microbiome communities across
+ethnicities is to use single nucleotide poly-
+morphisms (SNPs) in mitochondrial DNA
+(mtDNA), which provides more precision in
+analysis (Ruiz-Pesini et al. 2007). We have re-
+cently used this method in conjunction with
+analysis of the microbiome through data lever-
+aged from the HMP to examine associations.
 
 With the demonstration that the vaginal micro-
 biome ﬂuctuates based on the menstrual cycle,
@@ -175,6 +273,9 @@ cillus gasseri and/or L. iners during the ﬁrst
 trimester may be associated with diminished
 lactobacilli as pregnancy progressed (Verstrae-.
 
+Campylobacter spp.
+in juvenile gut.
+
 en mostly consisted of the CST I or III with odds
 ratios of 2.986 and 2.136, respectively, and that
 the vaginal microbiome of gravid women shift
@@ -274,6 +375,39 @@ the study by Hyman et al., this study found no
 signiﬁcant difference in the alpha diversity of
 the vaginal microbiome of term and preterm
 subjects (Hyman et al. 2014; Romero et al..
+
+biome studies, there has been wide variability
+between the use of techniques and the variable
+region of 16S used for studies. An initial study
+by Schultz and colleagues examined the vertical
+transmission of a probiotic, Lactobacillus rham-
+nosus GG, from mother to infant (Schultz et al.
+2004). Gravid women took the probiotic twice
+daily from 30 – 36 wk of gestation. The authors
+found that all infants born vaginally con-
+tained this probiotic in their stool whereas the
+probiotic was only detected in the stool of half
+of the cesarean delivered infants (Schultz
+et al. 2004). This study showed that vertical
+transmission did occur between mother and in-
+fant. However, this study included a small sub-
+ject number and did not examine the maternal
+stool postpartum, which would be relevant to
+determine the persistence of the probiotic in
+the maternal microbiome that would provide
+an opportunity for horizontal transmission.
+The maternal microbiome during infancy, and
+not solely delivery mode, may be an important
+factor in establishing the neonatal microbiome.
+In fact, a recent study examining the establish-
+ment of the intestinal microbiome of healthy,
+term neonates using qPCR found that bacterial
+loads between maternal and infant stool were
+remarkably similar (Jost et al. 2012). This study
+shows that the maternal microbiome at birth
+and postpartum may be critical in the establish-
+ment and development of the neonatal micro-
+biome via horizontal transmission..
 
 When directly examining the intestinal mi-
 crobiome of infants born via cesarean or vaginal

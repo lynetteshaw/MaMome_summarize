@@ -1,4 +1,4 @@
-3_PARAGRAPHS
+7_PARAGRAPHS
 
 relationships
 between internal microorganisms and I. scapularis have
@@ -35,6 +35,80 @@ Consequently,
 I. scapularis may be
 involving microbes that beneﬁt
 quite high..
+
+A total of 21 samples – three pools for each of the ﬁve
+life stage categories (lab-reared larvae, ﬁeld-collected
+larvae, ﬁeld-collected nymphs, ﬁeld-collected adult
+females, and ﬁeld-collected adult males), and three
+pools for female salivary glands and female midguts –
+generated 10 896 297 raw reads on one Illumina MiSeq
+ﬂow cell. A total of 6 908 532 sequences passed ﬁlter
+and were assigned taxonomy. This resulted in 116 941–
+452 654 (mean = 328 977, SD = 96 960) high-quality,
+merged sequences per sample (Table S1, Supporting
+information). The negative control resulted in <0.001%
+(n = 606) of all sequences and was excluded from fur-
+ther analysis. The conditional uncovered probability of
+the samples, on average,
+indicated a high likelihood
+that over 99.9% of the bacterial taxa in the samples was
+covered. Rarefaction curves from a depth of 1000 to
+100 000 sequences indicated sufﬁcient sequencing cov-
+erage, as demonstrated by observed OTU accumulation
+curves reaching a plateau (Fig. S2, Supporting informa-
+tion)..
+
+classiﬁed into the phyla Acidobacteria, Actinobacteria,
+Armatimonadetes, Bacteroidetes, Chlamydiae, Chlo-
+roﬂexi, Cyanobacteria, Firmicutes, Gemmatimonadetes,
+Planctomycetes, Spirochaetae, Verrucomicrobia, the can-
+didate phyla BRC1, FBP, GN02, OD1, TM6, TM7, WPS-
+2 and Thermi, or were unassigned at the phylum level.
+At the genus level, Rickettsia had the highest relative
+abundance across all developmental stage
+samples. In all, 13 genera (and one family-level taxon)
+were present with a relative abundance of 1% or greater
+in at least one sample . The relative abundance
+of non-Rickettsia taxa increased along developmental
+stages (i.e. larvae to nymphs to adults) with the excep-
+tion of adult females, which displayed the highest rela-
+tive abundance of Rickettsia of all ﬁeld-collected life
+stages . Freshly hatched larvae also had a high
+relative abundance of Rickettsia . Seven taxa were
+found in all female and all freshly hatched larvae sam-
+ples (matching to the genera Rickettsia, Phyllobacterium,
+Burkholderia, Sphingomonas, Pseudomonas and the families
+Comamonadaceae
+and Oxalobacteraceae); however,
+females harboured more observed OTUs than freshly
+hatched larvae . Adult males had the lowest pro-
+portion of Rickettsia and thus had more genera
+with a relative abundance of ≥1% of any developmental
+stage. Wolbachia was the genus with the second highest.
+
+relative abundance in males (mean = 8.4%) and was
+found in all other life stages, but not in all samples,
+with a low relative abundance (<0.1%). All ﬁeld-col-
+lected developmental stages contained Sphingomonas,
+Methylobacterium, Hymenobacter, Pseudomonas, Rhizobium,
+Agrobacterium, Luteibacter, Mycobacterium and Curtobac-
+terium. Both Borrelia and Anaplasma were only found in
+nymphs and adults..
+
+Dermacentor and Haemaphysalis ticks (Piesman & Gage
+2004), Rickettsia amblyommii isolated from the American
+lone star tick Amblyomma americanum (Stromdahl et al.
+2008), Rickettsia conorii and Rickettsia rhipicephali isolated
+from the brown dog tick Rhipicephalus sanguineus (Hayes
+& Burgdorfer 1979; Parola et al. 2009). Overall, short
+sequences could not be unambiguously placed on single
+branches, but were rather assigned along a clade, which
+lends a certain degree of conﬁdence. Global placement
+uncertainty was elevated, as captured by the EPA’s
+entropy measure (mean = 0.7767, SD = 0.0699). The
+placement of our sequences on the reference tree can be
+explored interactively on the iToL webserver (http://
+itol.embl.de/tree/286234201192691468834200)..
 
 blacklegged ticks (Moreno et al. 2006; Yuan 2010; Haw-
 lena et al. 2013; Rynkiewicz et al. 2015; Van Treuren et al.

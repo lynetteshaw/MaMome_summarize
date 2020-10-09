@@ -1,0 +1,86 @@
+were  housed  individually  in  plastic  cages 
+equipped with a running wheel (Coulbourn 
+Instruments,  Whitehall,  PA);  however, 
+wheels  were  locked  in  cages  of  seden­
+tary mice. Exercised mice had 30% lower body weight 
+on average than sedentary mice. A diagram of the study design is shown 
+in Figure 1. Feces were collected for 2 days 
+(allowing collection of a sufficient amount of 
+sample), and samples were analyzed for con­
+trol/background microbiome data. Mice were 
+then treated with the PCB mixture, and feces 
+were again collected for 2 days. Bacterial 
+16S rRNAs were amplified with the primer 
+sets 27F.1 (5´­AGRG TTTG ATCM TGGC 
+TCAG­3´) and 1492R.jgi (5´­GGTT ACCT 
+TGTT ACGA CTT­3´). Each scan 
+was captured using the GeneChip Microarray 
+Analysis Suite (Affymetrix). Data  processing 
+and  multi variate  statistical  analyses  were 
+performed  using  the  PhyCA­Stats  analysis 
+software  package  (Second  Genome  Inc.). Probe  intensities  were  background  sub­
+tracted and scaled to values for PhyloChip 
+Control  Mix. 2006) and weighted Unifrac distance metric, 
+respectively; the weighted Unifrac metric con­
+siders OTU abundance in addition to phylo­
+genetic  distance  between  OTUs. 2002) as implemented in 
+Prediction  Analysis  of  Microarrays  (PAM; 
+http://www­stat.stanford.edu/~tibs/PAM/) 
+was  used  to  identify  OTUs  with  the  most 
+significant differences in abundance between 
+comparison groups. We first analyzed the effects 
+of PCB exposure on the gut microbiome in 
+sedentary  mice. The  Welch’s  test  revealed 
+that  exposure  to  the  PCB  mixture  signifi­
+cantly (p < 0.05 by Student’s t­test) altered 
+the abundance of 1,223 bacterial taxa in these 
+mice (1,133 taxa had decreased abundance 
+and 90 taxa had increased abundance). After PCB exposure, 
+the number of taxa dropped to 10,798, but 
+the change was not statistically significant. Experimental design indicating treatment and sampling times. Among detected bacterial taxa, 93 were 
+present exclusively in either exercised or sed­
+entary mice. A group of 2,510 taxa showed differences 
+in abundance between the exercised and seden­
+tary mice. These taxa were then analyzed by 
+
+PCoA with weighted Unifrac distance, which 
+indicated significant differences in the compo­
+sition of the microbial communities between 
+the exercised and sedentary mice (Figure 2B). Exercise attenuates PCB-induced altera-
+tions  of  gut  microbiome  composition. Thus, exer­
+cise provided protection against PCB­induced 
+changes in the gut microbiome. In particular, 
+exercise prevented a PCB­induced decrease 
+in abundance of Proteobacteria, which was 
+observed in seden tary mice. Although the data we reported here are 
+novel, effects of physical activity on several 
+
+Table 3. 2012) and pathology have 
+been  reported. For  example,  exercise  was 
+demonstrated to decrease the risk of develop­ 
+ing several intestinal diseases, including colon 
+cancer  (Friedenreich  et  al. 2001), and other dis­ 
+orders that are accompanied by changes in 
+the gut microbiome (De Hertogh et al. The  mechanisms  of  exercise­mediated 
+changes  in  gut  ecology  are  not  known; 
+however, they are likely to be mediated by 
+altering the host factors that influence the 
+intestinal micro environment. Thus, the antimicrobial activity of the bile 
+acids may elicit selective pressure on the bacte­ 
+rial communities in exercised mice, leading 
+to a shift of the gut microbiome structure as 
+observed in the present study. showed that rats that 
+participated in voluntary running exercise had 
+increased butyrate concentration in the cecum 
+compared with sedentary rats. SCFAs  (e.g.  butyrate  and  acetate)  increase 
+colonic epithelial cell proliferation and decrease 
+the risk of colo rectal cancer. In 
+another study, overweight pregnant patients 
+had  reduced  abundance  of  Bifidobacteria 
+and Bacteroidetes and increased abundance 
+of selected Firmicutes (e.g., Staphylococcus) 
+and Proteobacteria (e.g., Enterobacteriaceae) 
+(Santacruz et al. Nevertheless, E. faecium isolates from 
+clinical outbreaks are different strains than 
+E. faecium from animals, food, and humans 
+in  the  community  (Franz  et  al.

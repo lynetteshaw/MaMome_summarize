@@ -1,4 +1,4 @@
-3_PARAGRAPHS
+4_PARAGRAPHS
 
 Type sequences with Bergey’s taxonomy. Small-subunit rRNA sequences con-
 sisting of 5,014 bacterial species type strain sequences in 988 genera (Table 1),
@@ -21,6 +21,21 @@ for each test. In general, accuracy was greater for regions
 mapping to the 16S hypervariable regions . The av-
 erage bootstrap conﬁdence estimate was similarly higher in the
 hypervariable regions ..
+
+crepancies between the underlying phylogeny and
+Bergey’s taxonomy. Over 60% of misclassiﬁed sequences were
+actually more similar to sequences in other genera than to
+sequences in their own genera, strong evidence that these
+genera may not be monophyletic. These misclassiﬁcations are
+not evenly distributed among the taxa. Of the three most rep-
+resented phyla (Firmicutes, Proteobacteria, and Actinobacteria),
+the Actinobacteria had the fewest errors (3%, or 31 in 1,220
+trials), while the misclassiﬁcation rate for the Firmicutes was
+about ﬁve times as high  Within
+the Firmicutes, more than two-thirds of the errors occurred in
+the class Clostridia  and within that class, the
+genus Eubacterium stood out, with 30 misclassiﬁcations in 41
+trials (see the supplemental material)..
 
 FIG. 3. Phylogenetic analysis of the Alicyclobacillaceae, including
 the genera Sulfobacillus and Alicyclobacillus. Sequences for each of the

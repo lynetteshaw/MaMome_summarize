@@ -1,0 +1,74 @@
+Ananthakrishnan
+ 
+ 
+
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+Inflamm Bowel Dis • Volume XX, Number XX, Month 2020
+
+Downloaded from https://academic.oup.com/ibdjournal/article-abstract/doi/10.1093/ibd/izaa071/5822885 by Bibliotheque interuniversitaire de sante user on 21 April 2020
+
+FIGURE 1. Through profiling the 
+entire genome, this method allows for resolution at the species 
+and  even  strain  level  in  addition  to  the  definition  of  bacterial 
+function through mapping the genome to reference databases. Fecal  samples  were  obtained  at  therapy  cessation,  2  months, 
+6 months, and the end of follow-up. Cross-sectional compari-
+sons  were  also  made  with  29  healthy  control  patients. In contrast, response to therapy was not asso-
+ciated with a change in fungal composition. The  baseline  abundance  of  F.  prauznitzii  was 
+higher  in  responders  than  in  nonresponders. The primary outcome, remission at week 14, was attained by 31 
+patients. A total of 35% of the cohort remained in remission 
+at week 54. In the baseline stool sample, alpha diversity at the 
+species  level  was  higher  among  those  with  CD  who  achieved 
+remission at week 14 than in those who were not in remission 
+at  that  time  point. This  difference  was  noted  primarily  at  the 
+species  level. Patients  in  remission  at  week  6 
+also had a higher alpha diversity at baseline than did those with 
+active disease. Specifically,  fecal  abun-
+dance  of  Rothia  and  Ruminococcus  was  associated  with  the 
+development of stricturing complications and Collinsella abun-
+dance was greater at baseline in patients who developed pene-
+trating  disease. The  PROTECT  cohort  recruited  400  children 
+
+did not (q = 0.09 and 0.06, respectively). In  patients  who  provided  stool  sam-
+ples  at  baseline  and  weeks  14,  30,  and  54,  remission  at  week 
+14  was  associated  with  greater  microbial  persistence,  defined 
+as  the  similarity  of  later  samples  to  the  week  14  microbial 
+profile, up to 1 year. A  model  of  gut  mi-
+crobial  composition  at  baseline  predicted  infliximab  response 
+at  week  30  with  an  87%  accuracy,  which  was  superior  to  the 
+predictive  value  of  the  Crohn’s  Disease  Activity  Index  (58% 
+accuracy) and calprotectin levels  The most in-
+formative features in this model were the abundance of various 
+Clostridiales and the abundance of Veillonella, Bacteroides, and 
+Anaerostipes. Interestingly, 
+patients with IBD but not with rheumatic disease demonstrated 
+a shift in diversity toward that of the control patients with anti-
+TNF therapy, suggesting that this effect was likely mediated in 
+part  by  resolution  of  intestinal  inflammation  rather  than  di-
+rect effect of the biologic agent.24 When compared to healthy 
+control patients, 14 indicator phylotypes, notably Coprococcus 
+and  R.  inulinivorans,  were  differentially  distributed  between 
+patients with IBD and healthy control patients. Limitations of Existing Data and Suggestions for 
+Future Research
+
+1. A  second  important  challenge  with  existing  data  is  the  wide  vari-
+ 
+ability in the definition of outcomes. Further, studies 
+have  varied  in  the  use  of  symptom-based  disease  activity  scores, 
+calprotectin normalization (using different thresholds), endoscopic 
+remission, or global physical impression to define the outcome. The 
+varying  accuracy  of  each  of  these  parameters  confounds  the  in-
+terpretation  of  findings  and  highlights  the  lack  of  replicability  of 
+results across cohorts. This in-
+consistency complicates an understanding of the impact of the biologic 
+parameter being studied and of such external influences. To reduce this 
+concern, there must be transparent reporting of this information in every 
+study and an establishment of minimum acceptable standards. Existing  tools  for  profiling  the  taxonomic  or  functional  profile  of 
+ 
+the microbiome or the metabolome are not readily translatable to 
+point-of-care tests in the clinic because of their logistical challenges 
+in profiling single samples cost-effectively and the high volume of 
+data  generated  with  each  profile. Further  research  is  essential  to 
+move predictive associations identified in the research arena to clin-
+ical  care. Indeed, intriguing preliminary data 
+have supported the role of such biomarkers in predicting many 
+important clinically relevant outcomes.

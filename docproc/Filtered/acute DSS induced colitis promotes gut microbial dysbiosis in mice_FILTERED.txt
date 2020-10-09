@@ -1,4 +1,4 @@
-12_PARAGRAPHS
+13_PARAGRAPHS
 
 The aim of the present study was to utilize Illumina
 sequencing of the 16S rRNA gene and inferred meta-
@@ -65,6 +65,27 @@ Figure 3. Principle coordinate analysis (PCoA) of weighted UniFrac distances, a 
 samples clustered separately according to treatment status of the mice, suggesting that DSS and control mice samples are composed of
 distinct bacterial communities; (b) colon mucosa samples have shared bacterial communities. The p values were determined using
 PERMANOVA. DSS, dextran sulphate sodium..
+
+Of the 86 taxa, 56 had abundance greater than or equal
+to 0.01% of community, whereas 30 were below 0.01%.
+Bacterial taxa with relative abundance of (cid:5)0.01% of
+community were analysed using PLS-DA to identify
+bacteria that were most characteristic of the DSS or
+control treatments. As shown in Fig. 5a, Bacteroides
+ovatus, Clostridium perfrigens, Helicobacter hepaticus, and
+Parabacteroides distasonis; g. Desulfovibrio, Escherichia,
+Helicobacter, Clostridium,
+Parabacteroides,
+Bacilli, Allobaculum, Coprobacillus, Bacteroides, rc4-4; and
+unclassiﬁed members of f. Enterobacteriaceae, Clostri-
+diaceae, Bacteroidaceae; o. RF39, RF32, Bacteroidales,
+and Erysipelotrichales were positively correlated with
+the DSS group but negatively correlated with the
+control group. In addition, g. Dessulfovibrio, Oscillospira,
+Odoribacter, Coprococcus, Dehalobacterium, Adlercreutzia,
+Lactobacillus, Prevotella, Biﬁdobacterium; unclassiﬁed mem-
+f. Lachnospiraceae, Lactobacillaceae, S24-7;
+bers of.
 
 Microbiota composition at the phylum and lower
 taxonomic levels in colonic mucosa samples

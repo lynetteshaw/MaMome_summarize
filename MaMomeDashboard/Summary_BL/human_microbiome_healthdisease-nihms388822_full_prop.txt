@@ -1,0 +1,83 @@
+Cho and Blaser
+
+Page 2
+
+Characterizing the microbiome
+
+Tools for studying the metagenome
+
+individuals, and possibly, their disease risks. The taxonomic diversity inherent in complex environmental communities and the task of
+identifying specific associations with host traits create unique challenges. As sequencing and bioinformatics technologies continue to evolve (see ref 21 for a review of
+the state-of-the-art technologies), scientific priorities will include elucidating the ‘core’
+metagenome that occupies a specific human niche, and discerning the differences between
+normal and diseased hosts.. As an example of the latter, Greenblum et al. By categorizing metagenomic sequences based on
+
+Nat Rev Genet. Author manuscript; available in PMC 2012 October 01. Their analysis identified specific network topologies related to obesity and IBD;
+skewed topologies chiefly differ in genes related to host interactivity, particularly in
+relationship to metabolism. In the short-term, functional redundancy may mask
+extinction effects, but in the longer-run, extinctions lead to loss of contingency responses
+that can cause ecological crashes49. Considering the importance of guilds of bacteria
+
+Nat Rev Genet. All are subject to perturbation in the course of
+normal development and aging, and especially with disease. Influences on the microbiota during the life cycle
+
+As described in the previous section, differences in microbiota composition exist across
+body sites and between individuals. In general, the greater the force of mating
+preference, the more likely those populations become sexually isolated64,65; this could affect
+tribal differentiation and other ethnic differences in humans. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Cho and Blaser
+
+Page 6
+
+composition may have affected mating preference in humans, representing another
+phenotype under strong selective pressure. These concepts are particularly relevant to oncogenesis, which is generally age-related. Studies to
+explore these findings using HTS are currently underway89. The discovery that H. pylori was adapted to survive in the acidic gastric environment
+overturned the dogma that the stomach is sterile. H.
+pylori is a classical AMPHIBIONT; the presence (or absence) of an H. pylori dominated gastric
+microbiota is strongly associated with particular diseases with important age-related
+differences85. Further evidence of a link between colonic microbiota and colorectal cancer is suggested by
+the ability of antibiotic administration to alter the composition of the colonic microbiota and
+to affect the expression of host genes involved in cell cycle regulation, reducing epithelial
+proliferation100. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Cho and Blaser
+
+Page 9
+
+The gut microbiota and pbesity
+
+exposure disturbs the gut microbiome118,119, but roles for the microbiome in steatosis are
+unresolved. Patients with cirrhosis have a substantially altered
+microbiome, including community-wide changes at multiple taxonomic levels, with
+enrichment of Proteobacteria and Fusobacteria (phyla), and Enterobacteriaceae,
+Veillonellaceae, and Streptococacceae (family) 121. Although many observations suggest
+links between microbiome composition and liver disease, definitive associations in humans
+are lacking. This may be a
+mechanism in rheumatoid arthritis, another chronic idiopathic inflammatory condition. For diseases that can be studied
+in model organisms, microbiota roles can be explored within the constraints of particular
+model systems (Table 2). The extension of this concept to humanized model
+organisms130 allows better approximation of the effects of the human microbiome on
+disease processes in tractable animal models. Modifying disease risk by altering metabolic, immunological, or
+developmental pathways are obvious strategies. examined top-scoring non-
+linear abundance relationships133. Although incomplete,
+such work leads to new approaches to understand the underlying complexity. As such, this is a frontier for human
+preventive medicine, and for medical management of chronic diseases. He is an Assistant Professor of Medicine at the NYU Langone Medical
+Center, USA. His current research focuses on the role of the gut microbiome in drug
+metabolism and availability. In Roux-en-Y surgeries, a portion of the small
+bowel is bypassed to decrease the absorption of nutrients
+
+A condition in which the normal microbiome population structure is
+disturbed, often through external pressures such as disease states or
+medications
+
+Describes an animal that is colonized solely with known strains of
+bacteria or other microorganisms.

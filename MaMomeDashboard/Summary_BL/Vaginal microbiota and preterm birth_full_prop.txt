@@ -1,0 +1,105 @@
+Microbiome profiling was based on sequen-
+cing of the cpn60 universal target, which provides higher
+resolution than 16S rRNA variable regions and al-
+lows the resolution of Gardnerella vaginalis subgroups,
+a hallmark bacteria in the disturbed microbiota 
+
+Methods
+Study population and sampling
+This retrospective cohort study analysed the vaginal
+microbiota of women who experienced spontaneous pre-
+term birth (sPTB) and compared the resulting microbial
+profiles to those of pregnant women who delivered at
+term. For the purposes of this report, self-administered
+vaginal swabs were taken at 16 weeks gestation and placed
+in dry tubes prior to being placed in − 80 °C for storage in
+the Lunenfeld Tanenbaum Research Institute Biospecimen
+Storage and Processing Laboratory. A no
+template control was also included in each set of PCR re-
+action as negative controls. Experimental controls were
+not sequenced as they did not yield any amplification. sourceforge.net) with Trinity as the assembly tool
+(Additional file 1). The function aldex.clr from the ALDEx2 package in R
+was used to compare the differential relative abundance
+of individual taxa in term and preterm groups  Sig-
+nificant differences were determined based on the false
+discovery rate (FDR), which is the result of a Benjamini–
+Hochberg corrected p value from a Welch’s t test calcu-
+lated within ALDEx2. Results of
+Bowtie2 mapping showed that these reads corresponded
+to
+assembly
+728 OTUs
+(Additional file 1). Eight OTU/species were more abundant in the term
+group in comparison with preterm, all of which were
+considered rare members of the bacterial community
+. Bacteria prevalence
+
+(presence/absence) was
+
+also
+assessed (only species with at least 10 total reads were
+included). were associated with both term and pre-
+term. Detection of Mollicutes and
+Ureaplasma was not associated with any CST in particu-
+lar when investigated in the term cohort, preterm cohort
+or both groups together (chi-square, p > 0.05). Microbiome  6:117 
+
+Page 7 of 15
+
+A
+
+B C D
+
+E
+
+Fig. Microbiome  6:117 
+
+Page 8 of 15
+
+(See figure on previous page.) 1 Vaginal microbiota profiles of women who had sPTB and term deliveries. d Heatmap of relative abundances of bacterial species within each vaginal microbiota. In particular,
+previous described factors included low and high mater-
+nal ages 
+low BMI  high
+levels of tobacco, alcohol and illicit drugs consumption
+
+and multiple gestation  This cohort is unique in that
+it did offer the opportunity to have gestational age at de-
+livery as the main characteristic distinguishing these two
+groups recognizing that the majority of preterm births
+occurred beyond 32 weeks gestation. 3 Bacteria relative abundance differences between term and preterm groups represented by ALDEx2. Only the eight bacteria with significant relative abundance differences between term and preterm groups are shown. A recent study of a high-risk pregnant cohort has
+reported that L. iners was strongly associated with short
+cervix and preterm birth, as L. crispatus was associated
+with term deliveries  Those differences in study out-
+comes indicate that the pathogenesis of sPTB in low-
+and high-risk groups might be different. anitratus
+
+Corynebacterium timonense
+
+Corynebacterium genitalium
+
+Tepidanaerobacter sp. Differences in the
+prevalence of several other taxa between groups were
+also observed. Collectively, our overall findings were similar to other
+two studies, which provided us the opportunity to
+
+Freitas et al. study described themselves
+as African American. It has been reported that the com-
+position of the vaginal microbiota is strongly associated
+with a woman’s ethnicity  Other studies have also
+demonstrated that black ethnicity is associated with an in-
+creased microbiota diversity in comparison with white
+ethnicity  which could have masked differences in
+bacterial diversity between term and preterm cohorts in
+the Romero study. In
+addition, the association with differences in Prevotella spe-
+cies and Mycoplasma presence may point to signature
+species associated with preterm birth. TXT 336 kb)
+
+Additional file 2: Summary of OTU analysed in this study. XLSX 500 kb)
+
+Acknowledgements
+The authors are grateful to the women who participated in the study and
+acknowledge the contribution and support of Ontario Birth Study Team
+members and the participants. DM, AB and JEH oversaw and contributed to data collection and
+participated in writing and manuscript review. All participants provided written consent at enrolment. 4Department of Obstetrics and Gynaecology, University of British
+Columbia, Vancouver, BC V6T 1Z4, Canada.

@@ -1,4 +1,4 @@
-9_PARAGRAPHS
+10_PARAGRAPHS
 
 First we explored in detail the in vitro inhibitory effects of a selection of LGC strains against growth and 
 pathogenic properties (adhesion to vaginal cells and hyphae formation) of Candida albicans. It is increasingly 
@@ -59,7 +59,7 @@ design with a rescue arm was preferred over a placebo-controlled trial. No safet
 were reported. Of the twenty women included in the study, nine women did not need the RM. Eleven 
 women used RM .
 
-Figure 1.  Anti-Candida activity of LGC strains (a) Production of D- and L-lactic acid as important 
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 1.  Anti-Candida activity of LGC strains (a) Production of D- and L-lactic acid as important 
 antimicrobial compound secreted by the tested LGC strains (b) Width of halo of inhibition zone (radius of spot 
 subtracted from radius of inhibition zone) around LGC strains in competition with C. albicans in the spot assay. 
 Halos around the LGC colonies indicate inhibition by the strain against C. albicans. (c) Adhesion percentage of 
@@ -85,6 +85,16 @@ with the gel) and visit 3  Similarly, LGC 7, found in 12 of the 20 visit 2 sampl
 sample, likely corresponded to L. rhamnosus GG, also supplemented in the gel. This ASV showed a lower relative 
 abundance than L. plantarum/pentosus (mean relative abundance at visit 2: 11.0% versus 37.9% of LGC 5). Finally, 
 LGC 10 and 12 were classified as L. oris/antri/reuteri/frumenti/panis/caviae and L. coleohominis..
+
+Specific taxa of lactobacilli could not be linked to RM use but the bacterial community of the samples from 
+women who used RM did seem to show somewhat higher relative abundance of non-LGC genera as compared to 
+the samples derived from women who did not use RM (p = 0.057). In most women the lactobacillus that 
+dominated the bacterial community before treatment (visit 1) was also dominant at the end of the study, after the 
+treatment (visit 4), indicating the applied lactobacilli had a temporary effect on the microbiome (Supplemental 
+Fig. S7). We did observe shifts in relative abundances of the lactobacilli. Two women ended the study with a 
+different dominant Lactobacillus as at the study onset and two women had bacterial community profiles not dom-
+inated by Lactobacillus at visit 1 or 4. One visit 4 sample could not be analyzed because of insufficient sequencing 
+depth..
 
 concerning the vaginal microbiome also after clearing an episode of VVC. The decline in LGC concentrations 
 should be investigated in larger cohorts that preferably also evaluate if this is linked to RM use, or possibly disease 

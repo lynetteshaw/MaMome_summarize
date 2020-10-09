@@ -1,0 +1,99 @@
+riage patterns far exceeded what was initially
+suspected (Aagaard et al. This is intriguing,
+as the vaginal microﬂora inﬂuences gestational
+and postnatal health. 2014
+
+Stool
+
+Microarray
+
+Murine
+
+Ma et al. The 16S rDNA gene is an ideal target for classifying bacteria. ( The V1V3 and V3V5 primers sets used by the
+HMP consortium are outlined. The dotted line indicates the direction of ampliﬁcation. ( Thus, experimental design is essen-
+tial when examining the pregnant microbiome. Metabolomics will be similarly critical for
+linking bacterial function to host health. Although it is cur-
+rently challenging to fully integrate multi’omics
+data, meaningful associations are beginning
+to be established through correlations, network
+analysis, and co-occurrence analysis (Shi et al. BV is a common and complex
+alteration of vaginal ﬂora, but the description of
+the bacteria involved in the vaginal dysbiosis
+has changed over time. Also, this study showed that the vagi-
+nal microbiome could be distinguished by eth-
+nicity. However, re-
+cent studies have shown the caution that must
+be used when performing analysis such as CSTs
+(Koren et al. This aspect was queried in a separate
+study in which 32 subjects, mostly African-
+American and non-Hispanic Caucasian, self-
+collected vaginal samples over a 16 wk time
+frame (Gajer et al. Thus, this study exempliﬁes the need
+for further metatranscriptomic and metabolo-
+mic studies involving large cohorts to under-
+stand the role of the reproductive microbiome
+in health and disease. Nearly every organ
+system changes during pregnancy to promote
+pregnancy maintenance or prepare for parturi-
+tion. In the vagina, increased vascularity and
+hyperemia develop in the skin of the vulva and
+the mucosa of the vagina. Afterward,
+the speciﬁc lactate structures in the vagina were
+explored and it was discovered that the majority
+of the vaginal lactic acid was of the D-isoform,
+which cannot be produced by human metabo-
+lism (Boskey et al. The utilization of Next-Gen sequencing tech-
+niques to study the vaginal microbiome further
+showed the presence of Lactobacillus species in
+the vagina during pregnancy. And on
+probing at the species level using supervised
+machine learning approaches, such as linear
+discriminate analysis (LDA) effect size (LEfSe)
+and Boruta feature selection, we discovered that
+the vaginal microbiome during pregnancy was
+enriched in L. iners, L. crispatus, Lactobacillus
+jensenii, and Lactobacillus johnsonii (Aagaard
+et al. However, with a low
+number and low ethnic diversity of subjects in
+the study, further studies are needed to conﬁrm
+these shifts of the vaginal microbiome toward
+CSTs dominated by lactobacilli as pregnancy
+progresses. 2010),
+which was further shown by this recent study
+(Romero et al. These issues regarding BV and PTB
+warrant further investigation into these associ-
+ations, and the examination of the microbiome
+using Next-Gen sequencing techniques will be
+of great utility for these studies. In contrast to
+the study by Hyman et al., The maternal microbiome during infancy, and
+not solely delivery mode, may be an important
+factor in establishing the neonatal microbiome. In this study, the authors
+found that healthy, term neonates that were
+breast fed had increased diversity in their intes-
+tinal microbiome when compared with hospi-
+talized, preterm infants using PCR-DGGE anal-
+ysis (Schwiertz et al. Therefore, future
+studies are needed to entail how and why mi-
+crobes remain in distinct body sites. 14
+
+Cite this article as Cold Spring Harb Perspect Med 2015;5:a023051
+
+www.perspectivesinmedicine.org
+
+THE PLACENTAL MICROBIOME
+
+The placenta has long been considered sterile in
+normal gestation, where the presence of bacteria
+in clinical cultures is diagnostic for intrauterine
+infection and a signiﬁcant risk for PTB (Hillier
+et al. In fact, the presence of pla-
+cental or membrane bacteria in the absence of
+histological infection has been discovered re-
+peatedly over the last few decades (Hillier et al. It
+was shown that membranes of normal pregnan-
+cies often contain bacteria, yet show no signs of
+histological infection (Steel et al. Microbiota from maternal oral, vaginal, urinary tract, and intestine are all
+potential sources for these colonizing bacteria. However, further studies are necessary
+to show deﬁnitively that hematogenous spread
+from the oral cavity is possible for colonization
+or infection of the placenta.

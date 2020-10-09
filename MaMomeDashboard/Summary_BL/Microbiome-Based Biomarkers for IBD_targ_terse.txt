@@ -1,0 +1,27 @@
+There are several recent reviews on sequencing and anal-
+ysis  of  the  microbiome,  although  a  full  discussion  of  these 
+methods  is  beyond  the  scope  of  this  review.28-31  In  brief,  com-
+monly  used  methods  to  study  the  microbiome  use  either 
+amplicon sequencing methods that analyze the partial genome 
+or whole-genome shotgun metagenomic sequencing. Through profiling the 
+entire genome, this method allows for resolution at the species 
+and  even  strain  level  in  addition  to  the  definition  of  bacterial 
+function through mapping the genome to reference databases..
+
+Analysis of both 16s rRNA and metagenomic sequencing 
+has traditionally relied on comparing the relative abundance of 
+various  genera,  species,  and  strains  between  different  groups. Interestingly, although all patients were 
+in clinical remission at study entry, a lower baseline abundance 
+of F. prausnitzii (P = 0.014) and Bacteroides (P = 0.030) pre-
+dicted relapse after therapy cessation in addition to biochem-
+ical markers such as an elevated serum C-reactive protein. . A  subse-
+quent study of a peptidomic analysis of F. prauznitzii culture 
+supernatants  showed  7  peptides  derived  from  a  microbial  an-
+ti-inflammatory  molecule  that  had  a  dose-dependent  effect 
+on  reducing  the  activation  of  the  NF-κB  pathway.35  Luminal 
+delivery  of  this  peptide  through  Lactococcus  lactis  alleviated 
+colitis  in  dinitrobenzene  sulfonic  acid  mice  models.35  In  other 
+experiments, F. prauznitzii or its supernatant also induced the 
+production of IL-10 and transforming growth factor-β1.36. In contrast, response to therapy was not asso-
+ciated with a change in fungal composition. The primary outcome, remission at week 14, was attained by 31 
+patients.

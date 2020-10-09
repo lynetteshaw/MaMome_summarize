@@ -1,0 +1,29 @@
+in  phylum-  or  genus-level  relative  abundance  between  diet  arms, 
+with the exception of the Verrucomicrobia phylum which was sig-
+nificantly  increased  during  UF  (Extended  Data  Fig. Differentially  abundant 
+bacteria  on  each  diet  arm  (independent  of  order)  were  identified 
+using  a  paired  Wilcoxon  test. Analysis 
+using unpaired Wilcoxon tests revealed 41 bacterial species with a 
+significant difference (false discovery rate (FDR) < 0.05) in relative 
+abundance  ,  with  a  skew  towards  decreased  abundance 
+in the vancomycin group  Consistent 
+with  our  16S  rRNA  gene  sequencing  data,  these  vancomycin-
+depleted  bacteria  spanned  multiple  gram-positive  (Actinobacteria 
+and  Firmicutes)  and  gram-negative  (Bacteroidetes)  phyla. Metagenomic sequencing confirmed the enrichment for A. 
+muciniphila  during  UF  ,  and  a  trend  towards  increased  A. 
+muciniphila abundance in the vancomycin group (P = 0.25)..
+
+Mechanistic insights into host–microbiome interactions relevant 
+to  metabolic  disease  in  UF  versus  OF  and  vancomycin  versus 
+placebo  interventions. Lactobacillus phage Lc_Nu
+Lactobacillus salivarius
+Klebsiella oxytoca
+Megasphaera micronuciformis
+Odoribacter splanchnicus
+Parabacteroides merdae
+Alistipes putredinis
+Erysipelotrichaceae bacterium 21_3
+Lachnospiraceae bacterium 7_1_58FAA
+Ruminococcus sp 5_1_39BFAA
+Clostridium leptum
+Oscillibacter sp. in  response  to  A.  muciniphila  supplementation45.

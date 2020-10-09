@@ -1,4 +1,4 @@
-8_PARAGRAPHS
+12_PARAGRAPHS
 
 Interventions
 The treatment group received oral probiotic capsules con-
@@ -26,6 +26,16 @@ probiotic or other Lactobacillus spp., two common neonatal
 pathogens (Escherichia coli and Group B streptococcus),
 and the composition of the vaginal microbiota..
 
+Sample size
+A sample size of 366 was calculated to estimate the propor-
+tion of recruited women who would complete the study.
+Based on studies carried out on non-pregnant women trea-
+ted orally with the same lactobacillus strain,20 this sample
+size would allow us to detect with at least 80% power a
+decrease in BV of at least 50%, assuming a baseline risk of
+25%, following treatment with the Lactobacillus spp. inter-
+vention.26.
+
 There were no differences in characteristics of partici-
 pants between the two groups at baseline (Table 1). In a
 random sample of probiotic capsules tested for Lactobacilli,
@@ -47,6 +57,19 @@ group
 there were no differences between the groups in the odds
 of BV (adjusted OR 1.82, 95% CI 0.64–5.19; P = 0.26)..
 
+Participants (n = 152) who attended at all time-points
+were selected for the microbiome analysis. PCR ampliﬁca-
+tion at baseline failed in two participants in each group,
+and the 18–20 weeks’ gestation swabs from three partici-
+pants were unavailable, leaving 147 participants who pro-
+vided 299 samples (75 in each group at baseline, and 74
+and 75 in the probiotic and placebo groups, respectively, at
+18–20 weeks’). The 16S rRNA genes were successfully
+ampliﬁed and sequenced from these, and 6714 sequence
+reads were sub-sampled from each sample. The composi-
+tion of the vaginal community was as expected, with sub-
+sets dominated by Lactobacillus crispatus, Lactobacillus.
+
 iners or Lactobacillus jensenii. A further group was charac-
 terised by a diverse community, which included anaerobic
 species and Gardnerella vaginalis (Figure 3)..
@@ -64,6 +87,38 @@ Main ﬁndings
 The oral administration of L. rhamnosus GR-1 and L. reu-
 teri RC-14 daily from early pregnancy did not affect the
 prevalence of BV or common neonatal pathogens, or alter.
+
+Maternal characteristics
+Age (years)
+Body mass index
+Ethnicity
+White
+Black
+Asian
+Mixed/Other
+Participant born preterm
+Supplements/Medication use at baseline
+Antibiotics
+Other probiotics
+Microbiological assessment at baseline
+Bacterial vaginosis
+(Nugent score ≥7)
+Lactobacillus colonisation
+reuteri
+rhamnosus
+Others
+Escherichia coli
+Group B Streptococcus.
+
+Microbiological assessment at 18–20 weeks
+Bacterial vaginosis
+(Nugent score ≥7)**
+Lactobacillus colonisation
+reuteri
+rhamnosus
+Others
+Escherichia coli
+Group B Streptococcus.
 
 conclusive evidence has been hampered by inadequacies in
 trial design (for example sample size), variations in the

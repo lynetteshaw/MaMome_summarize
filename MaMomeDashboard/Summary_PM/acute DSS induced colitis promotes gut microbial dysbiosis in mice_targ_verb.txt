@@ -1,0 +1,49 @@
+The aim of the present study was to utilize Illumina
+sequencing of the 16S rRNA gene and inferred meta-
+genomics by open source software PICRUSt (Phyloge-
+netic Investigation of Communities by Reconstruction of
+Unobserved States  to investigate differences in
+microbiome composition and function in the fecal and
+colonic mucosa of mice treated with 5% DSS for 5 days. For colonic
+samples, the tissue was cut open and approximately
+50 mg of mucosa scrapings were taken. DNA extraction
+from colonic mucosa samples was done using ZR Tissue
+and Insect DNA kit (Zymo Research Corp.). Both DNA
+extraction kits included a bead-beating step for the
+mechanical lysis of microbial cells. Principle coordinate analysis (PCoA) of weighted UniFrac distances, a measure of b-diversity of bacterial community. ( The p values were determined using
+PERMANOVA. DSS, dextran sulphate sodium..
+
+Of the 86 taxa, 56 had abundance greater than or equal
+to 0.01% of community, whereas 30 were below 0.01%. Microbiota composition at the phylum and lower
+taxonomic levels in colonic mucosa samples
+A total of 199,057 sequences were generated after quality
+ﬁltering steps with an average of 24,882 high-quality
+sequences per sample, which resulted in identiﬁcation
+of 14 phyla and 151 taxa. Results of the
+relative abundances of various phyla are summarized
+in Fig. 5b, Lactobacillus reuteri, Bacteroides ovatus; g. rc4-4,
+Rikenellaceae, Biﬁdobacterium, YS2, Clostridium; f. Bacter-
+oidaceae, Clostridiaceae; o. RF32, RF39, Bacteroidales,
+Clostridales; and p. Proteobacteria were positively. DSS, dextran sulphate sodium..
+
+The indigenous gut microbiota are thought to play a key
+role in the pathogenesis of IBD. Part of the evidence for
+the involvement of intestinal bacteria in IBD comes from
+studies with murine models of the disease supporting
+the hypothesis that a deregulated immune response. colitis and may reveal bacterial shifts at lower taxonomic
+levels that could otherwise be missed. In this regard, it
+was worth noting that more taxa were signiﬁcantly
+associated with the DSS treatment in fecal samples
+compared to the colonic samples; however, several
+taxa including: Bacteroides ovatus, g. Clostridium, rc4-4;
+f. Clostridiaceae, Bacteroidaceae; and o. Bacteroidales,
+RF39, and RF32 were positively associated with the DSS
+treatment in both fecal and colonic mucosa samples. Lending support to these results,
+Berry et al. Given that the microbial analysis of diversity, commu-
+nity composition and also changes at phylum level for
+colonic samples did not show any signiﬁcant difference
+between the DSS and control mice, the results suggest
+that analysis at microbial functional level might reveal
+important colitis-related changes in gut microbiome
+that are otherwise not noticeable at higher phylogenetic
+or community levels.

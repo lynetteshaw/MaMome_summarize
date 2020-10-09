@@ -1,4 +1,4 @@
-10_PARAGRAPHS
+19_PARAGRAPHS
 
 The microbiological diagnosis of a ‘normal’ or dis-
 turbed vaginal microbiota has historically been based on
@@ -110,6 +110,46 @@ preterm cohorts (t test, p > 0.05); therefore, the differ-
 ences observed here in bacteria prevalence were unlikely
 to be driven by cohort sequencing bias..
 
+Mollicutes (Mycoplasma and/or Ureaplasma) were de-
+tected by family-specific conventional PCR in 28/46
+of pregnant women who delivered preterm
+(Table 1). Ureaplasma species were detected by
+genus-specific PCR in samples of 14/46 women
+who had PTB, with all women testing positive for U.
+parvum and none for U. urealyticum. Women who de-
+livered at term were less likely to be PCR positive for
+Mollicutes compared to women who had PTB (Table 1).
+No significant differences were observed in Ureaplasma
+prevalence between the two groups (Table 1). An associ-
+ation between Mollicutes/Ureaplasma detection and the
+composition of the vaginal microbiota, represented as
+CST, was also investigated. Detection of Mollicutes and
+Ureaplasma was not associated with any CST in particu-
+lar when investigated in the term cohort, preterm cohort
+or both groups together (chi-square, p > 0.05)..
+
+CST and microbiota richness, and CST and microbiota
+diversity (ANOVA, p < 0.001). There was no significant
+association between CST and the remaining following
+metadata: microbiota richness and diversity (continuous
+variable), presence of Mollicutes and Ureaplasma (yes/
+log 16S rRNA gene copies (continuous variable),
+no),
+variable; 18–25, 26–35,
+maternal
+36–45), BMI category (underweight, normal, overweight,
+obese; < 25, ≥ 25), ethnicity (White, East Asian, South
+Asian, Black, Hispanic, Other), natural conception (yes/no),
+parity  mode
+of delivery (vaginal, C-section), pre-existing condition
+(yes/no), folic acid intake before or during pregnancy
+(yes/no), drinking alcohol (yes/no), neonate in high
+level care (yes/no), birth weight (continuous variable)
+and Apgar score at 1 and 5 min .
+
+abundance of other Lactobacillus species as well as
+Gardnerella .
+
 although we cannot address this question, it is possible
 that sPTB driven by an ascending infection would be
 more evident in a high-risk cohort or extreme preterm
@@ -124,6 +164,12 @@ role of the vaginal microbiota in those processes will re-
 quire further study..
 
 Lactobacillus delbrueckii subsp. lactis.
+
+Actinomyces neuii subsp. anitratus.
+
+Mobiluncus curtsii subsp. curtsii.
+
+Corynebacterium pyruviciproducens.
 
 identified. The ALDEx2 analysis indicated that eight rare
 taxa were more abundant in the term group, which does
@@ -146,4 +192,56 @@ were significantly different in their prevalence among
 women in the two groups also had low sequence read
 counts (Table 3). Further investigation would be re-
 quired to determine if these rare members of the micro-
-bial community play a yet unknown role in sPTB.
+bial community play a yet unknown role in sPTB..
+
+Our results also confirmed previous reports of an as-
+sociation between Mycoplasma and preterm birth 
+Mollicutes were detected significantly more often in
+women in the preterm group compared to women in the
+term group, but no differences were observed in
+Ureaplasma prevalence between groups indicating that
+the difference in Mollicutes prevalence is primarily
+driven by the presence of Mycoplasma spp. Although in-
+dividual Mycoplasma species could not be discerned
+based on assay used in our study, both Mycoplasma
+genitalium 
+have been previously associated with negative reproduct-
+ive outcomes including PTB..
+
+compare different study designs (based on different co-
+horts and barcode gene) that addressed the same re-
+search question. Hyman and colleagues described
+the vaginal microbiota of 83 pregnant women (term n =
+66, preterm n = 17) based on Sanger sequencing of
+cloned 16S rRNA genes. Samples were collected at each
+trimester and preterm was defined as delivery before
+37 weeks of gestation. There was no correlation between
+preterm and absence/low abundance of Lactobacillus in
+the microbiota; in other words, preterm outcome could
+not be predicted based on CST. Similar to our results,
+they found an association between increased microbiota
+diversity and preterm delivery among women of white
+ethnicity (n = 40) (data from women of others ethnicities
+was not included in the analysis because of small sample
+sizes). Although there was no association between CST
+and ethnicity, it is important to note that most women
+enrolled in this study described themselves as being
+white, and it is possible that an increased sample size of
+participants of other ethnicities could result in a differ-
+ent conclusion..
+
+Most samples in the preterm group were dominated by
+Lactobacillus, yet, they collectively had higher richness
+and diversity compared to samples from the term group.
+The increased microbiota richness/diversity might indi-
+cate a transient state between Lactobacillus-dominated
+CST and non-Lactobacillus-dominated, i.e., CST IV (A, C
+or D). In other words, the increased richness and diversity
+we observed might be a remnant characteristic of the pre-
+vious disturbed microbiota. In summary, although we did
+not “detect” a specific microbial community structure that
+is associated with preterm birth, the increased microbiota
+richness/diversity was associated with preterm birth. In
+addition, the association with differences in Prevotella spe-
+cies and Mycoplasma presence may point to signature
+species associated with preterm birth.

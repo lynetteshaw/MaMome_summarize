@@ -1,0 +1,69 @@
+Page 2
+
+MICROBES AND NUTRITION DURING CRITICAL ILLNESS
+
+It has been known for decades that intestinal bacteria make important contributions to
+human metabolism and physiology. The implications of this research for
+assessing and meeting the nutritional needs of critically ill patients are substantial. Uncertainty remains regarding the precise number of bacteria in the human body, but it is
+generally agreed that there at least 10 bacterial cells for every 1 human cell  This has led
+authorities in the field to describe humans as “superorganisms” composed of both human
+and microbial cells  Although clinicians have not historically thought about their patients
+in this way, it is easy to recognize the evolutionary logic of a symbiotic relationship between
+humans and microbes. Author manuscript; available in PMC 2012 August 1. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Morowitz et al. Page 4
+
+Utilization of complex polysaccharides via fermentation by anaerobic bacteria in the large
+intestine results in the accumulation of short chain fatty acids (SCFA)  The principal
+SCFAs seen in the colon, acetate, propionate, and butyrate, have inherent nutritional value,
+but also impact gut epithelial physiology in other ways. Butyrate is metabolized primarily in the gut
+epithelium to yield ketone bodies or CO2  Interestingly, the colonic epithelium derives
+up to 70% of its energy needs directly from butyrate. Mechanistic studies in gnotobiotic animals further demonstrated that, when B.
+thetaiotaomicron senses a scarcity of fucose in the intestinal lumen, it actually induces the
+gut epithelium to upregulate expression of fucosylated glycans that can be used by the
+bacteria as an energy source without harming the host  This body of work illustrates
+how the remarkable host-microbe symbiosis can be teased apart by pairing genomic
+sequencing efforts with creative in vivo laboratory studies. Some of the ammonia
+can be utilized for microbial synthesis of amino acids. Even more between group differences were detected in the liver lipid profiles. In fact, several specialized epithelial
+transporters have been recognized to participate specifically in the absorption of vitamins
+derived from gut bacteria  Perhaps the relative ease in replenishing vitamin stores in
+ICU patients has minimized enthusiasm for aggressive investigation of how bacterial
+vitamin biosynthesis is altered in hospitalized patients. Recent work
+has suggested that the microbiota of obese individuals has an increased capacity to harvest
+energy from the diet  Landmark papers, utilizing high-throughput metagenomic
+sequencing platforms to identify as many genes as possible from all members of a mixed
+population of bacteria, from Gordon, Turnbaugh, Ley and colleagues, have conclusively
+demonstrated that the metabolic potential of the gut microbiome varies according to the
+
+Surg Clin North Am. have advanced these ideas even further by demonstrating that the
+microbiome associated with diet-induced obesity (DIO) (in contrast to the ob/ob mutant
+model) is also rich in Firmicutes species and is similarly efficient at extracting energy from
+the diet  This set of experiments utilized a mouse model of DIO in which conversion to
+a high fat/high sugar (Western) diet reliably produces increased total body weight and
+increased epididymal fat content. Page 8
+
+WHAT HAPPENS TO THE MICROBIOME DURING CRITICAL ILLNESS? receiving either enteral or parenteral nutrition. However, several clinical trials
+have evaluated strategies to manipulate the gut flora without thoroughly assessing the
+microbiome before or after therapy. For this reason, a trial with prospective monitoring of the microbiome in ICU
+patients with comprehensive culture-independent techniques is needed. In theory, manipulation of the gut microbiota could be used to improve energy
+balance and decrease the incidence of infectious complications. As a result, interventions in this
+field have been introduced with a limited scientific foundation. Others with obvious relevance to nutrition are discussed. Nevertheless, enthusiasm for
+decontamination protocols has diminished due to unacceptable increases in drug-resistant
+bacterial strains within the ICU. Gut decontamination
+
+Probiotics
+
+The administration of probiotics and prebiotics represents an increasingly popular
+alternative to gut decontamination protocols. Interestingly, this led
+almost instantly to commercial attempts to capitalize upon these ideas, hence the
+development of probiotics. However, there is little understanding of how to
+approach these issues in the ICU. CONCLUSIONS
+
+The intersection between the microbiome, nutrition, and critical illness will undoubtedly
+grow more interesting in the coming years. First, it is apparent that future
+evaluations of human nutritional status during critical illness should include consideration of
+the gut microbiota.

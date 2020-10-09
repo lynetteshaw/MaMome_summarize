@@ -1,4 +1,38 @@
-11_PARAGRAPHS
+14_PARAGRAPHS
+
+Defects in host genes controlling bacterial homeostasis or al-
+terations of the gut microbiota composition have been associ-
+ated with complex diseases, including inflammatory bowel dis-
+ease (IBD), diabetes mellitus (Pflughoeft and Versalovic 2012)
+and asthma (Maslowski et al. 2009). Although in some partic-
+ular cases complex diseases have been linked with the pres-
+ence of specific bacteria (e.g. Prevotella in reactive arthritis;
+Scher et al. 2013), it seems likely that bacterial communities
+and not specific bacteria determine susceptibility towards com-
+plex diseases, a concept that has been introduced as the ‘the
+pathobiome’ (Vayssier-Taussat et al. 2014). The identification and
+manipulation of such disease-associated communities will un-
+doubtedly be the topic of intensive research. Interestingly, the
+composition of gut bacterial communities is genetically deter-
+mined (Garrett et al. 2007; Brinkman et al. 2011; Lepage et al.
+2011). Although a direct link between the microbiome and dis-
+ease susceptibility is difficult to establish, proof of concept stud-
+ies argue that manipulation of the microbiome represents an ap-
+pealing treatment strategy. Gastrointestinal abnormalities can
+be improved by probiotic treatment in autism spectrum disor-
+ders (Hsiao et al. 2013), and fecal microbiota transplantation is
+highly effective for the treatment of recurrent Clostridium difficile
+infection (Van Nood et al. 2013). Likewise, disease phenotypes
+can be transferred by microbiota transplantation. For example,
+obesity can be transferred successfully using feces from obese
+humans to lean mice, which was associated with decreased fer-
+mentation of short-chain fatty acids, increased metabolism of
+branched amino acids and decreased transformation of bile acid
+species as compared to the lean phenotypes (Ridaura et al. 2013).
+In addition, simply cohousing lean and obese animals prevented
+the obese phenotype and was associated with transfer of Bac-
+teroidales, suggesting a phenotypic impact of horizontal micro-
+bial transfer (Ridaura et al. 2013)..
 
 light on bacterial functionality. Such techniques have led to the
 development of the first human intestinal gene catalog (Qin
@@ -36,6 +70,38 @@ tures in GF mice remain immature, much of our understanding
 of host–microbe interactions involved in the development of the
 immune system arose from the study of GF animals and is dis-
 cussed in more detail later in this review..
+
+An important limitation in murine microbial studies is the dif-
+ference in bacterial composition between mice and humans.
+Whereas in humans three enterotypes can be identified, only
+two can be found in mice (Hildebrand et al. 2013; Wang et al.
+2014). Although the microbiota similarity between mice and
+humans at the phylum level is remarkable, at the species
+level, many differences are found (Dethlefsen, McFall-Ngai and
+Relman 2007). As in humans, the two most abundant bacte-
+rial phyla in C57BL6/J mice are the Firmicutes (60–80% of se-
+quences) and the Bacteroidetes  however, 85% of the
+murine sequences represent species that have not been detected
+in humans (Ley et al. 2005). ‘Humanization’ of the mouse mi-
+crobiome is frequently used to overcome this limitation, and
+it was recently shown that mice humanized with different hu-
+man donors generate a similar microbiome composition and
+metabolomic profile compared to the donor, with preservation
+of individual-specific features (Marcobal et al. 2013). However,
+microbial species seem to be critically adapted to specific hosts.
+Gut bacterial numbers and phylum abundance were similar in
+mice containing mouse and human microbiota, but bacterial
+species differed markedly (Chung et al. 2012). Mice harboring
+human microbiota had low levels of mucosal CD4+ and CD8+
+T cells, few dendritic cells and reduced antimicrobial peptide
+expression. Even rat microbiota failed to fully expand intesti-
+nal T-cell numbers in mice. Importantly, mice with mouse mi-
+crobiota conferred better protection against Salmonella infection
+than those with human microbiota. Together, these data sug-
+gest a highly specific coexistence and mutual interaction be-
+tween species-associated microbiota and the host immune sys-
+tem, and that microbiota–host interactions in humans cannot
+be completely mirrored in ‘humanized’ mice..
 
 contrast, colonization of 8-week-old GF mice could not reverse
 the elevated numbers of iNKT cells (Olszak et al. 2012). Accord-
@@ -209,6 +275,15 @@ C57BL6 mice obtained from five different vendors were reported
 (Chang, Mitzner and Watson 2012). This type of variation is not
 restricted to commercially available strains but also plays a role
 when comparing studies performed in different animal labora-.
+
+Cage effects in conventionally housed mice are dramatic. Iso-
+genic mice from different litters that were cohoused at weaning
+showed little variation in microbiota (Deloris et al. 2006). Con-
+versely, if the litters were split among different cages at wean-
+ing, a high divergence in microbiota profiles was observed after 3
+weeks. The most convincing difference between cages is driven
+by Helicobacter spp., a fast spreading species found in animal fa-
+cilities (Taylor et al. 2007; Hildebrand et al. 2013)..
 
 Diet-induced changes in bile acid composition can also be
 an important cause of modifications to the gut bacterial com-

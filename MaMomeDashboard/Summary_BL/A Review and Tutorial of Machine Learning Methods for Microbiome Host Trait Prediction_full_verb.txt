@@ -1,0 +1,107 @@
+Zhou and Gallins
+
+Host Trait Prediction
+
+levels of taxonomy, with intriguing thoughts about the
+of
+interplay and use of molecular function descriptors vs. taxonomic
+descriptors, the reader is referred to Knights et al. Several features of OTU tables present challenges. Existing studies often report disease-associated dysbiosis,
+a microbial imbalance inside the host, but such associations can
+have a wide range of interpretations. Such
+external validation can in principle result
+in more robust
+and generalizable models for prediction than models that are
+validated internally only. Such sampling considerations are beyond our scope, and we
+refer the reader to Chawla  Here we consider our sample
+dataset to be representative of the population of its intended
+downstream use. Frontiers in Genetics | www.frontiersin.org
+
+2
+
+June 2019 | Volume 10 | Article 579
+
+Zhou and Gallins
+
+Host Trait Prediction
+
+2.2. For example, researchers sometimes use a simple
+holdout method in which a fraction 1/k of the data are randomly
+selected as a test set, the remainder as training, and repeat
+the process randomly with enough rounds to provide a stable
+estimate of accuracy. Several methods have been proposed to reduce the number
+of OTU features using correlation and taxonomy information,
+including Fizzy (Ditzler et al., 2016), and HFE (Oudah and Henschel, 2018). In particular,
+neural networks have received considerable recent attention, but
+it is diﬃcult to ﬁnd quantitative evidence for the additional
+predictive ability in comparison to other methods. The prediction
+value is the estimate of the posterior mean E(Y|x) = Pr(Y =
+1|X), used because it minimizes mean-squared error. 2018), and to use these PC scores as trait predictors. Euclidean
+distance or correlation coeﬃcients are the most commonly used
+distance metrics. An ensemble of decision trees (or regression trees
+for continuous y) is built by performing bootstrapping on the
+dataset and averaging or taking the modal prediction from trees
+(a process known as “bagging”)(Figure 1C), with subsampling
+of features used to reduce generalization error (Ho, 1995). Hidden layers use backpropagation to optimize the weights of
+the input variables in order to improve the predictive power of
+the model. Paper
+
+Dataset
+
+Trait
+
+Samples Cases Controls
+
+Taxa
+
+Level
+
+Method
+
+Metric
+
+Value
+
+Pasolli et al., 2014
+
+Liver cirrhosis
+
+232
+
+118
+
+114
+
+542
+
+Species Random forest
+
+Zeller et al., 2014 Colorectal cancer
+
+121
+
+48
+
+73
+
+503
+
+Species Random forest
+
+Qin et al., A bias term is also added in each step,
+which can be thought of as analogous to the intercept of a
+linear model. In most cases, having
+just one hidden layer with one neuron is reasonable to ﬁt
+the model. Note that the AUC is invariant to monotone
+transformations of ˆy. A Literature Review
+We conducted a literature review of published host-trait
+microbiome prediction studies that used cross-validation and
+reported a measure of prediction accuracy. for each of
+
+For our analyses, we analyzed four traits (three binary and
+one continuous) from three datasets with varying sample sizes
+
+FIGURE 3 | ROC curves after collapsing OTUs to the genus level (A) the Singh dataset, (B) the Vincent dataset, and (C) the Goodrich dataset. google.com/ncsu.edu/zhouslab/home/software?, In addition,
+after such feature reduction most methods performed more
+similarly. 2019), oﬀers potentially useful
+information
+for integrative analyses.

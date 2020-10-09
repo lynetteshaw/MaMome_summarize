@@ -1,4 +1,32 @@
-1_PARAGRAPHS
+3_PARAGRAPHS
+
+in the infant’s gut. For example, species of beneﬁcial bacteria
+such as Lactobacillus and Biﬁdobacterium have been found to be
+dominant in breastfed infants while species of harmful bacteria
+such as Clostridium, Granulicatella, Citrobacter, Enterobacter,
+and Bilophila have been found to be dominant in formula-fed
+infants (Bäckhed et al., 2015). In addition, breastfed babies have
+higher gut microbial diversity compared to formula-fed babies,
+and several studies indicate that the diversity of bacteria is directly
+connected to health (Wang et al., 2008; Bäckhed et al., 2015). An
+unbalanced composition of the infant’s gut microbiota has been
+linked to several childhood diseases, including atopic dermatitis
+(AD) (Abrahamsson et al., 2012; Zheng et al., 2016) obesity (Yuan
+et al., 2016), and asthma (Thavagnanam et al., 2008)..
+
+the USDA food composition database (US Department of
+Agriculture and Agricultural Research Service, 2010) and the
+Canadian nutrient ﬁle (Canada, 2010). Note that microbiota
+of dietary intake can be characterized using metagenomic
+sequencing as reviewed previously,
+if not already deﬁned
+[e.g., probiotics with predeﬁned strains (Sánchez et al., 2017)].
+Some studies perform metabolic characterization of dietary
+intake directly (Quinn et al., 2016), while others rely on pre-
+characterized metabolic proﬁles (Zhao et al., 2018). A signiﬁcant
+limitation of any analysis is that food composition databases
+characterize only 0.5% of the known nutritional compounds
+(Barabási et al., 2019)..
 
 Example: Metagenomic analysis of feces samples tells us that Person A has 5 reads mapped to
 bacterium Escherichia coli, while person B has 10. Can we conclude that this bacterium is more

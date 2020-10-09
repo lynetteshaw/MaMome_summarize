@@ -1,0 +1,32 @@
+relationships
+between internal microorganisms and I. scapularis have
+focused on commonly studied human pathogens. For
+example, infection of blacklegged ticks by A. phagocy-
+tophilum (the causative agent of granulocytic anaplas-
+mosis in humans) has been shown to induce protein
+expression that increases cold tolerance and, depend-
+ing on weather patterns, may aid in tick survival
+(Neelakanta et al. The relative abundance
+of non-Rickettsia taxa increased along developmental
+stages (i.e. larvae to nymphs to adults) with the excep-
+tion of adult females, which displayed the highest rela-
+tive abundance of Rickettsia of all ﬁeld-collected life
+stages . Seven taxa were
+found in all female and all freshly hatched larvae sam-
+ples (matching to the genera Rickettsia, Phyllobacterium,
+Burkholderia, Sphingomonas, Pseudomonas and the families
+Comamonadaceae
+and Oxalobacteraceae); however,
+females harboured more observed OTUs than freshly
+hatched larvae . Wolbachia was the genus with the second highest. We interpret this as an indication of sufﬁcient evolution-
+ary informativeness
+identiﬁcation of our
+sequences at the clade level grosso modo, combined with
+the observation of greater divergence patterns of this
+locus in Rickettsia..
+
+Given the overwhelming abundance of Rickettsia
+across life stages and organs, we attempted to dissect
+its subgeneric diversity using phylogenetic criteria and
+found the vast majority of the sequences to cluster
+with bona ﬁde Ixodes tick rickettsial endosymbionts.

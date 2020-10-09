@@ -1,0 +1,166 @@
+Number of taxa at different ranks
+
+Taxonomy
+
+No. Aligned 16S rRNA sequences were selected at the RDP
+website and analyzed using the RDP Tree Builder tool. Users can navigate through
+the hierarchy by clicking on the various taxa. The sequences aver-
+aged 1,454 bases in length. Word sizes between 6 and 9 bases were tested in prelim-
+inary experiments. As there are fewer possible words of size 8 than size 9, size 8 was chosen
+for all further work to reduce memory requirements. The position of a word in
+a sequence is ignored. wd} be the set of all possible
+eight-character subsequences (words). Nor-
+mally, when data consist of independent features, a bootstrap sample size equal
+to the number of features in the original sample is chosen. In this case, the
+number of completely independent features equals the number of nonoverlap-
+ping words. Classiﬁer accuracy versus bootstrap conﬁdence
+for the Bergey corpus
+
+Length of
+segment
+(bases)
+
+Full
+400
+200
+100
+50
+
+% of correct classiﬁer assignments within a
+bootstrap conﬁdence range of a:
+
+100–95% 94–90% 89–80% 79–70% 69–60% 59–50%
+
+98.0
+98.3
+98.2
+97.4
+94.9
+
+66.4
+86.1
+90.1
+89.8
+83.9
+
+69.2
+75.9
+83.0
+82.5
+76.8
+
+41.8
+65.4
+75.6
+75.6
+67.9
+
+46.2
+61.1
+64.6
+64.7
+59.5
+
+34.7
+49.2
+55.7
+55.6
+49.7
+
+a Bootstrap conﬁdence reﬂects the frequency of most common assignments
+out of 100 bootstrap samplings. For each of the 393 near-full-length sequences misclassiﬁed
+at the genus level, we determined the distance to other mem-
+bers of the Bergey corpus by calculating the pairwise identity
+between sequences using the corresponding aligned sequences
+from the RDP website. The comparison
+results are presented in a taxonomic hierarchy for easy navigation. Taxa with signiﬁcant differences in representation are
+marked. The comparison results can also be displayed in a table sorted by
+signiﬁcance. For these se-
+quences, the (obviously) incorrect genus assignment was not
+considered in the summary statistics, but the results were in-
+cluded for higher ranks containing other genera with valid
+training sets . The accu-
+racy for the 50-base segments was only 94.1% at the phylum
+level and decreased dramatically to 51.5% at the genus level. We randomly
+chose a test set of 20% of these for leave-one-out
+testing, as described above. For many such users, a complete and thorough
+phylogenetic analysis may not be an option. It
+is unrealistic to imagine that all of these sequences will be
+examined in detail. Of the three most rep-
+resented phyla (Firmicutes, Proteobacteria, and Actinobacteria),
+the Actinobacteria had the fewest errors (3%, or 31 in 1,220
+trials), while the misclassiﬁcation rate for the Firmicutes was
+about ﬁve times as high  Within
+the Firmicutes, more than two-thirds of the errors occurred in
+the class Clostridia  and within that class, the
+genus Eubacterium stood out, with 30 misclassiﬁcations in 41
+trials (see the supplemental material). Literature searches conﬁrmed that, subsequent
+to the publication of version 5.0 of Bergey’s taxonomic outline,
+all three had been reevaluated in line with the classiﬁcation
+given by the RDP Classiﬁer. Unlike the Seq-
+Match nearest-neighbor classiﬁer, the RDP naı¨ve Bayesian
+Classiﬁer uses information averaged over the entire genus and
+hence is less inﬂuenced by individual misplaced training se-
+quences. Classiﬁer accuracy at various query
+lengths (NCBI’s taxonomy)
+
+% of segments accurately identiﬁed in:
+
+Phylum
+
+Class
+
+Order
+
+Family
+
+Genus
+
+99.8
+99.7
+99.7
+99.2
+94.6
+
+99.3
+99.3
+99.2
+98.4
+90.9
+
+98.6
+98.5
+98.1
+95.7
+81.6
+
+97.1
+97.0
+95.7
+88.9
+69.2
+
+92.1
+90.4
+86.6
+74.9
+52.8
+
+Length of
+segment
+(bases)
+
+Full
+400
+200
+100
+50
+
+FIG. Phylogenetic analysis of the Alicyclobacillaceae, including
+the genera Sulfobacillus and Alicyclobacillus. Bootstrap conﬁdence estimates above 85% are
+shown. They are nearly identical to each
+other and 19% different from Z21979. These two sequences are 14% different, and X60602 is now de-
+scribed by GenBank as from a Bacillus sp. In bacteriology, although nomenclature is governed by an
+ofﬁcial code, there is no deﬁnitive or ofﬁcial taxonomy. We thank Sue Barnes for allowing us access to her unpublished
+
+sequence data and Phillip Neal for constructive suggestions.

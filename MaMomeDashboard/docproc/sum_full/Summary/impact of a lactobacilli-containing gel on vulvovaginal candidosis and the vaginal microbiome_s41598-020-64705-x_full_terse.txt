@@ -1,13 +1,0 @@
-First we explored in detail the in vitro inhibitory effects of a selection of LGC strains against growth and 
-pathogenic properties (adhesion to vaginal cells and hyphae formation) of Candida albicans. When applying the strains simultaneously with C. albi-
-cans, the strains were able to reduce adhesion of C. albicans, e.g. L. pentosus KCA1 by 78.0% . Scientific RepoRtS  |         10:7976  | https://doi.org/10.1038/s41598-020-64705-x
-
-4
-
-www.nature.com/scientificreportswww.nature.com/scientificreports/visit 2 = 6.1.108 CFU/ml). Of note, when we stratified 
-the samples in women who did or did not use RM, the following trend was observed: the women who used RM 
-started off with a higher load of fungi and lactobacilli and ended with on average with similar fungal concen-
-trations and lower concentrations of lactobacilli as compared to the women who did not use RM . estimation of LGc and fungal concentrations using qpcR.  To supplement the microbiome data with 
-estimations of absolute abundances of lactobacilli and yeast, the DNA samples obtained before were subjected to 
-qPCR analysis, as described previously43. Data availability
-The obtained sequencing data and metadata is available under ENA accession number PRJEB33108.

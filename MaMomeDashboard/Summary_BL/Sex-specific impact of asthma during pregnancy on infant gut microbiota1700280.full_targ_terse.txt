@@ -1,0 +1,19 @@
+Female infants are generally born smaller than male infants; however, in response to maternal asthma, the
+Caucasian male fetus is more likely to have a lower birthweight and show growth retardation when
+delivered at term than the female fetus recently reported less colonisation of stool
+with Lactobacillus species at birth and during the first month of life among full-term male infants in
+comparison to female infants. Second, we sought evidence for a fetal programming role of
+maternal asthma that was independent of birth mode and related events, and was enhanced by maternal
+comorbid conditions, such as overweight and atopic disease..
+
+The abundance of Lactobacillus was significantly lower among infants born to women with non-Caucasian
+ethnicity and to women with asthma during pregnancy (table 1). Comparisons were performed
+using the Wilcoxon rank sum test. The false discovery rate (FDR) was used to adjust p-values for multiple
+testing and crude p-values <FDR p-values are indicated by “#”. The p-values <0.1 are reported and
+p-values <0.05 are indicated in bold. ¶: Only 2% of Caucasian infants received
+probiotic products; their exclusion from analyses did not change any of the findings..
+
+the species level (figure 1), an unclassified
+Finally, using the LEfSe method to test differences at
+Lactobacillus species was found to be less abundant in male Caucasian infants born to mothers with atopic
+asthma (LDA score 2.93, p<0.05).

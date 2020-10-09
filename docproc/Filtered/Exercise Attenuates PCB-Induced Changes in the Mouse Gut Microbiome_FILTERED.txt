@@ -1,4 +1,4 @@
-8_PARAGRAPHS
+11_PARAGRAPHS
 
 in  the  exercised  group  belonged  to  phyla 
 Tenericutes, Bacteroidetes, and Firmicutes. 
@@ -16,6 +16,8 @@ Pseudomonas plecoglossicida strain R18.
 Pseudomonas putida strain SRI156
 Streptococcus infantis.
 
+Candidatus aquirestis calciphila.
+
 Staphylococcus epidermidis
 Bacteroides thetaiotaomicron strain 8669.
 
@@ -27,6 +29,43 @@ Enterococcus faecium
 Streptococcus pseudopneumoniae
 Bacillus trypoxylicola
 C11_K211.
+
+The  development  of  chronic  diseases 
+related to the exposure to environmental toxi­ 
+cants are associated with age, and the bene­ 
+fits of exercise are also being emphasized in 
+older  individuals;  therefore,  we  used  aged 
+mice   in  the  pres­ 
+ent study. Older mice tend to have higher 
+body  mass  than  younger  animals.  In  fact, 
+the average body weight of sedentary mice 
+in the present study was 46.8 ± 1.4 g, and 
+body weight of exercised mice was approxi­ 
+mately 30% lower. Recent evidence from Ley 
+et al. indicated a strong association of 
+the intestinal microbiome with the develop­ 
+ment of obesity. Genetically obese ob/ob mice 
+were charac terized by a major decrease in the 
+abundance of Bacteroidetes and an increase 
+in Firmicutes compared with lean ob/+ wild­ 
+type littermates and lean  ob/+ mothers fed 
+the same diets. Similar changes were observed 
+in wild­type mice fed a high fat/high poly­ 
+saccharide diet (Turnbaugh et al. 2008) and 
+in obese humans (Ley et al. 2005). An increase 
+in  Firmicutes  (such  as  Lactobacilli)  and  a 
+decrease in Bacteroidetes have been confirmed 
+in obese humans (Armougom et al. 2009). In 
+another study, overweight pregnant patients 
+had  reduced  abundance  of  Bifidobacteria 
+and Bacteroidetes and increased abundance 
+of selected Firmicutes (e.g., Staphylococcus) 
+and Proteobacteria (e.g., Enterobacteriaceae) 
+(Santacruz et al. 2010). In line with these 
+reports,  it  is  relevant  that  we  detected  an 
+increased abundance of several Firmicutes, 
+primarily Enterococcaceae (e.g., Enterococcus 
+faecium), in the exercised mice. .
 
 Although  Enterococci  are  commensal 
 bacteria, they are also important nosocomial 
@@ -46,4 +85,24 @@ pharmaceutical preparations. They are adminis­
 tered to treat diarrhea, antibiotic­associated 
 diarrhea,  and  irritable  bowel  syndrome;  to 
 lower cholesterol levels; or to improve host 
-immunity (Franz et al. 2011). 
+immunity (Franz et al. 2011). .
+
+The  most  striking  change  we  found  in 
+the gut microbiome of exercised mice was a 
+>  300­fold  decrease  in  the  abundance  of 
+Erysipelotrichaceae (Table 3). This family plays 
+an important role in metabolic disorders and 
+energy metabo lism (Chen et al. 2012). Chen 
+et al. reported that Erysipelotrichaceae 
+were enriched in obese humans and mice, as 
+well as in mice fed a high­fat diet, and noted 
+that  the  abundance  of  Erysipelotrichaceae 
+was  also  increased  in  patients  with  colo­ 
+rectal cancer. Thus, our data are consistent 
+because we observed a decrease in the num­ 
+ber of Erysipelotrichaceae in exercised mice 
+that had lost a substantial amount of body 
+weight;  this  is  associated  with  the  role  of 
+Erysipelotrichaceae in energy production and 
+adiposity (Claus et al. 2011; Goodman et al. 
+2011; Zhang et al. 2009). 

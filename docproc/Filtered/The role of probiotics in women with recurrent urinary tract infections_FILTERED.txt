@@ -1,4 +1,84 @@
-9_PARAGRAPHS
+24_PARAGRAPHS
+
+In studies on urinary microbiomes, the degree of concentration 
+of  bacteria  habiting  in  urinary  systems  may  vary  according  to 
+the sex, the method of urine collection, and the technique used 
+to  study  UM.  In  general,  Lactobacillus  and  Streptococcus  are 
+the  most  frequently  observed  species  and  many  studies  have 
+been performed on them. Both microorganisms are lactic acid 
+bacteria and have protective roles against pathogens colonized 
+in the urogenital region.Other less frequently found bacterial 
+strains are Alloscardovia, Burkholderia, Jonquetella, Klebsiella, 
+Saccharofermentans,  Rhodanobacter  and  Veillonella.  It  has 
+been reported that the urine collection method (midstream urine 
+specimen,  first  voided  urine  specimen,  suprapubic  aspiration, 
+transurethral  catheterization)  and  the  technique  to  identify  the 
+UM  are  the  factors  that  could  lead  to  formation  of  different 
+UM profiles. UM reported in healthy women is summarized in 
+Table 1..
+
+Lactobacillus, Gardnerella, 
+Staphylococcus, Streptococcus, 
+Enterococcus, Bifidobacterium, 
+Atopobium, Enterobacteriaceae.
+
+Lactobacillus, Gardnerella, 
+Corynebacterium, 
+Enterobacteriaceae, Anaerococcus, 
+Bifidobacterium, Streptococcus, 
+Staphylococcus, Sneathia, 
+Peptoniphilus, Atopobium, 
+Rhodanobacter, Trueperella, 
+Alloscardovia, Veillonella.
+
+Lactobacillus, Prevotella, 
+Gardnerella, Peptoniphilus, 
+Dialister, Finegoldia, 
+Anaerococcus, Allisonella, 
+Streptococcus, Staphylococcus.
+
+When vaginal flora is examined, it is known that microorgan-
+isms of Lactobacillus spp. are dominant bacteria and form UM 
+which demonstrates antimicrobial activity. Inadequate treatment 
+of  genitourinary  infections  and  recurrence  lead  to  the  shift  of 
+Lactobacillus  dominancy  in  the  normal  flora  to  the  coliform 
+uropathogens..
+
+Since  the  vaginal  microflora  is  intended  to  be  corrected,  pro-
+biotics  that  prevent  and  treat  genitourinary  infections  should 
+contain Lactobacillus species. The mechanism of action of pro-
+biotics may involve acidification of the mucosal surface, inhibi-
+tion of adhesion of pathogens, production of substances such as 
+vitamins and immunomodulators, and synergistic activity with 
+the host’s immune system..
+
+Some  Lactobacillus  species  produce  hydrogen  peroxide  and 
+biosurfactants that acidify the vaginal mucosa. These properties 
+as  well  as  their  microbiomimetic  regulatory  effects  have  been 
+demonstrated. All  these  properties  make  Lactobacillus  the 
+preferred  probiotic  agent  for  the  prophylaxis  and  treatment  of 
+urogynecologic infections..
+
+Lactobacilli  can  prevent  the  adherence,  growth  and  coloniza-
+tion of uropathogenic bacteria.It has been shown that healthy 
+microbial  populations  of  Lactobacillus  species  have  a  strong 
+inhibitory effect on E. coliInfections treated using antibiotics 
+reduce drug abuse, leading to drug resistance and render the nat-
+ural barrier of the urinary system vulnerable to infections..
+
+Stewardson et al.compared ciprofloxacin and nitrofurantoin 
+treatments in their study and found that the ciprofloxacin group 
+had a significant effect on intestinal microbiome which mostly 
+contain  healthy  Lactobacillus  spp.  In  the  group  of  nitrofuran-
+toin, microbiota structure demonstrated relatively lower degree 
+of variations..
+
+In their study, Zucotti et al.stated that probiotics could be a 
+good alternative to antibiotic therapy because of their ability to 
+bind  to  uroepithelial  cells  and  inhibit  pathogenic  growth,  and 
+biosurfactant  secretion.  The  same  investigators  have  empha-
+sized that oral Lactobacillus therapy can colonize these bacteria 
+in the urinary tract following intestinal colonization. .
 
 The  idea  of  oral  probiotic  application  is  based  on  the  knowl-
 edge  that  pathogens  that  cause  most  of  the  urogenital  infec-
@@ -16,6 +96,11 @@ may be effective on recurrent UTIs. It has also been emphasized
 that oral probiotics may be more comfortable for patients than 
 for  vaginal  administration,  and  that  patient  compliance  with 
 treatment may be better..
+
+Prevention of UTIs in women
+A  meta-analysis  on  the  application  of  Lactobacillus  was  pub-
+lished.A  total  of  294  patients  from  5  published  studies  were 
+evaluated  and  as  a  result  vaginally  administered  Lactobacillus .
 
 probiotic chain was shown to be safe and effective in preventing 
 recurrent UTIs in adult women (Table 3). In the analysis, it was 
@@ -54,6 +139,16 @@ study showed that the incidence of recurrent UTIs in patients who
 received  intravaginal  Lactobacillus  treatment  decreased  signifi-
 cantly compared to the placebo group. .
 
+Recurrence rate: 29% in UTI 
+patients receiving antimicrobial 
+treatment 
+Recurrence rate was observed 
+to be 21% in patients who 
+received vaginal ovules 
+containing Lactobacillus 
+spp. following antimicrobial 
+treatment.
+
 Recurrence rate was 73% in 
 25 patients who received once 
 weekly doses of vaginal ovules 
@@ -70,13 +165,28 @@ CFU/L. rhamnosus
 GR-1 and 
 L.fermentum B-54.
 
+Lactobacillus 
+rhamnosus GR-1 
+ve Lactobacillus 
+reuteri B-54.
+
 Vajinal, 1x109 
 CFU/L. rhamnosus 
 GR-1 ve 
 L.fermentum B-54.
 
+Lactobacillus 
+drink, and fruit 
+juice.
+
 Vaginal, 108 CFUs/
 mL L. crispatus .
+
+Though  sufficient  number  of  studies  on  the  efficacy  of  probiotic 
+applications containing especially Lactobacillus spp. in UTIs devel-
+oped as a result of changes in the balance of vaginal flora in sexu-
+ally active women have been reported in the literature, studies with 
+postmenopausal women have not seem to be at an adequate level..
 
 In  UTI  use  of  mono-,  and  combination  treatments  with  probiot-
 ics  has  been  published  (Table  3).  These  combinations  have  been 

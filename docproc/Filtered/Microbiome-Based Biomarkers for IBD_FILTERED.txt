@@ -1,4 +1,4 @@
-10_PARAGRAPHS
+23_PARAGRAPHS
 
 There are several recent reviews on sequencing and anal-
 ysis  of  the  microbiome,  although  a  full  discussion  of  these 
@@ -74,9 +74,52 @@ colitis  in  dinitrobenzene  sulfonic  acid  mice  models.35  In  other
 experiments, F. prauznitzii or its supernatant also induced the 
 production of IL-10 and transforming growth factor-β1.36.
 
+Abundance of Ruminococcaceae and Sutterella at baseline predicted week 52 remis-.
+
+cations
+disease and Collinsella and Veillonella abundance predicted penetrating compli-
+Abundance of Ruminococcus and Rothia associated with development of stricturing .
+
+Abundance of Clostridiales, Veillonella, Bacteroides, and Anaerostipes at baseline .
+
 Two OTUs affiliated with Faecalibacterium and Bacteroides were more abundant at .
 
+responders; several functional differences on pathway analysis
+CD); greater abundance of R. inulinivorans and Burkholderiales at baseline in 
+Higher baseline alpha diversity (species) in responders than in nonresponders (in .
+
+Lactococcus and Roseburia abundance increased with resolution of inflammation at .
+
+week 8 and Actinomyces abundance decreased.
+
+uncultured Clostridiales, and Vibrio and lower abundance of S. mitis .
+
+and Enterococcaceae), Enterobacteriaceae, and Veillonellaceae
+rence and a greater representation of Bacilli order (especially Streptococcaceae 
+Lower abundance of Clostridiales and Bacteroidales orders in those with later recur-.
+
 Relapsers had lower abundance of F. prausnitzii (P = 0.014) and Bacteroides .
+
+CD  differed  in  the  median  abundance  of  14  (out  of  45)  gen-
+eral bacteria, including reductions in Prevotella, Akkermansia, 
+Roseburia, Alistipes, Coprococcus, and Ruminococcus and an in-
+creased abundance of various members of Enterobacteriaeceae 
+including Escherichia and Klebsiella. At the end of the study, 
+responders’ microbial composition was closer to that of healthy 
+control  patients  than  nonresponders’  microbial  composi-
+tion, an effect that was also separately observed for anti-TNF 
+therapy and exclusive enteral nutrition. Among the patients on 
+anti-TNF therapy, 11 taxa differed from those of healthy con-
+trol  patients  at  baseline  and  6  of  these  remained  significantly 
+different  despite  clinical  response.  Response  to  therapy  (de-
+fined as a fecal calprotectin level < 250 mcg/g) was associated 
+with a decrease in Actinomyces and an increase in Lactococcus 
+and Roseburia. In contrast, response to therapy was not asso-
+ciated with a change in fungal composition. Ribaldone et al42 
+prospectively studied the fecal microbiome in 20 patients with 
+CD initiating adalimumab therapy. In those who responded to 
+treatment,  there  was  a  decrease  in  Proteobacteria  and  an  in-
+crease in Lachnospiraceae..
 
 The  author  and  colleagues  previously  performed 
 metagenomic  sequencing  from  fecal  samples  of  85  patients 
@@ -94,6 +137,34 @@ primarily because of similar baseline abundance of the top 15
 most  abundant  species.  Two  species,  Roseburia  inulinivorans 
 and Burkholderiales, were significantly more abundant at base-
 line in CD patients who achieved remission than in those who .
+
+from  ileal  tissue  from  CD  patients  undergoing  resection.37  In 
+comparison with healthy control patients, the patients with CD 
+had a lower biodiversity at the time of the surgery that improved 
+postoperatively but was still less diverse than that of the healthy 
+control  patients.  Note  that  patients  with  CD  who  had  endo-
+scopic recurrence had a greater abundance of Enterococcus and 
+Veillonella and that those who remained in postsurgical remis-
+sion had a higher abundance of butyrate-producing Firmicutes, 
+Bacteroides,  Prevotella,  and  Parabacteroides.  A  more  robust 
+examination of this result was in the large REMIND study, a 
+French cohort of 201 patients with CD undergoing an ileocecal 
+resection.38 Here the authors examined the mucosa-associated 
+microbiota  using  16s  rRNA  sequencing.  At  month  6,  several 
+phyla were reduced in patients who had endoscopic recurrence 
+(many  belonging  to  Firmicutes,  including  Ruminococcaceae 
+and  Lachnospiraeceae),  and  there  was  an  expansion  of 
+Proteobacteria.  On  multivariable  analysis,  the  presence  of  6 
+(Gammaproteobacteria,  Corynebacterium, 
+microbial  phyla 
+Sellimonas,  Ruminiclostridium,  Hydrocarboniphaga, 
+and 
+R. gnavus) predicted endoscopic recurrence. However, the pre-
+dictive  value  was  significantly  greater  among  those  patients 
+who  did  not  receive  anti-tumor  necrosis  factor  (anti-TNF) 
+therapy postoperatively than among those who did, suggesting 
+that ongoing treatment may modify natural history and reduce 
+the predictive utility of microbial markers..
 
 Response to Biologic and Nonbiologic Therapies
 Several  studies  have  examined  the  utility  of  microbial 
@@ -152,4 +223,46 @@ who  developed  penetrating  disease.  Specifically,  fecal  abun-
 dance  of  Rothia  and  Ruminococcus  was  associated  with  the 
 development of stricturing complications and Collinsella abun-
 dance was greater at baseline in patients who developed pene-
-trating  disease.  The  PROTECT  cohort  recruited  400  children 
+trating  disease.  The  PROTECT  cohort  recruited  400  children .
+
+Zhou et al26 followed 16 Han Chinese patients with CD 
+who were treated with infliximab for 30 weeks. Treatment was 
+associated  with  an  increase  in  alpha  diversity  and  reduction 
+in  disease  activity,  which  was  more  notable  in  the  responder 
+group. They also observed that abundance of Clostridiales was 
+lower in those with IBD than in control patients. However, this 
+difference  was  no  longer  significant  in  those  who  responded, 
+suggesting that an increase in abundance of Clostridiales could 
+be  a  biomarker  of  treatment  response.  A  model  of  gut  mi-
+crobial  composition  at  baseline  predicted  infliximab  response 
+at  week  30  with  an  87%  accuracy,  which  was  superior  to  the 
+predictive  value  of  the  Crohn’s  Disease  Activity  Index  (58% 
+accuracy) and calprotectin levels  The most in-
+formative features in this model were the abundance of various 
+Clostridiales and the abundance of Veillonella, Bacteroides, and 
+Anaerostipes..
+
+Aden et al24 performed a prospective study of 12 patients 
+with  IBD,  17  patients  with  rheumatic  disease,  and  19  healthy 
+control  patients  who  provided  fecal  samples  at  baseline  and 
+2,  6,  and  30  weeks  after  treatment  with  anti-TNF  therapy. 
+Twenty-three  patients  who  were  treated  with  either  anti-TNF 
+drugs  or  vedolizumab  acted  as  control  patients.  Interestingly, 
+patients with IBD but not with rheumatic disease demonstrated 
+a shift in diversity toward that of the control patients with anti-
+TNF therapy, suggesting that this effect was likely mediated in 
+part  by  resolution  of  intestinal  inflammation  rather  than  di-
+rect effect of the biologic agent.24 When compared to healthy 
+control patients, 14 indicator phylotypes, notably Coprococcus 
+and  R.  inulinivorans,  were  differentially  distributed  between 
+patients with IBD and healthy control patients. All 14 species 
+had a similar abundance to that of control patients at week 30 
+that increased although none of these changes were specific to 
+responders. .
+
+with  newly  diagnosed  ulcerative  colitis  who  were  initiated 
+on  mesalamine  (+/–  corticosteroid  therapy).23  Of  these,  38% 
+achieved corticosteroid-free remission at week 52. Abundance 
+of Ruminococcaceae and Sutterella at baseline predicted week 
+52 remission outcomes (odds ratio = 1.43, P = 0.04; and odds 
+ratio = 0.81, P = 0.05, respectively).

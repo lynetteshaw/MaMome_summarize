@@ -1,0 +1,20 @@
+The possibility of early modulation of the offspring gut microbiota by acting on specific
+maternal factors and/or characteristics is of potential great interest. Nevertheless, only few
+data are available about the associations between maternal characteristics and newborn micro-
+biota pattern. In multiple regression analyses, a significant association
+between breastfeeding and the relative abundance of Bifidobacterium in the infant gut micro-
+biota was found (β = 22.9; 95%CI = 10.1–35.7; P = 0.0017)..
+
+In order to explore the possible mother-to-infant gut microbiota transmission at sub-OTUs
+level, we carried out oligotyping on sequences of Blautia, Bacteroides and Bifidobacterium
+since these were the only genera showing a Shannon entropy index sufficient to identify all. At genus level, higher abundance of Staphylococcus, Ralstonia,
+Lactobacillus and some members of Enterobacteriaceae were observed in the offspring from
+healthy women (S5B Fig)..
+
+In the comparison between the two groups of breastfed infants, the offspring of GDM
+women showed a significantly higher relative abundance of Escherichia and Parabacteroides
+(P<0.001)..
+
+The microbiota of infants from GDM women showed a low complexity, a high inter-individ-
+ual variability, and was influenced by early maternal nutrition and breastfeeding. statistically significant, relative abundance of Parabacteroides across pregnancy from enrol-
+ment to study end. Inner black bars indicate the presence of an oligotype in a given sample.

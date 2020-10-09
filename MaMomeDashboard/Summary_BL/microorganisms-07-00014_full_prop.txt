@@ -1,0 +1,69 @@
+The majority of these techniques are based on the extraction of DNA and the ampliﬁcation of the 16S
+ribosomal RNA gene (rRNA)  16S rRNA sequencing has become the most useful technique to
+highlight diversity and abundance of the microbiome. Moreover, recent studies have identiﬁed a
+critical role for commensal bacteria and their products in regulating the development, homeostasis,
+and function of innate and adaptive immune cells  It is paradoxical to note that the gut microbiota
+functions are highly preserved between individuals, whereas each individual’s gut microbiota are
+characterized by a speciﬁc combination of bacterial species due to inter-individual and intra-individual
+variations throughout human life. We will see how these gut microbiota variations may have
+huge implications for intestinal and extra-intestinal disorders and, consequently, may inﬂuence health. The Actinobacteria phylum is proportionally less abundant and mainly represented by
+the Biﬁdobacterium genus  Examples of taxonomic gut microbiota composition are illustrated in
+Figure 1. Microorganisms 2019, 7, 14
+
+3 of 22
+
+Figure 1. Examples of taxonomic gut microbiota composition. In the box are cited examples of bacteria
+belonging to Phyla Firmicutes and Bacteroidetes, representing 90% of gut microbiota. Variations in the Same Individual
+
+Human gut microbiota vary taxonomically and functionally in each part of the GI tract and
+undergo variations in the same individual due to infant transitions, age, and environmental factors
+such as antibiotic use. Microbiota variations within individuals are summarized in Table 1. Microorganisms 2018, 6, x FOR PEER REVIEW  3 of 23  Figure 1. Intestine Anatomical Regions
+
+Gut microbiota vary according to the intestine anatomical regions, which vary in terms of
+physiology, pH and O2 tension, digesta ﬂow rates (rapid in the mouth to the caecum, slower
+afterward), substrate availability, and host secretions  The small intestine provides a more
+challenging environment for microbial colonizers given the fairly short transit times and
+the high bile concentrations. The abundance of genera Biﬁdobacterium, Clostridium coccoides, and
+Bacteroides are predominant after weaning  The microbiota of breastfed children and the microbiota
+of children previously fed with formula milk become closer to each other (Table 1). Dietary habit changes
+(more monotonous) may also weaken gut microbiota diversity. Speciﬁc properties of antibiotics such as
+antimicrobial effects or mode of action are powerful forces for the selection of intestinal microbiota
+and are partially responsible for the shifts in bacterial composition during antibiotic therapy 
+
+Each class of antibiotics has different properties and excretion systems, resulting in different
+
+patterns of alteration in the microbiome composition 
+
+A cultivation-independent survey of gut microbiota composition of three persons before, during,
+and after two exposures to the same antibiotic (ciproﬂoxacin) has been conducted. Microbiota variations within individuals. Indeed, an enterotype is a functional
+harmonious association of several bacteria species rather than a systematic addition of bacteria species. Microorganisms 2019, 7, 14
+
+10 of 22
+
+2.2.3. Furthermore, Shigella and
+Escherichia are widely under-represented. suggested associations of exercise frequency with gut microbiota composition
+of young children and adolescents. Gut Microbiota Variations in Health and Disease
+
+Gut microbiota composition is highly variable. In particular, 16S
+rDNA sequences belonging to the family Lachnospiraceae within the phylum Firmicutes are in greater
+abundance in the IBS clone library 
+
+Other studies conﬁrmed and revealed some phyla and genera variations in IBS patients
+compared to healthy controls: an increase in the Firmicutes-to Bacteroidetes-ratio, a decrease in some
+Firmicutes families (Lactobacilli, Faecalibacterium) and the Actinobacteria population (Biﬁdobacteria,
+Collinsella), and an increase in some Firmicutes families (Veillonella, Streptococci, and Ruminococcus spp.) in Faecalibacterium prausnitzii, and in Biﬁdobacterium
+adolescentis and an increase in Ruminococcus gnavus. Biﬁdobacterium longum, Clostridium
+histolyticum, C. lituseburense, and Faecalibacterium prausnitzii group proportions are less abundant in
+untreated CD patients than in healthy controls. and lower proportions of Bacteroides spp. and an increase in various opportunistic pathogens (Clostridium spp., Bacteroides caccae) as well as an enrichment of other microbial functions conferring sulfate reduction
+(Desulfovibrionaceae spp.). The gut microbiota variations are also involved in the pathogenesis of PD. suggested, in agreement with most other studies  an increase in Lactobacillaceae abundance
+in Parkinson patients compared to healthy controls. Moreover, none of the differences in alpha
+diversity has been observed between PD cases and controls, whereas beta diversity has been
+revealed for three bacterial families (Lactobacillaceae, Barnesiellaceae, and Enterococcaceae)  PD is
+associated with changes in gut microbiota and this gut microbiota dysbiosis may be the mechanism of
+neuroinﬂammation that leads to PD pathology 
+
+Hepatic Encephalopathy
+
+Hepatic encephalopathy (HE) is a complication of cirrhosis and is deﬁned as a spectrum
+of neuropsychiatric abnormalities in patients with liver dysfunctions. Throughout life, the richer and more diverse the microbiota, the better they will withstand
+external threats. Conﬂicts of Interest: The authors declare no conﬂict of interest.

@@ -1,4 +1,4 @@
-29_PARAGRAPHS
+42_PARAGRAPHS
 
 The gut microbiota serves the host by interacting directly or indirectly with host cells, the latter of
 which comes about through microbially-produced bioactive molecules, thus the microbiota is capable
@@ -10,6 +10,53 @@ disorders and cardiometabolic diseases, including obesity, type 2 diabetes and c
 disease  These diseases tend to inﬂict those living a Westernised lifestyle. Indeed, greater economic
 development has been shown to correlate with signiﬁcantly lower within-host gut microbiota diversity,
 a common feature of the dysbiotic microbiota .
+
+Although gut microbiota composition varies considerably between infants certain patterns have
+been identiﬁed. Several factors have been shown to inﬂuence microbial colonisation of the gut at this
+stage, including gestational age, birth mode, sanitation, antibiotic exposure, feeding regime and host
+genetics 
+Depletion of the available oxygen creates the necessary environment for the establishment of strict
+anaerobes  Anaerobes which colonise the gut in the early days and weeks of life include
+Biﬁdobacterium, Bacteroides, Clostridia and Parabacteroides  Although the diversity of the
+microbiota is generally low at this stage, dominated largely by members of the Actinobacteria phylum
+in the case of full-term spontaneously vaginally delivered infants, it has been shown to be greatest in
+this cohort compared to full-term infants delivered by caesarean section (dominated by Firmicutes) or
+pre-term infants (dominated by Proteobacteria) at one week old  Interestingly, by week 24, no
+signiﬁcant diﬀerences in alpha diversity were recorded between any of these groups . Diversity
+increases with age with a gradual increase in the presence of Firmicutes and Bacteroidetes by the ﬁrst
+year (Swedish infants) where the introduction of
+solid food to the diet has been identiﬁed as an important step in the succession of the microbiota 
+(Spanish infants), and (Danish infants). In terms of metabolic function, genes involved in the
+de novo biosynthesis of folate have been shown to be enriched in the infant microbiome across three
+diﬀerent populations (Malawian rural communities, Amerindians from the Amazonas of Venezuela,
+families from the USA) relative to adults  By three years of age, obligate anaerobes have been
+shown to dominate the microbiota in breast-fed infants which is trending towards an adult-like
+composition. The establishment of a stable adult-like microbiota occurs between 2–5 years of age and
+is dominated by Firmicutes and Bacteroidetes .
+
+Few studies have speciﬁcally investigated the pre- adolescent and adolescent microbiota of healthy
+humans. However, those which have investigated these age groups indicate that the microbiota has
+not yet reached the adult-state and is providing essential functions towards the developmental process
+of its human host. The gut microbiota of children is more stable than that of infants with composition
+largely inﬂuenced by dietary habits and geography  The pre-adolescent microbiota (7–12 years of
+age) is still in a state of immaturity and based on observations from a group of children from Houston,
+Texas, has been shown to be more diverse and harbor signiﬁcantly greater abundances of Firmicutes
+and Actinobacteria than observed in healthy adults  The pre-adolescent microbiome was also
+found to be enriched in functions potentially involved in ongoing development, such as vitamin B12
+synthesis and de novo folate synthesis relative to the adult microbiome. In terms of the adolescent
+microbiota, Agans et al. identiﬁed a core microbiota of 46 species common to both adults and
+adolescents who consumed a standard Western diet, however, the abundances of the
+genera Biﬁdobacterium and Clostridium were signiﬁcantly higher in adolescents relative to adults..
+
+The healthy adult gut microbiota is composed primarily of the phyla Firmicutes and Bacteroidetes,
+and to a lesser extent the phyla Actinobacteria, Proteobacteria, and Verrucomicrobia  As with
+any age-group, due to the extensive inter-individual variation, it has been virtually impossible to
+deﬁne the composition of the ‘healthy’ adult gut microbiota. However, the ‘enterotype’ concept
+was introduced in 2011  when faecal metagenomes of individuals from America, Europe and
+Japan were found to be dominated by one of three diﬀerent bacterial communities, namely Bacteroides
+(enterotype 1), Prevotella (enterotype 2) or Ruminococcus (enterotype 3). The enterotype ‘concept’ has
+since been used in other studies when evaluating the gut microbiota as we will see further on, although
+further analysis has resulted in the identiﬁcation of only two enterotypes, one of which is dominated.
 
 by Prevotella and the other by Bacteroides which have been linked to long term carbohydrate-, or animal
 fat and protein-rich diets, respectively  More recently, it has been suggested that Prevotella and
@@ -145,6 +192,20 @@ that is subsequently metabolised to serotonin  In particular, rectal injection w
 metabolites deoxycholate, p-aminobenzoate, α-tocopherol and tyramine, were shown to increase
 colonic and serum concentrations of serotonin in mice .
 
+translocates into the nucleus of the cell where it mediates cell-speciﬁc transcriptome changes  Thus,
+AhR signalling plays a key role in immune functioning in health and disease. Lamas et al. showed
+that intestinal inﬂammation in mice harbouring a microbiota incapable of metabolizing tryptophan
+was attenuated following treatment with Lactobacillus strains capable of activating AhRs through the
+production of tryptophan metabolites. In the same study, faecal samples from healthy subjects induced
+signiﬁcantly greater AhR activation compared to faecal samples from IBD subjects, the latter of which
+harbored signiﬁcantly less tryptophan and tryptophan metabolites. The tryptophan-metabolising
+strain Peptostreptococcus russellii provided a protective eﬀect against colitis in mice, which the authors
+suggest is linked to its ability to produce the tryptophan metabolite and AhR ligand, indoleacrylic acid
+which mitigates inﬂammatory responses and promotes intestinal barrier function  The authors
+also noted a diminishment of tryptophan-metabolising capacity in stool samples of IBD patients.
+The metabolite indole has been shown to enhance epithelial barrier function and attenuate indicators
+of inﬂammation .
+
 Members of the established microbiota are controlled by ‘substrate competition,’ defined as the
 superior ability of a species/strain to utilise one or a few substrates over other species and the control of
 that population by the limited concentration of these substrates  Furthermore, one microorganism’s
@@ -219,6 +280,56 @@ can also be appreciated from the consequences of its absence in germ free animal
 animals exhibit reduced expression of IgA and antimicrobial peptides and are deﬁcient in Peyers’
 patches .
 
+including peptidoglycan and lipopolysaccharide  Mice treated with the antibiotic metronidazole
+were shown to have a thinning of the mucus layer which correlated with an increased attachment of the
+mouse pathogen Citrobacter rodentium  Certain commensals have been shown to modulate mucin
+gene expression and glycosylation patterns  This may be achieved through the activity of
+SCFAs which have been shown to increase expression of mucin-associated genes  Furthermore,
+the SCFA butyrate provides energy for the epithelial cells and has also been implicated in enhancing
+the intestinal barrier by up-regulating the tight junction protein, Claudin-1 .
+
+That diet inﬂuences the composition of the gut microbiota has been conﬁrmed in several
+studies  Even short-term dietary changes (four days) have been shown to alter human gut
+microbiota composition reported that the entirely
+animal-based diet (meats, eggs and cheeses) had a greater impact on gut microbiota composition
+than the plant-based diet (grains, legumes, fruits and vegetables), resulting in a decrease in plant
+polysaccharide-metabolising Firmicutes (Roseburia, Eubacterium rectale, and Ruminococcus bromii) and.
+
+an increase in the abundance of bile-tolerant microorganisms presumably owing to the increase in
+bile acid secretion as a result of high fat intake  Indeed, the animal-based diet signiﬁcantly
+increased the levels of faecal deoxycholic acid (DCA), a secondary bile acid produced by microbial
+dehydroxylation of bile, and has been shown to promote liver cancer in mice  and inhibit the
+growth of Bacteroidetes and Firmicutes members in rats  Microbial genes required for DCA
+production exhibited signiﬁcantly higher expression on the animal-based diet. Furthermore, the
+abundance and activity of the sulﬁte-reducing bacterium, Bilophila wadsworthia, was also shown to be
+increased on the animal-based diet..
+
+In certain rural regions of the world, communities continue to live a traditional lifestyle and thus
+consume diets resembling those of our early ancestors which are naturally high in ﬁbre. For example,
+inhabitants of a rural African village in Burkina Faso still consume a high ﬁbre diet similar to that of
+early human settlements at the time of the birth of agriculture. A comparative study examining the gut
+microbiota composition of the children of Burkina Faso versus European children (from Florence, Italy)
+consuming a Western diet (age of participants, 1−6 years) revealed a signiﬁcantly higher richness and
+biodiversity in the gut microbiota of the Burkina Faso group  The African children also displayed
+an enrichment of Bacteroidetes and depletion of Firmicutes relative to their European counterparts.
+Within the Bacteroidetes, the genera Prevotella and Xylanibacter were uniquely abundant in the African
+children being absent in the European children. These speciﬁc bacteria harbor genes for cellulose and
+xylan hydrolysis. In contrast, the potentially pathogenic Enterobacteriaceae (Shigella and Escherichia)
+were signiﬁcantly over-represented in European children compared to their African counterparts.
+Furthermore, SCFAs were signiﬁcantly more abundant in the African children. The authors hypothesise
+that the gut microbiota of the Burkina Faso children evolved with their polysaccharide-rich diet and
+protects them from inﬂammation and non-infectious colonic diseases. The traditionally-living Hadza
+people of Tanzania are one of the last hunter-gatherer communities in the world. A recent study
+reported no evidence of cardiovascular disease risk factors in this population and older studies
+reported that this group of people had relatively low rates of metabolic diseases, infectious diseases
+or nutritional deﬁciencies compared to other settled groups in the surrounding regions 
+A comparison of the gut microbiome of the Hadza people with an Italian urban cohort revealed higher
+levels of microbial richness and diversity in the Hadza group  These studies suggest that the
+Western microbiota, even in a healthy person, may in fact be dysbiotic in terms of microbial diversity
+owing to the low consumption of MACs, and predisposes its host to a range of diseases, particularly
+those which are characterised by an inappropriate immune response, a theory which has been proposed
+by Sonnenburg and Sonnenburg .
+
 bacterial species were suﬃcient to distinguish between the LGC group and the ‘high gene count’ (HGC)
 group but interestingly anti-inﬂammatory species, such as F. prausnitzii were more prevalent
 in HGC individuals while potentially pro-inﬂammatory species associated with IBD, Bacteroides and
@@ -274,6 +385,35 @@ that resulted in increased permeability and reduced growth rate of the inner muc
 with mice fed a CHOW diet  However, administration of Bif. longum or the ﬁbre inulin prevented
 mucus defects. Inulin prevented penetrability of the inner colonic mucus layer while Bif. longum
 restored mucus growth..
+
+were shown to promote pro-inﬂammatory changes in the small intestine which preceded weight gain
+and obesity and also showed signiﬁcant associations with obesity progression and development of
+insulin resistance  In terms of microbiota composition, an increased abundance of Firmicutes
+and decreased abundance of Bacteroidetes has been reported in obese mice compared to their lean
+counterparts  It has been suggested that such a microbiota may be more eﬃcient at generating
+energy in the form of SCFAs from the diet thus contributing to weight gain  Diﬀerences in gut
+microbiota composition and functionality have also been recorded in humans between obese and
+lean people. Ley et al. reported a decrease in the relative proportion of Bacteriodetes in obese
+people relative to their lean counterparts and which was found to increase on calorie-restricted diets.
+This observation was also corroborated by Turnbaugh et al. who also noted a higher proportion
+of Actinobacteria in obese subjects. Furthermore, faecal SCFA concentrations tend to be higher in obese
+individuals  The obese gut microbiota has also been characterised by reduced diversity and
+altered representation of bacterial genes and metabolic pathways  More recently, a systematic
+review investigated the link between the gut microbiota and low-grade inﬂammation, a hallmark of
+obesity which plays a major role in atherosclerotic cardiovascular disease in humans  Fourteen,
+mostly observational studies were included with n = 10 to 471 participants. Higher white blood cell
+counts and high sensitivity C reactive protein levels were associated with lower gut microbial diversity,
+and the abundances of Biﬁdobacterium, Faecalibacterium, Ruminococcus and Prevotella were inversely
+linked to diﬀerent markers of low-grade inﬂammation. Compositional and functional diﬀerences have
+been observed in the gut microbiota of type 2 diabetes individuals which included a moderate degree
+of microbial dysbiosis, reduction in the abundance of some universal butyrate-producing bacteria, an
+increase in opportunistic pathogens, and an increase in microbial functions conferring oxidative stress
+resistance reported an association
+between compromised metabolic status, lower gut microbial alpha diversity, and higher representation
+of opportunistic pathogens and as a consequence propose that the “gut-heart axis” may be involved
+in the very early stages of cardiovascular disease. These studies clearly illustrate the link between
+the gut microbiota and metabolic disease of which certain microbial metabolites undoubtedly play a
+signiﬁcant role .
 
 The branched chain amino acids (BCAAs), leucine, isoleucine and valine represent three of the nine
 essential amino acids. As well as being building blocks of protein synthesis, the BCAAs are involved in
@@ -390,6 +530,28 @@ hydrogen sulﬁde-producing capabilities  E. coli is a member of Gammaproteobact
 also harbours many pathogenic members, including Salmonella, Yersinia, Vibrio, and Pseudomonas 
 The abundances of well known glycan and protein degraders, including Bacteroides, Clostridium and.
 
+Roseburia decreased in the fats-only medium and there was also a decrease in the production of
+antioxidants and SCFAs, a concomitant decrease in the abundance of glycan-degradation genes, and an
+increase in the abundance of genes coding for fatty acid degradation enzymes and anaerobic respiratory
+reductases  Overall, the results show that the gut microbiota is capable of utilising dietary fats
+typical of the Western diet but the resulting changes may negatively impact human health. In mice,
+Murphy et al. showed that high fat feeding of mice was more inﬂuential for altering gut microbiota
+composition than genetically induced obesity, generating a progressive increase in Firmicutes which
+reached statistical signiﬁcance. In another study, high fat feeding of mice was shown to decrease the
+proportion of Ruminococcaceae, which are known to utilise plant polysaccharides, and to increase the
+proportion of Rikenellaceae  of which the genus Alistipes is a member. The results also suggested
+that high fat feeding altered overall cellular composition within the abundant bacterial groups, namely,
+Bacteroidales and Lachnospiraceae based on cecal chemical ﬁngerprints analysis. Metaproteome analysis
+revealed a decrease in proteins involved in carbohydrate metabolism and a shift towards amino acid
+and simple sugar metabolism. This is in agreement with Yatsunenko et al. who reported that
+metagenomes associated with the Western diet are enriched in amino acid and simple sugar degrading
+enzymes relative to African populations consuming diets rich in complex carbohydrates. More recently,
+Vaughn et al. reported that a high fat diet fed to Sprague-Dawley rats increased the Firmicutes:
+Bacteriodetes ratio and increased proliferation of pro-inﬂammatory Proteobacteria which were found to
+be toxic to vagal aﬀerent neurons in culture. Overall, the results suggest that high fat-diet-induced
+shifts in gut microbiota could disrupt vagal gut-brain communication ultimately leading to increased
+accumulation of body fat..
+
 in both milk fat- and saﬄower oil-fed mice, Tenericutes were decreased, a phylum which has been
 shown to be reduced under inﬂammatory conditions and Proteobacteria was increased, of
 which Bil. wadsworthia is a member. Consumption of extra virgin olive oil (rich in MUFAs and phenolic
@@ -425,6 +587,30 @@ pathways. In humans at risk of metabolic syndrome, a high saturated fat diet, a 
 combined with high glycemic index (GI) carbohydrates, or a high MUFA diet combined with low GI
 carbohydrates caused a decrease in total bacteria and the high saturated fat diet increased faecal SCFA
 concentrations which the authors suggest could be due to lower absorption in the gut .
+
+Conjugated linoleic acid (CLA) is a collective term describing isomers of linoleic acid (LA) and
+while the latter has double bonds in the cis conﬁguration located at carbons 9 and 12, CLA can
+have either the cis or trans conﬁguration or both located along the carbon chain  Unlike the
+trans fats described earlier, CLA has been associated with numerous beneﬁcial properties based
+primarily on results from animal models and cell lines, including protection against cancer, obesity and
+atherosclerosis, as well as immunomodulation which has been reviewed by Yang et al.  The most
+bioactive isomers of CLA are cis-9, trans-11 CLA and trans-10, cis-12 CLA  Supplementing
+mice with dietary trans-10, cis-12 CLA for eight weeks resulted in signiﬁcantly lower proportions
+of Firmicutes and higher proportions of Bacteroidetes compared with the control group which
+received no supplementation  Gut microbiota composition was signiﬁcantly altered with higher
+proportions of the family Porphyromonadaceae and decreased abundance of families Lachnospiraceae
+and Desulfovibrionaceae. Porphyromonadaceae has been associated with non-alcoholic fatty liver disease
+(NAFLD) in mice  The family has also
+been associated with cognitive impairment in cirrhosis patients, whereas Lachnospiraceae abundance
+was reported to be lower in cirrhosis patients  Lachnospiraceae has also been shown to protect
+mice against C. diﬃcile colonisation and most recently has been suggested to play a protective
+role against colorectal cancer  Desulfovibrionaceae contains the sulﬁte-reducing species Bil.
+Wadsworthia. Desulfovibrionaceae has also been associated with impaired glucose tolerance and most
+serious metabolic syndrome phenotypes in mice  Thus, the results of the study indicate that
+gut microbiota alterations following long-term supplementation of the trans-10, cis-12 CLA isomer
+could be detrimental to health. However, given that CLA supplements are commercially available,
+the authors suggest that fatty acid mixtures with equal proportions of CLA isomers or probiotics and
+prebiotics may balance such negative eﬀects .
 
 The ketogenic diet, deﬁned as a high fat and low carbohydrate diet, has been eﬀectively used as a
 therapeutic treatment for a number of neurological disorders, including epilepsy, Alzheimer’s disease,
@@ -560,4 +746,49 @@ governed by Firmicutes whereby R. bromii degradation of the resistant starch pro
 substrates and increased acetate concentrations to support the growth of major butyrate producers.
 H2-scavenging sulphite reducers and acetogens also increased. Again, the individual responses varied
 with the observed pattern reported for seven of the twelve participants, while four showed mixed
-responses and one individual remained unresponsive.
+responses and one individual remained unresponsive..
+
+Using an in vitro approach based on isothermal microcalorimetry in conjunction with Illumina
+Miseq sequencing of the faecal microbiota and metabolite proﬁling, Adamberg et al. compared
+the impact of diﬀerent oligo- and polysaccharides (galacto- and fructooligosaccharides, resistant starch,
+levan, inulin, arabinogalactan, xylan, pectin and chitin), as well as a glycoprotein mucin, representing
+an indigenous substrate, on the growth and metabolism of the faecal microbiota. Apart from chitin,
+more than 70% of all substrates were fermented by the faecal microbiota with total heat generation
+up to 8 J/mL. Overall, the diﬀerent ﬁbre types supported the growth of speciﬁc microbiota and
+diﬀerent metabolic routes. Arabinogalactan stimulated the growth of several health-promoting genera,
+including Biﬁdobacterium, Bacteroides, Coprococcus and Lachnoclostridium. Propionic acid was enhanced
+by arabinogalactin, xylan and mucin but not by galacto-, fructooligosaccharides or inulin. Fermentation
+of mucin resulted in the generation of acetate, propionate and the highest amount of butyrate
+and supported the growth of species from the following genera, Clostridium, Lachnoclostridium and
+Parabacteroides. The authors suggest that only a diverse spectrum of glycans in the diet can contribute
+to a diverse microbiota. Chung et al. determined the impact of growth substrate complexity and
+multiplicity on species diversity of the human colonic microbiota in vitro whereby anaerobic fermenters
+were supplied continuously with single carbohydrates (arabinoxylanoligosaccharide, pectin or inulin),
+or with a mix of all three, or a mix of all three plus resistant starch, β-glucan and galacto-mannon
+as energy sources. Over the ﬁrst six days, inulin supported less microbial diversity than the other
+single carbohydrates, the mix of three, or the mix of six carbohydrates. While the communities did
+not diﬀer substantially at phylum and family levels, marked diﬀerences were observed at species
+level. The overall results strongly suggest that strategies to increase microbial diversity should employ
+complex nondigestible substrates mixtures..
+
+Few studies have investigated the impact of high sugar containing diets on the microbiota.
+However, recently, Sen et al. investigated the impact of high fat/high sugar (sucrose), low fat/high
+sugar and low fat/low sugar diets on Sprague-Dawley rats. As expected, both the high fat/high
+sugar and low fat/high sugar diets for four weeks caused signiﬁcant increases in body weight and
+body fat compared to the low fat/low sugar diet. The high sugar and high fat diets resulted in gut
+microbiota dysbiosis which was characterised by an overall decrease in microbial diversity, a bloom
+in clostridia and bacilli and a marked decrease in Lactobacillus species. There was also an increase
+in the Firmicutes: Bacteriodetes ratio. Speciﬁcally, the low fat/high sugar diet caused an increase
+in two Proteobacteria members, namely Sutterella and Bilophila. The high sugar diet also induced
+gut inﬂammation and triggered a remodelling of the gut brain axis  In mice, a high sugar
+(sucrose) diet increased Clostridiales belonging to the Firmicutes phylum which was also observed
+for the high fat diet  The high sugar diet also caused a decrease in the order Bacteroidales
+which belongs to Bacteroidetes. Lactobacillales was also signiﬁcantly increased on the high sugar
+diet. Thus, overall the high sugar diet altered more bacterial orders and genera than the high fat
+diet. The increase in Clostridiales and decrease in Bacteroidales on the high sugar diet was related to
+poor cognitive ﬂexibility. Di Luccia et al. reported that a high fructose diet induced markers of
+metabolic syndrome, inﬂammation and oxidative stress in rats, but these were signiﬁcantly reduced
+when the animals were treated with antibiotics or faecal samples from control rats fed a standard diet.
+Since the number of members from the genera Coprococcus and Ruminococcus were increased by the
+high fructose diet but reduced by antibiotics and faecal transplant, the results suggest a correlation
+between their abundance and metabolic syndrome.

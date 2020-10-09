@@ -1,0 +1,99 @@
+Mei Wang
+
+Sharon M. Donovan
+
+Introduction
+
+Over the past decade, the essential role that the gut micro-
+biota plays in the developmental programming of the neo-
+nate, including growth trajectories, metabolism, and immune 
+and cognitive development, has been demonstrated  
+Thus, fostering the development of the microbiome in the 
+first 1000 days of life is critical to supporting lifelong health. Thus, more work 
+is needed to understand the functional ontogeny of the 
+infant gut microbiota. Toddlers 
+
+In Australian 2- to 3-year-olds, both habitual diet, as meas-
+ured by a Food Frequency Questionnaire (FFQ), and recent 
+dietary intake, as measured by a 24-h recall 3 days prior to 
+fecal sample collection, influenced fecal microbiota com-
+position  Dairy intake was negatively associated with 
+species richness and diversity and Bacteroidetes abundance, 
+but was positively associated with Erysipelatoclostridium 
+spp. Residing in rural vs. urban environments can also affect 
+food availability and choices, which has been investigated 
+in a series of studies. Urban-dwelling children also con-
+sumed a diet higher in meat, fat, and confectionaries, such 
+as sweetened pastries and biscuits, and lower in complex 
+carbohydrates compared to rural children. These findings may 
+reflect the higher consumption of complex carbohydrates in 
+rural children. Vegetables comprised < 1.0% of total cal-
+orie intake in urban children compared to 7.3% in rural chil-
+dren. The fecal microbiome of the rural children displayed 
+significantly greater alpha diversity (Chao1 index). The 
+microbiota of rural children was enriched by bacteria in the 
+order Clostridiales, containing families such as Peptostrep-
+tococcaceae and unclassified Ruminococcaceae, compared 
+to higher proportions of Actinobacteria, Bacteroidales, and 
+Selenomadales in urban dwellers. Additionally, rural chil-
+dren had significantly higher fecal butyrate and propionate 
+concentrations, suggesting that the fiber-rich diet in the rural 
+children promotes a microbiota composition with greater 
+fermentative capacity 
+
+Greater Bifidobacterium abundance in 1- to 4-year-olds 
+compared to adults has been reported  and recent stud-
+ies have shown that the relative abundance of Bifidobac-
+terium in older children is related to dietary intake and is 
+
+1 3 
+
+Digestive Diseases and Sciences
+
+associated  with  metabolic  phenotypes. Additionally,  children  may  also  be 
+more similar to each other than adults are. Nearly all studies are cross-sectional, they use differ-
+ent types of questionnaires to collect dietary intake data, and 
+many of the studies have compared children living in rural 
+vs. urban settings. In the USA, 
+the recommended dietary fiber intake is 14 g/1000 kcal or 
+25 g for females and 38 g for males. Most prebiotics are DF, but not all DF 
+are considered to be prebiotics. Further large-scale studies are 
+needed with different fiber sources. Probiotic Interventions in Children on Gut 
+Microbiota
+
+Probiotics are “live microorganisms that, when administered 
+in adequate amounts, confer a health benefit on the host” 
+ The most commonly administered probiotic bacteria 
+belong to the genera Bifidobacterium and Lactobacillus, 
+but can be provided either as single or mixtures of strains. The beneficial effects of probiotics in pediatric populations 
+have  been  previously  reviewed    although  most 
+studies have not been conducted in healthy children. For 
+the first approach, most studies gave probiotics to the moth-
+ers of infants with high-risk of allergy, with the goal of 
+prevention of allergic disease, such as eczema, asthma and 
+allergic rhinitis  The impact of maternal pro-
+biotic supplementation on the abundances of bacterial taxa 
+were studied  however, the results are inconsistent, 
+even when the same probiotic strain was used 
+(Table 3). They observed that infants whose 
+mother received probiotics had lower counts of Bifidobacte-
+rium and a higher percentage of Lactobacillus/Enterococcus 
+than placebo at 6 months of age  In addition, several 
+groups investigated the diversity of infant microbiota, report-
+ing that administration of probiotics during pregnancy and 
+lactation, or directly to infants after delivery have no or lim-
+ited effects on alpha and beta diversity of infant microbiota 
+(Table 3). Probiotics have been administrated directly to infants and 
+children (Table 4). Additionally, long-term follow-
+up studies of early-life dietary interventions are needed to 
+determine long-term effects. For example, it is not known 
+whether or not early-life acceleration toward an adult-like 
+microbiome has negative downstream effects on health. •  The microbiome of BF infants is nurtured by human milk 
+components, including HMO, and differs from that of FF 
+infants. •  The addition of HMO and prebiotics to infant formula at 
+concentrations found in human milk promotes the growth 
+of bifidobacteria and narrows the differences between BF 
+and FF infants. •  Prebiotics  and  dietary  fiber  at  doses  of  5–20  g/day 
+modify the gut microbiome of children, increase SCFA 
+production, and may exert other health benefits, includ-
+ing increasing calcium absorption.

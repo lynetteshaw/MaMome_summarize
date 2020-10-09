@@ -1,4 +1,4 @@
-17_PARAGRAPHS
+40_PARAGRAPHS
 
 Gut microbiota are composed of several species of microorganisms, including bacteria, yeast,
 and viruses. Taxonomically, bacteria are classiﬁed according to phyla, classes, orders, families,
@@ -11,6 +11,15 @@ as Lactobacillus, Bacillus, Clostridium, Enterococcus, and Ruminicoccus. Clostri
 Prevotella. The Actinobacteria phylum is proportionally less abundant and mainly represented by
 the Biﬁdobacterium genus  Examples of taxonomic gut microbiota composition are illustrated in
 Figure 1..
+
+In a new-born pig model, an analysis of the gut microbiota composition of preterm and term pigs
+showed that Ruminococcus spp., some Enterobacterium spp., Lachnospiraceae, Peptostreptococcaceae, and
+Clostridiaceae were dominant genera in both preterm and term pigs. However, a higher Enterococcus spp.
+abundance in preterm than term pigs was found .
+
+Preterm infants show low diversity with an increased colonization of potentially pathogenic
+bacteria from the Enterobacteriaceae family of the Proteobacteria phylum and reduced levels of
+strict anaerobes such as Biﬁdobacterium .
 
 With regard to vaginal delivery, newborns acquire a microbiota composition resembling their
 mother’s vaginal microbiota. Indeed, an analysis of the meconium of newborn infants revealed a
@@ -44,6 +53,11 @@ Biﬁdobacterium spp.  Another prebiotic effect of β-palmitate, a natural human
 and a component of some infant formulas, on gut infant microbiota was demonstrated by positively
 inﬂuencing Biﬁdobacterium spp. (and Lactobacillus spp.) abundance .
 
+The introduction of solid foods and the termination of milk-feeding/weaning coincide with
+major gut microbiota changes. The abundance of genera Biﬁdobacterium, Clostridium coccoides, and
+Bacteroides are predominant after weaning  The microbiota of breastfed children and the microbiota
+of children previously fed with formula milk become closer to each other (Table 1)..
+
 Dietary habits, infant weaning, and feeding practices become determinants and play a crucial role
 in gut microbiota variations. The introduction of high-ﬁber and carbohydrate foods (traditional foods)
 causes an increase in Firmicutes and Prevotella, whereas the introduction of high-ﬁber and animal
@@ -52,15 +66,52 @@ that northern European countries are associated with a higher proportion of Bi�
 infant gut microbiota, whereas higher levels of Bacteroides and Lactobacilli characterize southern
 European countries..
 
+At one year old, a child’s microbiota composition has a characteristic abundance of Akkermansia.
+
 muciniphila, Bacteroides, Veillonella, Clostridium coccoides spp., and Clostridium botulinum spp. .
+
+With regard to older people over the age of 70, gut microbiota composition can be affected by
+digestion and nutrient absorption changes and immune activity weakness. Dietary habit changes
+(more monotonous) may also weaken gut microbiota diversity. A decrease in anaerobic bacteria such
+as Biﬁdobacterium spp. and an increase in Clostridium and Proteobacteria have been observed 
+Given the role of Biﬁdobacterium spp. in the stimulation of the immune system and metabolic processes,
+a Biﬁdobacteria decrease may partially explain low systemic inﬂammatory status and malnutrition in
+older adults .
 
 Bacteroides *↓
 (non-secretor
 mothers).
 
+Enterobacteriaceae *↑
+Enterococcus spp.↑.
+
+Lachnospiraceae *
+Ruminococcaceae *.
+
+Ruminococcus spp.
+Lachnospiraceae *
+Peptostreptococcaceae *
+Clostridiaceae *.
+
 Veillonella
 C. coccoides
 C. botulinum.
+
+Gut microbiota of each individual are speciﬁcally characterized by clusters of bacteria named
+enterotypes  Three enterotypes are characterized by three dominant bacteria clusters (Table 2):
+Bacteroides (enterotype I), Prevotella (enterotype II), or Ruminococcus (enterotype III). Each enterotype
+harbors different bacteria genera (Table 1). These three enterotypes are not only enumerations of
+bacteria; they are also speciﬁcally regrouped by functions. Indeed, an enterotype is a functional
+harmonious association of several bacteria species rather than a systematic addition of bacteria species.
+Every enterotype is not a clear-cut identity such as blood groups; however, enterotypes characterize
+individuals, remain stable from adulthood, and can be restored if they are modiﬁed. Each enterotype
+with its distinctive clusters of bacteria and respective functional characteristics deﬁnes a distinctive
+way of generating energy from fermentable substrates available in the colon. Indeed, bacteria clusters
+of enterotype I derive energy primarily from carbohydrates using principally glycolysis and pentose
+phosphate pathways, whereas bacteria clusters of enterotypes II and III are able to degrade mucin
+glycoproteins of the gut mucosal layer. Enterotypes seem to be principally deﬁned according to dietary
+habits. Understanding the origins and functions of enterotypes may improve the knowledge of the
+relationships between gut microbiota and human health..
 
 Bervoets et al. demonstrated that the microbiota of obese children are provided with
 an elevated Firmicutes-to-Bacteroidetes ratio compared to the microbiota of lean children 
@@ -79,11 +130,83 @@ showed a signiﬁcant increase in Enterobacteriaceae and Methanobrevibacter smit
 controls  On the contrary, the genera Roseburia, Ruminococcus, and Clostridium were depleted in
 line with the observed reduction in AN of the total SCFAs .
 
+While the microbiome of a healthy individual is relatively stable, gut microbial dynamics can
+certainly be inﬂuenced by lifestyle and dietary cultural choices  A study of European children
+(fed with the Western diet) and Burkina Faso children (assuming a diet rich in millet/sorghum +
+local vegetables containing very few lipids and animal proteins) revealed that African children’s
+microbiota have a remarkable abundance of Prevotella and Xylanibacter. Furthermore, Shigella and
+Escherichia are widely under-represented. Another study compared Hadza hunter-gatherers and
+Italian gut microbiota. At the phylum level, Hadza gut microbiota are largely enriched in Proteobacteria
+and Spirochaetes, which are extremely rare in the Italian gut microbiota, whereas Actinobacteria,
+an important subdominant component of the Italian gut microbiota, are almost absent. At the
+genus level, Hadza gut microbiota are comparatively enriched in Prevotella, Eubacterium, Oscillibacter,
+Butyricicoccus, Sporobacter, Succinivibrio, and Treponema and correspondingly depleted in Biﬁdobacterium,
+Bacteroides, Blautia, Dorea, unclassiﬁed Lachnospiraceae, Roseburia, Faecalibacterium, Ruminococcus, and
+unclassiﬁed Erysipelotrichaceae. These two studies showed that African gut microbiota have clearly
+an enterotype Prevotella (enterotype II); the African diet rich in millet/sorghum + local vegetables
+containing very few lipids and animal proteins allows a mucine degradation in synergy with
+Desulfovibrionaceae. European gut microbiota (Western diet) have principally an enterotype Bacteroides
+(enterotype I): the European diet rich in lipids and animal proteins allows energy production from
+carbohydrates and proteins through fermentation compared plant-based diet
+microbiome (high ﬁbers and low fats and proteins) with animal-based diet microbiome (low ﬁbers
+and high fats and proteins) and respective changes in microbiome on either diet and demonstrated
+that a shift toward an animal-based diet increases the abundance of bile-tolerant microorganisms
+(Alistipes, Bilophila, and Bacteroides) and decreases the levels of Firmicutes that metabolize dietary plant
+polysaccharides (Roseburia, Eubacterium rectale, and Ruminococcus bromii). Moreover, microbial activity
+trades off between carbohydrate and protein fermentation when the type of diet respectively changes.
+This change occurred only one day after the diet reached the distal gut microbiota. David et al. 
+showed that diet alters human microbiota rapidly and reproducibly..
+
+Clostridiales *
+Alkaliphilus
+Lactobacillus
+Catenibacterium.
+
+Ruminococcus 
+Staphylococcus
+Marvinbryantia
+Symbiobacterium
+Ruminococcaceae *
+Dialister.
+
+Roseburia spp.↓
+Ruminococcus↓
+Clostridium spp.↓.
+
+Ruminococcaceae *↑
+Lactobacillus↓
+Lactobacillaceae *↓.
+
+The study of fecal and colonic mucosal biopsy samples from IBS patients and healthy
+controls demonstrated a signiﬁcant reduction in the concentration of aerobic bacteria such as the
+Lactobacillus species in fecal samples from IBS patients compared to healthy controls. Another study 
+demonstrated that the microbial communities of IBS patients are enriched in Proteobacteria and
+Firmicutes but reduced in Actinobacteria and Bacteroidetes compared to controls. In particular, 16S
+rDNA sequences belonging to the family Lachnospiraceae within the phylum Firmicutes are in greater
+abundance in the IBS clone library .
+
+Other studies conﬁrmed and revealed some phyla and genera variations in IBS patients
+compared to healthy controls: an increase in the Firmicutes-to Bacteroidetes-ratio, a decrease in some
+Firmicutes families (Lactobacilli, Faecalibacterium) and the Actinobacteria population (Biﬁdobacteria,
+Collinsella), and an increase in some Firmicutes families (Veillonella, Streptococci, and Ruminococcus spp.)
+and in Proteobacteria (Enterobacteriaceae spp.). Therefore, these ﬁndings demonstrated a loss of
+microbial richness that may be involved in amino acid synthesis, in the integrity of cellular junctions,
+and in inﬂammatory response, suggesting a weakness of the epithelial barrier functions partially
+explaining IBS symptoms..
+
+The ﬁndings of Frank et al. indicated a diminution of Lachnospiraceae and Bacteroidetes
+microbial populations and an increase in Proteobacteria families in IBD patients compared to control
+gut microbiota..
+
 Gut microbiota variations appear to be different between UC and CRD. Indeed, a decreased
 abundance of the butyrate-producing bacteria Roseburia hominis and Faecalibacterium prausnitzii has
 been observed in UC patients relative to controls  whereas the opposite has been observed in CRD
 patients, who are provided with increased Faecalibacterium prausnitzii levels in addition to a reduced
 overall diversity .
+
+In the case of CRD patients, another study demonstrated a decrease in Dialister invisus,
+an uncharacterized species of Clostridium spp., in Faecalibacterium prausnitzii, and in Biﬁdobacterium
+adolescentis and an increase in Ruminococcus gnavus..
 
 Sokol et al. conﬁrmed the reduction of F. prausnitzii in CRD patients and also demonstrated
 that an oral administration of live Faecalibacterium prausnitzii reduced the severity of colitis and tended
@@ -112,6 +235,33 @@ Bacteroidetes in CRC cases compared to controls. At the genus level, CRC cases s
 abundance of Dorea spp. and Faecalibacterium spp. and lower proportions of Bacteroides spp. and
 Coprococcus spp. than controls..
 
+Genomic analysis identiﬁed an association of Fusobacterium spp. with colorectal cancer 
+the microbiota of CRC patients were enriched in Fusobacterium spp., whereas the Bacteroidetes and
+Firmicutes phyla were depleted. Furthermore, Fusobacterium spp. may contribute to tumorigenesis by
+an inﬂammatory-mediated mechanism  but the precise role of Fusobacteria in colorectal carcinoma
+pathogenesis requires further investigation..
+
+The analysis of gut microbiota of genetically obese ob/ob mice and lean mice all fed the same
+polysaccharide-rich diet revealed a lower relative abundance of Bacteroidetes in obese ob/ob
+mice, whereas the Firmicutes are correspondingly higher. Indeed, higher numbers of Ruminococcaceae
+and Rikenellaceae have been observed in leptin-resistant obese (leptin-promoting satiety) and diabetic
+mice (db/db) compared with their lean littermates 
+In addition, the higher abundance of
+Ruminococcaceae and Rikenellaceae in mice fed a high-fat diet is not only dependent on the ingested
+diet but is also closely linked with obesity and type 2 diabetes  Furthermore, the association
+between Desulfovibrionaceae abundance and obesity and type 2 diabetes has been demonstrated 
+Other studies conﬁrmed the role of Proteobacteria in obesity by producing pro-inﬂammatory
+molecules such as lipopolysaccharides and helping to harvest energy and increase host fat storage 
+On the contrary, researchers have recently demonstrated that Akkermansia muciniphila,
+a mucin-degrading bacteria living in the mucus layer  decreases in both genetically and
+diet-induced obese mice..
+
+A metagenome-wide association study of gut microbiota of T2D Chinese sufferers 
+demonstrated that patients with type 2 diabetes were characterized by a decrease in butyrate-producing
+bacteria such as Roseburia spp. and an increase in various opportunistic pathogens (Clostridium spp.,
+Bacteroides caccae) as well as an enrichment of other microbial functions conferring sulfate reduction
+(Desulfovibrionaceae spp.)..
+
 Alzheimer’s disease (AD) is a chronic, rapidly progressive neurodegenerative disorder associated
 with impaired cognition and cerebral accumulation of amyloid-beta peptides. Cattaneo et al. 
 demonstrated that an increase in Escherichia/Shigella abundance and a reduction of E. rectale abundance
@@ -120,6 +270,24 @@ and brain amyloidosis. Vogt et al. compared gut microbiota composition from pati
 without a diagnosis of AD and revealed a lower microbial diversity compositionally distinct from
 control-age and sex-matched individuals, with a decrease in Firmicutes and Biﬁdobacterium abundance
 and an increase in Bacteroidetes abundance in the microbiome of AD participants..
+
+Hepatic encephalopathy (HE) is a complication of cirrhosis and is deﬁned as a spectrum
+of neuropsychiatric abnormalities in patients with liver dysfunctions. Bajaj et al. linked
+the gut microbiota composition with cognition and inﬂammation in HE. Fecal microbiota of
+cirrhotics were signiﬁcantly higher in Enterobacteriaceae, Alcaligenaceae, and Fusobacteriaceae and
+lower in Ruminococcaceae and Lachnospiraceae compared with controls  moreover, altered higher
+levels of Veillonellaceae were found in HE patients compared with cirrhotics without HE. In the
+cirrhosis group, Alcaligenaceae and Porphyromonadaceae were positively correlated with cognitive
+impairment. Fusobacteriaceae, Veillonellaceae, and Enterobacteriaceae were positively and Ruminococcaceae
+was negatively related to inﬂammation. Thus, cirrhosis, especially when complicated with HE,
+is associated with signiﬁcant gut microbiota alterations compared with healthy individuals. Speciﬁc
+bacterial families (Alcaligenaceae, Porphyromonadaceae, and Enterobacteriaceae) are strongly associated
+with cognition and inﬂammation in HE .
+
+Williams et al. found an increase in the Firmicutes-to-Bacteroidetes ratio and a signiﬁcant
+increase in Sutterella compared to their abundance in controls. These ﬁndings demonstrated that
+gut microbiota dysbiosis has close relationships with gastrointestinal and behavioral manifestations
+of autism..
 
 The bidirectional interactions of gut–brain mean that the brain can also alter gut microbiota
 composition demonstrated that exposure

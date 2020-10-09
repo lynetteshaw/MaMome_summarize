@@ -1,0 +1,25 @@
+bioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. http://dx.doi.org/10.1101/641019
+
+The copyright holder for this preprint
+
+doi: 
+
+. The actual iAUC values for all meals, the repeated meals from Figure 
+2D, and the glucose drink are shown in Figure 3A. 
+
+Figure 3B was constructed after modeling iAUC with standardized 
+macronutrient values (i.e., z-scores). Importantly,  the  inclusion  of  random  effects  captures  individual 
+variation  in  PPGR  due  to  unobserved  factors  (unknown  properties 
+of the individual, meal, or measurement devices) that may affect the 
+
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. 2A
+
+2B
+
+2E
+
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. Each timepoint is a linear regression of iAUC 
+on all four standardized macronutrients.

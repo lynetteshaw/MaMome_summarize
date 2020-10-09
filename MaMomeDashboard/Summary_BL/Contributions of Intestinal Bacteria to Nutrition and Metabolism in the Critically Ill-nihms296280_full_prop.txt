@@ -1,0 +1,68 @@
+Page 2
+
+MICROBES AND NUTRITION DURING CRITICAL ILLNESS
+
+It has been known for decades that intestinal bacteria make important contributions to
+human metabolism and physiology. Perhaps the example best known to clinicians is the
+microbial synthesis of the essential nutrient vitamin B12 — the enzymes required for B12
+synthesis are possessed by bacteria but not by plants or animals  However, research from
+the past decade has conclusively established that the host-microbe relationship in humans is
+far more complex than previously appreciated. Over 25 years ago, microbial ecologists conclusively demonstrated that bacterial DNA can
+be used to identify which organisms are present in a complex biological sample without
+dependence on cultivating those organisms in the laboratory  Until recently, these
+culture-independent techniques to characterize microbial diversity were relatively restricted
+to studies of ocean and soil samples. Over the past decade, concerted efforts have been made
+to use these techniques to undertake comprehensive molecular surveys of the organisms
+associated with humans. As will be discussed in subsequent sections, the impact of critical illness on
+this symbiotic relationship remains poorly understood. Author manuscript; available in PMC 2012 August 1. NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Morowitz et al. Microbiota and carbohydrates
+
+The sophisticated relationship that has evolved between the human GI tract and gut
+microbiota allows for efficient utilization of dietary carbohydrates. They are absorbed by passive
+diffusion across the colonic epithelium, and are subsequently utilized by different organs. Mechanistic studies in gnotobiotic animals further demonstrated that, when B.
+thetaiotaomicron senses a scarcity of fucose in the intestinal lumen, it actually induces the
+gut epithelium to upregulate expression of fucosylated glycans that can be used by the
+bacteria as an energy source without harming the host  This body of work illustrates
+how the remarkable host-microbe symbiosis can be teased apart by pairing genomic
+sequencing efforts with creative in vivo laboratory studies. Some of the ammonia
+can be utilized for microbial synthesis of amino acids. Even more between group differences were detected in the liver lipid profiles. The
+translational relevance of these findings must still be defined, but these results provide clues
+to the role of microbes in lipid metabolism. However, it has long been recognized that gut
+microbes also contribute to vitamin synthesis. It has been known for nearly a century that ruminants have no dietary requirement for water-
+soluble vitamins as a consequence of the dense microbial populations in the rumen, and that
+GF laboratory animals require dietary supplements of vitamins that are not needed by their
+WT counterparts  Several bacterial genera that are common in the distal intestine (e.g.,
+Bacteroides, Bifidobacterium, and Enterococcus) are known to synthesize vitamins. Thiamine, folate, biotin, riboflavin, and panthothenic acid are water-soluble vitamins that
+are plentiful in the diet, but that are also synthesized by gut bacteria. have advanced these ideas even further by demonstrating that the
+microbiome associated with diet-induced obesity (DIO) (in contrast to the ob/ob mutant
+model) is also rich in Firmicutes species and is similarly efficient at extracting energy from
+the diet  This set of experiments utilized a mouse model of DIO in which conversion to
+a high fat/high sugar (Western) diet reliably produces increased total body weight and
+increased epididymal fat content. Page 8
+
+WHAT HAPPENS TO THE MICROBIOME DURING CRITICAL ILLNESS? receiving either enteral or parenteral nutrition. performed a
+fascinating study of myocardial ketone body metabolism by the intestinal microbiota during
+nutrient deprivation  After a 24 hour fast, the authors observed a significant increase in
+the abundance of Bacteroidetes species and a corresponding decrease in Firmicutes; this is
+the converse of what was observed in models of caloric excess. These innovative studies
+serve as a foundation to study gut microbes in hospitalized patients that are not candidates
+for enteral nutrition. However, several clinical trials
+have evaluated strategies to manipulate the gut flora without thoroughly assessing the
+microbiome before or after therapy. For this reason, a trial with prospective monitoring of the microbiome in ICU
+patients with comprehensive culture-independent techniques is needed. Although we lack a comprehensive molecular readout of gut microbes in the ICU, several
+human and animal studies provide clues about how the microbiota is altered by common
+ICU exposures. Clinical interventions that can preserve gut microbial communities such that a
+benefit in overall recovery is realized will require more in-depth analysis of the direct
+impact of these interventions on the gut flora. Others with obvious relevance to nutrition are discussed. As a result, a precise understanding of
+how decontamination protocols work is lacking. CONCLUSIONS
+
+The intersection between the microbiome, nutrition, and critical illness will undoubtedly
+grow more interesting in the coming years. At present, a few concluding points can be safely made. First, it is apparent that future
+evaluations of human nutritional status during critical illness should include consideration of
+the gut microbiota. Second, it will be important to conduct the necessary studies to
+understand how the microbial ecology of the human body is altered during critical illness.

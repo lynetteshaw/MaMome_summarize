@@ -1,4 +1,21 @@
-3_PARAGRAPHS
+7_PARAGRAPHS
+
+All epithelial surfaces that interface with the external world harbor microbes, but the most
+dense microbial communities are those in the distal intestinal tract. Recent estimates suggest
+that 10 to 100 trillion microbes (including up to 1000 species) reside in this location 
+Remarkably, although more than 70 bacterial divisions (deep evolutionary lineages) are
+known to exist on the planet, human gut microbial communities are dominated by just four
+lineages. Two dominant divisions, the Bacteroidetes and the Firmicutes, comprise over 95%
+of the total community; most of these organisms are strict anaerobes such as the Bacteroides
+and Clostridium species  The remainder of human gut microbes are often from two
+other divisions: Actinobacteria (e.g., Bifidobacterium species) and Proteobacteria. The
+phylum Proteobacteria contains the gram-negative enterics that despite being well known to
+clinicians, represent only a fraction of the gut microbial community  The dominance of
+these four bacterial phyla and the relative absence of all other phyla suggests that, under
+normal circumstances, the human-microbe relationship is highly selective and highly stable.
+Throughout most of a person’s life, this relationship is either symbiotic (mutually beneficial)
+or commensal (providing benefit to one member without harming the other); pathogenic
+host-microbe interactions are indeed the exception rather than the rule .
 
 Genomic analysis of gut bacteria offers vivid examples of the role of microbes in nutrient
 utilization. For example, in 2003, Xu, et al. published the complete genome sequence of the
@@ -17,6 +34,24 @@ bacteria as an energy source without harming the host  This body of work illustr
 how the remarkable host-microbe symbiosis can be teased apart by pairing genomic
 sequencing efforts with creative in vivo laboratory studies..
 
+Two recent studies harnessed the power of high-throughput DNA sequencing to profile
+changes in microbial ecology during fasting in animal models. Crawford, et al. performed a
+fascinating study of myocardial ketone body metabolism by the intestinal microbiota during
+nutrient deprivation  After a 24 hour fast, the authors observed a significant increase in
+the abundance of Bacteroidetes species and a corresponding decrease in Firmicutes; this is
+the converse of what was observed in models of caloric excess. They proceeded to provide
+convincing evidence that the microbiota plays an integral role in fasting-induced hepatic
+ketogenesis, an important energy source during stress and starvation. In GF animals,
+ketogenesis was markedly reduced, and it was shown that myocardial metabolism was
+redirected towards glucose utilization. To understand further how microbial ecology is
+altered during fasting, Costello, et al. performed an innovative study in which they studied
+the Burmese python, a vertebrate that consumes large meals between long intervals of
+fasting  These authors also demonstrated an abundance of Bacteroidetes during fasting
+that shifted towards a post-prandial abundance of Firmicutes. Species that were enriched in
+the post-prandial state included Clostridium and Lactobacillus. These innovative studies
+serve as a foundation to study gut microbes in hospitalized patients that are not candidates
+for enteral nutrition..
+
 If one accepts that a “healthy” intestinal microbiota serves important biological functions,
 then it is reasonable to hypothesize that gut microbial communities can be manipulated or
 “optimized” during critical illness to increase the chances of achieving desired clinical
@@ -28,6 +63,38 @@ field have been introduced with a limited scientific foundation. Nonetheless, se
 strategies to optimize the microbiome have now been evaluated clinically. Some, such as the
 recent description of fecal transplantation for Clostridium difficile colitis  will not be
 discussed here. Others with obvious relevance to nutrition are discussed..
+
+Over the past two decades, several clinical trials have documented that selective
+decontamination of the gastrointestinal tract and/or the oropharynx improves outcomes in
+critically ill patients while simultaneously promoting the growth of antibiotic resistant
+bacteria  Accepted approaches to decontamination consist of administering a regimen
+of broad-spectrum nonabsorbable antibiotics that theoretically spares the colonic anaerobes,
+and instead targets yeast, gram-negative pathogens ( e.g., the Enterobacteriaceae and
+Pseudomonas aeruginosa), and gram-positive pathogens (e.g., Staphylococcus aureus) in
+the oral cavity or the GI tract. These protocols drastically alter the ICU microbiota  and
+by extension decrease both mortality and the incidence of infectious complications such as
+ventilator-associated pneumonia  Importantly, although these landmark studies
+serve as proof of principle that the intestinal microbiota can be manipulated in the ICU to
+achieve desirable outcomes, no studies utilized molecular techniques to profile the ICU
+microbiome before, during, or after decontamination. As a result, a precise understanding of
+how decontamination protocols work is lacking. Nevertheless, enthusiasm for
+decontamination protocols has diminished due to unacceptable increases in drug-resistant
+bacterial strains within the ICU..
+
+The practice of administering live microbes with putative health benefits to unhealthy
+patients dates back to the early twentieth century. Much of the early work in the field was
+performed at the Pasteur Institute in Paris, where Nobel laureate Eli Metchnikoff and others
+advanced the notion of a differential gut microbiota in health and disease  These
+scientists hypothesized that the protective effects of specific diets in some regions of Europe
+could be attributed to the diet-induced growth of beneficial microbes. Interestingly, this led
+almost instantly to commercial attempts to capitalize upon these ideas, hence the
+development of probiotics. The most commonly used probiotic species are nonpathogenic
+yeasts and organisms from the genera Lactobacillus and Bifidobacterium  The most
+commonly used prebiotics are the naturally occurring oligosaccharides known as fructans
+that are normally found in foods such as garlic, artichokes, and bananas  Another well-
+studied class of prebiotics is resistant starches, such as those found in unripe bananas and
+raw potatoes. As knowledge of the intestinal microbiome expands, it is likely that many
+more potential probiotic species and prebiotic supplements will be identified..
 
 Another possible approach to improve outcomes for critically ill patients is to manipulate the
 intestinal microenvironment to maintain the local microbial ecology of the GI tract
