@@ -1,4 +1,4 @@
-25_PARAGRAPHS
+24_PARAGRAPHS
 
 Several studies have demonstrated modulation of colonic 
 microbiota by prebiotic inulin or inulin-type fructans. Real-
@@ -89,42 +89,6 @@ considered that, at the present time, FMT should be per-
 formed only in research settings for treatment of IBD, IBS 
 and metabolic syndrome  Further research is needed to 
 establish the role of FMT for treating these disorders..
-
-Genetic analysis of the human gut microbiota is com-
-monly performed by high-throughput metagenomic sequenc-
-ing  and  taxonomic  profiling  following  analysis  of  16S 
-ribosomal RNA gene sequences  Full metagenomic 
-sequencing of isolates enables not only taxonomic profil-
-ing, but also can gain insight at the strain level, and into 
-functional parameters such as metabolic pathways and other 
-biological processes, virulence factors, and antibiotic resist-
-ance. However, there is still a limited understanding of indi-
-vidual factors that shape the microbiota on individual level.
-It is known that the overall diversity of the human gut 
-microbiota changes throughout life, increasing steadily from 
-birth until around 12 years of age, remaining relatively stable 
-throughout adulthood, and then declining in later years  
-In adults, 60–70% of the gut microbiome is stable, with the 
-degree of stability varying between phyla  Infections, 
-lifestyle and dietary changes cause microbiome instability, 
-producing major perturbations of the gut microbiome as 
-nicely shown in a high-resolution longitudinal study in two 
-individuals  To study the role of the gut microbiome in 
-health and disease, the scientific world first must address the 
-question: what is a “healthy” microbiome and which factors 
-influence the gut microbiome composition. For addressing 
-this question and defining the intrinsic and extrinsic factors 
-that influence the gut microbiome, Zhernakova et al analyzed 
-the LifeLines Deep cohort utilizing metagenomic shotgun 
-sequencing of the gut microbiome of 1135 participants and 
-more than 200 phenotypic features. This study highlighted a 
-relationship between the microbiome and multiple extrinsic 
-and host factors, comprising 60 dietary factors, 31 intrinsic 
-factors, 19 drug categories, 12 diseases, and 4 smoking cat-
-egories. Together, these factors accounted for 18.7% of the 
-observed inter-individual variation in the gut microbiome 
-with diet being a major modulator of gut microbiome vari-
-ation .
 
 Analysis of the gut microbiome revealed that the use of 
 proton pump inhibitors (PPIs) was associated with a signifi-

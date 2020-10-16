@@ -1,4 +1,4 @@
-18_PARAGRAPHS
+17_PARAGRAPHS
 
 Presence of haustrum and taenia coli in the colon .
 
@@ -262,19 +262,6 @@ by  bacteria  on  hosts  with  different  genetic  backgrounds.  For
 example, Wos-Oxley et al. found that Clostridiales bacteria colonize
 the gut of humanized rats more efficiently than that of humanized
 mice (Wos-Oxley et al., 2012)..
-
-most of the models show inflammation/lesions in the large, instead of
-the small, intestine, which more closely resembles ulcerative colitis
-symptoms (Peloquin and Nguyen, 2013). Moreover, the development
-of  colitis  in  mouse  models  has  been  shown  to  be  affected  by  the
-genetic  background  of  the  used  strain  [i.e.  some  strains  are
-intrinsically more susceptible to developing colitis (Büchler et al.,
-2012)] and the interactions with the gut microbiota [e.g. some models
-do not develop colitis in germ-free conditions (Hudcovic et al., 2001)].
-The  concern  is  not  only  that  symptoms  are  not  concordant  with
-human IBD, but that the underlying mechanism, such as the cross-talk
-between the immune system and the gut microbiota, might not be the
-same in the mouse model being used..
 
 al., 2012). Specifically, humanized rat models have a more similar
 Firmicutes:Bacteroidetes ratio to human donors and could represent

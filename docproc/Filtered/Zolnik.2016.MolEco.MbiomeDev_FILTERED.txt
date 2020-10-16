@@ -1,4 +1,4 @@
-7_PARAGRAPHS
+6_PARAGRAPHS
 
 relationships
 between internal microorganisms and I. scapularis have
@@ -140,28 +140,4 @@ ary informativeness
 identiﬁcation of our
 sequences at the clade level grosso modo, combined with
 the observation of greater divergence patterns of this
-locus in Rickettsia..
-
-Given the overwhelming abundance of Rickettsia
-across life stages and organs, we attempted to dissect
-its subgeneric diversity using phylogenetic criteria and
-found the vast majority of the sequences to cluster
-with bona ﬁde Ixodes tick rickettsial endosymbionts. It
-remains unknown whether this is indicative of a geno-
-mewide pattern of conservation due to a bottleneck or
-a massive selective sweep accompanying symbiosis, or
-a mere localized snapshot of sequence conservation at
-this locus. I. scapularis is known so far to harbour one
-endosymbiotic rickettsial species (Gillespie et al. 2012;
-Kurtti et al. 2015), but ﬁner taxonomic resolution using
-more informative genetic markers at
-the subgeneric
-and strain levels may provide additional insight into
-population-level variation and adaptation to intracellu-
-lar
-life in coexistence with pathogens. Our study
-focused on an area with one of the highest pathogen
-prevalence levels in blacklegged ticks. Future studies
-examining the functional interplay between tick micro-
-biomes and pathogens over a larger geographic region
-are warranted.
+locus in Rickettsia.

@@ -1,4 +1,4 @@
-21_PARAGRAPHS
+20_PARAGRAPHS
 
 proﬁle identiﬁed based on sequencing different
 variable regions. For example, V1V3 amplicons
@@ -49,12 +49,6 @@ quencing with appreciation of both the body
 site to be characterized, the reference data set
 to be compared with, and limitations when
 comparing to other published ﬁndings..
-
-Although 16S sequencing is a cost effective
-approach to perform metagenomics studies,
-whole genome shotgun (WGS) sequencing al-
-lows for deep and reﬁned taxonomic classiﬁca-
-tion to the species and strain level, as well as the.
 
 Before the advent of Next-Gen sequencing, the
 the vaginal microbiome

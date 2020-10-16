@@ -8,19 +8,16 @@ taxonomic units
 (OTUs) as compared with V3V5 (Huse et al. However, re-
 cent studies have shown the caution that must
 be used when performing analysis such as CSTs
-(Koren et al. Vaginal samples collected
-from a cross-sectional survey of gravid subjects
-from 18 wk gestation to term or delivery, and
-all samples were collected by a single physician
-who also conducted the HMP sampling for
-50% of subjects. pared with the HMP nonpregnant reference
+(Koren et al. pared with the HMP nonpregnant reference
 subjects, we found that pregnancy was associat-
 ed with an altered vaginal microbiome and
 marked by a decrease in alpha diversity at the
-subgenus level . Initial studies of the vaginal micro-
-biome showed that African-American women
-have a higher prevalence of vaginal CSTs con-
-sisting of Lactobacillus species (Ravel et al. This study
+subgenus level . Longi-
+tudinal analysis of the vaginal microbiome in
+a small cohort of women across gestation has
+been performed using terminal restriction frag-
+ment length polymorphism (tRFLP) in 100
+gravid women (Verstraelen et al. This study
 shows that the maternal microbiome at birth
 and postpartum may be critical in the establish-
 ment and development of the neonatal micro-

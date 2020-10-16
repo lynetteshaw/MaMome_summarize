@@ -1,0 +1,32 @@
+The aim of the present study was to utilize Illumina
+sequencing of the 16S rRNA gene and inferred meta-
+genomics by open source software PICRUSt (Phyloge-
+netic Investigation of Communities by Reconstruction of
+Unobserved States  to investigate differences in
+microbiome composition and function in the fecal and
+colonic mucosa of mice treated with 5% DSS for 5 days. In addition, DSS largely altered microbial
+activities and their functional pathways..
+
+DNA extraction and quality control
+Approximately 200 mg of each fecal sample was used
+for DNA extraction using ZR fecal DNA extraction kit
+(Zymo Research Corp., Irvine, CA, USA). DNA was quantiﬁed
+using a NanoDrop 2000 spectrophotometer (Thermo
+Scientiﬁc, Wilmington, DE, USA). 5a, Bacteroides
+ovatus, Clostridium perfrigens, Helicobacter hepaticus, and
+Parabacteroides distasonis; g. Desulfovibrio, Escherichia,
+Helicobacter, Clostridium,
+Parabacteroides,
+Bacilli, Allobaculum, Coprobacillus, Bacteroides, rc4-4; and
+unclassiﬁed members of f. Enterobacteriaceae, Clostri-
+diaceae, Bacteroidaceae; o. RF39, RF32, Bacteroidales,
+and Erysipelotrichales were positively correlated with
+the DSS group but negatively correlated with the
+control group. In this regard, it
+was worth noting that more taxa were signiﬁcantly
+associated with the DSS treatment in fecal samples
+compared to the colonic samples; however, several
+taxa including: Bacteroides ovatus, g. Clostridium, rc4-4;
+f. Clostridiaceae, Bacteroidaceae; and o. Bacteroidales,
+RF39, and RF32 were positively associated with the DSS
+treatment in both fecal and colonic mucosa samples.

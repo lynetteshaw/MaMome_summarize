@@ -1,14 +1,28 @@
 relationships
 between internal microorganisms and I. scapularis have
-focused on commonly studied human pathogens. This tick
+focused on commonly studied human pathogens. For
+example, infection of blacklegged ticks by A. phagocy-
+tophilum (the causative agent of granulocytic anaplas-
+mosis in humans) has been shown to induce protein
+expression that increases cold tolerance and, depend-
+ing on weather patterns, may aid in tick survival
+(Neelakanta et al. Furthermore,
+infection with
+B. burgdorferi has been shown to affect questing beha-
+viour and movement of
+this tick, possibly affecting
+survival and/or pathogen transmission (Lefcort &
+Durden 1996). This tick
 experiences a 2-year life cycle, feeding once per life
 stage (larva, nymph, and adult) on vertebrate blood. A total of 6 908 532 sequences passed ﬁlter
-and were assigned taxonomy. The negative control resulted in <0.001%
-(n = 606) of all sequences and was excluded from fur-
-ther analysis. Rarefaction curves from a depth of 1000 to
-100 000 sequences indicated sufﬁcient sequencing cov-
-erage, as demonstrated by observed OTU accumulation
-curves reaching a plateau (Fig. The relative abundance
+and were assigned taxonomy. This resulted in 116 941–
+452 654 (mean = 328 977, SD = 96 960) high-quality,
+merged sequences per sample (Table S1, Supporting
+information). The conditional uncovered probability of
+the samples, on average,
+indicated a high likelihood
+that over 99.9% of the bacterial taxa in the samples was
+covered. The relative abundance
 of non-Rickettsia taxa increased along developmental
 stages (i.e. larvae to nymphs to adults) with the excep-
 tion of adult females, which displayed the highest rela-
@@ -26,10 +40,9 @@ nymphs and adults..
 
 Dermacentor and Haemaphysalis ticks (Piesman & Gage
 2004), Rickettsia amblyommii isolated from the American
-lone star tick Amblyomma americanum (Stromdahl et al. Overall, short
-sequences could not be unambiguously placed on single
-branches, but were rather assigned along a clade, which
-lends a certain degree of conﬁdence. The
+lone star tick Amblyomma americanum (Stromdahl et al. Global placement
+uncertainty was elevated, as captured by the EPA’s
+entropy measure (mean = 0.7767, SD = 0.0699). The
 placement of our sequences on the reference tree can be
 explored interactively on the iToL webserver (http://
 itol.embl.de/tree/286234201192691468834200)..
@@ -37,12 +50,9 @@ itol.embl.de/tree/286234201192691468834200)..
 blacklegged ticks (Moreno et al. Rickettsia are obligate, intracellular bacteria associ-
 ated with eukaryotes,
 including arthropods (Perlman
-et al. The Rickettsia endosym-
-biont of I. scapularis, presumed to be nonpathogenic, has
-been identiﬁed in this tick in previous studies (Noda
-et al. Our study
-focused on an area with one of the highest pathogen
-prevalence levels in blacklegged ticks. Future studies
-examining the functional interplay between tick micro-
-biomes and pathogens over a larger geographic region
-are warranted.
+et al. We interpret this as an indication of sufﬁcient evolution-
+ary informativeness
+identiﬁcation of our
+sequences at the clade level grosso modo, combined with
+the observation of greater divergence patterns of this
+locus in Rickettsia.

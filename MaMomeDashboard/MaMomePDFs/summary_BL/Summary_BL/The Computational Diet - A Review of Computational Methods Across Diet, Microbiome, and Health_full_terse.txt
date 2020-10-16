@@ -1,0 +1,21 @@
+fmicb-11-00393
+
+April 2, 2020
+
+Time: 17:57
+
+# 2
+
+Eetemadi et al. In this article, we summarize the research that has been
+done related to DGMH, with a focus on DGMH data and
+computational methods. For example, when marker gene sequencing is
+used, quantities relating to the amounts of functional genes
+in the microbiome are not directly available (i.e., missing). In a diﬀerent
+study, the classiﬁcation task was to identify healthy vs. unhealthy
+donors given relative OTU abundance data (including species
+level) coming from shotgun metagenomics sequencing of the gut
+(as well as other body sites) (Pasolli et al., 2016;
+Eetemadi and Tagkopoulos, 2018) as well as computer vision
+and natural language processing, to name a few (LeCun et al., Clustering
+algorithms often require the number of clusters to be provided as
+input.

@@ -1,0 +1,182 @@
+Human 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+Yes 
+
+SPECIAL ARTICLE
+
+Disease Models & Mechanisms 
+
+Table 1. The  appendix  is  a  vermiform  organ
+attached to the cecum  and was hypothesized to be a remnant
+of the cecum under selective pressure of diet. C, intestinal
+crypts; G, goblet cells; L, lamina propria; MM, muscularis mucosae; P,
+Paneth cells; SM, submucosa; V, villi. Gross anatomy of the human and the mouse gastrointestinal
+tract. ( M, mucosa; ME, muscularis
+externa; TC, taenia coli. Taenia coli: three longitudinal smooth muscle ribbons along the outside
+of the colon. This number is higher than the one observed in humans: the overall
+stool microbiota richness (i.e. the number of different genera in the
+population) was estimated at 226 bacterial genera across 208 donors,
+using the data from the Human Microbiome Project Consortium (Li
+et al., Meta-analysis of mouse and human fecal microbiota based on published 16S rDNA sequencing data. ( Enterotypes  were  also  identified  in  the  laboratory  mouse  gut
+microbiota  (Hildebrand  et  al., These
+mice, which lack the gene encoding the hormone leptin, which has
+a crucial role in the regulation of the appetite, have increased food
+intake  as  compared  with  wild-type  mice  and  ultimately  become
+obese. Using wild-type and leptin-deficient (ob/ob)
+mice,  Turnbaugh  and  colleagues  proposed  that  the  obese  gut
+microbiome has an increased capacity to harvest energy from the
+host diet (Turnbaugh et al., With respect to the role of the gut microbiota, large
+inter-individual variations among IBD patients regarding genetic
+background, stage of the disease and diet have made it difficult to
+identify clear associations between compositional changes in the gut
+microbiota  and  the  pathology. This said, some prominent changes in the gut microbiota
+have been concomitantly observed in independent IBD studies using
+a  variety  of  techniques  on  different  cohorts,  such  as  reduced
+bacterial  diversity  in  both  Crohn’s  disease  and  ulcerative  colitis
+patients (Andoh et al., In  these  models,  gut  bacterial  diversity  was
+found to be reduced, with certain shifts in gut microbiota profiles
+in  Enterobacteriaceae
+being  observed,  such  as 
+
+increases 
+
+A
+A)
+A)))))))))))))))))))))))))))))
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
+G
+
+V
+
+B
+
+G
+
+V
+
+C
+C
+C
+C
+
+C
+
+C
+
+MT
+ME
+SM
+MM
+
+L V
+
+M
+
+M
+
+L
+
+SM
+
+B
+ 
+
+10 μm
+
+ME
+
+MT
+
+10 μm
+
+MT
+ME
+SM
+MM
+
+L V
+
+SM
+
+L
+
+MM
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+
+ 
+
+A 
+
+Fig. A,B) Histology images of colon cross-sections from control (A) and dextran sulfate sodium
+(DSS)-treated (B) mice. These
+factors  can  be  confounders  but  can  also  be  controlled  for  with
+appropriate experimental design in mouse studies. Even with these variations, chow diet is composed mainly of plant
+materials  and  thus  differs  considerably  to  the  composition  and
+variation in a human daily diet. Murine  models  are  usually  inbred  in  order  to  reduce  the
+phenotypic  variation  that  arises  from  genetic  heterogeneity. 2013), it is
+crucial to control for all contributing factors to increase statistical
+power. 2012)] and the interactions with the gut microbiota [e.g. some models
+do not develop colitis in germ-free conditions (Hudcovic et al., These cases highlight
+how the use of colitis mouse models in gut microbiota research will
+require  controlling  for  additional  variables  beyond  the  common
+confounders (such as host genetic background and environmental
+factors). The intrinsic complexity of gut microbiota research,
+together with the inconsistency of colitis mouse models (chemically
+induced or genetically engineered), makes interpreting the results of
+gut  microbiota  research  from  these  models  in  terms  of  human
+disease far from easy. However, it should be highlighted
+that the host-microbe relationships in these humanized models do
+not necessarily reflect the real relationships seen in humans, because
+the gut microbiota is transplanted into a host with which it has not
+co-evolved. However, the complex interactions between the bacteria composing
+the gut community (Faust and Raes, 2012) suggest that this might
+not be the case. This said, they are one of
+very few methods to assess causality in microbiota research, and
+thus  further  development  and  improvement  of  this  approach  is
+essential. This
+difference  is  thought  to  be  due  to  the  fact  that  the  rat  has  a
+microbiota  that  is  more  similar  to  humans  than  mice  do,  thus
+facilitating the establishment of the inoculated microbiota (Wos-
+Oxley  et  al., In
+addition, significant differences in abundance were found across 320
+out of 376 genera. 2012), which are of industrial relevance. Non-human  primates  are  also  suitable  models  for  human  gut
+microbiota  research,  with  the  obvious  advantage  of  close
+evolutionary relatedness to humans. Acknowledgements
+We thank Naomi Ward, Ilseung Cho, Carles Ubeda, Richard Flavell and 
+Richard Kellermayer for kindly providing the gut microbiota composition data 
+from their studies; and Michael D’Alessandro from Anatomy Atlases
+(www.anatomyatlases.org) and Lutz Slomianka from the Blue Histology website
+(http://www.lab.anhb.uwa.edu.au/mb140/) for the permissions to reproduce
+images.

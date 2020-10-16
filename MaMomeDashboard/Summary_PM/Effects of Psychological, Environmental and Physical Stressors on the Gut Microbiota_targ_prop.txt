@@ -3,7 +3,8 @@ ment was shown to have more of an impact on the developing
 microbiome than direct exposure to antibiotics  This study
 reported higher proportions of Leuconostaceae 
 and Micrococcaceae and Propionibacteriaceae 
-in infants born to antibiotic-treated mothers. Microbial signals in early life shape the repertoire of immune cell development in the BM. Nevertheless, recognition of
+in infants born to antibiotic-treated mothers. This has been shown to impact the immune cell repertoire in the intestine and may affect susceptibil-
+ity to intestinal pathogens. ( Nevertheless, recognition of
 microbe-associated molecular patterns (MAMPs) is likely to be
 important; indeed, intestinal colonization of germ-free mice
 with a combination of E. coli, Staphylococcus xylosus, and

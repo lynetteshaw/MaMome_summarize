@@ -1,4 +1,4 @@
-80_PARAGRAPHS
+77_PARAGRAPHS
 
 and lower Bacteroidetes and Firmicutes than FF infants [2, 
 6]. Breastfeeding is strongly associated with Bifidobacte-
@@ -503,9 +503,6 @@ Finland (Turku).
 
 ↑ prevalence of species belonging to B. longum group at .
 
-amount
-Nutrition base and probiotic strain and .
-
 108 CFU/g
 L. johnsonii La1
 Formula.
@@ -539,9 +536,6 @@ BR3 + B. longum subsp. infantis .
 
 B. bifidum BF3 + B. breve 
 Formula.
-
-and amount
-Nutrition base and probiotic strain .
 
 qPCR reverse transcription quantitative PCR, V vaginal delivery, wk week, ↑indicates significantly increased, ↓ indicates significantly decreased, ↔ indicates no effect
 in situ hybridization, FOS fructooligosaccharides, LGG Lactobacillus rhamnosus GG, IS-Pro interspace profiling, mo month, OTU operational taxonomic unit, qPCR quantitative PCR, RT-
@@ -589,9 +583,6 @@ Freeze-dried powder.
 1.6 × 1010 CFU/d
 L. paracasei A
 Fermented milk.
-
-and amount
-Nutrition base and probiotic strain .
 
 •  The microbiome of BF infants is nurtured by human milk 
 components, including HMO, and differs from that of FF 

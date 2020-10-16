@@ -1,4 +1,4 @@
-11_PARAGRAPHS
+10_PARAGRAPHS
 
 in  the  exercised  group  belonged  to  phyla 
 Tenericutes, Bacteroidetes, and Firmicutes. 
@@ -7,9 +7,6 @@ was a decrease in Erysipelotrichaceae bacterium
 C11_K211 from phylum Tenericutes, which 
 decreased dramatically in exercised compared 
 with seden tary mice..
-
-Species
-Pseudomonas plecoglossicida strain CGMCC 2093.
 
 Pseudomonas plecoglossicida strain R18.
 

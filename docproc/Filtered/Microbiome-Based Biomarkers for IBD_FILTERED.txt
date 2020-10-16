@@ -1,24 +1,4 @@
-23_PARAGRAPHS
-
-There are several recent reviews on sequencing and anal-
-ysis  of  the  microbiome,  although  a  full  discussion  of  these 
-methods  is  beyond  the  scope  of  this  review.28-31  In  brief,  com-
-monly  used  methods  to  study  the  microbiome  use  either 
-amplicon sequencing methods that analyze the partial genome 
-or whole-genome shotgun metagenomic sequencing. Amplicon 
-sequencing methods profile segments of the bacterial genome, 
-typically the hypervariable regions of the highly conserved 16s 
-ribosomal RNA gene. Such profiling can reveal segments (oper-
-ational taxonomic units [OTUs]) that are common to a specific 
-taxon. A limitation of this method is that closely related bacte-
-rial families may share 99% of the hypervariable region, thereby 
-precluding  identification  of  individual  species  and  strains. 
-A  second  commonly  used  microbial  sequencing  method  relies 
-on shotgun metagenomic sequencing, which is high-throughput 
-sequencing of the entire bacterial genome. Through profiling the 
-entire genome, this method allows for resolution at the species 
-and  even  strain  level  in  addition  to  the  definition  of  bacterial 
-function through mapping the genome to reference databases..
+22_PARAGRAPHS
 
 Analysis of both 16s rRNA and metagenomic sequencing 
 has traditionally relied on comparing the relative abundance of 

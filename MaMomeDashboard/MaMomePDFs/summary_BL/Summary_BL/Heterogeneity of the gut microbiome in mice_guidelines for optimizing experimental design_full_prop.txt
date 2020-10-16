@@ -1,0 +1,75 @@
+118
+
+FEMS Microbiology Reviews, 2016, Vol. 2012), modify the nervous system (Hsiao et al. 2013) and metabolize therapeutics into active compounds (Claus et al. Likewise, disease phenotypes
+can be transferred by microbiota transplantation. Experimental variables that influence microbiome analysis. Along the gastrointestinal tract,
+a gradient of pH, bile acid concentrations, oxygen levels and
+antibacterial products exists. Adjacent to the
+mucosa, facultative anaerobes are able to grow because of
+
+Downloaded from https://academic.oup.com/femsre/article-abstract/40/1/117/2467665
+by LIU Libraries user
+on 27 February 2018
+
+120
+
+FEMS Microbiology Reviews, 2016, Vol. Given
+careful experimental design, the microbiome can be controlled
+and manipulated more easily in animal models compared to hu-
+man studies. Although the microbiota similarity between mice and
+humans at the phylum level is remarkable, at the species
+level, many differences are found (Dethlefsen, McFall-Ngai and
+Relman 2007). The age at which the treatment is adminis-
+trated is important since antibiotic treatment of mice at the age
+of weaning results in long-term alteration of their gut microbial
+communities, which does not occur in adult animals (Cho et al. Despite the limitations, the use of antibiotics to study the role
+of bacteria may lead to important insights. Intuitively, one
+would treat such animals with antibiotics to allow the introduc-
+tion of the donor microbiota. Transplantation has also been used in
+mouse models of enteric infections. However, it is generally accepted that colonization
+occurs after exposure to bacteria in the birth canal and by con-
+tact with the skin, feces and other environmental sources. The development of the murine microbiota and the immune system over time. Emerging evidence demonstrates an important role of innate
+signaling in preserving a healthy microbiome through the in-
+teraction of PAMPs with NOD-like receptors (NLRs), Toll-like re-
+ceptors (TLRs) and ILCs (Hooper, Littman and Macpherson 2012). To maintain the
+SPF status, an increasing number of rodents are housed in indi-
+vidually ventilated cages with limited shared environmental ex-
+posure. When comparing different types of lactation, e.g. ar-
+tificial vs. mother’s milk, significant differences in the develop-
+ment of the gut microbiota were observed in the lactating pups
+(Carlisle et al. 2007), but they produce increased adipos-
+ity upon gavage with fecal matter from mice with DIO. Therefore, susceptibility to obesity requires an
+intact mucosal immunity that guides diet-induced changes to
+the microbiota. Diet-induced changes in bile acid composition can also be
+an important cause of modifications to the gut bacterial com-
+munity. Of
+note, because autoclaving may differentially alter the presence
+or structure of PAMPs, the duration and temperature of auto-
+claving or irradiation parameters should also be mentioned in
+publications. (Konturek, Brzozowski and Konturek 2011). This results in stress-induced
+visceral hyperalgesia and increased cortisol levels. However, not all authors currently follow these guide-
+lines and older studies often lack the necessary experimental in-
+formation (Baker et al. Recently, as discussed above, it became clear that part of these
+results may be explained by the presence of 129-derived pas-
+senger mutations which remain associated with the transgene
+locus of interest due to low recombination frequency of associ-
+ated genes at short distance (Kayagaki et al. DESIGNING ANIMAL EXPERIMENTS TO
+INVESTIGATE THE MICROBIOME
+
+Selective breeding
+
+In 1959, Russell and Burch published The Principles of Humane Ex-
+perimental Technique in which they classified humane techniques
+for animal experimentation under the headings of replacement,
+reduction and refinement—now commonly known as the three
+Rs, which became important principles of in vivo experimenta-
+tion. The downside of this approach
+could be increased deviation of results obtained with similar
+strains in other laboratories due to increased genetic drift, which
+may make it more difficult to reproduce experiments at another
+location. However, cohousing of mice with dif-
+ferent genotypes (e.g. wild type and knockout) has been shown
+to change the gut microbial composition, affecting their natu-
+ral immunological responses to a treatment or a disease trigger
+(Garrett et al. This has only a minor logistical, technical and financial im-
+pact on the receiving institution and should be seriously con-
+sidered.

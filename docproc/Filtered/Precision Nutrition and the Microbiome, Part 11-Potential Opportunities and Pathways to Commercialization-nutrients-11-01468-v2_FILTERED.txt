@@ -1,4 +1,4 @@
-48_PARAGRAPHS
+44_PARAGRAPHS
 
 Interventions involving probiotics, prebiotics, synbiotics and dietary ﬁbre also oﬀer opportunities
 to “fertilize” our microbiota. Probiotics are deﬁned as ‘live microorganisms, which when administered
@@ -661,11 +661,6 @@ sequencing and this is something the consumer should be made aware of. For examp
 B and C of F. prausnitzii are not discriminated from each other with 16S rRNA gene sequencing, but are
 identiﬁed by metagenomic and metatranscriptomic sequencing..
 
-Consumer receives a grade of microbiome diversity, a comparison of all six major
-bacterial communities and four major fungal communities to normal levels and a
-strain by strain analysis of bacterial and fungal communities. Consumer receives
-personalized dietary, lifestyle and supplemental recommendations..
-
 Most commercially available 16S rRNA-based tests report on the relative abundance of F. prausnitzii
 with no diﬀerentiation between F. prausnitzii subgroups A, B and C. This may lead to a misleading
 interpretation of results as it has recently been found that diﬀerent subgroups produce butyrate at
@@ -703,13 +698,6 @@ from treatment with probiotics, prebiotics and other dietary components. Hence, 
 tests may oﬀer genetic testing as a way to help consumers, such as lactating mothers in the case of
 FUT2, make better choices and optimise health outcomes..
 
-A relatively “simple” interaction with a single strain of bacteria, measuring the outcome (e.g., glucose
-response) over a number of weeks can give more conﬁdence of “cause and eﬀect.”
-A “complex” study may involve a prebiotic + several strains administered over several weeks or months
-to assess the weight management response and is likely to have higher inter-individual variation and
-therefore may be harder to establish cause/eﬀect: is it the overall diet, or the microbes, or both, having an
-improved eﬀect?.
-
 The type of interaction also determines the conﬁdence and the numbers of times a study should be repeated in
 order to have a level of conﬁdence. However, there are pros and cons, and all types of studies are required.
 A simple or “direct” interaction gives conﬁdence but the overall health beneﬁt (e.g., short-term glucose) will be
@@ -717,25 +705,4 @@ limited. A “complex” interaction is harder to give conﬁdence but comes wit
 (e.g., long-term weight management).
 Levels of Interaction
 •
-•.
-
-A ‘direct’ interaction could be administration of a bacterial strain aﬀecting glucose response.
-An intermediate interaction: speciﬁc prebiotics, ﬁbre etc. with any type of response thus harder to
-determine if it is the nutrients or microbe growth, or both.
-An indirect interaction is the case where a mechanistic interaction between the microbe variant and the
-dietary component on a health biomarker, including disease, is aﬀected to some extent but is also
-inﬂuenced by many other possibly unknown processes, and it may take years for symptoms to manifest.
-This type of interaction may not be fully explained physiologically or may be only
-demonstrated statistically..
-
-(ii) Biological Mechanism and Plausibility
-Considerations: Biological plausibility is a judgement based on the collected evidence of a microbe x diet
-interaction on a phenotype. An example of high biological plausibility could be a single microbial strain
-known to have beneﬁts regarding saturated fat metabolism that leads to lower triglycerides and cholesterol.
-In this respect, Neville and colleagues recently proposed a variant of Koch’s postulates to provide a framework
-to establish causation in the case of a single strain in human microbiota research  On the other hand, a
-vegan diet high in ﬁbre aﬀects the gut ﬂora and over time the symptoms of metabolic syndrome improve—this
-type of interaction may not be fully explained physiologically or may only be demonstrated statistically.
-(iii) Probability Term
-Considerations: Assessing the validity of a putative microbe × diet interaction is generally complex, and as
-knowledge deepens, assessment of its validity will develop.
+•

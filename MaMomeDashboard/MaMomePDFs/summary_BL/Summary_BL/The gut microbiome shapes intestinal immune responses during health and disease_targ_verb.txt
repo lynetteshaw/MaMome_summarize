@@ -1,0 +1,29 @@
+rates of cell turnover in germ-free animals compared with wild-type animals13. Establishing an infection requires the initial task of colonizing the host. For intestinal
+pathogens this can pose a difficult problem as all mammals are stably colonized by a
+consortium of bacteria that can act as a barrier to infection (“colonization resistance”). These studies support the idea that enteric pathogens
+such as S. typhimurium may have developed strategies to counter both the immune system
+and the microbiota during the infectious process..
+
+IBD involves a shift from a regulated intestinal immune responses to one that is driven by
+unrestrained immune-cell activation and pro-inflammatory cytokine production474849. In
+addition, inflammatory lesions are more pronounced in areas of the intestine that contain the
+greatest number of bacteria. This is demonstrated by familial aggregation of IBD and increased concordance for
+IBD in monozygotic twins. Additionally, experimental systems have demonstrated the importance
+of host genetics during induction of IBD. It remains unclear whether dysbiosis directly causes
+disease or is a result of the altered intestinal environment. Treatment of colitic mice with the
+probiotic cocktail, VSL#3, increased the production of IL-10 and the percentage of TGFβ-
+expressing T cells77. Depletion of
+TGFβ-bearing CD4+ T cells from probiotic treated mice before the transfer of lamina
+propria cells abolished the protective capacity of these cells77. Adoptive transfer of the CD4+CD25+ TReg-cell population from mice fed with B.
+infantis inhibited inflammation-induced activation of nuclear factor-κB (NF-κB) in recipient
+mice..
+
+The first demonstration that a single molecule made by a commensal microorganism could
+shape beneficial immune responses was provided by the identification of polysaccharide A
+(PSA) produced by the human symbiont Bacteroides fragilis (Figure 1). The importance of B. fragilis in
+maintenance of a healthy immune response was recently illustrated by the finding that
+colonization by B. fragilis or treatment with purified PSA can protect from the induction of
+experimental IBD66. B. fragilis has been shown to protect its host from inflammatory disease caused by H.
+hepaticus in an animal model of experimental colitis66. The intestinal bacterial composition of IBD patients differs
+greatly from that of healthy controls74. and higher levels of colonization by aerobic
+microorganisms than did non-allergic children from either region85.

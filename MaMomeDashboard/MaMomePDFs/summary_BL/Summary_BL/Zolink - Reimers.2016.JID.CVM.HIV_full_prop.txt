@@ -1,0 +1,126 @@
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+the commonality that relates both BV and vaginal pH to HPV
+infection (independent of HIV) is the RA of certain Lactobacil-
+lus species, most notably L. crispatus. Written informed consent was obtained from all par-
+ticipants, and the study was approved by each local institutional
+review board. Following collec-
+tion, CVLs were refrigerated at <10°C until transported to the
+laboratory on ice within 4 hours, where they were vortexed gent-
+ly and aliquoted under a hood (using sterile conditions) into
+1-mL units and then frozen at −80°C until requested for testing. Detection of HPV DNA
+HPV DNA was detected with a L1 consensus primer MY09/
+MY11/HMB01 polymerase chain reaction (PCR) assay. Distribution of relative abundance (RA) of Lactobacillus species. Histograms of Lactobacillus species as a group (Fig-
+ure 1) and individual species suggested similar cut points of
+low (<7.5%), medium RA. All covariates except study group were time
+dependent. RESULTS
+
+Select characteristics of the cohort at the index visit are shown in
+Table 1. The 338R primer included a unique sequence tag
+to barcode each sample. See “Methods” section for details (substudy population). The median number of CVLs tested for both micro-
+biome and HPV in the current study was 6 (range, 2–11); the
+median follow-up time was 82.8 person-months (range, 15.6–
+137.7 person-months). Figure 2 displays a heat map of the RA data for the 25 most
+abundant genera or species and how they cluster within each
+CST. Heat map of microbiome relative abundances and Shannon diversity index. A, Heat map of the relative percent abundance of bacterial taxa, by community state
+type (CST) and the presence of oncogenic human papillomavirus (oncHPV). Each vertical line represents a person-visit,
+with relative abundance indicated by the shade of green as shown in the key. Reference
+0.34 (.09–1.33)
+0.61 (.06–6.00)
+1.42 (.66–3.04)
+1.84 (.78–4.34)
+1.09 (.37–3.18)
+
+1.28 (.85–1.93)
+. . . Those with an STI on the day of the index visit were
+excluded from this substudy. Abbreviations: BV, bacterial vaginosis; CI, confidence interval; OR, odds ratio. Lactobacillus species against STIs, most of that research
+preceded widespread use of methods for comprehensively
+assessing the cervicovaginal microbiome  The growing ev-
+idence of species-speciﬁc (eg, L. crispatus–related) relationships
+between the cervicovaginal microbiome and HPV infection ar-
+gues against a signiﬁcant role of pH, since production of lactic
+acid is a common attribute of lactobacilli as a group, and our
+data showed that the greatest association with pH was with
+the RA of Lactobacillus species, not for L. crispatus RA or
+CSTs dominated by L. crispatus. On the other hand, bacteriocins produced by
+L. crispatus may have antiviral effects. Bacteriocins are riboso-
+mally synthesized antimicrobial peptides and proteins 
+Relatively little has been written regarding the bacteriocins
+produced by cervicovaginal Lactobacillus species, with most
+of the bacteriocin literature to date focused on Lactobacillus
+species inhabiting the gut. L. crispatus has additionally been
+noted to have potential immunomodulatory activity. For
+
+Cervicovaginal Microbiota and HPV (cid:129) JID 2016:214 1367
+
+Downloaded from 
+
+http://jid.oxfordjournals.org/
+
+ at Yeshiva Univ Libraries AECOM Cardozo YU on October 19, 2016
+
+Table 4. Reference
+0.24 (.07–.81)
+0.14 (.01–1.65)
+
+1.09 (.78–1.53)
+. . . .02a
+.09
+
+.02
+
+.32
+
+.04a
+.02
+
+.12
+
+.63
+
+Reference
+0.54 (.26–1.14)
+0.49 (.25–.96)
+
+. . . Reference
+0.23 (.07–.74)
+0.14 (.01–1.58)
+
+. . . 1.11 (.54–2.29)
+1.10 (.51–2.41)
+
+.03a
+.10
+
+.04
+
+.09
+
+.58
+
+.03a
+.01
+
+.11
+
+.77
+
+.81
+
+All models were adjusted for age, study group, highly active antiretroviral therapy use, number of recent sex partners, smoking status, condom use, lifetime sex partners, Trichomonas vaginalis
+infection in the past 6 months, Candida infection in the past 6 months, or other sexually transmitted infections (STIs) in the past 6 months. In summary, our results suggest a beneﬁcial effect of L. crisp-
+atus on the burden of HPV in HIV-infected and HIV-uninfected
+women that is unrelated to pH. Further research to better un-
+derstand these relationships is strongly warranted, including
+large prospective cohort studies and laboratory research to un-
+derstand the mechanisms that underlie the relation of the cer-
+vicovaginal microbiota with HPV infection. The WIHS is funded primarily by the NIAID, with additional
+co-funding from the Eunice Kennedy Shriver National Institute of Child
+Health and Human Development, the NCI, the National Institute on
+Drug Abuse, and the National Institute of Mental Health. WIHS data collection is also supported by
+UL1-TR000004 (UCSF CTSA) and UL1-TR000454 (Atlanta CTSA). All other au-
+thors report no potential conﬂicts.

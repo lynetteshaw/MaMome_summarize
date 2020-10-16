@@ -1,41 +1,36 @@
 Several studies have demonstrated modulation of colonic 
-microbiota by prebiotic inulin or inulin-type fructans. and 
-F. prausnitzii in obese women  In healthy adults with 
-mild constipation, inulin-type fructans increased the relative 
-abundance of Anaerostipes, Bilophila and Bifidobacterium 
-in feces, and reduced the abundance of Bilophila  Dif-
-ferences in selectivity for the fermentation of several car-
-bohydrate substrates (lactulose, galacto-oligosaccharides, 
-sugar beet pectin and apple fiber) were found between the . Clostridium XIVa
+microbiota by prebiotic inulin or inulin-type fructans. Real-
+time  polymerase  chain  reaction  (PCR)  identification  of 
+selected bacterial species in the feces of human volunteers 
+after inulin ingestion showed that the prevalence of Fae-
+calibacterium prausnitzii and two Bifidobacterium species, 
+B. adolescentis and B. bifidum, increased significantly  
+In a placebo-controlled study, dietary inulin-type fructans 
+increased the relative abundance of Bifidobacterium spp. Clostridium XIVa
 E. halli R. hominis
-Anaerostipes . These included 
-modulation  of  goblet  cells  to  enhance  mucosal  barrier 
-function  a direct protective effect on intestinal barrier 
-function  and inhibiting adherence of enteropathogenic 
-Escherichia coli to Caco-2 enterocyte and Hep-2 epithelial 
-cells . The effects of butyrate on the human colonic mucosa 
+Anaerostipes . Additional described effects of prebiotics include reduc-
+ing  toxins  produced  from  protein  metabolism  in  urine 
+(p-cresol and ammonia) and serum (p-cresyl sulphate) 
+ and increasing calcium absorption in adolescents [30, 
+31]. Prebiotics may also exert beneficial effects on host 
+physiology which are independent of the microbiota as dem-
+onstrated by in vitro experiments for GOS. The effects of butyrate on the human colonic mucosa 
 were examined following administration of butyrate enemas 
 at physiologically relevant concentrations in healthy volun-
-teers. Transcription analysis of microbiome revealed that 
-butyrate induced differential expression of multiple genes 
-involved in fatty acid oxidation, electron transport chain and 
-oxidative stress pathways  In addition, butyrate led to 
-dose-dependent decreases in visceral sensitivity  How-
-ever, butyrate enemas administered to patients with UC in 
-clinical remission had relatively minor effects on inflamma-
-tory and oxidative stress parameters, although the selection 
-of patients with chronically mild levels of inflammation and 
-oxidative stress may have limited the scope of this study . This study highlighted a 
-relationship between the microbiome and multiple extrinsic 
-and host factors, comprising 60 dietary factors, 31 intrinsic 
-factors, 19 drug categories, 12 diseases, and 4 smoking cat-
-egories. Results suggested that PPIs 
-diminished the gastric acid barrier, as species found in the 
-oral microbiome of PPI users were more abundant in the gut 
-than in non-users  It is increasingly observed that the 
-use of PPIs is associated with an increase in the incidence of 
-enteric infections like Clostridium difficile and Campylobac-
-ter. Fiber-degrading bacteria include Ruminococcus 
+teers. This adverse 
+effect of PPIs on bacterial diversity was greater than for any 
+other drug class, including antibiotics. Given the profound effect of PPIs on the gut microbiome 
+and the fact that over 11% of population in The Netherlands 
+and other European countries are using PPIs on prescription 
+(not including over the counter use of PPIs) implies a major 
+PPI-dependent influence on the gut microbiome taxonomy 
+and function on a populational scale..
+
+The human gut microbiota contains bacteria that are ben-
+eficial to the host, and bacteria with pathogenic potential, 
+termed ‘pathobionts’  An important role of beneficial 
+bacteria is the metabolic production of SCFAs by cross-feed-
+ing . Fiber-degrading bacteria include Ruminococcus 
 callidus, Ruminococcus albus, Blautia obeum and Prevo-
 tella spp. The bar represents 10 µm (Photo, M. Sadaghian Sadabad). Preterm infants show delayed colonization of the gut 
 microbiota with Bifidobacterium, and have a high preva-
@@ -45,18 +40,10 @@ prevalence of maternal microbiota derived from the vagina
 and intestine (e.g. Lactobacillus, Prevotella and Sneathia) 
 compared with neonates delivered by Caesarean section. Therefore, the maternal microbiome 
 also seems to be important for the development of the neo-
-natal microbiome. Further studies on the role of the maternal 
-microbiome in development of the neonatal microbiome are 
-necessary..
-
-Preclinical studies have shown effects of the gut micro-
-biota on nociceptive reflexes  feeding, emotional and 
-social behavior  and brain neu-
-rochemistry  The gut microbiota is essential for 
-normal social development in the mouse and is implicated 
-in neurodevelopmental disorders including autism spectrum 
-disorder  Germfree mice have an exaggerated 
-stress response compared with control animals. lactis, 
+natal microbiome. These mice 
+also exhibit increased motor activity and lower anxiety-like 
+behavior compared with control mice  Administra-
+tion of the probiotic L. rhamnosus (JB-1) to mice reduced . lactis, 
 Streptococcus thermophiles, and two Lactobacillus spp. produced significant changes in brain activity assessed by 
 functional magnetic resonance imaging (fMRI), in response 
 to an emotional faces attention task. plus Bifidobacterium bifidum produced a significant 

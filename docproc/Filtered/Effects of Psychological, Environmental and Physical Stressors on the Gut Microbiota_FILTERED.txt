@@ -1,4 +1,4 @@
-9_PARAGRAPHS
+8_PARAGRAPHS
 
 Bacterial infections and sepsis are major causes of infant
 mortality worldwide  Due to their underdeveloped im-
@@ -53,19 +53,6 @@ studies indicate that caution needs to be applied when con-
 sidering the use of broad-spectrum antibiotics during labor or
 the perinatal period and perhaps suggest potential beneﬁts of
 coadministering probiotics under these circumstances..
-
-In the experiments above, the effects of antibiotics could
-reﬂect an inﬂuence on the microbiota of the mother, the
-neonate, or both. To assess the impact of the maternal
-microbiota alone, without any inﬂuence from microbial col-
-onization of the pups after birth, Gomez de Ag€uero et al. 
-transiently colonized germ-free dams during gestation with an
-auxotrophic mutant strain of E. coli, termed HA107. This
-model allows microbial colonization to occur only during
-pregnancy so that the dam becomes germ-free again prior to
-giving birth to her germ-free pups. This study revealed that
-maternal Ab-mediated vertical transfer of maternal microbial
-components vastly altered gene expression in the intestine of.
 
 FIGURE 1. Microbial signals in early life shape the repertoire of immune cell development in the BM. A child’s immune system can be modulated by microbial
 signals at various stages in development. Microbial metabolites, such as SCFAs, and Abs carrying microbial molecules can pass from mother to fetus during gestation

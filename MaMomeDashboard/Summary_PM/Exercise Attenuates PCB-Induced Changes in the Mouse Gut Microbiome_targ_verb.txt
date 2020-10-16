@@ -21,15 +21,10 @@ in the present study was 46.8 ± 1.4 g, and
 body weight of exercised mice was approxi­ 
 mately 30% lower. indicated a strong association of 
 the intestinal microbiome with the develop­ 
-ment of obesity. Similar changes were observed 
-in wild­type mice fed a high fat/high poly­ 
-saccharide diet (Turnbaugh et al. In 
-another study, overweight pregnant patients 
-had  reduced  abundance  of  Bifidobacteria 
-and Bacteroidetes and increased abundance 
-of selected Firmicutes (e.g., Staphylococcus) 
-and Proteobacteria (e.g., Enterobacteriaceae) 
-(Santacruz et al. Some 
+ment of obesity. Although  Enterococci  are  commensal 
+bacteria, they are also important nosocomial 
+pathogens  that  cause  bacteremia,  endo­ 
+carditis, and other infections in humans. Some 
 strains are resistant to multiple anti biotics and 
 possess  virulence  factors,  such  as  adhesins, 
 invasins, pili, and haemolysin (Willems et al. Nevertheless, E. faecium isolates from 
@@ -46,4 +41,10 @@ were enriched in obese humans and mice, as
 well as in mice fed a high­fat diet, and noted 
 that  the  abundance  of  Erysipelotrichaceae 
 was  also  increased  in  patients  with  colo­ 
-rectal cancer.
+rectal cancer. Thus, our data are consistent 
+because we observed a decrease in the num­ 
+ber of Erysipelotrichaceae in exercised mice 
+that had lost a substantial amount of body 
+weight;  this  is  associated  with  the  role  of 
+Erysipelotrichaceae in energy production and 
+adiposity (Claus et al.

@@ -1,0 +1,42 @@
+The human vaginal microbiome maintains low diversity in low-pH conditions and
+depends on host sugars as carbon sources, with less access to dietary and exogenous
+nutrients than the gut, skin, or oral cavity. 2C), with Gardnerella
+vaginalis being the most abundant in seven of eight samples 
+and a Shuttleworthia taxon being most abundant in one sample (at 23% relative
+abundance). Most of the reads classiﬁed as L. crispatus or L. iners mapped to a single metagenomic
+assembled genome, with completeness of 95.7% and 97.1% and redundancy of 0% and
+1.4%, respectively..
+
+Highly abundant bacterial taxa were signiﬁcantly associated with community
+composition. While some
+individuals exhibited a relatively stable microbial community over time, others 
+experienced shifts in composition, resulting in a statistically signiﬁcant change in
+Bray-Curtis dissimilarity on PC axis 1 between trimesters ..
+
+FIG 2 Legend (Continued)
+absence of fungi, at the genus level, per sample. C) Evenness between samples dominated by Lactobacillus (n (cid:2) 34 samples) is signiﬁcantly lower than samples dominated by
+Biﬁdobacteriaceae (n (cid:2) 7 samples). ( E and F) There was no change in evenness (E) or phylogenetic diversity (F) throughout pregnancy..
+
+Metabolites have strong associations with vaginal microbial community struc-
+tures. The CVF metabolome as
+assessed by both mass spectrometry methods did not signiﬁcantly differ across trimes-
+ters (LME; P (cid:2) 0.6378 for GC-TOF MS; P (cid:2) 0.3942 for liquid chromatography-tandem
+mass spectrometry [LC-MS/MS]). Genes involved in mannitol metabolism were enriched in
+communities where L. crispatus was highly abundant . In
+this study, we followed the vaginal microbiome through the trimesters of pregnancy for
+18 women, tracking changes in the bacterial communities with longitudinal samples
+and capturing their functional potential with metagenomic sequencing and multiple
+platforms to assess metabolomic proﬁles. The resolution provided by shotgun metag-
+enomic sequencing allowed us to identify species and characterize the functional gene
+content of CVF microbiomes. We aim to establish
+how the metabolome develops in the ﬁrst year of life and how maternal-infant saliva
+and urine metabolomes relate. Because indole-3-lactate can act as a ligand for AhR, we speculate that L. crispatus may. Whole-genome shotgun metagenomics allowed us to begin to address the func-
+tional capacities of these microbiomes. The largest differences between functional
+capacity appeared to be between communities where L. crispatus or G. vaginalis were
+the most abundant bacterial taxon. Increased abundance of mannitol when L. crispatus was present is an important and
+unexpected ﬁnding . Further, metabolomic analysis of
+our CVF samples failed to capture signiﬁcant levels of the mannitol precursor fructose;
+however, previous studies have indicated an appreciable amount of fructose within the
+cervical mucus of humans and the capability of L. crispatus to utilize fructose as a
+carbon source  We speculate that this high extracellular mannitol abundance
+phenotype may underlie the cell’s need to regenerate NAD(cid:5) for use in glycolysis.

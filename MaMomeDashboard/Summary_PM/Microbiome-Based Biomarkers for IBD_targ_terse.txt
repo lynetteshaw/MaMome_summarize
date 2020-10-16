@@ -1,17 +1,17 @@
-There are several recent reviews on sequencing and anal-
-ysis  of  the  microbiome,  although  a  full  discussion  of  these 
-methods  is  beyond  the  scope  of  this  review.28-31  In  brief,  com-
-monly  used  methods  to  study  the  microbiome  use  either 
-amplicon sequencing methods that analyze the partial genome 
-or whole-genome shotgun metagenomic sequencing. At the end of the study, 
-responders’ microbial composition was closer to that of healthy 
-control  patients  than  nonresponders’  microbial  composi-
-tion, an effect that was also separately observed for anti-TNF 
-therapy and exclusive enteral nutrition. Note  that  patients  with  CD  who  had  endo-
+Analysis of both 16s rRNA and metagenomic sequencing 
+has traditionally relied on comparing the relative abundance of 
+various  genera,  species,  and  strains  between  different  groups. Fecal  samples  were  obtained  at  therapy  cessation,  2  months, 
+6 months, and the end of follow-up. Interestingly, although all patients were 
+in clinical remission at study entry, a lower baseline abundance 
+of F. prausnitzii (P = 0.014) and Bacteroides (P = 0.030) pre-
+dicted relapse after therapy cessation in addition to biochem-
+ical markers such as an elevated serum C-reactive protein. . Ribaldone et al42 
+prospectively studied the fecal microbiome in 20 patients with 
+CD initiating adalimumab therapy. Note  that  patients  with  CD  who  had  endo-
 scopic recurrence had a greater abundance of Enterococcus and 
 Veillonella and that those who remained in postsurgical remis-
 sion had a higher abundance of butyrate-producing Firmicutes, 
-Bacteroides,  Prevotella,  and  Parabacteroides. The  PROTECT  cohort  recruited  400  children . Interestingly, 
+Bacteroides,  Prevotella,  and  Parabacteroides. Interestingly, 
 patients with IBD but not with rheumatic disease demonstrated 
 a shift in diversity toward that of the control patients with anti-
 TNF therapy, suggesting that this effect was likely mediated in 
@@ -19,7 +19,4 @@ part  by  resolution  of  intestinal  inflammation  rather  than  di-
 rect effect of the biologic agent.24 When compared to healthy 
 control patients, 14 indicator phylotypes, notably Coprococcus 
 and  R.  inulinivorans,  were  differentially  distributed  between 
-patients with IBD and healthy control patients. All 14 species 
-had a similar abundance to that of control patients at week 30 
-that increased although none of these changes were specific to 
-responders. .
+patients with IBD and healthy control patients.

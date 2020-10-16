@@ -2,47 +2,44 @@ Defects in host genes controlling bacterial homeostasis or al-
 terations of the gut microbiota composition have been associ-
 ated with complex diseases, including inflammatory bowel dis-
 ease (IBD), diabetes mellitus (Pflughoeft and Versalovic 2012)
-and asthma (Maslowski et al. Likewise, disease phenotypes
-can be transferred by microbiota transplantation. 2013)..
+and asthma (Maslowski et al. 2013), it seems likely that bacterial communities
+and not specific bacteria determine susceptibility towards com-
+plex diseases, a concept that has been introduced as the ‘the
+pathobiome’ (Vayssier-Taussat et al. 2013), and fecal microbiota transplantation is
+highly effective for the treatment of recurrent Clostridium difficile
+infection (Van Nood et al. In addition, simply cohousing lean and obese animals prevented
+the obese phenotype and was associated with transfer of Bac-
+teroidales, suggesting a phenotypic impact of horizontal micro-
+bial transfer (Ridaura et al. 2013)..
 
-light on bacterial functionality. In
-addition, the exact impact of the microbial presence on the host
-can be studied using other ‘-omic’ approaches, providing a mul-
-tifaceted view by combining metagenomics with metatranscrip-
-tomics, metaproteomics or metabolomics (Raes and Bork 2009;
-Holmes et al. Important mechanistic insights in colonization resistance, the
-mechanism whereby a microbial community is protected from
-colonization of new and often harmful bacteria, were raised by
-the use of sequential introduction of Bacteroides species into GF
-mice (Lee et al. As in humans, the two most abundant bacte-
+light on bacterial functionality. 2012)..
+
+GF animals were applied in the study of the involvement of
+microbiota in diabetes, rheumatic arthritis and IBD (Bleich and
+Hansen 2012). 2013), showing that colonization of Bacteroides
+is species-specific and saturable. As in humans, the two most abundant bacte-
 rial phyla in C57BL6/J mice are the Firmicutes (60–80% of se-
 quences) and the Bacteroidetes  however, 85% of the
 murine sequences represent species that have not been detected
-in humans (Ley et al. However,
-microbial species seem to be critically adapted to specific hosts. Transplantation has also been used in
-mouse models of enteric infections. 2012), in accordance with the successful treatment
-of human relapsing C. difficile colitis. Conse-
-quently, randomly distributing and cohousing mutant and wild-
-type mice in cages before the experiment could lead to loss of
-phenotype as a result of microbiota transfer (Brinkman et al. In addition, TLR-MyD88 signaling in response to commen-
-sal bacteria critically regulates defensin production by Paneth
-cells (Menendez et al. As in-
-nate sensors, they respond and divide rapidly upon stimulation. Essentially, the
-strong protection observed in Casp1-null mice against a lethal
-lipopolysaccharide challenge was found to be mainly due to this
-inactivating passenger mutation in the Casp11 gene..
+in humans (Ley et al. Importantly, mice with mouse mi-
+crobiota conferred better protection against Salmonella infection
+than those with human microbiota. Together, these data sug-
+gest a highly specific coexistence and mutual interaction be-
+tween species-associated microbiota and the host immune sys-
+tem, and that microbiota–host interactions in humans cannot
+be completely mirrored in ‘humanized’ mice..
 
-Besides strain and gender differences, investigators have
-studied the effects of the allelic absence of specific genes on
-the intestinal microbiota by comparing knockout with wild-type
-mice. For example, phenotypic differences between TLR-
-deficient C57BL/6J mouse colonies mainly reflected a diver-
-gence of the microbiota after extended isolated breeding of the
-colonies (Ubeda et al. Taken together, microbiota composition in genetically modified
-mice may superimpose on the genetic effect causing a change
-in host physiology..
-
-Variation in the microbiological environment between research
-institutions or commercial breeding facilities is a confounding
-factor; however. the exact contribution to experimental out-
-comes is poorly understood.
+Although considerable literature exists about microbiota
+transfer into GF animals, little is known about transferring mi-
+crobiota into animals with non-GF intestines. However, antibiotic treatment is
+not necessary to establish an exogenous microbiota (Manichanh
+et al. In addition, bacterial metabolites such as short-chain fatty acids
+are well-known regulators of the host immune response (Macia
+et al. Mice deficient in Nod2 are not
+able to control Helicobacter hepaticus infection. Of high importance in orchestrating
+intestinal barrier function and innate sensing are ILCs, which
+are the resident immune cell regulators at epithelial surfaces
+that share many of the CD4+ and CD8+ T-cell functions (Son-
+nenberg and Artis 2012). The most convincing difference between cages is driven
+by Helicobacter spp., 2002); however,
+it is difficult to establish which is cause or consequence.

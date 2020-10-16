@@ -66,6 +66,14 @@ for bac in blist[2:]:
 
 bacwords = [word for word in bacteria if (word.isalpha() and len(word) > 1)]
 
+with open('../docproc/Nutrient_keywords.csv') as f:
+    reader = csv.reader(f)
+    nlist = list(reader)
+    
+nutriwords = [word[0].lower() for word in nlist]
+
+keywords = nutriwords + bacwords
+
 def common_member(a, b):
     a_set = set(a)
     b_set = set(b)
@@ -77,7 +85,7 @@ def common_member(a, b):
 
     return commterms
 
-commterms = common_member(bacwords, sumterms)
+commterms = common_member(keywords, sumterms)
 
 
 st.sidebar.markdown("---")
@@ -92,7 +100,7 @@ if show_raw:
     with open("../docproc/TxtData/" + raw_name) as f:
         raw = f.read()
         rawterms = set(raw.split(" "))
-        rawcommterms = common_member(bacwords, rawterms)
+        rawcommterms = common_member(keywords, rawterms)
     st.write(raw)
     st.sidebar.write(" ")
     st.sidebar.write("### Bacteria Terms Appearing in Raw Text")

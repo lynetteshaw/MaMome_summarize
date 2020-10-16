@@ -1,60 +1,64 @@
 proﬁle identiﬁed based on sequencing different
-variable regions. Furthermore, the number of Lactobacil-
-lus species detected (and thus relative abun-
-dance) will vary depending on the 16S region
-sequenced, with V1V3 revealing more unique
-Lactobacillus operational
-taxonomic units
-(OTUs) as compared with V3V5 (Huse et al. A) The 16S rDNA gene of bacteria
+variable regions. A) The 16S rDNA gene of bacteria
 contains nine hypervariable regions (V1–V9) that are ﬂanked by conserved regions, which makes this gene an
-ideal target for PCR ampliﬁcation and bacterial classiﬁcation. The dotted line indicates the direction of ampliﬁcation. ( Five distinct community state types (CSTs) were
-revealed, and the majority of these CSTs were
-dominated by species of lactobacilli. However, re-
-cent studies have shown the caution that must
-be used when performing analysis such as CSTs
-(Koren et al. Additionally, the vag-
-inal mucosa increases in thickness and cervical
-secretions increase, which causes the underlying
-smooth muscle cells to hypertrophy and relax
-the connective tissue. The utilization of Next-Gen sequencing tech-
-niques to study the vaginal microbiome further
-showed the presence of Lactobacillus species in
-the vagina during pregnancy. Vaginal samples collected
+ideal target for PCR ampliﬁcation and bacterial classiﬁcation. An additional method that may be use-
+ful to examine microbiome communities across
+ethnicities is to use single nucleotide poly-
+morphisms (SNPs) in mitochondrial DNA
+(mtDNA), which provides more precision in
+analysis (Ruiz-Pesini et al. Vaginal samples collected
 from a cross-sectional survey of gravid subjects
 from 18 wk gestation to term or delivery, and
 all samples were collected by a single physician
 who also conducted the HMP sampling for
-50% of subjects. However, direct asso-
-ciations between speciﬁc species of Lactobacillus
-and estrogen levels are lacking and warrant fur-
-ther investigation..
+50% of subjects. All samples were extracted in
+a manner identical to that used by the HMP, and
+sequenced on the same pipelines. And on
+probing at the species level using supervised
+machine learning approaches, such as linear
+discriminate analysis (LDA) effect size (LEfSe)
+and Boruta feature selection, we discovered that
+the vaginal microbiome during pregnancy was
+enriched in L. iners, L. crispatus, Lactobacillus
+jensenii, and Lactobacillus johnsonii (Aagaard
+et al. Al-
+though this insight should be kept in mind for
+future studies, this study had only two subjects
+with advanced maternal age (Walther-
+Anto´ nio et al. Intriguingly, the investigators found
+that the presence of lactobacilli did not distin-
+guish term (.37 wk) from preterm (,37 wk)
+subjects using Sanger sequencing methods. Despite the
+lack of association of lactobacilli with preterm
+birth, measured alpha diversity was reported as
+diminished when comparing Caucasian term
+and preterm subjects (Hyman et al. 2014), which is in contrast to a previous
+study demonstrating that L. crispatus is domi-
+nant in healthy term pregnancies (Verstraelen
+et al. Moreover,
+although two subjects in the Hyman et al. However, this study included a small sub-
+ject number and did not examine the maternal
+stool postpartum, which would be relevant to
+determine the persistence of the probiotic in
+the maternal microbiome that would provide
+an opportunity for horizontal transmission. This study
+shows that the maternal microbiome at birth
+and postpartum may be critical in the establish-
+ment and development of the neonatal micro-
+biome via horizontal transmission..
 
-However, the aforementioned studies were
-cross-sectional, which allows for the character-
-ization of a pregnancy and gestational age-com-
-mon microbiome signature, but lacks capacity
-for description of the dynamic changes, which
-may occur in an individual over time. Interestingly, only
-16.9% of gravidae that had a lactobacilli-dom-
-inant vaginal microbiome in the ﬁrst trimester
-decreased the prevalence of lactobacilli during
-pregnancy. When the
-stability of the vaginal microbiome was exam-
-ined during pregnancy, the authors noted that
-the vaginal microbiome of gravid subjects shift-
-ed between CSTs dominated by lactobacilli but
-rarely shifted to CST IV, which is marked by a
-diminished abundance of Lactobacillus species
-(Romero et al. Similar ﬁndings
-were found in an independent study by Romero
-et al. However, a sepa-
-rate study by this group also determined that
-bacterial enzymes were not altered in the stool
-of infants based on mode of delivery (Gro¨nlund
-et al. in which the
-intestinal microbiome of an infant was moni-
-tored for 2.5 yr. Our ﬁnding of Fuso-
+When directly examining the intestinal mi-
+crobiome of infants born via cesarean or vaginal
+delivery, culture-based microbiological tech-
+niques have shown differences in the coloniza-
+tion of the neonatal
+intestinal microbiome,
+particularly of Biﬁdobacterium-like bacteria,
+Lactobacillus-like bacteria, and Bacteriodes fra-
+gilis (Gro¨nlund et al. Our ﬁnding of Fuso-
 bacteria to be a relatively abundant taxon in the
 placenta supports the hypothesis of hematoge-
 nous spread from the oral cavity to the placenta
-(Aagaard et al.
+(Aagaard et al. 2014), and this theory is further
+buttressed by the ﬁnding of bacteria in cord
+blood of normal pregnancies (Jime´nez et al.

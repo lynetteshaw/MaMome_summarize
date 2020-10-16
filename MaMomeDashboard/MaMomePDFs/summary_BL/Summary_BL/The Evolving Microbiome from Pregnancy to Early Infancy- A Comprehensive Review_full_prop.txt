@@ -1,0 +1,75 @@
++34-958-246187
+† All the authors are the members of SAMID Network. Hence, the microbiome modulates the
+inﬂammatory mechanisms related to physiological and pathological processes that are involved in
+the perinatal progress through diﬀerent mechanisms. In addition, we approach some speciﬁc
+pathological situations during the perinatal periods, as well as the inﬂuence of the type of delivery
+and feeding. Keywords: microbiome; pregnancy; fetus; placenta; newborn; infancy; critical illness; sepsis; allergy
+
+1. In addition, changes in speciﬁc pathological infancy situations have also been revised. However, published data
+are not consistent, since a number of factors might inﬂuence the microbiota proﬁle such as the diet,
+antibiotic, or other supplement intakes, as well as the methodology of research. Therefore, a holistic
+approach is needed to understand all this information. Alpha-diversity changes in gut microbiota during pregnancy. Normal changes in
+the vaginal ﬂora during pregnancy are transitions to another Lactobacillus community, and this stability
+would protect against ascending infections through the genital tract. It has
+been hypothesized that pregnancy creates a nutrient environment that is more favorable to some
+sensitive strains  The presence of pathogenic bacteria Porphyromonas gingivalis and Aggregatibacter
+actinomycotemcomitans in gingival sulcus were signiﬁcantly higher during early and middle stages
+of pregnancy compared to non-pregnant women  The oral alpha-diversity index was higher
+in the third trimester compared to non-pregnant women, and this may be related to the increase of
+progesterone and estradiol. One underlying mechanism refers to estrogens being substituted
+for vitamin K in bacterial anaerobic respiration, especially for black-pigmented Bacteroides such as
+Bacteroides melaninogenicus and Prevotella intermedia 
+
+2.4. They concluded that while there were distinctive microbial signatures
+
+Nutrients 2020, 12, 133
+
+6 of 21
+
+in oral and vaginal samples, they did not ﬁnd a characteristic placental microbiota, evidencing a sterile
+environment  Therefore, conclusions remain unachievable, and more studies are needed in
+this area. Changes in the Microbiome Related to the Type of Delivery
+
+There is great controversy in the scientiﬁc community about the relationship of the meconium
+and infant gut microbiota proﬁle, and the type of delivery. In accordance, epidemiological data show that atopic diseases appear more often in infants
+born by C-section than after vaginal delivery 
+
+Furthermore, bacterial richness and diversity were lower in the infant gut of babies born after
+elective C-section and higher in emergency C-section, suggesting that colonization may be aﬀected
+diﬀerently in both situations. It is important to highlight that emergency C-section and vaginal delivery
+labor are frequently accompanied by rupture of fetal membranes, and exposing the fetus to maternal
+vaginal bacteria 
+
+Importantly, C-section may decrease the colonization of milk-digested bacteria including the
+genus Lactobacillus in newborns during the ﬁrst months of life  In addition, the mode of delivery
+has a relevant impact on the microbiota composition of colostrums and milk  which also may
+be inﬂuenced by antibiotics administrated during C-section. might be related to a pro-inﬂammatory status in
+these pregnancies. Thus, the higher sensitivity of fetal intestinal tissue to inﬂammatory stimuli may
+induce labor due to an immune-mediated reaction. Nutrients 2020, 12, 133
+
+9 of 21
+
+Finally, a number of bacteria, viruses, and protozoa infections have been associated with pregnancy
+complications. To our best knowledge, only one study has analyzed the microbiota in children in a pediatric ICU
+(PICU)  These authors found that the skin, oral, and fecal microbiota diﬀers sharply from critically
+ill children compared with healthy children and adults. On one hand, sedation and endotracheal intubation
+decrease mucociliary clearance and cough, reducing the elimination of microorganisms. On the other
+hand, mechanical ventilation, pneumonia, and acute respiratory distress syndrome (ARDS) favor
+alveolar edema, increasing the amount of nutrients available and decreasing the amount of oxygen
+in some areas. Further studies are needed to tease out if the diﬀerences
+observed in gut colonization in ICU patients predispose to sepsis or if they respond to other factors
+such as the diet, site diﬀerences in initiating and advancing feeds, breastfeeding, the use of antibiotics,
+or interpatient transmission within the neonatal intensive care units 
+
+9. recently showed both lower microbiota alpha-diversity and altered gut microbiota composition
+(an increased number of Firmicutes in detriment of Bacteroidetes) in children with food sensitization in
+early life compared with children without these conditions. Microbiome and Infection in Infants
+
+The role of microbiome diversity and its variations in the incidence and susceptibility to infection
+has also aroused great interest beyond the neonatal period. As described in the neonatal period, in most infectious diseases
+scenarios, a decrease in alpha and beta diversity of the microbiota seems to be present. Regarding
+respiratory infections, diversity of the oropharyngeal and nasopharyngeal microbiota in children
+with pneumonia was lower compared with healthy controls. All authors have read and agreed to the published version of the manuscript. Funding: This research was funded by the PN I+D+I 2008–2011 (Spain), ISCIII- Sub-Directorate General for
+Research Assessment and Promotion and the European Regional Development Fund (ERDF), RETICS Maternal
+and Child Health and Development Network, SAMID Network, Ref. Translational Research Network for Pediatric
+Infectious Diseases (RITIP), Madrid, Spain. Conﬂicts of Interest: The authors declare no conﬂict of interest.

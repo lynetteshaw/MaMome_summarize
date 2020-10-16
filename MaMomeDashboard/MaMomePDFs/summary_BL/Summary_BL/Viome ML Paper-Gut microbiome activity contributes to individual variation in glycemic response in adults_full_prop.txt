@@ -1,0 +1,86 @@
+bioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. http://dx.doi.org/10.1101/641019
+
+The copyright holder for this preprint
+
+doi: 
+
+. 1A
+
+1B
+
+1D
+
+1C
+
+1E
+
+2
+
+Figure 1: Study Design and Population 
+Characteristics
+
+1A. The study cohort had 550 adult participants 
+ Each study participant provided 
+a stool sample, filled out questionnaires, and 
+made an office visit. At the end of the study, all the 
+data streams were fused, pre-processed, and 
+analyzed as described in this paper. 1B. Age distribution with mean of 43.8 years (SD 
+12.115). 1E. Waist-to-hip ratio distribution with mean of 
+0.901 (SD 0.076) for men and 0.832 (SD 0.071) 
+for women. The  distribution  of  macronutrients  (Figure  2C)  shows  the  coverage 
+of the provided meals within the space of macronutrient proportions. This visualiza-
+tion helped the study administrators to visually inspect the data and 
+ensure that data was properly captured and lined up. Free meals that were within 30 
+mins  were  merged,  and  those  within  90  minutes  of  each  other  dis-
+carded. The actual iAUC values for all meals, the repeated meals from Figure 
+2D, and the glucose drink are shown in Figure 3A. 
+
+Figure 3B was constructed after modeling iAUC with standardized 
+macronutrient values (i.e., z-scores). Meals 
+with similar composition “types” 
+were distributed across the sched-
+ule, and schedule days 1 and 8 were 
+repeated meal days. 2E. Data collected for a single par-
+ticipant over 2 days (out of 14). The 
+red histogram next to sleep bars is 
+the tracked physical activity. 2A
+
+2B
+
+2E
+
+Gut microbiome activity contributes to individual variation in glycemic response in adultsbioRxiv preprint first posted online May. 19, 2019; 
+(which was not peer-reviewed) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. Our experimental de-
+sign calls for a multilevel model because of this repetition; each PPGR 
+observation is at a lower level nested within one person and within one 
+meal (higher levels), in a crossed or fully factorial experimental design 
+(see Figure 4A). We removed effects not significant 
+by likelihood ratio test at p<.05. 15  scores  showed  a  significant 
+association taken alone and were tested in the full model. Several of the significant predictors were microbiome scores. One 
+of the scores, named microbiome balance, is an aggregate assessment 
+of  microbiome  balance  quantifying  overall  beneficial  and  harmful 
+activities (based on the literature), as well as some diversity metrics. The fucose metabolism pathways activity score considers expres-
+sion levels of all the genes that encode enzymes known to carry out 
+
+5
+
+biochemical reactions that result in processing and catabolic conver-
+sions of fucose – a glycan that microbes may obtain from the host’s 
+gut lining mucosal layer, or food components. 3B. Marginal effect of macronutrients on glucose response over time, across all meals, across all participants. X axis is the mean absolute difference in iAUC. 3D. Examples of individual variation in glycemic response. Averaging across 5 such random train/test splits of the data, 
+
+the model achieves R=.80 (R2=.64) on training data, and R=.64 
+(R2=.40) on held-out test data. The two meals where intra-person 
+variability  is  close  to  inter-person  variability  are  meals  that  contain 
+little to no carbohydrates. This may 
+explain its association with higher PPGR. 4B. Fixed effect estimates for all predictors included in the 
+final model. In the case of indole acetate production, the result 
+shows that when such pathways score “High” in activity, the glycemic 
+response  to  the  given  food  is  lower. Glutamine  production  pathways  score,  when  “Low,”  showed  a 
+direct relationship with higher PPGR. Although it is challenging 
+to  delineate  causal  mechanisms,  there  may  be  functional  patterns 
+
+9
+
+that connect the significant scores with gut health, intestinal barrier 
+integrity,  and  inflammation. We seek to confirm and validate these mechanisms.

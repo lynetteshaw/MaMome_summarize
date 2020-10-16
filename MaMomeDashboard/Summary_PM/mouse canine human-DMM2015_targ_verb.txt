@@ -1,12 +1,15 @@
-Presence of haustrum and taenia coli in the colon . Another difference is the presence of transverse folds
-along the length of the colonic mucosa in humans, whereas these
-folds are restricted to the cecum and proximal colon in mice. M, mucosa; ME, muscularis
-externa; TC, taenia coli. D is reproduced from the
+Presence of haustrum and taenia coli in the colon . Gross anatomy of the human and the mouse gastrointestinal
+tract. ( (E) Cross-section of a human colon, which has a thicker muscular wall and
+mucosa compared with the mouse colon (D). D is reproduced from the
 website http://theses.ulaval.ca/archimede/fichiers/24866/ch07.html with the
 author’s permission. Paneth cells
 secrete  antimicrobial  compounds  into  the  lumen  of  the  small
 intestine. For instance, Prevotella abundance
-is  known  to  be  low  in  mouse  gut  microbiota  (Hildebrand  et  al., 2013), in which low species-richness individuals
+is  known  to  be  low  in  mouse  gut  microbiota  (Hildebrand  et  al., 2009)..
+
+Recently, a study by Krych et al. 2013),  being  dominated  by
+Lachnospiraceae  and  Ruminococcaceae  or  Bacteroidaceae  and
+Enterobacteriaceae, respectively. 2013), in which low species-richness individuals
 were  found  to  have  more  pronounced  inflammation,  and  to  be
 dominated by Bacteroidetes and Proteobacteria, the same bacterial
 groups that dominated the ‘inflamed’ mouse enterotype..
@@ -14,27 +17,18 @@ groups that dominated the ‘inflamed’ mouse enterotype..
 Obesity
 The influence of diet on the gut microbiota has received increasing
 research attention over recent years. Some common trends
-have emerged from this research. This
-shift  is  driven  by  more  complex  alterations  at  lower  taxonomic
-levels  within  the  phylum  Bacteroidetes:  most  genera,  including
-Prevotella and Roseburia, decreased in abundance (Neyrinck et al., Overall,  this
-highlights  that  the  use  of  diet  intervention  in  murine  models,
-including the use of humanized gnotobiotic mice, can mimic the
-changes in gut microbiota that occur in relation to human diet..
-
-Bacteroides enterotype, which is associated with animal protein, and
-Prevotella enterotype, which links to diets with more carbohydrates
-and simple sugars. On the other hand, a study on wild
-mice by Wang et al. This said, some prominent changes in the gut microbiota
-have been concomitantly observed in independent IBD studies using
-a  variety  of  techniques  on  different  cohorts,  such  as  reduced
-bacterial  diversity  in  both  Crohn’s  disease  and  ulcerative  colitis
-patients (Andoh et al., 2008) or in
-the abundance of Roseburia (Willing et al., Interestingly, mucosal expression
-levels  of  A20  in  humans  have  been  put  forward  as  a  prognosis
-marker  for  response  to  anti-TNF  treatment  in  IBD  patients
-(Vereecke et al., found that Clostridiales bacteria colonize
-the gut of humanized rats more efficiently than that of humanized
-mice (Wos-Oxley et al., More  recently,  another  study  employed  metagenomic
-approaches to compare the gut microbiota composition of humans
-and guinea pigs (Hildebrand et al.,
+have emerged from this research. On the other hand, a study on wild
+mice by Wang et al. Mouse studies have also detected changes in abundance of bacterial
+phylotypes that solely happen in mice, such as of Tenericutes and
+Deferribacteriaceae (Nagalingam et al., 2008) or in
+the abundance of Roseburia (Willing et al., have  shown  that
+hosting wild mice in a laboratory environment on chow diet causes
+a shift in enterotypes, from the original Bacteroides-dominated (with
+microbial metabolism more dedicated to protein degradation) to the
+Robinsoneilla-dominated 
+to  carbohydrate
+degradation) enterotype (Wang et al., Furthermore,  it  was  hypothesized  that  the
+differences  between  mice  and  rats  in  recapitulating  the  human
+donors’  microbiota  is  due  to  the  intrinsic  differences  in  genetic
+backgrounds of the recipient models, which might control for the
+establishment of the transferred microbiota (Wos-Oxley et al., For example, in the study by Yanabe et al.,

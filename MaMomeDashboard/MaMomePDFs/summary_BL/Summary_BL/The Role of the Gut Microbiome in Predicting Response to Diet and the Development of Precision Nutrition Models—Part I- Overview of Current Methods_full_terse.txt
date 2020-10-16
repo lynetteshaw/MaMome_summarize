@@ -1,0 +1,53 @@
+Downloaded from https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmz022/5521427 by LIU Libraries user on 21 October 2019
+
+and react to form a response, and understanding how these
+responses combine to affect human health. Humans:Glucoseandinsulin,SCFAs,
+
+Intervention
+
+Humans(39healthyadults,10
+
+Barleykernelbread(BKB)vs.whitewheat
+
+Kovatcheva-
+
+Mice:PPGR,liverglycogen
+breathhydrogen
+
+weight,fecalpH
+GLP-1,PYY,lipidproﬁles,body
+HbA1c,SCFAs,glucoseandinsulin,
+
+individuals)
+humanfecesfromhighorlowP/B
+(gnotobiotic,colonizedwith
+selectedasRorNR)andmice
+
+ﬂourbread(WWB)for3deach
+
+
+Datcharyetal. Microbiota composition (qPCR) and function
+
+Association
+
+Paired t-test
+
+
+
+(protein expression)
+
+Holscher et al. Dimension reduction and clustering methods in associa-
+tion studies. Mice offer a model in which differences in the gut microbiota
+may be studied in a controlled experimental context, allowing
+for the determination of causality and development of
+
+mechanistic hypotheses  For example, transplantation
+of isolated strains or communities of bacteria into germ-free
+mice is one of the best models in use to demonstrate causal
+relations between the gut microbiota and host metabolism
+ This approach has been used in studies such as
+Kovatcheva-Datchary et al. To get a full picture of the
+individual that captures this complexity requires researchers
+to learn how to design, conduct, and analyze studies that
+focus on the detailed characterization of the individual and
+their metabolic phenotype.

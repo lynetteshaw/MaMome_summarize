@@ -5,20 +5,14 @@ ease (IBD), diabetes mellitus (Pflughoeft and Versalovic 2012)
 and asthma (Maslowski et al. In addition, simply cohousing lean and obese animals prevented
 the obese phenotype and was associated with transfer of Bac-
 teroidales, suggesting a phenotypic impact of horizontal micro-
-bial transfer (Ridaura et al. ILCs regulate barrier integrity and therefore the direct physical
-border between microbiome and underlying lamina propria cells
-through secretion of cytokines such as tumor necrosis factor and
-interferon..
+bial transfer (Ridaura et al. This suggests that bacteria may play a protective
+role in the metabolism of DSS, or that GF mice respond less ef-
+ficient because of their immature intestinal immune system. Together, these data sug-
+gest a highly specific coexistence and mutual interaction be-
+tween species-associated microbiota and the host immune sys-
+tem, and that microbiota–host interactions in humans cannot
+be completely mirrored in ‘humanized’ mice..
 
-Unexpectedly, individual mice from certain strains, for ex-
-ample C3HRI, DBAJR and WSB, appear to be more similar in their
-microbiota than other strains such as C57BL6/J (Friswell et al. Essentially, the
-strong protection observed in Casp1-null mice against a lethal
-lipopolysaccharide challenge was found to be mainly due to this
-inactivating passenger mutation in the Casp11 gene..
-
-Besides strain and gender differences, investigators have
-studied the effects of the allelic absence of specific genes on
-the intestinal microbiota by comparing knockout with wild-type
-mice. the exact contribution to experimental out-
-comes is poorly understood.
+Although considerable literature exists about microbiota
+transfer into GF animals, little is known about transferring mi-
+crobiota into animals with non-GF intestines.

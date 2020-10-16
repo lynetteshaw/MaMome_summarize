@@ -1,18 +1,15 @@
 proﬁle identiﬁed based on sequencing different
-variable regions. Furthermore, the number of Lactobacil-
-lus species detected (and thus relative abun-
-dance) will vary depending on the 16S region
-sequenced, with V1V3 revealing more unique
-Lactobacillus operational
-taxonomic units
-(OTUs) as compared with V3V5 (Huse et al. However, re-
-cent studies have shown the caution that must
-be used when performing analysis such as CSTs
-(Koren et al. pared with the HMP nonpregnant reference
+variable regions. B) Advantages and
+disadvantages to characterizing the vaginal microbiome with V1V3 (includes V2) and V3V5 (includes V4)
+primer sets. pared with the HMP nonpregnant reference
 subjects, we found that pregnancy was associat-
 ed with an altered vaginal microbiome and
 marked by a decrease in alpha diversity at the
-subgenus level . This study
+subgenus level . In a separate study, the
+vaginal microbiome was examined longitudi-
+nally during gestation using the V3V5 amplicon
+of 16S rRNA in 12 subjects that were mostly
+Caucasian (Walther-Anto´ nio et al. This study
 shows that the maternal microbiome at birth
 and postpartum may be critical in the establish-
 ment and development of the neonatal micro-

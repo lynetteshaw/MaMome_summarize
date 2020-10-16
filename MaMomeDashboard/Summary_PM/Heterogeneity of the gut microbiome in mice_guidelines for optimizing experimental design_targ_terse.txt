@@ -2,25 +2,15 @@ Defects in host genes controlling bacterial homeostasis or al-
 terations of the gut microbiota composition have been associ-
 ated with complex diseases, including inflammatory bowel dis-
 ease (IBD), diabetes mellitus (Pflughoeft and Versalovic 2012)
-and asthma (Maslowski et al. As in humans, the two most abundant bacte-
-rial phyla in C57BL6/J mice are the Firmicutes (60–80% of se-
-quences) and the Bacteroidetes  however, 85% of the
-murine sequences represent species that have not been detected
-in humans (Ley et al. 2012), and the generation of antigen-specific populations
-of Treg cells in response to the commensal microbiota is thought. ILCs regulate barrier integrity and therefore the direct physical
-border between microbiome and underlying lamina propria cells
-through secretion of cytokines such as tumor necrosis factor and
-interferon..
+and asthma (Maslowski et al. In addition, simply cohousing lean and obese animals prevented
+the obese phenotype and was associated with transfer of Bac-
+teroidales, suggesting a phenotypic impact of horizontal micro-
+bial transfer (Ridaura et al. 2013)..
 
-Unexpectedly, individual mice from certain strains, for ex-
-ample C3HRI, DBAJR and WSB, appear to be more similar in their
-microbiota than other strains such as C57BL6/J (Friswell et al. Essentially, the
-strong protection observed in Casp1-null mice against a lethal
-lipopolysaccharide challenge was found to be mainly due to this
-inactivating passenger mutation in the Casp11 gene..
-
-Besides strain and gender differences, investigators have
-studied the effects of the allelic absence of specific genes on
-the intestinal microbiota by comparing knockout with wild-type
-mice. the exact contribution to experimental out-
-comes is poorly understood.
+light on bacterial functionality. 2001),
+GF mice develop more severe colitis as compared to convention-
+alized mice. This suggests that bacteria may play a protective
+role in the metabolism of DSS, or that GF mice respond less ef-
+ficient because of their immature intestinal immune system. In addition, TLR-MyD88 signaling in response to commen-
+sal bacteria critically regulates defensin production by Paneth
+cells (Menendez et al.

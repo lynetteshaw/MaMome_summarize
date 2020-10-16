@@ -1,0 +1,117 @@
+in
+
+use
+
+symptomatic
+
+including preterm birth (PTB).1–4 Antibiotics are effective
+in eradicating BV during pregnancy5 and are recommended
+The
+for
+consequences of antibiotic use during pregnancy have been
+poorly studied,7 but
+there are concerns that antibiotic-
+related changes in the vaginal microbiota8 are associated
+with short- and long-term morbidity in infancy and later
+years.9
+
+pregnant women.6
+
+Probiotics might be a safe and effective alternative to
+antibiotics in restoring the imbalance of the vaginal micro-
+biota found in BV. The constituents of the preparation have been shown
+to colonise the vagina in some non-pregnant women. Eligible
+women were aged 16 years and above at consent and
+between 9 and 14 weeks’ gestation as conﬁrmed by the dat-
+ing ultrasound scan. There were no other exclu-
+sion criteria. Participants were instructed to take one
+capsule daily until delivery and self-report compliance at
+each study visit.25
+
+Outcomes
+Our primary outcome was the rate of BV at 18–20 weeks’
+gestation, measured using the Nugent
+(Nugent
+score ≥7 shows presence of BV). After conﬁrming eligibility,
+informed consent was
+obtained and baseline data recorded. Sample size
+A sample size of 366 was calculated to estimate the propor-
+tion of recruited women who would complete the study. The sequence was given to a trial support company,
+Sharp Clinical Services (SCS, Crickhowell, Wales), which
+labelled and packaged the probiotic and placebo capsules
+into identical tamper-proof boxes for the study. Microbiology methodology
+The double-headed swab was separated in the laboratory. The swab used
+to prepare the slide was stored at (cid:1)70 °C and later used in
+the vaginal microbiota DNA proﬁling. A dissimilarity theta-YC
+matrix between the samples was constructed with the same
+subsampling approach averaging over 1000 replicas. to the SOP available
+
+taxonomic units
+
+according
+
+Statistical analysis
+We used descriptive analysis to report baseline characteris-
+tics of trial participants by allocated group. BJOG: An International Journal of Obstetrics and Gynaecology published by John Wiley & Sons Ltd on behalf of
+Royal College of Obstetricians and Gynaecologists
+
+3
+
+Husain et al. Otherwise, we reported the model without adjusting for
+confounders. All analysis was carried out using STATA software ver-
+
+sion 14.31
+
+Patient and public involvement
+Patient representatives provided input into the design, pro-
+tocol development, and conduct of the study. We are planning to dis-
+seminate ﬁndings in the form of a newsletter and PPI feed-
+back session, following primary publication of these results
+through our patient network.34
+
+Results
+
+We screened 1301 pregnant women between 3 May and 1
+July 2016 for their eligibility to participate in the study. A
+total of 997 women were excluded from the trial either
+because they did not meet the inclusion criteria 
+or they declined to participate. Self-reported compliance to the intervention at
+18–20 weeks’ was 93% in the probiotic group
+and 98% in the placebo group. No serious
+adverse events related to the study interventions were
+reported. The 16S rRNA genes were successfully
+ampliﬁed and sequenced from these, and 6714 sequence
+reads were sub-sampled from each sample. Flow chart showing numbers of participants at each stage of the trial. The stability of the microbiota within subjects
+assessed by determining the theta-YC distance between the
+baseline and 18–20 weeks’ gestation samples was not signif-
+icantly different between the probiotic and placebo groups
+(Wilcoxon). Previous observational studies and small-scale
+randomised controlled trials in non-pregnant populations
+have suggested that oral administration of probiotics can
+alter the vaginal microbiota in a signiﬁcant number of
+women where microbial imbalance exists.18–21 It is on this
+basis that several commercial probiotic products are mar-
+keted for the restoration and maintenance of a healthy
+vaginal microbiota in both non-pregnant and pregnant
+women.19,20 Our ﬁndings have not shown any effect on the
+vaginal microbiota with the probiotic preparation used in
+this trial. Fourthly, we had a
+to follow up, which
+higher than expected number lost
+tends to affect the ability to detect a difference. Implications for clinical practice and research
+The current study was part of a trial assessing the feasibility
+of conducting a deﬁnitive trial on PTB prevention with
+probiotics. PTB is the major determinant of adverse new-
+born outcome. The rate of PTB is rising globally45 and cur-
+rent strategies to stem its growth are ineffective.46 The
+association between BV and PTB, and the reported beneﬁts
+of probiotic therapy on BV, mainly in non-pregnant
+women, have raised interest in the role of probiotics in the
+prevention of PTB.47 The observed beneﬁt of dietary probi-
+otic intake on the risk of spontaneous PTB48 supports this
+concept. Completed disclosure of interests forms
+are available to view online as supporting information. Contribution to authorship
+The trial was conceived by MM and MW, and designed by
+SH and KK. ZD coordinated the trial with supervision
+from JA and JD. ST, CC, and BMT provided overall support to the conduct
+and delivery of the trial.
