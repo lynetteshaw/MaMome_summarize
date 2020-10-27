@@ -1,10 +1,10 @@
 # MaMomeFiles
-#MaMomePDFs/.
-#Summary_PM/.
-#Summary_BL/.
-#Converted/.
-#TxtData/.
-#Filtered/.
+MaMomePDFs/.
+Summary_PM/.
+Summary_BL/.
+Converted/.
+TxtData/.
+Filtered/.
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
