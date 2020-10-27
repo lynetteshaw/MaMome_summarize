@@ -1,8 +1,0 @@
-All epithelial surfaces that interface with the external world harbor microbes, but the most
-dense microbial communities are those in the distal intestinal tract. As a result, a precise understanding of
-how decontamination protocols work is lacking. However, during
-phosphate depletion, the PhoB system is derepressed and virulence is activated even to the
-point of tissue invasion, immune activation, and organ failure  The PhoB and analogous
-systems are highly conserved among microbes and offer an opportunity for clinicians to
-understand the precise host signals that trigger microbes to transform from indolent
-colonizers to lethal pathogens rapidly.

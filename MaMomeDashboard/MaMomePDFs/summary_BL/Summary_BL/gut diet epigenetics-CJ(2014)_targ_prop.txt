@@ -1,9 +1,0 @@
-The fluxes through these pools vary by fiber source and microbial pathways dictated by 
-microbial community composition of the lumen. While acetate is a dominant end product of 
-glycolysis, cross-feeding between groups of bacteria occurs and can influence SCFA 
-pools.38 Butyrate forming bacteria condense acetate from butyrl CoA and external pools of 
-acetate.39, 40 Use of external pools of acetate varies among bacterial species and may alter 
-the amount of acetate and butyrate available to the host. In support of this 
-hypothesis, we showed recently that the fecal bacteria from individuals who excrete higher 
-amounts of ITC in their urine after a standard meal of cooked broccoli metabolize more 
-glucoraphanin in-vitro.61.
