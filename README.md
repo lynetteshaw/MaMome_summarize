@@ -2,6 +2,8 @@
 
 This project is a natural language processing pipeline custom built for [MaMome](https://www.mamome.io/),a health startup that provides customized nutrition plans to pregnant women based on their microbiome data.
 
+&nbsp;
+
 ## Objective
 
 The objective of this pipeline is to generate automatic, targeted summaries from .pdfs of biomedical research articles that have been automatically downloaded from ArXiv.org and PubMed. The key information that needs to be gathered are findings related to the relationships between bacteria found in the human biome, their effects on maternal/fetal health, and their associations with different dietary factors.
