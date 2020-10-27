@@ -6,8 +6,9 @@ This project is a natural language processing pipeline custom built for [MaMome]
 
 The objective of this pipeline is to generate automatic, targeted summaries from .pdfs of biomedical research articles that have been automatically downloaded from ArXiv.org and PubMed. The key information that needs to be gathered are findings related to the relationships between bacteria found in the human biome, their effects on maternal/fetal health, and their associations with different dietary factors.
 
-## Approach
+&nbsp;
 
+## Approach
 &nbsp;
 
 1. This pipeline first takes as input academic article .pdfs from an unknown number of journal sources and uses the PDFMiner package to extract text and create .txt files for further processing. 
