@@ -8,6 +8,8 @@ The objective of this pipeline is to generate automatic, targeted summaries from
 
 ## Approach
 
+&nbsp;
+
 1. This pipeline first takes as input academic article .pdfs from an unknown number of journal sources and uses the PDFMiner package to extract text and create .txt files for further processing. 
 
 &nbsp;
@@ -17,7 +19,8 @@ The objective of this pipeline is to generate automatic, targeted summaries from
      - In the *Full Preprocessing* option, the cleaned text is written to a .txt file for subsequent summarization.
 
     - In the *Targeted Preprocessing* option, the paragraphs are filtered using a curated list of key terms such that only those paragraphs containing key terms are retained and written to a .txt file for subsequent summarization.
-    &nbsp;
+   
+   &nbsp;
 
 3. Using .txt files generated from either the *Full* or *Targeted* preprocessing step, [BERT Extractive Summarization](https://arxiv.org/pdf/1906.04165.pdf) is then applied to the text to generate extractive summaries of each article.
 
